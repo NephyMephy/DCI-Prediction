@@ -16,18 +16,14 @@ A machine learning model to predict future Drum Corps International (DCI) scores
  - Blue Devils B: 2022-current
 
 Planned:
-Mandarins
-Carolina Crown
-Bluecoats
-Boston Crusaders
-Phantom Regiment
+Mandarins, Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regimen, and more
 
 ## Usage
 1. Clone the Repo
 2. Install all needed Requirements
 3. Run program.py in your desired IDE
-4. When the Graph pops up, close it and return to terminal
-5. Follow instruction in the Terminal
+4. When the Graph pops up, close it and return to the terminal
+5. Follow instructions in the Terminal
 
 
 ## Requirements
