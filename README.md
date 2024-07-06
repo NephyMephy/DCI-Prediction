@@ -8,12 +8,11 @@ A machine learning model to predict future Drum Corps International (DCI) scores
 - Implements data preprocessing, feature engineering, and machine learning techniques
 - PLANNED: Clean Easy UI for a simple interface to interact with the prediction algorithm.
     - Current: Easy to Use CLI-based system. 
-- Open Class Corps Historical Data from 2014 and onwards can be used due to scoring regulations changing
-    - Additionally, Open Class Corps data of DCI World Class Competitions has been omitted if the score difference between Open Class Finals and World Class Prelims exceeds 3.
+- Open Class Corps Historical Data from 2014 and onwards can be only be used due to scoring regulations changing
 
 ## Corps Status
- - Blue Devils A: 2023-current
- - Blue Devils B: 2022-current
+ - Blue Devils A: 2014-current
+ - Blue Devils B: 2014-current
 
 Planned:
 Mandarins, Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
