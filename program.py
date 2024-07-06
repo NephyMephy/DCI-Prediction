@@ -1,10 +1,12 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 from statsmodels.tsa.arima.model import ARIMA
-import matplotlib.pyplot as plt
 from datetime import datetime
+from statsmodels.tsa.arima.model import ARIMA
+from sklearn.metrics import mean_squared_error
 
 # 1. Data structure and preparation
 def load_and_prepare_data(file_path):
@@ -12,7 +14,6 @@ def load_and_prepare_data(file_path):
     df['Date'] = pd.to_datetime(df['Date'])
     df = df.sort_values(['Season', 'Date'])
     df = df.dropna()
-    
     le = LabelEncoder()
     df['Corps_Encoded'] = le.fit_transform(df['Corps Name'])
     
@@ -34,12 +35,31 @@ def engineer_features(df):
     return df
 
 # 3. Model selection and training
+def evaluate_arima_model(order, corps_data):
+    model = ARIMA(corps_data['Score'], order=order)
+    model_fit = model.fit()
+    mse = mean_squared_error(corps_data['Score'], model_fit.fittedvalues)
+    return mse
+
 def train_arima_models(df):
     models = {}
     for corps in df['Corps Name'].unique():
         corps_data = df[df['Corps Name'] == corps].sort_values('Date')
-        model = ARIMA(corps_data['Score'], order=(1,1,1))
+        
+        best_mse, best_order = float("inf"), None
+        for p in range(3):
+            for d in range(3):
+                for q in range(3):
+                    try:
+                        mse = evaluate_arima_model((p, d, q), corps_data)
+                        if mse < best_mse:
+                            best_mse, best_order = mse, (p, d, q)
+                    except:
+                        continue
+        
+        model = ARIMA(corps_data['Score'], order=best_order)
         models[corps] = model.fit()
+    
     return models
 
 # 4. Prediction function
@@ -68,10 +88,24 @@ def predict_score(models, date, corps_name, df, le):
     if days_since_last < 0:
         raise ValueError(f"Prediction date is before the last known date for {corps_name}")
     
-    forecast = model.forecast(steps=days_since_last+1)
-    predicted_score = forecast.iloc[-1]
+    # Predict from within the season
+    season_data = corps_data[corps_data['Season'] == season]
+    last_known_season_date = season_data['Date'].max()
+    days_since_last_season = (date - last_known_season_date).days
+    forecast_season = model.forecast(steps=days_since_last_season+1)
+    predicted_score_season = forecast_season.iloc[-1]
     
-    return predicted_score
+    # Predict from all data
+    forecast_all = model.forecast(steps=days_since_last+1)
+    predicted_score_all = forecast_all.iloc[-1]
+
+     # Ensure the prediction is not lower than any previous score in the season
+    max_score_season = season_data['Score'].max()
+    predicted_score_season = max(predicted_score_season, max_score_season)
+    predicted_score_all = max(predicted_score_all, max_score_season)
+
+    return predicted_score_season, predicted_score_all
+    20
 
 # 5. Model evaluation
 def evaluate_models(models, df):
@@ -97,8 +131,9 @@ def user_interface(models, df, le):
         corps_name = input("Enter corps name: ")
         
         try:
-            predicted_score = predict_score(models, date, corps_name, df, le)
-            print(f"Predicted score for {corps_name} on {date}: {predicted_score:.3f}")
+            predicted_score_season, predicted_score_all = predict_score(models, date, corps_name, df, le)
+            print(f"Predicted score for {corps_name} on {date} from within the season: {predicted_score_season:.3f}")
+            print(f"Predicted score for {corps_name} on {date} from all data: {predicted_score_all:.3f}")
         except Exception as e:
             print(f"Error: {e}")
 
