@@ -33,7 +33,7 @@ Mandarins, Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regimen, and mor
 - numpy
 - scikit-learn (AKA sklearn)
 - matplotlib
-- [Additional libraries depending on the chosen model, e.g., statsmodels for ARIMA, prophet, or tensorflow for LSTM]
+- statsmodels
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
