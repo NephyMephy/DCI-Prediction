@@ -12,8 +12,8 @@ A machine learning model to predict future Drum Corps International (DCI) scores
     - Additionally, Open Class Corps data of DCI World Class Competitions has been omitted if the score difference between Open Class Finals and World Class Prelims exceeds 3.
 
 ## Corps Status
-Blue Devils A: 2023-current
-Blue Devils B: 2022-current
+ - Blue Devils A: 2023-current
+ - Blue Devils B: 2022-current
 
 Planned:
 Mandarins
