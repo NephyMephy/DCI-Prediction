@@ -13,6 +13,7 @@ A machine learning model to predict future Drum Corps International (DCI) scores
 ## Corps Status
  - Blue Devils A: 2014-current
  - Blue Devils B: 2014-current
+ - Mandarins: 2017-current
 
 Planned:
 Mandarins, Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
