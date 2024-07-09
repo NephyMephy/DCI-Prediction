@@ -92,7 +92,7 @@ models = {corps: train_models(prepare_data(df, corps)) for corps in corps_list}
 
 if __name__ == "__main__":
     while True:
-        date_input = input("Input 'q' to quit or Enter date (YYYY-MM-DD): ")
+        date_input = input("'q' to quit or Enter date (YYYY-MM-DD): ")
         if date_input.lower() == 'q':
             break
         try:
