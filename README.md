@@ -35,6 +35,7 @@ Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
 - scikit-learn (AKA sklearn)
 - statsmodels
 - prophet
+- datetime
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.

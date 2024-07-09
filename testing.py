@@ -4,6 +4,8 @@ from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from prophet import Prophet
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.model_selection import train_test_split
+from datetime import datetime
+
 
 # Load and preprocess data
 df = pd.read_csv('dci_scores.csv')
@@ -87,14 +89,27 @@ def predict_score(date, corps, models):
 corps_list = df['Corps Name'].unique()
 models = {corps: train_models(prepare_data(df, corps)) for corps in corps_list}
 
-if __name__ == "__main__":
-    # User inputs for date and corps name
-    date_input = input("Enter date (YYYY-MM-DD): ")
-    corps_input = input("Enter corps name: ")
 
-    # Check if the corps name entered by the user is valid
-    if corps_input in models:
-        predicted_score = predict_score(date_input, corps_input, models[corps_input])
-        print(f"Predicted score for {corps_input} on {date_input}: {predicted_score}")
-    else:
-        print(f"Corps name '{corps_input}' not found. Please enter a valid corps name.")
+if __name__ == "__main__":
+    while True:
+        date_input = input("Enter date (YYYY-MM-DD): ")
+        try:
+            # Attempt to convert the input string to a datetime object
+            date_object = datetime.strptime(date_input, '%Y-%m-%d')
+        except ValueError:
+            # If an exception is caught, inform the user and continue to the next iteration of the loop
+            print("Invalid date format. Please enter a date in the format YYYY-MM-DD.")
+            continue
+    
+        corps_input = input("Enter corps name: ")
+    
+        if corps_input in models:
+            predicted_score = predict_score(date_object, corps_input, models[corps_input])
+            print(f"Predicted score for {corps_input} on {date_input}: {predicted_score}")
+        else:
+            print(f"Corps name '{corps_input}' not found. Please enter a valid corps name.")
+            continue
+    
+        repeat = input("Do you want to make another prediction? (y/n): ")
+        if repeat.lower() != 'y':
+            break
