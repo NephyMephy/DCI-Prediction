@@ -92,10 +92,16 @@ models = {corps: train_models(prepare_data(df, corps)) for corps in corps_list}
 
 if __name__ == "__main__":
     while True:
-        date_input = input("Enter date (YYYY-MM-DD): ")
+        date_input = input("Input 'q' to quit or Enter date (YYYY-MM-DD): ")
+        if date_input.lower() == 'q':
+            break
         try:
             # Attempt to convert the input string to a datetime object
             date_object = datetime.strptime(date_input, '%Y-%m-%d')
+            # Check if the date is within the specified ranges
+            if date_object.month in range(9, 13) or date_object.month in range(1, 7):
+                print("Predictions are not available for dates between September and June. Please enter a different date.")
+                continue
         except ValueError:
             # If an exception is caught, inform the user and continue to the next iteration of the loop
             print("Invalid date format. Please enter a date in the format YYYY-MM-DD.")
@@ -110,6 +116,4 @@ if __name__ == "__main__":
             print(f"Corps name '{corps_input}' not found. Please enter a valid corps name.")
             continue
     
-        repeat = input("Do you want to make another prediction? (y/n): ")
-        if repeat.lower() != 'y':
-            break
+        continue
