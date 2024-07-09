@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DCI Score Predictor</title>
+</head>
+<body>
+	<h1>DCI Score Predictor</h1>
+	<form method="post">
+		Date (YYYY-MM-DD): <input type="text" name="date"><br>
+		Corps Name: <input type="text" name="corps"><br>
+		<input type="submit" value="Predict Score">
+	</form>
+	{% if prediction %}
+		<h2>Predicted Score for {{ corps }} on {{ date }}: {{ prediction }}</h2>
+	{% endif %}
+	{% if error %}
+		<h2>Error: {{ error }}</h2>
+	{% endif %}
+</body>
+</html>

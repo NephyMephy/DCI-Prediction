@@ -36,6 +36,7 @@ Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
 - statsmodels
 - prophet
 - datetime
+- Flask
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
