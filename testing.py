@@ -76,7 +76,7 @@ def predict_score(date, corps, models):
         combined_pred = max(combined_pred, last_score + expected_improvement)
         
         # Add some randomness to the prediction
-        combined_pred += np.random.normal(0, 0.5)  # Adjust the standard deviation as needed
+        # combined_pred += np.random.normal(0, 0.5)  # Adjust the standard deviation as needed
     
     # Ensure the score doesn't exceed 100
     combined_pred = min(combined_pred, 100)
@@ -87,8 +87,14 @@ def predict_score(date, corps, models):
 corps_list = df['Corps Name'].unique()
 models = {corps: train_models(prepare_data(df, corps)) for corps in corps_list}
 
-# Example usage
-date = '2024-07-13'
-corps = 'Bluecoats'
-predicted_score = predict_score(date, corps, models[corps])
-print(f"Predicted score for {corps} on {date}: {predicted_score}")
+if __name__ == "__main__":
+    # User inputs for date and corps name
+    date_input = input("Enter date (YYYY-MM-DD): ")
+    corps_input = input("Enter corps name: ")
+
+    # Check if the corps name entered by the user is valid
+    if corps_input in models:
+        predicted_score = predict_score(date_input, corps_input, models[corps_input])
+        print(f"Predicted score for {corps_input} on {date_input}: {predicted_score}")
+    else:
+        print(f"Corps name '{corps_input}' not found. Please enter a valid corps name.")
