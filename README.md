@@ -33,8 +33,9 @@ Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
 - pandas
 - numpy
 - scikit-learn (AKA sklearn)
-- matplotlib
 - statsmodels
+- prophet
+- datetime
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
