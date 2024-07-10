@@ -77,8 +77,6 @@ def predict_score(date, corps, models):
         # Ensure prediction is not lower than previous score plus expected improvement
         combined_pred = max(combined_pred, last_score + expected_improvement)
         
-        # Add some randomness to the prediction
-        # combined_pred += np.random.normal(0, 0.5)  # Adjust the standard deviation as needed
     
     # Ensure the score doesn't exceed 100
     combined_pred = min(combined_pred, 100)
