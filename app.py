@@ -9,6 +9,8 @@ def predict():
     if request.method == 'POST':
         date_input = request.form['date']
         corps_input = request.form['corps']
+        if not date_input or not corps_input:
+            return render_template('index.html', error="Both date and corps name are required.")
         try:
             date_object = datetime.strptime(date_input, '%Y-%m-%d')
             if corps_input in main.models:
