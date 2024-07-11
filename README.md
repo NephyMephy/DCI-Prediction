@@ -1,3 +1,6 @@
+The main branch is currently deprecated. Until the Branch is finished and pushed to the main branch.
+
+
 # DCI-Prediction
 A machine learning model to predict future Drum Corps International (DCI) scores based on historical data.
 
