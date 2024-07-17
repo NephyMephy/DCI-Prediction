@@ -9,18 +9,19 @@ A machine learning model to predict future Drum Corps International (DCI) scores
 - Predicts DCI scores for a specified corps on a given date
 - Uses historical data including season, date, corps name, and previous scores
 - Implements data preprocessing, feature engineering, and machine learning techniques
-- PLANNED: Clean Easy UI for a simple interface to interact with the prediction algorithm.
-    - Current: Easy to Use CLI-based system. 
+- Web Based Interface 
 - Open Class Corps Historical Data from 2014 and onwards can be only be used due to scoring regulations changing
 
-## Corps Status (as of 7/9/2024)
+## Corps Status (as of 7/16/2024)
  - Blue Devils A: 2014-current
  - Blue Devils B: 2014-current
  - Mandarins: 2017-current
  - Bluecoats: 2014-current
 
-Planned:
-Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
+## Planned:
+- All World Class and Open Class Corps
+- Score Parser
+- Auto Score Updates
 
 ## Usage
 1. Clone the Repo
@@ -39,6 +40,7 @@ Carolina Crown, Bluecoats, Boston Crusaders, Phantom Regiment, and more
 - statsmodels
 - prophet
 - datetime
+- Flask
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
