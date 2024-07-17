@@ -32,22 +32,13 @@ A machine learning model to predict future Drum Corps International (DCI) scores
 
 
 ## Requirements
-
-- Python 3.8+
-- pandas
-- numpy
-- scikit-learn (AKA sklearn)
-- statsmodels
-- prophet
-- datetime
-- Flask
-
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Run `pip install -r requirements.txt` within the DCI-Prediction directory
 
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
