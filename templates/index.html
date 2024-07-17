@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="schedule.html">Schedule</a>
+    <a href="scores.html">Scores</a>
+    <a href="about.html">About</a>
+</div>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,7 +39,7 @@
             $('#predictionInputs .predictionSet:last').remove();
         }
         </script>
-        {% if predictions %}
+        {% if predictions and prediction_made %}
         {% for corps, date, prediction in predictions %}
             <h2 class="predictionResult">Predicted Score for {{ corps|e }} on {{ date|e }}: {{ prediction }}</h2>
         {% endfor %}

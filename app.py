@@ -21,8 +21,8 @@ def predict():
                     errors.append(f"Corps name '{corps_name}' not found.")
             except ValueError:
                 errors.append("Invalid date format. Please enter a date in the format YYYY-MM-DD.")
-        return render_template('index.html', predictions=predictions, errors=errors)
-    return render_template('index.html')\
+        return render_template('index.html', predictions=predictions, errors=errors, prediction_made=True)
+    return render_template('index.html', prediction_made=False)
     
 if __name__ == '__main__':
     app.run(debug=True)

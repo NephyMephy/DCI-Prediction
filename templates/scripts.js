@@ -46,3 +46,14 @@ function removePredictionInput() {
         predictionInputs.removeChild(predictionInputs.lastChild);
     }
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    const navbarLinks = document.querySelectorAll('.navbar a');
+    const currentUrl = window.location.href;
+
+    navbarLinks.forEach(link => {
+        if (link.href === currentUrl) {
+            link.classList.add('active');
+        }
+    });
+});
