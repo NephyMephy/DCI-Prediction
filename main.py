@@ -89,10 +89,16 @@ models = {corps: train_models(prepare_data(df, corps)) for corps in corps_list}
 
 
 if __name__ == "__main__":
-    while True:
-        date_input = input("'q' to quit or Enter date (YYYY-MM-DD): ")
-        if date_input.lower() == 'q':
-            break
+    num_predictions = input("Enter the number of predictions you want to run: ")
+    try:
+        num_predictions = int(num_predictions)
+    except ValueError:
+        print("Please enter a valid number.")
+        exit()
+
+    predictions_input = []
+    for _ in range(num_predictions):
+        date_input = input("Enter date (YYYY-MM-DD): ")
         try:
             # Attempt to convert the input string to a datetime object
             date_object = datetime.strptime(date_input, '%Y-%m-%d')
@@ -104,14 +110,13 @@ if __name__ == "__main__":
             # If an exception is caught, inform the user and continue to the next iteration of the loop
             print("Invalid date format. Please enter a date in the format YYYY-MM-DD.")
             continue
-    
+
         corps_input = input("Enter corps name: ")
-    
+        predictions_input.append((date_object, corps_input))
+
+    for date_object, corps_input in predictions_input:
         if corps_input in models:
             predicted_score = predict_score(date_object, corps_input, models[corps_input])
-            print(f"Predicted score for {corps_input} on {date_input}: {predicted_score}")
+            print(f"Predicted score for {corps_input} on {date_object.strftime('%Y-%m-%d')}: {predicted_score}")
         else:
             print(f"Corps name '{corps_input}' not found. Please enter a valid corps name.")
-            continue
-    
-        continue

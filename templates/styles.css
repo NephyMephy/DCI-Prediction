@@ -62,3 +62,94 @@ h2 {
         opacity: 1;
     }
 }
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.predictionResult {
+    animation: fadeInUp 1s ease-out;
+}
+
+.predictionBubble {
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    animation: fadeInUp 0.5s ease-out;
+}
+
+.add-prediction {
+    background-color: #28a745; /* Green */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.add-prediction:hover {
+    background-color: #218838;
+}
+
+.remove-prediction {
+    background-color: #dc3545; /* Red */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.remove-prediction:hover {
+    background-color: #c82333;
+}
+
+.title-and-actions {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.predictionSet {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px; /* Space out each prediction set */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.action-button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+}
+
+.add-prediction {
+    background-color: #28a745; /* Green */
+}
+
+.add-prediction:hover {
+    background-color: #218838;
+}
+
+.remove-prediction {
+    background-color: #dc3545; /* Red */
+}
+
+.remove-prediction:hover {
+    background-color: #c82333;
+}

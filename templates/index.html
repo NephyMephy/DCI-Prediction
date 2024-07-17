@@ -5,24 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DCI Score Predictor</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
     <div class="container">
         <h1>DCI Score Predictor</h1>
-        <form method="post">
-            <label for="date">Date (YYYY-MM-DD):</label>
-            <input type="text" id="date" name="date"><br>
-            <label for="corps">Corps Name:</label>
-            <input type="text" id="corps" name="corps"><br>
-            <input type="submit" value="Predict Score">
+        <form method="post" id="predictionForm">
+            <div id="predictionInputs">
+                <div class="predictionSet">
+                    <label for="date[]">Date (YYYY-MM-DD):</label>
+                    <input type="text" name="date[]" required><br>
+                    <label for="corps[]">Corps Name:</label>
+                    <input type="text" name="corps[]" required><br>
+                </div>
+            </div>
+            <button type="button" onclick="addPredictionInput()" class="action-button add-prediction">Add Another Prediction</button>
+            <button type="button" onclick="removePredictionInput()" class="action-button remove-prediction">Remove Last Prediction</button>
+            <input type="submit" value="Predict Scores">
         </form>
-        {% if prediction %}
-            <h2>Predicted Score for {{ corps|e }} on {{ date|e }}: {{ prediction }}</h2>
-        {% endif %}
-        {% if error %}
-            <h2>Error: {{ error|e }}</h2>
+        
+        <script>
+        function addPredictionInput() {
+            $('#predictionInputs').append('<div class="predictionSet"><label for="date[]">Date (YYYY-MM-DD):</label><input type="text" name="date[]" required><br><label for="corps[]">Corps Name:</label><input type="text" name="corps[]" required><br></div>');
+        }
+
+        function removePredictionInput() {
+            $('#predictionInputs .predictionSet:last').remove();
+        }
+        </script>
+        {% if predictions %}
+        {% for corps, date, prediction in predictions %}
+            <h2 class="predictionResult">Predicted Score for {{ corps|e }} on {{ date|e }}: {{ prediction }}</h2>
+        {% endfor %}
         {% endif %}
     </div>
-    <script src="scripts.js"></script>
 </body>
 </html>
