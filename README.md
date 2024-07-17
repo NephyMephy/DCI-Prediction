@@ -1,6 +1,3 @@
-The main branch is currently deprecated. Until the Branch is finished and pushed to the main branch.
-
-
 # DCI-Prediction
 A machine learning model to predict future Drum Corps International (DCI) scores based on historical data.
 
@@ -26,9 +23,8 @@ A machine learning model to predict future Drum Corps International (DCI) scores
 ## Usage
 1. Clone the Repo
 2. Install all needed Requirements
-3. Run program.py in your desired IDE
-4. When the Graph pops up, close it and return to the terminal
-5. Follow instructions in the Terminal
+3. Run app.py in your desired IDE
+4. Open 127.0.0.1:5000 
 
 
 ## Requirements
