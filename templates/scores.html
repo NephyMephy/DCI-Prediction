@@ -3,17 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - Under Construction</title>
+    <title>DCI Scores</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Under Construction</h1>
+    <div class="navbar">
+        <a href="/">Home</a>
+        <a href="schedule.html">Schedule</a>
+        <a href="scores.html">Scores</a>
+        <a href="about.html">About</a>
+    </div>
+    <h1>DCI Scores</h1>
+    <label for="year-select">Select Year:</label>
+    <select id="year-select" onchange="updateChart()">
+        <!-- Options will be populated dynamically -->
+    </select>
+    <canvas id="scoresChart" width="800" height="400"></canvas>
+    <script src="scripts.js"></script>
 </body>
-<div class="navbar">
-    <a href="/">Home</a>
-    <a href="schedule.html">Schedule</a>
-    <a href="scores.html">Scores</a>
-    <a href="about.html">About</a>
-</div>
-
 </html>
