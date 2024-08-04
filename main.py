@@ -18,6 +18,14 @@ def prepare_data(df, corps):
     corps_data = df[df['Corps Name'] == corps].sort_values('Date')
     return corps_data
 
+
+# Function to get previous scores within the same year
+def previous_scores(date, corps):
+    date_object = pd.to_datetime(date)
+    year = date_object.year
+    previous_scores = df[(df['Corps Name'] == corps)]
+    return previous_scores
+
 # Train models for each corps
 def train_models(corps_data):
     # Exponential Smoothing
