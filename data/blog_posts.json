@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "2025 DCI Season Preview: What to Expect",
+        "excerpt": "As we approach the 2025 DCI season, we take a look at the top corps to watch, new rule changes, and predictions for this year's championship race.",
+        "content": "The 2025 DCI season promises to be one of the most competitive in recent memory. With several corps making significant staff changes and new talent emerging from the college ranks, fans can expect an exciting summer of competition.\n\nKey storylines to watch include the Blue Devils' quest for another championship, the Cavaliers' return to form under new leadership, and the continued rise of several Open Class corps who are pushing the boundaries of innovation.\n\nNew rule changes this year include updated electronics policies and revised judging criteria that emphasize musical excellence and visual impact. These changes are designed to encourage creativity while maintaining the traditional values that make drum corps special.",
+        "category": "season",
+        "author": "DCI Insider",
+        "date": "2025-08-01",
+        "readTime": "5 min read",
+        "featured": true,
+        "image": null
+    },
+    {
+        "id": 2,
+        "title": "The Evolution of Drum Corps Scoring: A Statistical Analysis",
+        "excerpt": "Diving deep into 60+ years of DCI scoring data to uncover trends, patterns, and the changing nature of competitive excellence.",
+        "content": "Since the inception of DCI in 1972, scoring has evolved dramatically. What started as a simple point system has transformed into a sophisticated evaluation method that captures the artistry and athleticism of modern drum corps.\n\nOur analysis of over 50 years of scoring data reveals fascinating trends: average scores have steadily increased over time, the gap between first and last place has narrowed significantly, and certain corps have demonstrated remarkable consistency in their competitive excellence.\n\nThe introduction of decimalized scoring in the 1980s was a watershed moment, followed by the major scoring overhaul in 2000 that established our current 100-point system. Each change reflected the evolving sophistication of the activity and the need for more precise evaluation methods.",
+        "category": "analysis",
+        "author": "Data Analyst",
+        "date": "2025-07-28",
+        "readTime": "8 min read",
+        "featured": false,
+        "image": null
+    },
+    {
+        "id": 3,
+        "title": "Blue Devils Dynasty: Analyzing Their Decade of Dominance",
+        "excerpt": "How the Blue Devils established themselves as the most successful corps of the 2010s through innovation, talent, and consistent excellence.",
+        "content": "The Blue Devils' success in the 2010s was unprecedented in modern DCI history. With seven championships in a ten-year span, they established a new standard for sustained excellence in competitive drum corps.\n\nKey factors in their dominance include their innovative approach to show design, exceptional talent recruitment and development, and a organizational culture that emphasizes both artistic excellence and competitive success.\n\nTheir influence extends beyond competition results - many of their design innovations have been adopted throughout the activity, and their alumni have gone on to leadership positions with corps across the country.",
+        "category": "corps",
+        "author": "Corps Historian",
+        "date": "2025-07-25",
+        "readTime": "6 min read",
+        "featured": false,
+        "image": null
+    },
+    {
+        "id": 4,
+        "title": "The Impact of Weather on DCI Championships",
+        "excerpt": "Examining how weather conditions have affected performances at DCI Championships throughout history, from heat waves to thunderstorms.",
+        "content": "Weather has always been an unpredictable factor in drum corps competition, and Championships week often presents the most challenging conditions of the entire season.\n\nFrom the infamous thunderstorms of 1995 that led to performance delays, to the extreme heat waves that have tested the endurance of performers, weather has created some of the most memorable moments in DCI history.\n\nModern corps have developed sophisticated strategies for dealing with adverse conditions, including specialized hydration protocols, equipment protection procedures, and modified warm-up routines designed to help performers adapt quickly to changing conditions.",
+        "category": "history",
+        "author": "Weather Researcher",
+        "date": "2025-07-22",
+        "readTime": "4 min read",
+        "featured": false,
+        "image": null
+    },
+    {
+        "id": 5,
+        "title": "Understanding Modern DCI Judging: A Deep Dive",
+        "excerpt": "Breaking down the current DCI judging system, caption areas, and how scores are calculated to determine championship results.",
+        "content": "The modern DCI judging system is complex and nuanced, designed to evaluate the many facets of a drum corps performance with precision and fairness.\n\nThe current system evaluates performances across multiple captions: Music Analysis, Music Effect, Visual Analysis, Visual Effect, Color Guard, Percussion, and General Effect. Each caption is weighted differently and scored by trained specialists.\n\nUnderstanding how these scores combine and interact can help fans better appreciate the competitive dynamics and strategic decisions that corps make throughout the season.",
+        "category": "analysis",
+        "author": "Judge Education",
+        "date": "2025-07-20",
+        "readTime": "7 min read",
+        "featured": false,
+        "image": null
+    },
+    {
+        "id": 6,
+        "title": "The Rise of Open Class: Spotlight on Competitive Growth",
+        "excerpt": "How Open Class corps have elevated their game and closed the gap with World Class competition in recent years.",
+        "content": "Open Class drum corps have experienced remarkable growth in recent years, with many organizations achieving performance levels that rival traditional World Class powerhouses.\n\nThis improvement stems from better funding, improved instruction, and increased commitment from members who are often balancing drum corps with other life responsibilities.\n\nThe gap between Open and World Class continues to narrow, and several Open Class corps are seriously considering the transition to World Class competition in the coming years.",
+        "category": "corps",
+        "author": "Open Class Expert",
+        "date": "2025-07-18",
+        "readTime": "5 min read",
+        "featured": false,
+        "image": null
+    }
+]

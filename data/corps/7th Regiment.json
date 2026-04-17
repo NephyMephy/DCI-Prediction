@@ -1,0 +1,41 @@
+{
+ "location": [
+   {
+     "city": "New London",
+     "state": "CT", 
+     "year": "2002-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.seventhregiment.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2004-2007", "className": "Division III"},
+   {"circuit": "DCI", "years": "2008-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2001, "showTitle": "", "repertoire": "Repertoire not available", "placement": "Did not attend DCI", "score": null},
+   {"year": 2004, "showTitle": "Beethoven's Last Night", "repertoire": "Beethoven's Last Night by Trans-Siberian Orchestra", "placement": "Did not attend DCI", "score": null},
+   {"year": 2005, "showTitle": "The Wind In The Rigging", "repertoire": "Songs of Sailor and Sea (Racing the Yankee Clipper) / Since First We Set Sail / The Sea Treaders", "placement": "17th Place*", "score": 63.725},
+   {"year": 2006, "showTitle": "Drive Time", "repertoire": "Ride Like The Wind by Christopher Cross / Farandole (from L'Arlesienne) by Georges Bizet / South Beach Mambo / Home by Stephanie Mills / Home Sweet Home by John Howard Payne & Henry Bishop", "placement": "15th Place*", "score": 55.325},
+   {"year": 2007, "showTitle": "VIVA!", "repertoire": "Music by Alberto Ginastera / Music by Clifton Williams / Music by Chick Corea", "placement": "Did not attend DCI", "score": null},
+   {"year": 2008, "showTitle": "Mexican Landscapes", "repertoire": "Music by Alberto Ginastera / Music by Aaron Copland / Music by H. Owen Reed", "placement": "17th Place*", "score": 78.375},
+   {"year": 2009, "showTitle": "Excalibur", "repertoire": "Liturgical Dances / Of Kingdoms and Glory (Mvt II & V) / Dance Movements (Mvt II) / ...and the mountains rising nowhere / Lavos Battle", "placement": "11th Place*", "score": 81.350},
+   {"year": 2010, "showTitle": "Macabre", "repertoire": "Danse Macabre by Camille Saint-Saëns / A Long, Long Time Ago (from Pan's Labyrinth) by Javier Navarrete / String Quartet in F Major / Serenada Schizophrana (mvt. 1 Pianos) by John Adams", "placement": "7th Place*", "score": 86.900},
+   {"year": 2011, "showTitle": "UnSquare", "repertoire": "Everything in its Right Place by Thom Yorke / 15 Step by Thom Yorke / Take Five by Paul Desmond / Creep by Thom Yorke / Paranoid Android by Thom Yorke / Unsquare Dance by Dave Brubeck / Creep (reprise) by Thom Yorke", "placement": "31st Place", "score": 64.350},
+   {"year": 2012, "showTitle": "24601-7R", "repertoire": "Symphony No. 7, Mvt 2 by Ludwig van Beethoven / Enterprising Young Men (from Star Trek) by Michael Giacchino / Ara Batur by Jón Leifs / Fire (From Elements) / Finales from Symphony No. 2", "placement": "28th Place", "score": 64.450},
+   {"year": 2013, "showTitle": "Luminous", "repertoire": "New Moon in the Old Moon's Arms / Instinctive Travels / Fantasia on a Theme of Thomas Tallis by Ralph Vaughan Williams / Shadow Rituals", "placement": "30th Place", "score": 67.000},
+   {"year": 2014, "showTitle": "Nev7sky: Alexander's Legacy", "repertoire": "Alexander Nevsky by Sergei Prokofiev", "placement": "25th Place", "score": 71.475},
+   {"year": 2015, "showTitle": "The Labyrinth", "repertoire": "Rue's Whistle Song (from The Hunger Games) by James Newton Howard / Rue's Farewell (from The Hunger Games) by James Newton Howard / Long, Long Time Ago (from Pan's Labyrinth) by Javier Navarrete / The Power Plant (from The Matrix) by Don Davis / Burly Brawl (from The Matrix Reloaded) by Don Davis / Battle Music", "placement": "26th Place", "score": 70.675},
+   {"year": 2016, "showTitle": "Waveforms", "repertoire": "Wave / Chronometry / Ecstatic Waters / Isometric / Original Music", "placement": "28th Place", "score": 68.413},
+   {"year": 2017, "showTitle": "As the Sun loved the Moon", "repertoire": "Incantation and Dance / Moonlight Sonata by Ludwig van Beethoven / Make You Feel My Love by Bob Dylan / Incantation (from Quidam) by Cirque du Soleil / Total Eclipse of the Heart by Jim Steinman", "placement": "31st Place", "score": 69.800},
+   {"year": 2018, "showTitle": "In a Different Light", "repertoire": "Finale (from The Abyss) by Alan Silvestri / Serenada Schizophrana by John Adams / All Love Can Be / A Kaleidoscope of Mathematics", "placement": "28th Place", "score": 71.875},
+   {"year": 2019, "showTitle": "Poetic", "repertoire": "In This Broad Earth / Cariolan Overture / Aha! / Pure Imagination (from Willy Wonka and the Chocolate Factory) by Leslie Bricusse & Anthony Newley", "placement": "30th Place", "score": 70.475},
+   {"year": 2022, "showTitle": "Prevailing Winds", "repertoire": "A Zillion Nickels / My Spanish Ladies / Satellite / Original Music", "placement": "33rd Place", "score": 66.188},
+   {"year": 2023, "showTitle": "MNML (Minimal)", "repertoire": "1000 Airplanes On the Roof by Philip Glass / On the Nature of Daylight by Max Richter / Halcyon Hearts", "placement": "29th Place", "score": 70.075},
+   {"year": 2024, "showTitle": "Through the Red Tape", "repertoire": "Appleseed (from Attack on Titan) by Hiroyuki Sawano / All Falls Apart / Marigold", "placement": "30th Place", "score": 68.800},
+   {"year": 2025, "showTitle": "Atlantis", "repertoire": "Aquarium (from Carnival of the Animals) by Camille Saint-Saëns / La Mer by Claude Debussy / Wine Dark Sea / Exit Music (for a Film) by Thom Yorke", "placement": "27th Place", "score": 72.375}
+ ]
+}

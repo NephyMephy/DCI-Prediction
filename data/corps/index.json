@@ -1,0 +1,1028 @@
+{
+  "files": [
+    "27th Lancers.json",
+    "7th Regiment.json",
+    "Academy.json",
+    "Anaheim Kingsmen.json",
+    "Argonne Rebels.json",
+    "Atlanta CV.json",
+    "Battalion.json",
+    "Blue Devils B.json",
+    "Blue Devils C.json",
+    "Blue Devils.json",
+    "Blue Knights.json",
+    "Blue Stars.json",
+    "Bluecoats.json",
+    "Boston Crusaders.json",
+    "Bridgemen.json",
+    "Buccaneers.json",
+    "Bushwackers.json",
+    "Cadets.json",
+    "Calgary Stampede Band.json",
+    "Carolina Crown.json",
+    "Cavaliers.json",
+    "Cincinnati Tradition.json",
+    "Colt Cadets.json",
+    "Colts.json",
+    "Columbians.json",
+    "Connecticut Hurricanes.json",
+    "Crossmen.json",
+    "Forte.json",
+    "Genesis.json",
+    "Gold.json",
+    "Golden Empire.json",
+    "Govenaires.json",
+    "Guardians.json",
+    "Hawthorne Caballeros.json",
+    "Heat Wave (DCA).json",
+    "Heat Wave.json",
+    "Impulse.json",
+    "Jersey Surf.json",
+    "Legends.json",
+    "Les Stentors.json",
+    "Madison Scouts.json",
+    "Mandarins.json",
+    "Memphis Blues.json",
+    "Minnesota Brass.json",
+    "Music City.json",
+    "OLPH Ridgemen.json",
+    "Pacific Crest.json",
+    "Phantom Regiment.json",
+    "Raiders.json",
+    "River City Rhythm.json",
+    "Rogues Hollow Regiment.json",
+    "Seattle Cascades.json",
+    "Spartans.json",
+    "Spirit of Atlanta.json",
+    "Sunrisers.json",
+    "Troopers.json",
+    "Vanguard Cadets.json",
+    "Vanguard.json",
+    "White Sabers.json",
+    "Zephyrus.json"
+  ],
+  "locations": {
+    "27th Lancers": {
+      "city": "Revere",
+      "state": "MA",
+      "year": "1967-1986",
+      "lat": 42.4085,
+      "lon": -71.0119
+    },
+    "7th Regiment": {
+      "city": "New London",
+      "state": "CT",
+      "year": "2002-Present",
+      "lat": 41.3556,
+      "lon": -72.0995
+    },
+    "Academy": {
+      "city": "Tempe",
+      "state": "AZ",
+      "year": "2001-Present",
+      "lat": 33.4255,
+      "lon": -111.94
+    },
+    "Anaheim Kingsmen": {
+      "city": "Anaheim",
+      "state": "CA",
+      "year": "1958-1991",
+      "lat": 33.8366,
+      "lon": -117.9143
+    },
+    "Argonne Rebels": {
+      "city": "Great Bend",
+      "state": "KS",
+      "year": "1983-1984",
+      "lat": 38.3445,
+      "lon": -98.8148
+    },
+    "Atlanta CV": {
+      "city": "White",
+      "state": "GA",
+      "year": "1997-Present",
+      "lat": 34.2648,
+      "lon": -84.7441
+    },
+    "Battalion": {
+      "city": "Salt Lake City",
+      "state": "UT",
+      "year": "2014-Present",
+      "lat": 40.7589,
+      "lon": -111.8883
+    },
+    "Blue Devils B": {
+      "city": "Concord",
+      "state": "CA",
+      "year": "1968-Present",
+      "lat": 37.978,
+      "lon": -122.0311
+    },
+    "Blue Devils C": {
+      "city": "Concord",
+      "state": "CA",
+      "year": "1995-Present",
+      "lat": 37.978,
+      "lon": -122.0311
+    },
+    "Blue Devils": {
+      "city": "Concord",
+      "state": "CA",
+      "year": "1957-Present",
+      "lat": 37.978,
+      "lon": -122.0311
+    },
+    "Blue Knights": {
+      "city": "Denver",
+      "state": "CO",
+      "year": "1958-Present",
+      "lat": 39.7392,
+      "lon": -104.9903
+    },
+    "Blue Stars": {
+      "city": "La Crosse",
+      "state": "WI",
+      "year": "1964-Present",
+      "lat": 43.8014,
+      "lon": -91.2396
+    },
+    "Bluecoats": {
+      "city": "North Canton",
+      "state": "OH",
+      "year": "1972-1982; 1984-Present",
+      "lat": 40.8759,
+      "lon": -81.4023
+    },
+    "Boston Crusaders": {
+      "city": "Boston",
+      "state": "MA",
+      "year": "1940-Present",
+      "lat": 42.3601,
+      "lon": -71.0589
+    },
+    "Bridgemen": {
+      "city": "Bayonne",
+      "state": "NJ",
+      "year": "1964-1988",
+      "lat": 40.6687,
+      "lon": -74.1143
+    },
+    "Buccaneers": {
+      "city": "Reading",
+      "state": "PA",
+      "year": "1957-Present",
+      "lat": 40.3357,
+      "lon": -75.9268
+    },
+    "Bushwackers": {
+      "city": "Harrison",
+      "state": "NJ",
+      "year": "1981-Present",
+      "lat": 40.7465,
+      "lon": -74.1565
+    },
+    "Cadets": {
+      "city": "Erie",
+      "state": "PA",
+      "year": "2023-2024",
+      "lat": 42.1292,
+      "lon": -80.0851
+    },
+    "Calgary Stampede Band": {
+      "city": "Calgary",
+      "state": "AB",
+      "year": "1971-Present",
+      "lat": 51.0447,
+      "lon": -114.0719
+    },
+    "Carolina Crown": {
+      "city": "Fort Mill",
+      "state": "SC",
+      "year": "1988-Present",
+      "lat": 35.0007,
+      "lon": -80.9434
+    },
+    "Cavaliers": {
+      "city": "Rosemont",
+      "state": "IL",
+      "year": "1948-Present",
+      "lat": 41.9759,
+      "lon": -87.8834
+    },
+    "Cincinnati Tradition": {
+      "city": "Cincinnati",
+      "state": "OH",
+      "year": "1984-Present",
+      "lat": 39.1031,
+      "lon": -84.512
+    },
+    "Colt Cadets": {
+      "city": "Dubuque",
+      "state": "IA",
+      "year": "1967-Present",
+      "lat": 42.5006,
+      "lon": -90.6648
+    },
+    "Colts": {
+      "city": "Dubuque",
+      "state": "IA",
+      "year": "1963-Present",
+      "lat": 42.5006,
+      "lon": -90.6648
+    },
+    "Columbians": {
+      "city": "Pasco",
+      "state": "WA",
+      "year": "2012-Present",
+      "lat": 46.2396,
+      "lon": -119.1006
+    },
+    "Connecticut Hurricanes": {
+      "city": "Seymour",
+      "state": "CT",
+      "year": "1932-Present",
+      "lat": 41.3965,
+      "lon": -73.0754
+    },
+    "Crossmen": {
+      "city": "San Antonio",
+      "state": "TX",
+      "year": "2007-Present",
+      "lat": 29.4241,
+      "lon": -98.4936
+    },
+    "Forte": {
+      "city": "Grande Prairie",
+      "state": "TX",
+      "year": "2009-2012",
+      "lat": 32.7358,
+      "lon": -97.0269
+    },
+    "Genesis": {
+      "city": "Austin",
+      "state": "TX",
+      "year": "2014-Present",
+      "lat": 30.2672,
+      "lon": -97.7431
+    },
+    "Gold": {
+      "city": "Oceanside",
+      "state": "CA",
+      "year": "2010-Present",
+      "lat": 33.1959,
+      "lon": -117.3795
+    },
+    "Golden Empire": {
+      "city": "Bakersfield",
+      "state": "CA",
+      "year": "2013-Present",
+      "lat": 35.3733,
+      "lon": -119.0187
+    },
+    "Govenaires": {
+      "city": "St. Peter",
+      "state": "MN",
+      "year": "1927-Present",
+      "lat": 44.3233,
+      "lon": -93.9608
+    },
+    "Guardians": {
+      "city": "San Antonio",
+      "state": "TX",
+      "year": "2022-2024",
+      "lat": 29.4241,
+      "lon": -98.4936
+    },
+    "Hawthorne Caballeros": {
+      "city": "Hawthorne",
+      "state": "NJ",
+      "year": "1946-Present",
+      "lat": 40.9493,
+      "lon": -74.1532
+    },
+    "Heat Wave (DCA)": {
+      "city": "Orlando",
+      "state": "FL",
+      "year": "1992-2007",
+      "lat": 28.5383,
+      "lon": -81.3792
+    },
+    "Heat Wave": {
+      "city": "Tampa Bay",
+      "state": "FL",
+      "year": "2025-Present",
+      "lat": 27.9506,
+      "lon": -82.4572
+    },
+    "Impulse": {
+      "city": "Buena Park",
+      "state": "CA",
+      "year": "1998-Present",
+      "lat": 33.8675,
+      "lon": -117.9981
+    },
+    "Jersey Surf": {
+      "city": "Mount Holly",
+      "state": "NJ",
+      "year": "2004-2024",
+      "lat": 39.9929,
+      "lon": -74.7879
+    },
+    "Legends": {
+      "city": "Kalamazoo",
+      "state": "MI",
+      "year": "2006-2022",
+      "lat": 42.2917,
+      "lon": -85.5872
+    },
+    "Les Stentors": {
+      "city": "Sherbrooke",
+      "state": "PQ",
+      "year": "2019-Present",
+      "lat": 45.4042,
+      "lon": -71.8929
+    },
+    "Madison Scouts": {
+      "city": "Madison",
+      "state": "WI",
+      "year": "1920-Present",
+      "lat": 43.0731,
+      "lon": -89.4012
+    },
+    "Mandarins": {
+      "city": "Sacramento",
+      "state": "CA",
+      "year": "1963-Present",
+      "lat": 38.5816,
+      "lon": -121.4944
+    },
+    "Memphis Blues": {
+      "city": "Memphis",
+      "state": "TN",
+      "year": "2023-Present",
+      "lat": 35.1495,
+      "lon": -90.049
+    },
+    "Minnesota Brass": {
+      "city": "St. Paul",
+      "state": "MN",
+      "year": "2022-Present",
+      "lat": 44.9537,
+      "lon": -93.09
+    },
+    "Music City": {
+      "city": "Nashville",
+      "state": "TN",
+      "year": "2009-Present",
+      "lat": 36.1627,
+      "lon": -86.7816
+    },
+    "OLPH Ridgemen": {
+      "city": "Brooklyn",
+      "state": "NY",
+      "year": "1914-1976",
+      "lat": 40.6782,
+      "lon": -73.9442
+    },
+    "Pacific Crest": {
+      "city": "City of Industry",
+      "state": "CA",
+      "year": "1993",
+      "lat": 34.0192,
+      "lon": -117.9595
+    },
+    "Phantom Regiment": {
+      "city": "Rockford",
+      "state": "IL",
+      "year": "1956-Present",
+      "lat": 42.2711,
+      "lon": -89.094
+    },
+    "Raiders": {
+      "city": "Burlington",
+      "state": "NJ",
+      "year": "1990-Present",
+      "lat": 40.0712,
+      "lon": -74.8651
+    },
+    "River City Rhythm": {
+      "city": "Anoka",
+      "state": "MN",
+      "year": "2014-Present",
+      "lat": 45.1977,
+      "lon": -93.3869
+    },
+    "Rogues Hollow Regiment": {
+      "city": "Doylestown",
+      "state": "OH",
+      "year": "2015-Present",
+      "lat": 40.9701,
+      "lon": -81.6965
+    },
+    "Seattle Cascades": {
+      "city": "Seattle",
+      "state": "WA",
+      "year": "2022-Present",
+      "lat": 47.6062,
+      "lon": -122.3321
+    },
+    "Spartans": {
+      "city": "Nashua",
+      "state": "NH",
+      "year": "2010-Present",
+      "lat": 42.7654,
+      "lon": -71.4676
+    },
+    "Spirit of Atlanta": {
+      "city": "Atlanta",
+      "state": "GA",
+      "year": "2023-Present",
+      "lat": 33.749,
+      "lon": -84.388
+    },
+    "Sunrisers": {
+      "city": "Orangetown",
+      "state": "NJ",
+      "year": "1954-Present",
+      "lat": 41.0473,
+      "lon": -73.9854
+    },
+    "Troopers": {
+      "city": "Casper",
+      "state": "WY",
+      "year": "1957-Present",
+      "lat": 42.8666,
+      "lon": -106.3131
+    },
+    "Vanguard Cadets": {
+      "city": "Santa Clara",
+      "state": "CA",
+      "year": "1971-2022",
+      "lat": 37.3541,
+      "lon": -121.9552
+    },
+    "Vanguard": {
+      "city": "Santa Clara",
+      "state": "CA",
+      "year": "1967-2022; 2024-Present",
+      "lat": 37.3541,
+      "lon": -121.9552
+    },
+    "White Sabers": {
+      "city": "Rochester",
+      "state": "NY",
+      "year": "1928-Present",
+      "lat": 43.1566,
+      "lon": -77.6088
+    },
+    "Zephyrus": {
+      "city": "Tulsa",
+      "state": "OK",
+      "year": "2017-Present",
+      "lat": 36.154,
+      "lon": -95.9928
+    }
+  },
+  "summary": {
+    "27th Lancers": {
+      "name": "27th Lancers",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1967-1986",
+      "championshipCount": 2,
+      "mostRecentShow": "A Sondheim Suite",
+      "location": "Revere, MA"
+    },
+    "7th Regiment": {
+      "name": "7th Regiment",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.seventhregiment.org",
+      "yearsActive": "2002-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Atlantis",
+      "location": "New London, CT"
+    },
+    "Academy": {
+      "name": "Academy",
+      "currentClass": "DCI World Class",
+      "website": "www.arizonaacademy.org",
+      "yearsActive": "2001-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "London Fog",
+      "location": "Tempe, AZ"
+    },
+    "Anaheim Kingsmen": {
+      "name": "Anaheim Kingsmen",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1958-1991",
+      "championshipCount": 2,
+      "mostRecentShow": "No shows listed",
+      "location": "Anaheim, CA"
+    },
+    "Argonne Rebels": {
+      "name": "Argonne Rebels",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1983-1984",
+      "championshipCount": 3,
+      "mostRecentShow": "No shows listed",
+      "location": "Great Bend, KS"
+    },
+    "Atlanta CV": {
+      "name": "Atlanta CV",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://atlantacv.org",
+      "yearsActive": "1997-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "CiVilization",
+      "location": "White, GA"
+    },
+    "Battalion": {
+      "name": "Battalion",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.battalioncorps.org",
+      "yearsActive": "2014-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Foretold the Ravens",
+      "location": "Salt Lake City, UT"
+    },
+    "Blue Devils B": {
+      "name": "Blue Devils B",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "1968-Present",
+      "championshipCount": 6,
+      "mostRecentShow": "Lethologica",
+      "location": "Concord, CA"
+    },
+    "Blue Devils C": {
+      "name": "Blue Devils C",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "1995-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "The Gifts We ReCeive",
+      "location": "Concord, CA"
+    },
+    "Blue Devils": {
+      "name": "Blue Devils",
+      "currentClass": "DCI World Class",
+      "website": "www.bluedevils.org",
+      "yearsActive": "1957-Present",
+      "championshipCount": 24,
+      "mostRecentShow": "Variations on a Gathering",
+      "location": "Concord, CA"
+    },
+    "Blue Knights": {
+      "name": "Blue Knights",
+      "currentClass": "DCI World Class",
+      "website": "ascendperformingarts.org",
+      "yearsActive": "1958-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "DRiP",
+      "location": "Denver, CO"
+    },
+    "Blue Stars": {
+      "name": "Blue Stars",
+      "currentClass": "DCI World Class",
+      "website": "www.bluestars.org",
+      "yearsActive": "1964-Present",
+      "championshipCount": 6,
+      "mostRecentShow": "Spectator Sport",
+      "location": "La Crosse, WI"
+    },
+    "Bluecoats": {
+      "name": "Bluecoats",
+      "currentClass": "DCI World Class",
+      "website": "https://bluecoats.com",
+      "yearsActive": "1972-1982; 1984-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "The Observer Effect",
+      "location": "North Canton, OH"
+    },
+    "Boston Crusaders": {
+      "name": "Boston Crusaders",
+      "currentClass": "DCI World Class",
+      "website": "bostoncrusaders.org",
+      "yearsActive": "1940-Present",
+      "championshipCount": 4,
+      "mostRecentShow": "BOOM",
+      "location": "Boston, MA"
+    },
+    "Bridgemen": {
+      "name": "Bridgemen",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1964-1988",
+      "championshipCount": 0,
+      "mostRecentShow": "Manhattan Street Scenes",
+      "location": "Bayonne, NJ"
+    },
+    "Buccaneers": {
+      "name": "Buccaneers",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://www.readingbuccaneers.org/",
+      "yearsActive": "1957-Present",
+      "championshipCount": 24,
+      "mostRecentShow": "On Display",
+      "location": "Reading, PA"
+    },
+    "Bushwackers": {
+      "name": "Bushwackers",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://www.bushwackers.org",
+      "yearsActive": "1981-Present",
+      "championshipCount": 6,
+      "mostRecentShow": "Where Do We Begin?",
+      "location": "Harrison, NJ"
+    },
+    "Cadets": {
+      "name": "Cadets",
+      "currentClass": "Inactive",
+      "website": "cadets.org",
+      "yearsActive": "2023-2024",
+      "championshipCount": 21,
+      "mostRecentShow": "Atlas Rising",
+      "location": "Erie, PA"
+    },
+    "Calgary Stampede Band": {
+      "name": "Calgary Stampede Band",
+      "currentClass": "DCI International Class",
+      "website": "",
+      "yearsActive": "1971-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "If We Build It",
+      "location": "Calgary, AB"
+    },
+    "Carolina Crown": {
+      "name": "Carolina Crown",
+      "currentClass": "DCI World Class",
+      "website": "www.carolinacrown.org",
+      "yearsActive": "1988-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "The Point of No Return",
+      "location": "Fort Mill, SC"
+    },
+    "Cavaliers": {
+      "name": "Cavaliers",
+      "currentClass": "DCI World Class",
+      "website": "cavaliers.org",
+      "yearsActive": "1948-Present",
+      "championshipCount": 20,
+      "mostRecentShow": "ShapeShift",
+      "location": "Rosemont, IL"
+    },
+    "Cincinnati Tradition": {
+      "name": "Cincinnati Tradition",
+      "currentClass": "DCI All-Age Class",
+      "website": "",
+      "yearsActive": "1984-Present",
+      "championshipCount": 3,
+      "mostRecentShow": "CincinnatUS",
+      "location": "Cincinnati, OH"
+    },
+    "Colt Cadets": {
+      "name": "Colt Cadets",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "1967-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "The Woods",
+      "location": "Dubuque, IA"
+    },
+    "Colts": {
+      "name": "Colts",
+      "currentClass": "DCI World Class",
+      "website": "https://colts.org",
+      "yearsActive": "1963-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "In Restless Dreams",
+      "location": "Dubuque, IA"
+    },
+    "Columbians": {
+      "name": "Columbians",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.columbiansdrumcorps.org",
+      "yearsActive": "2012-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Bloom",
+      "location": "Pasco, WA"
+    },
+    "Connecticut Hurricanes": {
+      "name": "Connecticut Hurricanes",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://cthurricanes.org",
+      "yearsActive": "1932-Present",
+      "championshipCount": 5,
+      "mostRecentShow": "The Black Parade",
+      "location": "Seymour, CT"
+    },
+    "Crossmen": {
+      "name": "Crossmen",
+      "currentClass": "DCI World Class",
+      "website": "crossmen.org",
+      "yearsActive": "2007-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "Crosswalking",
+      "location": "San Antonio, TX"
+    },
+    "Forte": {
+      "name": "Forte",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "2009-2012",
+      "championshipCount": 0,
+      "mostRecentShow": "Crossroads",
+      "location": "Grande Prairie, TX"
+    },
+    "Genesis": {
+      "name": "Genesis",
+      "currentClass": "DCI World Class",
+      "website": "www.genesisdbc.org",
+      "yearsActive": "2014-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Kaleidoscope Heart",
+      "location": "Austin, TX"
+    },
+    "Gold": {
+      "name": "Gold",
+      "currentClass": "DCI Open Class",
+      "website": "golddrumcorps.org",
+      "yearsActive": "2010-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "The Demon Barber of Fleet Street",
+      "location": "Oceanside, CA"
+    },
+    "Golden Empire": {
+      "name": "Golden Empire",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.geperformingarts.org",
+      "yearsActive": "2013-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Mind to Matter",
+      "location": "Bakersfield, CA"
+    },
+    "Govenaires": {
+      "name": "Govenaires",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://www.govenaires.org",
+      "yearsActive": "1927-Present",
+      "championshipCount": 6,
+      "mostRecentShow": "Among Thieves",
+      "location": "St. Peter, MN"
+    },
+    "Guardians": {
+      "name": "Guardians",
+      "currentClass": "Inactive",
+      "website": "www.guardiansdbc.org",
+      "yearsActive": "2022-2024",
+      "championshipCount": 0,
+      "mostRecentShow": "Going Places",
+      "location": "San Antonio, TX"
+    },
+    "Hawthorne Caballeros": {
+      "name": "Hawthorne Caballeros",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://hawthornecaballeros.org",
+      "yearsActive": "1946-Present",
+      "championshipCount": 20,
+      "mostRecentShow": "On the Edge",
+      "location": "Hawthorne, NJ"
+    },
+    "Heat Wave (DCA)": {
+      "name": "Heat Wave (DCA)",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1992-2007",
+      "championshipCount": 1,
+      "mostRecentShow": "Danza de la Corazon",
+      "location": "Orlando, FL"
+    },
+    "Heat Wave": {
+      "name": "Heat Wave",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.heat-wave.org",
+      "yearsActive": "2025-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Rising Heat",
+      "location": "Tampa Bay, FL"
+    },
+    "Impulse": {
+      "name": "Impulse",
+      "currentClass": "DCI Open Class",
+      "website": "www.impulseyoutharts.org",
+      "yearsActive": "1998-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "LOOK UP",
+      "location": "Buena Park, CA"
+    },
+    "Jersey Surf": {
+      "name": "Jersey Surf",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "2004-2024",
+      "championshipCount": 0,
+      "mostRecentShow": "Surfadelic",
+      "location": "Mount Holly, NJ"
+    },
+    "Legends": {
+      "name": "Legends",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "2006-2022",
+      "championshipCount": 0,
+      "mostRecentShow": "May Your Light Shine Forever",
+      "location": "Kalamazoo, MI"
+    },
+    "Les Stentors": {
+      "name": "Les Stentors",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "2019-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "It All Starts With a Spark",
+      "location": "Sherbrooke, PQ"
+    },
+    "Madison Scouts": {
+      "name": "Madison Scouts",
+      "currentClass": "DCI World Class",
+      "website": "www.madisonscouts.org",
+      "yearsActive": "1920-Present",
+      "championshipCount": 5,
+      "mostRecentShow": "The Nature of Being",
+      "location": "Madison, WI"
+    },
+    "Mandarins": {
+      "name": "Mandarins",
+      "currentClass": "DCI World Class",
+      "website": "www.mandarins.org",
+      "yearsActive": "1963-Present",
+      "championshipCount": 8,
+      "mostRecentShow": "If I Must Fall...",
+      "location": "Sacramento, CA"
+    },
+    "Memphis Blues": {
+      "name": "Memphis Blues",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "2023-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Rhapsody In Memphis Blue",
+      "location": "Memphis, TN"
+    },
+    "Minnesota Brass": {
+      "name": "Minnesota Brass",
+      "currentClass": "DCI All-Age Class",
+      "website": "",
+      "yearsActive": "2022-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "Fieri: Rising From The Ashes",
+      "location": "St. Paul, MN"
+    },
+    "Music City": {
+      "name": "Music City",
+      "currentClass": "DCI World Class",
+      "website": "",
+      "yearsActive": "2009-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "It Tolls for Thee",
+      "location": "Nashville, TN"
+    },
+    "OLPH Ridgemen": {
+      "name": "OLPH Ridgemen",
+      "currentClass": "Inactive",
+      "website": "",
+      "yearsActive": "1914-1976",
+      "championshipCount": 0,
+      "mostRecentShow": "Music of Rogers and Hammerstein",
+      "location": "Brooklyn, NY"
+    },
+    "Pacific Crest": {
+      "name": "Pacific Crest",
+      "currentClass": "DCI World Class",
+      "website": "",
+      "yearsActive": "1993",
+      "championshipCount": 0,
+      "mostRecentShow": "It Sin Our Nature",
+      "location": "City of Industry, CA"
+    },
+    "Phantom Regiment": {
+      "name": "Phantom Regiment",
+      "currentClass": "DCI World Class",
+      "website": "",
+      "yearsActive": "1956-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "*Untitled Show*",
+      "location": "Rockford, IL"
+    },
+    "Raiders": {
+      "name": "Raiders",
+      "currentClass": "DCI Open Class",
+      "website": "",
+      "yearsActive": "1990-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "Time is...Time{less}",
+      "location": "Burlington, NJ"
+    },
+    "River City Rhythm": {
+      "name": "River City Rhythm",
+      "currentClass": "DCI Open Class",
+      "website": "rivercityrhythm.org",
+      "yearsActive": "2014-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Winds of Change",
+      "location": "Anoka, MN"
+    },
+    "Rogues Hollow Regiment": {
+      "name": "Rogues Hollow Regiment",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://rhrdbc.org",
+      "yearsActive": "2015-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "ToXic",
+      "location": "Doylestown, OH"
+    },
+    "Seattle Cascades": {
+      "name": "Seattle Cascades",
+      "currentClass": "DCI World Class",
+      "website": "www.seattlecascades.org",
+      "yearsActive": "2022-Present",
+      "championshipCount": 1,
+      "mostRecentShow": "Primary",
+      "location": "Seattle, WA"
+    },
+    "Spartans": {
+      "name": "Spartans",
+      "currentClass": "DCI Open Class",
+      "website": "www.spartansdbc.org",
+      "yearsActive": "2010-Present",
+      "championshipCount": 9,
+      "mostRecentShow": "Mística",
+      "location": "Nashua, NH"
+    },
+    "Spirit of Atlanta": {
+      "name": "Spirit of Atlanta",
+      "currentClass": "DCI World Class",
+      "website": "",
+      "yearsActive": "2023-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Rocket",
+      "location": "Atlanta, GA"
+    },
+    "Sunrisers": {
+      "name": "Sunrisers",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://rhrdbc.org",
+      "yearsActive": "1954-Present",
+      "championshipCount": 6,
+      "mostRecentShow": "Move",
+      "location": "Orangetown, NJ"
+    },
+    "Troopers": {
+      "name": "Troopers",
+      "currentClass": "DCI World Class",
+      "website": "https://www.troopersdrumcorps.org",
+      "yearsActive": "1957-Present",
+      "championshipCount": 5,
+      "mostRecentShow": "The Final Sunset",
+      "location": "Casper, WY"
+    },
+    "Vanguard Cadets": {
+      "name": "Vanguard Cadets",
+      "currentClass": "Inactive",
+      "website": "www.scvanguard.org/vanguard_cadets/",
+      "yearsActive": "1971-2022",
+      "championshipCount": 7,
+      "mostRecentShow": "Somewhere New",
+      "location": "Santa Clara, CA"
+    },
+    "Vanguard": {
+      "name": "Vanguard",
+      "currentClass": "DCI World Class",
+      "website": "www.scvanguard.org",
+      "yearsActive": "1967-2022; 2024-Present",
+      "championshipCount": 10,
+      "mostRecentShow": "The aVANt GUARD",
+      "location": "Santa Clara, CA"
+    },
+    "White Sabers": {
+      "name": "White Sabers",
+      "currentClass": "DCI All-Age Class",
+      "website": "https://www.whitesabers.org",
+      "yearsActive": "1928-Present",
+      "championshipCount": 2,
+      "mostRecentShow": "Isle of the Dead",
+      "location": "Rochester, NY"
+    },
+    "Zephyrus": {
+      "name": "Zephyrus",
+      "currentClass": "DCI Open Class",
+      "website": "https://www.zephyrusarts.org/corps.html",
+      "yearsActive": "2017-Present",
+      "championshipCount": 0,
+      "mostRecentShow": "Boundless",
+      "location": "Tulsa, OK"
+    }
+  }
+}

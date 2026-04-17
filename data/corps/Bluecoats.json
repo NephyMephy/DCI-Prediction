@@ -1,0 +1,90 @@
+{
+ "location": [
+   {
+     "city": "North Canton",
+     "state": "OH", 
+     "year": "1972-1982; 1984-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "DCI", "year": 2016, "score": 97.650, "showTitle": "Down Side Up"},
+   {"circuit": "DCI", "year": 2024, "score": 98.750, "showTitle": "Change Is Everything"}
+ ],
+ "captionAwards": [
+   {
+     "caption": "General Effect Award",
+     "years": [2016, 2019, 2024, 2025]
+   },
+   {
+     "caption": "Visual Performance Award", 
+     "years": [2024, 2025]
+   },
+   {
+     "caption": "Brass Performance Award",
+     "years": [2024]
+   },
+   {
+     "caption": "Percussion Performance Award",
+     "years": [2022]
+   }
+ ],
+ "website": "https://bluecoats.com",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1977-1982,1984-1991", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1992-2007", "className": "Open Class/Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1975, "showTitle": "", "repertoire": "Fanfare & Coronation March by Pyotr Ilyich Tchaikovsky / Variations On America by Truman Crawford / Gospel John by Jeffrey Steinberg / Livin' for the City by Stevie Wonder", "placement": "Did not attend DCI", "score": null},
+   {"year": 1976, "showTitle": "", "repertoire": "Quejada by Kenneth Snoeck / Drum Fugue by Richard Janes / I Believe by Ervin Drake, Irvin Graham, Jimmy Shirl & Al Stillman / Turkey in the Straw (Traditional) / Theme from Gold by Elmer Bernstein / Theme from S.W.A.T. by Barry De Vorzon / Bridge Over Troubled Water by Paul Simon", "placement": "Did not attend DCI", "score": null},
+   {"year": 1977, "showTitle": "", "repertoire": "The Golden Cockerel by Nikolai Rimsky-Korsakov / Porgy and Bess Medley by George Gershwin, DuBose Heyward & Ira Gershwin / Carmina Burana by Carl Orff / Bridge Over Troubled Water by Paul Simon / Fanfare from Quejada by Kenneth Snoeck", "placement": "35th Place", "score": 65.500},
+   {"year": 1978, "showTitle": "", "repertoire": "Farandole by Georges Bizet / Corazón by Carole King / Sweet Inspiration by Dan Penn & Spooner Oldham / Oklahoma Crude by Henry Mancini / Where He Leads Me (Traditional) / Stony End by Laura Nyro / Big Noise from Winnetka by Bob Haggart & Ray Bauduc / New York, New York (from On the Town) by Leonard Bernstein", "placement": "28th Place", "score": 68.500},
+   {"year": 1979, "showTitle": "Parade corps only", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1980, "showTitle": "", "repertoire": "Farandole by Georges Bizet / Left Bank Express by Pete Jackson / Encore in Jazz by Vic Firth / Friends by Al Jardine, Brian Wilson, Carl Wilson & Dennis Wilson / Exodus by Ernest Gold", "placement": "38th Place", "score": 52.050},
+   {"year": 1981, "showTitle": "", "repertoire": "Barnum by Cy Coleman & Michael Stewart / Aquarius (from Hair) by Galt MacDermot, James Rado & Gerome Ragni / Encore in Jazz by Vic Firth / Porgy and Bess Medley by George Gershwin & DuBose Heyward", "placement": "31st Place", "score": 59.600},
+   {"year": 1982, "showTitle": "", "repertoire": "Compendium by Ray Crawford / Carnival by Maynard Ferguson & Nick Lane / Aquarius (from Hair) by Galt MacDermot, James Rado & Gerome Ragni / Root Beer Rag by Billy Joel / Pavanne (from American Symphonette No. 2) by Morton Gould", "placement": "33rd Place", "score": 56.250},
+   {"year": 1984, "showTitle": "", "repertoire": "Run Back to Mama by Bill Chase & Jim Peterik / Night in Rome by Doc Severinsen & Jeff Tyzik / Bugle Call Rag by Billy Meyers, Jack Pettis & Elmer Schoebel / Magnum Opus by Kerry Livgren, Steve Walsh, Phil Ehart, Rich Williams, Dave Hope & Robbie Steinhardt (Kansas) / For Your Eyes Only by Bill Conti & Mick Leeson", "placement": "29th Place", "score": 66.600},
+   {"year": 1985, "showTitle": "", "repertoire": "Run Back to Mama by Bill Chase & Jim Peterik / Lover Man (Oh, Where Can You Be?) by Jimmy Davis, Ram Ramirez & Jimmy Sherman / Walk Between the Raindrops by Donald Fagen / Sunrise Lady by Bruce Johnstone / Race with the Devil on Spanish Highway by Al Di Meola / One Voice by Barry Manilow", "placement": "28th Place", "score": 70.200},
+   {"year": 1986, "showTitle": "", "repertoire": "Hungarian Dance No. 5 by Johannes Brahms / Doodletown Fifers (Kingdom Coming) / Salt Peanuts by Dizzy Gillespie & Kenny Clarke / Everything Happens to Me by Tom Adair & Matt Dennis", "placement": "15th Place", "score": 80.300},
+   {"year": 1987, "showTitle": "", "repertoire": "Bye Bye Blues by Fred Hamm, Dave Bennett, Bert Lown & Chauncey Gray / Autumn Leaves by Joseph Kosma & Jacques Prévert, adapted by Johnny Mercer / Body and Soul by Johnny Green, Edward Heyman, Robert Sour & Frank Eyton", "placement": "11th Place", "score": 85.700},
+   {"year": 1988, "showTitle": "", "repertoire": "That Old Black Magic by Harold Arlen & Johnny Mercer / Take Five by Paul Desmond / Autumn Leaves by Joseph Kosma & Jacques Prévert, adapted by Johnny Mercer", "placement": "11th Place", "score": 86.700},
+   {"year": 1989, "showTitle": "", "repertoire": "Johnny One Note & My Funny Valentine (from Babes in Arms) by Richard Rodgers & Lorenz Hart / Sing, Sing, Sing (With a Swing) by Louis Prima", "placement": "8th Place", "score": 90.300},
+   {"year": 1990, "showTitle": "", "repertoire": "Caravan by Juan Tizol / I Got It Bad (and that Ain't Good) by Duke Ellington & Paul Francis Webster / Don't Get Around Much Anymore by Duke Ellington & Bob Russell / It Don't Mean a Thing (If it Ain't Got That Swing) by Duke Ellington & Irving Mills", "placement": "8th Place", "score": 89.200},
+   {"year": 1991, "showTitle": "", "repertoire": "Nutville by Horace Silver / Palookaville by Larry Kerchner / A Whiter Shade of Pale by Gary Brooker, Keith Reid & Matthew Fisher", "placement": "11th Place", "score": 84.400},
+   {"year": 1992, "showTitle": "A Day in the Life", "repertoire": "Nowhere Man, Eleanor Rigby, The Long and Winding Road, Penny Lane, A Day in the Life & The End All by Lennon–McCartney", "placement": "11th Place", "score": 84.600},
+   {"year": 1993, "showTitle": "Standards in Blue: A Tribute to Dizzy Gillespie", "repertoire": "All The Things You Are (from Very Warm for May) by Jerome Kern & Oscar Hammerstein II / 'Round Midnight by Thelonious Monk / A Night in Tunisia by Dizzy Gillespie & Frank Paparelli", "placement": "9th Place", "score": 87.200},
+   {"year": 1994, "showTitle": "Blues", "repertoire": "Things Ain't What They Used to Be by Mercer Ellington & Ted Parsons / Blues for Alice by Charlie Parker / In a Sentimental Mood by Duke Ellington / Sandu by Clifford Brown / C Jam Blues by Duke Ellington", "placement": "9th Place", "score": 84.300},
+   {"year": 1995, "showTitle": "Homefront: 1945", "repertoire": "Come Rain or Come Shine by Harold Arlen & Johnny Mercer / Shippin' Out by Bruce McConnell / I'll Be Seeing You by Sammy Fain & Irving Kahal / Newsreel by Bruce McConnell / Sing, Sing, Sing (With a Swing) by Louis Prima", "placement": "7th Place", "score": 89.500},
+   {"year": 1996, "showTitle": "American Celebrations", "repertoire": "My Funny Valentine (from Babes in Arms) by Richard Rodgers & Lorenz Hart / Big Day in Bristol by Bruce McConnell / Yankee Doodle Dandy by George M. Cohan / Strike Up The Band by George Gershwin & Ira Gershwin / Prophet's Margin by Bruce McConnell / Have Yourself a Merry Little Christmas by Hugh Martin & Ralph Blane / Auld Lang Syne by Robert Burns", "placement": "7th Place", "score": 86.300},
+   {"year": 1997, "showTitle": "Midnight Blue... Jazz After Dark, The Bluecoats' Way", "repertoire": "Harlem Nocturne by Earle Hagen & Dick Rogers / Moon by Ennio Morricone / You and the Night and the Music by Arthur Schwartz & Howard Dietz", "placement": "11th Place", "score": 85.600},
+   {"year": 1998, "showTitle": "The Four Seasons of Jazz", "repertoire": "Winter (Original Music) / It Might As Well Be Spring (from State Fair) by Richard Rodgers & Oscar Hammerstein II / Summertime (from Porgy and Bess) by George Gershwin, DuBose Heyward & Ira Gershwin / Autumn Leaves by Joseph Kosma & Jacques Prévert, adapted by Johnny Mercer", "placement": "10th Place", "score": 87.100},
+   {"year": 1999, "showTitle": "Music of Chick Corea", "repertoire": "Armando's Rhumba, Duende, Leprechaun's Dream & Celebration Suite All by Chick Corea", "placement": "13th Place", "score": 83.000},
+   {"year": 2000, "showTitle": "Threshold", "repertoire": "Intro by Doug Thrower / And on the Sixth Day & The Witch by Patrick Williams / Air Antique by Claus Ogerman / Finale by Doug Thrower", "placement": "12th Place", "score": 84.400},
+   {"year": 2001, "showTitle": "Latin Sketches", "repertoire": "Intro, Candelabra Rhumba, Red Cape Tango & Tango-Finale All by Michael Daugherty", "placement": "8th Place", "score": 90.750},
+   {"year": 2002, "showTitle": "Urban Dances", "repertoire": "Sunrise (Original Music) / Paradise Utopia (from Concerto for Bass Trombone) by Chris Brubeck / Reflection (from Dancer in the Dark) by Björk / Pedal to the Metal (from Motor City Triptych) by Michael Daugherty", "placement": "7th Place", "score": 91.500},
+   {"year": 2003, "showTitle": "Capture and Escape", "repertoire": "Time to Take Back the Knights by Stephen Melillo / Adagio for Theresa by Al Di Meola / Mediterraneo by Giancarlo Bigazzi / Libertango by Astor Piazolla / Code Name: Eternity by Trevor Morris / Original Music by Doug Thrower", "placement": "7th Place", "score": 90.750},
+   {"year": 2004, "showTitle": "Mood Swings", "repertoire": "Ride by Samuel Hazo / One Day I'll Fly Away (from Moulin Rouge!) by Will Jennings & Joe Sample / Hunting Wabbits by Gordon Goodwin", "placement": "6th Place", "score": 92.125},
+   {"year": 2005, "showTitle": "Caravan", "repertoire": "Caravan by Juan Tizol / Incantation (from Quidam) by Benoît Jutras / Ombra (from Dralion) by Violaine Corradi / Hajj by Stephen Melillo", "placement": "5th Place", "score": 94.450},
+   {"year": 2006, "showTitle": "Connexus", "repertoire": "Roots of Coincidence by Pat Metheny & Lyle Mays / Distorted (from La Nouba) by Benoît Jutras / My Heart and I (from La piovra) by Ennio Morricone / The Tihai by Don Ellis", "placement": "4th Place", "score": 93.175},
+   {"year": 2007, "showTitle": "Criminal", "repertoire": "Criminal by Fiona Apple / Battle Music by David Holsinger / Small World by Trilok Gurtu & Robert Miles / Room Service by Michel Legrand / Smooth Criminal by Michael Jackson / Hummingbird by Steve Bryant / Timbuktu by Aaron Davis & Marc Jordan / Every Breath You Take by Sting", "placement": "7th Place", "score": 94.050},
+   {"year": 2008, "showTitle": "The Knockout", "repertoire": "On the Waterfront by Leonard Bernstein / The Boxer by Paul Simon / Excerpts from Rocky by Bill Conti / Excerpts from Rocky IV by Vince DiCola / Eye of the Tiger (from Rocky III) by Jim Peterik & Frankie Sullivan", "placement": "6th Place", "score": 93.175},
+   {"year": 2009, "showTitle": "Imagine", "repertoire": "Imagine by John Lennon / Children's Hour of Dream by Charles Mingus / Hunting Wabbits 2 by Gordon Goodwin / Sky Blue by Maria Schneider / Haitian Fight Song by Charles Mingus", "placement": "6th Place", "score": 93.150},
+   {"year": 2010, "showTitle": "Metropolis: The Future is Now", "repertoire": "160 BPM (from Angels & Demons) by Hans Zimmer / AHA! by Imogen Heap / Metropolis by Doug Thrower & Tom Rarick / Asphalt Cocktail by John Mackey", "placement": "3rd Place", "score": 96.400},
+   {"year": 2011, "showTitle": "Brave New World", "repertoire": "Creep by Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien & Phil Selway (Radiohead) and Albert Hammond & Mike Hazlewood / Deus Ex Machina by Michael Daugherty / Harvest: Concerto for Trombone by John Mackey", "placement": "7th Place", "score": 92.050},
+   {"year": 2012, "showTitle": "Unmasqued", "repertoire": "Masquerade (from The Phantom of the Opera) by Andrew Lloyd Webber / Filet (from Le Rêve) by Benoît Jutras / Flume by Justin Vernon / Ritual by Doug Thrower & Tom Rarick / Love Dance (from Kà) by René Dupéré / blue cathedral by Jennifer Higdon / Epiphanies (Fanfares and Chorales) by Ron Nelson", "placement": "6th Place", "score": 92.550},
+   {"year": 2013, "showTitle": "...to Look for America", "repertoire": "America by Paul Simon / Agnus Dei by Rufus Wainwright / Hallelujah by Leonard Cohen / City Life by Steve Reich / Spring (from The River) by Duke Ellington / Ebony Concerto by Igor Stravinsky / Concerto for Wind Ensemble, Mvt. 5 by Steven Bryant", "placement": "5th Place", "score": 93.350},
+   {"year": 2014, "showTitle": "TILT", "repertoire": "Uffe's Woodshop & Platinum Rows by Tyondai Braxton / The Hymn of Acxiom by Vienna Teng / to wALk Or ruN in wEst harlem by Andy Akiho", "placement": "2nd Place", "score": 97.175},
+   {"year": 2015, "showTitle": "Kinetic Noise", "repertoire": "Shaker Loops by John Adams & Jon Anderson / Electric Counterpoint by Steve Reich / Woods by Justin Vernon (Bon Iver) / Gene Takes a Drink by Michael Gordon / An Animated Description of Mr. Maps by Nick Zammuto & Paul de Jong (The Books) / Dense by Daniel Denis (Univers Zero)", "placement": "3rd Place", "score": 96.925},
+   {"year": 2016, "showTitle": "Down Side Up", "repertoire": "Jose/beFORe JOHN5 by Aurel Hollo / Heat of the Day by Pat Metheny & Lyle Mays / Raga Raja by Greg Pattillo, Eric Stephenson & Peter Seymour (Project Trio) / Udacrep Akubrad by Avner Dorman / Great Gig in the Sky (from The Dark Side of the Moon) by Roger Waters & Clare Torry (Pink Floyd) / Down Slide Up by Doug Thrower / Todo Tiende by Marina Abad, Javier Martin, Sergio Ramos, Xavier Turull & Maxwell Wright (Ojos de Brujo)", "placement": "1st Place", "score": 97.650},
+   {"year": 2017, "showTitle": "Jagged Line", "repertoire": "Prelude by Mark Radice & Thank You Scientist / Psychopomp by Thank You Scientist / Grow Till Tall by Jónsi / One Study One Summary by John Psathas / Zomby Woof by Frank Zappa", "placement": "5th Place", "score": 95.163},
+   {"year": 2018, "showTitle": "Session 44", "repertoire": "Bird & Bela in B Flat by Don Sebesky / American Concerto by Patrick Williams / The Dry Cleaner from Des Moines by Charles Mingus & Joni Mitchell / Pretty Saro (Traditional) / Home (from Congo Square) by Wynton Marsalis / God Bless the Child by Billie Holiday & Arthur Herzog, Jr.", "placement": "3rd Place", "score": 96.950},
+   {"year": 2019, "showTitle": "The Bluecoats", "repertoire": "Revolution Number 9 by John Lennon, Yoko Ono & George Harrison / Strawberry Fields Forever by John Lennon (as Lennon-McCartney) / Penny Lane & Sgt. Pepper's Lonely Hearts Club Band by Paul McCartney (as Lennon-McCartney) / A Day in the Life by Lennon–McCartney / What Goes On by John Lennon, Paul McCartney & Richard Starkey / \"Love Me Do\" & I Want to Hold Your Hand by Lennon–McCartney / Yesterday & Eleanor Rigby by Paul McCartney (as Lennon–McCartney) / Within You Without You & Here Comes the Sun by George Harrison / A Little Help From My Friends by Paul McCartney (as Lennon-McCartney) / Blackbird by Lennon–McCartney / Dear Prudence, Come Together & I Want You (She's So Heavy) by John Lennon (as Lennon–McCartney) / The End & Hey Jude by Paul McCartney (as Lennon-McCartney)", "placement": "2nd Place", "score": 98.238},
+   {"year": 2021, "showTitle": "Lucy", "repertoire": "The End, With a Little Help from My Friends & Hey Jude by Paul McCartney (as Lennon–McCartney) / 6 by AAESPO / Lucy in the Sky With Diamonds, I Am the Walrus, Being for the Benefit of Mr. Kite, Tomorrow Never Knows, & I Want You (She's So Heavy) by John Lennon (as Lennon-McCartney) / What Happens Now? by Porcupine Tree / Golden Slumbers & Carry That Weight by Paul McCartney (as Lennon-McCartney)", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Riffs and Revelations", "repertoire": "Taming the Dragon & The Garden by Brad Mehldau / Taizo by Henry Hey (Forq) / Nautilus & moonmoons by Anna Meredith / Momento Magico by Youn Sun Nah / Liminality by Dave Hall", "placement": "T-2nd Place", "score": 97.325},
+   {"year": 2023, "showTitle": "The Garden of Love", "repertoire": "Eleven by yMusic / The Woods by Chick Corea / The Garden of Love by Jacob TV / Finding and Believing by Pat Metheny / 45 by Bon Iver / Bump by Anna Meredith / So Many Layers of Colour Become a Deep Purple Heart by Edda Magnason", "placement": "2nd Place", "score": 97.738},
+   {"year": 2024, "showTitle": "Change Is Everything", "repertoire": "Change is Everything by Son Lux / Foreplay/Long Time by Boston / The Four Sections by Steve Reich / Rose by Michael Laurello / Plans We Made by Son Lux / Agape by Nicholas Britell / Love/Lover/Friend by Caroline Rose / Threshold by Sungazer / Dymaxion by Darcy James Argue's Secret Society / Lost It to Trying by Son Lux", "placement": "1st Place", "score": 98.750},
+   {"year": 2025, "showTitle": "The Observer Effect", "repertoire": "Binary Data by Alfonso Peduto / Piano Phase and Drumming by Steve Reich / Dream State by Son Lux / Solitude by M83 / Motto by Dmitry Selipanov / Endlessly by Son Lux", "placement": "2nd Place", "score": 98.250}
+ ]
+}

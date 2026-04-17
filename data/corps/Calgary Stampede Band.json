@@ -1,0 +1,25 @@
+{
+ "location": [
+   {
+     "city": "Calgary",
+     "state": "AB", 
+     "year": "1971-Present"
+   }
+ ],
+ "formerNames": [
+   "Calgary Stampede Showband"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI International Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2022-present", "className": "International Class"}
+ ],
+ "shows": [
+   {"year": 2022, "showTitle": "Untitled", "repertoire": "Firebird Suite * Morning Mood Variations * Appalachian Morning * There's No Place Like Home (from Lost) * Somewhere (from West Side Story) * Fire in the Blood", "placement": "26th Place", "score": 74.150},
+   {"year": 2023, "showTitle": "Sonic Playground", "repertoire": "Life Is Happiness Indeed (from Candide) * Sabre Dance * Sensemaya * Swing! * Once Upon Another Time * Overture to Candide", "placement": "Did not attend DCI", "score": null},
+   {"year": 2024, "showTitle": "Ghost Town", "repertoire": "Magnificent Seven * The Ecstacy of Gold * Coraline (theme) * The Ghost of Stephen Foster * Exile * The Hand of Fate, part 1", "placement": "Did not attend DCI", "score": null},
+   {"year": 2025, "showTitle": "If We Build It", "repertoire": "(Repertoire not available)", "placement": "24th Place", "score": 76.750}
+ ]
+}

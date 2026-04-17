@@ -1,0 +1,611 @@
+Date,City,State,Place,Corps,Class,Score,Year,Event_Name
+06/26,Rockford,MI,1,Boston Crusaders,World Class,73.0,2024
+06/28,Muncie,IN,1,Carolina Crown,World Class,74.9,2024
+06/28,San Diego,CA,1,Blue Devils,World Class,76.6,2024
+06/29,Bridgeport,CT,1,Spartans,Open Class,60.4,2024
+06/26,Rockford,MI,2,Phantom Regiment,World Class,70.15,2024
+06/28,Muncie,IN,2,Boston Crusaders,World Class,74.7,2024
+06/28,San Diego,CA,2,Vanguard,World Class,72.65,2024
+06/29,Bridgeport,CT,2,7th Regiment,Open Class,53.35,2024
+06/26,Rockford,MI,3,Cavaliers,World Class,68.25,2024
+06/28,Muncie,IN,3,Phantom Regiment,World Class,72.15,2024
+06/28,San Diego,CA,3,Mandarins,World Class,71.65,2024
+06/26,Rockford,MI,4,Blue Stars,World Class,66.65,2024
+06/28,Muncie,IN,4,Cavaliers,World Class,69.1,2024
+06/28,San Diego,CA,4,Pacific Crest,World Class,64.3,2024
+06/29,Bridgeport,CT,1,Reading Buccaneers,All-Age - World Class,76.95,2024
+06/26,Rockford,MI,5,Colts,World Class,65.4,2024
+06/28,Muncie,IN,5,Blue Stars,World Class,67.2,2024
+06/29,Bridgeport,CT,2,Bushwackers,All-Age - World Class,74.45,2024
+06/28,Muncie,IN,6,Colts,World Class,67.1,2024
+06/28,San Diego,CA,1,Blue Devils B,Open Class,61.95,2024
+06/29,Bridgeport,CT,3,Hawthorne Caballeros,All-Age - World Class,74.3,2024
+06/28,San Diego,CA,2,Gold,Open Class,59.0,2024
+06/29,Bridgeport,CT,4,Connecticut Hurricanes,All-Age - World Class,68.1,2024
+06/28,San Diego,CA,3,Impulse,Open Class,52.0,2024
+06/28,San Diego,CA,4,Vessel,Open Class,49.85,2024
+06/29,Bridgeport,CT,1,Fusion Core,All-Age - Open Class,66.3,2024
+06/28,San Diego,CA,5,Blue Devils C,Open Class,46.7,2024
+06/29,Bridgeport,CT,1,Sunrisers,All-Age - A Class,64.2,2024
+06/29,Madison,WI,1,Blue Stars,World Class,68.0,2024
+06/29,Los Angeles,CA,1,Blue Devils,World Class,77.1,2024
+06/30,Lisle,IL,1,Carolina Crown,World Class,77.1,2024
+06/30,San Bernardino,CA,1,Blue Devils,World Class,77.3,2024
+06/29,Madison,WI,2,Colts,World Class,67.6,2024
+06/29,Los Angeles,CA,2,Vanguard,World Class,72.35,2024
+06/30,Lisle,IL,2,Boston Crusaders,World Class,76.6,2024
+06/30,San Bernardino,CA,2,Vanguard,World Class,73.55,2024
+06/29,Madison,WI,3,Madison Scouts,World Class,65.85,2024
+06/29,Los Angeles,CA,3,Mandarins,World Class,71.25,2024
+06/30,Lisle,IL,3,Phantom Regiment,World Class,73.8,2024
+06/30,San Bernardino,CA,3,Mandarins,World Class,72.95,2024
+06/29,Los Angeles,CA,4,Pacific Crest,World Class,62.7,2024
+06/30,Lisle,IL,4,Cavaliers,World Class,71.85,2024
+06/30,San Bernardino,CA,4,Pacific Crest,World Class,64.0,2024
+06/29,Madison,WI,1,Colt Cadets,Open Class,54.95,2024
+06/30,Lisle,IL,5,Colts,World Class,70.7,2024
+06/29,Los Angeles,CA,1,Blue Devils B,Open Class,63.7,2024
+06/30,Lisle,IL,6,Blue Stars,World Class,70.4,2024
+06/30,San Bernardino,CA,1,Blue Devils B,Open Class,63.85,2024
+06/29,Madison,WI,1,Govenaires,All-Age - A Class,66.0,2024
+06/29,Los Angeles,CA,2,Gold,Open Class,59.45,2024
+06/30,Lisle,IL,7,Madison Scouts,World Class,67.4,2024
+06/30,San Bernardino,CA,2,Gold,Open Class,60.25,2024
+06/29,Los Angeles,CA,3,Vessel,Open Class,50.0,2024
+06/30,San Bernardino,CA,3,Impulse,Open Class,51.25,2024
+06/29,Los Angeles,CA,4,Impulse,Open Class,49.15,2024
+06/30,Lisle,IL,1,Colt Cadets,Open Class,57.45,2024
+06/30,San Bernardino,CA,4,Vessel,Open Class,51.05,2024
+06/29,Los Angeles,CA,5,Blue Devils C,Open Class,45.8,2024
+06/30,San Bernardino,CA,5,Blue Devils C,Open Class,46.7,2024
+07/02,Mason,OH,1,Bluecoats,World Class,78.75,2024
+07/03,Cedarburg,WI,1,Cavaliers,World Class,75.05,2024
+07/05,Rockford,IL,1,Phantom Regiment,World Class,77.5,2024
+07/02,Mason,OH,2,Boston Crusaders,World Class,78.45,2024
+07/03,Cedarburg,WI,2,Blue Stars,World Class,73.35,2024
+07/05,Rockford,IL,2,Cavaliers,World Class,75.9,2024
+07/02,Mason,OH,3,Carolina Crown,World Class,77.95,2024
+07/03,Cedarburg,WI,3,Colts,World Class,73.15,2024
+07/05,Rockford,IL,3,Blue Stars,World Class,74.1,2024
+07/02,Mason,OH,4,Phantom Regiment,World Class,75.6,2024
+07/03,Cedarburg,WI,4,Madison Scouts,World Class,70.2,2024
+07/05,Rockford,IL,4,Madison Scouts,World Class,71.35,2024
+07/02,Mason,OH,1,Cincinnati Tradition,All-Age - Open Class,74.95,2024
+07/03,Cedarburg,WI,1,Colt Cadets,Open Class,56.75,2024
+07/05,Rockford,IL,1,River City Rhythm,Open Class,61.6,2024
+07/05,Rockford,IL,2,Colt Cadets,Open Class,59.3,2024
+07/05,Clovis,CA,1,Blue Devils,World Class,80.6,2024
+07/05,Portland,OR,1,Troopers,World Class,71.45,2024
+07/06,Whitewater,WI,1,Bluecoats,World Class,81.9,2024
+07/05,Clovis,CA,2,Mandarins,World Class,76.6,2024
+07/05,Portland,OR,2,Blue Knights,World Class,69.6,2024
+07/06,Whitewater,WI,2,Phantom Regiment,World Class,79.15,2024
+07/05,Clovis,CA,3,Vanguard,World Class,75.9,2024
+07/05,Portland,OR,3,Seattle Cascades,World Class,61.65,2024
+07/06,Whitewater,WI,3,Cavaliers,World Class,77.15,2024
+07/05,Clovis,CA,4,Pacific Crest,World Class,68.65,2024
+07/06,Whitewater,WI,4,Colts,World Class,75.85,2024
+07/05,Clovis,CA,5,Academy,World Class,65.5,2024
+07/06,Whitewater,WI,5,Madison Scouts,World Class,72.5,2024
+07/06,Whitewater,WI,1,Colt Cadets,Open Class,61.15,2024
+07/06,Whitewater,WI,1,Rogues Hollow Regiment,All-Age - Open Class,72.7,2024
+07/06,Stanford,CA,1,Blue Devils,World Class,81.3,2024
+07/06,Seattle,WA,1,Troopers,World Class,72.9,2024
+07/07,LaCrosse,WI,1,Blue Stars,World Class,83.4,2024
+07/07,Sacramento,CA,1,Blue Devils,World Class,82.05,2024
+07/06,Stanford,CA,2,Mandarins,World Class,76.6,2024
+07/06,Seattle,WA,2,Blue Knights,World Class,72.25,2024
+07/07,LaCrosse,WI,2,Bluecoats,World Class,80.65,2024
+07/07,Sacramento,CA,2,Mandarins,World Class,78.4,2024
+07/06,Stanford,CA,3,Vanguard,World Class,76.1,2024
+07/06,Seattle,WA,3,Seattle Cascades,World Class,61.65,2024
+07/07,LaCrosse,WI,3,Phantom Regiment,World Class,76.65,2024
+07/07,Sacramento,CA,3,Vanguard,World Class,77.5,2024
+07/06,Stanford,CA,4,Pacific Crest,World Class,70.7,2024
+07/07,LaCrosse,WI,4,Colts,World Class,75.55,2024
+07/07,Sacramento,CA,4,Pacific Crest,World Class,71.05,2024
+07/06,Stanford,CA,5,Academy,World Class,67.25,2024
+07/06,Seattle,WA,1,Columbians,Open Class,64.95,2024
+07/07,LaCrosse,WI,5,Madison Scouts,World Class,73.15,2024
+07/07,Sacramento,CA,5,Academy,World Class,68.35,2024
+07/06,Stanford,CA,1,Blue Devils B,Open Class,66.0,2024
+07/07,LaCrosse,WI,1,River City Rhythm,Open Class,62.1,2024
+07/07,Sacramento,CA,1,Blue Devils B,Open Class,68.1,2024
+07/06,Stanford,CA,2,Gold,Open Class,63.25,2024
+07/07,Sacramento,CA,2,Gold,Open Class,65.05,2024
+07/06,Stanford,CA,3,Impulse,Open Class,58.4,2024
+07/07,Sacramento,CA,3,Impulse,Open Class,59.1,2024
+07/06,Stanford,CA,4,Golden Empire,Open Class,57.15,2024
+07/07,Sacramento,CA,4,Golden Empire,Open Class,58.25,2024
+07/06,Stanford,CA,5,Vessel,Open Class,55.95,2024
+07/07,Sacramento,CA,5,Blue Devils C,Open Class,52.25,2024
+07/06,Stanford,CA,6,Blue Devils C,Open Class,52.3,2024
+07/08,Sevierville,TN,1,Carolina Crown,World Class,83.45,2024
+07/08,Kennewick,WA,1,Troopers,World Class,75.75,2024
+07/09,Newnan,GA,1,Boston Crusaders,World Class,84.9,2024
+07/08,Sevierville,TN,2,Crossmen,World Class,74.65,2024
+07/08,Kennewick,WA,2,Blue Knights,World Class,74.4,2024
+07/09,Newnan,GA,2,Crossmen,World Class,76.0,2024
+07/08,Sevierville,TN,3,Spirit of Atlanta,World Class,71.2,2024
+07/08,Kennewick,WA,3,Seattle Cascades,World Class,63.15,2024
+07/09,Newnan,GA,3,Spirit of Atlanta,World Class,72.2,2024
+07/08,Sevierville,TN,4,Music City,World Class,69.95,2024
+07/09,Newnan,GA,4,Music City,World Class,71.25,2024
+07/08,Kennewick,WA,1,Columbians,Open Class,64.6,2024
+07/08,Sevierville,TN,1,Spartans,Open Class,66.75,2024
+07/09,Newnan,GA,1,Spartans,Open Class,68.5,2024
+07/09,Newnan,GA,1,Atlanta CV,All-Age - World Class,76.65,2024
+07/09,Mankato,MN,1,Phantom Regiment,World Class,81.4,2024
+07/09,Boise,ID,1,Mandarins,World Class,80.0,2024
+07/10,Ogden,UT,1,Blue Devils,World Class,84.0,2024
+07/11,Dubuque,IA,1,Phantom Regiment,World Class,82.9,2024
+07/09,Mankato,MN,2,Colts,World Class,76.95,2024
+07/09,Boise,ID,2,Troopers,World Class,75.2,2024
+07/10,Ogden,UT,2,Mandarins,World Class,79.9,2024
+07/11,Dubuque,IA,2,Cavaliers,World Class,78.1,2024
+07/09,Mankato,MN,3,Madison Scouts,World Class,74.95,2024
+07/09,Boise,ID,3,Blue Knights,World Class,73.5,2024
+07/10,Ogden,UT,3,Vanguard,World Class,79.65,2024
+07/11,Dubuque,IA,2,Colts,World Class,78.1,2024
+07/09,Boise,ID,4,Seattle Cascades,World Class,64.8,2024
+07/10,Ogden,UT,4,Troopers,World Class,76.65,2024
+07/11,Dubuque,IA,4,Blue Stars,World Class,78.05,2024
+07/09,Mankato,MN,1,River City Rhythm,Open Class,66.65,2024
+07/10,Ogden,UT,5,Blue Knights,World Class,74.7,2024
+07/09,Mankato,MN,2,Colt Cadets,Open Class,61.1,2024
+07/10,Ogden,UT,6,Pacific Crest,World Class,71.65,2024
+07/11,Dubuque,IA,1,River City Rhythm,Open Class,66.05,2024
+07/10,Ogden,UT,7,Academy,World Class,70.7,2024
+07/11,Dubuque,IA,2,Colt Cadets,Open Class,61.05,2024
+07/09,Mankato,MN,1,Govenaires,All-Age - A Class,69.05,2024
+07/10,Ogden,UT,8,Seattle Cascades,World Class,63.9,2024
+07/10,Ogden,UT,1,Battalion,Open Class,60.75,2024
+07/12,Cheyenne,WY,1,Troopers,World Class,78.4,2024
+07/12,Riverside,CA,1,Blue Devils B,Open Class,71.7,2024
+07/13,Clifton,NJ,1,Jersey Surf,World Class,63.8,2024
+07/13,Little Rock,AR,1,Boston Crusaders,World Class,86.15,2024
+07/12,Cheyenne,WY,2,Academy,World Class,74.45,2024
+07/12,Riverside,CA,2,Gold,Open Class,68.25,2024
+07/13,Little Rock,AR,2,Carolina Crown,World Class,85.25,2024
+07/12,Cheyenne,WY,3,Pacific Crest,World Class,71.55,2024
+07/12,Riverside,CA,3,Impulse,Open Class,62.55,2024
+07/13,Clifton,NJ,1,Reading Buccaneers,All-Age - World Class,85.85,2024
+07/13,Little Rock,AR,3,Crossmen,World Class,77.2,2024
+07/12,Cheyenne,WY,4,Genesis,World Class,67.95,2024
+07/12,Riverside,CA,4,Golden Empire,Open Class,60.05,2024
+07/13,Clifton,NJ,2,Bushwackers,All-Age - World Class,84.0,2024
+07/13,Little Rock,AR,4,Spirit of Atlanta,World Class,75.25,2024
+07/12,Cheyenne,WY,5,Seattle Cascades,World Class,64.2,2024
+07/12,Riverside,CA,5,Vessel,Open Class,59.9,2024
+07/13,Clifton,NJ,3,Hawthorne Caballeros,All-Age - World Class,81.95,2024
+07/13,Little Rock,AR,5,Music City,World Class,73.1,2024
+07/13,Clifton,NJ,4,Connecticut Hurricanes,All-Age - World Class,77.75,2024
+07/12,Cheyenne,WY,1,Battalion,Open Class,62.7,2024
+07/13,Clifton,NJ,1,Fusion Core,All-Age - Open Class,73.65,2024
+07/13,Clifton,NJ,1,Sunrisers,All-Age - A Class,70.05,2024
+07/13,DeKalb,IL,1,Bluecoats,World Class,87.05,2024
+07/13,Fort Collins,CO,1,Blue Devils,World Class,85.55,2024
+07/13,Vista,CA,1,Blue Devils B,Open Class,72.95,2024
+07/14,Ankeny,IA,1,Bluecoats,World Class,88.35,2024
+07/13,DeKalb,IL,2,Phantom Regiment,World Class,84.75,2024
+07/13,Fort Collins,CO,2,Vanguard,World Class,82.0,2024
+07/13,Vista,CA,2,Gold,Open Class,70.4,2024
+07/14,Ankeny,IA,2,Blue Stars,World Class,81.15,2024
+07/13,DeKalb,IL,3,Cavaliers,World Class,79.6,2024
+07/13,Fort Collins,CO,3,Mandarins,World Class,81.7,2024
+07/13,Vista,CA,3,Impulse,Open Class,65.15,2024
+07/14,Ankeny,IA,3,Colts,World Class,79.8,2024
+07/13,DeKalb,IL,4,Blue Stars,World Class,78.9,2024
+07/13,Fort Collins,CO,4,Troopers,World Class,77.75,2024
+07/13,Vista,CA,4,Golden Empire,Open Class,62.45,2024
+07/13,DeKalb,IL,5,Colts,World Class,78.85,2024
+07/13,Fort Collins,CO,5,Blue Knights,World Class,75.15,2024
+07/13,Vista,CA,5,Vessel,Open Class,60.2,2024
+07/14,Ankeny,IA,1,River City Rhythm,Open Class,67.05,2024
+07/13,DeKalb,IL,6,Madison Scouts,World Class,74.45,2024
+07/13,Fort Collins,CO,6,Pacific Crest,World Class,74.05,2024
+07/14,Ankeny,IA,2,Colt Cadets,Open Class,64.5,2024
+07/13,Fort Collins,CO,7,Academy,World Class,72.35,2024
+07/13,DeKalb,IL,1,Spartans,Open Class,69.15,2024
+07/13,Fort Collins,CO,8,Genesis,World Class,67.95,2024
+07/14,Ankeny,IA,1,Govenaires,All-Age - A Class,70.8,2024
+07/13,Fort Collins,CO,9,Seattle Cascades,World Class,64.5,2024
+07/13,Fort Collins,CO,1,Battalion,Open Class,62.05,2024
+07/14,Cerritos,CA,1,Blue Devils B,Open Class,73.7,2024
+07/15,Canyon,TX,1,Vanguard,World Class,83.25,2024
+07/15,Olathe,KS,1,Phantom Regiment,World Class,85.35,2024
+07/14,Cerritos,CA,2,Gold,Open Class,71.25,2024
+07/15,Canyon,TX,2,Pacific Crest,World Class,75.6,2024
+07/15,Olathe,KS,2,Colts,World Class,80.1,2024
+07/14,Cerritos,CA,3,Impulse,Open Class,65.75,2024
+07/15,Canyon,TX,3,Blue Knights,World Class,75.2,2024
+07/15,Olathe,KS,3,Troopers,World Class,79.1,2024
+07/14,Cerritos,CA,4,Golden Empire,Open Class,63.35,2024
+07/15,Canyon,TX,4,Academy,World Class,72.85,2024
+07/15,Olathe,KS,4,Madison Scouts,World Class,76.35,2024
+07/14,Cerritos,CA,5,Vessel,Open Class,60.8,2024
+07/15,Canyon,TX,5,Genesis,World Class,68.2,2024
+07/15,Canyon,TX,6,Seattle Cascades,World Class,64.6,2024
+07/15,Olathe,KS,1,Colt Cadets,Open Class,63.75,2024
+07/16,Abilene,TX,1,Blue Knights,World Class,77.7,2024
+07/16,Broken Arrow,OK,1,Bluecoats,World Class,89.15,2024
+07/18,Waco,TX,1,Cavaliers,World Class,82.6,2024
+07/18,Denton,TX,1,Bluecoats,World Class,90.5,2024
+07/16,Abilene,TX,2,Crossmen,World Class,77.6,2024
+07/16,Broken Arrow,OK,2,Blue Devils,World Class,88.25,2024
+07/18,Waco,TX,2,Madison Scouts,World Class,79.75,2024
+07/18,Denton,TX,2,Boston Crusaders,World Class,89.65,2024
+07/16,Abilene,TX,3,Pacific Crest,World Class,77.45,2024
+07/16,Broken Arrow,OK,2,Boston Crusaders,World Class,88.25,2024
+07/18,Waco,TX,3,Blue Knights,World Class,79.0,2024
+07/18,Denton,TX,3,Carolina Crown,World Class,87.975,2024
+07/16,Abilene,TX,4,Music City,World Class,73.5,2024
+07/16,Broken Arrow,OK,4,Carolina Crown,World Class,86.75,2024
+07/18,Waco,TX,4,Spirit of Atlanta,World Class,77.4,2024
+07/18,Denton,TX,4,Phantom Regiment,World Class,86.6,2024
+07/16,Abilene,TX,5,Genesis,World Class,69.35,2024
+07/16,Broken Arrow,OK,5,Phantom Regiment,World Class,84.55,2024
+07/18,Waco,TX,5,Academy,World Class,74.5,2024
+07/18,Denton,TX,5,Vanguard,World Class,84.3,2024
+07/16,Abilene,TX,6,Seattle Cascades,World Class,65.85,2024
+07/16,Broken Arrow,OK,6,Mandarins,World Class,82.5,2024
+07/18,Waco,TX,6,Genesis,World Class,70.3,2024
+07/18,Denton,TX,6,Crossmen,World Class,78.05,2024
+07/16,Broken Arrow,OK,7,Cavaliers,World Class,80.95,2024
+07/18,Waco,TX,7,Seattle Cascades,World Class,67.5,2024
+07/18,Denton,TX,7,Pacific Crest,World Class,77.45,2024
+07/16,Abilene,TX,1,Guardians,World Class,60.75,2024
+07/18,Waco,TX,8,Jersey Surf,World Class,65.4,2024
+07/18,Denton,TX,8,Music City,World Class,74.95,2024
+07/19,Bellbrook,OH,1,Spartans,Open Class,73.85,2024
+07/19,Prairie View,TX,1,Bluecoats,World Class,92.1,2024
+07/20,Brunswick,OH,1,Spartans,Open Class,75.85,2024
+07/20,Landisville,PA,1,Raiders,Open Class,62.45,2024
+07/19,Bellbrook,OH,2,Battalion,Open Class,70.05,2024
+07/19,Prairie View,TX,2,Blue Devils,World Class,91.15,2024
+07/20,Brunswick,OH,2,Battalion,Open Class,72.8,2024
+07/19,Bellbrook,OH,2,River City Rhythm,Open Class,70.05,2024
+07/19,Prairie View,TX,3,Carolina Crown,World Class,89.8,2024
+07/20,Brunswick,OH,3,River City Rhythm,Open Class,70.9,2024
+07/20,Landisville,PA,1,Reading Buccaneers,All-Age - World Class,87.95,2024
+07/19,Prairie View,TX,4,Mandarins,World Class,86.4,2024
+07/20,Landisville,PA,2,Bushwackers,All-Age - World Class,85.3,2024
+07/19,Bellbrook,OH,1,Cincinnati Tradition,All-Age - Open Class,82.85,2024
+07/19,Prairie View,TX,5,Cavaliers,World Class,84.0,2024
+07/20,Brunswick,OH,1,Cincinnati Tradition,All-Age - Open Class,83.25,2024
+07/20,Landisville,PA,3,Hawthorne Caballeros,All-Age - World Class,85.05,2024
+07/19,Prairie View,TX,6,Blue Stars,World Class,83.4,2024
+07/20,Brunswick,OH,2,Rogues Hollow Regiment,All-Age - Open Class,77.4,2024
+07/19,Bellbrook,OH,1,Columbus Saints,All-Age - A Class,69.1,2024
+07/19,Prairie View,TX,7,Colts,World Class,81.95,2024
+07/20,Landisville,PA,1,White Sabers,All-Age - Open Class,77.95,2024
+07/20,Landisville,PA,2,Fusion Core,All-Age - Open Class,76.0,2024
+07/19,Prairie View,TX,1,Guardians,World Class,63.6,2024
+07/20,Landisville,PA,1,Skyliners,All-Age - A Class,67.0,2024
+07/20,San Antonio,TX,1,Bluecoats,World Class,93.025,2024
+07/22,Mesquite,TX,1,Carolina Crown,World Class,90.55,2024
+07/23,Syracuse,NY,1,Spartans,Open Class,77.9,2024
+07/23,McKinney,TX,1,Vanguard,World Class,89.4,2024
+07/20,San Antonio,TX,2,Blue Devils,World Class,91.875,2024
+07/22,Mesquite,TX,2,Mandarins,World Class,88.15,2024
+07/23,Syracuse,NY,2,Battalion,Open Class,74.1,2024
+07/23,McKinney,TX,2,Mandarins,World Class,89.0,2024
+07/20,San Antonio,TX,3,Boston Crusaders,World Class,91.85,2024
+07/22,Mesquite,TX,3,Cavaliers,World Class,85.3,2024
+07/23,Syracuse,NY,3,7th Regiment,Open Class,64.0,2024
+07/23,McKinney,TX,3,Blue Stars,World Class,85.85,2024
+07/20,San Antonio,TX,4,Carolina Crown,World Class,89.925,2024
+07/22,Mesquite,TX,4,Colts,World Class,83.9,2024
+07/23,Syracuse,NY,4,Les Stentors,Open Class,58.55,2024
+07/23,McKinney,TX,4,Troopers,World Class,82.55,2024
+07/20,San Antonio,TX,5,Phantom Regiment,World Class,89.625,2024
+07/22,Mesquite,TX,5,Crossmen,World Class,80.8,2024
+07/23,McKinney,TX,5,Blue Knights,World Class,81.3,2024
+07/20,San Antonio,TX,6,Vanguard,World Class,87.525,2024
+07/22,Mesquite,TX,5,Madison Scouts,World Class,80.8,2024
+07/23,Syracuse,NY,1,White Sabers,All-Age - Open Class,78.0,2024
+07/23,McKinney,TX,6,Seattle Cascades,World Class,70.2,2024
+07/20,San Antonio,TX,7,Mandarins,World Class,87.225,2024
+07/22,Mesquite,TX,7,Pacific Crest,World Class,78.4,2024
+07/23,McKinney,TX,7,Genesis,World Class,70.1,2024
+07/20,San Antonio,TX,8,Blue Stars,World Class,84.938,2024
+07/22,Mesquite,TX,8,Academy,World Class,75.8,2024
+07/23,McKinney,TX,8,Jersey Surf,World Class,69.0,2024
+07/20,San Antonio,TX,9,Cavaliers,World Class,84.675,2024
+07/22,Mesquite,TX,8,Music City,World Class,75.8,2024
+07/20,San Antonio,TX,10,Colts,World Class,83.35,2024
+07/22,Mesquite,TX,10,Jersey Surf,World Class,69.05,2024
+07/20,San Antonio,TX,11,Troopers,World Class,81.875,2024
+07/20,San Antonio,TX,12,Madison Scouts,World Class,80.05,2024
+07/22,Mesquite,TX,1,Guardians,World Class,64.5,2024
+07/20,San Antonio,TX,13,Crossmen,World Class,79.925,2024
+07/20,San Antonio,TX,14,Blue Knights,World Class,79.1,2024
+07/20,San Antonio,TX,15,Pacific Crest,World Class,77.375,2024
+07/20,San Antonio,TX,16,Spirit of Atlanta,World Class,77.35,2024
+07/20,San Antonio,TX,17,Academy,World Class,75.0,2024
+07/20,San Antonio,TX,18,Music City,World Class,74.35,2024
+07/20,San Antonio,TX,19,Genesis,World Class,70.225,2024
+07/20,San Antonio,TX,20,Seattle Cascades,World Class,69.225,2024
+07/20,San Antonio,TX,21,Jersey Surf,World Class,68.875,2024
+07/20,San Antonio,TX,1,Guardians,World Class,64.375,2024
+07/24,Monroe,LA,1,Vanguard,World Class,89.825,2024
+07/26,Dover,PA,1,Spartans,Open Class,79.0,2024
+07/26,Birmingham,AL,1,Colts,World Class,85.55,2024
+07/24,Monroe,LA,2,Blue Stars,World Class,87.45,2024
+07/26,Dover,PA,2,Gold,Open Class,77.25,2024
+07/26,Birmingham,AL,2,Troopers,World Class,85.35,2024
+07/24,Monroe,LA,3,Cavaliers,World Class,86.65,2024
+07/26,Dover,PA,3,Battalion,Open Class,74.8,2024
+07/26,Birmingham,AL,3,Blue Knights,World Class,82.45,2024
+07/24,Monroe,LA,4,Troopers,World Class,84.0,2024
+07/26,Dover,PA,4,Raiders,Open Class,64.45,2024
+07/26,Birmingham,AL,4,Madison Scouts,World Class,82.325,2024
+07/24,Monroe,LA,5,Blue Knights,World Class,82.85,2024
+07/26,Dover,PA,5,7th Regiment,Open Class,64.4,2024
+07/26,Birmingham,AL,5,Spirit of Atlanta,World Class,81.0,2024
+07/24,Monroe,LA,6,Genesis,World Class,71.7,2024
+07/26,Dover,PA,6,Les Stentors,Open Class,60.7,2024
+07/26,Birmingham,AL,6,Crossmen,World Class,80.7,2024
+07/24,Monroe,LA,7,Jersey Surf,World Class,69.95,2024
+07/26,Birmingham,AL,7,Jersey Surf,World Class,71.55,2024
+07/26,Birmingham,AL,1,Atlanta CV,All-Age - World Class,82.6,2024
+07/26,Murfreesboro,TN,1,Bluecoats,World Class,94.45,2024
+07/27,Mount Olive,NJ,1,Reading Buccaneers,All-Age - World Class,91.3,2024
+07/27,Sheffield,PA,1,Spartans,Open Class,80.15,2024
+07/27,Atlanta,GA,1,Bluecoats,World Class,94.425,2024
+07/26,Murfreesboro,TN,2,Boston Crusaders,World Class,93.35,2024
+07/27,Mount Olive,NJ,2,Bushwackers,All-Age - World Class,89.85,2024
+07/27,Sheffield,PA,2,Gold,Open Class,78.1,2024
+07/27,Atlanta,GA,2,Boston Crusaders,World Class,93.875,2024
+07/26,Murfreesboro,TN,3,Blue Devils,World Class,92.75,2024
+07/27,Mount Olive,NJ,3,Hawthorne Caballeros,All-Age - World Class,87.85,2024
+07/27,Sheffield,PA,3,Battalion,Open Class,75.5,2024
+07/27,Atlanta,GA,3,Blue Devils,World Class,93.325,2024
+07/26,Murfreesboro,TN,4,Phantom Regiment,World Class,90.65,2024
+07/27,Mount Olive,NJ,4,Connecticut Hurricanes,All-Age - World Class,81.85,2024
+07/27,Sheffield,PA,4,Raiders,Open Class,66.75,2024
+07/27,Atlanta,GA,4,Phantom Regiment,World Class,91.65,2024
+07/26,Murfreesboro,TN,5,Carolina Crown,World Class,90.5,2024
+07/27,Sheffield,PA,5,7th Regiment,Open Class,65.7,2024
+07/27,Atlanta,GA,5,Carolina Crown,World Class,91.575,2024
+07/26,Murfreesboro,TN,6,Mandarins,World Class,88.2,2024
+07/27,Mount Olive,NJ,1,White Sabers,All-Age - Open Class,82.35,2024
+07/27,Sheffield,PA,6,Les Stentors,Open Class,61.85,2024
+07/27,Atlanta,GA,6,Vanguard,World Class,89.475,2024
+07/26,Murfreesboro,TN,7,Cavaliers,World Class,85.45,2024
+07/27,Mount Olive,NJ,2,Fusion Core,All-Age - Open Class,71.45,2024
+07/27,Atlanta,GA,7,Mandarins,World Class,88.15,2024
+07/26,Murfreesboro,TN,8,Music City,World Class,77.9,2024
+07/27,Sheffield,PA,1,Rogues Hollow Regiment,All-Age - Open Class,79.3,2024
+07/27,Atlanta,GA,8,Blue Stars,World Class,86.725,2024
+07/27,Mount Olive,NJ,1,Sunrisers,All-Age - A Class,70.85,2024
+07/27,Atlanta,GA,9,Colts,World Class,85.85,2024
+07/27,Atlanta,GA,10,Crossmen,World Class,81.725,2024
+07/27,Atlanta,GA,11,Spirit of Atlanta,World Class,80.8,2024
+07/27,Atlanta,GA,12,Academy,World Class,78.45,2024
+07/27,Atlanta,GA,13,Genesis,World Class,73.75,2024
+07/27,Atlanta,GA,1,Atlanta CV,All-Age - World Class,82.775,2024
+07/28,Winston-Salem,NC,1,Bluecoats,World Class,94.7,2024
+07/28,Orville,OH,1,Spartans,Open Class,80.05,2024
+07/30,Newark,DE,1,Bluecoats,World Class,95.225,2024
+07/30,Centerville,OH,1,Mandarins,World Class,90.25,2024
+07/28,Winston-Salem,NC,2,Blue Devils,World Class,93.4,2024
+07/28,Orville,OH,2,Gold,Open Class,77.95,2024
+07/30,Newark,DE,2,Blue Devils,World Class,94.25,2024
+07/30,Centerville,OH,2,Blue Stars,World Class,88.45,2024
+07/28,Winston-Salem,NC,3,Carolina Crown,World Class,91.95,2024
+07/28,Orville,OH,3,Raiders,Open Class,67.7,2024
+07/30,Newark,DE,3,Vanguard,World Class,90.8,2024
+07/30,Centerville,OH,3,Madison Scouts,World Class,84.95,2024
+07/28,Winston-Salem,NC,4,Mandarins,World Class,88.8,2024
+07/28,Orville,OH,4,7th Regiment,Open Class,66.8,2024
+07/30,Newark,DE,4,Troopers,World Class,86.65,2024
+07/30,Centerville,OH,4,Music City,World Class,80.9,2024
+07/28,Winston-Salem,NC,5,Troopers,World Class,86.375,2024
+07/28,Orville,OH,5,Les Stentors,Open Class,62.85,2024
+07/30,Newark,DE,5,Blue Knights,World Class,83.4,2024
+07/30,Centerville,OH,5,Genesis,World Class,76.7,2024
+07/28,Winston-Salem,NC,6,Cavaliers,World Class,86.0,2024
+07/30,Newark,DE,6,Crossmen,World Class,82.25,2024
+07/28,Winston-Salem,NC,7,Madison Scouts,World Class,83.5,2024
+07/28,Orville,OH,1,Cincinnati Tradition,All-Age - Open Class,85.35,2024
+07/30,Newark,DE,7,Jersey Surf,World Class,73.45,2024
+07/30,Centerville,OH,1,Raiders,Open Class,68.45,2024
+07/28,Winston-Salem,NC,8,Blue Knights,World Class,82.6,2024
+07/28,Orville,OH,2,Rogues Hollow Regiment,All-Age - Open Class,79.3,2024
+07/30,Centerville,OH,2,7th Regiment,Open Class,65.9,2024
+07/28,Winston-Salem,NC,9,Pacific Crest,World Class,82.4,2024
+07/28,Winston-Salem,NC,10,Music City,World Class,74.95,2024
+07/28,Orville,OH,1,Columbus Saints,All-Age - A Class,67.75,2024
+07/30,Centerville,OH,1,Cincinnati Tradition,All-Age - Open Class,83.9,2024
+07/28,Winston-Salem,NC,11,Seattle Cascades,World Class,73.275,2024
+07/28,Winston-Salem,NC,12,Jersey Surf,World Class,72.05,2024
+07/30,Salem,VA,1,Carolina Crown,World Class,93.2,2024
+07/31,Huntington,WV,1,Phantom Regiment,World Class,92.275,2024
+07/31,Apple Valley,MN,1,Columbians,Open Class,76.55,2024
+07/31,Egg Harbor Township,NJ,1,Jersey Surf,World Class,,2024
+07/30,Salem,VA,2,Colts,World Class,86.9,2024
+07/31,Huntington,WV,2,Mandarins,World Class,90.5,2024
+07/31,Apple Valley,MN,2,River City Rhythm,Open Class,76.1,2024
+07/31,Egg Harbor Township,NJ,2,Bluecoats,World Class,,2024
+07/30,Salem,VA,3,Cavaliers,World Class,86.45,2024
+07/31,Huntington,WV,3,Blue Stars,World Class,88.475,2024
+07/31,Apple Valley,MN,3,Colt Cadets,Open Class,72.0,2024
+07/31,Egg Harbor Township,NJ,3,Carolina Crown,World Class,,2024
+07/30,Salem,VA,4,Pacific Crest,World Class,83.9,2024
+07/31,Huntington,WV,4,Madison Scouts,World Class,84.65,2024
+07/31,Egg Harbor Township,NJ,4,Colts,World Class,,2024
+07/30,Salem,VA,5,Academy,World Class,79.85,2024
+07/31,Huntington,WV,5,Spirit of Atlanta,World Class,81.5,2024
+07/31,Apple Valley,MN,1,Govenaires,All-Age - A Class,76.2,2024
+07/31,Egg Harbor Township,NJ,5,Blue Knights,World Class,,2024
+07/30,Salem,VA,6,Seattle Cascades,World Class,74.5,2024
+07/31,Huntington,WV,6,Genesis,World Class,77.0,2024
+07/31,Egg Harbor Township,NJ,6,Crossmen,World Class,,2024
+07/31,Huntington,WV,1,Spartans,Open Class,77.55,2024
+07/31,Huntington,WV,2,Gold,Open Class,76.65,2024
+07/31,Huntington,WV,3,Les Stentors,Open Class,63.2,2024
+08/01,Lawrence,MA,1,Boston Crusaders,World Class,94.95,2024
+08/02,Cedar Rapids,IA,1,Battalion,Open Class,78.5,2024
+08/02,Allentown,PA,1,Bluecoats,World Class,95.9,2024
+08/01,Lawrence,MA,2,Carolina Crown,World Class,92.7,2024
+08/02,Cedar Rapids,IA,2,Columbians,Open Class,76.7,2024
+08/02,Allentown,PA,2,Blue Devils,World Class,94.65,2024
+08/01,Lawrence,MA,3,Vanguard,World Class,91.0,2024
+08/02,Cedar Rapids,IA,3,River City Rhythm,Open Class,75.6,2024
+08/02,Allentown,PA,3,Colts,World Class,88.0,2024
+08/01,Lawrence,MA,4,Cavaliers,World Class,87.3,2024
+08/02,Cedar Rapids,IA,4,Colt Cadets,Open Class,71.95,2024
+08/02,Allentown,PA,4,Cavaliers,World Class,86.675,2024
+08/01,Lawrence,MA,5,Troopers,World Class,86.85,2024
+08/02,Allentown,PA,5,Madison Scouts,World Class,84.9,2024
+08/02,Allentown,PA,6,Pacific Crest,World Class,83.275,2024
+08/02,Allentown,PA,7,Blue Knights,World Class,83.25,2024
+08/02,Allentown,PA,8,Academy,World Class,80.05,2024
+08/02,Allentown,PA,9,Music City,World Class,79.725,2024
+08/02,Allentown,PA,10,Genesis,World Class,76.85,2024
+08/03,Rochester,NY,1,Colts,World Class,88.8,2024
+08/03,Mattoon,IL,1,Battalion,Open Class,78.65,2024
+08/03,Evansville,IN,1,Spartans,Open Class,81.7,2024
+08/04,Downingtown,PA,1,Boston Crusaders,World Class,95.55,2024
+08/03,Rochester,NY,2,Cavaliers,World Class,88.0,2024
+08/03,Mattoon,IL,2,Columbians,Open Class,76.95,2024
+08/03,Evansville,IN,2,Gold,Open Class,79.65,2024
+08/04,Downingtown,PA,2,Carolina Crown,World Class,93.95,2024
+08/03,Rochester,NY,3,Blue Knights,World Class,85.35,2024
+08/03,Mattoon,IL,3,River City Rhythm,Open Class,75.35,2024
+08/03,Evansville,IN,3,Raiders,Open Class,71.35,2024
+08/04,Downingtown,PA,3,Madison Scouts,World Class,85.7,2024
+08/03,Rochester,NY,4,Music City,World Class,82.1,2024
+08/03,Mattoon,IL,4,Colt Cadets,Open Class,71.55,2024
+08/03,Evansville,IN,4,7th Regiment,Open Class,70.45,2024
+08/04,Downingtown,PA,4,Jersey Surf,World Class,75.7,2024
+08/03,Rochester,NY,5,Academy,World Class,81.0,2024
+08/03,Evansville,IN,5,Les Stentors,Open Class,66.15,2024
+08/03,Rochester,NY,6,Genesis,World Class,78.75,2024
+08/04,Downingtown,PA,1,Reading Buccaneers,All-Age - World Class,92.3,2024
+08/03,Evansville,IN,1,Columbus Saints,All-Age - A Class,67.5,2024
+08/04,Downingtown,PA,2,Hawthorne Caballeros,All-Age - World Class,90.25,2024
+08/03,Rochester,NY,1,Connecticut Hurricanes,All-Age - World Class,86.1,2024
+08/04,Downingtown,PA,3,Bushwackers,All-Age - World Class,89.05,2024
+08/03,Rochester,NY,1,White Sabers,All-Age - Open Class,84.9,2024
+08/04,Downingtown,PA,1,Fusion Core,All-Age - Open Class,79.1,2024
+08/03,Rochester,NY,2,Rogues Hollow Regiment,All-Age - Open Class,83.0,2024
+08/03,Rochester,NY,1,Sunrisers,All-Age - A Class,77.25,2024
+08/03,Rochester,NY,2,Skyliners,All-Age - A Class,73.8,2024
+08/05,Pittsburgh,PA,1,Vanguard,World Class,92.6,2024
+08/05,Canton,OH,1,Bluecoats,World Class,96.0,2024
+08/05,Pittsburgh,PA,2,Madison Scouts,World Class,86.4,2024
+08/05,Canton,OH,2,Boston Crusaders,World Class,94.7,2024
+08/05,Pittsburgh,PA,3,Music City,World Class,82.0,2024
+08/05,Canton,OH,3,Blue Devils,World Class,94.0,2024
+08/05,Pittsburgh,PA,4,Academy,World Class,81.05,2024
+08/05,Canton,OH,4,Phantom Regiment,World Class,93.175,2024
+08/05,Pittsburgh,PA,5,Genesis,World Class,78.25,2024
+08/05,Canton,OH,5,Mandarins,World Class,90.275,2024
+08/05,Pittsburgh,PA,6,Jersey Surf,World Class,75.35,2024
+08/05,Canton,OH,6,Blue Stars,World Class,88.7,2024
+08/05,Canton,OH,7,Colts,World Class,87.5,2024
+08/05,Canton,OH,8,Crossmen,World Class,83.75,2024
+08/05,Canton,OH,9,Spirit of Atlanta,World Class,82.1,2024
+08/04,Marion,IN,1,Spartans,Open Class,82.675,2024
+08/05,Marion,IN,1,Spartans,Open Class,82.963,2024
+08/04,Marion,IN,2,Blue Devils B,Open Class,81.775,2024
+08/05,Marion,IN,2,Blue Devils B,Open Class,82.475,2024
+08/10,Indianapolis,IN,1,Reading Buccaneers,All-Age - World Class,95.925,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,3,Gold,Open Class,80.625,2024
+08/05,Marion,IN,3,Gold,Open Class,79.8,2024
+08/10,Indianapolis,IN,2,Hawthorne Caballeros,All-Age - World Class,93.825,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,4,Battalion,Open Class,78.9,2024
+08/05,Marion,IN,4,Battalion,Open Class,79.188,2024
+08/10,Indianapolis,IN,3,Bushwackers,All-Age - World Class,92.625,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,5,Columbians,Open Class,78.05,2024
+08/05,Marion,IN,5,Columbians,Open Class,78.55,2024
+08/10,Indianapolis,IN,4,Atlanta CV,All-Age - World Class,89.575,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,6,River City Rhythm,Open Class,76.0,2024
+08/05,Marion,IN,6,River City Rhythm,Open Class,76.675,2024
+08/10,Indianapolis,IN,5,Connecticut Hurricanes,All-Age - World Class,86.8,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,7,Raiders,Open Class,72.6,2024
+08/05,Marion,IN,7,Raiders,Open Class,73.375,2024
+08/04,Marion,IN,8,Colt Cadets,Open Class,72.15,2024
+08/05,Marion,IN,8,Colt Cadets,Open Class,72.075,2024
+08/10,Indianapolis,IN,1,Cincinnati Tradition,All-Age - Open Class,87.475,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,9,7th Regiment,Open Class,71.55,2024
+08/05,Marion,IN,9,7th Regiment,Open Class,71.225,2024
+08/10,Indianapolis,IN,2,White Sabers,All-Age - Open Class,86.775,2024,DCI All-Age World Championship Finals
+08/04,Marion,IN,10,Les Stentors,Open Class,66.525,2024
+08/05,Marion,IN,10,Les Stentors,Open Class,67.225,2024
+08/10,Indianapolis,IN,3,Rogues Hollow Regiment,All-Age - Open Class,83.025,2024,DCI All-Age World Championship Finals
+08/10,Indianapolis,IN,4,Fusion Core,All-Age - Open Class,82.125,2024,DCI All-Age World Championship Finals
+08/10,Indianapolis,IN,1,Govenaires,All-Age - A Class,80.775,2024,DCI All-Age World Championship Finals
+08/10,Indianapolis,IN,2,Sunrisers,All-Age - A Class,79.175,2024,DCI All-Age World Championship Finals
+08/10,Indianapolis,IN,3,Skyliners,All-Age - A Class,76.75,2024,DCI All-Age World Championship Finals
+08/10,Indianapolis,IN,4,Columbus Saints,All-Age - A Class,71.5,2024,DCI All-Age World Championship Finals
+08/08,Indianapolis,IN,1,Bluecoats,World Class,97.525,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,1,Bluecoats,World Class,97.925,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,1,Bluecoats,World Class,98.75,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,2,Boston Crusaders,World Class,96.6,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,2,Boston Crusaders,World Class,97.0,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,2,Boston Crusaders,World Class,97.413,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,3,Blue Devils,World Class,95.875,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,3,Blue Devils,World Class,96.55,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,3,Blue Devils,World Class,97.075,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,4,Carolina Crown,World Class,94.313,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,4,Phantom Regiment,World Class,95.325,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,4,Phantom Regiment,World Class,95.225,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,5,Phantom Regiment,World Class,94.275,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,5,Carolina Crown,World Class,94.75,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,5,Carolina Crown,World Class,95.025,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,6,Vanguard,World Class,93.0,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,6,Vanguard,World Class,93.463,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,6,Vanguard,World Class,93.925,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,7,Mandarins,World Class,91.225,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,7,Mandarins,World Class,92.525,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,7,Mandarins,World Class,92.15,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,8,Blue Stars,World Class,90.55,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,8,Blue Stars,World Class,91.5,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,8,Blue Stars,World Class,91.6,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,9,Colts,World Class,89.35,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,9,Colts,World Class,90.175,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,9,Colts,World Class,89.775,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,10,Cavaliers,World Class,88.212,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,10,Troopers,World Class,88.8,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,10,Troopers,World Class,88.95,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,11,Troopers,World Class,87.963,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,11,Cavaliers,World Class,88.525,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,11,Cavaliers,World Class,87.5,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,12,Madison Scouts,World Class,86.575,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,12,Madison Scouts,World Class,88.075,2024,DCI World Class World Championship Semifinals
+08/10,Indianapolis,IN,12,Madison Scouts,World Class,87.05,2024,DCI World Class World Championship Finals
+08/08,Indianapolis,IN,13,Pacific Crest,World Class,84.988,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,13,Pacific Crest,World Class,86.35,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,14,Blue Knights,World Class,84.813,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,14,Blue Knights,World Class,85.6,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,15,Crossmen,World Class,84.525,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,15,Crossmen,World Class,84.875,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,16,Spirit of Atlanta,World Class,82.675,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,16,Spirit of Atlanta,World Class,83.875,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,17,Academy,World Class,81.775,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,17,Music City,World Class,82.625,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,18,Music City,World Class,81.55,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,18,Academy,World Class,82.175,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,19,Spartans,Open Class,81.038,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,19,Spartans,Open Class,81.525,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,20,Blue Devils B,Open Class,80.6,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,20,Blue Devils B,Open Class,81.075,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,21,Genesis,World Class,78.375,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,21,Gold,Open Class,77.8,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,22,Gold,Open Class,77.525,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,22,Genesis,World Class,77.55,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,23,Seattle Cascades,World Class,77.225,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,23,Seattle Cascades,World Class,76.075,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,24,Jersey Surf,World Class,75.813,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,24,Jersey Surf,World Class,74.425,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,25,Battalion,Open Class,75.35,2024,DCI World Class World Championship Prelims
+08/09,Indianapolis,IN,24,Battalion,Open Class,74.425,2024,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,26,Columbians,Open Class,75.2,2024,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,27,River City Rhythm,Open Class,74.075,2024,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,28,Raiders,Open Class,70.5,2024,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,29,Colt Cadets,Open Class,71.3,2024,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,30,7th Regiment,Open Class,68.8,2024,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,31,Les Stentors,Open Class,66.075,2024,DCI World Class World Championship Prelims

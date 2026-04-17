@@ -1,0 +1,36 @@
+{
+  "circuits": [
+    {
+      "code": "DCI",
+      "name": "Drum Corps International",
+      "file": "dci_records.json",
+      "active": true
+    },
+    {
+      "code": "DCA",
+      "name": "Drum Corps Associates",
+      "file": "dca_records.json",
+      "active": true
+    },
+    {
+      "code": "VFW",
+      "name": "Veterans of Foreign Wars",
+      "file": "vfw_records.json",
+      "active": true
+    },
+    {
+      "code": "CYO",
+      "name": "Catholic Youth Organization",
+      "file": "cyo_records.json",
+      "active": true
+    },
+    {
+      "code": "AL",
+      "name": "American Legion",
+      "file": "al_records.json",
+      "active": true
+    }
+  ],
+  "lastUpdated": "2025-08-11",
+  "version": "1.0"
+}

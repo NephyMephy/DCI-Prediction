@@ -1,0 +1,41 @@
+{
+ "location": [
+   {
+     "city": "Revere",
+     "state": "MA", 
+     "year": "1967-1986"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "CYO", "year": 1977, "score": null, "showTitle": ""},
+   {"circuit": "CYO", "year": 1981, "score": null, "showTitle": ""}
+ ],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1986", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1968, "showTitle": "", "repertoire": "The Great Race March * Shenandoah * Man of La Mancha * Hall of the Mountain King (from Peer Gynt Suite #1) * Baby Elephant Walk * March Of The Grenadiers * The Impossible Dream (from Man of La Mancha)", "placement": "11th Place", "score": 75.400},
+   {"year": 1969, "showTitle": "", "repertoire": "Rawhide * Shenandoah * Scarborough Fair * Classical Gas * March Of The Grenadiers * Rule Britannia * Waltzing Matilda * The Impossible Dream (from Man of La Mancha) * Sunset", "placement": "", "score": null},
+   {"year": 1970, "showTitle": "", "repertoire": "The Wee MacGregor * Rawhide * Classical Gas * Scarborough Fair * Rule Britannia * Waltzing Matilda * The Impossible Dream (from Man of La Mancha) * Shenandoah", "placement": "9th Place", "score": 82.500},
+   {"year": 1971, "showTitle": "", "repertoire": "Irish Washerwoman (from Irish Suite) * Shenandoah * Does Anybody Really Know What Time It Is? * Beginnings * Rule Britannia * Waltzing Matilda * Danny Boy * Sunset", "placement": "3rd Place", "score": 88.850},
+   {"year": 1972, "showTitle": "", "repertoire": "The Wee MacGregor * Declarations * A Foggy Day * Beginnings * Does Anybody Really Know What Time It Is? * Loch Lomond * Garry Owen * Danny Boy", "placement": "4th Place", "score": 86.000},
+   {"year": 1973, "showTitle": "", "repertoire": "Crown Imperial * Declarations (from Bread, Beans and Things) * African Suite * Rawhide * Shenandoah * Classical Gas * The Impossible Dream (from Man of La Mancha) * Mannin Veen", "placement": "7th Place", "score": 79.400},
+   {"year": 1974, "showTitle": "", "repertoire": "Wee McNorton * Crown Imperial * Thick as a Brick * Crimea * Pomp and Circumstance", "placement": "20th Place", "score": 73.500},
+   {"year": 1975, "showTitle": "", "repertoire": "Crown Imperial * Chameleon * Celebrate * Spectrum Novum (Fanfare Prelude: Oh How Shall I Receive Thee) * Danny Boy", "placement": "4th Place", "score": 88.050},
+   {"year": 1976, "showTitle": "", "repertoire": "Crown Imperial * We're Off to See the Wizard (from Wizard of Oz) * So You Want to See The Wizard (from The Wiz) * Jubilation * Fanfare Prelude (Oh How Shall I Receive Thee) * Sweet Georgia Brown * Danny Boy", "placement": "5th Place", "score": 85.000},
+   {"year": 1977, "showTitle": "", "repertoire": "Fanfare for Rocky * Gonna Fly Now (from Rocky) * Gaite Parisienne * Danny Boy", "placement": "4th Place", "score": 87.450},
+   {"year": 1978, "showTitle": "", "repertoire": "Carmen * Selections from Close Encounters of the Third Kind * I've Got the Music in Me * Miracles out of Nowhere * Celebrate * Gaite Parisienne", "placement": "7th Place", "score": 84.750},
+   {"year": 1979, "showTitle": "", "repertoire": "English Folk Song Suite * Open Wide * On the Twentieth Century * Take Five * Danny Boy", "placement": "5th Place", "score": 86.400},
+   {"year": 1980, "showTitle": "", "repertoire": "English Folk Song Suite * Open Wide * On the Twentieth Century * New Country * Danny Boy", "placement": "2nd Place", "score": 90.250},
+   {"year": 1981, "showTitle": "", "repertoire": "Crown Imperial * New Country * Niner Two * The Greatest Love of All * Danny Boy", "placement": "4th Place", "score": 91.900},
+   {"year": 1982, "showTitle": "", "repertoire": "The Sea Hawk * Niner Two * Blue Rondo A La Turk * Gaite Parisienne * Danny Boy", "placement": "6th Place", "score": 88.650},
+   {"year": 1983, "showTitle": "", "repertoire": "The Orb and the Scepter * The Lost Lady Found (from Lincolnshire Posy) * Camelot Medley * Sea Songs * The Running Set * Danny Boy", "placement": "10th Place", "score": 79.650},
+   {"year": 1984, "showTitle": "", "repertoire": "Henry V * Eric's Theme (from Chariots of Fire) * Indian Lady * Ludwig * No Matter What Happens (from Yentl)", "placement": "11th Place", "score": 85.600},
+   {"year": 1985, "showTitle": "", "repertoire": "The Sea Hawk * When I First Saw You (from Dreamgirls) * And I Am Telling You I Am Not Going (from Dreamgirls) * Jaime and Mary * Ludwig * Danny Boy", "placement": "13th Place", "score": 85.200},
+   {"year": 1986, "showTitle": "A Sondheim Suite", "repertoire": "Move On (from Sunday in the Park with George) * Putting It Together (from Sunday in the Park with George) * Company * Have I Got A Girl For You (from Company) * Being Alive (from Company) * Not While I'm Around (from Sweeney Todd)", "placement": "13th Place", "score": 85.600}
+ ]
+}

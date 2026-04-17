@@ -1,0 +1,52 @@
+{
+"location": [
+  {
+    "city": "Cincinnati",
+    "state": "OH", 
+    "year": "1984-Present"
+  }
+],
+"formerNames": [
+  "Silver Spectrum"
+],
+"championships": [
+  {"circuit": "DCA A Class", "year": 2016, "score": 80.030, "showTitle": "Invictus"},
+  {"circuit": "DCA A Class", "year": 2017, "score": 82.700, "showTitle": "LIFT"},
+  {"circuit": "DCI All-Age", "year": 2024, "score": 89.575, "showTitle": "From a Stone"}
+],
+"captionAwards": [],
+"website": "",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "2010-2021", "className": "A Class"},
+  {"circuit": "DCA", "years": "2022", "className": "Open Class"},
+  {"circuit": "DCA", "years": "2023", "className": "World Class"},
+  {"circuit": "DCI", "years": "2024-present", "className": "All-Age Open Class"}
+],
+"shows": [
+  {"year": 1985, "showTitle": "", "repertoire": "Alabama Jubilee by Jack Yellen / Way Down Yonder in New Orleans by Henry Creamer / You'll Never Walk Alone (from Carousel) by Richard Rodgers", "placement": "Did not attend DCA", "score": null},
+  {"year": 1986, "showTitle": "", "repertoire": "Spain by Chick Corea / Hang 'Em High by Dominic Frontiere / Flintstones Theme by Hoyt Curtin / You'll Never Walk Alone (from Carousel) by Richard Rodgers", "placement": "Did not attend DCA", "score": null},
+  {"year": 1999, "showTitle": "", "repertoire": "You'll Never Walk Alone (from Carousel) by Richard Rodgers / Concierto de Aranjuez by Joaquín Rodrigo / Trumpeter's Prayer / Amazing Grace by John Newton / God Bless America (from This Is the Army) by Irving Berlin", "placement": "Did not attend DCA", "score": null},
+  {"year": 2000, "showTitle": "", "repertoire": "Nightmare Before Christmas by Danny Elfman / Something In The Wind / Olympic Fanfare by John Williams", "placement": "Did not attend DCA", "score": null},
+  {"year": 2001, "showTitle": "", "repertoire": "Nightmare Before Christmas by Danny Elfman / The Burning Bush (from The Prince of Egypt) by Hans Zimmer / Deliver us (from The Prince of Egypt) by Stephen Schwartz", "placement": "Did not attend DCA", "score": null},
+  {"year": 2002, "showTitle": "American Themes", "repertoire": "Stars and Stripes Forever by John Philip Sousa / God Bless America (from This Is the Army) by Irving Berlin / Olympic Fanfare by John Williams / Taps by Daniel Butterfield", "placement": "Did not attend DCA", "score": null},
+  {"year": 2003, "showTitle": "JAZZ in the CITY!", "repertoire": "Fantasy / Birdland by Josef Zawinul / MacArthur Park by Jimmy Webb / Gospel John", "placement": "Did not attend DCA", "score": null},
+  {"year": 2008, "showTitle": "", "repertoire": "Sunrise Lady / Bully / Malaguena by Ernesto Lecuona", "placement": "Did not attend DCA", "score": null},
+  {"year": 2009, "showTitle": "Fun With Chuck", "repertoire": "Echano / Land of Make Believe / Bellavia by Chuck Mangione / Legend of the One-Eyed Sailor", "placement": "Did not attend DCA", "score": null},
+  {"year": 2010, "showTitle": "Tradicion Hispana Sequnda Parte", "repertoire": "Bully / One More Time Chuck Corea by Chick Corea / Theme from Zorro by George Bruns", "placement": "10th Place", "score": 67.675},
+  {"year": 2011, "showTitle": "Elcorazon de Andalucia", "repertoire": "The Mask/Espana (from The Mask of Zorro) by James Horner / The Legend - Zorro's Theme (from The Mask of Zorro) by James Horner / Malaga", "placement": "9th Place", "score": 67.530},
+  {"year": 2012, "showTitle": "An Evening with Stan Kenton", "repertoire": "Here's That Rainy Day by Jimmy Van Heusen / Artistry Suite by Stan Kenton / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Malaga", "placement": "6th Place", "score": 71.680},
+  {"year": 2013, "showTitle": "Breakdown", "repertoire": "Joy (from Awakening) / Happy Days Are Here Again by Milton Ager / Get Happy by Harold Arlen / Resistance by Muse / Creep by Radiohead / Welcome to the Masquerade", "placement": "7th Place", "score": 76.300},
+  {"year": 2014, "showTitle": "Finding Home", "repertoire": "Fanfare and Allegro by Clifton Williams / Scramble / Shenandoah Gifts / American Salute by Morton Gould", "placement": "4th Place", "score": 75.050},
+  {"year": 2015, "showTitle": "Both Sides", "repertoire": "Fanfare and Allegro by Clifton Williams / Thnks Fr Th Mmrs by Fall Out Boy / Both Sides, Now by Joni Mitchell / The Pretender by Foo Fighters", "placement": "4th Place", "score": 73.650},
+  {"year": 2016, "showTitle": "Invictus", "repertoire": "Honor (from The Pacific) by Hans Zimmer / New Frontier / Fairest Lord Jesus (Traditional) / New Frontier", "placement": "1st Place", "score": 80.030},
+  {"year": 2017, "showTitle": "LIFT", "repertoire": "Prelude / Come Sweet Death by Johann Sebastian Bach / Don't Give Up by Peter Gabriel / Aurora Awakes / Don't Give Up (Reprise) by Peter Gabriel", "placement": "1st Place", "score": 82.700},
+  {"year": 2018, "showTitle": "Event Horizion", "repertoire": "Interstellar by Hans Zimmer / Beyond the Horizon / Raise the Roof / Sheltering Sky by Michael Brook", "placement": "8th Place", "score": 86.400},
+  {"year": 2019, "showTitle": "Aqueous", "repertoire": "Phrygian Gates by John Adams / Without Warning / Sanctuary / The Wind River", "placement": "7th Place", "score": 87.375},
+  {"year": 2021, "showTitle": "Grunt", "repertoire": "War Pigs by Black Sabbath / Mad Max / Journey to the Center of the Earth", "placement": "5th Place", "score": 86.600},
+  {"year": 2022, "showTitle": "Soiree", "repertoire": "Romeo and Juliet by Pyotr Ilyich Tchaikovsky / Masquerade (from Phantom of the Opera) by Andrew Lloyd Webber / Girls Just Want To Have Fun by Cyndi Lauper / Chandelier by Sia", "placement": "3rd Place", "score": 83.350},
+  {"year": 2023, "showTitle": "Overgrown", "repertoire": "Overgrown by James Blake", "placement": "4th Place", "score": 84.625},
+  {"year": 2024, "showTitle": "From a Stone", "repertoire": "In the Stone by Earth, Wind & Fire / Symphony No. 40 by Wolfgang Amadeus Mozart / Reelin' in the Years by Steely Dan / Golden Hour by Jvke / Anvil Chorus from Il Trovatore by Giuseppe Verdi", "placement": "1st Place", "score": 89.575},
+  {"year": 2025, "showTitle": "CincinnatUS", "repertoire": "God's Gonna Cut You Down by Johnny Cash / Knights of Cydonia by Muse / Who Wants to Live Forever by Queen / Take Me Home, Country Roads by John Denver", "placement": "5th Place", "score": 90.095}
+]
+}

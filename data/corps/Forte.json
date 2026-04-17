@@ -1,0 +1,22 @@
+{
+"location": [
+  {
+    "city": "Grande Prairie",
+    "state": "TX", 
+    "year": "2009-2012"
+  }
+],
+"formerNames": [],
+"championships": [],
+"captionAwards": [],
+"website": "",
+"currentClass": "Inactive",
+"historicClasses": [
+  {"circuit": "DCI", "years": "2010-2012", "className": "Open Class"}
+],
+"shows": [
+  {"year": 2010, "showTitle": "Stargazing", "repertoire": "In Caelum Fero / Allegro Vivace (from Dance Suite) / Overture to a New World (from Dancer in the Dark) by Björk / 1000 Airplanes on the Roof by Philip Glass / Selections from The Planets by Gustav Holst / Main Titles (from SIGNS) by James Newton Howard / Twinkle, Twinkle Little Star (Traditional)", "placement": "10th Place", "score": 82.900},
+  {"year": 2011, "showTitle": "DreamZzz", "repertoire": "Brahms' Lullaby by Johannes Brahms / Original Music / Sleep / Burly Brawl (from the Matrix) by Don Davis / Chorale VI - Sol Fa (from Adiemus) by Karl Jenkins", "placement": "11th Place", "score": 56.600},
+  {"year": 2012, "showTitle": "Crossroads", "repertoire": "Dead and Gone by T.I. featuring Justin Timberlake / Symphony No.4 - Heroes by Philip Glass", "placement": "Withdrew from tour", "score": null}
+]
+}

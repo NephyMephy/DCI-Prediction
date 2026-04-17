@@ -1,0 +1,144 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/08,New Haven,CT,1,Reading Buccaneers,World Class,68.83,1968
+06/15,Straton,CT,1,Connecticut Hurricanes,World Class,72.6,1968
+06/15,Hershey,PA,1,Yankee Rebels,World Class,73.41,1968
+06/22,Chambersburg,PA,1,Reading Buccaneers,World Class,80.95,1968
+06/08,New Haven,CT,2,New York Skyliners,World Class,64.85,1968
+06/15,Straton,CT,2,Reading Buccaneers,World Class,71.51,1968
+06/15,Hershey,PA,2,Rochester Crusaders,World Class,72.7,1968
+06/22,Chambersburg,PA,2,Yankee Rebels,World Class,76.06,1968
+06/08,New Haven,CT,3,Hawthorne Caballeros,World Class,62.13,1968
+06/15,Straton,CT,3,Hawthorne Caballeros,World Class,71.2,1968
+06/15,Hershey,PA,3,Syracuse Brigadiers,World Class,70.98,1968
+06/22,Chambersburg,PA,3,Rochester Crusaders,World Class,72.35,1968
+06/08,New Haven,CT,4,Sunrisers,World Class,61.58,1968
+06/15,Straton,CT,4,New York Skyliners,World Class,70.15,1968
+06/15,Hershey,PA,4,Hamburg Kingsmen,World Class,62.63,1968
+06/22,Chambersburg,PA,4,Westshoremen,World Class,62.7,1968
+06/08,New Haven,CT,5,Yankee Rebels,World Class,61.2,1968
+06/15,Straton,CT,5,Sunrisers,World Class,67.03,1968
+06/15,Hershey,PA,5,Rockets,World Class,59.11,1968
+06/22,Chambersburg,PA,5,Rockets,World Class,62.11,1968
+06/22,Boston,MA,1,Sunrisers,World Class,67.42,1968
+06/29,Syracuse,NY,1,Sunrisers,World Class,72.06,1968
+06/29,Rochester,NY,1,Reading Buccaneers,World Class,80.66,1968
+06/22,Boston,MA,2,Hawthorne Caballeros,World Class,66.76,1968
+06/29,Syracuse,NY,2,Connecticut Hurricanes,World Class,71.01,1968
+06/29,Rochester,NY,2,Hawthorne Caballeros,World Class,78.6,1968
+06/22,Boston,MA,3,New York Skyliners,World Class,66.73,1968
+06/29,Syracuse,NY,3,New York Skyliners,World Class,69.98,1968
+06/29,Rochester,NY,3,Marksmen,World Class,73.5,1968
+06/22,Boston,MA,4,Connecticut Hurricanes,World Class,64.87,1968
+06/29,Syracuse,NY,4,Yankee Rebels,World Class,67.78,1968
+06/29,Rochester,NY,4,Canadian Ambassadors,World Class,72.41,1968
+06/22,Boston,MA,5,Syracuse Brigadiers,World Class,62.916,1968
+06/29,Syracuse,NY,5,Les Diplomats,World Class,62.03,1968
+06/29,Rochester,NY,5,Canadian Commanders,World Class,64.58,1968
+06/22,Boston,MA,6,Marksmen,World Class,55.783,1968
+06/29,Rochester,NY,6,Albion Grenadiers,World Class,61.62,1968
+06/22,Boston,MA,7,Les Diplomats,World Class,49.983,1968
+07/04,Oswego,NY,1,Rochester Crusaders,World Class,76.98,1968
+07/06,Bridgeport,CT,1,Connecticut Hurricanes,World Class,80.45,1968
+07/06,Hershey,PA,1,Reading Buccaneers,World Class,79.21,1968
+07/13,Paterson,NJ,1,Reading Buccaneers,World Class,75.6,1968
+07/04,Oswego,NY,2,Syracuse Brigadiers,World Class,72.01,1968
+07/06,Bridgeport,CT,2,Hawthorne Caballeros,World Class,77.81,1968
+07/06,Hershey,PA,2,New York Skyliners,World Class,76.76,1968
+07/13,Paterson,NJ,2,Connecticut Hurricanes,World Class,74.25,1968
+07/04,Oswego,NY,3,Canadian Ambassadors,World Class,66.73,1968
+07/06,Bridgeport,CT,3,Rochester Crusaders,World Class,74.55,1968
+07/06,Hershey,PA,3,Sunrisers,World Class,75.88,1968
+07/13,Paterson,NJ,3,New York Skyliners,World Class,72.41,1968
+07/04,Oswego,NY,4,Hamburg Kingsmen,World Class,61.93,1968
+07/06,Bridgeport,CT,4,Yankee Rebels,World Class,72.03,1968
+07/06,Hershey,PA,4,Syracuse Brigadiers,World Class,71.71,1968
+07/13,Paterson,NJ,4,Yankee Rebels,World Class,66.8,1968
+07/04,Oswego,NY,5,Albion Grenadiers,World Class,58.98,1968
+07/06,Bridgeport,CT,5,Reilly Raider Musketeers,World Class,63.56,1968
+07/06,Hershey,PA,5,Les Diplomats,World Class,65.73,1968
+07/13,Paterson,NJ,5,Les Diplomats,World Class,56.28,1968
+07/06,Hershey,PA,6,Rockets,World Class,62.43,1968
+07/13,Altoona,PA,1,Sunrisers,World Class,79.35,1968
+07/20,Rome,NY,1,Rochester Crusaders,World Class,75.833,1968
+07/20,Reading,PA,1,Sunrisers,World Class,78.38,1968
+07/27,Carlisle,PA,1,Reading Buccaneers,World Class,84.36,1968
+07/13,Altoona,PA,2,Westshoremen,World Class,69.55,1968
+07/20,Rome,NY,2,Hamburg Kingsmen,World Class,73.716,1968
+07/20,Reading,PA,2,New York Skyliners,World Class,76.51,1968
+07/27,Carlisle,PA,2,Connecticut Hurricanes,World Class,79.73,1968
+07/13,Altoona,PA,3,Marksmen,World Class,69.08,1968
+07/20,Rome,NY,3,Syracuse Brigadiers,World Class,72.333,1968
+07/20,Reading,PA,3,Yankee Rebels,World Class,75.7,1968
+07/27,Carlisle,PA,3,Yankee Rebels,World Class,77.7,1968
+07/13,Altoona,PA,4,Rockets,World Class,67.13,1968
+07/20,Rome,NY,4,Albion Grenadiers,World Class,71.383,1968
+07/20,Reading,PA,4,Westshoremen,World Class,70.5,1968
+07/27,Carlisle,PA,4,Les Diplomats,World Class,66.3,1968
+07/13,Altoona,PA,5,Whalers,World Class,64.78,1968
+07/20,Rome,NY,5,Marksmen,World Class,69.8,1968
+07/27,Carlisle,PA,5,Rockets,World Class,64.96,1968
+08/03,Waverly,NY,1,Syracuse Brigadiers,World Class,81.608,1968
+08/03,Baltimore,MD,1,Reading Buccaneers,World Class,72.98,1968
+08/10,Lewisburg,PA,1,Reading Buccaneers,World Class,84.51,1968
+08/11,Jersey City,NJ,1,Connecticut Hurricanes,World Class,77.866,1968
+08/03,Waverly,NY,2,Rochester Crusaders,World Class,79.016,1968
+08/03,Baltimore,MD,2,Sunrisers,World Class,72.55,1968
+08/10,Lewisburg,PA,2,Connecticut Hurricanes,World Class,80.21,1968
+08/11,Jersey City,NJ,2,Reading Buccaneers,World Class,77.716,1968
+08/03,Waverly,NY,3,Canadian Ambassadors,World Class,70.066,1968
+08/03,Baltimore,MD,3,Connecticut Hurricanes,World Class,71.48,1968
+08/10,Lewisburg,PA,3,New York Skyliners,World Class,80.2,1968
+08/11,Jersey City,NJ,3,Hawthorne Caballeros,World Class,77.633,1968
+08/03,Waverly,NY,4,Rockets,World Class,66.133,1968
+08/03,Baltimore,MD,4,Hawthorne Caballeros,World Class,70.15,1968
+08/10,Lewisburg,PA,4,Hawthorne Caballeros,World Class,80.09,1968
+08/11,Jersey City,NJ,4,Sunrisers,World Class,77.45,1968
+08/03,Waverly,NY,5,Marksmen,World Class,64.103,1968
+08/03,Baltimore,MD,5,New York Skyliners,World Class,68.23,1968
+08/10,Lewisburg,PA,5,Rochester Crusaders,World Class,78.78,1968
+08/11,Jersey City,NJ,5,New York Skyliners,World Class,74.35,1968
+08/03,Baltimore,MD,6,Reilly Raiders,World Class,55.0,1968
+08/10,Lewisburg,PA,6,Les Diplomats,World Class,70.45,1968
+08/17,Scranton,PA,1,Reading Buccaneers,World Class,81.64,1968
+08/17,Syracuse,NY,1,Connecticut Hurricanes,World Class,72.516,1968
+08/24,Pittsburgh,PA,1,Reading Buccaneers,World Class,68.75,1968
+08/17,Scranton,PA,2,Sunrisers,World Class,79.8,1968
+08/17,Syracuse,NY,2,Rochester Crusaders,World Class,70.566,1968
+08/24,Pittsburgh,PA,2,New York Skyliners,World Class,67.58,1968
+08/17,Scranton,PA,3,Hawthorne Caballeros,World Class,78.65,1968
+08/17,Syracuse,NY,3,Hamburg Kingsmen,World Class,66.633,1968
+08/24,Pittsburgh,PA,3,Syracuse Brigadiers,World Class,66.93,1968
+08/17,Scranton,PA,4,New York Skyliners,World Class,76.8,1968
+08/17,Syracuse,NY,4,Rockets,World Class,62.85,1968
+08/24,Pittsburgh,PA,4,Rochester Crusaders,World Class,66.55,1968
+08/17,Scranton,PA,5,Yankee Rebels,World Class,74.53,1968
+08/24,Pittsburgh,PA,5,Sunrisers,World Class,64.86,1968
+08/24,Pittsburgh,PA,6,Westshoremen,World Class,56.25,1968
+09/01,Rochester,NY,1,Reading Buccaneers,World Class,83.033,1968
+09/01,Rochester,NY,1,Reading Buccaneers,World Class,82.15,1968
+09/01,Rochester,NY,2,New York Skyliners,World Class,79.45,1968
+09/01,Rochester,NY,2,Sunrisers,World Class,80.116,1968
+09/01,Rochester,NY,3,Sunrisers,World Class,78.266,1968
+09/01,Rochester,NY,3,Syracuse Brigadiers,World Class,79.816,1968
+09/01,Rochester,NY,4,Connecticut Hurricanes,World Class,78.018,1968
+09/01,Rochester,NY,4,Rochester Crusaders,World Class,79.566,1968
+09/01,Rochester,NY,5,Rochester Crusaders,World Class,77.833,1968
+09/01,Rochester,NY,5,New York Skyliners,World Class,79.016,1968
+09/01,Rochester,NY,6,Syracuse Brigadiers,World Class,77.666,1968
+09/01,Rochester,NY,6,Connecticut Hurricanes,World Class,78.45,1968
+09/01,Rochester,NY,7,Yankee Rebels,World Class,76.85,1968
+09/01,Rochester,NY,7,Yankee Rebels,World Class,76.716,1968
+09/01,Rochester,NY,8,Hawthorne Caballeros,World Class,76.3,1968
+09/01,Rochester,NY,8,Hawthorne Caballeros,World Class,75.65,1968
+09/01,Rochester,NY,9,Canadian Ambassadors,World Class,73.383,1968
+09/01,Rochester,NY,9,Canadian Ambassadors,World Class,71.683,1968
+09/01,Rochester,NY,10,Hamburg Kingsmen,World Class,70.716,1968
+09/01,Rochester,NY,10,Hamburg Kingsmen,World Class,68.216,1968
+09/01,Rochester,NY,11,Marksmen,World Class,70.7,1968
+09/01,Rochester,NY,12,Westshoremen,World Class,69.0,1968
+09/01,Rochester,NY,13,Kingston Grenadiers,World Class,64.7,1968
+09/01,Rochester,NY,14,Rockets,World Class,64.4,1968
+09/01,Rochester,NY,15,Les Diplomats,World Class,64.3,1968
+09/01,Rochester,NY,16,Reilly Raiders,World Class,63.35,1968
+09/01,Rochester,NY,17,Royalaires,World Class,59.733,1968
+09/01,Rochester,NY,18,Kawartha Kavaliers,World Class,48.283,1968

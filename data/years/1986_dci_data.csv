@@ -1,0 +1,1640 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/07,Wheaton,IL,1,Cavaliers,World Class,72.2,1986
+06/08,Janesville,WI,1,Cavaliers,World Class,73.5,1986
+06/14,Fairfield,ME,1,27th Lancers,World Class,62.2,1986
+06/14,Menasha,WI,1,Cavaliers,World Class,74.4,1986
+06/07,Wheaton,IL,2,Madison Scouts,World Class,67.7,1986
+06/08,Janesville,WI,2,Madison Scouts,World Class,69.2,1986
+06/14,Fairfield,ME,2,Diplomats,World Class,48.1,1986
+06/14,Menasha,WI,2,Madison Scouts,World Class,71.8,1986
+06/07,Wheaton,IL,3,Phantom Regiment,World Class,65.8,1986
+06/08,Janesville,WI,3,Phantom Regiment,World Class,63.9,1986
+06/14,Fairfield,ME,3,20th Maine Regiment,World Class,43.6,1986
+06/14,Menasha,WI,3,Phantom Regiment,World Class,69.4,1986
+06/07,Wheaton,IL,4,Knights,World Class,50.7,1986
+06/08,Janesville,WI,4,Knights,World Class,47.3,1986
+06/14,Fairfield,ME,4,Transit,World Class,33.4,1986
+06/14,Menasha,WI,4,Knights,World Class,52.7,1986
+06/07,Wheaton,IL,5,Phantom Regiment Cadets,World Class,39.9,1986
+06/08,Janesville,WI,5,Phantom Regiment Cadets,World Class,33.3,1986
+06/14,Fairfield,ME,5,Suburbanettes,World Class,31.2,1986
+06/14,Menasha,WI,5,Colts,World Class,50.4,1986
+06/07,Wheaton,IL,6,Madison Junior Scouts,World Class,27.6,1986
+06/08,Janesville,WI,6,Guardsmen,World Class,27.5,1986
+06/14,Fairfield,ME,6,Marauders-QUE,World Class,15.5,1986
+06/14,Menasha,WI,6,Northmen-WI,World Class,35.6,1986
+06/08,Janesville,WI,7,Madison Junior Scouts,World Class,25.0,1986
+06/14,Fairfield,ME,7,Les Chrystalines,World Class,13.9,1986
+06/14,Menasha,WI,7,Blue Star Cadets,World Class,20.1,1986
+06/14,Menasha,WI,8,Pioneer,World Class,15.2,1986
+06/14,Fairfield,ME,1,Citations,World Class,59.9,1986
+06/14,Fairfield,ME,2,20th Maine Regiment,World Class,59.6,1986
+06/14,Fairfield,ME,3,Suburbanettes,World Class,54.8,1986
+06/14,Fairfield,ME,1,Toreadors,World Class,56.4,1986
+06/14,Fairfield,ME,2,Constellations,World Class,50.8,1986
+06/14,Fairfield,ME,3,Satellites,World Class,48.0,1986
+06/14,Fairfield,ME,4,Buccaneers,World Class,43.6,1986
+06/14,Fairfield,ME,1,Royal Cadets,World Class,46.0,1986
+06/14,Fairfield,ME,2,Suburban Cadets,World Class,42.3,1986
+06/14,Fairfield,ME,1,Pine Tree Warriors,World Class,56.8,1986
+06/14,Spring Valley,IL,1,Phantom Regiment Cadets,Open Class,46.3,1986
+06/14,Kitchner,Ontario,1,Dutch Boy,Open Class,49.8,1986
+06/15,East Weymouth,MA,1,Boston Crusaders,Open Class,51.8,1986
+06/15,Madison,WI,1,Madison Scouts,Open Class,74.0,1986
+06/14,Spring Valley,IL,2,Black Knights,Open Class,44.0,1986
+06/15,East Weymouth,MA,2,Diplomats,Open Class,44.9,1986
+06/15,Madison,WI,2,Colts,Open Class,49.5,1986
+06/14,Spring Valley,IL,3,Guardsmen,Open Class,42.8,1986
+06/14,Kitchner,Ontario,1,Canadian Knights,Open Class,45.6,1986
+06/15,East Weymouth,MA,3,Saint Francis Sancians,Open Class,41.2,1986
+06/15,Madison,WI,3,Phantom Regiment Cadets,Open Class,39.2,1986
+06/14,Spring Valley,IL,4,Madison Junior Scouts,Open Class,37.0,1986
+06/14,Kitchner,Ontario,2,Ventures,Open Class,41.8,1986
+06/15,East Weymouth,MA,4,Transit,Open Class,32.0,1986
+06/15,Madison,WI,4,Northmen-WI,Open Class,37.8,1986
+06/14,Spring Valley,IL,5,Joliet Kingsmen,Open Class,30.7,1986
+06/14,Kitchner,Ontario,3,Oshawa Rebels,Open Class,29.8,1986
+06/15,East Weymouth,MA,5,Marauders-QUE,Open Class,12.7,1986
+06/15,Madison,WI,5,Madison Junior Scouts,Open Class,29.3,1986
+06/14,Spring Valley,IL,6,Coachmen,Open Class,28.3,1986
+06/14,Kitchner,Ontario,4,Conqueror II,Open Class,26.7,1986
+06/15,Madison,WI,6,Blue Star Cadets,Open Class,16.3,1986
+06/14,Kitchner,Ontario,5,Kiwanis Kavaliers,Open Class,22.5,1986
+06/14,Kitchner,Ontario,6,Saint John's,Open Class,11.4,1986
+06/15,Geneseo,IL,1,Cavaliers,Open Class,75.5,1986
+06/15,Lewiston,MA,1,Citations,Open Class,62.2,1986
+06/20,Waterbury,CT,1,Garfield Cadets,Open Class,68.9,1986
+06/20,Toledo,OH,1,Cavaliers,Open Class,79.1,1986
+06/15,Geneseo,IL,2,Phantom Regiment,Open Class,70.4,1986
+06/15,Lewiston,MA,2,20th Maine Regiment,Open Class,57.3,1986
+06/20,Waterbury,CT,2,27th Lancers,Open Class,60.8,1986
+06/20,Toledo,OH,2,Troopers,Open Class,72.7,1986
+06/15,Geneseo,IL,3,Madison Scouts,Open Class,68.6,1986
+06/15,Lewiston,MA,3,Granite State Garrison,Open Class,42.5,1986
+06/20,Waterbury,CT,3,Les Eclipses,Open Class,37.7,1986
+06/20,Toledo,OH,3,Bluecoats,Open Class,58.5,1986
+06/15,Geneseo,IL,4,Phantom Regiment Cadets,Open Class,53.4,1986
+06/20,Waterbury,CT,4,Saint Francis Sancians,Open Class,35.5,1986
+06/20,Toledo,OH,4,Glassmen,Open Class,47.5,1986
+06/15,Geneseo,IL,5,Black Knights,Open Class,39.4,1986
+06/15,Lewiston,MA,1,Explorers,Open Class,59.8,1986
+06/20,Toledo,OH,5,Northern Aurora,Open Class,43.3,1986
+06/15,Geneseo,IL,6,Guardsmen,Open Class,27.3,1986
+06/15,Lewiston,MA,2,Constellations,Open Class,49.6,1986
+06/20,Toledo,OH,6,Marion Cadets,Open Class,28.6,1986
+06/15,Lewiston,MA,3,Satellites,Open Class,48.4,1986
+06/20,Toledo,OH,7,Coachmen,Open Class,20.4,1986
+06/15,Lewiston,MA,4,Buccaneers,Open Class,41.9,1986
+06/15,Lewiston,MA,5,Royal Cadets,Open Class,40.1,1986
+06/15,Lewiston,MA,6,Les Chrystalines,Open Class,29.9,1986
+06/15,Lewiston,MA,1,Pine Tree Warriors,Open Class,59.2,1986
+06/20,Whitewater,WI,1,Madison Scouts,Open Class,74.3,1986
+06/21,Revere,MA,1,27th Lancers,Open Class,62.6,1986
+06/21,Rosemont,IL,1,Phantom Regiment Cadets,Open Class,50.1,1986
+06/21,Saginaw,MI,1,Cavaliers,Open Class,80.8,1986
+06/20,Whitewater,WI,2,Phantom Regiment,Open Class,69.6,1986
+06/21,Revere,MA,2,Boston Crusaders,Open Class,55.2,1986
+06/21,Rosemont,IL,2,Black Knights,Open Class,49.3,1986
+06/21,Saginaw,MI,2,Troopers,Open Class,73.7,1986
+06/20,Whitewater,WI,3,Star of Indiana,Open Class,68.1,1986
+06/21,Revere,MA,3,Diplomats,Open Class,43.9,1986
+06/21,Rosemont,IL,3,Guardsmen,Open Class,40.6,1986
+06/21,Saginaw,MI,3,Glassmen,Open Class,44.7,1986
+06/20,Whitewater,WI,4,Knights,Open Class,53.5,1986
+06/21,Revere,MA,4,Saint Francis Sancians,Open Class,38.7,1986
+06/21,Rosemont,IL,4,Madison Junior Scouts,Open Class,39.7,1986
+06/21,Saginaw,MI,4,Bandettes,Open Class,29.2,1986
+06/20,Whitewater,WI,5,Colts,Open Class,50.8,1986
+06/21,Revere,MA,5,Les Eclipses,Open Class,36.7,1986
+06/21,Rosemont,IL,5,Blue Star Cadets,Open Class,32.6,1986
+06/21,Saginaw,MI,5,Marion Cadets,Open Class,27.0,1986
+06/20,Whitewater,WI,6,Minnesota Brass,Open Class,42.4,1986
+06/21,Rosemont,IL,6,Joliet Kingsmen,Open Class,19.2,1986
+06/21,Saginaw,MI,6,Coachmen,Open Class,19.8,1986
+06/20,Whitewater,WI,7,Northmen-WI,Open Class,34.2,1986
+06/21,Sunnyvale,CA,1,Vanguard,Open Class,70.9,1986
+06/21,Waterloo,Ontario,1,Canadian Knights,DCA Class A,66.1,1986
+06/21,Gardner,MA,1,Saint Francis Sancians,Open Class,71.1,1986
+06/21,Hershey,PA,1,Steel City Ambassadors,Open Class,72.45,1986
+06/21,Sunnyvale,CA,2,Blue Devils,Open Class,70.0,1986
+06/21,Waterloo,Ontario,2,Ventures,DCA Class A,64.1,1986
+06/21,Gardner,MA,2,Citations,Open Class,68.5,1986
+06/21,Hershey,PA,2,Hawthorne Caballeros,Open Class,68.55,1986
+06/21,Waterloo,Ontario,3,Oshawa Rebels,DCA Class A,45.3,1986
+06/21,Hershey,PA,3,Reading Buccaneers,Open Class,66.1,1986
+06/21,Sunnyvale,CA,1,Mandarins,Open Class,48.9,1986
+06/21,Waterloo,Ontario,4,Spartans-NH,DCA Class A,44.1,1986
+06/21,Gardner,MA,1,Explorers,Open Class,68.8,1986
+06/21,Hershey,PA,4,Sunrisers,Open Class,65.2,1986
+06/21,Sunnyvale,CA,2,Blue Devils B,Open Class,42.8,1986
+06/21,Waterloo,Ontario,5,Kiwanis Kavaliers,DCA Class A,34.9,1986
+06/21,Gardner,MA,2,Toreadors,Open Class,59.8,1986
+06/21,Hershey,PA,5,Rochester Crusaders,Open Class,62.45,1986
+06/21,Sunnyvale,CA,3,Vanguard Cadets,Open Class,31.9,1986
+06/21,Waterloo,Ontario,6,Conqueror II,DCA Class A,33.4,1986
+06/21,Gardner,MA,3,Satellites,Open Class,52.6,1986
+06/21,Hershey,PA,6,Westshoremen,Open Class,52.7,1986
+06/21,Waterloo,Ontario,7,Saint Andrews,DCA Class A,31.4,1986
+06/21,Gardner,MA,4,Joanettes,Open Class,50.2,1986
+06/21,Gardner,MA,5,Buccaneers,Open Class,44.9,1986
+06/21,Waterloo,Ontario,1,Emerald Knights-ONT,DCA Class A,20.9,1986
+06/21,Gardner,MA,6,Royal Cadets,Open Class,38.8,1986
+06/21,Waterloo,Ontario,2,Ridge Raiders,DCA Class A,16.8,1986
+06/21,Gardner,MA,1,Royal Knights,Open Class,45.7,1986
+06/21,Gardner,MA,2,Braintree Braves,Open Class,36.4,1986
+06/22,Irwin,PA,1,Garfield Cadets,Open Class,73.0,1986
+06/22,Normal,IL,1,Cavaliers,DCA Class A,79.8,1986
+06/22,Freeport,IL,1,Phantom Regiment Cadets,Open Class,49.6,1986
+06/22,Ste-Foy,Quebec,1,Les Eclipses,Open Class,58.2,1986
+06/22,Irwin,PA,2,Bluecoats,Open Class,55.6,1986
+06/22,Normal,IL,2,Madison Scouts,DCA Class A,76.2,1986
+06/22,Freeport,IL,2,Guardsmen,Open Class,38.2,1986
+06/22,Irwin,PA,3,Dutch Boy,Open Class,48.0,1986
+06/22,Normal,IL,3,Phantom Regiment,DCA Class A,75.0,1986
+06/22,Freeport,IL,3,Madison Junior Scouts,Open Class,37.5,1986
+06/22,Ste-Foy,Quebec,1,Academie Musicale,Open Class,33.6,1986
+06/22,Irwin,PA,4,Florida Wave,Open Class,41.1,1986
+06/22,Normal,IL,4,Star of Indiana,DCA Class A,72.5,1986
+06/22,Freeport,IL,4,Blue Star Cadets,Open Class,26.6,1986
+06/22,Ste-Foy,Quebec,2,L'Insolite,Open Class,31.3,1986
+06/22,Irwin,PA,5,Glassmen,Open Class,30.7,1986
+06/22,Normal,IL,5,Knights,DCA Class A,56.7,1986
+06/22,Freeport,IL,5,Joliet Kingsmen,Open Class,20.2,1986
+06/22,Ste-Foy,Quebec,3,Out of the Blue,Open Class,28.8,1986
+06/22,Normal,IL,6,Sky Ryders,DCA Class A,56.0,1986
+06/22,Normal,IL,7,Colts,DCA Class A,49.6,1986
+06/22,Ste-Foy,Quebec,1,Mousquetaires,Open Class,42.8,1986
+06/22,Normal,IL,8,Black Knights,DCA Class A,35.8,1986
+06/22,Ste-Foy,Quebec,2,Chrystalines,Open Class,36.1,1986
+06/22,Ste-Foy,Quebec,3,Les Chatelaines,Open Class,31.5,1986
+06/22,Welland,Ontario,1,Canadian Knights,DCA Class A,67.5,1986
+06/22,Burlington,MA,1,Citations,DCA Class A,74.2,1986
+06/23,Berea,OH,1,Madison Scouts,Open Class,77.7,1986
+06/23,Indianapolis,IN,1,Cavaliers,Open Class,78.9,1986
+06/22,Welland,Ontario,2,Ventures,DCA Class A,66.3,1986
+06/22,Burlington,MA,2,Saint Francis Sancians,DCA Class A,73.4,1986
+06/23,Berea,OH,2,Florida Wave,Open Class,59.0,1986
+06/23,Indianapolis,IN,2,Spirit of Atlanta,Open Class,70.8,1986
+06/22,Welland,Ontario,3,Oshawa Rebels,DCA Class A,43.8,1986
+06/22,Burlington,MA,3,Suburbanettes,DCA Class A,60.7,1986
+06/23,Berea,OH,3,Bluecoats,Open Class,55.2,1986
+06/23,Indianapolis,IN,3,Phantom Regiment,Open Class,69.5,1986
+06/22,Welland,Ontario,4,Conqueror II,DCA Class A,39.4,1986
+06/22,Burlington,MA,4,Granite State Garrison,DCA Class A,37.8,1986
+06/23,Berea,OH,4,Glassmen,Open Class,43.5,1986
+06/23,Indianapolis,IN,4,Star of Indiana,Open Class,67.4,1986
+06/22,Welland,Ontario,5,Kiwanis Kavaliers,DCA Class A,35.6,1986
+06/23,Berea,OH,5,Northern Aurora,Open Class,35.3,1986
+06/23,Indianapolis,IN,5,Troopers,Open Class,61.9,1986
+06/22,Welland,Ontario,6,Saint Andrews,DCA Class A,29.8,1986
+06/22,Burlington,MA,1,Explorers,DCA Class A,62.8,1986
+06/23,Berea,OH,6,Marion Cadets,Open Class,29.1,1986
+06/23,Indianapolis,IN,6,Sky Ryders,Open Class,56.2,1986
+06/22,Welland,Ontario,7,Saint John's,DCA Class A,13.7,1986
+06/22,Burlington,MA,2,Toreadors,DCA Class A,59.9,1986
+06/22,Burlington,MA,3,Satellites,DCA Class A,52.8,1986
+06/22,Burlington,MA,1,Citation Juniors,DCA Class A,54.8,1986
+06/22,Burlington,MA,2,Suburban Kidettes,DCA Class A,43.5,1986
+06/22,Burlington,MA,3,Braintree Braves,DCA Class A,37.0,1986
+06/24,Canton,OH,1,Madison Scouts,Open Class,79.5,1986
+06/25,Erie,PA,1,Spirit of Atlanta,Open Class,77.6,1986
+06/26,Syracuse,NY,1,Madison Scouts,Open Class,78.0,1986
+06/27,Pittsfield,MA,1,Madison Scouts,Open Class,76.9,1986
+06/24,Canton,OH,2,Spirit of Atlanta,Open Class,74.7,1986
+06/25,Erie,PA,2,Garfield Cadets,Open Class,72.5,1986
+06/26,Syracuse,NY,2,Spirit of Atlanta,Open Class,76.8,1986
+06/27,Pittsfield,MA,2,Garfield Cadets,Open Class,72.7,1986
+06/24,Canton,OH,3,Garfield Cadets,Open Class,71.8,1986
+06/25,Erie,PA,3,Troopers,Open Class,62.8,1986
+06/26,Syracuse,NY,3,Garfield Cadets,Open Class,74.8,1986
+06/27,Pittsfield,MA,3,Star of Indiana,Open Class,72.5,1986
+06/24,Canton,OH,4,Star of Indiana,Open Class,68.6,1986
+06/25,Erie,PA,4,Sky Ryders,Open Class,56.0,1986
+06/26,Syracuse,NY,4,Star of Indiana,Open Class,70.7,1986
+06/27,Pittsfield,MA,4,Spirit of Atlanta,Open Class,71.8,1986
+06/24,Canton,OH,5,Troopers,Open Class,63.1,1986
+06/25,Erie,PA,5,Dutch Boy,Open Class,48.3,1986
+06/26,Syracuse,NY,5,27th Lancers,Open Class,60.0,1986
+06/27,Pittsfield,MA,5,27th Lancers,Open Class,61.9,1986
+06/24,Canton,OH,6,Bluecoats,Open Class,58.1,1986
+06/25,Erie,PA,6,Ventures,Open Class,42.0,1986
+06/26,Syracuse,NY,6,Sky Ryders,Open Class,53.0,1986
+06/27,Pittsfield,MA,6,Troopers,Open Class,57.5,1986
+06/24,Canton,OH,7,Sky Ryders,Open Class,56.5,1986
+06/26,Syracuse,NY,7,Dutch Boy,Open Class,43.6,1986
+06/27,Pittsfield,MA,7,Sky Ryders,Open Class,52.0,1986
+06/24,Canton,OH,8,Florida Wave,Open Class,42.5,1986
+06/26,Syracuse,NY,8,Florida Wave,Open Class,40.6,1986
+06/27,Pittsfield,MA,8,Boston Crusaders,Open Class,46.6,1986
+06/27,Riverside,CA,1,Blue Devils,Open Class,77.1,1986
+06/27,New Market,Ontario,1,Canadian Knights,DCA Class A,71.1,1986
+06/28,Camden,DE,1,Spirit of Atlanta,Open Class,78.2,1986
+06/28,Austintown,OH,1,Bluecoats,Open Class,65.1,1986
+06/27,Riverside,CA,2,Vanguard,Open Class,75.1,1986
+06/27,New Market,Ontario,2,Oshawa Rebels,DCA Class A,51.0,1986
+06/28,Camden,DE,2,Sky Ryders,Open Class,61.6,1986
+06/28,Austintown,OH,2,Knights,Open Class,57.8,1986
+06/27,Riverside,CA,3,Valley Fever,Open Class,66.7,1986
+06/27,New Market,Ontario,3,Kiwanis Kavaliers,DCA Class A,42.4,1986
+06/28,Camden,DE,3,Florida Wave,Open Class,47.1,1986
+06/28,Austintown,OH,3,Dutch Boy,Open Class,52.9,1986
+06/27,Riverside,CA,4,Blue Knights,Open Class,48.2,1986
+06/27,New Market,Ontario,4,Conqueror II,DCA Class A,40.8,1986
+06/28,Camden,DE,4,Crossmen,Open Class,40.8,1986
+06/28,Austintown,OH,4,Glassmen,Open Class,43.1,1986
+06/27,Riverside,CA,5,Musketeers,Open Class,30.6,1986
+06/27,New Market,Ontario,5,Out of the Blue,DCA Class A,29.9,1986
+06/28,Camden,DE,5,20th Maine Regiment,Open Class,33.6,1986
+06/28,Austintown,OH,5,Black Knights,Open Class,43.0,1986
+06/27,Riverside,CA,6,Anaheim Kingsmen,Open Class,27.6,1986
+06/28,Austintown,OH,6,Northern Aurora,Open Class,37.6,1986
+06/27,New Market,Ontario,1,Emerald Knights-ONT,DCA Class A,23.0,1986
+06/28,Austintown,OH,7,Marion Cadets,Open Class,33.9,1986
+06/27,Riverside,CA,1,Blue Devils B,Open Class,61.4,1986
+06/27,New Market,Ontario,2,Cardinals,DCA Class A,12.9,1986
+06/28,Austintown,OH,8,Coachmen,Open Class,29.1,1986
+06/27,Riverside,CA,2,Rocky Mountain Magic,Open Class,55.4,1986
+06/28,New Bedford,MA,1,Garfield Cadets,Open Class,77.4,1986
+06/28,Schaumburg,IL,1,Cavaliers,DCA Class A,84.9,1986
+06/28,Cerritos,CA,1,Blue Devils,Open Class,79.1,1986
+06/28,Austintown,OH,1,Northmen-WI,Open Class,44.5,1986
+06/28,New Bedford,MA,2,27th Lancers,Open Class,65.4,1986
+06/28,Schaumburg,IL,2,Phantom Regiment,DCA Class A,74.5,1986
+06/28,Cerritos,CA,2,Vanguard,Open Class,78.3,1986
+06/28,Austintown,OH,2,Madison Junior Scouts,Open Class,35.8,1986
+06/28,New Bedford,MA,3,Boston Crusaders,Open Class,56.6,1986
+06/28,Schaumburg,IL,3,Colts,DCA Class A,58.1,1986
+06/28,Cerritos,CA,3,Velvet Knights,Open Class,66.3,1986
+06/28,Austintown,OH,3,Blue Star Cadets,Open Class,35.5,1986
+06/28,New Bedford,MA,4,Diplomats,Open Class,45.3,1986
+06/28,Schaumburg,IL,4,Phantom Regiment Cadets,DCA Class A,43.2,1986
+06/28,Cerritos,CA,4,Blue Knights,Open Class,47.9,1986
+06/28,Austintown,OH,4,Pioneer,Open Class,26.9,1986
+06/28,New Bedford,MA,5,Saint Francis Sancians,Open Class,38.6,1986
+06/28,Schaumburg,IL,5,Guardsmen,DCA Class A,34.9,1986
+06/28,Cerritos,CA,5,Valley Fever,Open Class,39.1,1986
+06/28,Austintown,OH,5,CapitolAires,Open Class,26.2,1986
+06/28,Cerritos,CA,6,Musketeers,Open Class,31.0,1986
+06/28,Austintown,OH,6,Toros,Open Class,14.9,1986
+06/28,Cerritos,CA,7,Anaheim Kingsmen,Open Class,25.2,1986
+06/28,Saint Jerome,Quebec,1,Les Eclipses,Open Class,58.2,1986
+06/28,Merrimac Valley,MA,1,Citations,DCA Class A,69.9,1986
+06/29,Malden,MA,1,27th Lancers,Open Class,67.4,1986
+06/29,New Brunswick,NJ,1,Spirit of Atlanta,Open Class,75.4,1986
+06/28,Merrimac Valley,MA,2,Suburbanettes,DCA Class A,63.9,1986
+06/29,Malden,MA,2,Troopers,Open Class,60.1,1986
+06/29,New Brunswick,NJ,2,Madison Scouts,Open Class,74.8,1986
+06/28,Saint Jerome,Quebec,1,L'Insolite,Open Class,37.3,1986
+06/28,Merrimac Valley,MA,3,Granite State Garrison,DCA Class A,46.3,1986
+06/29,Malden,MA,3,Boston Crusaders,Open Class,57.1,1986
+06/29,New Brunswick,NJ,3,Star of Indiana,Open Class,73.7,1986
+06/28,Saint Jerome,Quebec,2,Spartans-NH,Open Class,35.8,1986
+06/29,Malden,MA,4,Diplomats,Open Class,45.5,1986
+06/29,New Brunswick,NJ,4,Sky Ryders,Open Class,56.3,1986
+06/28,Saint Jerome,Quebec,3,Academie Musicale,Open Class,34.8,1986
+06/28,Merrimac Valley,MA,1,Explorers,DCA Class A,73.9,1986
+06/29,Malden,MA,5,Les Eclipses,Open Class,38.2,1986
+06/29,New Brunswick,NJ,5,Florida Wave,Open Class,48.6,1986
+06/28,Merrimac Valley,MA,2,Joanettes,DCA Class A,60.6,1986
+06/29,Malden,MA,6,Saint Francis Sancians,Open Class,35.7,1986
+06/28,Saint Jerome,Quebec,1,Transit,Open Class,51.2,1986
+06/28,Merrimac Valley,MA,3,Satellites,DCA Class A,59.1,1986
+06/29,New Brunswick,NJ,1,Steel City Ambassadors,Open Class,73.4,1986
+06/28,Saint Jerome,Quebec,2,Mousquetaires,Open Class,43.5,1986
+06/28,Merrimac Valley,MA,4,Royal Cadets,DCA Class A,52.1,1986
+06/29,New Brunswick,NJ,2,Reading Buccaneers,Open Class,69.05,1986
+06/28,Saint Jerome,Quebec,3,Voltigeurs,Open Class,34.2,1986
+06/28,Merrimac Valley,MA,5,Buccaneers,DCA Class A,51.5,1986
+06/29,New Brunswick,NJ,3,New York Skyliners,Open Class,66.5,1986
+06/28,Saint Jerome,Quebec,4,Pionniers,Open Class,29.0,1986
+06/29,New Brunswick,NJ,4,Matadors,Open Class,56.25,1986
+06/28,Saint Jerome,Quebec,5,Les Etoiles,Open Class,25.8,1986
+06/28,Merrimac Valley,MA,1,Citation Juniors,DCA Class A,70.4,1986
+06/29,New Brunswick,NJ,5,Connecticut Hurricanes,Open Class,54.5,1986
+06/28,Merrimac Valley,MA,2,Suburban Kidettes,DCA Class A,68.1,1986
+06/28,Merrimac Valley,MA,3,Royal Knights,DCA Class A,60.0,1986
+06/28,Merrimac Valley,MA,4,Braintree Braves,DCA Class A,56.4,1986
+06/29,Green Bay,WI,1,Cavaliers,Open Class,79.8,1986
+06/29,Bakersfield,CA,1,Blue Devils,Open Class,79.3,1986
+06/29,Marion,OH,1,Bluecoats,Open Class,63.6,1986
+06/29,Mississauga,Ontario,1,Canadian Knights,DCA Class A,76.7,1986
+06/29,Green Bay,WI,2,Phantom Regiment,Open Class,76.2,1986
+06/29,Bakersfield,CA,2,Vanguard,Open Class,78.7,1986
+06/29,Marion,OH,2,Knights,Open Class,58.2,1986
+06/29,Mississauga,Ontario,2,Ventures,DCA Class A,72.6,1986
+06/29,Green Bay,WI,3,Colts,Open Class,56.2,1986
+06/29,Bakersfield,CA,3,Blue Knights,Open Class,47.4,1986
+06/29,Marion,OH,3,Black Knights,Open Class,45.6,1986
+06/29,Mississauga,Ontario,3,Oshawa Rebels,DCA Class A,54.8,1986
+06/29,Green Bay,WI,4,Madison Junior Scouts,Open Class,35.0,1986
+06/29,Bakersfield,CA,4,Valley Fever,Open Class,36.4,1986
+06/29,Marion,OH,4,Glassmen,Open Class,44.1,1986
+06/29,Mississauga,Ontario,4,Kiwanis Kavaliers,DCA Class A,44.7,1986
+06/29,Green Bay,WI,5,Blue Star Cadets,Open Class,34.8,1986
+06/29,Bakersfield,CA,5,Musketeers,Open Class,29.3,1986
+06/29,Marion,OH,5,Northern Aurora,Open Class,38.2,1986
+06/29,Mississauga,Ontario,5,Conqueror II,DCA Class A,41.4,1986
+06/29,Green Bay,WI,6,CapitolAires,Open Class,24.7,1986
+06/29,Marion,OH,6,Coachmen,Open Class,27.5,1986
+06/29,Mississauga,Ontario,6,Saint Andrews,DCA Class A,36.7,1986
+06/29,Green Bay,WI,7,Toros,Open Class,18.6,1986
+06/29,Mississauga,Ontario,7,Out of the Blue,DCA Class A,31.2,1986
+06/29,Mississauga,Ontario,1,Emerald Knights-ONT,DCA Class A,27.4,1986
+06/29,Mississauga,Ontario,2,Ridge Raiders,DCA Class A,24.1,1986
+06/29,Mississauga,Ontario,3,Saint John's,DCA Class A,18.8,1986
+06/29,Mississauga,Ontario,4,Cardinals,DCA Class A,14.5,1986
+06/29,St-Lin,Quebec,1,Connexion Quebec,Open Class,49.7,1986
+06/29,East Providence,RI,1,Citations,Open Class,74.9,1986
+06/30,Windsor,Ontario,1,Bluecoats,Open Class,70.8,1986
+06/29,St-Lin,Quebec,2,Spartans-NH,Open Class,35.3,1986
+06/29,East Providence,RI,2,Granite State Garrison,Open Class,39.3,1986
+06/30,Windsor,Ontario,2,Dutch Boy,Open Class,64.5,1986
+06/29,St-Lin,Quebec,3,Academie Musicale,Open Class,35.1,1986
+06/30,Windsor,Ontario,3,Glassmen,Open Class,52.7,1986
+06/29,St-Lin,Quebec,4,L'Insolite,Open Class,34.4,1986
+06/29,East Providence,RI,1,Toreadors,Open Class,64.5,1986
+06/29,East Providence,RI,2,Joanettes,Open Class,60.6,1986
+06/30,Windsor,Ontario,1,Northern Aurora,Open Class,49.9,1986
+06/29,St-Lin,Quebec,1,Transit,Open Class,48.0,1986
+06/29,East Providence,RI,3,Satellites,Open Class,58.4,1986
+06/30,Windsor,Ontario,2,Bandettes,Open Class,46.2,1986
+06/29,St-Lin,Quebec,2,Mousquetaires,Open Class,41.4,1986
+06/29,East Providence,RI,4,Buccaneers,Open Class,48.6,1986
+06/30,Windsor,Ontario,3,Marion Cadets,Open Class,41.2,1986
+06/29,St-Lin,Quebec,3,Voltigeurs,Open Class,29.2,1986
+06/29,East Providence,RI,5,Royal Cadets,Open Class,44.0,1986
+06/29,St-Lin,Quebec,4,Pionniers,Open Class,24.9,1986
+06/30,Windsor,Ontario,1,Dutch Boy Cadets,Open Class,22.1,1986
+06/29,St-Lin,Quebec,5,Marauders-QUE,Open Class,23.9,1986
+06/29,East Providence,RI,1,Citation Juniors,Open Class,54.4,1986
+06/30,Windsor,Ontario,2,Eagles,Open Class,12.5,1986
+06/29,St-Lin,Quebec,6,Renaissance,Open Class,17.3,1986
+06/29,East Providence,RI,2,Royal Knights,Open Class,44.6,1986
+06/30,Windsor,Ontario,3,Phoenix-ONT,Open Class,11.9,1986
+07/01,Cary,NC,1,Spirit of Atlanta,Open Class,76.3,1986
+07/01,Sarnia,Ontario,1,Bluecoats,Open Class,69.3,1986
+07/02,Westmoreland,PA,1,Canadian Knights,Open Class,63.9,1986
+07/02,Chula Vista,CA,1,Blue Devils,Open Class,82.0,1986
+07/01,Cary,NC,2,Madison Scouts,Open Class,75.0,1986
+07/01,Sarnia,Ontario,2,Dutch Boy,Open Class,63.3,1986
+07/02,Westmoreland,PA,2,Ventures,Open Class,62.9,1986
+07/02,Chula Vista,CA,2,Velvet Knights,Open Class,66.5,1986
+07/01,Cary,NC,3,Star of Indiana,Open Class,72.8,1986
+07/01,Sarnia,Ontario,3,Glassmen,Open Class,48.3,1986
+07/02,Westmoreland,PA,3,Patriots,Open Class,31.9,1986
+07/02,Chula Vista,CA,3,Blue Knights,Open Class,46.4,1986
+07/01,Cary,NC,4,Garfield Cadets,Open Class,70.7,1986
+07/01,Sarnia,Ontario,4,Northern Aurora,Open Class,44.1,1986
+07/02,Westmoreland,PA,4,New York Lancers,Open Class,30.8,1986
+07/02,Chula Vista,CA,4,Anaheim Kingsmen,Open Class,37.4,1986
+07/01,Cary,NC,5,Sky Ryders,Open Class,58.7,1986
+07/01,Sarnia,Ontario,5,Bandettes,Open Class,41.1,1986
+07/01,Cary,NC,6,Florida Wave,Open Class,47.8,1986
+07/01,Sarnia,Ontario,6,Dutch Boy Cadets,Open Class,19.2,1986
+07/01,Cary,NC,7,20th Maine Regiment,Open Class,37.1,1986
+07/02,Greensburg,PA,1,Canadian Knights,Open Class,63.9,1986
+07/03,Elmwood Park,IL,1,Cavaliers,Open Class,81.7,1986
+07/03,LaCrosse,WI,1,Colts,Open Class,57.0,1986
+07/03,Atlanta,GA,1,Spirit of Atlanta,Open Class,79.2,1986
+07/02,Greensburg,PA,2,Ventures,Open Class,62.9,1986
+07/03,Elmwood Park,IL,2,Bluecoats,Open Class,64.6,1986
+07/03,LaCrosse,WI,2,Railmen,Open Class,48.5,1986
+07/03,Atlanta,GA,2,Madison Scouts,Open Class,77.6,1986
+07/02,Greensburg,PA,3,Patriots,Open Class,31.9,1986
+07/03,Elmwood Park,IL,3,Phantom Regiment Cadets,Open Class,49.5,1986
+07/03,LaCrosse,WI,3,CapitolAires,Open Class,25.5,1986
+07/03,Atlanta,GA,3,Star of Indiana,Open Class,75.6,1986
+07/02,Greensburg,PA,4,Lancers,Open Class,30.8,1986
+07/03,Elmwood Park,IL,4,Guardsmen,Open Class,43.0,1986
+07/03,LaCrosse,WI,4,Pioneer,Open Class,25.0,1986
+07/03,Atlanta,GA,4,Suncoast Sound,Open Class,70.3,1986
+07/03,Elmwood Park,IL,5,Black Knights,Open Class,38.4,1986
+07/03,LaCrosse,WI,5,Govenaires,Open Class,21.9,1986
+07/03,Atlanta,GA,5,Sky Ryders,Open Class,60.4,1986
+07/03,LaCrosse,WI,6,Toros,Open Class,18.0,1986
+07/03,Atlanta,GA,6,Florida Wave,Open Class,50.2,1986
+07/03,Atlanta,GA,7,20th Maine Regiment,Open Class,37.2,1986
+07/03,Titusville,PA,1,Ventures,Open Class,67.4,1986
+07/03,Racine,WI,1,Phantom Regiment,Open Class,81.0,1986
+07/03,Clawson,MI,1,Northern Aurora,Open Class,67.3,1986
+07/03,Highland Park,IL,1,Dutch Boy,Open Class,67.3,1986
+07/03,Titusville,PA,2,Canadian Knights,Open Class,63.8,1986
+07/03,Racine,WI,2,Troopers,Open Class,74.9,1986
+07/03,Clawson,MI,2,Bandettes,Open Class,51.9,1986
+07/03,Highland Park,IL,2,Black Knights,Open Class,51.9,1986
+07/03,Titusville,PA,3,Patriots,Open Class,27.1,1986
+07/03,Racine,WI,3,Knights,Open Class,65.9,1986
+07/03,Clawson,MI,3,Marion Cadets,Open Class,48.6,1986
+07/03,Highland Park,IL,3,Ridge Raiders,Open Class,32.9,1986
+07/03,Racine,WI,4,Northmen-WI,Open Class,43.1,1986
+07/03,Clawson,MI,4,Conqueror II,Open Class,44.5,1986
+07/03,Highland Park,IL,4,Joliet Kingsmen,Open Class,29.0,1986
+07/03,Racine,WI,5,Madison Junior Scouts,Open Class,38.7,1986
+07/03,Clawson,MI,5,Dutch Boy Cadets,Open Class,31.5,1986
+07/03,Highland Park,IL,5,Grenadiers,Open Class,13.3,1986
+07/03,Racine,WI,6,Guardsmen,Open Class,35.4,1986
+07/03,Clawson,MI,6,Phoenix-ONT,Open Class,22.9,1986
+07/03,Highland Park,IL,6,New Day,Open Class,12.1,1986
+07/03,Clawson,MI,7,Eagles,Open Class,21.7,1986
+07/04,Warren,PA,1,Ventures,Open Class,64.9,1986
+07/04,Franklin Park,IL,1,Bluecoats,Open Class,64.6,1986
+07/04,New Berlin,WI,1,Troopers,Open Class,71.0,1986
+07/04,Saint Peter,MN,1,Colts,Open Class,58.8,1986
+07/04,Warren,PA,2,Canadian Knights,Open Class,61.7,1986
+07/04,Franklin Park,IL,2,Knights,Open Class,63.8,1986
+07/04,New Berlin,WI,2,Northmen-WI,Open Class,45.0,1986
+07/04,Saint Peter,MN,2,Minnesota Brass,Open Class,50.1,1986
+07/04,Warren,PA,3,Patriots,Open Class,35.8,1986
+07/04,Franklin Park,IL,3,Black Knights,Open Class,42.2,1986
+07/04,New Berlin,WI,3,Glassmen,Open Class,43.6,1986
+07/04,Saint Peter,MN,3,Railmen,Open Class,46.7,1986
+07/04,Warren,PA,4,Emerald Knights-ONT,Open Class,34.4,1986
+07/04,Franklin Park,IL,4,Guardsmen,Open Class,38.2,1986
+07/04,New Berlin,WI,4,CapitolAires,Open Class,28.3,1986
+07/04,Saint Peter,MN,4,CapitolAires,Open Class,34.4,1986
+07/04,Franklin Park,IL,5,Madison Junior Scouts,Open Class,35.1,1986
+07/04,New Berlin,WI,5,Coachmen,Open Class,27.9,1986
+07/04,Saint Peter,MN,5,Pioneer,Open Class,20.7,1986
+07/04,New Berlin,WI,6,Emerald Knights-IA,Open Class,13.4,1986
+07/04,Saint Peter,MN,6,Toros,Open Class,17.4,1986
+07/05,Bridgeport,CT,1,Reading Buccaneers,Open Class,76.25,1986
+07/05,Longview,WA,1,Marauders,Open Class,59.4,1986
+07/05,Malden,MA,1,27th Lancers,Open Class,70.1,1986
+07/05,Rockford,IL,1,Cavaliers,Open Class,84.0,1986
+07/05,Bridgeport,CT,2,Hawthorne Caballeros,Open Class,73.75,1986
+07/05,Longview,WA,2,Spartans-WA,Open Class,53.3,1986
+07/05,Malden,MA,2,Boston Crusaders,Open Class,61.7,1986
+07/05,Rockford,IL,2,Phantom Regiment,Open Class,77.7,1986
+07/05,Bridgeport,CT,3,Bushwackers,Open Class,72.9,1986
+07/05,Longview,WA,3,Valley Fever,Open Class,46.1,1986
+07/05,Malden,MA,3,Diplomats,Open Class,49.7,1986
+07/05,Rockford,IL,3,Troopers,Open Class,73.1,1986
+07/05,Bridgeport,CT,4,Sunrisers,Open Class,72.55,1986
+07/05,Longview,WA,4,Pacificaires,Open Class,37.9,1986
+07/05,Malden,MA,4,Connexion Quebec,Open Class,46.9,1986
+07/05,Rockford,IL,4,Knights,Open Class,65.2,1986
+07/05,Bridgeport,CT,5,New York Skyliners,Open Class,71.6,1986
+07/05,Malden,MA,5,Crossmen,Open Class,43.7,1986
+07/05,Rockford,IL,5,Black Knights,Open Class,46.1,1986
+07/05,Bridgeport,CT,6,Matadors,Open Class,65.9,1986
+07/05,Longview,WA,1,Mandarins,Open Class,54.9,1986
+07/05,Malden,MA,6,Saint Francis Sancians,Open Class,43.6,1986
+07/05,Rockford,IL,6,Northmen-WI,Open Class,43.9,1986
+07/05,Bridgeport,CT,7,Connecticut Hurricanes,Open Class,60.45,1986
+07/05,Longview,WA,2,Rocky Mountain Magic,Open Class,52.4,1986
+07/05,Malden,MA,7,Les Eclipses,Open Class,41.5,1986
+07/05,Rockford,IL,7,Guardsmen,Open Class,39.7,1986
+07/05,Longview,WA,3,1st Canadian Regiment,Open Class,31.0,1986
+07/05,Palatine,IL,1,Glassmen,Open Class,43.7,1986
+07/05,Saint Louis Park,MN,1,Colts,Open Class,57.9,1986
+07/05,Monterey Park,CA,1,Blue Devils,Open Class,83.4,1986
+07/05,Sandusky,OH,1,Dutch Boy,Open Class,70.2,1986
+07/05,Palatine,IL,2,Madison Junior Scouts,Open Class,39.6,1986
+07/05,Saint Louis Park,MN,2,Minnesota Brass,Open Class,49.6,1986
+07/05,Monterey Park,CA,2,Vanguard,Open Class,79.1,1986
+07/05,Sandusky,OH,2,Northern Aurora,Open Class,47.5,1986
+07/05,Palatine,IL,3,CapitolAires,Open Class,32.3,1986
+07/05,Saint Louis Park,MN,3,Railmen,Open Class,47.8,1986
+07/05,Monterey Park,CA,3,Velvet Knights,Open Class,67.1,1986
+07/05,Sandusky,OH,2,Bandettes,Open Class,47.5,1986
+07/05,Palatine,IL,4,Coachmen,Open Class,30.7,1986
+07/05,Saint Louis Park,MN,4,Blue Star Cadets,Open Class,31.5,1986
+07/05,Monterey Park,CA,4,Blue Knights,Open Class,44.2,1986
+07/05,Sandusky,OH,4,Marion Cadets,Open Class,44.6,1986
+07/05,Palatine,IL,5,Joliet Kingsmen,Open Class,26.5,1986
+07/05,Saint Louis Park,MN,5,Pioneer,Open Class,24.0,1986
+07/05,Monterey Park,CA,5,Anaheim Kingsmen,Open Class,37.7,1986
+07/05,Sandusky,OH,5,Conqueror II,Open Class,40.7,1986
+07/05,Palatine,IL,6,Ridge Raiders,Open Class,19.5,1986
+07/05,Saint Louis Park,MN,6,Govenaires,Open Class,19.9,1986
+07/05,Monterey Park,CA,6,Musketeers,Open Class,23.1,1986
+07/05,Sandusky,OH,6,Dutch Boy Cadets,Open Class,23.3,1986
+07/05,Palatine,IL,7,Emerald Knights-IA,Open Class,16.7,1986
+07/05,Saint Louis Park,MN,7,Toros,Open Class,18.1,1986
+07/05,Sandusky,OH,7,Phoenix-ONT,Open Class,16.3,1986
+07/05,Winchendon,MA,1,Citations,Open Class,79.5,1986
+07/05,Nashua,NH,1,Academie Musicale,Open Class,67.1,1986
+07/06,Albany,NY,1,Garfield Cadets,Open Class,79.7,1986
+07/06,Saint Louis,MO,1,Cavaliers,Open Class,87.0,1986
+07/05,Winchendon,MA,2,Saint Francis Sancians,Open Class,75.6,1986
+07/05,Nashua,NH,2,Transit,Open Class,63.6,1986
+07/06,Albany,NY,2,27th Lancers,Open Class,72.2,1986
+07/06,Saint Louis,MO,2,Madison Scouts,Open Class,82.7,1986
+07/05,Winchendon,MA,3,Granite State Garrison,Open Class,47.9,1986
+07/05,Nashua,NH,3,L'Insolite,Open Class,56.2,1986
+07/06,Albany,NY,3,Connexion Quebec,Open Class,53.5,1986
+07/06,Saint Louis,MO,3,Star of Indiana,Open Class,77.5,1986
+07/05,Nashua,NH,4,Aventuries,Open Class,54.7,1986
+07/06,Albany,NY,4,Crossmen,Open Class,50.3,1986
+07/06,Saint Louis,MO,4,Phantom Regiment,Open Class,75.1,1986
+07/05,Winchendon,MA,1,Explorers,Open Class,73.1,1986
+07/05,Nashua,NH,5,New York Lancers,Open Class,49.2,1986
+07/06,Albany,NY,5,Les Eclipses,Open Class,48.4,1986
+07/06,Saint Louis,MO,5,Sky Ryders,Open Class,66.2,1986
+07/05,Winchendon,MA,2,Toreadors,Open Class,67.9,1986
+07/05,Nashua,NH,6,Les Chrystalines,Open Class,46.5,1986
+07/06,Saint Louis,MO,6,Bluecoats,Open Class,63.1,1986
+07/05,Winchendon,MA,3,Joanettes,Open Class,63.3,1986
+07/05,Nashua,NH,7,Les Senateurs,Open Class,46.1,1986
+07/06,Saint Louis,MO,7,Black Knights,Open Class,42.0,1986
+07/05,Winchendon,MA,4,Satellites,Open Class,62.3,1986
+07/05,Nashua,NH,8,La Constellation,Open Class,43.1,1986
+07/05,Winchendon,MA,5,Saint John's,Open Class,58.5,1986
+07/05,Nashua,NH,9,Les Etoiles,Open Class,41.3,1986
+07/05,Winchendon,MA,6,Royal Cadets,Open Class,48.6,1986
+07/05,Nashua,NH,10,Marauders-QUE,Open Class,40.8,1986
+07/05,Winchendon,MA,1,Royal Knights,Open Class,58.7,1986
+07/06,Mundelein,IL,1,Guardsmen,Open Class,52.8,1986
+07/06,Vancouver,WA,1,Marauders,Open Class,66.1,1986
+07/06,Fountain Valley,CA,1,Blue Devils,Open Class,85.4,1986
+07/09,Phoenix,AZ,1,Suncoast Sound,Open Class,78.7,1986
+07/06,Mundelein,IL,2,Coachmen,Open Class,34.3,1986
+07/06,Vancouver,WA,2,Spartans-WA,Open Class,55.8,1986
+07/06,Fountain Valley,CA,2,Vanguard,Open Class,81.6,1986
+07/09,Phoenix,AZ,2,Velvet Knights,Open Class,69.1,1986
+07/06,Mundelein,IL,3,CapitolAires,Open Class,33.2,1986
+07/06,Vancouver,WA,3,Valley Fever,Open Class,52.3,1986
+07/06,Fountain Valley,CA,3,Velvet Knights,Open Class,68.1,1986
+07/09,Phoenix,AZ,3,Blue Knights,Open Class,53.5,1986
+07/06,Mundelein,IL,4,Pioneer,Open Class,31.8,1986
+07/06,Fountain Valley,CA,4,Blue Knights,Open Class,49.5,1986
+07/09,Phoenix,AZ,4,Anaheim Kingsmen,Open Class,38.1,1986
+07/06,Mundelein,IL,5,Ridge Raiders,Open Class,22.5,1986
+07/06,Vancouver,WA,1,Mandarins,Open Class,54.2,1986
+07/06,Fountain Valley,CA,5,Anaheim Kingsmen,Open Class,40.5,1986
+07/06,Mundelein,IL,6,Emerald Knights-IA,Open Class,20.1,1986
+07/06,Vancouver,WA,2,Rocky Mountain Magic,Open Class,51.8,1986
+07/06,Vancouver,WA,3,Pacificaires,Open Class,44.1,1986
+07/06,Vancouver,WA,4,1st Canadian Regiment,Open Class,29.7,1986
+07/11,San Jose,CA,1,Blue Devils,Open Class,86.5,1986
+07/11,Waterloo,Ontario,1,Garfield Cadets,Open Class,82.1,1986
+07/12,Somerville,MA,1,27th Lancers,Open Class,67.2,1986
+07/12,Jamestown,NY,1,Steel City Ambassadors,Open Class,78.85,1986
+07/11,San Jose,CA,2,Vanguard,Open Class,84.1,1986
+07/11,Waterloo,Ontario,2,Dutch Boy,Open Class,64.8,1986
+07/12,Somerville,MA,2,Boston Crusaders,Open Class,63.2,1986
+07/12,Jamestown,NY,2,Reading Buccaneers,Open Class,73.7,1986
+07/11,San Jose,CA,3,Suncoast Sound,Open Class,82.3,1986
+07/11,Waterloo,Ontario,3,Les Eclipses,Open Class,60.2,1986
+07/12,Somerville,MA,3,Diplomats,Open Class,58.3,1986
+07/12,Jamestown,NY,3,Rochester Crusaders,Open Class,67.85,1986
+07/11,San Jose,CA,4,Velvet Knights,Open Class,70.1,1986
+07/11,Waterloo,Ontario,4,Connexion Quebec,Open Class,56.4,1986
+07/12,Somerville,MA,4,Saint Francis Sancians,Open Class,53.6,1986
+07/12,Jamestown,NY,4,Sunrisers,Open Class,67.75,1986
+07/11,San Jose,CA,5,Marauders,Open Class,58.8,1986
+07/11,Waterloo,Ontario,5,Ventures,Open Class,53.3,1986
+07/12,Somerville,MA,5,Citations,Open Class,44.6,1986
+07/12,Jamestown,NY,5,Westshoremen,Open Class,58.8,1986
+07/11,San Jose,CA,6,Spartans-WA,Open Class,46.1,1986
+07/11,Waterloo,Ontario,6,Canadian Knights,Open Class,52.7,1986
+07/12,Somerville,MA,6,20th Maine Regiment,Open Class,40.2,1986
+07/11,San Jose,CA,7,Valley Fever,Open Class,43.3,1986
+07/11,Waterloo,Ontario,7,Aventuries,Open Class,40.1,1986
+07/11,San Jose,CA,8,Anaheim Kingsmen,Open Class,41.1,1986
+07/11,Waterloo,Ontario,8,Kiwanis Kavaliers,Open Class,31.9,1986
+07/11,Waterloo,Ontario,9,Out of the Blue,Open Class,24.4,1986
+07/11,San Jose,CA,1,Blue Devils B,Open Class,44.1,1986
+07/11,San Jose,CA,2,Vanguard Cadets,Open Class,38.4,1986
+07/12,Des Plaines,IL,1,Black Knights,Open Class,50.1,1986
+07/12,Waterloo,IA,1,Cavaliers,Open Class,87.7,1986
+07/12,Sacramento,CA,1,Blue Devils,Open Class,86.1,1986
+07/12,Port Colbourne,Ontario,1,Canadian Knights,DCA Class A,80.2,1986
+07/12,Des Plaines,IL,2,Guardsmen,Open Class,46.0,1986
+07/12,Waterloo,IA,2,Colts,Open Class,68.5,1986
+07/12,Sacramento,CA,2,Vanguard,Open Class,83.7,1986
+07/12,Port Colbourne,Ontario,2,Ventures,DCA Class A,79.3,1986
+07/12,Des Plaines,IL,3,Joliet Kingsmen,Open Class,24.7,1986
+07/12,Waterloo,IA,3,Railmen,Open Class,57.4,1986
+07/12,Sacramento,CA,3,Suncoast Sound,Open Class,81.3,1986
+07/12,Port Colbourne,Ontario,3,Patriots,DCA Class A,60.1,1986
+07/12,Waterloo,IA,4,Blue Star Cadets,Open Class,41.9,1986
+07/12,Sacramento,CA,4,Velvet Knights,Open Class,70.5,1986
+07/12,Port Colbourne,Ontario,4,Oshawa Rebels,DCA Class A,58.9,1986
+07/12,Waterloo,IA,5,Northern Aurora,Open Class,40.4,1986
+07/12,Sacramento,CA,5,Marauders,Open Class,59.4,1986
+07/12,Port Colbourne,Ontario,5,Bandettes,DCA Class A,50.9,1986
+07/12,Waterloo,IA,6,Madison Junior Scouts,Open Class,37.7,1986
+07/12,Sacramento,CA,6,Spartans-WA,Open Class,47.5,1986
+07/12,Port Colbourne,Ontario,5,Conqueror II,DCA Class A,50.9,1986
+07/12,Waterloo,IA,7,Emerald Knights-IA,Open Class,17.0,1986
+07/12,Sacramento,CA,7,Valley Fever,Open Class,46.5,1986
+07/12,Port Colbourne,Ontario,7,Spartans-NH,DCA Class A,50.7,1986
+07/12,Sacramento,CA,8,Anaheim Kingsmen,Open Class,45.5,1986
+07/12,Port Colbourne,Ontario,8,Kiwanis Kavaliers,DCA Class A,48.3,1986
+07/12,Port Colbourne,Ontario,9,Saint Andrews,DCA Class A,48.2,1986
+07/12,Port Colbourne,Ontario,10,Out of the Blue,DCA Class A,34.8,1986
+07/12,Port Colbourne,Ontario,1,Dutch Boy Cadets,DCA Class A,27.1,1986
+07/12,Port Colbourne,Ontario,2,Saint John's,DCA Class A,24.2,1986
+07/12,Port Colbourne,Ontario,3,Ridge Raiders,DCA Class A,22.6,1986
+07/12,Port Colbourne,Ontario,4,Lamplighters,DCA Class A,18.2,1986
+07/12,Port Colbourne,Ontario,5,Phoenix-ONT,DCA Class A,15.4,1986
+07/12,Laval,Quebec,1,Les Eclipses,Open Class,60.0,1986
+07/13,Dubuque,IA,1,Cavaliers,Open Class,88.8,1986
+07/13,Montreal,Quebec,1,Garfield Cadets,Open Class,78.6,1986
+07/13,Fresno,CA,1,Suncoast Sound,Open Class,82.8,1986
+07/12,Laval,Quebec,2,Connexion Quebec,Open Class,58.8,1986
+07/13,Dubuque,IA,2,Colts,Open Class,68.8,1986
+07/13,Montreal,Quebec,2,27th Lancers,Open Class,68.4,1986
+07/13,Fresno,CA,2,Valley Fever,Open Class,47.8,1986
+07/13,Dubuque,IA,3,Railmen,Open Class,53.2,1986
+07/13,Montreal,Quebec,3,Les Eclipses,Open Class,60.6,1986
+07/13,Fresno,CA,3,Anaheim Kingsmen,Open Class,47.1,1986
+07/12,Laval,Quebec,1,Aventuries,Open Class,41.7,1986
+07/13,Dubuque,IA,4,Phantom Regiment Cadets,Open Class,52.9,1986
+07/13,Montreal,Quebec,4,Connexion Quebec,Open Class,57.1,1986
+07/13,Fresno,CA,4,Spartans-WA,Open Class,46.0,1986
+07/12,Laval,Quebec,2,L'Insolite,Open Class,38.3,1986
+07/13,Dubuque,IA,5,Blue Star Cadets,Open Class,41.4,1986
+07/13,Montreal,Quebec,5,Diplomats,Open Class,56.0,1986
+07/13,Dubuque,IA,6,Madison Junior Scouts,Open Class,38.7,1986
+07/13,Montreal,Quebec,6,Aventuries,Open Class,41.7,1986
+07/13,Fresno,CA,1,Mandarins,Open Class,47.5,1986
+07/12,Laval,Quebec,1,Transit,Open Class,52.5,1986
+07/13,Dubuque,IA,7,Northern Aurora,Open Class,35.7,1986
+07/13,Montreal,Quebec,7,Academie Musicale,Open Class,37.9,1986
+07/13,Fresno,CA,2,Vanguard Cadets,Open Class,35.5,1986
+07/12,Laval,Quebec,2,Les Etoiles,Open Class,32.5,1986
+07/13,Dubuque,IA,8,Emerald Knights-IA,Open Class,14.6,1986
+07/13,Montreal,Quebec,8,Transit,Open Class,33.4,1986
+07/12,Laval,Quebec,3,Marauders-QUE,Open Class,27.9,1986
+07/13,Montreal,Quebec,9,L'Insolite,Open Class,29.6,1986
+07/16,Cohocton,NY,1,Dutch Boy,Open Class,61.9,1986
+07/16,Modesto,CA,1,Blue Devils,Open Class,85.5,1986
+07/17,Nazareth,PA,1,Garfield Cadets,Open Class,76.0,1986
+07/18,Stockton,CA,1,Blue Devils,Open Class,85.7,1986
+07/16,Cohocton,NY,2,Les Eclipses,Open Class,56.1,1986
+07/16,Modesto,CA,2,Vanguard,Open Class,84.1,1986
+07/17,Nazareth,PA,2,27th Lancers,Open Class,68.0,1986
+07/18,Stockton,CA,2,Vanguard,Open Class,85.5,1986
+07/16,Cohocton,NY,3,Academie Musicale,Open Class,39.8,1986
+07/16,Modesto,CA,3,Suncoast Sound,Open Class,80.9,1986
+07/17,Nazareth,PA,3,Dutch Boy,Open Class,64.7,1986
+07/18,Stockton,CA,3,Suncoast Sound,Open Class,81.3,1986
+07/16,Cohocton,NY,4,L'Insolite,Open Class,29.1,1986
+07/16,Modesto,CA,4,Marauders,Open Class,63.1,1986
+07/17,Nazareth,PA,4,Les Eclipses,Open Class,56.3,1986
+07/18,Stockton,CA,4,Marauders,Open Class,60.8,1986
+07/16,Modesto,CA,5,Valley Fever,Open Class,52.0,1986
+07/17,Nazareth,PA,5,Ventures,Open Class,52.6,1986
+07/18,Stockton,CA,5,Valley Fever,Open Class,47.2,1986
+07/17,Nazareth,PA,6,Crossmen,Open Class,45.5,1986
+07/18,Stockton,CA,6,Anaheim Kingsmen,Open Class,45.8,1986
+07/16,Modesto,CA,1,Mandarins,Open Class,53.0,1986
+07/16,Modesto,CA,2,Blue Devils B,Open Class,46.9,1986
+07/18,Stockton,CA,1,Mandarins,Open Class,54.6,1986
+07/16,Modesto,CA,3,Vanguard Cadets,Open Class,38.3,1986
+07/18,Middleton,WI,1,Cavaliers,Open Class,85.9,1986
+07/18,Lansdale,PA,1,Garfield Cadets,Open Class,70.8,1986
+07/19,Torrington,CT,1,Hawthorne Caballeros,Open Class,78.75,1986
+07/19,Leicester,MA,1,Suburbanettes,Open Class,70.3,1986
+07/18,Middleton,WI,2,Madison Scouts,Open Class,84.5,1986
+07/18,Lansdale,PA,2,27th Lancers,Open Class,70.0,1986
+07/19,Torrington,CT,2,Bushwackers,Open Class,77.85,1986
+07/19,Leicester,MA,2,Granite State Garrison,Open Class,51.5,1986
+07/18,Middleton,WI,3,Star of Indiana,Open Class,80.9,1986
+07/18,Lansdale,PA,3,Dutch Boy,Open Class,60.4,1986
+07/19,Torrington,CT,3,New York Skyliners,Open Class,70.55,1986
+07/18,Middleton,WI,4,Colts,Open Class,62.5,1986
+07/18,Lansdale,PA,4,Les Eclipses,Open Class,54.5,1986
+07/19,Torrington,CT,4,Sunrisers,Open Class,70.5,1986
+07/19,Leicester,MA,1,Explorers,Open Class,70.7,1986
+07/18,Middleton,WI,5,Minnesota Brass,Open Class,50.2,1986
+07/18,Lansdale,PA,5,Diplomats,Open Class,50.7,1986
+07/19,Torrington,CT,5,Matadors,Open Class,61.3,1986
+07/19,Leicester,MA,2,Toreadors,Open Class,65.6,1986
+07/18,Middleton,WI,6,Madison Junior Scouts,Open Class,36.8,1986
+07/18,Lansdale,PA,6,Crossmen,Open Class,47.8,1986
+07/19,Torrington,CT,6,Connecticut Hurricanes,Open Class,55.1,1986
+07/19,Leicester,MA,3,Satellites,Open Class,59.1,1986
+07/19,Leicester,MA,4,Joanettes,Open Class,56.9,1986
+07/19,Leicester,MA,5,Buccaneers,Open Class,56.0,1986
+07/19,Leicester,MA,6,Royal Cadets,Open Class,48.7,1986
+07/19,Leicester,MA,1,Suburban Kidettes,Open Class,60.2,1986
+07/19,Leicester,MA,2,Royal Knights,Open Class,55.8,1986
+07/19,Concord,CA,1,Marauders,Open Class,65.9,1986
+07/19,Concord,CA,1,Blue Devils,Open Class,89.2,1986
+07/19,DeKalb,IL,1,Cavaliers,Open Class,87.5,1986
+07/19,DeKalb,IL,1,Cavaliers,Open Class,86.2,1986
+07/19,Concord,CA,2,Valley Fever,Open Class,52.2,1986
+07/19,Concord,CA,2,Vanguard,Open Class,86.7,1986
+07/19,DeKalb,IL,2,Madison Scouts,Open Class,85.5,1986
+07/19,DeKalb,IL,2,Madison Scouts,Open Class,82.9,1986
+07/19,Concord,CA,3,Anaheim Kingsmen,Open Class,50.0,1986
+07/19,Concord,CA,3,Suncoast Sound,Open Class,86.3,1986
+07/19,DeKalb,IL,3,Star of Indiana,Open Class,82.5,1986
+07/19,DeKalb,IL,3,Star of Indiana,Open Class,79.5,1986
+07/19,Concord,CA,4,Mandarins,Open Class,35.0,1986
+07/19,Concord,CA,4,Marauders,Open Class,64.0,1986
+07/19,DeKalb,IL,4,Phantom Regiment,Open Class,80.8,1986
+07/19,DeKalb,IL,4,Phantom Regiment,Open Class,75.6,1986
+07/19,Concord,CA,5,Blue Devils B,Open Class,34.1,1986
+07/19,Concord,CA,5,Anaheim Kingsmen,Open Class,47.7,1986
+07/19,DeKalb,IL,5,Bluecoats,Open Class,74.1,1986
+07/19,DeKalb,IL,5,Bluecoats,Open Class,71.3,1986
+07/19,Concord,CA,6,Vanguard Cadets,Open Class,18.8,1986
+07/19,Concord,CA,6,Valley Fever,Open Class,47.0,1986
+07/19,DeKalb,IL,6,Knights,Open Class,69.9,1986
+07/19,DeKalb,IL,6,Knights,Open Class,63.3,1986
+07/19,DeKalb,IL,7,Colts,Open Class,68.7,1986
+07/19,DeKalb,IL,7,Colts,Open Class,60.3,1986
+07/19,DeKalb,IL,1,Glassmen,Open Class,55.2,1986
+07/19,DeKalb,IL,1,Glassmen,Open Class,49.0,1986
+07/19,DeKalb,IL,2,Black Knights,Open Class,53.3,1986
+07/19,DeKalb,IL,2,Black Knights,Open Class,45.0,1986
+07/19,DeKalb,IL,3,Phantom Regiment Cadets,Open Class,49.6,1986
+07/19,DeKalb,IL,1,Northern Aurora,Open Class,45.9,1986
+07/19,DeKalb,IL,1,Northern Aurora,Open Class,50.4,1986
+07/19,DeKalb,IL,2,Northmen-WI,Open Class,43.9,1986
+07/19,DeKalb,IL,2,Northmen-WI,Open Class,48.5,1986
+07/19,DeKalb,IL,3,Guardsmen,Open Class,39.5,1986
+07/19,DeKalb,IL,3,Guardsmen,Open Class,43.4,1986
+07/19,DeKalb,IL,4,Madison Junior Scouts,Open Class,42.4,1986
+07/19,DeKalb,IL,1,Minnesota Brass,Open Class,59.5,1986
+07/19,DeKalb,IL,5,Blue Star Cadets,Open Class,42.1,1986
+07/19,DeKalb,IL,2,Govenaires,Open Class,27.8,1986
+07/19,DeKalb,IL,6,Marion Cadets,Open Class,41.9,1986
+07/19,DeKalb,IL,7,Bandettes,Open Class,41.5,1986
+07/19,DeKalb,IL,8,CapitolAires,Open Class,32.6,1986
+07/19,DeKalb,IL,9,Pioneer,Open Class,30.6,1986
+07/19,DeKalb,IL,10,Coachmen,Open Class,28.4,1986
+07/19,DeKalb,IL,11,Toros,Open Class,26.6,1986
+07/19,DeKalb,IL,12,Emerald Knights-IA,Open Class,26.0,1986
+07/19,DeKalb,IL,13,Joliet Kingsmen,Open Class,23.6,1986
+07/19,DeKalb,IL,14,Memorial Lancers,Open Class,15.9,1986
+07/19,Pittsburgh,PA,1,Spirit of Atlanta,Open Class,84.9,1986
+07/19,Pittsburgh,PA,1,Spirit of Atlanta,Open Class,83.1,1986
+07/19,Scarborough,Ontario,1,Oshawa Rebels,DCA Class A,72.0,1986
+07/20,Somerville,MA,1,Suburbanettes,Open Class,69.0,1986
+07/19,Pittsburgh,PA,2,Garfield Cadets,Open Class,78.7,1986
+07/19,Pittsburgh,PA,2,Garfield Cadets,Open Class,76.9,1986
+07/19,Scarborough,Ontario,2,Conqueror II,DCA Class A,62.8,1986
+07/20,Somerville,MA,2,Granite State Garrison,Open Class,54.6,1986
+07/19,Pittsburgh,PA,3,27th Lancers,Open Class,77.9,1986
+07/19,Pittsburgh,PA,3,27th Lancers,Open Class,74.3,1986
+07/19,Scarborough,Ontario,3,Kiwanis Kavaliers,DCA Class A,57.5,1986
+07/19,Pittsburgh,PA,4,Dutch Boy,Open Class,67.7,1986
+07/19,Pittsburgh,PA,4,Dutch Boy,Open Class,65.0,1986
+07/19,Scarborough,Ontario,4,Saint Andrew's,DCA Class A,54.0,1986
+07/20,Somerville,MA,1,Explorers,Open Class,71.1,1986
+07/19,Pittsburgh,PA,5,Boston Crusaders,Open Class,67.1,1986
+07/19,Pittsburgh,PA,5,Boston Crusaders,Open Class,63.4,1986
+07/19,Scarborough,Ontario,5,Out of the Blue,DCA Class A,34.0,1986
+07/20,Somerville,MA,2,Toreadors,Open Class,68.8,1986
+07/19,Pittsburgh,PA,6,Les Eclipses,Open Class,58.3,1986
+07/19,Pittsburgh,PA,6,Les Eclipses,Open Class,59.6,1986
+07/20,Somerville,MA,3,Satellites,Open Class,62.3,1986
+07/19,Pittsburgh,PA,7,Crossmen,Open Class,58.2,1986
+07/19,Pittsburgh,PA,7,Crossmen,Open Class,54.3,1986
+07/19,Pittsburgh,PA,8,Florida Wave,Open Class,57.3,1986
+07/19,Pittsburgh,PA,8,Florida Wave,Open Class,53.2,1986
+07/20,Somerville,MA,1,Citation Juniors,Open Class,60.7,1986
+07/19,Pittsburgh,PA,9,Diplomats,Open Class,54.8,1986
+07/19,Pittsburgh,PA,9,Canadian Knights,Open Class,52.9,1986
+07/20,Somerville,MA,2,Suburban Kidettes,Open Class,59.1,1986
+07/19,Pittsburgh,PA,10,Canadian Knights,Open Class,53.9,1986
+07/19,Pittsburgh,PA,10,Diplomats,Open Class,51.8,1986
+07/20,Somerville,MA,3,Royal Knights,Open Class,62.3,1986
+07/19,Pittsburgh,PA,11,Connexion Quebec,Open Class,46.8,1986
+07/19,Pittsburgh,PA,11,Connexion Quebec,Open Class,48.3,1986
+07/19,Pittsburgh,PA,12,Adventuriers,Open Class,34.3,1986
+07/19,Pittsburgh,PA,12,Aventuries,Open Class,36.2,1986
+07/20,Somerville,MA,1,Pine Tree Warriors,Open Class,61.3,1986
+07/19,Pittsburgh,PA,13,New York Lancers,Open Class,18.5,1986
+07/19,Pittsburgh,PA,1,Ventures,Open Class,74.8,1986
+07/19,Pittsburgh,PA,1,Ventures,Open Class,77.5,1986
+07/19,Pittsburgh,PA,2,Saint Francis Sancians,Open Class,67.5,1986
+07/19,Pittsburgh,PA,2,Saint Francis Sancians,Open Class,75.7,1986
+07/19,Pittsburgh,PA,3,Academie Musicale,Open Class,58.7,1986
+07/19,Pittsburgh,PA,3,Academie Musicale,Open Class,66.3,1986
+07/19,Pittsburgh,PA,4,L'Insolite,Open Class,57.1,1986
+07/19,Pittsburgh,PA,1,New Image,Open Class,61.2,1986
+07/19,Pittsburgh,PA,5,Patriots,Open Class,56.7,1986
+07/19,Pittsburgh,PA,2,Dutch Boy Cadets,Open Class,41.8,1986
+07/19,Pittsburgh,PA,1,New Image,Open Class,70.7,1986
+07/19,Pittsburgh,PA,2,Dutch Boy Cadets,Open Class,41.6,1986
+07/19,Pittsburgh,PA,3,Phoenix-ONT,Open Class,19.6,1986
+07/20,Terre Haute,IN,1,Madison Scouts,Open Class,84.7,1986
+07/20,Cambridge,Ontario,1,Oshawa Rebels,DCA Class A,67.9,1986
+07/21,Lander,WY,1,Troopers,Open Class,76.4,1986
+07/22,Columbus,OH,1,Madison Scouts,Open Class,83.4,1986
+07/20,Terre Haute,IN,2,Star of Indiana,Open Class,82.7,1986
+07/20,Cambridge,Ontario,2,Conqueror II,DCA Class A,60.8,1986
+07/21,Lander,WY,2,Spartans-WA,Open Class,62.3,1986
+07/22,Columbus,OH,2,Star of Indiana,Open Class,81.3,1986
+07/20,Terre Haute,IN,3,Bluecoats,Open Class,73.2,1986
+07/20,Cambridge,Ontario,3,Kiwanis Kavaliers,DCA Class A,55.6,1986
+07/21,Lander,WY,3,Blue Knights,Open Class,57.9,1986
+07/22,Columbus,OH,3,Phantom Regiment,Open Class,77.1,1986
+07/20,Terre Haute,IN,4,Knights,Open Class,66.7,1986
+07/20,Cambridge,Ontario,4,Saint Andrew's,DCA Class A,55.2,1986
+07/21,Lander,WY,4,Railmen,Open Class,56.1,1986
+07/22,Columbus,OH,4,27th Lancers,Open Class,73.7,1986
+07/20,Terre Haute,IN,5,Glassmen,Open Class,48.4,1986
+07/20,Cambridge,Ontario,5,Out of the Blue,DCA Class A,44.7,1986
+07/21,Lander,WY,5,Rocky Mountain Magic,Open Class,53.9,1986
+07/22,Columbus,OH,5,Bluecoats,Open Class,63.2,1986
+07/20,Terre Haute,IN,5,Northern Aurora,Open Class,48.4,1986
+07/21,Lander,WY,6,Blue Devils B,Open Class,50.0,1986
+07/22,Columbus,OH,6,Knights,Open Class,58.6,1986
+07/20,Terre Haute,IN,7,Marion Cadets,Open Class,36.7,1986
+07/22,Columbus,OH,7,Florida Wave,Open Class,51.6,1986
+07/20,Terre Haute,IN,8,Bandettes,Open Class,35.6,1986
+07/22,Ogden,UT,1,Blue Devils,Open Class,89.0,1986
+07/22,Corning,NY,1,Spirit of Atlanta,Open Class,85.0,1986
+07/22,Sheridan,WY,1,Troopers,Open Class,76.4,1986
+07/23,Cleveland,OH,1,Star of Indiana,Open Class,81.9,1986
+07/22,Ogden,UT,2,Vanguard,Open Class,86.7,1986
+07/22,Corning,NY,2,Garfield Cadets,Open Class,80.3,1986
+07/22,Sheridan,WY,2,Spartans-WA,Open Class,63.1,1986
+07/23,Cleveland,OH,2,Madison Scouts,Open Class,81.3,1986
+07/22,Ogden,UT,3,Suncoast Sound,Open Class,84.3,1986
+07/22,Corning,NY,3,Dutch Boy,Open Class,67.5,1986
+07/22,Sheridan,WY,3,Blue Knights,Open Class,60.6,1986
+07/23,Cleveland,OH,3,Phantom Regiment,Open Class,77.3,1986
+07/22,Ogden,UT,4,Velvet Knights,Open Class,73.4,1986
+07/22,Corning,NY,4,Les Eclipses,Open Class,60.7,1986
+07/22,Sheridan,WY,4,Railmen,Open Class,56.3,1986
+07/23,Cleveland,OH,4,27th Lancers,Open Class,74.6,1986
+07/22,Ogden,UT,5,Marauders,Open Class,65.0,1986
+07/22,Corning,NY,5,Ventures,Open Class,57.5,1986
+07/23,Cleveland,OH,5,Bluecoats,Open Class,63.6,1986
+07/22,Ogden,UT,6,Valley Fever,Open Class,45.2,1986
+07/22,Corning,NY,6,Canadian Knights,Open Class,53.8,1986
+07/23,Cleveland,OH,6,Florida Wave,Open Class,57.0,1986
+07/22,Corning,NY,7,New York Lancers,Open Class,27.1,1986
+07/23,Cleveland,OH,7,Knights,Open Class,55.9,1986
+07/23,Cleveland,OH,8,Crossmen,Open Class,53.7,1986
+07/23,Ogdensburg,NY,1,Dutch Boy,Open Class,70.4,1986
+07/23,Casper,WY,1,Troopers,Open Class,77.4,1986
+07/24,Erie,PA,1,Spirit of Atlanta,Open Class,83.0,1986
+07/24,Cheyenne,WY,1,Cavaliers,Open Class,87.7,1986
+07/23,Ogdensburg,NY,2,Les Eclipses,Open Class,67.7,1986
+07/23,Casper,WY,2,Spartans-WA,Open Class,60.5,1986
+07/24,Erie,PA,2,Star of Indiana,Open Class,81.6,1986
+07/24,Cheyenne,WY,2,Suncoast Sound,Open Class,86.4,1986
+07/23,Ogdensburg,NY,3,Ventures,Open Class,58.4,1986
+07/23,Casper,WY,3,Railmen,Open Class,60.0,1986
+07/24,Erie,PA,3,Madison Scouts,Open Class,81.5,1986
+07/24,Cheyenne,WY,3,Troopers,Open Class,77.5,1986
+07/23,Ogdensburg,NY,4,Canadian Knights,Open Class,57.3,1986
+07/23,Casper,WY,4,Anaheim Kingsmen,Open Class,56.3,1986
+07/24,Erie,PA,4,Phantom Regiment,Open Class,76.0,1986
+07/24,Cheyenne,WY,4,Sky Ryders,Open Class,72.8,1986
+07/23,Ogdensburg,NY,5,Connexion Quebec,Open Class,53.9,1986
+07/23,Casper,WY,5,Valley Fever,Open Class,53.6,1986
+07/24,Erie,PA,5,27th Lancers,Open Class,73.1,1986
+07/24,Cheyenne,WY,5,Colts,Open Class,63.7,1986
+07/23,Ogdensburg,NY,6,Adventuriers,Open Class,38.9,1986
+07/24,Erie,PA,6,Knights,Open Class,57.0,1986
+07/23,Ogdensburg,NY,7,New York Lancers,Open Class,27.5,1986
+07/23,Casper,WY,1,Blue Devils B,Open Class,52.6,1986
+07/24,Erie,PA,7,Florida Wave,Open Class,56.4,1986
+07/24,Cheyenne,WY,1,Blue Devils B,Open Class,53.4,1986
+07/23,Casper,WY,2,Rocky Mountain Magic,Open Class,52.5,1986
+07/24,Cheyenne,WY,2,Rocky Mountain Magic,Open Class,50.3,1986
+07/24,Stambaugh,MI,1,Northmen-WI,Open Class,50.9,1986
+07/25,Colorado Springs,CO,1,Suncoast Sound,Open Class,87.8,1986
+07/26,Sault Ste. Marie,Ontario,1,Madison Junior Scouts,Open Class,52.0,1986
+07/26,Carlisle,PA,1,Steel City Ambassadors,Open Class,83.1,1986
+07/24,Stambaugh,MI,2,Madison Junior Scouts,Open Class,49.5,1986
+07/25,Colorado Springs,CO,2,Cavaliers,Open Class,87.6,1986
+07/26,Sault Ste. Marie,Ontario,2,Pioneer,Open Class,43.4,1986
+07/26,Carlisle,PA,2,Hawthorne Caballeros,Open Class,80.15,1986
+07/24,Stambaugh,MI,3,Bandettes,Open Class,45.1,1986
+07/25,Colorado Springs,CO,3,Sky Ryders,Open Class,76.5,1986
+07/26,Sault Ste. Marie,Ontario,2,Coachmen,Open Class,43.4,1986
+07/26,Carlisle,PA,3,Bushwackers,Open Class,79.3,1986
+07/24,Stambaugh,MI,4,CapitolAires,Open Class,36.2,1986
+07/25,Colorado Springs,CO,4,Velvet Knights,Open Class,76.0,1986
+07/26,Sault Ste. Marie,Ontario,4,CapitolAires,Open Class,37.1,1986
+07/26,Carlisle,PA,4,Rochester Crusaders,Open Class,75.6,1986
+07/24,Stambaugh,MI,5,Pioneer,Open Class,35.9,1986
+07/25,Colorado Springs,CO,5,Colts,Open Class,64.0,1986
+07/26,Sault Ste. Marie,Ontario,5,Joliet Kingsmen,Open Class,23.5,1986
+07/26,Carlisle,PA,5,New York Skyliners,Open Class,72.2,1986
+07/24,Stambaugh,MI,6,Joliet Kingsmen,Open Class,26.7,1986
+07/25,Colorado Springs,CO,6,Spartans-WA,Open Class,57.5,1986
+07/26,Carlisle,PA,6,Westshoremen,Open Class,62.2,1986
+07/25,Colorado Springs,CO,7,Anaheim Kingsmen,Open Class,53.5,1986
+07/26,Denver,CO,1,Blue Devils,Open Class,94.4,1986
+07/26,Hamilton,Ontario,1,Spirit of Atlanta,Open Class,89.1,1986
+07/26,Hamilton,Ontario,1,Spirit of Atlanta,Open Class,88.5,1986
+07/27,Ypsilanti,MI,1,Spirit of Atlanta,Open Class,86.5,1986
+07/26,Denver,CO,2,Vanguard,Open Class,92.0,1986
+07/26,Hamilton,Ontario,2,Madison Scouts,Open Class,86.0,1986
+07/26,Hamilton,Ontario,2,Madison Scouts,Open Class,86.1,1986
+07/27,Ypsilanti,MI,2,Madison Scouts,Open Class,85.8,1986
+07/26,Denver,CO,3,Cavaliers,Open Class,89.0,1986
+07/26,Hamilton,Ontario,3,Garfield Cadets,Open Class,85.7,1986
+07/26,Hamilton,Ontario,3,Garfield Cadets,Open Class,85.0,1986
+07/27,Ypsilanti,MI,3,Les Eclipses,Open Class,70.6,1986
+07/26,Denver,CO,4,Suncoast Sound,Open Class,88.3,1986
+07/26,Hamilton,Ontario,4,Star of Indiana,Open Class,85.2,1986
+07/26,Hamilton,Ontario,4,Star of Indiana,Open Class,83.9,1986
+07/27,Ypsilanti,MI,4,Bluecoats,Open Class,70.4,1986
+07/26,Denver,CO,5,Troopers,Open Class,79.4,1986
+07/26,Hamilton,Ontario,5,Phantom Regiment,Open Class,81.1,1986
+07/26,Hamilton,Ontario,5,Phantom Regiment,Open Class,81.0,1986
+07/27,Ypsilanti,MI,5,Boston Crusaders,Open Class,67.1,1986
+07/26,Denver,CO,6,Velvet Knights,Open Class,77.5,1986
+07/26,Hamilton,Ontario,6,27th Lancers,Open Class,77.9,1986
+07/26,Hamilton,Ontario,6,27th Lancers,Open Class,77.3,1986
+07/27,Ypsilanti,MI,6,Knights,Open Class,63.5,1986
+07/26,Denver,CO,7,Sky Ryders,Open Class,76.9,1986
+07/26,Hamilton,Ontario,7,Bluecoats,Open Class,72.2,1986
+07/26,Hamilton,Ontario,7,Bluecoats,Open Class,70.2,1986
+07/27,Ypsilanti,MI,7,Florida Wave,Open Class,61.8,1986
+07/26,Denver,CO,8,Marauders,Open Class,64.6,1986
+07/26,Hamilton,Ontario,8,Dutch Boy,Open Class,70.7,1986
+07/26,Hamilton,Ontario,8,Dutch Boy,Open Class,69.8,1986
+07/27,Ypsilanti,MI,8,Crossmen,Open Class,58.2,1986
+07/26,Denver,CO,9,Colts,Open Class,64.3,1986
+07/26,Hamilton,Ontario,9,Boston Crusaders,Open Class,70.5,1986
+07/26,Hamilton,Ontario,9,Boston Crusaders,Open Class,69.7,1986
+07/27,Ypsilanti,MI,9,Glassmen,Open Class,51.8,1986
+07/26,Denver,CO,10,Blue Knights,Open Class,55.2,1986
+07/26,Hamilton,Ontario,10,Les Eclipses,Open Class,69.9,1986
+07/26,Hamilton,Ontario,10,Les Eclipses,Open Class,65.4,1986
+07/26,Denver,CO,11,Valley Fever,Open Class,51.9,1986
+07/26,Hamilton,Ontario,11,Knights,Open Class,63.7,1986
+07/26,Denver,CO,12,Rocky Mountain Magic,Open Class,35.4,1986
+07/26,Hamilton,Ontario,12,Florida Wave,Open Class,63.6,1986
+07/26,Hamilton,Ontario,13,Ventures,Open Class,62.5,1986
+07/26,Hamilton,Ontario,14,Canadian Knights,Open Class,60.0,1986
+07/26,Hamilton,Ontario,15,Crossmen,Open Class,58.7,1986
+07/26,Hamilton,Ontario,16,Connexion Quebec,Open Class,57.2,1986
+07/26,Hamilton,Ontario,16,Diplomats,Open Class,57.2,1986
+07/26,Hamilton,Ontario,18,Glassmen,Open Class,56.7,1986
+07/26,Hamilton,Ontario,19,Les Adventuries,Open Class,47.0,1986
+07/26,Hamilton,Ontario,20,Northern Aurora,Open Class,41.7,1986
+07/26,Hamilton,Ontario,21,Saint Andrew's,Open Class,38.7,1986
+07/26,Hamilton,Ontario,22,Oshawa Rebels,Open Class,38.5,1986
+07/26,Hamilton,Ontario,23,Out of the Blue,Open Class,32.7,1986
+07/26,Hamilton,Ontario,24,Emerald Knights (ONT),Open Class,26.5,1986
+07/27,Horicon,WI,1,Spartans-WA,Open Class,66.9,1986
+07/28,Hutchison,KS,1,Vanguard,Open Class,91.5,1986
+07/28,Montreal,Quebec,1,Garfield Cadets,Open Class,86.5,1986
+07/28,Omaha,NE,1,Blue Devils,Open Class,91.6,1986
+07/27,Horicon,WI,2,Northmen-WI,Open Class,56.2,1986
+07/28,Hutchison,KS,2,Suncoast Sound,Open Class,86.7,1986
+07/28,Montreal,Quebec,2,Star of Indiana,Open Class,85.6,1986
+07/28,Omaha,NE,2,Cavaliers,Open Class,86.4,1986
+07/27,Horicon,WI,3,Blue Star Cadets,Open Class,41.9,1986
+07/28,Hutchison,KS,3,Velvet Knights,Open Class,76.2,1986
+07/28,Montreal,Quebec,3,Phantom Regiment,Open Class,81.5,1986
+07/28,Omaha,NE,3,Colts,Open Class,66.2,1986
+07/27,Horicon,WI,4,Toros,Open Class,24.1,1986
+07/28,Hutchison,KS,4,Sky Ryders,Open Class,74.2,1986
+07/28,Montreal,Quebec,4,27th Lancers,Open Class,77.1,1986
+07/28,Omaha,NE,4,Blue Knights,Open Class,55.9,1986
+07/28,Hutchison,KS,5,Marauders,Open Class,66.1,1986
+07/28,Montreal,Quebec,5,Canadian Knights,Open Class,61.1,1986
+07/28,Omaha,NE,5,Railmen,Open Class,50.3,1986
+07/28,Hutchison,KS,6,Valley Fever,Open Class,49.7,1986
+07/28,Montreal,Quebec,6,Connexion Quebec,Open Class,59.8,1986
+07/28,Omaha,NE,6,Anaheim Kingsmen,Open Class,49.8,1986
+07/28,Montreal,Quebec,7,Aventuries,Open Class,48.2,1986
+07/29,Bettendorf,IA,1,Blue Devils,Open Class,92.8,1986
+07/29,Parkersburg,WV,1,Spirit of Atlanta,Open Class,88.2,1986
+07/29,Rome,NY,1,Garfield Cadets,Open Class,85.5,1986
+07/29,Tulsa,OK,1,Vanguard,Open Class,90.0,1986
+07/29,Bettendorf,IA,2,Cavaliers,Open Class,88.7,1986
+07/29,Parkersburg,WV,2,Madison Scouts,Open Class,86.2,1986
+07/29,Rome,NY,2,Star of Indiana,Open Class,83.7,1986
+07/29,Tulsa,OK,2,Suncoast Sound,Open Class,86.8,1986
+07/29,Bettendorf,IA,3,Knights,Open Class,68.8,1986
+07/29,Parkersburg,WV,3,Les Eclipses,Open Class,66.5,1986
+07/29,Rome,NY,3,Phantom Regiment,Open Class,80.9,1986
+07/29,Tulsa,OK,3,Sky Ryders,Open Class,78.4,1986
+07/29,Bettendorf,IA,4,Colts,Open Class,67.8,1986
+07/29,Parkersburg,WV,4,Bluecoats,Open Class,65.1,1986
+07/29,Rome,NY,4,27th Lancers,Open Class,76.9,1986
+07/29,Tulsa,OK,4,Velvet Knights,Open Class,78.3,1986
+07/29,Bettendorf,IA,5,Blue Knights,Open Class,58.5,1986
+07/29,Parkersburg,WV,5,Crossmen,Open Class,61.8,1986
+07/29,Rome,NY,5,Ventures,Open Class,59.9,1986
+07/29,Tulsa,OK,5,Marauders,Open Class,68.5,1986
+07/29,Bettendorf,IA,6,Anaheim Kingsmen,Open Class,51.6,1986
+07/29,Parkersburg,WV,6,Florida Wave,Open Class,60.1,1986
+07/29,Rome,NY,6,Connexion Quebec,Open Class,56.5,1986
+07/29,Tulsa,OK,6,Valley Fever,Open Class,52.2,1986
+07/30,Glens Falls,NY,1,Garfield Cadets,Open Class,87.6,1986
+07/30,Dayton,OH,1,Blue Devils,Open Class,93.7,1986
+07/31,Jeffersonville,IN,1,Cavaliers,Open Class,90.3,1986
+07/31,Revere,MA,1,Garfield Cadets,Open Class,86.4,1986
+07/30,Glens Falls,NY,2,Star of Indiana,Open Class,86.8,1986
+07/30,Dayton,OH,2,Spirit of Atlanta,Open Class,89.3,1986
+07/31,Jeffersonville,IN,2,Spirit of Atlanta,Open Class,87.1,1986
+07/31,Revere,MA,2,Star of Indiana,Open Class,85.3,1986
+07/30,Glens Falls,NY,3,Phantom Regiment,Open Class,84.7,1986
+07/30,Dayton,OH,3,Madison Scouts,Open Class,86.8,1986
+07/31,Jeffersonville,IN,3,Madison Scouts,Open Class,86.6,1986
+07/31,Revere,MA,3,Phantom Regiment,Open Class,83.3,1986
+07/30,Glens Falls,NY,4,27th Lancers,Open Class,79.2,1986
+07/30,Dayton,OH,4,Les Eclipses,Open Class,71.3,1986
+07/31,Jeffersonville,IN,4,Les Eclipses,Open Class,73.2,1986
+07/31,Revere,MA,4,27th Lancers,Open Class,79.6,1986
+07/30,Glens Falls,NY,5,Ventures,Open Class,61.0,1986
+07/30,Dayton,OH,5,Knights,Open Class,63.8,1986
+07/31,Jeffersonville,IN,5,Florida Wave,Open Class,66.6,1986
+07/31,Revere,MA,5,Boston Crusaders,Open Class,70.3,1986
+07/30,Glens Falls,NY,6,Connexion Quebec,Open Class,59.0,1986
+07/30,Dayton,OH,6,Crossmen,Open Class,58.7,1986
+07/31,Jeffersonville,IN,6,Knights,Open Class,63.8,1986
+07/31,Revere,MA,6,Connexion Quebec,Open Class,61.8,1986
+07/30,Dayton,OH,7,Blue Knights,Open Class,52.8,1986
+07/31,Revere,MA,7,Diplomats,Open Class,56.0,1986
+07/30,Dayton,OH,8,Glassmen,Open Class,48.2,1986
+07/30,Glens Falls,NY,1,Vanguard,Open Class,91.8,1986
+07/30,Glens Falls,NY,2,Suncoast Sound,Open Class,87.9,1986
+07/30,Glens Falls,NY,3,Velvet Knights,Open Class,79.0,1986
+07/30,Glens Falls,NY,4,Troopers,Open Class,76.4,1986
+07/30,Glens Falls,NY,5,Sky Ryders,Open Class,75.9,1986
+07/30,Glens Falls,NY,6,Marauders,Open Class,66.4,1986
+08/02,Albany,NY,1,Hawthorne Caballeros,Open Class,86.15,1986
+08/02,Allentown,PA,1,Blue Devils,Open Class,93.7,1986
+08/02,Birmingham,AL,1,Vanguard,Open Class,92.9,1986
+08/02,Birmingham,AL,1,Vanguard,Open Class,92.3,1986
+08/02,Albany,NY,2,Bushwackers,Open Class,82.35,1986
+08/02,Allentown,PA,2,Garfield Cadets,Open Class,87.9,1986
+08/02,Birmingham,AL,2,Cavaliers,Open Class,91.9,1986
+08/02,Birmingham,AL,2,Spirit of Atlanta,Open Class,90.8,1986
+08/02,Albany,NY,3,New York Skyliners,Open Class,78.9,1986
+08/02,Allentown,PA,3,Star of Indiana,Open Class,86.4,1986
+08/02,Birmingham,AL,3,Suncoast Sound,Open Class,89.8,1986
+08/02,Birmingham,AL,2,Cavaliers,Open Class,90.8,1986
+08/02,Albany,NY,4,Rochester Crusaders,Open Class,78.1,1986
+08/02,Allentown,PA,4,Phantom Regiment,Open Class,84.8,1986
+08/02,Birmingham,AL,4,Spirit of Atlanta,Open Class,88.8,1986
+08/02,Birmingham,AL,4,Suncoast Sound,Open Class,89.4,1986
+08/02,Albany,NY,5,Sunrisers,Open Class,75.6,1986
+08/02,Allentown,PA,5,27th Lancers,Open Class,80.2,1986
+08/02,Birmingham,AL,5,Madison Scouts,Open Class,87.5,1986
+08/02,Birmingham,AL,5,Madison Scouts,Open Class,87.8,1986
+08/02,Albany,NY,6,Connecticut Hurricanes,Open Class,65.75,1986
+08/02,Allentown,PA,6,Boston Crusaders,Open Class,73.3,1986
+08/02,Birmingham,AL,6,Troopers,Open Class,81.0,1986
+08/02,Birmingham,AL,6,Troopers,Open Class,81.5,1986
+08/02,Albany,NY,7,Matadors,Open Class,65.3,1986
+08/02,Allentown,PA,7,Colts,Open Class,69.1,1986
+08/02,Birmingham,AL,7,Velvet Knights,Open Class,80.6,1986
+08/02,Birmingham,AL,7,Velvet Knights,Open Class,79.4,1986
+08/02,Allentown,PA,8,Crossmen,Open Class,64.3,1986
+08/02,Birmingham,AL,8,Sky Ryders,Open Class,78.4,1986
+08/02,Birmingham,AL,8,Sky Ryders,Open Class,76.9,1986
+08/02,Allentown,PA,8,Blue Knights,Open Class,64.3,1986
+08/02,Birmingham,AL,9,Les Eclipses,Open Class,73.2,1986
+08/02,Allentown,PA,10,Diplomats,Open Class,62.0,1986
+08/02,Birmingham,AL,10,Florida Wave,Open Class,69.9,1986
+08/02,Allentown,PA,11,Anaheim Kingsmen,Open Class,59.7,1986
+08/02,Birmingham,AL,11,Marauders,Open Class,68.8,1986
+08/02,Allentown,PA,12,Connexion Quebec,Open Class,59.5,1986
+08/02,Birmingham,AL,12,Knights,Open Class,65.3,1986
+08/02,Allentown,PA,13,New York Lancers,Open Class,37.9,1986
+08/02,Birmingham,AL,13,Spartans-WA,Open Class,56.1,1986
+08/02,Birmingham,AL,14,Valley Fever,Open Class,53.6,1986
+08/02,Warren,PA,1,Bluecoats,Open Class,79.3,1986
+08/02,Grand Rapids,MI,1,Black Knights,Open Class,57.1,1986
+08/02,Hamilton,Ontario,1,Oshawa Rebels,DCA Class A,71.9,1986
+08/02,Sherbrooke,Quebec,1,Aventuries,Open Class,55.63,1986
+08/02,Warren,PA,2,20th Maine Regiment,Open Class,65.2,1986
+08/02,Grand Rapids,MI,2,Phantom Regiment Cadets,Open Class,50.3,1986
+08/02,Hamilton,Ontario,2,Conqueror II,DCA Class A,63.6,1986
+08/02,Sherbrooke,Quebec,2,Academie Musicale,Open Class,55.07,1986
+08/02,Warren,PA,3,Saint Francis Sancians,Open Class,62.2,1986
+08/02,Grand Rapids,MI,3,Blue Star Cadets,Open Class,49.4,1986
+08/02,Hamilton,Ontario,3,Kiwanis Kavaliers,DCA Class A,60.8,1986
+08/02,Sherbrooke,Quebec,3,L'Insolite,Open Class,46.39,1986
+08/02,Warren,PA,3,Northmen-WI,Open Class,62.2,1986
+08/02,Grand Rapids,MI,4,Guardsmen,Open Class,49.1,1986
+08/02,Hamilton,Ontario,4,Out of the Blue,DCA Class A,52.0,1986
+08/02,Sherbrooke,Quebec,4,Spartans-NH,Open Class,46.25,1986
+08/02,Warren,PA,5,Patriots,Open Class,60.4,1986
+08/02,Grand Rapids,MI,5,Madison Junior Scouts,Open Class,49.0,1986
+08/02,Warren,PA,6,Joanettes,Open Class,43.5,1986
+08/02,Grand Rapids,MI,6,Pioneer,Open Class,29.8,1986
+08/02,Sherbrooke,Quebec,1,Transit,Open Class,63.22,1986
+08/02,Warren,PA,7,Phoenix-ONT,Open Class,29.0,1986
+08/02,Grand Rapids,MI,7,Joliet Kingsmen,Open Class,20.8,1986
+08/02,Sherbrooke,Quebec,2,Mousquetaires,Open Class,51.38,1986
+08/02,Grand Rapids,MI,8,1st Canadian Regiment,Open Class,20.7,1986
+08/02,Sherbrooke,Quebec,3,Les Senateurs,Open Class,43.37,1986
+08/02,Sherbrooke,Quebec,4,Pionniers,Open Class,40.75,1986
+08/02,St-Jean Chrysostom,Quebec,1,Voltigeurs,Open Class,49.1,1986
+08/03,Grand Rapids,MI,1,Blue Devils,Open Class,93.8,1986
+08/03,Hamilton,Ontario,1,Vanguard,Open Class,93.4,1986
+08/03,Sherbrooke,Quebec,1,Oshawa Rebels,DCA Class A,72.4,1986
+08/02,St-Jean Chrysostom,Quebec,2,Les Chrystalines,Open Class,49.0,1986
+08/03,Grand Rapids,MI,2,Garfield Cadets,Open Class,87.3,1986
+08/03,Hamilton,Ontario,2,Cavaliers,Open Class,91.0,1986
+08/03,Sherbrooke,Quebec,1,Patriots,DCA Class A,72.4,1986
+08/02,St-Jean Chrysostom,Quebec,3,Les Etoiles,Open Class,43.3,1986
+08/03,Grand Rapids,MI,3,Dutch Boy,Open Class,71.2,1986
+08/03,Hamilton,Ontario,3,Spirit of Atlanta,Open Class,90.9,1986
+08/03,Sherbrooke,Quebec,3,Conqueror II,DCA Class A,57.7,1986
+08/02,St-Jean Chrysostom,Quebec,4,Les Chapdelaines,Open Class,40.8,1986
+08/03,Grand Rapids,MI,4,Colts,Open Class,70.2,1986
+08/03,Hamilton,Ontario,4,Madison Scouts,Open Class,89.6,1986
+08/03,Sherbrooke,Quebec,4,Saint Andrew's,DCA Class A,56.5,1986
+08/02,St-Jean Chrysostom,Quebec,5,Marauders-QUE,Open Class,28.0,1986
+08/03,Grand Rapids,MI,5,Ventures,Open Class,62.8,1986
+08/03,Hamilton,Ontario,5,Troopers,Open Class,82.4,1986
+08/03,Sherbrooke,Quebec,5,Out of the Blue,DCA Class A,52.0,1986
+08/02,St-Jean Chrysostom,Quebec,6,Renaissance,Open Class,25.4,1986
+08/03,Grand Rapids,MI,6,Crossmen,Open Class,60.4,1986
+08/03,Hamilton,Ontario,6,Marauders,Open Class,67.8,1986
+08/03,Hamilton,Ontario,7,Knights,Open Class,66.3,1986
+08/03,Hamilton,Ontario,8,Spartans-WA,Open Class,54.7,1986
+08/03,Baltimore,MD,1,Star of Indiana,Open Class,87.0,1986
+08/03,St-Georges,Quebec,1,Spartans-NH,Open Class,48.1,1986
+08/04,Memphis,TN,1,Cavaliers,Open Class,90.3,1986
+08/04,West Chester,PA,1,Garfield Cadets,Open Class,88.2,1986
+08/03,Baltimore,MD,2,Phantom Regiment,Open Class,83.0,1986
+08/04,Memphis,TN,2,Suncoast Sound,Open Class,89.8,1986
+08/04,West Chester,PA,2,Phantom Regiment,Open Class,82.4,1986
+08/03,Baltimore,MD,3,27th Lancers,Open Class,78.5,1986
+08/03,St-Georges,Quebec,1,Transit,Open Class,64.7,1986
+08/04,Memphis,TN,3,Madison Scouts,Open Class,89.2,1986
+08/04,West Chester,PA,3,27th Lancers,Open Class,81.0,1986
+08/03,Baltimore,MD,4,Boston Crusaders,Open Class,72.8,1986
+08/03,St-Georges,Quebec,2,Mousquetaires,Open Class,53.0,1986
+08/04,Memphis,TN,4,Sky Ryders,Open Class,79.2,1986
+08/04,West Chester,PA,4,Colts,Open Class,67.9,1986
+08/03,Baltimore,MD,5,Blue Knights,Open Class,58.1,1986
+08/03,St-Georges,Quebec,3,Les Chrystalines,Open Class,46.6,1986
+08/04,Memphis,TN,5,Marauders,Open Class,67.4,1986
+08/04,West Chester,PA,5,Crossmen,Open Class,63.4,1986
+08/03,Baltimore,MD,6,Diplomats,Open Class,56.9,1986
+08/03,St-Georges,Quebec,4,Pionniers,Open Class,42.8,1986
+08/04,Memphis,TN,6,Valley Fever,Open Class,47.3,1986
+08/04,West Chester,PA,6,Canadian Knights,Open Class,58.8,1986
+08/03,Baltimore,MD,7,Connexion Quebec,Open Class,54.7,1986
+08/03,St-Georges,Quebec,5,Les Senateurs,Open Class,42.6,1986
+08/04,West Chester,PA,7,Diplomats,Open Class,58.2,1986
+08/03,Baltimore,MD,8,Anaheim Kingsmen,Open Class,52.8,1986
+08/03,St-Georges,Quebec,6,Renaissance,Open Class,26.9,1986
+08/05,Sevierville,TN,1,Vanguard,Open Class,93.7,1986
+08/05,Niles,OH,1,Ventures,Open Class,82.0,1986
+08/05,Niles,OH,1,Garfield Cadets,Open Class,89.7,1986
+08/06,Bloomington,IN,1,Cavaliers,Open Class,92.0,1986
+08/05,Sevierville,TN,2,Spirit of Atlanta,Open Class,90.7,1986
+08/05,Niles,OH,2,Canadian Knights,Open Class,81.3,1986
+08/05,Niles,OH,2,Bluecoats,Open Class,75.3,1986
+08/06,Bloomington,IN,2,Suncoast Sound,Open Class,90.5,1986
+08/05,Sevierville,TN,3,Velvet Knights,Open Class,81.8,1986
+08/05,Niles,OH,3,Saint Francis Sancians,Open Class,71.1,1986
+08/05,Niles,OH,3,Dutch Boy,Open Class,74.0,1986
+08/06,Bloomington,IN,3,Garfield Cadets,Open Class,89.1,1986
+08/05,Sevierville,TN,4,Troopers,Open Class,80.8,1986
+08/05,Niles,OH,4,20th Maine Regiment,Open Class,67.2,1986
+08/05,Niles,OH,4,Les Eclipses,Open Class,69.7,1986
+08/06,Bloomington,IN,4,Star of Indiana,Open Class,87.6,1986
+08/05,Sevierville,TN,5,Boston Crusaders,Open Class,72.6,1986
+08/05,Niles,OH,5,Guardsmen,Open Class,59.9,1986
+08/05,Niles,OH,5,Crossmen,Open Class,66.2,1986
+08/06,Bloomington,IN,5,Sky Ryders,Open Class,80.2,1986
+08/05,Sevierville,TN,6,Florida Wave,Open Class,68.6,1986
+08/05,Niles,OH,6,Diplomats,Open Class,61.4,1986
+08/06,Bloomington,IN,6,27th Lancers,Open Class,79.6,1986
+08/05,Sevierville,TN,7,Blue Knights,Open Class,60.2,1986
+08/05,Niles,OH,1,Bandettes,Open Class,58.3,1986
+08/06,Bloomington,IN,7,Les Eclipses,Open Class,69.6,1986
+08/05,Niles,OH,2,Coachmen,Open Class,43.0,1986
+08/05,Niles,OH,1,Ventures,Open Class,85.7,1986
+08/06,Bloomington,IN,8,Connexion Quebec,Open Class,57.7,1986
+08/05,Niles,OH,3,Joliet Kingsmen,Open Class,36.1,1986
+08/05,Niles,OH,2,Canadian Knights,Open Class,82.3,1986
+08/05,Niles,OH,3,Saint Francis Sancians,Open Class,78.3,1986
+08/05,Niles,OH,4,20th Maine Regiment,Open Class,70.2,1986
+08/05,Niles,OH,5,Guardsmen,Open Class,60.2,1986
+08/05,Niles,OH,1,Bandettes,Open Class,58.1,1986
+08/05,Niles,OH,2,Coachmen,Open Class,55.8,1986
+08/05,Niles,OH,3,Joliet Kingsmen,Open Class,36.7,1986
+08/06,Huntington,WV,1,Blue Devils,Open Class,94.8,1986
+08/06,Belleville,IL,1,Knights,Open Class,70.1,1986
+08/07,Cincinnati,OH,1,Vanguard,Open Class,95.2,1986
+08/07,Evansville,IN,1,Blue Devils,Open Class,94.8,1986
+08/06,Huntington,WV,2,Vanguard,Open Class,94.4,1986
+08/06,Belleville,IL,2,Spartans-WA,Open Class,64.9,1986
+08/07,Cincinnati,OH,2,Phantom Regiment,Open Class,85.2,1986
+08/07,Evansville,IN,2,Suncoast Sound,Open Class,90.4,1986
+08/06,Huntington,WV,3,Phantom Regiment,Open Class,87.4,1986
+08/06,Belleville,IL,3,Black Knights,Open Class,55.1,1986
+08/07,Cincinnati,OH,3,27th Lancers,Open Class,81.6,1986
+08/07,Evansville,IN,3,Star of Indiana,Open Class,88.5,1986
+08/06,Huntington,WV,4,Boston Crusaders,Open Class,79.2,1986
+08/06,Belleville,IL,4,Phantom Regiment Cadets,Open Class,54.8,1986
+08/07,Cincinnati,OH,4,Les Eclipses,Open Class,76.0,1986
+08/07,Evansville,IN,4,Troopers,Open Class,81.8,1986
+08/06,Huntington,WV,5,Dutch Boy,Open Class,76.4,1986
+08/06,Belleville,IL,5,Mandarins,Open Class,42.1,1986
+08/07,Cincinnati,OH,5,Boston Crusaders,Open Class,75.8,1986
+08/07,Evansville,IN,5,Florida Wave,Open Class,69.8,1986
+08/06,Huntington,WV,6,Colts,Open Class,74.8,1986
+08/06,Belleville,IL,6,Coachmen,Open Class,36.5,1986
+08/07,Cincinnati,OH,6,Crossmen,Open Class,65.6,1986
+08/07,Evansville,IN,6,Colts,Open Class,69.2,1986
+08/06,Huntington,WV,7,Crossmen,Open Class,69.3,1986
+08/06,Belleville,IL,7,Pioneer,Open Class,35.1,1986
+08/07,Cincinnati,OH,7,Glassmen,Open Class,54.0,1986
+08/07,Evansville,IN,7,Diplomats,Open Class,60.5,1986
+08/06,Belleville,IL,8,Rocky Mountain Magic,Open Class,31.3,1986
+08/06,Belleville,IL,9,Musketeers,Open Class,29.7,1986
+08/06,Belleville,IL,10,Joliet Kingsmen,Open Class,23.3,1986
+08/07,Springfield,MO,1,Spirit of Atlanta,Open Class,90.8,1986
+08/08,Des Plaines,IL,1,Cavaliers,Open Class,93.1,1986
+08/08,Marion,OH,1,Canadian Knights,Open Class,87.0,1986
+08/08,Marion,OH,1,Ventures,Open Class,91.5,1986
+08/07,Springfield,MO,2,Madison Scouts,Open Class,89.2,1986
+08/08,Des Plaines,IL,2,Garfield Cadets,Open Class,92.9,1986
+08/08,Marion,OH,2,Ventures,Open Class,86.9,1986
+08/08,Marion,OH,2,Canadian Knights,Open Class,90.9,1986
+08/07,Springfield,MO,3,Sky Ryders,Open Class,83.4,1986
+08/08,Des Plaines,IL,3,Suncoast Sound,Open Class,92.4,1986
+08/08,Marion,OH,3,20th Maine Regiment,Open Class,78.3,1986
+08/08,Marion,OH,3,20th Maine Regiment,Open Class,76.4,1986
+08/07,Springfield,MO,4,Velvet Knights,Open Class,81.4,1986
+08/08,Des Plaines,IL,4,Phantom Regiment,Open Class,86.8,1986
+08/08,Marion,OH,4,Phantom Regiment Cadets,Open Class,72.4,1986
+08/08,Marion,OH,4,Phantom Regiment Cadets,Open Class,74.8,1986
+08/07,Springfield,MO,5,Marauders,Open Class,71.5,1986
+08/08,Des Plaines,IL,5,27th Lancers,Open Class,82.2,1986
+08/08,Marion,OH,5,Guardsmen,Open Class,70.4,1986
+08/08,Marion,OH,5,Guardsmen,Open Class,69.3,1986
+08/07,Springfield,MO,6,Knights,Open Class,69.3,1986
+08/08,Des Plaines,IL,6,Troopers,Open Class,81.8,1986
+08/08,Marion,OH,6,Patriots,Open Class,60.6,1986
+08/08,Marion,OH,6,Patriots,Open Class,62.1,1986
+08/07,Springfield,MO,7,Valley Fever,Open Class,53.4,1986
+08/08,Des Plaines,IL,7,Diplomats,Open Class,62.7,1986
+08/08,Marion,OH,7,Pacificaires,Open Class,53.3,1986
+08/08,Marion,OH,1,Sancians,Open Class,87.4,1986
+08/08,Marion,OH,1,Sancians,Open Class,82.8,1986
+08/08,Marion,OH,2,Northern Aurora,Open Class,71.1,1986
+08/08,Marion,OH,2,Northern Aurora,Open Class,70.4,1986
+08/08,Marion,OH,3,Bandettes,Open Class,61.3,1986
+08/08,Marion,OH,3,Bandettes,Open Class,61.3,1986
+08/08,Marion,OH,4,Marion Cadets,Open Class,61.2,1986
+08/08,Marion,OH,4,Marion Cadets,Open Class,59.9,1986
+08/08,Marion,OH,5,Saint Andrew's,Open Class,55.0,1986
+08/08,Marion,OH,6,Pioneer,Open Class,54.7,1986
+08/08,Marion,OH,7,Coachmen,Open Class,54.6,1986
+08/08,Marion,OH,8,New York Lancers,Open Class,48.7,1986
+08/08,Marion,OH,9,1st Canadian Regiment,Open Class,38.9,1986
+08/08,Marion,OH,10,Racine Scouts,Open Class,19.1,1986
+08/09,Momence,IL,1,Phantom Regiment Cadets,Open Class,58.5,1986
+08/09,Ankeny,IA,1,Suncoast Sound,Open Class,91.1,1986
+08/09,Marion,OH,1,Vanguard,Open Class,94.5,1986
+08/09,Marion,OH,1,Vanguard,Open Class,95.4,1986
+08/09,Momence,IL,2,Guardsmen,Open Class,53.8,1986
+08/09,Ankeny,IA,2,Spirit of Atlanta,Open Class,91.0,1986
+08/09,Marion,OH,2,Garfield Cadets,Open Class,91.8,1986
+08/09,Marion,OH,2,Garfield Cadets,Open Class,92.1,1986
+08/09,Momence,IL,3,Bandettes,Open Class,53.0,1986
+08/09,Ankeny,IA,3,Cavaliers,Open Class,90.8,1986
+08/09,Marion,OH,3,Dutch Boy,Open Class,79.3,1986
+08/09,Marion,OH,3,Les Eclipses,Open Class,81.6,1986
+08/09,Momence,IL,4,Mandarins,Open Class,51.4,1986
+08/09,Ankeny,IA,4,27th Lancers,Open Class,82.6,1986
+08/09,Marion,OH,4,Les Eclipses,Open Class,78.5,1986
+08/09,Marion,OH,4,Bluecoats,Open Class,81.1,1986
+08/09,Momence,IL,5,Madison Junior Scouts,Open Class,49.7,1986
+08/09,Ankeny,IA,5,Velvet Knights,Open Class,81.8,1986
+08/09,Marion,OH,5,Bluecoats,Open Class,77.4,1986
+08/09,Marion,OH,5,Dutch Boy,Open Class,80.5,1986
+08/09,Momence,IL,6,Pioneer,Open Class,38.5,1986
+08/09,Ankeny,IA,6,Colts,Open Class,72.1,1986
+08/09,Marion,OH,6,Florida Wave,Open Class,75.1,1986
+08/09,Marion,OH,6,Florida Wave,Open Class,78.0,1986
+08/09,Momence,IL,7,1st Canadian Regiment,Open Class,26.9,1986
+08/09,Marion,OH,7,Blue Knights,Open Class,65.3,1986
+08/09,Marion,OH,7,Blue Knights,Open Class,68.0,1986
+08/09,Momence,IL,8,Joliet Kingsmen,Open Class,25.3,1986
+08/09,Marion,OH,8,Crossmen,Open Class,63.9,1986
+08/09,Marion,OH,8,Crossmen,Open Class,67.7,1986
+08/09,Marion,OH,9,Connexion Quebec,Open Class,63.7,1986
+08/09,Marion,OH,9,Connexion Quebec,Open Class,65.7,1986
+08/09,Marion,OH,10,Diplomats,Open Class,62.0,1986
+08/09,Marion,OH,10,Diplomats,Open Class,62.1,1986
+08/09,Marion,OH,11,Spartans-WA,Open Class,60.5,1986
+08/09,Marion,OH,12,Valley Fever,Open Class,58.0,1986
+08/09,Marion,OH,13,Glassmen,Open Class,57.6,1986
+08/09,Whitewater,WI,1,Blue Devils,Open Class,94.4,1986
+08/09,Scranton,PA,1,Hawthorne Caballeros,Open Class,87.1,1986
+08/09,Dorian,Quebec,1,Academie Musicale,Open Class,58.0,1986
+08/10,Port Huron,MI,1,Vanguard,Open Class,94.0,1986
+08/09,Whitewater,WI,2,Madison Scouts,Open Class,90.7,1986
+08/09,Scranton,PA,2,Steel City Ambassadors,Open Class,86.2,1986
+08/09,Dorian,Quebec,2,Aventuries,Open Class,57.9,1986
+08/10,Port Huron,MI,2,Garfield Cadets,Open Class,90.4,1986
+08/09,Whitewater,WI,3,Troopers,Open Class,84.5,1986
+08/09,Scranton,PA,3,Bushwackers,Open Class,84.45,1986
+08/09,Dorian,Quebec,3,L'Insolite,Open Class,53.3,1986
+08/10,Port Huron,MI,3,Star of Indiana,Open Class,87.8,1986
+08/09,Whitewater,WI,4,Sky Ryders,Open Class,82.7,1986
+08/09,Scranton,PA,4,Reading Buccaneers,Open Class,84.3,1986
+08/10,Port Huron,MI,4,Les Eclipses,Open Class,77.5,1986
+08/09,Whitewater,WI,5,Boston Crusaders,Open Class,77.9,1986
+08/09,Scranton,PA,5,Sunrisers,Open Class,79.85,1986
+08/09,Dorian,Quebec,1,Transit,Open Class,68.2,1986
+08/10,Port Huron,MI,5,Bluecoats,Open Class,73.8,1986
+08/09,Whitewater,WI,6,Marauders,Open Class,74.3,1986
+08/09,Scranton,PA,6,Rochester Crusaders,Open Class,78.8,1986
+08/09,Dorian,Quebec,2,Les Senateurs,Open Class,43.2,1986
+08/10,Port Huron,MI,6,Florida Wave,Open Class,72.1,1986
+08/09,Whitewater,WI,7,Knights,Open Class,69.6,1986
+08/09,Scranton,PA,7,New York Skyliners,Open Class,77.0,1986
+08/09,Dorian,Quebec,3,Les Etoiles,Open Class,42.9,1986
+08/10,Port Huron,MI,7,Crossmen,Open Class,68.8,1986
+08/09,Scranton,PA,8,Empire Statesmen,Open Class,68.95,1986
+08/09,Dorian,Quebec,4,Pionniers,Open Class,41.5,1986
+08/10,Port Huron,MI,8,Connexion Quebec,Open Class,62.6,1986
+08/09,Whitewater,WI,1,20th Maine Regiment,Open Class,76.0,1986
+08/09,Scranton,PA,9,Matadors,Open Class,64.95,1986
+08/10,Port Huron,MI,9,Diplomats,Open Class,56.1,1986
+08/09,Whitewater,WI,2,Black Knights,Open Class,71.2,1986
+08/09,Scranton,PA,10,Connecticut Hurricanes,Open Class,62.5,1986
+08/09,Whitewater,WI,3,Citations,Open Class,69.2,1986
+08/09,Whitewater,WI,4,Spartans-NH,Open Class,64.9,1986
+08/09,Whitewater,WI,5,Musketeers,Open Class,52.6,1986
+08/09,Whitewater,WI,6,Pacificaires,Open Class,51.8,1986
+08/09,Whitewater,WI,7,Oakland Crusaders,Open Class,48.0,1986
+08/09,Whitewater,WI,1,Saint Francis Sancians,Open Class,84.3,1986
+08/09,Whitewater,WI,2,Rivermen,Open Class,80.1,1986
+08/09,Whitewater,WI,3,Northern Aurora,Open Class,77.4,1986
+08/09,Whitewater,WI,4,Northmen-WI,Open Class,74.5,1986
+08/09,Whitewater,WI,5,Oshawa Rebels,Open Class,71.0,1986
+08/09,Whitewater,WI,6,Blue Star Cadets,Open Class,63.8,1986
+08/09,Whitewater,WI,7,Rocky Mountain Magic,Open Class,60.7,1986
+08/09,Whitewater,WI,8,CapitolAires,Open Class,50.6,1986
+08/09,Whitewater,WI,9,Emerald Knights,Open Class,38.7,1986
+08/09,Whitewater,WI,10,Toros,Open Class,33.4,1986
+08/09,Whitewater,WI,11,Phoenix-ONT,Open Class,29.9,1986
+08/10,Stillwater,MN,1,Blue Devils,Open Class,95.4,1986
+08/10,Sioux City,IA,1,Spirit of Atlanta,Open Class,93.1,1986
+08/10,Crystal Falls,WI,1,Northmen (WI),Open Class,61.9,1986
+08/10,Springfield,IL,1,Knights,Open Class,77.9,1986
+08/10,Stillwater,MN,2,Madison Scouts,Open Class,91.7,1986
+08/10,Sioux City,IA,2,Cavaliers,Open Class,92.4,1986
+08/10,Crystal Falls,WI,2,Coachmen,Open Class,46.1,1986
+08/10,Springfield,IL,2,Black Knights,Open Class,64.2,1986
+08/10,Stillwater,MN,3,Velvet Knights,Open Class,84.3,1986
+08/10,Sioux City,IA,3,Suncoast Sound,Open Class,92.0,1986
+08/10,Crystal Falls,WI,3,Musketeers,Open Class,36.9,1986
+08/10,Springfield,IL,3,Illiana Lancers,Open Class,61.75,1986
+08/10,Stillwater,MN,4,Troopers,Open Class,84.1,1986
+08/10,Sioux City,IA,4,27th Lancers,Open Class,84.6,1986
+08/10,Crystal Falls,WI,4,1st Canadian Regiment,Open Class,31.4,1986
+08/10,Springfield,IL,4,Phantom Regiment Cadets,Open Class,53.75,1986
+08/10,Stillwater,MN,5,Sky Ryders,Open Class,81.3,1986
+08/10,Sioux City,IA,5,Colts,Open Class,74.8,1986
+08/10,Crystal Falls,WI,5,Toros,Open Class,24.9,1986
+08/10,Springfield,IL,5,Joliet Kingsmen,Open Class,41.75,1986
+08/10,Stillwater,MN,6,Boston Crusaders,Open Class,77.2,1986
+08/10,Springfield,IL,6,Racine Scouts,Open Class,,1986
+08/11,Fort Wayne,IN,1,Garfield Cadets,Open Class,90.3,1986
+08/11,Rockford,IL,1,Vanguard,Open Class,96.2,1986
+08/11,Minneapolis,MN,1,Blue Devils,Open Class,96.3,1986
+08/11,Fort Wayne,IN,2,Star of Indiana,Open Class,89.7,1986
+08/11,Rockford,IL,2,Cavaliers,Open Class,93.2,1986
+08/11,Minneapolis,MN,2,Suncoast Sound,Open Class,92.5,1986
+08/11,Fort Wayne,IN,3,Les Eclipses,Open Class,77.9,1986
+08/11,Rockford,IL,3,Phantom Regiment,Open Class,87.9,1986
+08/11,Minneapolis,MN,3,Madison Scouts,Open Class,92.0,1986
+08/11,Fort Wayne,IN,4,Bluecoats,Open Class,76.3,1986
+08/11,Rockford,IL,4,Sky Ryders,Open Class,86.6,1986
+08/11,Minneapolis,MN,4,Spirit of Atlanta,Open Class,91.5,1986
+08/11,Fort Wayne,IN,5,Florida Wave,Open Class,75.2,1986
+08/11,Rockford,IL,5,Dutch Boy,Open Class,78.2,1986
+08/11,Minneapolis,MN,5,Velvet Knights,Open Class,84.9,1986
+08/11,Fort Wayne,IN,6,Marauders,Open Class,74.1,1986
+08/11,Rockford,IL,6,Knights,Open Class,75.0,1986
+08/11,Minneapolis,MN,6,Troopers,Open Class,84.4,1986
+08/11,Fort Wayne,IN,7,Connexion Quebec,Open Class,64.5,1986
+08/11,Rockford,IL,7,Crossmen,Open Class,72.9,1986
+08/11,Minneapolis,MN,7,Boston Crusaders,Open Class,77.1,1986
+08/11,Fort Wayne,IN,8,Diplomats,Open Class,62.2,1986
+08/12,Madison,WI,1,Canadian Knights,Open Class,92.9,1986
+08/12,Madison,WI,1,Saint Francis Sancians,Open Class,86.2,1986
+08/13,Madison,WI,1,Canadian Knights,Open Class,94.6,1986
+08/13,Madison,WI,1,Saint Francis Sancians,Open Class,83.7,1986
+08/12,Madison,WI,2,Ventures,Open Class,91.4,1986
+08/12,Madison,WI,2,Northern Aurora,Open Class,82.4,1986
+08/13,Madison,WI,2,Ventures,Open Class,94.0,1986
+08/13,Madison,WI,2,Northern Aurora,Open Class,79.8,1986
+08/12,Madison,WI,3,Railmen,Open Class,82.1,1986
+08/12,Madison,WI,3,Northmen-WI,Open Class,77.8,1986
+08/13,Madison,WI,3,Railmen,Open Class,83.4,1986
+08/13,Madison,WI,3,Northmen-WI,Open Class,71.1,1986
+08/12,Madison,WI,4,20th Maine Regiment,Open Class,81.4,1986
+08/12,Madison,WI,4,New Image,Open Class,76.2,1986
+08/13,Madison,WI,4,20th Maine Regiment,Open Class,80.4,1986
+08/13,Madison,WI,4,New Image,Open Class,68.5,1986
+08/12,Madison,WI,5,Phantom Regiment Cadets,Open Class,77.8,1986
+08/12,Madison,WI,5,Madison Junior Scouts,Open Class,76.1,1986
+08/13,Madison,WI,5,Phantom Regiment Cadets,Open Class,74.6,1986
+08/13,Madison,WI,5,Madison Junior Scouts,Open Class,66.9,1986
+08/12,Madison,WI,6,Citations,Open Class,74.1,1986
+08/12,Madison,WI,6,Marion Cadets,Open Class,73.1,1986
+08/13,Madison,WI,6,Citations,Open Class,72.0,1986
+08/13,Madison,WI,6,Marion Cadets,Open Class,65.4,1986
+08/12,Madison,WI,7,Guardsmen,Open Class,69.5,1986
+08/12,Madison,WI,7,Blue Stars,Open Class,71.7,1986
+08/12,Madison,WI,8,Spartans-NH,Open Class,67.9,1986
+08/12,Madison,WI,8,Bandettes,Open Class,69.0,1986
+08/12,Madison,WI,9,Black Knights,Open Class,67.7,1986
+08/12,Madison,WI,9,Oshawa Rebels,Open Class,67.6,1986
+08/12,Madison,WI,10,Patriots,Open Class,66.0,1986
+08/12,Madison,WI,10,Mandarins,Open Class,64.8,1986
+08/12,Madison,WI,11,Pacificaires,Open Class,55.3,1986
+08/12,Madison,WI,11,Coachmen,Open Class,64.2,1986
+08/12,Madison,WI,12,Musketeers,Open Class,51.2,1986
+08/12,Madison,WI,12,Kiwanis Kavaliers,Open Class,64.1,1986
+08/12,Madison,WI,13,Oakland Crusaders,Open Class,49.9,1986
+08/12,Madison,WI,13,Rocky Mountain Magic,Open Class,63.9,1986
+08/12,Madison,WI,14,Saint Andrew's,Open Class,59.9,1986
+08/12,Madison,WI,15,Pioneer,Open Class,53.4,1986
+08/12,Madison,WI,16,CapitolAires,Open Class,45.7,1986
+08/12,Madison,WI,17,1st Canadian Regiment,Open Class,45.3,1986
+08/12,Madison,WI,18,Toros,Open Class,44.9,1986
+08/12,Madison,WI,19,Emerald Knights-IA,Open Class,43.7,1986
+08/12,Madison,WI,20,Phoenix-Ontario,Open Class,33.7,1986
+08/14,Madison,WI,1,Sky Ryders,Open Class,88.6,1986
+08/15,Madison,WI,1,Blue Devils,Open Class,97.9,1986
+08/16,Madison,WI,1,Blue Devils,Open Class,98.4,1986
+08/14,Madison,WI,2,Les Eclipses,Open Class,86.1,1986
+08/15,Madison,WI,2,Vanguard,Open Class,97.0,1986
+08/16,Madison,WI,2,Vanguard,Open Class,97.0,1986
+08/14,Madison,WI,3,Bluecoats,Open Class,83.1,1986
+08/15,Madison,WI,3,Cavaliers,Open Class,95.8,1986
+08/16,Madison,WI,3,Cavaliers,Open Class,95.7,1986
+08/14,Madison,WI,4,Boston Crusaders,Open Class,81.4,1986
+08/15,Madison,WI,4,Garfield Cadets,Open Class,94.3,1986
+08/16,Madison,WI,4,Garfield Cadets,Open Class,95.6,1986
+08/14,Madison,WI,5,Dutch Boy,Open Class,81.2,1986
+08/15,Madison,WI,5,Spirit of Atlanta,Open Class,94.2,1986
+08/16,Madison,WI,5,Suncoast Sound,Open Class,94.8,1986
+08/14,Madison,WI,6,Marauders,Open Class,80.2,1986
+08/15,Madison,WI,6,Madison Scouts,Open Class,93.2,1986
+08/16,Madison,WI,6,Spirit of Atlanta,Open Class,94.1,1986
+08/14,Madison,WI,7,Florida Wave,Open Class,78.7,1986
+08/15,Madison,WI,6,Suncoast Sound,Open Class,93.2,1986
+08/16,Madison,WI,7,Madison Scouts,Open Class,91.3,1986
+08/14,Madison,WI,8,Colts,Open Class,77.5,1986
+08/15,Madison,WI,8,Star of Indiana,Open Class,92.0,1986
+08/16,Madison,WI,8,Star of Indiana,Open Class,90.5,1986
+08/14,Madison,WI,9,Crossmen,Open Class,77.2,1986
+08/15,Madison,WI,9,Sky Ryders,Open Class,88.3,1986
+08/16,Madison,WI,9,Sky Ryders,Open Class,87.0,1986
+08/14,Madison,WI,10,Knights,Open Class,77.1,1986
+08/15,Madison,WI,10,Phantom Regiment,Open Class,87.7,1986
+08/16,Madison,WI,10,Phantom Regiment,Open Class,85.0,1986
+08/14,Madison,WI,11,Ventures,Open Class,75.6,1986
+08/15,Madison,WI,11,Velvet Knights,Open Class,86.4,1986
+08/16,Madison,WI,11,Troopers,Open Class,83.5,1986
+08/14,Madison,WI,12,Canadian Knights,Open Class,74.2,1986
+08/15,Madison,WI,12,Troopers,Open Class,85.9,1986
+08/16,Madison,WI,12,Velvet Knights,Open Class,82.6,1986
+08/14,Madison,WI,13,Spartans-WA,Open Class,69.7,1986
+08/15,Madison,WI,13,27th Lancers,Open Class,85.6,1986
+08/14,Madison,WI,14,Connexion Quebec,Open Class,69.0,1986
+08/15,Madison,WI,14,Les Eclipses,Open Class,83.1,1986
+08/14,Madison,WI,15,Blue Knights,Open Class,68.7,1986
+08/15,Madison,WI,15,Bluecoats,Open Class,80.3,1986
+08/14,Madison,WI,16,Saint Francis Sancians,Open Class,68.1,1986
+08/15,Madison,WI,16,Boston Crusaders,Open Class,79.9,1986
+08/14,Madison,WI,17,Diplomats,Open Class,67.8,1986
+08/15,Madison,WI,17,Dutch Boy,Open Class,79.5,1986
+08/14,Madison,WI,18,Anaheim Kingsmen,Open Class,67.7,1986
+08/15,Madison,WI,18,Marauders,Open Class,78.0,1986
+08/14,Madison,WI,19,Glassmen,Open Class,62.9,1986
+08/15,Madison,WI,19,Florida Wave,Open Class,75.9,1986
+08/14,Madison,WI,20,Railmen,Open Class,62.6,1986
+08/15,Madison,WI,20,Colts,Open Class,74.7,1986
+08/14,Madison,WI,21,Valley Fever,Open Class,60.0,1986
+08/15,Madison,WI,21,Crossmen,Open Class,73.1,1986
+08/14,Madison,WI,22,Northern Aurora,Open Class,58.6,1986
+08/15,Madison,WI,21,Knights,Open Class,73.1,1986
+08/14,Madison,WI,23,20th Maine Regiment,Open Class,58.3,1986
+08/15,Madison,WI,23,Ventures,Open Class,70.3,1986
+08/14,Madison,WI,24,Phantom Regiment Cadets,Open Class,56.7,1986
+08/15,Madison,WI,24,Canadian Knights,Open Class,69.1,1986
+08/15,Madison,WI,25,Connexion Quebec,Open Class,65.6,1986
+08/15,Madison,WI,26,Spartans-WA,Open Class,64.7,1986
+08/16,Bennington,VT,1,Toreadors,Open Class,84.3,1986
+08/16,Williamsport,PA,1,Empire Statesmen,Open Class,88.4,1986
+08/16,La Bale,Quebec,1,Aventuries,Open Class,63.0,1986
+08/17,Jonquiere,Quebec,1,Academie Musicale,Open Class,64.4,1986
+08/16,Bennington,VT,2,Joanettes,Open Class,64.6,1986
+08/16,Williamsport,PA,2,Guelph Royalaires,Open Class,79.15,1986
+08/16,La Bale,Quebec,2,Academie Musicale,Open Class,62.9,1986
+08/17,Jonquiere,Quebec,2,L'Insolite,Open Class,64.1,1986
+08/16,Bennington,VT,3,Satellites,Open Class,59.3,1986
+08/16,Williamsport,PA,3,Keystoners,Open Class,54.5,1986
+08/16,La Bale,Quebec,3,L'Insolite,Open Class,60.15,1986
+08/17,Jonquiere,Quebec,3,Aventuries,Open Class,63.2,1986
+08/16,Bennington,VT,4,Buccaneers,Open Class,50.6,1986
+08/16,Williamsport,PA,4,"Knights of Noble
+  Callahan",Open Class,51.3,1986
+08/16,Bennington,VT,5,Royal Cadets,Open Class,50.3,1986
+08/16,La Bale,Quebec,1,Mousquetaires,Open Class,66.1,1986
+08/17,Jonquiere,Quebec,1,Mousquetaires,Open Class,69.65,1986
+08/16,Bennington,VT,6,Royal Knights,Open Class,48.6,1986
+08/16,La Bale,Quebec,2,Voltigeurs,Open Class,55.3,1986
+08/17,Jonquiere,Quebec,2,Voltigeurs,Open Class,55.75,1986
+08/16,La Bale,Quebec,3,Les Chrystalines,Open Class,54.65,1986
+08/17,Jonquiere,Quebec,3,Les Chrystalines,Open Class,55.7,1986
+08/16,La Bale,Quebec,4,Les Chapdelaines,Open Class,48.3,1986
+08/17,Jonquiere,Quebec,4,Les Chapdelaines,Open Class,51.25,1986
+08/16,La Bale,Quebec,5,Marauders-QUE,Open Class,35.15,1986
+08/17,Jonquiere,Quebec,5,Marauders-QUE,Open Class,37.95,1986
+08/16,La Bale,Quebec,6,Renaissance,Open Class,34.75,1986
+08/17,Jonquiere,Quebec,6,Renaissance,Open Class,31.95,1986
+08/17,Lee,MA,1,Toreadors,Open Class,85.0,1986
+08/23,Oshawa,Ontario,1,Dutch Boy,DCA Class A,95.7,1986
+08/23,Oshawa,Ontario,1,Dutch Boy,DCA Class A,97.9,1986
+08/23,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,89.55,1986
+08/17,Lee,MA,2,Joanettes,Open Class,73.3,1986
+08/23,Oshawa,Ontario,2,Canadian Knights,DCA Class A,91.4,1986
+08/23,Oshawa,Ontario,2,Canadian Knights,DCA Class A,94.6,1986
+08/23,Bridgeport,CT,2,Sunrisers,Open Class,84.1,1986
+08/17,Lee,MA,3,Satellites,Open Class,67.0,1986
+08/23,Oshawa,Ontario,3,Ventures,DCA Class A,90.6,1986
+08/23,Oshawa,Ontario,3,Ventures,DCA Class A,93.2,1986
+08/23,Bridgeport,CT,3,New York Skyliners,Open Class,84.05,1986
+08/17,Lee,MA,4,Buccaneers,Open Class,61.3,1986
+08/23,Oshawa,Ontario,4,Oshawa Rebels,DCA Class A,74.2,1986
+08/23,Oshawa,Ontario,4,Oshawa Rebels,DCA Class A,80.0,1986
+08/23,Bridgeport,CT,4,Matadors,Open Class,75.75,1986
+08/17,Lee,MA,5,Royal Cadets,Open Class,55.0,1986
+08/23,Oshawa,Ontario,5,Kiwanis Kavaliers,DCA Class A,71.8,1986
+08/23,Oshawa,Ontario,5,Kiwanis Kavaliers,DCA Class A,72.4,1986
+08/23,Bridgeport,CT,5,Connecticut Hurricanes,Open Class,72.25,1986
+08/17,Lee,MA,5,Royal Knights,Open Class,55.0,1986
+08/23,Oshawa,Ontario,6,Conqueror II,DCA Class A,71.3,1986
+08/23,Oshawa,Ontario,6,Conqueror II,DCA Class A,71.8,1986
+08/23,Oshawa,Ontario,7,Spartans,DCA Class A,69.9,1986
+08/23,Oshawa,Ontario,8,Saint Andrew's,DCA Class A,67.2,1986
+08/23,Oshawa,Ontario,1,Emerald Knights-ONT,DCA Class A,48.1,1986
+08/23,Oshawa,Ontario,9,Out of the Blue,DCA Class A,60.1,1986
+08/23,Oshawa,Ontario,2,Saint John's,DCA Class A,45.4,1986
+08/23,Oshawa,Ontario,3,Cardinals,DCA Class A,39.5,1986
+08/23,Oshawa,Ontario,1,Emerald Knights-ONT,DCA Class A,48.4,1986
+08/23,Oshawa,Ontario,2,Saint John's,DCA Class A,47.4,1986
+08/23,Oshawa,Ontario,3,Cardinals,DCA Class A,42.7,1986
+08/23,Oshawa,Ontario,4,Ridge Raiders,DCA Class A,37.9,1986
+08/23,Oshawa,Ontario,5,Cadets of Dutch Boy,DCA Class A,34.7,1986
+08/23,Oshawa,Ontario,6,Constellation,DCA Class A,33.6,1986
+08/23,Oshawa,Ontario,7,Lampliters,DCA Class A,27.2,1986
+08/23,Montreal,Quebec,1,Transit,Open Class,79.1,1986
+08/23,Montreal,Quebec,1,Les Eclipses,DCA Class A,90.5,1986
+08/23,Montreal,Quebec,2,Mousquetaires,Open Class,73.8,1986
+08/23,Montreal,Quebec,2,Connexion Quebec,DCA Class A,76.8,1986
+08/23,Montreal,Quebec,3,Chrystalines,Open Class,60.8,1986
+08/23,Montreal,Quebec,4,Les Voltigeurs,Open Class,58.8,1986
+08/23,Montreal,Quebec,1,Les Aventuries,DCA Class A,68.6,1986
+08/23,Montreal,Quebec,5,Les Chapdelaines,Open Class,58.3,1986
+08/23,Montreal,Quebec,2,Academie Musicale,DCA Class A,67.4,1986
+08/23,Montreal,Quebec,6,Pionniers,Open Class,54.4,1986
+08/23,Montreal,Quebec,3,L'Insolite,DCA Class A,65.7,1986
+08/23,Montreal,Quebec,7,Les Etoiles,Open Class,50.3,1986
+08/23,Montreal,Quebec,8,Senateurs,Open Class,47.3,1986
+08/23,Montreal,Quebec,1,Transit,DCA Class A,84.0,1986
+08/23,Montreal,Quebec,9,Maraudeurs,Open Class,38.4,1986
+08/23,Montreal,Quebec,2,Mousquetaires,DCA Class A,75.5,1986
+08/23,Montreal,Quebec,10,La Renaissance,Open Class,33.6,1986
+08/23,Montreal,Quebec,3,Chrystalines,DCA Class A,62.6,1986
+08/23,Montreal,Quebec,4,Les Voltigeurs,DCA Class A,59.8,1986
+08/23,Montreal,Quebec,5,Les Chapdelaines,DCA Class A,57.8,1986
+08/23,Montreal,Quebec,1,3rd Regiment,DCA Class A,28.9,1986
+08/31,Allentown,PA,1,Hawthorne Caballeros,Open Class,89.65,1986
+08/31,Allentown,PA,1,Bushwackers,Open Class,92.45,1986
+08/31,Allentown,PA,1,Steel City Ambassadors,Open Class,89.65,1986
+08/31,Allentown,PA,2,Steel City Ambassadors,Open Class,91.95,1986
+08/31,Allentown,PA,3,Bushwackers,Open Class,88.7,1986
+08/31,Allentown,PA,3,Hawthorne Caballeros,Open Class,90.9,1986
+08/31,Allentown,PA,4,Reading Buccaneers,Open Class,88.25,1986
+08/31,Allentown,PA,4,Reading Buccaneers,Open Class,87.55,1986
+08/31,Allentown,PA,5,Sunrisers,Open Class,86.25,1986
+08/31,Allentown,PA,5,Rochester Crusaders,Open Class,85.45,1986
+08/31,Allentown,PA,6,Rochester Crusaders,Open Class,83.5,1986
+08/31,Allentown,PA,6,Sunrisers,Open Class,85.3,1986
+08/31,Allentown,PA,7,New York Skyliners,Open Class,82.95,1986
+08/31,Allentown,PA,7,New York Skyliners,Open Class,79.2,1986
+08/31,Allentown,PA,8,Empire Statesmen,Open Class,77.25,1986
+08/31,Allentown,PA,8,Empire Statesmen,Open Class,74.2,1986
+08/31,Allentown,PA,9,Minnesota Brass,Open Class,77.0,1986
+08/31,Allentown,PA,9,Minnesota Brass,Open Class,72.35,1986
+08/31,Allentown,PA,10,Guelph Royalaires,Open Class,75.35,1986
+08/31,Allentown,PA,10,Matadors,Open Class,72.05,1986
+08/31,Allentown,PA,11,Matadors,Open Class,74.8,1986
+08/31,Allentown,PA,11,Guelph Royalaires,Open Class,71.85,1986
+08/31,Allentown,PA,12,Connecticut Hurricanes,Open Class,73.4,1986
+08/31,Allentown,PA,13,Westshoremen,Open Class,69.55,1986
+08/31,Allentown,PA,14,Les Ambassadeurs,Open Class,64.6,1986
+08/31,Allentown,PA,15,Pine Tree Warriors,Open Class,54.25,1986
+08/31,Allentown,PA,16,CMCC Warriors,Open Class,51.9,1986
+08/31,Allentown,PA,17,Keystoners,Open Class,49.85,1986
+08/31,Allentown,PA,18,"Knights of Noble
+  Callahan",Open Class,47.95,1986

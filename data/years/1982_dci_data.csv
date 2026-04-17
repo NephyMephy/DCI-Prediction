@@ -1,0 +1,1711 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/05,LaCrosse,WI,1,Phantom Regiment,World Class,69.75,1982
+06/06,Webster City,IA,1,Crimson Cadets,World Class,66.2,1982
+06/06,Whitewater,WI,1,Phantom Regiment,World Class,74.25,1982
+06/12,Lynn,MA,1,Bridgemen,World Class,64.65,1982
+06/05,LaCrosse,WI,2,Madison Scouts,World Class,66.25,1982
+06/06,Webster City,IA,2,Rivermen,World Class,65.55,1982
+06/06,Whitewater,WI,2,Madison Scouts,World Class,68.9,1982
+06/12,Lynn,MA,2,27th Lancers,World Class,61.95,1982
+06/05,LaCrosse,WI,3,Knights,World Class,54.2,1982
+06/06,Webster City,IA,3,Emerald Knights,World Class,61.3,1982
+06/06,Whitewater,WI,3,Cavaliers,World Class,60.5,1982
+06/12,Lynn,MA,3,Garfield Cadets,World Class,60.45,1982
+06/05,LaCrosse,WI,4,Rivermen,World Class,36.75,1982
+06/06,Webster City,IA,4,Pioneer,World Class,58.3,1982
+06/06,Whitewater,WI,4,Knights,World Class,59.75,1982
+06/12,Lynn,MA,4,Defenders,World Class,48.85,1982
+06/06,Webster City,IA,5,CapitolAires,World Class,57.65,1982
+06/12,Lynn,MA,5,Valley Airs,World Class,31.2,1982
+06/12,Appleton,WI,1,Rivermen,World Class,48.9,1982
+06/12,Rome,NY,1,Westshoremen,World Class,72.95,1982
+06/12,Ramsey,NJ,1,Hawthorne Caballeros,World Class,71.8,1982
+06/12,Chicago,IL,1,Phantom Regiment,World Class,76.05,1982
+06/12,Appleton,WI,2,Colts,World Class,46.3,1982
+06/12,Rome,NY,2,Sunrisers,World Class,69.85,1982
+06/12,Ramsey,NJ,2,Sunrisers,World Class,70.05,1982
+06/12,Chicago,IL,2,Madison Scouts,World Class,71.45,1982
+06/12,Appleton,WI,3,Memorial Lancers,World Class,43.1,1982
+06/12,Rome,NY,3,Reading Buccaneers,World Class,68.65,1982
+06/12,Ramsey,NJ,3,New York Skyliners,World Class,67.5,1982
+06/12,Chicago,IL,3,Knights,World Class,61.8,1982
+06/12,Appleton,WI,4,Illiana Lancers,World Class,38.6,1982
+06/12,Rome,NY,4,Thunderbirds,World Class,45.2,1982
+06/12,Ramsey,NJ,4,Matadors,World Class,58.2,1982
+06/12,Chicago,IL,4,Pioneer,World Class,45.6,1982
+06/12,Appleton,WI,5,Wausau Story,World Class,28.4,1982
+06/12,Rome,NY,5,Rochester Crusaders,World Class,44.45,1982
+06/12,Ramsey,NJ,5,Bushwackers,World Class,52.55,1982
+06/12,Chicago,IL,5,Royal Grenadiers,World Class,36.95,1982
+06/12,Appleton,WI,6,Kilties,World Class,25.6,1982
+06/12,Appleton,WI,7,Marquis,World Class,21.8,1982
+06/12,Saratoga Springs,NY,1,Crossmen,World Class,62.0,1982
+06/13,Woonsocket,RI,1,Garfield Cadets,World Class,65.8,1982
+06/13,Findlay,OH,1,Saginaires,World Class,63.4,1982
+06/13,Oshkosh,WI,1,Phantom Regiment,World Class,73.9,1982
+06/12,Saratoga Springs,NY,2,Alliance,World Class,59.8,1982
+06/13,Woonsocket,RI,2,Bridgemen,World Class,63.2,1982
+06/13,Findlay,OH,2,Golden Garrison,World Class,58.4,1982
+06/13,Oshkosh,WI,2,Madison Scouts,World Class,70.45,1982
+06/12,Saratoga Springs,NY,3,Les Eclipses,World Class,50.0,1982
+06/13,Woonsocket,RI,3,27th Lancers,World Class,58.8,1982
+06/13,Findlay,OH,3,Glassmen,World Class,58.2,1982
+06/13,Oshkosh,WI,3,Cavaliers,World Class,62.95,1982
+06/12,Saratoga Springs,NY,4,Fantasia III,World Class,38.3,1982
+06/13,Woonsocket,RI,4,Defenders,World Class,44.1,1982
+06/13,Findlay,OH,4,Emerald Knights,World Class,53.8,1982
+06/13,Oshkosh,WI,4,Knights,World Class,59.65,1982
+06/12,Saratoga Springs,NY,5,Volunteers,World Class,36.4,1982
+06/13,Woonsocket,RI,5,Valley Airs,World Class,25.7,1982
+06/13,Findlay,OH,5,Coachmen,World Class,52.5,1982
+06/13,Oshkosh,WI,5,Rivermen,World Class,42.95,1982
+06/12,Saratoga Springs,NY,6,Fusion,World Class,32.4,1982
+06/13,Findlay,OH,6,Pride of Cincinnati,World Class,51.6,1982
+06/13,Oshkosh,WI,6,Colts,World Class,41.6,1982
+06/13,Oshkosh,WI,7,Pioneer,World Class,37.6,1982
+06/13,San Pablo,CA,1,Blue Devils,World Class,72.55,1982
+06/17,Opelika,AL,1,Spirit of Atlanta,World Class,65.65,1982
+06/18,Maumee,OH,1,Madison Scouts,World Class,75.3,1982
+06/18,McLeansboro,IL,1,Pioneer,World Class,60.6,1982
+06/13,San Pablo,CA,2,San Jose Raiders,World Class,51.3,1982
+06/17,Opelika,AL,2,Memphis Blues,World Class,55.0,1982
+06/18,Maumee,OH,2,Saginaires,World Class,45.8,1982
+06/18,McLeansboro,IL,2,Royal Grenadiers,World Class,54.4,1982
+06/13,San Pablo,CA,3,Valley Fever,World Class,50.0,1982
+06/17,Opelika,AL,3,Suncoast Sound,World Class,51.4,1982
+06/18,Maumee,OH,3,Guardsmen,World Class,43.2,1982
+06/18,McLeansboro,IL,3,CapitolAires,World Class,50.3,1982
+06/13,San Pablo,CA,4,Blue Devils B,World Class,30.65,1982
+06/17,Opelika,AL,4,Pride of Cincinnati,World Class,39.2,1982
+06/18,Maumee,OH,4,Americanos,World Class,32.55,1982
+06/18,McLeansboro,IL,4,Saint Louis Lancers,World Class,49.5,1982
+06/17,Opelika,AL,5,Southwind,World Class,34.25,1982
+06/18,Maumee,OH,5,Golden Garrison,World Class,28.3,1982
+06/18,McLeansboro,IL,5,Marquis,World Class,44.2,1982
+06/17,Opelika,AL,6,Nighthawks,World Class,32.85,1982
+06/18,Maumee,OH,6,Coachmen,World Class,28.25,1982
+06/18,Maumee,OH,7,Kilties,World Class,18.25,1982
+06/18,Columbia,TN,1,Spirit of Atlanta,World Class,68.8,1982
+06/19,Boston,MA,1,27th Lancers,World Class,61.4,1982
+06/19,Canton,IL,1,Phantom Regiment,World Class,81.75,1982
+06/19,Saginaw,MI,1,Madison Scouts,World Class,76.5,1982
+06/18,Columbia,TN,2,Memphis Blues,World Class,58.2,1982
+06/19,Boston,MA,2,Defenders,World Class,46.8,1982
+06/19,Canton,IL,2,Knights,World Class,68.45,1982
+06/19,Saginaw,MI,2,Guardsmen,World Class,45.9,1982
+06/18,Columbia,TN,3,Suncoast Sound,World Class,56.4,1982
+06/19,Boston,MA,3,Alliance,World Class,46.1,1982
+06/19,Canton,IL,3,Cavaliers,World Class,66.85,1982
+06/19,Saginaw,MI,3,Glassmen,World Class,31.1,1982
+06/18,Columbia,TN,4,Pride of Cincinnati,World Class,43.55,1982
+06/19,Boston,MA,4,North Star,World Class,41.4,1982
+06/19,Canton,IL,4,Colts,World Class,50.05,1982
+06/19,Saginaw,MI,4,Coachmen,World Class,30.2,1982
+06/18,Columbia,TN,5,Southwind,World Class,40.1,1982
+06/19,Boston,MA,5,Les Eclipses,World Class,39.2,1982
+06/19,Canton,IL,5,Emerald Knights,World Class,34.1,1982
+06/19,Saginaw,MI,5,Americanos,World Class,27.6,1982
+06/18,Columbia,TN,6,Nighthawks,World Class,34.6,1982
+06/19,Saginaw,MI,6,Kilties,World Class,18.3,1982
+06/18,Columbia,TN,7,Black Knights,World Class,27.2,1982
+06/19,Saginaw,MI,7,Bandettes,World Class,11.2,1982
+06/19,Memphis,TN,1,Spirit of Atlanta,World Class,71.9,1982
+06/19,Ferguson,MI,1,Pioneer,World Class,63.3,1982
+06/19,Cleveland,OH,1,Bluecoats,World Class,71.2,1982
+06/19,Hershey,PA,1,Westshoremen,World Class,78.05,1982
+06/19,Memphis,TN,2,Suncoast Sound,World Class,63.1,1982
+06/19,Ferguson,MI,2,Imperial Guard,World Class,53.2,1982
+06/19,Cleveland,OH,2,Caballaros,World Class,58.75,1982
+06/19,Hershey,PA,2,New York Skyliners,World Class,73.0,1982
+06/19,Memphis,TN,3,Pride of Cincinnati,World Class,44.7,1982
+06/19,Ferguson,MI,3,Royal Grenadiers,World Class,51.4,1982
+06/19,Cleveland,OH,3,Marion Cadets,World Class,44.6,1982
+06/19,Hershey,PA,3,Reading Buccaneers,World Class,71.9,1982
+06/19,Memphis,TN,4,Southwind,World Class,36.8,1982
+06/19,Ferguson,MI,4,CapitolAires,World Class,47.4,1982
+06/19,Hershey,PA,4,Archer Epler Muskateers,World Class,58.55,1982
+06/19,Memphis,TN,5,Nighthawks,World Class,36.1,1982
+06/19,Ferguson,MI,5,Vaqueros,World Class,43.5,1982
+06/19,Hershey,PA,5,Steel City Ambassadors,World Class,49.9,1982
+06/19,Memphis,TN,6,Black Knights,World Class,26.6,1982
+06/19,Ferguson,MI,6,Marquis,World Class,42.7,1982
+06/19,Hershey,PA,6,Rochester Crusaders,World Class,45.95,1982
+06/19,Hershey,PA,7,Hanover Lancers,World Class,43.05,1982
+06/19,New Haven,CT,1,Connecticut Hurricanes,World Class,71.2,1982
+06/20,East Lyme,CT,1,Alliance,World Class,54.3,1982
+06/20,Ramsey,NJ,1,Garfield Cadets,World Class,71.5,1982
+06/20,Geneseo,IL,1,Phantom Regiment,World Class,83.5,1982
+06/19,New Haven,CT,2,Sunrisers,World Class,68.7,1982
+06/20,East Lyme,CT,2,Les Eclipses,World Class,50.8,1982
+06/20,Ramsey,NJ,2,Bridgemen,World Class,69.4,1982
+06/20,Geneseo,IL,2,Cavaliers,World Class,69.0,1982
+06/19,New Haven,CT,3,Matadors,World Class,63.7,1982
+06/20,East Lyme,CT,3,North Star,World Class,48.4,1982
+06/20,Ramsey,NJ,3,Crossmen,World Class,65.9,1982
+06/20,Geneseo,IL,3,Knights,World Class,68.7,1982
+06/20,East Lyme,CT,4,Valley Airs,World Class,33.45,1982
+06/20,Ramsey,NJ,4,Fantasia III,World Class,34.8,1982
+06/20,Geneseo,IL,4,Colts,World Class,46.2,1982
+06/20,Ramsey,NJ,5,Black Watch,World Class,25.7,1982
+06/20,Geneseo,IL,5,Emerald Knights,World Class,34.5,1982
+06/20,Grand Rapids,MI,1,Madison Scouts,World Class,73.6,1982
+06/23,Boulder,CO,1,Sky Ryders,World Class,62.85,1982
+06/24,Montrose,CO,1,Sky Ryders,World Class,68.0,1982
+06/26,North Hunterdon,NJ,1,Bridgemen,World Class,69.85,1982
+06/20,Grand Rapids,MI,2,Saginaires,World Class,48.55,1982
+06/23,Boulder,CO,2,San Jose Raiders,World Class,51.25,1982
+06/24,Montrose,CO,2,San Jose Raiders,World Class,58.33,1982
+06/26,North Hunterdon,NJ,2,27th Lancers,World Class,69.15,1982
+06/20,Grand Rapids,MI,3,Guardsmen,World Class,48.35,1982
+06/23,Boulder,CO,3,Troopers,World Class,51.1,1982
+06/24,Montrose,CO,2,Troopers,World Class,58.33,1982
+06/26,North Hunterdon,NJ,3,North Star,World Class,59.05,1982
+06/20,Grand Rapids,MI,4,Glassmen,World Class,37.35,1982
+06/23,Boulder,CO,4,Blue Knights,World Class,37.1,1982
+06/24,Montrose,CO,4,Blue Knights,World Class,48.0,1982
+06/26,North Hunterdon,NJ,4,Fantasia III,World Class,41.8,1982
+06/20,Grand Rapids,MI,5,Americanos,World Class,32.6,1982
+06/23,Boulder,CO,5,Blue Stars,World Class,33.45,1982
+06/24,Montrose,CO,5,Blue Stars,World Class,28.33,1982
+06/26,North Hunterdon,NJ,5,Black Watch,World Class,30.05,1982
+06/20,Grand Rapids,MI,6,Kilties,World Class,23.5,1982
+06/23,Boulder,CO,6,Crimson Cadets,World Class,29.65,1982
+06/20,Grand Rapids,MI,7,Bandettes,World Class,18.3,1982
+06/26,Rockford,IL,1,Phantom Regiment,World Class,79.35,1982
+06/26,Riverside,CA,1,Blue Devils,World Class,79.55,1982
+06/26,Bridgeport,CT,1,Connecticut Hurricanes,World Class,77.0,1982
+06/26,Mechanicsburg,PA,1,Westshoremen,World Class,78.45,1982
+06/26,Rockford,IL,2,Knights,World Class,66.85,1982
+06/26,Riverside,CA,2,Vanguard,World Class,76.55,1982
+06/26,Bridgeport,CT,2,Sunrisers,World Class,75.45,1982
+06/26,Mechanicsburg,PA,2,Archer Epler Muskateers,World Class,56.1,1982
+06/26,Rockford,IL,3,Cavaliers,World Class,66.4,1982
+06/26,Riverside,CA,3,Freelancers,World Class,67.35,1982
+06/26,Bridgeport,CT,3,Hawthorne Caballeros,World Class,74.8,1982
+06/26,Mechanicsburg,PA,3,Bushwackers,World Class,54.6,1982
+06/26,Rockford,IL,4,Guardsmen,World Class,47.3,1982
+06/26,Riverside,CA,4,Sky Ryders,World Class,67.15,1982
+06/26,Bridgeport,CT,4,New York Skyliners,World Class,72.45,1982
+06/26,Mechanicsburg,PA,4,Hanover Lancers,World Class,49.9,1982
+06/26,Rockford,IL,5,Colts,World Class,46.55,1982
+06/26,Riverside,CA,5,Valley Fever,World Class,55.7,1982
+06/26,Bridgeport,CT,5,Reading Buccaneers,World Class,69.6,1982
+06/26,Mechanicsburg,PA,5,Rochester Crusaders,World Class,48.95,1982
+06/26,Rockford,IL,6,Emerald Knights,World Class,41.7,1982
+06/26,Riverside,CA,6,Troopers,World Class,54.4,1982
+06/26,Bridgeport,CT,6,Matadors,World Class,65.15,1982
+06/26,Riverside,CA,7,Seattle Imperials,World Class,50.7,1982
+06/26,Riverside,CA,8,Velvet Knights,World Class,45.9,1982
+06/26,Riverside,CA,9,Anaheim Kingsmen,World Class,35.95,1982
+06/26,Riverside,CA,10,Blue Stars,World Class,28.4,1982
+06/27,Burke,VA,1,Bridgemen,World Class,70.95,1982
+06/27,Madison,WI,1,Phantom Regiment,World Class,78.35,1982
+06/27,Los Angeles,CA,1,Blue Devils,World Class,78.8,1982
+06/28,Alton,IL,1,Phantom Regiment,World Class,79.95,1982
+06/27,Burke,VA,2,27th Lancers,World Class,70.7,1982
+06/27,Madison,WI,2,Madison Scouts,World Class,76.75,1982
+06/27,Los Angeles,CA,2,Vanguard,World Class,72.9,1982
+06/28,Alton,IL,2,Madison Scouts,World Class,76.15,1982
+06/27,Burke,VA,3,Crossmen,World Class,70.6,1982
+06/27,Madison,WI,3,Garfield Cadets,World Class,72.7,1982
+06/27,Los Angeles,CA,3,Sky Ryders,World Class,65.75,1982
+06/28,Alton,IL,3,Garfield Cadets,World Class,71.7,1982
+06/27,Burke,VA,4,North Star,World Class,59.75,1982
+06/27,Madison,WI,4,Cavaliers,World Class,67.35,1982
+06/27,Los Angeles,CA,4,Freelancers,World Class,65.35,1982
+06/28,Alton,IL,4,Knights,World Class,63.1,1982
+06/27,Burke,VA,5,Black Watch,World Class,32.8,1982
+06/27,Madison,WI,5,Guardsmen,World Class,46.25,1982
+06/27,Los Angeles,CA,5,Valley Fever,World Class,53.3,1982
+06/28,Alton,IL,5,Memphis Blues,World Class,54.75,1982
+06/27,Madison,WI,6,CapitolAires,World Class,33.55,1982
+06/27,Los Angeles,CA,6,Troopers,World Class,52.35,1982
+06/28,Alton,IL,6,Guardsmen,World Class,41.65,1982
+06/27,Los Angeles,CA,7,Seattle Imperials,World Class,43.9,1982
+06/28,Alton,IL,7,Rivermen,World Class,40.2,1982
+06/27,Los Angeles,CA,8,Velvet Knights,World Class,42.55,1982
+06/28,Alton,IL,8,Les Chatelaines,World Class,39.45,1982
+06/27,Los Angeles,CA,9,Anaheim Kingsmen,World Class,37.7,1982
+06/27,Los Angeles,CA,10,Blue Stars,World Class,30.4,1982
+06/29,Raleigh,NC,1,Bridgemen,World Class,70.45,1982
+06/29,Terre Haute,IN,1,Garfield Cadets,World Class,73.55,1982
+06/30,Springfield,MO,1,Phantom Regiment,World Class,78.3,1982
+06/29,Raleigh,NC,2,27th Lancers,World Class,69.7,1982
+06/29,Terre Haute,IN,2,Memphis Blues,World Class,58.9,1982
+06/30,Springfield,MO,2,Madison Scouts,World Class,73.25,1982
+06/29,Raleigh,NC,3,Crossmen,World Class,69.2,1982
+06/29,Terre Haute,IN,3,Rivermen,World Class,47.0,1982
+06/30,Springfield,MO,3,Suncoast Sound,World Class,60.85,1982
+06/29,Raleigh,NC,4,Spirit of Atlanta,World Class,64.6,1982
+06/29,Terre Haute,IN,4,Guardsmen,World Class,42.75,1982
+06/30,Springfield,MO,4,Knights,World Class,57.5,1982
+06/29,Raleigh,NC,5,North Star,World Class,56.55,1982
+06/29,Terre Haute,IN,5,Les Chatelaines,World Class,42.3,1982
+06/30,Springfield,MO,5,San Jose Raiders,World Class,54.45,1982
+06/29,Raleigh,NC,6,Avant Garde,World Class,40.0,1982
+06/29,Terre Haute,IN,6,Imperial Guard,World Class,40.5,1982
+06/30,Springfield,MO,6,Colts,World Class,47.1,1982
+06/29,Terre Haute,IN,7,Ventures,World Class,29.15,1982
+07/01,Charlotte,NC,1,27th Lancers,World Class,71.0,1982
+07/01,Columbus,OH,1,Garfield Cadets,World Class,77.3,1982
+07/01,Fresno,CA,1,Blue Devils,World Class,77.55,1982
+07/02,Columbia,SC,1,Crossmen,World Class,73.5,1982
+07/01,Charlotte,NC,2,Bridgemen,World Class,70.75,1982
+07/01,Columbus,OH,2,Cavaliers,World Class,72.75,1982
+07/01,Fresno,CA,2,Vanguard,World Class,72.6,1982
+07/02,Columbia,SC,2,Bridgemen,World Class,72.3,1982
+07/01,Charlotte,NC,3,Crossmen,World Class,68.15,1982
+07/01,Columbus,OH,3,Memphis Blues,World Class,59.85,1982
+07/01,Fresno,CA,3,Freelancers,World Class,64.95,1982
+07/02,Columbia,SC,3,27th Lancers,World Class,70.3,1982
+07/01,Charlotte,NC,4,Spirit of Atlanta,World Class,67.15,1982
+07/01,Columbus,OH,4,Les Chatelaines,World Class,48.9,1982
+07/01,Fresno,CA,4,Sky Ryders,World Class,61.75,1982
+07/02,Columbia,SC,4,Spirit of Atlanta,World Class,68.3,1982
+07/01,Charlotte,NC,5,North Star,World Class,55.05,1982
+07/01,Columbus,OH,5,Guardsmen,World Class,47.55,1982
+07/01,Fresno,CA,5,Troopers,World Class,51.6,1982
+07/02,Columbia,SC,5,North Star,World Class,53.4,1982
+07/01,Charlotte,NC,6,Defenders,World Class,54.5,1982
+07/01,Columbus,OH,6,Rivermen,World Class,47.5,1982
+07/01,Fresno,CA,6,Valley Fever,World Class,48.1,1982
+07/02,Columbia,SC,6,Defenders,World Class,52.9,1982
+07/01,Charlotte,NC,7,Avant Garde,World Class,39.25,1982
+07/01,Columbus,OH,7,Pride of Cincinnati,World Class,47.15,1982
+07/01,Fresno,CA,7,Seattle Imperials,World Class,42.75,1982
+07/02,Columbia,SC,7,Avant Garde,World Class,41.35,1982
+07/01,Columbus,OH,8,Bluecoats,World Class,47.0,1982
+07/01,Fresno,CA,8,Blue Stars,World Class,24.15,1982
+07/02,Cincinnati,OH,1,Garfield Cadets,World Class,74.6,1982
+07/02,Monterey,CA,1,Vanguard,World Class,76.25,1982
+07/02,Shreveport,LA,1,Phantom Regiment,World Class,80.25,1982
+07/03,Hudson,WI,1,Americanos,World Class,56.8,1982
+07/02,Cincinnati,OH,2,Cavaliers,World Class,68.0,1982
+07/02,Monterey,CA,2,Sky Ryders,World Class,68.05,1982
+07/02,Shreveport,LA,2,Madison Scouts,World Class,77.45,1982
+07/03,Hudson,WI,2,Emerald Knights,World Class,55.6,1982
+07/02,Cincinnati,OH,3,Memphis Blues,World Class,57.3,1982
+07/02,Monterey,CA,3,Freelancers,World Class,66.75,1982
+07/02,Shreveport,LA,3,Suncoast Sound,World Class,66.6,1982
+07/03,Hudson,WI,3,Marquis,World Class,51.5,1982
+07/02,Cincinnati,OH,4,Pride of Cincinnati,World Class,47.45,1982
+07/02,Monterey,CA,4,Valley Fever,World Class,55.5,1982
+07/02,Shreveport,LA,4,Knights,World Class,58.1,1982
+07/03,Hudson,WI,4,Minnesota Brass,World Class,48.2,1982
+07/02,Cincinnati,OH,5,Rivermen,World Class,46.75,1982
+07/02,Monterey,CA,5,Troopers,World Class,55.2,1982
+07/02,Shreveport,LA,5,San Jose Raiders,World Class,54.55,1982
+07/03,Hudson,WI,5,CapitolAires,World Class,47.3,1982
+07/02,Cincinnati,OH,6,Les Chatelaines,World Class,45.2,1982
+07/02,Monterey,CA,6,Seattle Imperials,World Class,45.2,1982
+07/02,Shreveport,LA,6,Colts,World Class,49.8,1982
+07/03,Hudson,WI,6,Govenaires,World Class,42.6,1982
+07/02,Cincinnati,OH,7,Guardsmen,World Class,43.15,1982
+07/02,Monterey,CA,7,Velvet Knights,World Class,41.7,1982
+07/02,Monterey,CA,8,Anaheim Kingsmen,World Class,38.25,1982
+07/02,Monterey,CA,9,Blue Stars,World Class,31.4,1982
+07/03,Atlanta,GA,1,Crossmen,World Class,73.35,1982
+07/03,Houston,TX,1,Phantom Regiment,World Class,84.4,1982
+07/03,Port Huron,MI,1,Garfield Cadets,World Class,69.55,1982
+07/03,San Jose,CA,1,Blue Devils,World Class,81.55,1982
+07/03,Atlanta,GA,2,Bridgemen,World Class,72.05,1982
+07/03,Houston,TX,2,Madison Scouts,World Class,80.35,1982
+07/03,Port Huron,MI,2,Cavaliers,World Class,68.1,1982
+07/03,San Jose,CA,2,Vanguard,World Class,76.95,1982
+07/03,Atlanta,GA,3,27th Lancers,World Class,70.3,1982
+07/03,Houston,TX,3,Suncoast Sound,World Class,67.8,1982
+07/03,Port Huron,MI,3,Rivermen,World Class,54.15,1982
+07/03,San Jose,CA,3,Freelancers,World Class,69.15,1982
+07/03,Atlanta,GA,4,Spirit of Atlanta,World Class,68.35,1982
+07/03,Houston,TX,4,Knights,World Class,64.25,1982
+07/03,Port Huron,MI,4,Les Chatelaines,World Class,47.55,1982
+07/03,San Jose,CA,4,Sky Ryders,World Class,67.15,1982
+07/03,Atlanta,GA,5,North Star,World Class,54.6,1982
+07/03,Houston,TX,5,San Jose Raiders,World Class,62.2,1982
+07/03,Port Huron,MI,5,Guardsmen,World Class,46.85,1982
+07/03,San Jose,CA,5,Troopers,World Class,55.25,1982
+07/03,Atlanta,GA,6,Defenders,World Class,51.05,1982
+07/03,Houston,TX,6,Colts,World Class,52.8,1982
+07/03,Port Huron,MI,6,Ventures,World Class,34.3,1982
+07/03,San Jose,CA,6,Valley Fever,World Class,54.2,1982
+07/03,Atlanta,GA,7,Avant Garde,World Class,40.8,1982
+07/03,Houston,TX,7,Nighthawks,World Class,36.95,1982
+07/03,San Jose,CA,7,Seattle Imperials,World Class,49.75,1982
+07/03,San Jose,CA,8,Velvet Knights,World Class,43.6,1982
+07/03,San Jose,CA,9,Blue Stars,World Class,30.1,1982
+07/03,Wheaton,IL,1,Imperial Guard,World Class,55.5,1982
+07/04,Kitchner,Ontario,1,Garfield Cadets,World Class,76.95,1982
+07/04,Stockton,CA,1,Blue Devils,World Class,79.95,1982
+07/04,East Troy,WI,1,Saginaires,World Class,54.1,1982
+07/03,Wheaton,IL,2,Black Knights,World Class,44.4,1982
+07/04,Kitchner,Ontario,2,Cavaliers,World Class,71.5,1982
+07/04,Stockton,CA,2,Sky Ryders,World Class,67.3,1982
+07/04,East Troy,WI,2,Pioneer,World Class,48.1,1982
+07/03,Wheaton,IL,3,Coachmen,World Class,39.3,1982
+07/04,Kitchner,Ontario,3,Rivermen,World Class,50.0,1982
+07/04,Stockton,CA,3,Freelancers,World Class,66.95,1982
+07/04,East Troy,WI,3,Kilties,World Class,27.9,1982
+07/03,Wheaton,IL,4,Royal Grenadiers,World Class,38.3,1982
+07/04,Kitchner,Ontario,4,Les Chatelaines,World Class,47.55,1982
+07/04,Stockton,CA,4,Valley Fever,World Class,53.0,1982
+07/04,East Troy,WI,4,Racine Scouts,World Class,4.8,1982
+07/03,Wheaton,IL,5,Illiana Lancers,World Class,36.0,1982
+07/04,Kitchner,Ontario,5,Guardsmen,World Class,46.0,1982
+07/04,Stockton,CA,5,Troopers,World Class,52.95,1982
+07/03,Wheaton,IL,6,Vaqueros,World Class,30.3,1982
+07/04,Kitchner,Ontario,6,Ventures,World Class,32.05,1982
+07/04,Stockton,CA,6,Seattle Imperials,World Class,49.1,1982
+07/04,Kitchner,Ontario,7,Kiwanis Kavaliers,World Class,25.75,1982
+07/04,Stockton,CA,7,Velvet Knights,World Class,47.95,1982
+07/04,Stockton,CA,8,Anaheim Kingsmen,World Class,42.2,1982
+07/04,Stockton,CA,9,Blue Stars,World Class,30.6,1982
+07/04,Waterloo,Ontario,1,Garfield Cadets,World Class,76.95,1982
+07/04,Saint Paul,MN,1,Emerald Knights,World Class,59.7,1982
+07/04,Champaign,IL,1,Imperial Guard,World Class,65.4,1982
+07/05,Montgomery,AL,1,Crossmen,World Class,75.95,1982
+07/04,Waterloo,Ontario,2,Cavaliers,World Class,71.5,1982
+07/04,Saint Paul,MN,2,Americanos,World Class,57.2,1982
+07/04,Champaign,IL,2,Royal Grenadiers,World Class,61.8,1982
+07/05,Montgomery,AL,2,27th Lancers,World Class,73.2,1982
+07/04,Waterloo,Ontario,3,Rivermen,World Class,50.0,1982
+07/04,Saint Paul,MN,3,Marquis,World Class,52.2,1982
+07/04,Champaign,IL,3,Black Knights,World Class,61.1,1982
+07/05,Montgomery,AL,3,Spirit of Atlanta,World Class,69.95,1982
+07/04,Waterloo,Ontario,4,Les Chatelaines,World Class,47.55,1982
+07/04,Saint Paul,MN,4,Minnesota Brass,World Class,49.2,1982
+07/04,Champaign,IL,4,Coachmen,World Class,56.7,1982
+07/05,Montgomery,AL,4,Memphis Blues,World Class,58.9,1982
+07/04,Waterloo,Ontario,5,Guardsmen,World Class,46.0,1982
+07/04,Saint Paul,MN,5,CapitolAires,World Class,47.9,1982
+07/04,Champaign,IL,5,Illiana Lancers,World Class,55.0,1982
+07/05,Montgomery,AL,5,Pride of Cincinnati,World Class,40.7,1982
+07/04,Waterloo,Ontario,6,Ventures,World Class,33.35,1982
+07/04,Waterloo,Ontario,7,Kiwanis Kavaliers,World Class,25.75,1982
+07/05,Pensacola,FL,1,Bridgemen,World Class,74.7,1982
+07/05,Dixon,IL,1,Royal Grenadiers,World Class,60.2,1982
+07/05,New Berlin,WI,1,Saginaires,World Class,65.5,1982
+07/06,Austin,TX,1,Phantom Regiment,World Class,81.15,1982
+07/05,Pensacola,FL,2,Suncoast Sound,World Class,63.8,1982
+07/05,Dixon,IL,2,Coachmen,World Class,57.0,1982
+07/05,New Berlin,WI,2,Pioneer,World Class,54.0,1982
+07/06,Austin,TX,2,Madison Scouts,World Class,77.35,1982
+07/05,Pensacola,FL,3,North Star,World Class,62.95,1982
+07/05,Dixon,IL,3,Hornets,World Class,50.5,1982
+07/05,New Berlin,WI,3,Spirit of '76,World Class,53.1,1982
+07/06,Austin,TX,3,Knights,World Class,58.45,1982
+07/05,Pensacola,FL,4,Defenders,World Class,58.3,1982
+07/05,Dixon,IL,4,Wausau Story,World Class,49.7,1982
+07/05,New Berlin,WI,4,Marquis,World Class,46.6,1982
+07/06,Austin,TX,4,San Jose Raiders,World Class,55.85,1982
+07/05,Pensacola,FL,5,Avant Garde,World Class,50.2,1982
+07/05,New Berlin,WI,5,Imperials-IL,World Class,41.0,1982
+07/06,Austin,TX,5,Colts,World Class,46.35,1982
+07/05,Pensacola,FL,6,Southernaires,World Class,32.0,1982
+07/05,New Berlin,WI,6,Pioneer II,World Class,40.2,1982
+07/06,Austin,TX,6,Nighthawks,World Class,34.95,1982
+07/05,Pensacola,FL,7,Florida Wave,World Class,29.1,1982
+07/06,Huntsville,AL,1,Crossmen,World Class,76.3,1982
+07/06,Montreal,Quebec,1,Garfield Cadets,World Class,73.45,1982
+07/06,Valdosta,GA,1,Bridgemen,World Class,74.65,1982
+07/07,Brunswick,ME,1,Garfield Cadets,World Class,75.85,1982
+07/06,Huntsville,AL,2,27th Lancers,World Class,73.65,1982
+07/06,Montreal,Quebec,2,Cavaliers,World Class,68.3,1982
+07/06,Valdosta,GA,2,Spirit of Atlanta,World Class,72.6,1982
+07/07,Brunswick,ME,2,Alliance,World Class,56.0,1982
+07/06,Huntsville,AL,3,Suncoast Sound,World Class,65.45,1982
+07/06,Montreal,Quebec,3,Rivermen,World Class,48.1,1982
+07/06,Valdosta,GA,3,Defenders,World Class,62.8,1982
+07/07,Brunswick,ME,3,Rivermen,World Class,50.25,1982
+07/06,Huntsville,AL,4,North Star,World Class,63.15,1982
+07/06,Montreal,Quebec,4,Les Eclipses,World Class,46.35,1982
+07/06,Valdosta,GA,4,Avant Garde,World Class,52.2,1982
+07/07,Brunswick,ME,4,Les Eclipses,World Class,49.45,1982
+07/06,Huntsville,AL,5,Memphis Blues,World Class,56.9,1982
+07/06,Montreal,Quebec,5,Guardsmen,World Class,44.35,1982
+07/06,Valdosta,GA,5,Southwind,World Class,47.4,1982
+07/07,Brunswick,ME,5,Guardsmen,World Class,45.3,1982
+07/06,Huntsville,AL,6,Southernaires,World Class,30.75,1982
+07/06,Montreal,Quebec,6,Les Chatelaines,World Class,39.95,1982
+07/06,Valdosta,GA,6,Pride of Cincinnati,World Class,40.75,1982
+07/07,Brunswick,ME,6,Les Chatelaines,World Class,42.4,1982
+07/06,Montreal,Quebec,7,Les Etoiles,World Class,37.15,1982
+07/06,Valdosta,GA,7,Florida Wave,World Class,25.45,1982
+07/07,Sevierville,TN,1,Crossmen,World Class,74.7,1982
+07/08,Dallas,TX,1,Phantom Regiment,World Class,81.05,1982
+07/08,Cullowhee,NC,1,Crossmen,World Class,76.95,1982
+07/08,Malden,MA,1,Garfield Cadets,World Class,74.15,1982
+07/07,Sevierville,TN,2,27th Lancers,World Class,73.2,1982
+07/08,Dallas,TX,2,Madison Scouts,World Class,79.3,1982
+07/08,Cullowhee,NC,2,27th Lancers,World Class,74.8,1982
+07/08,Malden,MA,2,Cavaliers,World Class,70.1,1982
+07/07,Sevierville,TN,3,Suncoast Sound,World Class,65.25,1982
+07/08,Dallas,TX,3,Knights,World Class,62.45,1982
+07/08,Cullowhee,NC,3,Suncoast Sound,World Class,66.35,1982
+07/08,Malden,MA,3,Alliance,World Class,50.1,1982
+07/07,Sevierville,TN,4,North Star,World Class,61.5,1982
+07/08,Dallas,TX,4,San Jose Raiders,World Class,61.2,1982
+07/08,Cullowhee,NC,4,Memphis Blues,World Class,56.25,1982
+07/08,Malden,MA,4,Rivermen,World Class,49.1,1982
+07/07,Sevierville,TN,5,Memphis Blues,World Class,57.95,1982
+07/08,Dallas,TX,5,Colts,World Class,51.2,1982
+07/08,Cullowhee,NC,5,Pride of Cincinnati,World Class,42.95,1982
+07/08,Malden,MA,5,Les Eclipses,World Class,48.8,1982
+07/07,Sevierville,TN,6,Pride of Cincinnati,World Class,40.7,1982
+07/08,Dallas,TX,6,Emerald Knights,World Class,32.35,1982
+07/08,Cullowhee,NC,6,Southernaires,World Class,31.15,1982
+07/08,Malden,MA,6,Guardsmen,World Class,44.7,1982
+07/07,Sevierville,TN,7,Southernaires,World Class,29.85,1982
+07/08,Malden,MA,7,Les Chatelaines,World Class,40.9,1982
+07/08,Ogden,UT,1,Vanguard,World Class,79.4,1982
+07/08,Cullowhee,NC,1,Crossmen,World Class,76.95,1982
+07/08,Malden,MA,1,Garfield Cadets,World Class,74.15,1982
+07/08,Ogden,UT,1,Vanguard,World Class,79.4,1982
+07/08,Ogden,UT,2,Freelancers,World Class,71.65,1982
+07/08,Cullowhee,NC,2,27th Lancers,World Class,74.8,1982
+07/08,Malden,MA,2,Cavaliers,World Class,70.1,1982
+07/08,Ogden,UT,2,Freelancers,World Class,71.65,1982
+07/08,Ogden,UT,3,Sky Ryders,World Class,68.15,1982
+07/08,Cullowhee,NC,3,Suncoast Sound,World Class,66.35,1982
+07/08,Malden,MA,3,Alliance,World Class,50.1,1982
+07/08,Ogden,UT,3,Sky Ryders,World Class,68.15,1982
+07/08,Ogden,UT,4,Troopers,World Class,60.15,1982
+07/08,Cullowhee,NC,4,Memphis Blues,World Class,56.25,1982
+07/08,Malden,MA,4,Rivermen,World Class,49.1,1982
+07/08,Ogden,UT,4,Troopers,World Class,60.15,1982
+07/08,Ogden,UT,5,Valley Fever,World Class,56.8,1982
+07/08,Cullowhee,NC,5,Pride of Cincinnati,World Class,42.95,1982
+07/08,Malden,MA,5,Les Eclipses,World Class,48.8,1982
+07/08,Ogden,UT,5,Valley Fever,World Class,56.8,1982
+07/08,Ogden,UT,6,Blue Stars,World Class,56.65,1982
+07/08,Cullowhee,NC,6,Southernaires,World Class,31.15,1982
+07/08,Malden,MA,6,Guardsmen,World Class,44.7,1982
+07/08,Ogden,UT,6,Blue Stars,World Class,56.65,1982
+07/08,Malden,MA,7,Les Chatelaines,World Class,40.9,1982
+07/08,Portland,OR,1,Seattle Imperials,World Class,56.8,1982
+07/09,Garfield,NJ,1,Garfield Cadets,World Class,77.0,1982
+07/09,Tulsa,OK,1,Knights,World Class,64.05,1982
+07/09,Westminster,MD,1,Crossmen,World Class,77.85,1982
+07/08,Portland,OR,2,Blue Devils B,World Class,31.1,1982
+07/09,Garfield,NJ,2,Bridgemen,World Class,75.0,1982
+07/09,Tulsa,OK,2,San Jose Raiders,World Class,61.2,1982
+07/09,Westminster,MD,2,Spirit of Atlanta,World Class,74.35,1982
+07/08,Portland,OR,3,Black Watch,World Class,23.4,1982
+07/09,Garfield,NJ,3,Cavaliers,World Class,73.4,1982
+07/09,Tulsa,OK,3,Colts,World Class,52.7,1982
+07/09,Westminster,MD,3,North Star,World Class,63.65,1982
+07/08,Portland,OR,4,Seattle Cascades,World Class,23.0,1982
+07/09,Garfield,NJ,4,Rivermen,World Class,51.4,1982
+07/09,Tulsa,OK,4,Imperial Guard,World Class,39.1,1982
+07/09,Westminster,MD,4,Defenders,World Class,60.1,1982
+07/08,Portland,OR,5,Conquistadors,World Class,19.9,1982
+07/09,Garfield,NJ,5,Guardsmen,World Class,40.35,1982
+07/09,Tulsa,OK,5,Black Knights,World Class,38.15,1982
+07/09,Westminster,MD,5,Alliance,World Class,51.9,1982
+07/09,Tulsa,OK,6,Emerald Knights,World Class,32.55,1982
+07/09,Westminster,MD,6,Avant Garde,World Class,48.9,1982
+07/09,Westminster,MD,7,Southwind,World Class,41.2,1982
+07/09,Flint,MI,1,Saginaires,World Class,70.1,1982
+07/09,Salem,OR,1,Seattle Imperials,World Class,55.5,1982
+07/09,Allentown,PA,1,Les Chatelaines,World Class,55.4,1982
+07/10,Denver,CO,1,Blue Devils,World Class,84.0,1982
+07/09,Flint,MI,2,Crimson Cadets,World Class,62.4,1982
+07/09,Salem,OR,2,Argonauts,World Class,33.9,1982
+07/09,Allentown,PA,2,Arbella,World Class,53.0,1982
+07/10,Denver,CO,2,Phantom Regiment,World Class,82.55,1982
+07/09,Flint,MI,3,Golden Garrison,World Class,61.6,1982
+07/09,Salem,OR,3,Blue Devils B,World Class,31.3,1982
+07/09,Allentown,PA,3,Les Etoiles,World Class,50.45,1982
+07/10,Denver,CO,3,Vanguard,World Class,79.05,1982
+07/09,Flint,MI,4,Royal Grenadiers,World Class,57.0,1982
+07/09,Salem,OR,4,Black Watch,World Class,25.6,1982
+07/09,Allentown,PA,4,Valley Airs,World Class,47.55,1982
+07/10,Denver,CO,4,Madison Scouts,World Class,78.0,1982
+07/09,Flint,MI,5,Bluewater Buccaneers,World Class,55.7,1982
+07/09,Salem,OR,5,Seattle Cascades,World Class,21.9,1982
+07/09,Allentown,PA,5,Saint Ignatius,World Class,45.95,1982
+07/10,Denver,CO,5,Freelancers,World Class,73.55,1982
+07/09,Flint,MI,6,Bandettes,World Class,45.8,1982
+07/09,Salem,OR,6,Marauders,World Class,21.5,1982
+07/09,Allentown,PA,6,Volunteers,World Class,42.7,1982
+07/10,Denver,CO,6,Sky Ryders,World Class,72.05,1982
+07/09,Salem,OR,7,Conquistadors,World Class,20.2,1982
+07/09,Allentown,PA,7,Fantasia,World Class,38.8,1982
+07/10,Denver,CO,7,Troopers,World Class,59.75,1982
+07/09,Allentown,PA,8,PAL Cadets,World Class,35.95,1982
+07/10,Denver,CO,8,Valley Fever,World Class,55.25,1982
+07/09,Allentown,PA,9,Fusion,World Class,35.15,1982
+07/10,Denver,CO,9,Blue Knights,World Class,36.0,1982
+07/09,Allentown,PA,10,Black Watch-NJ,World Class,32.2,1982
+07/10,Denver,CO,10,Blue Stars,World Class,35.75,1982
+07/09,Allentown,PA,11,Pioneer Scouts,World Class,31.4,1982
+07/09,Allentown,PA,12,Queensmen,World Class,26.65,1982
+07/09,Allentown,PA,13,Buccaneers,World Class,26.25,1982
+07/09,Allentown,PA,14,Cambria Cadets,World Class,25.75,1982
+07/09,Allentown,PA,15,Commanders,World Class,24.95,1982
+07/09,Allentown,PA,16,Mello-Dears,World Class,21.3,1982
+07/09,Allentown,PA,17,Firebirds,World Class,20.95,1982
+07/10,Allentown,PA,1,Crossmen,World Class,79.75,1982
+07/10,Allentown,PA,1,Garfield Cadets,World Class,80.5,1982
+07/10,Meadowlands,NJ,1,Westshoremen,World Class,82.8,1982
+07/11,Fort Wayne,IN,1,Rivermen,World Class,73.4,1982
+07/10,Allentown,PA,2,Garfield Cadets,World Class,78.35,1982
+07/10,Allentown,PA,2,Crossmen,World Class,79.5,1982
+07/10,Meadowlands,NJ,2,New York Skyliners,World Class,81.35,1982
+07/11,Fort Wayne,IN,1,Guardsmen,World Class,73.4,1982
+07/10,Allentown,PA,3,Bridgemen,World Class,77.65,1982
+07/10,Allentown,PA,3,Bridgemen,World Class,77.65,1982
+07/10,Meadowlands,NJ,3,Sunrisers,World Class,80.7,1982
+07/11,Fort Wayne,IN,3,Saginaires,World Class,70.0,1982
+07/10,Allentown,PA,4,27th Lancers,World Class,74.7,1982
+07/10,Allentown,PA,4,Cavaliers,World Class,76.2,1982
+07/10,Meadowlands,NJ,4,Connecticut Hurricanes,World Class,79.35,1982
+07/11,Fort Wayne,IN,4,Glassmen,World Class,63.3,1982
+07/10,Allentown,PA,5,Cavaliers,World Class,73.7,1982
+07/10,Allentown,PA,5,27th Lancers,World Class,75.05,1982
+07/10,Meadowlands,NJ,5,Reading Buccaneers,World Class,72.5,1982
+07/11,Fort Wayne,IN,5,Royal Grenadiers,World Class,61.3,1982
+07/10,Allentown,PA,6,Spirit of Atlanta,World Class,72.65,1982
+07/10,Allentown,PA,6,Spirit of Atlanta,World Class,71.7,1982
+07/10,Meadowlands,NJ,6,Matadors,World Class,48.3,1982
+07/11,Fort Wayne,IN,6,Coachmen,World Class,56.1,1982
+07/10,Allentown,PA,7,North Star,World Class,64.4,1982
+07/10,Allentown,PA,7,North Star,World Class,65.65,1982
+07/10,Allentown,PA,8,Suncoast Sound,World Class,60.4,1982
+07/10,Allentown,PA,8,Suncoast Sound,World Class,63.6,1982
+07/10,Allentown,PA,9,Alliance,World Class,59.3,1982
+07/10,Allentown,PA,9,Alliance,World Class,59.0,1982
+07/10,Allentown,PA,10,Defenders,World Class,59.15,1982
+07/10,Allentown,PA,10,Defenders,World Class,57.1,1982
+07/10,Allentown,PA,11,Memphis Blues,World Class,55.6,1982
+07/10,Allentown,PA,11,Memphis Blues,World Class,53.35,1982
+07/10,Allentown,PA,12,Les Eclipses,World Class,52.05,1982
+07/10,Allentown,PA,12,Les Eclipses,World Class,48.4,1982
+07/10,Allentown,PA,13,Rivermen,World Class,50.35,1982
+07/10,Allentown,PA,14,Avant Garde,World Class,50.1,1982
+07/10,Allentown,PA,15,Guardsmen,World Class,48.1,1982
+07/10,Allentown,PA,16,Pride of Cincinnati,World Class,41.35,1982
+07/10,Allentown,PA,17,Southwind,World Class,40.15,1982
+07/10,Allentown,PA,18,Fantasia III,World Class,38.8,1982
+07/10,Allentown,PA,19,Nighthawks,World Class,36.15,1982
+07/10,Allentown,PA,20,Patriots,World Class,34.1,1982
+07/10,Allentown,PA,21,CMCC Warriors,World Class,27.4,1982
+07/11,Great Bend,KS,1,Phantom Regiment,World Class,80.8,1982
+07/11,Fox Lake,IL,1,Knights,World Class,77.9,1982
+07/12,Kansas,MI,1,Phantom Regiment,World Class,83.45,1982
+07/12,Spartanburg,SC,1,Spirit of Atlanta,World Class,79.6,1982
+07/11,Great Bend,KS,2,Sky Ryders,World Class,71.6,1982
+07/11,Fox Lake,IL,2,Colts,World Class,70.2,1982
+07/12,Kansas,MI,2,Madison Scouts,World Class,79.85,1982
+07/12,Spartanburg,SC,2,Suncoast Sound,World Class,73.9,1982
+07/11,Great Bend,KS,3,Troopers,World Class,61.25,1982
+07/11,Fox Lake,IL,3,Pioneer,World Class,57.4,1982
+07/12,Kansas,MI,3,Sky Ryders,World Class,75.05,1982
+07/12,Spartanburg,SC,3,Memphis Blues,World Class,69.3,1982
+07/11,Great Bend,KS,4,Imperial Guard,World Class,46.85,1982
+07/11,Fox Lake,IL,4,Americanos,World Class,49.9,1982
+07/12,Kansas,MI,4,Troopers,World Class,68.55,1982
+07/12,Spartanburg,SC,4,Southwind,World Class,51.6,1982
+07/11,Great Bend,KS,5,Blue Knights,World Class,39.35,1982
+07/11,Fox Lake,IL,5,Illiana Lancers,World Class,46.3,1982
+07/12,Kansas,MI,5,Imperial Guard,World Class,43.65,1982
+07/12,Spartanburg,SC,5,Southernaires,World Class,44.3,1982
+07/11,Great Bend,KS,6,Blue Stars,World Class,39.0,1982
+07/11,Fox Lake,IL,6,Vaqueros,World Class,45.5,1982
+07/12,Kansas,MI,6,Blue Stars,World Class,37.9,1982
+07/12,Spartanburg,SC,6,Nighthawks,World Class,38.2,1982
+07/11,Fox Lake,IL,7,Kilties,World Class,41.2,1982
+07/11,Fox Lake,IL,8,Imperials-IL,World Class,17.8,1982
+07/13,Omaha,NE,1,Phantom Regiment,World Class,84.35,1982
+07/13,South Pittsburgh,PA,1,Spirit of Atlanta,World Class,83.1,1982
+07/16,Salinas,CA,1,Vanguard,World Class,81.5,1982
+07/17,Clifton,NJ,1,Garfield Cadets,World Class,80.5,1982
+07/13,Omaha,NE,2,Sky Ryders,World Class,74.15,1982
+07/13,South Pittsburgh,PA,2,Suncoast Sound,World Class,76.1,1982
+07/16,Salinas,CA,2,San Jose Raiders,World Class,61.25,1982
+07/17,Clifton,NJ,2,Bridgemen,World Class,79.7,1982
+07/13,Omaha,NE,3,Troopers,World Class,63.0,1982
+07/13,South Pittsburgh,PA,3,Memphis Blues,World Class,72.2,1982
+07/16,Salinas,CA,3,Velvet Knights,World Class,56.55,1982
+07/17,Clifton,NJ,3,Les Eclipses,World Class,57.0,1982
+07/13,Omaha,NE,4,Imperial Guard,World Class,40.15,1982
+07/13,South Pittsburgh,PA,4,Southwind,World Class,55.6,1982
+07/16,Salinas,CA,4,Anaheim Kingsmen,World Class,51.05,1982
+07/17,Clifton,NJ,4,Fantasia III,World Class,42.3,1982
+07/13,Omaha,NE,5,Blue Stars,World Class,36.85,1982
+07/13,South Pittsburgh,PA,5,Southernaires,World Class,46.0,1982
+07/16,Salinas,CA,5,Blue Knights,World Class,38.35,1982
+07/13,Omaha,NE,6,Crimson Cadets,World Class,31.45,1982
+07/13,South Pittsburgh,PA,6,Nighthawks,World Class,42.6,1982
+07/13,South Pittsburgh,PA,7,Black Knights,World Class,38.1,1982
+07/17,Titusville,PA,1,Bluecoats,World Class,67.6,1982
+07/17,Kankakee,IL,1,Cavaliers,World Class,76.95,1982
+07/17,Minneapolis,MN,1,Colts,World Class,58.15,1982
+07/17,Modesto,CA,1,Blue Devils,World Class,83.6,1982
+07/17,Titusville,PA,2,Les Adventuriers,World Class,60.0,1982
+07/17,Kankakee,IL,2,Guardsmen,World Class,61.9,1982
+07/17,Minneapolis,MN,2,Rivermen,World Class,55.9,1982
+07/17,Modesto,CA,2,Vanguard,World Class,80.95,1982
+07/17,Titusville,PA,3,Cambria Cadets,World Class,51.0,1982
+07/17,Kankakee,IL,3,Saginaires,World Class,59.65,1982
+07/17,Minneapolis,MN,3,Blue Stars,World Class,40.2,1982
+07/17,Modesto,CA,3,Freelancers,World Class,74.3,1982
+07/17,Titusville,PA,4,Barons of Steen,World Class,42.6,1982
+07/17,Kankakee,IL,4,Imperial Guard,World Class,58.6,1982
+07/17,Minneapolis,MN,4,Emerald Knights,World Class,36.45,1982
+07/17,Modesto,CA,4,Valley Fever,World Class,61.8,1982
+07/17,Kankakee,IL,5,Americanos,World Class,47.75,1982
+07/17,Modesto,CA,5,San Jose Raiders,World Class,61.45,1982
+07/17,Titusville,PA,1,Ohio Brass Factory,World Class,71.8,1982
+07/17,Modesto,CA,6,Velvet Knights,World Class,52.5,1982
+07/17,Titusville,PA,2,Erie Thunderbirds,World Class,69.2,1982
+07/17,Modesto,CA,7,Anaheim Kingsmen,World Class,51.5,1982
+07/17,Modesto,CA,8,Blue Knights,World Class,36.25,1982
+07/17,Utica,NY,1,Volunteers,World Class,45.15,1982
+07/17,Carlisle,PA,1,Westshoremen,World Class,82.8,1982
+07/18,Shelton,CT,1,Connecticut Hurricanes,World Class,79.55,1982
+07/18,Bayonne,NJ,1,Bridgemen,World Class,80.25,1982
+07/17,Utica,NY,2,Fusion,World Class,42.25,1982
+07/17,Carlisle,PA,2,Hawthorne Caballeros,World Class,81.35,1982
+07/18,Shelton,CT,2,Hawthorne Caballeros,World Class,78.55,1982
+07/18,Bayonne,NJ,2,Garfield Cadets,World Class,78.5,1982
+07/17,Utica,NY,3,Gauchos,World Class,39.1,1982
+07/17,Carlisle,PA,3,Sunrisers,World Class,80.7,1982
+07/18,Shelton,CT,3,Sunrisers,World Class,78.05,1982
+07/18,Bayonne,NJ,3,Crossmen,World Class,78.2,1982
+07/17,Utica,NY,4,Firebirds,World Class,34.25,1982
+07/17,Carlisle,PA,4,New York Skyliners,World Class,79.35,1982
+07/18,Shelton,CT,4,New York Skyliners,World Class,76.2,1982
+07/18,Bayonne,NJ,4,Les Eclipses,World Class,58.3,1982
+07/17,Utica,NY,5,Eagles of Central NY,World Class,31.2,1982
+07/17,Carlisle,PA,5,Reading Buccaneers,World Class,71.5,1982
+07/18,Shelton,CT,5,Matadors,World Class,64.35,1982
+07/18,Bayonne,NJ,5,Fantasia III,World Class,43.55,1982
+07/17,Utica,NY,6,Mello-Dears,World Class,17.65,1982
+07/17,Carlisle,PA,6,Rochester Crusaders,World Class,48.3,1982
+07/18,Shelton,CT,6,Bushwackers,World Class,57.55,1982
+07/18,San Jose,CA,1,Vanguard,World Class,84.4,1982
+07/18,Fon du Lac,WI,1,Pioneer,World Class,67.8,1982
+07/18,Stillwater,MN,1,Colts,World Class,60.2,1982
+07/21,Gustine,CA,1,Valley Fever,World Class,60.25,1982
+07/18,San Jose,CA,2,Freelancers,World Class,75.6,1982
+07/18,Fon du Lac,WI,2,Americanos,World Class,62.2,1982
+07/18,Stillwater,MN,2,Rivermen,World Class,59.3,1982
+07/21,Gustine,CA,2,Velvet Knights,World Class,57.95,1982
+07/18,San Jose,CA,3,Velvet Knights,World Class,55.5,1982
+07/18,Fon du Lac,WI,3,Wausau Story,World Class,54.5,1982
+07/18,Stillwater,MN,3,Blue Stars,World Class,44.25,1982
+07/21,Gustine,CA,3,Blue Knights,World Class,43.35,1982
+07/18,San Jose,CA,4,Anaheim Kingsmen,World Class,55.2,1982
+07/18,Fon du Lac,WI,4,CapitolAires,World Class,52.2,1982
+07/18,Stillwater,MN,4,Emerald Knights,World Class,43.05,1982
+07/18,San Jose,CA,5,San Jose Raiders,World Class,54.3,1982
+07/18,Fon du Lac,WI,5,Kilties,World Class,49.5,1982
+07/18,San Jose,CA,6,Blue Knights,World Class,32.7,1982
+07/18,Fon du Lac,WI,6,Pioneer II,World Class,43.5,1982
+07/23,Corning,NY,1,Bridgemen,World Class,80.15,1982
+07/23,Arlington Heights,IL,1,Cavaliers,World Class,79.25,1982
+07/23,Madison,WI,1,Madison Scouts,World Class,79.8,1982
+07/23,Sacramento,CA,1,Blue Devils,World Class,85.05,1982
+07/23,Corning,NY,2,North Star,World Class,70.95,1982
+07/23,Arlington Heights,IL,2,Knights,World Class,74.0,1982
+07/23,Madison,WI,2,Colts,World Class,57.0,1982
+07/23,Sacramento,CA,2,Vanguard,World Class,80.55,1982
+07/23,Corning,NY,3,Alliance,World Class,67.7,1982
+07/23,Arlington Heights,IL,3,Saginaires,World Class,59.85,1982
+07/23,Madison,WI,3,Blue Stars,World Class,47.55,1982
+07/23,Sacramento,CA,3,Freelancers,World Class,78.5,1982
+07/23,Corning,NY,4,Avant Garde,World Class,57.35,1982
+07/23,Arlington Heights,IL,4,Pioneer,World Class,51.9,1982
+07/23,Madison,WI,4,Americanos,World Class,38.6,1982
+07/23,Sacramento,CA,4,San Jose Raiders,World Class,62.5,1982
+07/23,Corning,NY,5,Fusion,World Class,41.95,1982
+07/23,Arlington Heights,IL,5,Imperial Guard,World Class,49.25,1982
+07/23,Madison,WI,5,Marquis,World Class,27.4,1982
+07/23,Sacramento,CA,5,Velvet Knights,World Class,61.15,1982
+07/23,Arlington Heights,IL,6,Vaqueros,World Class,33.65,1982
+07/23,Sacramento,CA,6,Valley Fever,World Class,60.7,1982
+07/23,Arlington Heights,IL,7,Kilties,World Class,23.35,1982
+07/23,Sacramento,CA,7,Anaheim Kingsmen,World Class,55.55,1982
+07/23,Sacramento,CA,8,Blue Knights,World Class,41.8,1982
+07/24,Providence,RI,1,Sunrisers,World Class,77.1,1982
+07/24,DeKalb,IL,1,Phantom Regiment,World Class,83.85,1982
+07/24,DeKalb,IL,1,Phantom Regiment,World Class,84.55,1982
+07/24,DeKalb,IL,1,Phantom Regiment,World Class,85.4,1982
+07/24,Providence,RI,2,Connecticut Hurricanes,World Class,74.35,1982
+07/24,DeKalb,IL,2,Madison Scouts,World Class,83.75,1982
+07/24,DeKalb,IL,1,Madison Scouts,World Class,84.55,1982
+07/24,DeKalb,IL,2,Madison Scouts,World Class,85.0,1982
+07/24,Providence,RI,3,Hawthorne Caballeros,World Class,73.4,1982
+07/24,DeKalb,IL,3,Cavaliers,World Class,78.05,1982
+07/24,DeKalb,IL,3,Cavaliers,World Class,79.1,1982
+07/24,Providence,RI,4,Les Allouettes,World Class,46.2,1982
+07/24,DeKalb,IL,4,Knights,World Class,72.95,1982
+07/24,DeKalb,IL,4,Knights,World Class,72.65,1982
+07/24,DeKalb,IL,5,Colts,World Class,61.9,1982
+07/24,DeKalb,IL,5,Colts,World Class,59.8,1982
+07/24,DeKalb,IL,6,Rivermen,World Class,61.25,1982
+07/24,DeKalb,IL,6,Rivermen,World Class,58.45,1982
+07/24,DeKalb,IL,7,Saginaires,World Class,60.05,1982
+07/24,DeKalb,IL,7,Saginaires,World Class,56.65,1982
+07/24,DeKalb,IL,8,Guardsmen,World Class,55.35,1982
+07/24,DeKalb,IL,8,Pioneer,World Class,49.5,1982
+07/24,DeKalb,IL,9,Pioneer,World Class,54.6,1982
+07/24,DeKalb,IL,9,Guardsmen,World Class,49.3,1982
+07/24,DeKalb,IL,10,Imperial Guard,World Class,53.3,1982
+07/24,DeKalb,IL,10,Imperial Guard,World Class,46.35,1982
+07/24,DeKalb,IL,11,Emerald Knights,World Class,53.05,1982
+07/24,DeKalb,IL,12,Golden Garrison,World Class,52.5,1982
+07/24,DeKalb,IL,13,Royal Grenadiers,World Class,47.4,1982
+07/24,DeKalb,IL,14,Americanos,World Class,45.85,1982
+07/24,DeKalb,IL,15,Blue Stars,World Class,45.15,1982
+07/24,DeKalb,IL,16,Coachmen,World Class,40.05,1982
+07/24,DeKalb,IL,17,Illiana Lancers,World Class,39.0,1982
+07/24,DeKalb,IL,18,CapitolAires,World Class,36.1,1982
+07/24,DeKalb,IL,19,Vaqueros,World Class,35.4,1982
+07/24,DeKalb,IL,20,Flint Royalaires,World Class,31.45,1982
+07/24,DeKalb,IL,21,Hornets,World Class,30.7,1982
+07/24,DeKalb,IL,22,Kilties,World Class,28.7,1982
+07/24,DeKalb,IL,23,Marquis,World Class,28.35,1982
+07/24,DeKalb,IL,24,Wausau Story,World Class,27.8,1982
+07/24,DeKalb,IL,25,Northmen-WI,World Class,24.75,1982
+07/24,DeKalb,IL,26,Imperials-IL,World Class,17.95,1982
+07/24,DeKalb,IL,27,Racine Scouts,World Class,11.3,1982
+07/24,Hershey,PA,1,Crossmen,World Class,81.1,1982
+07/24,New Orleans,LA,1,Sky Ryders,World Class,77.9,1982
+07/24,Concord,CA,1,Blue Devils,World Class,85.0,1982
+07/24,Fulton,NY,1,North Star,World Class,68.1,1982
+07/24,Hershey,PA,2,Garfield Cadets,World Class,79.3,1982
+07/24,New Orleans,LA,2,Spirit of Atlanta,World Class,77.1,1982
+07/24,Concord,CA,2,Vanguard,World Class,81.65,1982
+07/24,Fulton,NY,2,Les Eclipses,World Class,59.05,1982
+07/24,Hershey,PA,3,Bridgemen,World Class,78.8,1982
+07/24,New Orleans,LA,3,Suncoast Sound,World Class,73.2,1982
+07/24,Concord,CA,3,Freelancers,World Class,77.95,1982
+07/24,Fulton,NY,3,Renegades,World Class,50.45,1982
+07/24,Hershey,PA,4,Fantasia III,World Class,49.3,1982
+07/24,New Orleans,LA,4,Memphis Blues,World Class,66.1,1982
+07/24,Concord,CA,4,Velvet Knights,World Class,62.0,1982
+07/24,Fulton,NY,4,Firebirds,World Class,29.7,1982
+07/24,Hershey,PA,5,Fusion,World Class,36.7,1982
+07/24,New Orleans,LA,5,Southwind,World Class,54.4,1982
+07/24,Concord,CA,5,Valley Fever,World Class,61.0,1982
+07/24,Fulton,NY,5,Eagles of Central NY,World Class,28.4,1982
+07/24,New Orleans,LA,6,Southernaires,World Class,41.4,1982
+07/24,Concord,CA,6,San Jose Raiders,World Class,59.0,1982
+07/24,Fulton,NY,6,Barons of Stueben,World Class,26.25,1982
+07/24,New Orleans,LA,7,Nighthawks,World Class,38.8,1982
+07/24,Concord,CA,7,Anaheim Kingsmen,World Class,54.2,1982
+07/24,Concord,CA,8,Blue Knights,World Class,41.45,1982
+07/24,Concord,CA,9,Blue Devils B,World Class,35.55,1982
+07/24,Providence,RI,1,Sunrisers,World Class,77.1,1982
+07/24,Erie,PA,1,Steel City Ambassadors,World Class,67.9,1982
+07/24,Providence,RI,1,Sunrisers,World Class,77.1,1982
+07/25,Dolton,IL,1,Cavaliers,World Class,82.95,1982
+07/24,Providence,RI,2,Connecticut Hurricanes,World Class,74.35,1982
+07/24,Erie,PA,2,Erie Thunderbirds,World Class,61.55,1982
+07/24,Providence,RI,2,Connecticut Hurricanes,World Class,74.35,1982
+07/25,Dolton,IL,2,Knights,World Class,75.35,1982
+07/24,Providence,RI,3,Hawthorne Caballeros,World Class,73.4,1982
+07/24,Erie,PA,3,Niagara Regionnaires,World Class,58.0,1982
+07/24,Providence,RI,3,Hawthorne Caballeros,World Class,73.4,1982
+07/25,Dolton,IL,3,Pioneer,World Class,53.45,1982
+07/24,Providence,RI,4,Les Allouettes,World Class,46.2,1982
+07/24,Erie,PA,4,Ohio Brass Factory,World Class,57.4,1982
+07/24,Providence,RI,4,Les Allouettes,World Class,46.2,1982
+07/25,Dolton,IL,4,Royal Grenadiers,World Class,48.8,1982
+07/24,Erie,PA,5,Rochester Crusaders,World Class,47.4,1982
+07/25,Dolton,IL,5,Vaqueros,World Class,36.85,1982
+07/25,Dolton,IL,6,Imperials-IL,World Class,18.3,1982
+07/25,New Brunswick,NJ,1,Garfield Cadets,World Class,81.5,1982
+07/25,Troy,NY,1,27th Lancers,World Class,79.25,1982
+07/25,Horicon,WI,1,Phantom Regiment,World Class,80.2,1982
+07/25,Lafayette,LA,1,Sky Ryders,World Class,82.0,1982
+07/25,New Brunswick,NJ,2,Crossmen,World Class,80.7,1982
+07/25,Troy,NY,2,North Star,World Class,76.95,1982
+07/25,Horicon,WI,2,Madison Scouts,World Class,80.1,1982
+07/25,Lafayette,LA,2,Spirit of Atlanta,World Class,79.5,1982
+07/25,New Brunswick,NJ,3,Bridgemen,World Class,77.6,1982
+07/25,Troy,NY,3,Alliance,World Class,68.65,1982
+07/25,Horicon,WI,3,Rivermen,World Class,67.5,1982
+07/25,Lafayette,LA,3,Suncoast Sound,World Class,74.8,1982
+07/25,New Brunswick,NJ,4,Fantasia III,World Class,50.1,1982
+07/25,Troy,NY,4,Boston Crusaders,World Class,65.25,1982
+07/25,Horicon,WI,4,Colts,World Class,65.1,1982
+07/25,Lafayette,LA,4,Memphis Blues,World Class,68.8,1982
+07/25,New Brunswick,NJ,5,Black Watch,World Class,40.3,1982
+07/25,Troy,NY,5,Les Eclipses,World Class,61.95,1982
+07/25,Horicon,WI,5,Blue Stars,World Class,46.9,1982
+07/25,Lafayette,LA,5,Southwind,World Class,50.6,1982
+07/25,Troy,NY,6,Avant Garde,World Class,60.65,1982
+07/25,Horicon,WI,6,Americanos,World Class,43.6,1982
+07/25,Lafayette,LA,6,Southernaires,World Class,45.4,1982
+07/25,New Brunswick,NJ,1,Westshoremen,World Class,85.65,1982
+07/25,Troy,NY,7,Valley Airs,World Class,43.75,1982
+07/25,Horicon,WI,7,Kilties,World Class,26.2,1982
+07/25,Lafayette,LA,7,Nighthawks,World Class,37.9,1982
+07/25,New Brunswick,NJ,2,New York Skyliners,World Class,82.6,1982
+07/25,Horicon,WI,8,Marquis,World Class,22.1,1982
+07/25,Lafayette,LA,8,Black Knights,World Class,36.8,1982
+07/25,New Brunswick,NJ,3,Reading Buccaneers,World Class,82.25,1982
+07/25,New Brunswick,NJ,4,Connecticut Hurricanes,World Class,82.15,1982
+07/25,New Brunswick,NJ,4,Sunrisers,World Class,82.15,1982
+07/25,New Brunswick,NJ,6,Hawthorne Caballeros,World Class,80.7,1982
+07/26,Houston,TX,1,Sky Ryders,World Class,82.4,1982
+07/27,Cleburne,TX,1,Sky Ryders,World Class,82.4,1982
+07/28,Monroe,LA,1,Sky Ryders,World Class,83.7,1982
+07/29,Monroe,LA,1,Spirit of Atlanta,World Class,82.4,1982
+07/26,Houston,TX,2,Spirit of Atlanta,World Class,79.1,1982
+07/27,Cleburne,TX,2,Spirit of Atlanta,World Class,80.6,1982
+07/28,Monroe,LA,2,Spirit of Atlanta,World Class,81.6,1982
+07/29,Monroe,LA,2,Suncoast Sound,World Class,78.6,1982
+07/26,Houston,TX,3,Suncoast Sound,World Class,76.1,1982
+07/27,Cleburne,TX,3,Suncoast Sound,World Class,77.3,1982
+07/28,Monroe,LA,3,Suncoast Sound,World Class,76.3,1982
+07/29,Monroe,LA,3,Memphis Blues,World Class,73.0,1982
+07/26,Houston,TX,4,Memphis Blues,World Class,68.6,1982
+07/27,Cleburne,TX,4,Southwind,World Class,48.5,1982
+07/28,Monroe,LA,4,Memphis Blues,World Class,71.9,1982
+07/29,Monroe,LA,4,Southwind,World Class,56.3,1982
+07/26,Houston,TX,5,Southernaires,World Class,45.5,1982
+07/27,Cleburne,TX,5,Nighthawks,World Class,44.3,1982
+07/28,Monroe,LA,5,Southwind,World Class,53.2,1982
+07/29,Monroe,LA,5,Southernaires,World Class,49.3,1982
+07/26,Houston,TX,6,Nighthawks,World Class,38.8,1982
+07/27,Cleburne,TX,6,Black Knights,World Class,42.0,1982
+07/28,Monroe,LA,6,Southernaires,World Class,50.3,1982
+07/29,Monroe,LA,6,Nighthawks,World Class,46.8,1982
+07/26,Houston,TX,7,Black Knights,World Class,35.5,1982
+07/28,Monroe,LA,7,Black Knights,World Class,43.8,1982
+07/29,Monroe,LA,7,Black Knights,World Class,43.1,1982
+07/30,Mobile,AL,1,Sky Ryders,World Class,82.1,1982
+07/31,Cheyenne,WY,1,Vanguard,World Class,83.65,1982
+07/31,Cedar Rapids,IA,1,Phantom Regiment,World Class,87.45,1982
+07/31,Rochester,NY,1,Connecticut Hurricanes,World Class,82.45,1982
+07/30,Mobile,AL,2,Spirit of Atlanta,World Class,81.2,1982
+07/31,Cheyenne,WY,2,Freelancers,World Class,80.6,1982
+07/31,Cedar Rapids,IA,2,Knights,World Class,76.5,1982
+07/31,Rochester,NY,2,Westshoremen,World Class,81.65,1982
+07/30,Mobile,AL,3,Memphis Blues,World Class,73.0,1982
+07/31,Cheyenne,WY,3,Troopers,World Class,66.85,1982
+07/31,Cedar Rapids,IA,3,Rivermen,World Class,62.95,1982
+07/31,Rochester,NY,3,Hawthorne Caballeros,World Class,80.9,1982
+07/30,Mobile,AL,4,Southwind,World Class,59.3,1982
+07/31,Cheyenne,WY,4,Valley Fever,World Class,64.5,1982
+07/31,Cedar Rapids,IA,4,Colts,World Class,62.8,1982
+07/31,Rochester,NY,4,New York Skyliners,World Class,80.3,1982
+07/30,Mobile,AL,5,Nighthawks,World Class,49.1,1982
+07/31,Cheyenne,WY,5,San Jose Raiders,World Class,58.75,1982
+07/31,Cedar Rapids,IA,5,Glassmen,World Class,49.95,1982
+07/31,Rochester,NY,5,Sunrisers,World Class,80.2,1982
+07/30,Mobile,AL,6,Florida Wave,World Class,42.0,1982
+07/31,Cheyenne,WY,6,Seattle Imperials,World Class,56.6,1982
+07/31,Cedar Rapids,IA,6,Blue Stars,World Class,47.4,1982
+07/31,Rochester,NY,6,Reading Buccaneers,World Class,78.15,1982
+07/31,Cheyenne,WY,7,Blue Knights,World Class,41.45,1982
+07/31,Cedar Rapids,IA,7,Imperials-IL,World Class,12.55,1982
+07/31,Rochester,NY,7,Matadors,World Class,68.3,1982
+07/31,Cheyenne,WY,8,Argonauts,World Class,37.75,1982
+07/31,Rochester,NY,8,Rochester Crusaders,World Class,56.3,1982
+07/31,Rochester,NY,9,Thunderbirds,World Class,55.45,1982
+07/31,Rochester,NY,10,Canadian Regionaires,World Class,46.65,1982
+07/31,Milwaukee,WI,1,Cavaliers,World Class,86.5,1982
+07/31,Birmingham,AL,1,Sky Ryders,World Class,83.5,1982
+07/31,Lynn,MA,1,Garfield Cadets,World Class,83.4,1982
+07/31,Lynn,MA,1,Garfield Cadets,World Class,83.35,1982
+07/31,Milwaukee,WI,2,Guardsmen,World Class,65.0,1982
+07/31,Birmingham,AL,2,Spirit of Atlanta,World Class,81.5,1982
+07/31,Lynn,MA,2,Crossmen,World Class,82.75,1982
+07/31,Lynn,MA,2,Crossmen,World Class,82.7,1982
+07/31,Milwaukee,WI,3,Americanos,World Class,49.1,1982
+07/31,Birmingham,AL,3,Memphis Blues,World Class,74.2,1982
+07/31,Lynn,MA,3,Bridgemen,World Class,81.5,1982
+07/31,Lynn,MA,3,Bridgemen,World Class,80.85,1982
+07/31,Milwaukee,WI,4,Vaqueros,World Class,38.8,1982
+07/31,Birmingham,AL,4,Suncoast Sound,World Class,73.3,1982
+07/31,Lynn,MA,4,27th Lancers,World Class,79.25,1982
+07/31,Lynn,MA,4,27th Lancers,World Class,77.8,1982
+07/31,Milwaukee,WI,5,Kilties,World Class,34.5,1982
+07/31,Birmingham,AL,5,Southwind,World Class,61.7,1982
+07/31,Lynn,MA,5,North Star,World Class,71.0,1982
+07/31,Lynn,MA,5,North Star,World Class,72.9,1982
+07/31,Birmingham,AL,6,Pride of Cincinnati,World Class,50.9,1982
+07/31,Lynn,MA,6,Defenders,World Class,69.65,1982
+07/31,Lynn,MA,6,Defenders,World Class,71.25,1982
+07/31,Birmingham,AL,7,Southernaires,World Class,47.4,1982
+07/31,Lynn,MA,7,Alliance,World Class,68.65,1982
+07/31,Lynn,MA,7,Alliance,World Class,68.0,1982
+07/31,Birmingham,AL,8,Nighthawks,World Class,43.9,1982
+07/31,Lynn,MA,8,Avant Garde,World Class,63.7,1982
+07/31,Lynn,MA,8,Avant Garde,World Class,63.5,1982
+07/31,Birmingham,AL,9,Black Knights,World Class,41.8,1982
+07/31,Lynn,MA,9,Les Eclipses,World Class,60.2,1982
+07/31,Lynn,MA,9,Les Eclipses,World Class,60.45,1982
+07/31,Birmingham,AL,10,Florida Wave,World Class,39.3,1982
+07/31,Lynn,MA,10,Boston Crusaders,World Class,59.55,1982
+07/31,Lynn,MA,10,Boston Crusaders,World Class,58.75,1982
+07/31,Lynn,MA,11,Valley Airs,World Class,51.45,1982
+07/31,Lynn,MA,12,Arbella,World Class,49.05,1982
+07/31,Lynn,MA,13,Bluecoats,World Class,47.6,1982
+07/31,Lynn,MA,14,Fantasia III,World Class,46.15,1982
+07/31,Lynn,MA,15,Caballaros,World Class,44.25,1982
+07/31,Lynn,MA,16,Les Adventuriers,World Class,43.55,1982
+07/31,Lynn,MA,17,Fusion,World Class,42.7,1982
+07/31,Lynn,MA,18,Black Watch,World Class,41.25,1982
+08/01,Sioux City,IA,1,Blue Devils,World Class,90.0,1982
+08/01,Holyoke,MA,1,27th Lancers,World Class,72.75,1982
+08/01,Kewanee,IL,1,Madison Scouts,World Class,87.25,1982
+08/01,Decorah,IA,1,Phantom Regiment,World Class,88.1,1982
+08/01,Sioux City,IA,2,Vanguard,World Class,87.9,1982
+08/01,Holyoke,MA,2,North Star,World Class,66.5,1982
+08/01,Kewanee,IL,2,Cavaliers,World Class,83.55,1982
+08/01,Decorah,IA,2,Colts,World Class,64.15,1982
+08/01,Sioux City,IA,3,Valley Fever,World Class,65.8,1982
+08/01,Holyoke,MA,3,Holy Family Defenders,World Class,65.75,1982
+08/01,Kewanee,IL,3,Knights,World Class,78.0,1982
+08/01,Decorah,IA,3,Blue Stars,World Class,54.55,1982
+08/01,Sioux City,IA,4,San Jose Raiders,World Class,60.05,1982
+08/01,Holyoke,MA,4,Alliance,World Class,61.5,1982
+08/01,Kewanee,IL,4,Saginaires,World Class,64.45,1982
+08/01,Decorah,IA,4,Emerald Knights,World Class,52.0,1982
+08/01,Sioux City,IA,5,Seattle Imperials,World Class,58.25,1982
+08/01,Holyoke,MA,5,Les Eclipses,World Class,58.35,1982
+08/01,Kewanee,IL,5,Pioneer,World Class,59.05,1982
+08/01,Decorah,IA,5,CapitolAires,World Class,37.9,1982
+08/01,Sioux City,IA,5,Rivermen,World Class,58.25,1982
+08/01,Holyoke,MA,6,Boston Crusaders,World Class,55.05,1982
+08/01,Kewanee,IL,6,Guardsmen,World Class,52.35,1982
+08/01,Decorah,IA,6,Imperials-IL,World Class,13.9,1982
+08/01,Sioux City,IA,7,Crimson Cadets,World Class,35.4,1982
+08/01,Holyoke,MA,7,Valley Airs,World Class,45.9,1982
+08/01,Bradley,IL,1,Americanos,World Class,51.3,1982
+08/02,Dubuque,IA,1,Madison Scouts,World Class,89.0,1982
+08/03,Jamestown,NY,1,Garfield Cadets,World Class,83.55,1982
+08/04,Toledo,OH,1,Dutch Boy,World Class,62.8,1982
+08/01,Bradley,IL,2,Coachmen,World Class,48.9,1982
+08/02,Dubuque,IA,2,Knights,World Class,78.7,1982
+08/03,Jamestown,NY,2,Bridgemen,World Class,81.95,1982
+08/04,Toledo,OH,2,Arbella,World Class,54.6,1982
+08/01,Bradley,IL,3,Vaqueros,World Class,45.9,1982
+08/02,Dubuque,IA,3,Colts,World Class,66.95,1982
+08/03,Jamestown,NY,3,27th Lancers,World Class,81.3,1982
+08/04,Toledo,OH,3,Glassmen,World Class,53.35,1982
+08/01,Bradley,IL,4,Illiana Lancers,World Class,43.9,1982
+08/02,Dubuque,IA,4,Rivermen,World Class,64.8,1982
+08/03,Jamestown,NY,4,Alliance,World Class,65.5,1982
+08/04,Toledo,OH,4,Ventures,World Class,51.1,1982
+08/01,Bradley,IL,5,Kilties,World Class,39.5,1982
+08/02,Dubuque,IA,5,Blue Stars,World Class,52.9,1982
+08/03,Jamestown,NY,5,Avant Garde,World Class,60.7,1982
+08/04,Toledo,OH,5,Florida Wave,World Class,49.25,1982
+08/02,Dubuque,IA,6,Emerald Knights,World Class,52.6,1982
+08/03,Jamestown,NY,6,Les Eclipses,World Class,59.5,1982
+08/04,Toledo,OH,6,Bluewater Buccaneers,World Class,46.7,1982
+08/02,Dubuque,IA,7,Argonauts,World Class,41.5,1982
+08/04,Toledo,OH,7,Golden Garrison,World Class,46.35,1982
+08/02,Dubuque,IA,8,CapitolAires,World Class,37.95,1982
+08/04,Toledo,OH,8,Cambria Cadets,World Class,44.35,1982
+08/04,Toledo,OH,9,Diplomats,World Class,42.2,1982
+08/04,Toledo,OH,10,Fitchburg Kingsmen,World Class,39.85,1982
+08/04,Toledo,OH,11,Coachmen,World Class,39.2,1982
+08/04,Toledo,OH,12,Fantasia,World Class,38.0,1982
+08/04,Toledo,OH,13,Crimson Tornadoes,World Class,37.9,1982
+08/04,Toledo,OH,14,Gauchos,World Class,37.3,1982
+08/04,Toledo,OH,15,Conquistadors,World Class,30.6,1982
+08/04,Toledo,OH,16,Firebirds,World Class,29.4,1982
+08/04,Toledo,OH,17,Royalaires,World Class,26.3,1982
+08/04,Toledo,OH,18,Marion Cadets,World Class,24.7,1982
+08/04,Toledo,OH,19,Mello-Dears,World Class,20.5,1982
+08/04,Toledo,OH,1,Garfield Cadets,World Class,85.75,1982
+08/04,Toledo,OH,1,Garfield Cadets,World Class,86.15,1982
+08/04,Minneapolis,MN,1,Blue Devils,World Class,90.0,1982
+08/04,Stillwater,MN,1,Blue Devils,World Class,91.5,1982
+08/04,Toledo,OH,2,Bridgemen,World Class,81.5,1982
+08/04,Toledo,OH,2,Bridgemen,World Class,82.75,1982
+08/04,Minneapolis,MN,2,Vanguard,World Class,89.6,1982
+08/04,Stillwater,MN,2,Madison Scouts,World Class,85.85,1982
+08/04,Toledo,OH,3,27th Lancers,World Class,80.85,1982
+08/04,Toledo,OH,3,27th Lancers,World Class,80.9,1982
+08/04,Minneapolis,MN,3,Madison Scouts,World Class,84.75,1982
+08/04,Stillwater,MN,3,Sky Ryders,World Class,81.95,1982
+08/04,Toledo,OH,4,Suncoast Sound,World Class,74.65,1982
+08/04,Toledo,OH,4,Suncoast Sound,World Class,78.55,1982
+08/04,Minneapolis,MN,4,Freelancers,World Class,82.0,1982
+08/04,Stillwater,MN,4,Valley Fever,World Class,70.15,1982
+08/04,Toledo,OH,5,Alliance,World Class,70.5,1982
+08/04,Toledo,OH,5,Alliance,World Class,71.4,1982
+08/04,Minneapolis,MN,5,Sky Ryders,World Class,77.65,1982
+08/04,Stillwater,MN,4,Troopers,World Class,70.15,1982
+08/04,Toledo,OH,6,Defenders,World Class,70.2,1982
+08/04,Toledo,OH,6,Defenders,World Class,71.15,1982
+08/04,Minneapolis,MN,6,Valley Fever,World Class,67.3,1982
+08/04,Stillwater,MN,6,Seattle Imperials,World Class,62.95,1982
+08/04,Toledo,OH,7,Memphis Blues,World Class,69.6,1982
+08/04,Toledo,OH,7,Memphis Blues,World Class,69.9,1982
+08/04,Minneapolis,MN,7,Seattle Imperials,World Class,60.9,1982
+08/04,Stillwater,MN,7,Rivermen,World Class,61.35,1982
+08/04,Toledo,OH,8,San Jose Raiders,World Class,68.75,1982
+08/04,Toledo,OH,8,San Jose Raiders,World Class,69.2,1982
+08/04,Minneapolis,MN,8,Rivermen,World Class,57.95,1982
+08/04,Stillwater,MN,8,Blue Stars,World Class,53.05,1982
+08/04,Toledo,OH,9,Avant Garde,World Class,66.0,1982
+08/04,Toledo,OH,9,Avant Garde,World Class,63.15,1982
+08/04,Toledo,OH,10,Les Eclipses,World Class,62.85,1982
+08/04,Toledo,OH,10,Les Eclipses,World Class,61.05,1982
+08/04,Toledo,OH,11,Colts,World Class,62.5,1982
+08/04,Toledo,OH,12,Saginaires,World Class,54.95,1982
+08/04,Toledo,OH,13,Pride of Cincinnati,World Class,54.0,1982
+08/04,Toledo,OH,14,Bluecoats,World Class,50.4,1982
+08/04,Toledo,OH,15,Renegades,World Class,48.1,1982
+08/04,Toledo,OH,16,Guardsmen,World Class,46.25,1982
+08/04,Toledo,OH,17,Caballaros,World Class,43.65,1982
+08/04,Toledo,OH,18,Nighthawks,World Class,35.95,1982
+08/05,Green Bay,WI,1,Saginaires,World Class,66.7,1982
+08/05,Indianapolis,IN,1,Garfield Cadets,World Class,84.45,1982
+08/06,Racine,WI,1,Troopers,World Class,76.9,1982
+08/06,Rockford,IL,1,Vanguard,World Class,87.15,1982
+08/05,Green Bay,WI,2,Colts,World Class,65.6,1982
+08/05,Indianapolis,IN,2,Crossmen,World Class,79.45,1982
+08/06,Racine,WI,2,Colts,World Class,68.3,1982
+08/06,Rockford,IL,2,Phantom Regiment,World Class,86.3,1982
+08/05,Green Bay,WI,3,Imperial Guard,World Class,59.15,1982
+08/05,Indianapolis,IN,3,Spirit of Atlanta,World Class,78.4,1982
+08/06,Racine,WI,3,Saginaires,World Class,64.2,1982
+08/06,Rockford,IL,3,Madison Scouts,World Class,84.85,1982
+08/05,Green Bay,WI,4,Pioneer,World Class,58.1,1982
+08/05,Indianapolis,IN,4,Defenders,World Class,65.15,1982
+08/06,Racine,WI,4,Blue Stars,World Class,53.3,1982
+08/06,Rockford,IL,4,Bridgemen,World Class,82.8,1982
+08/05,Green Bay,WI,5,Argonauts,World Class,41.95,1982
+08/05,Indianapolis,IN,5,Memphis Blues,World Class,64.8,1982
+08/06,Racine,WI,5,Royal Grenadiers,World Class,48.4,1982
+08/06,Rockford,IL,5,Crossmen,World Class,82.1,1982
+08/05,Green Bay,WI,6,CapitolAires,World Class,38.55,1982
+08/05,Indianapolis,IN,6,Avant Garde,World Class,62.3,1982
+08/06,Racine,WI,6,Vaqueros,World Class,34.6,1982
+08/06,Rockford,IL,6,27th Lancers,World Class,79.85,1982
+08/05,Green Bay,WI,7,Kilties,World Class,34.55,1982
+08/05,Indianapolis,IN,7,Guardsmen,World Class,40.2,1982
+08/06,Rockford,IL,7,Spirit of Atlanta,World Class,77.75,1982
+08/06,Whitewater,WI,1,Dutch Boy,Open Class,56.3,1982
+08/05,Whitewater,WI,1,Blue Devils,Open Class,88.6,1982
+08/07,Whitewater,WI,1,Blue Devils,Open Class,91.15,1982
+08/07,Sheffield,PA,1,Les Eclipses,Open Class,66.0,1982
+08/06,Whitewater,WI,2,Arbella,Open Class,50.65,1982
+08/05,Whitewater,WI,2,Vanguard,Open Class,87.2,1982
+08/07,Whitewater,WI,2,Vanguard,Open Class,89.0,1982
+08/07,Sheffield,PA,2,Caballaros,Open Class,48.2,1982
+08/06,Whitewater,WI,3,Black Knights,Open Class,49.85,1982
+08/05,Whitewater,WI,3,Garfield Cadets,Open Class,86.45,1982
+08/07,Whitewater,WI,3,Phantom Regiment,Open Class,87.4,1982
+08/07,Sheffield,PA,3,Fusion,Open Class,43.8,1982
+08/06,Whitewater,WI,4,Pioneer,Open Class,48.05,1982
+08/05,Whitewater,WI,4,Madison Scouts,Open Class,86.25,1982
+08/07,Whitewater,WI,4,Madison Scouts,Open Class,86.2,1982
+08/07,Sheffield,PA,4,Fantasia III,Open Class,39.4,1982
+08/06,Whitewater,WI,5,Memorial Lancers,Open Class,46.5,1982
+08/05,Whitewater,WI,5,Phantom Regiment,Open Class,85.4,1982
+08/07,Whitewater,WI,5,Garfield Cadets,Open Class,84.75,1982
+08/07,Sheffield,PA,5,Black Watch,Open Class,37.8,1982
+08/06,Whitewater,WI,6,Argonauts,Open Class,45.5,1982
+08/05,Whitewater,WI,6,Crossmen,Open Class,81.5,1982
+08/07,Whitewater,WI,6,Crossmen,Open Class,81.0,1982
+08/07,Sheffield,PA,6,Barons of Stueben,Open Class,28.0,1982
+08/06,Whitewater,WI,7,Diplomats,Open Class,42.2,1982
+08/05,Whitewater,WI,7,Bridgemen,Open Class,80.35,1982
+08/07,Whitewater,WI,7,Bridgemen,Open Class,80.0,1982
+08/06,Whitewater,WI,8,Gauchos,Open Class,38.5,1982
+08/05,Whitewater,WI,8,27th Lancers,Open Class,80.2,1982
+08/07,Whitewater,WI,8,27th Lancers,Open Class,78.85,1982
+08/06,Whitewater,WI,9,Fantasia,Open Class,37.3,1982
+08/05,Whitewater,WI,9,Cavaliers,Open Class,78.75,1982
+08/07,Whitewater,WI,9,Cavaliers,Open Class,77.45,1982
+08/06,Whitewater,WI,10,Bandettes,Open Class,31.3,1982
+08/05,Whitewater,WI,10,Sky Ryders,Open Class,77.4,1982
+08/07,Whitewater,WI,10,Sky Ryders,Open Class,77.4,1982
+08/06,Whitewater,WI,11,CapitolAires,Open Class,31.2,1982
+08/05,Whitewater,WI,11,Freelancers,Open Class,77.2,1982
+08/07,Whitewater,WI,11,Freelancers,Open Class,73.8,1982
+08/06,Whitewater,WI,12,Firebirds,Open Class,29.8,1982
+08/05,Whitewater,WI,12,Suncoast Sound,Open Class,74.55,1982
+08/07,Whitewater,WI,12,Suncoast Sound,Open Class,68.25,1982
+08/06,Whitewater,WI,13,Marquis,Open Class,28.85,1982
+08/05,Whitewater,WI,13,Spirit of Atlanta,Open Class,72.5,1982
+08/06,Whitewater,WI,14,Wausau Story,Open Class,27.25,1982
+08/05,Whitewater,WI,14,Alliance,Open Class,69.1,1982
+08/06,Whitewater,WI,15,Racine Junior Scouts,Open Class,9.0,1982
+08/05,Whitewater,WI,15,North Star,Open Class,66.75,1982
+08/05,Whitewater,WI,16,Troopers,Open Class,66.35,1982
+08/05,Whitewater,WI,17,Defenders,Open Class,66.1,1982
+08/05,Whitewater,WI,18,Velvet Knights,Open Class,65.05,1982
+08/05,Whitewater,WI,19,Memphis Blues,Open Class,63.45,1982
+08/05,Whitewater,WI,20,Valley Fever,Open Class,62.85,1982
+08/05,Whitewater,WI,21,Colts,Open Class,62.2,1982
+08/05,Whitewater,WI,22,Avant Garde,Open Class,61.35,1982
+08/05,Whitewater,WI,23,Knights,Open Class,61.3,1982
+08/05,Whitewater,WI,24,Seattle Imperials,Open Class,57.2,1982
+08/05,Whitewater,WI,25,Saginaires,Open Class,56.33,1982
+08/05,Whitewater,WI,26,Pride of Cincinnati,Open Class,55.0,1982
+08/05,Whitewater,WI,27,Rivermen,Open Class,54.45,1982
+08/05,Whitewater,WI,28,Imperial Guard,Open Class,53.2,1982
+08/05,Whitewater,WI,29,Guardsmen,Open Class,48.0,1982
+08/05,Whitewater,WI,30,Blue Stars,Open Class,46.0,1982
+08/07,Scranton,PA,1,Westshoremen,Open Class,85.3,1982
+08/07,Momence,IL,1,Saginaires,Open Class,77.6,1982
+08/08,Springfield,IL,1,Suncoast Sound,Open Class,76.85,1982
+08/08,Michigan City,IN,1,Vanguard,Open Class,88.4,1982
+08/07,Scranton,PA,2,Connecticut Hurricanes,Open Class,83.9,1982
+08/07,Momence,IL,2,Imperial Guard,Open Class,75.1,1982
+08/08,Springfield,IL,2,Knights,Open Class,76.55,1982
+08/08,Michigan City,IN,2,Crossmen,Open Class,82.0,1982
+08/07,Scranton,PA,3,Sunrisers,Open Class,83.15,1982
+08/07,Momence,IL,3,Pioneer,Open Class,74.1,1982
+08/08,Springfield,IL,3,Alliance,Open Class,75.15,1982
+08/08,Michigan City,IN,3,27th Lancers,Open Class,79.8,1982
+08/07,Scranton,PA,4,Hawthorne Caballeros,Open Class,83.1,1982
+08/07,Momence,IL,4,Emerald Knights,Open Class,64.3,1982
+08/08,Springfield,IL,4,Pioneer,Open Class,64.0,1982
+08/08,Michigan City,IN,4,Cavaliers,Open Class,76.95,1982
+08/07,Scranton,PA,5,New York Skyliners,Open Class,82.8,1982
+08/07,Momence,IL,4,Americanos,Open Class,64.3,1982
+08/08,Springfield,IL,5,Black Knights,Open Class,62.55,1982
+08/08,Michigan City,IN,5,Sky Ryders,Open Class,76.65,1982
+08/07,Scranton,PA,6,Reading Buccaneers,Open Class,80.65,1982
+08/07,Momence,IL,6,Vaqueros,Open Class,59.2,1982
+08/08,Springfield,IL,6,Emerald Knights,Open Class,58.4,1982
+08/08,Michigan City,IN,6,Spirit of Atlanta,Open Class,74.7,1982
+08/07,Scranton,PA,7,Matadors,Open Class,70.2,1982
+08/08,Springfield,IL,7,Royal Grenadiers,Open Class,54.65,1982
+08/08,Michigan City,IN,7,North Star,Open Class,70.45,1982
+08/07,Scranton,PA,8,Rochester Crusaders,Open Class,56.55,1982
+08/08,Springfield,IL,8,Argonauts,Open Class,49.3,1982
+08/08,Michigan City,IN,8,Defenders,Open Class,68.05,1982
+08/08,Michigan City,IN,9,Troopers,Open Class,66.5,1982
+08/08,Michigan City,IN,10,Boston Crusaders,Open Class,53.6,1982
+08/08,Michigan City,IN,11,Guardsmen,Open Class,47.9,1982
+08/09,Bloomington,IN,1,Madison Scouts,Open Class,88.15,1982
+08/09,Evansville,IN,1,Blue Devils,Open Class,91.45,1982
+08/09,Marion,OH,1,Phantom Regiment,Open Class,88.65,1982
+08/09,Marion,OH,1,Phantom Regiment,Open Class,88.25,1982
+08/09,Bloomington,IN,2,Cavaliers,Open Class,80.65,1982
+08/09,Evansville,IN,2,Garfield Cadets,Open Class,86.95,1982
+08/09,Marion,OH,2,Crossmen,Open Class,83.05,1982
+08/09,Marion,OH,2,Crossmen,Open Class,84.3,1982
+08/09,Bloomington,IN,3,Suncoast Sound,Open Class,76.2,1982
+08/09,Evansville,IN,3,Bridgemen,Open Class,84.15,1982
+08/09,Marion,OH,3,27th Lancers,Open Class,81.35,1982
+08/09,Marion,OH,3,27th Lancers,Open Class,82.05,1982
+08/09,Bloomington,IN,4,Knights,Open Class,71.05,1982
+08/09,Evansville,IN,4,Seattle Imperials,Open Class,66.5,1982
+08/09,Marion,OH,4,Freelancers,Open Class,80.5,1982
+08/09,Marion,OH,4,Sky Ryders,Open Class,81.9,1982
+08/09,Bloomington,IN,5,Troopers,Open Class,70.95,1982
+08/09,Evansville,IN,5,Avant Garde,Open Class,64.75,1982
+08/09,Marion,OH,5,Sky Ryders,Open Class,78.5,1982
+08/09,Marion,OH,5,Freelancers,Open Class,81.4,1982
+08/09,Bloomington,IN,6,Rivermen,Open Class,59.25,1982
+08/09,Evansville,IN,6,Valley Fever,Open Class,64.05,1982
+08/09,Marion,OH,6,Spirit of Atlanta,Open Class,74.8,1982
+08/09,Marion,OH,6,Spirit of Atlanta,Open Class,76.45,1982
+08/09,Bloomington,IN,7,Blue Stars,Open Class,51.3,1982
+08/09,Evansville,IN,7,Boston Crusaders,Open Class,61.9,1982
+08/09,Marion,OH,7,North Star,Open Class,70.2,1982
+08/09,Marion,OH,7,Defenders,Open Class,71.95,1982
+08/09,Bloomington,IN,8,Pioneer,Open Class,44.0,1982
+08/09,Marion,OH,8,Defenders,Open Class,70.0,1982
+08/09,Marion,OH,8,North Star,Open Class,71.55,1982
+08/09,Bloomington,IN,9,Emerald Knights,Open Class,41.5,1982
+08/09,Marion,OH,9,Alliance,Open Class,68.6,1982
+08/09,Marion,OH,9,Memphis Blues,Open Class,65.05,1982
+08/09,Bloomington,IN,10,Americanos,Open Class,34.85,1982
+08/09,Marion,OH,10,Memphis Blues,Open Class,65.0,1982
+08/09,Marion,OH,10,Alliance,Open Class,64.65,1982
+08/09,Marion,OH,11,Velvet Knights,Open Class,63.5,1982
+08/09,Marion,OH,12,San Jose Raiders,Open Class,62.15,1982
+08/09,Marion,OH,13,Anaheim Kingsmen,Open Class,60.85,1982
+08/09,Marion,OH,14,Les Eclipses,Open Class,60.75,1982
+08/09,Marion,OH,15,Pride of Cincinnati,Open Class,54.85,1982
+08/09,Marion,OH,16,Bluecoats,Open Class,54.4,1982
+08/09,Marion,OH,17,Saginaires,Open Class,53.8,1982
+08/09,Marion,OH,18,Renegades,Open Class,49.7,1982
+08/09,Marion,OH,19,Southwind,Open Class,49.15,1982
+08/09,Marion,OH,20,Guardsmen,Open Class,48.65,1982
+08/09,Marion,OH,21,Caballaros,Open Class,44.55,1982
+08/09,Marion,OH,22,Nighthawks,Open Class,42.55,1982
+08/09,Butler,PA,1,Dutch Boy,Open Class,63.65,1982
+08/10,Hanover,PA,1,Crossmen,Open Class,84.8,1982
+08/10,Centerville,OH,1,Vanguard,Open Class,90.65,1982
+08/10,Pittsburgh,PA,1,Freelancers,Open Class,82.8,1982
+08/09,Butler,PA,2,Arbella,Open Class,55.2,1982
+08/10,Hanover,PA,2,Sky Ryders,Open Class,81.55,1982
+08/10,Centerville,OH,2,Madison Scouts,Open Class,87.5,1982
+08/10,Pittsburgh,PA,2,Cavaliers,Open Class,81.95,1982
+08/09,Butler,PA,3,Black Watch,Open Class,53.9,1982
+08/10,Hanover,PA,3,Memphis Blues,Open Class,69.6,1982
+08/10,Centerville,OH,3,Spirit of Atlanta,Open Class,80.55,1982
+08/10,Pittsburgh,PA,3,27th Lancers,Open Class,80.75,1982
+08/09,Butler,PA,4,Florida Wave,Open Class,52.7,1982
+08/10,Hanover,PA,4,Southwind,Open Class,51.8,1982
+08/10,Centerville,OH,4,Troopers,Open Class,73.5,1982
+08/10,Pittsburgh,PA,4,North Star,Open Class,70.45,1982
+08/09,Butler,PA,5,Crimson Cadets,Open Class,48.1,1982
+08/10,Hanover,PA,5,Southernaires,Open Class,42.4,1982
+08/10,Centerville,OH,5,Seattle Imperials,Open Class,65.0,1982
+08/10,Pittsburgh,PA,5,Suncoast Sound,Open Class,70.3,1982
+08/09,Butler,PA,6,Diplomats,Open Class,46.9,1982
+08/10,Hanover,PA,6,Fantasia III,Open Class,41.1,1982
+08/10,Centerville,OH,6,Rivermen,Open Class,58.95,1982
+08/10,Pittsburgh,PA,6,Guardsmen,Open Class,53.85,1982
+08/09,Butler,PA,7,Volunteers,Open Class,46.55,1982
+08/10,Hanover,PA,7,Black Knights,Open Class,40.3,1982
+08/10,Centerville,OH,7,Pride of Cincinnati,Open Class,52.05,1982
+08/09,Butler,PA,8,Bluewater Buccaneers,Open Class,46.1,1982
+08/10,Centerville,OH,8,Blue Stars,Open Class,48.8,1982
+08/09,Butler,PA,9,Fusion,Open Class,45.7,1982
+08/10,Centerville,OH,9,Caballaros,Open Class,47.65,1982
+08/09,Butler,PA,10,Fantasia,Open Class,45.45,1982
+08/09,Butler,PA,11,Fitchburg Kingsmen,Open Class,44.65,1982
+08/09,Butler,PA,12,CMCC Warriors,Open Class,43.65,1982
+08/09,Butler,PA,13,Phantom Regiment Cadets,Open Class,42.7,1982
+08/09,Butler,PA,14,New York Lancers,Open Class,42.6,1982
+08/09,Butler,PA,15,CapitolAires,Open Class,42.4,1982
+08/09,Butler,PA,16,Pioneer Scouts,Open Class,39.45,1982
+08/09,Butler,PA,17,Kiwanis Kavaliers,Open Class,38.45,1982
+08/09,Butler,PA,18,Cavalier Cadets,Open Class,35.65,1982
+08/09,Butler,PA,19,Crimson Tornadoes,Open Class,34.85,1982
+08/09,Butler,PA,20,Starrisers,Open Class,32.65,1982
+08/09,Butler,PA,21,Conquistadors,Open Class,31.2,1982
+08/09,Butler,PA,22,Barons of Steuben,Open Class,31.15,1982
+08/09,Butler,PA,23,Suburbanettes,Open Class,31.1,1982
+08/09,Butler,PA,24,Shoreliners,Open Class,30.25,1982
+08/09,Butler,PA,25,Marquis,Open Class,29.25,1982
+08/09,Butler,PA,26,Firebirds,Open Class,28.35,1982
+08/09,Butler,PA,27,Cambria Cadets,Open Class,27.6,1982
+08/09,Butler,PA,28,Mello-Dears,Open Class,27.5,1982
+08/09,Butler,PA,29,Buccaneers,Open Class,26.2,1982
+08/09,Butler,PA,30,Niagara Frontiersmen,Open Class,25.4,1982
+08/09,Butler,PA,31,Royal Cadets,Open Class,19.0,1982
+08/10,Louisville,KY,1,Blue Devils,Open Class,92.1,1982
+08/11,Butler,PA,1,Suncoast Sound,Open Class,76.1,1982
+08/11,Butler,PA,1,Suncoast Sound,Open Class,80.25,1982
+08/12,Canton,OH,1,Spirit of Atlanta,Open Class,80.95,1982
+08/10,Louisville,KY,2,Garfield Cadets,Open Class,89.0,1982
+08/11,Butler,PA,2,Velvet Knights,Open Class,73.5,1982
+08/11,Butler,PA,2,Alliance,Open Class,76.1,1982
+08/12,Canton,OH,2,Troopers,Open Class,73.2,1982
+08/10,Louisville,KY,3,Bridgemen,Open Class,84.6,1982
+08/11,Butler,PA,3,Alliance,Open Class,72.45,1982
+08/11,Butler,PA,3,Velvet Knights,Open Class,69.7,1982
+08/12,Canton,OH,3,Knights,Open Class,71.25,1982
+08/10,Louisville,KY,4,Knights,Open Class,76.45,1982
+08/11,Butler,PA,4,San Jose Raiders,Open Class,66.55,1982
+08/11,Butler,PA,4,San Jose Raiders,Open Class,67.05,1982
+08/12,Canton,OH,4,Valley Fever,Open Class,68.2,1982
+08/10,Louisville,KY,5,Avant Garde,Open Class,68.65,1982
+08/11,Butler,PA,5,Colts,Open Class,63.8,1982
+08/11,Butler,PA,5,Colts,Open Class,64.3,1982
+08/12,Canton,OH,5,Rivermen,Open Class,64.45,1982
+08/10,Louisville,KY,5,Valley Fever,Open Class,68.65,1982
+08/11,Butler,PA,6,Anaheim Kingsmen,Open Class,63.5,1982
+08/11,Butler,PA,6,Anaheim Kingsmen,Open Class,63.75,1982
+08/12,Canton,OH,6,Boston Crusaders,Open Class,62.15,1982
+08/10,Louisville,KY,7,Boston Crusaders,Open Class,65.7,1982
+08/11,Butler,PA,7,Les Eclipses,Open Class,62.85,1982
+08/11,Butler,PA,7,Les Eclipses,Open Class,63.2,1982
+08/12,Canton,OH,7,Bluecoats,Open Class,52.2,1982
+08/10,Louisville,KY,8,Imperial Guard,Open Class,56.65,1982
+08/11,Butler,PA,8,Saginaires,Open Class,59.85,1982
+08/11,Butler,PA,8,Saginaires,Open Class,61.3,1982
+08/12,Canton,OH,8,Blue Stars,Open Class,51.4,1982
+08/10,Louisville,KY,9,Pioneer,Open Class,51.75,1982
+08/11,Butler,PA,9,Southwind,Open Class,56.0,1982
+08/11,Butler,PA,9,Southwind,Open Class,55.55,1982
+08/11,Butler,PA,10,Glassmen,Open Class,52.25,1982
+08/11,Butler,PA,10,Renegades,Open Class,51.05,1982
+08/11,Butler,PA,11,Renegades,Open Class,51.35,1982
+08/11,Butler,PA,11,Glassmen,Open Class,50.5,1982
+08/11,Butler,PA,12,Emerald Knights,Open Class,47.6,1982
+08/11,Butler,PA,12,Nighthawks,Open Class,44.1,1982
+08/11,Butler,PA,12,Nighthawks,Open Class,47.6,1982
+08/11,Butler,PA,13,Emerald Knights,Open Class,41.8,1982
+08/11,Butler,PA,14,Caballaros,Open Class,45.7,1982
+08/12,Lansdale,PA,1,Phantom Regiment,Open Class,91.0,1982
+08/13,Bayonne,NJ,1,Blue Devils,Open Class,93.85,1982
+08/13,Ypsilanti,MI,1,Vanguard,Open Class,91.15,1982
+08/13,Ypsilanti,MI,1,Vanguard,Open Class,90.5,1982
+08/12,Lansdale,PA,2,Crossmen,Open Class,86.3,1982
+08/13,Bayonne,NJ,2,Garfield Cadets,Open Class,91.55,1982
+08/13,Ypsilanti,MI,2,Madison Scouts,Open Class,89.25,1982
+08/13,Ypsilanti,MI,2,Madison Scouts,Open Class,88.1,1982
+08/12,Lansdale,PA,3,27th Lancers,Open Class,83.3,1982
+08/13,Bayonne,NJ,3,Phantom Regiment,Open Class,91.25,1982
+08/13,Ypsilanti,MI,3,Freelancers,Open Class,85.55,1982
+08/13,Ypsilanti,MI,3,Freelancers,Open Class,84.65,1982
+08/12,Lansdale,PA,4,Cavaliers,Open Class,82.5,1982
+08/13,Bayonne,NJ,4,Bridgemen,Open Class,87.15,1982
+08/13,Ypsilanti,MI,4,Suncoast Sound,Open Class,79.85,1982
+08/13,Ypsilanti,MI,4,Spirit of Atlanta,Open Class,79.7,1982
+08/12,Lansdale,PA,5,Sky Ryders,Open Class,81.7,1982
+08/13,Bayonne,NJ,5,27th Lancers,Open Class,86.15,1982
+08/13,Ypsilanti,MI,5,Spirit of Atlanta,Open Class,79.8,1982
+08/13,Ypsilanti,MI,5,Suncoast Sound,Open Class,77.7,1982
+08/12,Lansdale,PA,6,North Star,Open Class,74.35,1982
+08/13,Ypsilanti,MI,6,Troopers,Open Class,76.1,1982
+08/13,Ypsilanti,MI,6,Knights,Open Class,74.9,1982
+08/12,Lansdale,PA,7,Memphis Blues,Open Class,69.9,1982
+08/13,Ypsilanti,MI,7,Knights,Open Class,74.05,1982
+08/13,Ypsilanti,MI,7,Troopers,Open Class,73.45,1982
+08/12,Lansdale,PA,8,Black Knights,Open Class,49.45,1982
+08/13,Ypsilanti,MI,8,Boston Crusaders,Open Class,68.7,1982
+08/13,Ypsilanti,MI,8,Avant Garde,Open Class,66.7,1982
+08/13,Ypsilanti,MI,9,Avant Garde,Open Class,66.85,1982
+08/13,Ypsilanti,MI,9,Boston Crusaders,Open Class,64.55,1982
+08/13,Ypsilanti,MI,10,Colts,Open Class,65.75,1982
+08/13,Ypsilanti,MI,10,Colts,Open Class,64.5,1982
+08/13,Ypsilanti,MI,11,Seattle Imperials,Open Class,64.45,1982
+08/13,Ypsilanti,MI,12,Pride of Cincinnati,Open Class,62.85,1982
+08/13,Ypsilanti,MI,13,Saginaires,Open Class,62.75,1982
+08/13,Ypsilanti,MI,14,Rivermen,Open Class,60.35,1982
+08/13,Ypsilanti,MI,15,Blue Stars,Open Class,59.5,1982
+08/13,Ypsilanti,MI,16,Guardsmen,Open Class,58.45,1982
+08/13,Ypsilanti,MI,17,Les Chatelaines,Open Class,57.2,1982
+08/13,Ypsilanti,MI,18,Golden Garrison,Open Class,54.2,1982
+08/13,Ypsilanti,MI,19,Emerald Knights,Open Class,46.15,1982
+08/13,Ypsilanti,MI,20,CMCC Warriors,Open Class,44.9,1982
+08/13,Ypsilanti,MI,21,Royal Grenadiers,Open Class,43.15,1982
+08/13,Ypsilanti,MI,21,Pioneer Scouts,Open Class,43.15,1982
+08/13,Ypsilanti,MI,23,1st Canadian Regiment,Open Class,36.2,1982
+08/13,Ypsilanti,MI,24,Madison Junior Scouts,Open Class,32.2,1982
+08/14,Bloomfield,NJ,1,New York Skyliners,Open Class,85.8,1982
+08/14,Lewisburg,PA,1,Westshoremen,Open Class,85.75,1982
+08/14,Central Islip,NY,1,Stormy Knights,Open Class,61.85,1982
+08/14,Lynn,MA,1,Blue Devils,Open Class,93.7,1982
+08/14,Bloomfield,NJ,2,Hawthorne Caballeros,Open Class,83.0,1982
+08/14,Lewisburg,PA,2,Reading Buccaneers,Open Class,82.2,1982
+08/14,Central Islip,NY,2,Hamilton Knights,Open Class,52.25,1982
+08/14,Lynn,MA,2,Garfield Cadets,Open Class,90.95,1982
+08/14,Bloomfield,NJ,3,Sunrisers,Open Class,82.05,1982
+08/14,Lewisburg,PA,3,Archer Epler Muskateers,Open Class,68.65,1982
+08/14,Central Islip,NY,2,Saint John's Crusaders,Open Class,52.25,1982
+08/14,Lynn,MA,3,Phantom Regiment,Open Class,89.6,1982
+08/14,Bloomfield,NJ,4,Matadors,Open Class,75.8,1982
+08/14,Lewisburg,PA,4,Steel City Ambassadors,Open Class,65.1,1982
+08/14,Central Islip,NY,4,Long Island Bluejays,Open Class,51.2,1982
+08/14,Lynn,MA,4,Crossmen,Open Class,88.75,1982
+08/14,Bloomfield,NJ,5,Bushwackers,Open Class,66.4,1982
+08/14,Lewisburg,PA,5,Thunderbirds,Open Class,61.8,1982
+08/14,Lynn,MA,5,Bridgemen,Open Class,85.55,1982
+08/14,Bloomfield,NJ,6,L'Odyssey,Open Class,56.0,1982
+08/14,Lewisburg,PA,6,Rochester Crusaders,Open Class,55.75,1982
+08/14,Lynn,MA,6,27th Lancers,Open Class,85.4,1982
+08/14,Bloomfield,NJ,7,Canadian Regionaires,Open Class,49.6,1982
+08/14,Lynn,MA,7,Cavaliers,Open Class,84.6,1982
+08/15,Boston,MA,1,Blue Devils,Open Class,93.25,1982
+08/15,Hamilton,Ontario,1,Vanguard,Open Class,94.05,1982
+08/15,Hamilton,Ontario,1,Vanguard,Open Class,94.65,1982
+08/16,Pittsfield,MA,1,Garfield Cadets,Open Class,92.3,1982
+08/15,Boston,MA,2,Garfield Cadets,Open Class,90.55,1982
+08/15,Hamilton,Ontario,2,Madison Scouts,Open Class,90.4,1982
+08/15,Hamilton,Ontario,2,Madison Scouts,Open Class,91.25,1982
+08/16,Pittsfield,MA,2,Crossmen,Open Class,89.05,1982
+08/15,Boston,MA,3,Phantom Regiment,Open Class,89.75,1982
+08/15,Hamilton,Ontario,3,Freelancers,Open Class,84.4,1982
+08/15,Hamilton,Ontario,3,Freelancers,Open Class,86.25,1982
+08/16,Pittsfield,MA,3,Bridgemen,Open Class,86.5,1982
+08/15,Boston,MA,4,Bridgemen,Open Class,87.1,1982
+08/15,Hamilton,Ontario,4,Spirit of Atlanta,Open Class,84.25,1982
+08/15,Hamilton,Ontario,4,Spirit of Atlanta,Open Class,82.95,1982
+08/16,Pittsfield,MA,4,Cavaliers,Open Class,85.3,1982
+08/15,Boston,MA,5,Crossmen,Open Class,86.85,1982
+08/15,Hamilton,Ontario,5,Suncoast Sound,Open Class,79.55,1982
+08/15,Hamilton,Ontario,5,Suncoast Sound,Open Class,79.65,1982
+08/16,Pittsfield,MA,5,Defenders,Open Class,72.95,1982
+08/15,Boston,MA,6,27th Lancers,Open Class,85.7,1982
+08/15,Hamilton,Ontario,6,Troopers,Open Class,78.05,1982
+08/15,Hamilton,Ontario,6,Troopers,Open Class,79.15,1982
+08/16,Pittsfield,MA,6,Memphis Blues,Open Class,72.5,1982
+08/15,Boston,MA,7,Cavaliers,Open Class,83.85,1982
+08/15,Hamilton,Ontario,7,Knights,Open Class,74.6,1982
+08/15,Hamilton,Ontario,7,Knights,Open Class,75.1,1982
+08/16,Pittsfield,MA,7,Alliance,Open Class,70.95,1982
+08/15,Boston,MA,8,Sky Ryders,Open Class,82.9,1982
+08/15,Hamilton,Ontario,8,Valley Fever,Open Class,74.1,1982
+08/15,Hamilton,Ontario,8,Valley Fever,Open Class,73.85,1982
+08/16,Pittsfield,MA,8,Velvet Knights,Open Class,66.75,1982
+08/15,Boston,MA,9,North Star,Open Class,75.95,1982
+08/15,Hamilton,Ontario,9,Boston Crusaders,Open Class,69.85,1982
+08/15,Hamilton,Ontario,9,Boston Crusaders,Open Class,70.0,1982
+08/16,Pittsfield,MA,9,Les Eclipses,Open Class,63.5,1982
+08/15,Boston,MA,10,Defenders,Open Class,73.5,1982
+08/15,Hamilton,Ontario,10,Avant Garde,Open Class,67.4,1982
+08/15,Hamilton,Ontario,10,Avant Garde,Open Class,67.4,1982
+08/16,Pittsfield,MA,10,Pioneer,Open Class,52.05,1982
+08/15,Boston,MA,11,Alliance,Open Class,71.15,1982
+08/15,Hamilton,Ontario,10,Colts,Open Class,67.4,1982
+08/15,Hamilton,Ontario,11,Colts,Open Class,64.95,1982
+08/15,Boston,MA,12,Memphis Blues,Open Class,70.6,1982
+08/15,Hamilton,Ontario,12,Rivermen,Open Class,67.35,1982
+08/15,Hamilton,Ontario,13,Seattle Imperials,Open Class,63.8,1982
+08/15,Hamilton,Ontario,14,Pride of Cincinnati,Open Class,62.15,1982
+08/15,Hamilton,Ontario,15,Blue Stars,Open Class,61.5,1982
+08/15,Hamilton,Ontario,16,Les Chatelaines,Open Class,60.15,1982
+08/15,Hamilton,Ontario,17,Guardsmen,Open Class,58.55,1982
+08/15,Hamilton,Ontario,18,Saginaires,Open Class,57.5,1982
+08/15,Hamilton,Ontario,19,Florida Wave,Open Class,52.05,1982
+08/15,Hamilton,Ontario,20,Emerald Knights,Open Class,44.9,1982
+08/15,Hamilton,Ontario,21,CMCC Warriors,Open Class,41.45,1982
+08/15,Hamilton,Ontario,22,Pioneer Scouts,Open Class,40.5,1982
+08/15,Hamilton,Ontario,23,CapitolAires,Open Class,39.6,1982
+08/15,Hamilton,Ontario,24,Royal Grenadiers,Open Class,37.95,1982
+08/15,Hamilton,Ontario,25,1st Canadian Regiment,Open Class,34.15,1982
+08/16,Rome,NY,1,Vanguard,Open Class,93.5,1982
+08/17,Fort Edward,NY,1,Cavaliers,Open Class,86.05,1982
+08/17,Ogdensburg,NY,1,Madison Scouts,Open Class,92.75,1982
+08/16,Rome,NY,2,Madison Scouts,Open Class,90.5,1982
+08/17,Fort Edward,NY,2,Sky Ryders,Open Class,84.7,1982
+08/17,Ogdensburg,NY,2,Knights,Open Class,81.15,1982
+08/16,Rome,NY,3,Spirit of Atlanta,Open Class,80.75,1982
+08/17,Fort Edward,NY,3,Spirit of Atlanta,Open Class,83.95,1982
+08/17,Ogdensburg,NY,3,Seattle Imperials,Open Class,77.8,1982
+08/16,Rome,NY,4,Troopers,Open Class,79.15,1982
+08/17,Fort Edward,NY,4,Troopers,Open Class,80.2,1982
+08/17,Ogdensburg,NY,4,Alliance,Open Class,76.7,1982
+08/16,Rome,NY,5,Avant Garde,Open Class,69.75,1982
+08/17,Fort Edward,NY,5,North Star,Open Class,79.7,1982
+08/17,Ogdensburg,NY,5,Velvet Knights,Open Class,71.25,1982
+08/16,Rome,NY,6,San Jose Raiders,Open Class,67.55,1982
+08/17,Fort Edward,NY,6,Avant Garde,Open Class,71.55,1982
+08/17,Ogdensburg,NY,6,Colts,Open Class,70.9,1982
+08/16,Rome,NY,7,Guardsmen,Open Class,59.6,1982
+08/17,Fort Edward,NY,7,Valley Fever,Open Class,71.25,1982
+08/17,Ogdensburg,NY,7,Blue Stars,Open Class,62.3,1982
+08/17,Fort Edward,NY,8,San Jose Raiders,Open Class,70.95,1982
+08/17,Ogdensburg,NY,8,Southwind,Open Class,61.5,1982
+08/17,Fort Edward,NY,9,Guardsmen,Open Class,62.85,1982
+08/17,Ogdensburg,NY,9,Bluecoats,Open Class,59.65,1982
+08/18,Montreal,Quebec,1,Les Chatelaines,Open Class,67.0,1982
+08/19,Montreal,Quebec,1,Les Chatelaines,Open Class,61.95,1982
+08/20,Montreal,Quebec,1,Blue Devils,Open Class,94.95,1982
+08/21,Montreal,Quebec,1,Blue Devils,Open Class,95.25,1982
+08/18,Montreal,Quebec,2,Ventures,Open Class,56.1,1982
+08/19,Montreal,Quebec,2,Ventures,Open Class,56.6,1982
+08/20,Montreal,Quebec,2,Vanguard,Open Class,93.5,1982
+08/21,Montreal,Quebec,2,Vanguard,Open Class,93.55,1982
+08/18,Montreal,Quebec,3,Saint Ignatius,Open Class,46.5,1982
+08/19,Montreal,Quebec,3,Saint Ignatius,Open Class,44.55,1982
+08/20,Montreal,Quebec,3,Phantom Regiment,Open Class,93.1,1982
+08/21,Montreal,Quebec,3,Garfield Cadets,Open Class,92.25,1982
+08/18,Montreal,Quebec,4,CapitolAires,Open Class,42.4,1982
+08/20,Montreal,Quebec,4,Madison Scouts,Open Class,91.95,1982
+08/21,Montreal,Quebec,4,Phantom Regiment,Open Class,92.15,1982
+08/18,Montreal,Quebec,5,Saint John's,Open Class,40.3,1982
+08/19,Montreal,Quebec,1,Dutch Boy,Open Class,68.05,1982
+08/20,Montreal,Quebec,5,Garfield Cadets,Open Class,90.95,1982
+08/21,Montreal,Quebec,5,Madison Scouts,Open Class,90.75,1982
+08/18,Montreal,Quebec,6,Bandettes,Open Class,29.65,1982
+08/19,Montreal,Quebec,2,Les Etoiles,Open Class,58.8,1982
+08/20,Montreal,Quebec,6,Crossmen,Open Class,87.7,1982
+08/21,Montreal,Quebec,6,27th Lancers,Open Class,88.65,1982
+08/18,Montreal,Quebec,7,Mello Dears,Open Class,29.4,1982
+08/19,Montreal,Quebec,3,Florida Wave,Open Class,57.8,1982
+08/20,Montreal,Quebec,7,27th Lancers,Open Class,87.45,1982
+08/21,Montreal,Quebec,7,Crossmen,Open Class,88.05,1982
+08/19,Montreal,Quebec,4,Arbella,Open Class,56.95,1982
+08/20,Montreal,Quebec,8,Freelancers,Open Class,85.9,1982
+08/21,Montreal,Quebec,8,Bridgemen,Open Class,86.15,1982
+08/18,Montreal,Quebec,1,Dutch Boy,Open Class,67.7,1982
+08/19,Montreal,Quebec,5,Pioneer,Open Class,56.3,1982
+08/20,Montreal,Quebec,9,Bridgemen,Open Class,85.55,1982
+08/21,Montreal,Quebec,9,Freelancers,Open Class,85.8,1982
+08/18,Montreal,Quebec,2,Florida Wave,Open Class,66.15,1982
+08/19,Montreal,Quebec,6,Golden Garrison,Open Class,55.8,1982
+08/20,Montreal,Quebec,10,Sky Ryders,Open Class,85.05,1982
+08/21,Montreal,Quebec,10,Sky Ryders,Open Class,83.1,1982
+08/18,Montreal,Quebec,3,Les Etoiles,Open Class,61.0,1982
+08/19,Montreal,Quebec,7,Valley Airs,Open Class,49.65,1982
+08/20,Montreal,Quebec,11,Spirit of Atlanta,Open Class,84.4,1982
+08/21,Montreal,Quebec,11,Cavaliers,Open Class,81.95,1982
+08/18,Montreal,Quebec,4,Golden Garrison,Open Class,60.4,1982
+08/20,Montreal,Quebec,12,Cavaliers,Open Class,83.1,1982
+08/21,Montreal,Quebec,12,Spirit of Atlanta,Open Class,81.65,1982
+08/18,Montreal,Quebec,5,Arbella,Open Class,58.8,1982
+08/20,Montreal,Quebec,13,Suncoast Sound,Open Class,81.1,1982
+08/18,Montreal,Quebec,6,Pioneer,Open Class,58.6,1982
+08/20,Montreal,Quebec,14,Troopers,Open Class,77.6,1982
+08/18,Montreal,Quebec,7,Valley Airs,Open Class,58.15,1982
+08/20,Montreal,Quebec,15,Knights,Open Class,76.25,1982
+08/18,Montreal,Quebec,8,Black Knights,Open Class,57.25,1982
+08/20,Montreal,Quebec,16,North Star,Open Class,74.6,1982
+08/18,Montreal,Quebec,9,New York Volunteers,Open Class,52.35,1982
+08/20,Montreal,Quebec,17,Alliance,Open Class,73.35,1982
+08/18,Montreal,Quebec,10,Crimson Cadets,Open Class,51.35,1982
+08/20,Montreal,Quebec,18,Valley Fever,Open Class,72.6,1982
+08/18,Montreal,Quebec,11,Black Watch,Open Class,51.0,1982
+08/20,Montreal,Quebec,19,Memphis Blues,Open Class,72.5,1982
+08/18,Montreal,Quebec,12,Les Crescendos,Open Class,50.7,1982
+08/20,Montreal,Quebec,20,Defenders,Open Class,72.05,1982
+08/18,Montreal,Quebec,13,Diplomats,Open Class,50.65,1982
+08/20,Montreal,Quebec,21,Velvet Knights,Open Class,70.2,1982
+08/18,Montreal,Quebec,14,Bluewater Buccaneers,Open Class,50.3,1982
+08/20,Montreal,Quebec,22,Les Eclipses,Open Class,69.05,1982
+08/18,Montreal,Quebec,15,Les Senateurs,Open Class,50.05,1982
+08/20,Montreal,Quebec,23,San Jose Raiders,Open Class,67.35,1982
+08/18,Montreal,Quebec,16,Kiwanis Kavaliers,Open Class,45.55,1982
+08/20,Montreal,Quebec,24,Colts,Open Class,67.2,1982
+08/18,Montreal,Quebec,17,Eagles of Central NY,Open Class,45.4,1982
+08/20,Montreal,Quebec,25,Seattle Imperials,Open Class,66.05,1982
+08/18,Montreal,Quebec,18,Citations,Open Class,44.7,1982
+08/20,Montreal,Quebec,26,Boston Crusaders,Open Class,65.3,1982
+08/18,Montreal,Quebec,19,Ontario Ambassadors,Open Class,44.55,1982
+08/20,Montreal,Quebec,27,Avant Garde,Open Class,65.15,1982
+08/18,Montreal,Quebec,20,New York Lancers,Open Class,43.5,1982
+08/20,Montreal,Quebec,28,Anaheim Kingsmen,Open Class,64.15,1982
+08/18,Montreal,Quebec,21,Les Adventuriers,Open Class,42.95,1982
+08/20,Montreal,Quebec,29,Pride of Cincinnati,Open Class,63.7,1982
+08/18,Montreal,Quebec,22,Fusion,Open Class,42.35,1982
+08/20,Montreal,Quebec,30,Saginaires,Open Class,63.25,1982
+08/18,Montreal,Quebec,23,Conquistadors,Open Class,42.3,1982
+08/20,Montreal,Quebec,31,Rivermen,Open Class,62.1,1982
+08/18,Montreal,Quebec,24,Pioneer Scouts,Open Class,41.05,1982
+08/20,Montreal,Quebec,32,Guardsmen,Open Class,57.75,1982
+08/18,Montreal,Quebec,25,Gauchos,Open Class,40.95,1982
+08/20,Montreal,Quebec,33,Bluecoats,Open Class,56.25,1982
+08/18,Montreal,Quebec,26,Barons of Steuben,Open Class,40.85,1982
+08/20,Montreal,Quebec,34,Glassmen,Open Class,55.5,1982
+08/18,Montreal,Quebec,27,Coachmen,Open Class,39.7,1982
+08/20,Montreal,Quebec,35,Imperial Guard,Open Class,54.35,1982
+08/18,Montreal,Quebec,28,Firebirds,Open Class,38.65,1982
+08/20,Montreal,Quebec,36,Southwind,Open Class,53.8,1982
+08/18,Montreal,Quebec,29,Les Royalists,Open Class,38.2,1982
+08/20,Montreal,Quebec,37,Blue Stars,Open Class,53.1,1982
+08/18,Montreal,Quebec,30,Vaqueros,Open Class,37.2,1982
+08/20,Montreal,Quebec,38,Renegades,Open Class,52.1,1982
+08/18,Montreal,Quebec,31,Wausau Story,Open Class,35.2,1982
+08/20,Montreal,Quebec,39,Fantasia III,Open Class,47.55,1982
+08/18,Montreal,Quebec,32,Les Troubadours,Open Class,35.15,1982
+08/20,Montreal,Quebec,40,CMCC Warriors,Open Class,47.0,1982
+08/18,Montreal,Quebec,33,Northwind Rebels,Open Class,34.95,1982
+08/20,Montreal,Quebec,41,Nighthawks,Open Class,46.6,1982
+08/18,Montreal,Quebec,34,Marion Cadets,Open Class,32.05,1982
+08/20,Montreal,Quebec,42,Southernaires,Open Class,45.8,1982
+08/18,Montreal,Quebec,35,Kilties,Open Class,31.8,1982
+08/20,Montreal,Quebec,43,Patriots,Open Class,45.0,1982
+08/18,Montreal,Quebec,36,Royalaires,Open Class,31.6,1982
+08/20,Montreal,Quebec,44,Emerald Knights,Open Class,43.15,1982
+08/18,Montreal,Quebec,37,Buccaneers-MA,Open Class,30.9,1982
+08/20,Montreal,Quebec,45,Caballaros,Open Class,40.65,1982
+08/18,Montreal,Quebec,38,Sharpshooters,Open Class,30.8,1982
+08/20,Montreal,Quebec,46,PAL Cadets,Open Class,38.35,1982
+08/18,Montreal,Quebec,39,I.C.. Queensmen,Open Class,27.0,1982
+08/20,Montreal,Quebec,47,1st Canadian Regiment,Open Class,34.35,1982
+08/18,Montreal,Quebec,40,Cardinals,Open Class,26.9,1982
+08/20,Montreal,Quebec,48,Connecticut Classics,Open Class,29.75,1982
+08/18,Montreal,Quebec,41,Frontiersmen,Open Class,25.1,1982
+08/18,Montreal,Quebec,42,Royal Knights,Open Class,17.85,1982
+08/18,Montreal,Quebec,43,Racine Scouts,Open Class,12.5,1982
+08/21,Verdun,Quebec,1,New York Skyliners,Open Class,85.8,1982
+08/22,Montreal,Quebec,1,New York Lancers,Open Class,85.8,1982
+08/28,Bridgeport,PA,1,Sunrisers,Open Class,87.85,1982
+08/28,Roselle Park,NJ,1,Stormy Knights,Open Class,57.75,1982
+08/21,Verdun,Quebec,2,Sunrisers,Open Class,84.7,1982
+08/22,Montreal,Quebec,2,Sunrisers,Open Class,84.7,1982
+08/28,Bridgeport,PA,2,Hawthorne Caballeros,Open Class,87.55,1982
+08/28,Roselle Park,NJ,2,Hamilton Knights,Open Class,56.4,1982
+08/21,Verdun,Quebec,3,Westshoremen,Open Class,83.9,1982
+08/22,Montreal,Quebec,3,Westshoremen,Open Class,83.9,1982
+08/28,Bridgeport,PA,3,New York Skyliners,Open Class,86.95,1982
+08/28,Roselle Park,NJ,3,Saint John's Crusaders,Open Class,48.1,1982
+08/21,Verdun,Quebec,4,Matadors,Open Class,75.8,1982
+08/22,Montreal,Quebec,4,Matadors,Open Class,75.8,1982
+08/28,Bridgeport,PA,4,Connecticut Hurricanes,Open Class,86.0,1982
+08/28,Roselle Park,NJ,4,Emerald Grenadiers,Open Class,47.5,1982
+08/21,Verdun,Quebec,5,L'Odyssey,Open Class,58.5,1982
+08/22,Montreal,Quebec,5,L'Odysee,Open Class,58.5,1982
+08/28,Bridgeport,PA,5,Reading Buccaneers,Open Class,81.1,1982
+08/28,Roselle Park,NJ,5,Long Island Bluejays,Open Class,43.5,1982
+08/21,Verdun,Quebec,6,Les Allouettes,Open Class,56.8,1982
+08/22,Montreal,Quebec,6,LaClique Alouette,Open Class,56.8,1982
+08/28,Bridgeport,PA,6,Matadors,Open Class,75.55,1982
+08/21,Verdun,Quebec,7,Rochester Crusaders,Open Class,55.8,1982
+08/22,Montreal,Quebec,7,Rochester Crusaders,Open Class,55.8,1982
+08/28,Brantford,Ontario,1,Canadian Knights,Open Class,48.2,1982
+08/28,Brantford,Ontario,1,Dutch Boy,Open Class,68.5,1982
+08/28,Alliance,OH,1,Steel City Ambassadors,Open Class,72.4,1982
+08/28,Dummondville,Quebec,1,Crescendos,Open Class,79.465,1982
+08/28,Brantford,Ontario,2,Rebels,Open Class,37.0,1982
+08/28,Brantford,Ontario,2,Bluewater Buccaneers,Open Class,50.5,1982
+08/28,Alliance,OH,2,Erie Thunderbirds,Open Class,66.3,1982
+08/28,Dummondville,Quebec,2,Sénateurs,Open Class,78.395,1982
+08/28,Brantford,Ontario,3,Cardinals,Open Class,30.8,1982
+08/28,Alliance,OH,3,Bushwackers,Open Class,65.35,1982
+08/28,Dummondville,Quebec,3,Patriotes,Open Class,77.585,1982
+08/28,Brantford,Ontario,4,Durham Girls,Open Class,25.4,1982
+08/28,Brantford,Ontario,1,Ventures,Open Class,54.0,1982
+08/28,Alliance,OH,4,Ohio Brass Factory,Open Class,64.6,1982
+08/28,Dummondville,Quebec,4,Étoiles d’Or,Open Class,77.08,1982
+08/28,Brantford,Ontario,5,Blue Saints,Open Class,20.9,1982
+08/28,Brantford,Ontario,2,Saint John's,Open Class,49.8,1982
+08/28,Alliance,OH,5,Hanover Lancers,Open Class,54.55,1982
+08/28,Dummondville,Quebec,5,Royalistes,Open Class,72.91,1982
+08/28,Brantford,Ontario,6,Saint Andrews,Open Class,13.9,1982
+08/28,Alliance,OH,6,Troy Defenders,Open Class,37.2,1982
+08/28,Dummondville,Quebec,6,Dynamiques,Open Class,53.41,1982
+08/28,Brantford,Ontario,1,Kiwanis Kavaliers,Open Class,58.1,1982
+08/28,Dummondville,Quebec,7,Olympiens,Open Class,52.01,1982
+08/28,Brantford,Ontario,2,Ontario Ambassadors,Open Class,49.8,1982
+08/28,Dummondville,Quebec,8,Voltigeurs,Open Class,51.34,1982
+08/28,Dummondville,Quebec,9,Cavalières,Open Class,45.425,1982
+08/28,Brantford,Ontario,1,Canadian Knights,Open Class,50.5,1982
+08/28,Dummondville,Quebec,10,Baladins,Open Class,45.265,1982
+08/28,Brantford,Ontario,2,Rebels,Open Class,41.1,1982
+08/28,Dummondville,Quebec,11,Clan Chénier,Open Class,42.08,1982
+08/28,Brantford,Ontario,3,Cardinals,Open Class,35.6,1982
+08/28,Dummondville,Quebec,12,Cendrillons,Open Class,40.765,1982
+08/28,Dummondville,Quebec,13,Sonnor,Open Class,38.37,1982
+08/28,Brantford,Ontario,1,Ridge Raiders,Open Class,31.1,1982
+08/28,Dummondville,Quebec,14,Avant Gardistes,Open Class,35.355,1982
+08/28,Brantford,Ontario,2,Krescendos,Open Class,27.2,1982
+08/28,Dummondville,Quebec,15,Étoiles (Granby),Open Class,33.21,1982
+08/28,Brantford,Ontario,3,Cadets of Dutch Boy,Open Class,21.4,1982
+08/28,Dummondville,Quebec,16,Renaissance,Open Class,32.61,1982
+08/28,Dummondville,Quebec,17,Hirondelles,Open Class,26.565,1982
+08/28,Brantford,Ontario,1,Étoiles,Open Class,76.0,1982
+08/28,Brantford,Ontario,1,Troubadours,Open Class,47.3,1982
+08/28,Brantford,Ontario,1,Crescendos,Open Class,82.065,1982
+08/28,Brantford,Ontario,1,Étoiles d’Or,Open Class,82.065,1982
+08/28,Brantford,Ontario,3,Sénateurs,Open Class,80.085,1982
+08/28,Brantford,Ontario,4,Patriotes,Open Class,78.995,1982
+08/28,Brantford,Ontario,5,Royalistes,Open Class,75.35,1982
+08/28,Brantford,Ontario,6,Dynamiques,Open Class,56.325,1982
+08/28,Brantford,Ontario,7,Olympiens,Open Class,54.61,1982
+08/28,Brantford,Ontario,8,Voltigeurs,Open Class,53.61,1982
+08/28,Brantford,Ontario,9,Baladins,Open Class,47.635,1982
+08/28,Brantford,Ontario,10,Cavalières,Open Class,46.495,1982
+09/05,Allentown,PA,1,Sunrisers,Open Class,89.6,1982
+09/05,Allentown,PA,1,Sunrisers,Open Class,89.85,1982
+09/05,Allentown,PA,2,Westshoremen,Open Class,88.8,1982
+09/05,Allentown,PA,2,Westshoremen,Open Class,87.95,1982
+09/05,Allentown,PA,3,Connecticut Hurricanes,Open Class,88.1,1982
+09/05,Allentown,PA,3,Connecticut Hurricanes,Open Class,87.65,1982
+09/05,Allentown,PA,4,New York Skyliners,Open Class,86.9,1982
+09/05,Allentown,PA,4,Hawthorne Caballeros,Open Class,87.45,1982
+09/05,Allentown,PA,5,Reading Buccaneers,Open Class,85.6,1982
+09/05,Allentown,PA,5,New York Skyliners,Open Class,86.35,1982
+09/05,Allentown,PA,6,Hawthorne Caballeros,Open Class,85.25,1982
+09/05,Allentown,PA,6,Reading Buccaneers,Open Class,83.65,1982
+09/05,Allentown,PA,7,Matadors,Open Class,79.1,1982
+09/05,Allentown,PA,7,Matadors,Open Class,76.75,1982
+09/05,Allentown,PA,8,Bushwackers,Open Class,74.05,1982
+09/05,Allentown,PA,8,Bushwackers,Open Class,70.55,1982
+09/05,Allentown,PA,9,Archer Epler Muskateers,Open Class,71.1,1982
+09/05,Allentown,PA,9,Archer Epler Muskateers,Open Class,65.25,1982
+09/05,Allentown,PA,10,L'Odyssey,Open Class,67.7,1982
+09/05,Allentown,PA,10,L'Odyssey,Open Class,61.0,1982
+09/05,Allentown,PA,11,Steel City Ambassadors,Open Class,64.3,1982
+09/05,Allentown,PA,12,Thunderbirds,Open Class,63.6,1982
+09/05,Allentown,PA,13,Les Allouettes,Open Class,61.75,1982
+09/05,Allentown,PA,14,Rochester Crusaders,Open Class,60.85,1982
+09/05,Allentown,PA,15,Canadian Regionaires,Open Class,59.55,1982
+09/05,Allentown,PA,16,Ohio Brass Factory,Open Class,58.05,1982
+09/05,Allentown,PA,17,Hanover Lancers,Open Class,54.9,1982
+09/05,Allentown,PA,18,Spirit of '76,Open Class,54.4,1982
+09/05,Allentown,PA,19,New York Defenders,Open Class,43.75,1982

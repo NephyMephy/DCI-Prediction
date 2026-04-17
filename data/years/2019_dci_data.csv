@@ -1,0 +1,921 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/20,Detroit,MI,1,Bluecoats,World Class,71.15,2019
+06/21,Clovis,CA,1,Vanguard,World Class,72.35,2019
+06/22,Milton,PA,1,Reading Buccaneers,DCA Open Class,74.5,2019
+06/20,Detroit,MI,2,Carolina Crown,World Class,70.9,2019
+06/21,Clovis,CA,2,Blue Devils,World Class,71.7,2019
+06/22,Milton,PA,2,White Sabers,DCA Open Class,66.8,2019
+06/20,Detroit,MI,3,Boston Crusaders,World Class,70.05,2019
+06/21,Clovis,CA,3,Cavaliers,World Class,70.2,2019
+06/22,Milton,PA,3,Bushwackers,DCA Open Class,63.95,2019
+06/20,Detroit,MI,4,Cadets,World Class,67.1,2019
+06/21,Clovis,CA,4,Mandarins,World Class,67.1,2019
+06/20,Detroit,MI,5,Blue Stars,World Class,65.45,2019
+06/21,Clovis,CA,5,Academy,World Class,64.6,2019
+06/22,Milton,PA,1,Columbus Saints,DCA A Class,51.15,2019
+06/20,Detroit,MI,6,Phantom Regiment,World Class,63.25,2019
+06/21,Clovis,CA,6,Troopers,World Class,60.45,2019
+06/21,Clovis,CA,1,Blue Devils B,Open Class,57.6,2019
+06/21,Clovis,CA,2,Vanguard Cadets,Open Class,54.9,2019
+06/21,Clovis,CA,3,Golden Empire,Open Class,49.65,2019
+06/21,Clovis,CA,4,Blue Devils C,Open Class,41.4,2019
+06/22,North Canton,OH,1,Bluecoats,World Class,71.85,2019
+06/22,Madison,WI,1,Carolina Crown,World Class,72.65,2019
+06/22,Stanford,CA,1,Vanguard,World Class,73.0,2019
+06/23,Zionsville,IN,1,Carolina Crown,World Class,73.35,2019
+06/22,North Canton,OH,2,Boston Crusaders,World Class,70.7,2019
+06/22,Madison,WI,2,Blue Stars,World Class,66.9,2019
+06/22,Stanford,CA,2,Blue Devils,World Class,72.35,2019
+06/23,Zionsville,IN,2,Cadets,World Class,69.3,2019
+06/22,North Canton,OH,3,Cadets,World Class,67.2,2019
+06/22,Madison,WI,3,Crossmen,World Class,64.05,2019
+06/22,Stanford,CA,3,Cavaliers,World Class,71.0,2019
+06/23,Zionsville,IN,3,Blue Stars,World Class,68.15,2019
+06/22,North Canton,OH,4,Phantom Regiment,World Class,63.5,2019
+06/22,Madison,WI,4,Madison Scouts,World Class,63.0,2019
+06/22,Stanford,CA,4,Mandarins,World Class,67.85,2019
+06/23,Zionsville,IN,4,Crossmen,World Class,66.85,2019
+06/22,Madison,WI,5,Colts,World Class,61.9,2019
+06/22,Stanford,CA,5,Academy,World Class,64.95,2019
+06/23,Zionsville,IN,5,Colts,World Class,64.45,2019
+06/22,Stanford,CA,6,Troopers,World Class,61.45,2019
+06/23,Zionsville,IN,6,Madison Scouts,World Class,62.4,2019
+06/22,Stanford,CA,1,Blue Devils B,Open Class,58.8,2019
+06/23,Zionsville,IN,1,Cincinnati Tradition,DCA Open Class,67.4,2019
+06/22,Stanford,CA,2,Vanguard Cadets,Open Class,55.5,2019
+06/22,Stanford,CA,3,Blue Devils C,Open Class,43.25,2019
+06/23,Sacramento,CA,1,Vanguard,World Class,74.3,2019
+06/24,Evansville,IN,1,Carolina Crown,World Class,74.95,2019
+06/25,Hamilton,OH,1,Bluecoats,World Class,75.4,2019
+06/26,Pittsburgh,PA,1,Bluecoats,World Class,77.2,2019
+06/23,Sacramento,CA,2,Blue Devils,World Class,73.9,2019
+06/24,Evansville,IN,2,Boston Crusaders,World Class,73.8,2019
+06/25,Hamilton,OH,2,Cadets,World Class,71.1,2019
+06/26,Pittsburgh,PA,2,Boston Crusaders,World Class,75.95,2019
+06/23,Sacramento,CA,3,Cavaliers,World Class,72.1,2019
+06/24,Evansville,IN,3,Blue Stars,World Class,69.25,2019
+06/25,Hamilton,OH,3,Spirit of Atlanta,World Class,67.9,2019
+06/26,Pittsburgh,PA,3,Cadets,World Class,72.1,2019
+06/23,Sacramento,CA,4,Mandarins,World Class,69.7,2019
+06/24,Evansville,IN,4,Crossmen,World Class,67.55,2019
+06/25,Hamilton,OH,4,Colts,World Class,65.3,2019
+06/26,Pittsburgh,PA,4,Spirit of Atlanta,World Class,68.4,2019
+06/23,Sacramento,CA,5,Academy,World Class,65.75,2019
+06/24,Evansville,IN,5,Spirit of Atlanta,World Class,66.85,2019
+06/25,Hamilton,OH,5,Madison Scouts,World Class,63.45,2019
+06/26,Pittsburgh,PA,5,Music City,World Class,60.25,2019
+06/23,Sacramento,CA,6,Troopers,World Class,62.7,2019
+06/24,Evansville,IN,6,Phantom Regiment,World Class,65.8,2019
+06/24,Evansville,IN,7,Music City,World Class,58.8,2019
+06/25,Hamilton,OH,1,Cincinnati Tradition,DCA Open Class,66.35,2019
+06/23,Sacramento,CA,1,Blue Devils B,Open Class,59.8,2019
+06/23,Sacramento,CA,2,Vanguard Cadets,Open Class,56.65,2019
+06/23,Sacramento,CA,3,Blue Devils C,Open Class,43.25,2019
+06/28,Allentown,PA,1,Bluecoats,World Class,78.65,2019
+06/28,Muncie,IN,1,Carolina Crown,World Class,76.05,2019
+06/28,Vista,CA,1,Vanguard,World Class,77.0,2019
+06/29,Bridgeport,CT,1,Hawthorne Caballeros,DCA Open Class,76.15,2019
+06/28,Allentown,PA,2,Boston Crusaders,World Class,77.0,2019
+06/28,Muncie,IN,2,Blue Stars,World Class,71.8,2019
+06/28,Vista,CA,2,Cavaliers,World Class,74.8,2019
+06/29,Bridgeport,CT,2,White Sabers,DCA Open Class,72.4,2019
+06/28,Allentown,PA,3,Cadets,World Class,73.6,2019
+06/28,Muncie,IN,3,Crossmen,World Class,69.8,2019
+06/28,Vista,CA,3,Blue Knights,World Class,71.5,2019
+06/29,Bridgeport,CT,3,Connecticut Hurricanes,DCA Open Class,69.7,2019
+06/28,Allentown,PA,4,Music City,World Class,62.55,2019
+06/28,Muncie,IN,4,Spirit of Atlanta,World Class,68.75,2019
+06/28,Vista,CA,4,Mandarins,World Class,70.05,2019
+06/29,Bridgeport,CT,4,Fusion Core,DCA Open Class,69.05,2019
+06/28,Muncie,IN,5,Phantom Regiment,World Class,67.3,2019
+06/28,Vista,CA,5,Troopers,World Class,63.05,2019
+06/29,Bridgeport,CT,5,Sunrisers,DCA Open Class,61.25,2019
+06/28,Allentown,PA,1,Raiders,Open Class,50.45,2019
+06/28,Muncie,IN,6,Colts,World Class,66.2,2019
+06/28,Vista,CA,6,Pacific Crest,World Class,62.15,2019
+06/28,Allentown,PA,2,Encorps,Open Class,46.8,2019
+06/28,Muncie,IN,7,Madison Scouts,World Class,63.7,2019
+06/28,Vista,CA,7,Genesis,World Class,57.4,2019
+06/28,Vista,CA,1,Gold,Open Class,54.95,2019
+06/28,Vista,CA,2,Golden Empire,Open Class,50.5,2019
+06/28,Vista,CA,3,Vessel,Open Class,48.55,2019
+06/28,Vista,CA,4,Watchmen,Open Class,44.7,2019
+06/28,Vista,CA,5,Impulse,Open Class,40.65,2019
+06/28,Vista,CA,6,Incognito,Open Class,38.3,2019
+06/29,Lawrence,MA,1,Bluecoats,World Class,79.9,2019
+06/29,Rockford,IL,1,Carolina Crown,World Class,78.3,2019
+06/29,Pasadena,CA,1,Vanguard,World Class,78.55,2019
+06/30,Rochester,MN,1,Blue Stars,World Class,74.95,2019
+06/29,Lawrence,MA,2,Boston Crusaders,World Class,78.35,2019
+06/29,Rockford,IL,2,Blue Stars,World Class,73.95,2019
+06/29,Pasadena,CA,2,Blue Devils,World Class,78.15,2019
+06/30,Rochester,MN,2,Crossmen,World Class,73.35,2019
+06/29,Lawrence,MA,3,Cadets,World Class,74.45,2019
+06/29,Rockford,IL,3,Crossmen,World Class,71.6,2019
+06/29,Pasadena,CA,3,Cavaliers,World Class,75.85,2019
+06/30,Rochester,MN,3,Spirit of Atlanta,World Class,71.55,2019
+06/29,Lawrence,MA,4,Music City,World Class,62.8,2019
+06/29,Rockford,IL,4,Spirit of Atlanta,World Class,70.15,2019
+06/29,Pasadena,CA,4,Blue Knights,World Class,72.9,2019
+06/30,Rochester,MN,4,Phantom Regiment,World Class,71.3,2019
+06/29,Rockford,IL,5,Phantom Regiment,World Class,69.2,2019
+06/29,Pasadena,CA,5,Mandarins,World Class,71.85,2019
+06/30,Rochester,MN,5,Colts,World Class,68.75,2019
+06/29,Lawrence,MA,1,Spartans,Open Class,59.3,2019
+06/29,Rockford,IL,6,Colts,World Class,67.0,2019
+06/29,Pasadena,CA,6,Academy,World Class,67.2,2019
+06/30,Rochester,MN,6,Madison Scouts,World Class,66.65,2019
+06/29,Lawrence,MA,2,7th Regiment,Open Class,52.35,2019
+06/29,Rockford,IL,7,Madison Scouts,World Class,65.2,2019
+06/29,Pasadena,CA,7,Troopers,World Class,63.25,2019
+06/29,Pasadena,CA,8,Pacific Crest,World Class,61.85,2019
+06/30,Rochester,MN,1,Colt Cadets,Open Class,47.75,2019
+06/29,Rockford,IL,1,Colt Cadets,Open Class,47.5,2019
+06/29,Pasadena,CA,9,Genesis,World Class,58.15,2019
+06/29,Pasadena,CA,1,Gold,Open Class,55.7,2019
+06/29,Pasadena,CA,2,Golden Empire,Open Class,52.65,2019
+06/29,Pasadena,CA,3,Vessel,Open Class,49.75,2019
+06/29,Pasadena,CA,4,Watchmen,Open Class,46.95,2019
+06/29,Pasadena,CA,5,Impulse,Open Class,43.6,2019
+06/29,Pasadena,CA,6,Incognito,Open Class,40.85,2019
+06/29,Lawrence,MA,1,Blue Devils,World Class,78.6,2019
+06/29,Lawrence,MA,2,Vanguard,World Class,78.55,2019
+06/29,Lawrence,MA,3,Cavaliers,World Class,75.9,2019
+06/29,Lawrence,MA,4,Blue Knights,World Class,73.3,2019
+06/29,Lawrence,MA,5,Mandarins,World Class,71.95,2019
+06/29,Lawrence,MA,6,Academy,World Class,67.55,2019
+06/29,Lawrence,MA,7,Troopers,World Class,64.9,2019
+06/29,Lawrence,MA,8,Pacific Crest,World Class,63.3,2019
+06/29,Lawrence,MA,9,Genesis,World Class,59.8,2019
+06/29,Lawrence,MA,1,Gold,Open Class,57.15,2019
+06/29,Lawrence,MA,2,Golden Empire,Open Class,53.7,2019
+06/29,Lawrence,MA,3,Vessel,Open Class,51.35,2019
+06/29,Lawrence,MA,4,Watchmen,Open Class,46.3,2019
+06/29,Lawrence,MA,5,Impulse,Open Class,42.9,2019
+06/29,Lawrence,MA,6,Incognito,Open Class,42.05,2019
+07/01,Lynn,MA,1,Bluecoats,World Class,81.75,2019
+07/01,Mesa,AZ,1,Vanguard,World Class,79.7,2019
+07/02,East Rutherford,NJ,1,Bluecoats,World Class,81.8,2019
+07/02,Wausau,WI,1,Blue Stars,World Class,75.95,2019
+07/01,Lynn,MA,2,Cadets,World Class,76.25,2019
+07/01,Mesa,AZ,2,Cavaliers,World Class,77.1,2019
+07/02,East Rutherford,NJ,2,Boston Crusaders,World Class,79.95,2019
+07/02,Wausau,WI,2,Crossmen,World Class,74.0,2019
+07/01,Lynn,MA,3,Music City,World Class,64.3,2019
+07/01,Mesa,AZ,3,Academy,World Class,67.4,2019
+07/02,East Rutherford,NJ,3,Cadets,World Class,76.65,2019
+07/02,Wausau,WI,3,Colts,World Class,69.35,2019
+07/01,Mesa,AZ,4,Troopers,World Class,66.2,2019
+07/02,East Rutherford,NJ,4,Music City,World Class,65.55,2019
+07/02,Wausau,WI,4,Madison Scouts,World Class,67.6,2019
+07/01,Lynn,MA,1,Spartans,Open Class,60.9,2019
+07/02,East Rutherford,NJ,5,Jersey Surf,World Class,63.95,2019
+07/01,Lynn,MA,2,7th Regiment,Open Class,55.25,2019
+07/02,Wausau,WI,1,River City Rhythm,Open Class,52.0,2019
+07/02,East Rutherford,NJ,1,7th Regiment,Open Class,57.3,2019
+07/02,Wausau,WI,2,Colt Cadets,Open Class,47.65,2019
+07/02,East Rutherford,NJ,2,Raiders,Open Class,49.35,2019
+07/02,East Rutherford,NJ,3,Encorps,Open Class,47.45,2019
+07/03,Cedarburg,WI,1,Blue Stars,World Class,77.85,2019
+07/05,Lexington,SC,1,Boston Crusaders,World Class,80.8,2019
+07/05,Lisle,IL,1,Bluecoats,World Class,82.6,2019
+07/03,Cedarburg,WI,2,Crossmen,World Class,75.9,2019
+07/05,Lexington,SC,2,Carolina Crown,World Class,80.65,2019
+07/05,Lisle,IL,2,Vanguard,World Class,81.95,2019
+07/03,Cedarburg,WI,3,Phantom Regiment,World Class,75.05,2019
+07/05,Lexington,SC,3,Phantom Regiment,World Class,74.4,2019
+07/05,Lisle,IL,3,Cavaliers,World Class,79.05,2019
+07/03,Cedarburg,WI,4,Colts,World Class,71.45,2019
+07/05,Lexington,SC,4,Spirit of Atlanta,World Class,73.15,2019
+07/05,Lisle,IL,4,Cadets,World Class,78.0,2019
+07/03,Cedarburg,WI,5,Madison Scouts,World Class,68.6,2019
+07/05,Lexington,SC,5,Music City,World Class,66.45,2019
+07/05,Lisle,IL,5,Blue Stars,World Class,76.4,2019
+07/05,Lexington,SC,6,Jersey Surf,World Class,64.65,2019
+07/05,Lisle,IL,6,Colts,World Class,72.25,2019
+07/03,Cedarburg,WI,1,River City Rhythm,Open Class,53.6,2019
+07/05,Lisle,IL,7,Academy,World Class,68.85,2019
+07/03,Cedarburg,WI,2,Colt Cadets,Open Class,48.05,2019
+07/05,Lisle,IL,1,Legends,Open Class,58.55,2019
+07/05,Camas,WA,1,Blue Devils,World Class,81.1,2019
+07/05,Sacramento,CA,1,Mandarins,World Class,75.5,2019
+07/05,Camas,WA,2,Blue Knights,World Class,74.7,2019
+07/05,Sacramento,CA,2,Pacific Crest,World Class,66.95,2019
+07/05,Camas,WA,3,Troopers,World Class,67.1,2019
+07/05,Camas,WA,4,Genesis,World Class,61.35,2019
+07/05,Sacramento,CA,1,Blue Devils B,Open Class,63.45,2019
+07/05,Camas,WA,5,Seattle Cascades,World Class,59.35,2019
+07/05,Sacramento,CA,2,Vanguard Cadets,Open Class,61.05,2019
+07/05,Sacramento,CA,3,Blue Devils C,Open Class,47.15,2019
+07/05,Camas,WA,1,Battalion,Open Class,54.65,2019
+07/05,Camas,WA,2,Columbians,Open Class,52.3,2019
+07/06,Whitewater,WI,1,Bluecoats,World Class,83.8,2019
+07/06,Renton,WA,1,Blue Devils,World Class,82.95,2019
+07/07,Menominee,WI,1,Bluecoats,World Class,84.9,2019
+07/08,Valdosta,GA,1,Carolina Crown,World Class,81.9,2019
+07/06,Whitewater,WI,2,Vanguard,World Class,83.0,2019
+07/06,Renton,WA,2,Blue Knights,World Class,75.8,2019
+07/07,Menominee,WI,2,Vanguard,World Class,84.0,2019
+07/08,Valdosta,GA,2,Phantom Regiment,World Class,75.3,2019
+07/06,Whitewater,WI,3,Cavaliers,World Class,80.05,2019
+07/06,Renton,WA,3,Troopers,World Class,67.65,2019
+07/07,Menominee,WI,3,Cadets,World Class,79.0,2019
+07/08,Valdosta,GA,3,Spirit of Atlanta,World Class,73.7,2019
+07/06,Whitewater,WI,4,Cadets,World Class,78.35,2019
+07/06,Renton,WA,4,Genesis,World Class,60.75,2019
+07/07,Menominee,WI,4,Blue Stars,World Class,77.75,2019
+07/08,Valdosta,GA,4,Music City,World Class,67.85,2019
+07/06,Whitewater,WI,5,Blue Stars,World Class,76.55,2019
+07/06,Renton,WA,5,Seattle Cascades,World Class,57.7,2019
+07/07,Menominee,WI,5,Crossmen,World Class,76.65,2019
+07/08,Valdosta,GA,5,Jersey Surf,World Class,65.65,2019
+07/06,Whitewater,WI,6,Crossmen,World Class,75.95,2019
+07/07,Menominee,WI,6,Colts,World Class,72.6,2019
+07/06,Whitewater,WI,7,Academy,World Class,70.8,2019
+07/06,Renton,WA,1,Battalion,Open Class,54.85,2019
+07/07,Menominee,WI,7,Academy,World Class,71.9,2019
+07/08,Valdosta,GA,1,Southwind,Open Class,58.85,2019
+07/06,Whitewater,WI,8,Madison Scouts,World Class,69.65,2019
+07/06,Renton,WA,2,Columbians,Open Class,52.45,2019
+07/07,Menominee,WI,8,Madison Scouts,World Class,70.05,2019
+07/08,Valdosta,GA,2,Louisiana Stars,Open Class,57.85,2019
+07/06,Whitewater,WI,1,Legends,Open Class,61.0,2019
+07/07,Menominee,WI,1,Legends,Open Class,60.75,2019
+07/06,Whitewater,WI,2,Colt Cadets,Open Class,50.85,2019
+07/07,Menominee,WI,2,River City Rhythm,Open Class,57.35,2019
+07/07,Menominee,WI,3,Colt Cadets,Open Class,51.6,2019
+07/07,Menominee,WI,1,Govenaires,DCA A Class,62.45,2019
+07/08,Tri-Cities,WA,1,Blue Devils,World Class,84.1,2019
+07/09,Hoschton,GA,1,Phantom Regiment,World Class,76.7,2019
+07/09,Sioux City,IA,1,Cadets,World Class,79.0,2019
+07/09,Mankato,MN,1,Bluecoats,World Class,85.7,2019
+07/08,Tri-Cities,WA,2,Blue Knights,World Class,77.8,2019
+07/09,Hoschton,GA,2,Spirit of Atlanta,World Class,75.25,2019
+07/09,Sioux City,IA,2,Crossmen,World Class,77.7,2019
+07/09,Mankato,MN,2,Blue Stars,World Class,78.95,2019
+07/08,Tri-Cities,WA,3,Pacific Crest,World Class,68.95,2019
+07/09,Hoschton,GA,3,Music City,World Class,69.0,2019
+07/09,Sioux City,IA,3,Mandarins,World Class,76.0,2019
+07/09,Mankato,MN,3,Colts,World Class,72.65,2019
+07/08,Tri-Cities,WA,4,Troopers,World Class,68.65,2019
+07/09,Hoschton,GA,4,Jersey Surf,World Class,67.0,2019
+07/09,Mankato,MN,4,Academy,World Class,71.4,2019
+07/08,Tri-Cities,WA,5,Genesis,World Class,62.6,2019
+07/09,Sioux City,IA,1,Colt Cadets,Open Class,52.1,2019
+07/09,Mankato,MN,5,Madison Scouts,World Class,69.7,2019
+07/08,Tri-Cities,WA,6,Seattle Cascades,World Class,59.85,2019
+07/09,Hoschton,GA,1,Louisiana Stars,Open Class,59.9,2019
+07/09,Hoschton,GA,2,Southwind,Open Class,59.55,2019
+07/09,Mankato,MN,1,River City Rhythm,Open Class,58.6,2019
+07/08,Tri-Cities,WA,1,Battalion,Open Class,57.3,2019
+07/09,Hoschton,GA,3,Heat Wave,Open Class,50.65,2019
+07/08,Tri-Cities,WA,2,Columbians,Open Class,54.75,2019
+07/09,Mankato,MN,1,Govenaires,DCA A Class,62.8,2019
+07/09,Boise,ID,1,Blue Devils,World Class,85.45,2019
+07/10,Ankeny,IA,1,Bluecoats,World Class,86.3,2019
+07/10,Ogden,UT,1,Blue Devils,World Class,86.45,2019
+07/11,Knoxville,TN,1,Boston Crusaders,World Class,84.3,2019
+07/09,Boise,ID,2,Blue Knights,World Class,78.45,2019
+07/10,Ankeny,IA,2,Vanguard,World Class,85.6,2019
+07/10,Ogden,UT,2,Blue Knights,World Class,80.2,2019
+07/11,Knoxville,TN,2,Phantom Regiment,World Class,77.8,2019
+07/09,Boise,ID,3,Pacific Crest,World Class,70.1,2019
+07/10,Ankeny,IA,3,Blue Stars,World Class,79.65,2019
+07/10,Ogden,UT,3,Pacific Crest,World Class,71.9,2019
+07/11,Knoxville,TN,3,Spirit of Atlanta,World Class,75.9,2019
+07/09,Boise,ID,3,Troopers,World Class,70.1,2019
+07/10,Ankeny,IA,4,Mandarins,World Class,77.5,2019
+07/10,Ogden,UT,4,Troopers,World Class,70.5,2019
+07/11,Knoxville,TN,4,Music City,World Class,69.25,2019
+07/09,Boise,ID,5,Genesis,World Class,63.05,2019
+07/10,Ankeny,IA,5,Colts,World Class,74.0,2019
+07/10,Ogden,UT,5,Genesis,World Class,63.3,2019
+07/11,Knoxville,TN,5,Jersey Surf,World Class,66.75,2019
+07/09,Boise,ID,6,Seattle Cascades,World Class,60.65,2019
+07/10,Ankeny,IA,6,Academy,World Class,73.0,2019
+07/10,Ogden,UT,6,Seattle Cascades,World Class,60.95,2019
+07/09,Boise,ID,1,Battalion,Open Class,57.7,2019
+07/10,Ankeny,IA,1,River City Rhythm,Open Class,58.9,2019
+07/10,Ogden,UT,1,Battalion,Open Class,59.0,2019
+07/11,Knoxville,TN,2,Southwind,Open Class,60.7,2019
+07/09,Boise,ID,2,Columbians,Open Class,55.55,2019
+07/10,Ankeny,IA,2,Colt Cadets,Open Class,54.2,2019
+07/10,Ogden,UT,2,Columbians,Open Class,56.65,2019
+07/11,Knoxville,TN,3,Heat Wave,Open Class,51.4,2019
+07/12,Dubuque,IA,1,Cavaliers,World Class,82.65,2019
+07/12,Casper,WY,1,Cadets,World Class,79.8,2019
+07/12,Bakersfield,CA,1,Blue Devils B,Open Class,69.75,2019
+07/13,Clifton,NJ,1,Reading Buccaneers,DCA Open Class,80.25,2019
+07/12,Dubuque,IA,2,Blue Stars,World Class,80.2,2019
+07/12,Casper,WY,2,Crossmen,World Class,78.6,2019
+07/12,Bakersfield,CA,2,Vanguard Cadets,Open Class,67.25,2019
+07/13,Clifton,NJ,2,Hawthorne Caballeros,DCA Open Class,78.2,2019
+07/12,Dubuque,IA,3,Colts,World Class,75.15,2019
+07/12,Casper,WY,3,Troopers,World Class,70.3,2019
+07/12,Bakersfield,CA,3,Gold,Open Class,65.85,2019
+07/13,Clifton,NJ,3,Bushwackers,DCA Open Class,72.6,2019
+07/12,Dubuque,IA,4,Academy,World Class,74.5,2019
+07/12,Casper,WY,4,Genesis,World Class,64.7,2019
+07/12,Bakersfield,CA,4,Golden Empire,Open Class,62.15,2019
+07/13,Clifton,NJ,4,Fusion Core,DCA Open Class,70.65,2019
+07/12,Dubuque,IA,5,Madison Scouts,World Class,71.8,2019
+07/12,Bakersfield,CA,5,Vessel,Open Class,60.85,2019
+07/13,Clifton,NJ,5,Connecticut Hurricanes,DCA Open Class,69.0,2019
+07/12,Bakersfield,CA,6,Impulse,Open Class,52.5,2019
+07/13,Clifton,NJ,6,Sunrisers,DCA Open Class,57.7,2019
+07/12,Dubuque,IA,1,River City Rhythm,Open Class,61.55,2019
+07/12,Bakersfield,CA,7,Incognito,Open Class,49.25,2019
+07/12,Dubuque,IA,2,Shadow,Open Class,57.8,2019
+07/12,Bakersfield,CA,8,Blue Devils C,Open Class,49.2,2019
+07/13,Clifton,NJ,1,Skyliners,DCA A Class,59.25,2019
+07/12,Dubuque,IA,3,Colt Cadets,Open Class,54.55,2019
+07/13,Memphis,TN,1,Vanguard,World Class,87.2,2019
+07/13,Millbrook,AL,1,Legends,Open Class,65.9,2019
+07/13,DeKalb,IL,1,Bluecoats,World Class,87.5,2019
+07/13,Memphis,TN,2,Carolina Crown,World Class,86.4,2019
+07/13,Millbrook,AL,2,Louisiana Stars,Open Class,62.05,2019
+07/13,DeKalb,IL,2,Cavaliers,World Class,83.55,2019
+07/13,Memphis,TN,3,Boston Crusaders,World Class,85.55,2019
+07/13,Millbrook,AL,3,Southwind,Open Class,60.95,2019
+07/13,DeKalb,IL,3,Blue Stars,World Class,81.15,2019
+07/13,Memphis,TN,4,Spirit of Atlanta,World Class,77.4,2019
+07/13,Millbrook,AL,4,Heat Wave,Open Class,52.25,2019
+07/13,DeKalb,IL,4,Mandarins,World Class,79.45,2019
+07/13,Memphis,TN,5,Music City,World Class,70.0,2019
+07/13,DeKalb,IL,5,Phantom Regiment,World Class,78.85,2019
+07/13,Memphis,TN,6,Jersey Surf,World Class,66.65,2019
+07/13,DeKalb,IL,6,Colts,World Class,75.5,2019
+07/13,DeKalb,IL,7,Academy,World Class,74.65,2019
+07/13,Memphis,TN,1,Guardians,Open Class,58.0,2019
+07/13,DeKalb,IL,8,Madison Scouts,World Class,73.0,2019
+07/13,Pittsburg,CA,1,Blue Devils B,Open Class,71.7,2019
+07/14,Woodstock,GA,1,Legends,Open Class,66.45,2019
+07/14,Belleville,IL,1,Bluecoats,World Class,88.1,2019
+07/15,Bentonville,AR,1,Carolina Crown,World Class,86.35,2019
+07/13,Pittsburg,CA,2,Vanguard Cadets,Open Class,70.2,2019
+07/14,Woodstock,GA,2,Louisiana Stars,Open Class,62.7,2019
+07/14,Belleville,IL,2,Boston Crusaders,World Class,86.6,2019
+07/15,Bentonville,AR,2,Academy,World Class,74.55,2019
+07/13,Pittsburg,CA,3,Gold,Open Class,67.8,2019
+07/14,Woodstock,GA,3,Southwind,Open Class,61.65,2019
+07/14,Belleville,IL,3,Cavaliers,World Class,84.6,2019
+07/15,Bentonville,AR,3,Madison Scouts,World Class,73.15,2019
+07/13,Pittsburg,CA,4,Golden Empire,Open Class,62.5,2019
+07/14,Woodstock,GA,4,Heat Wave,Open Class,52.7,2019
+07/14,Belleville,IL,4,Blue Stars,World Class,81.85,2019
+07/15,Bentonville,AR,4,Music City,World Class,70.3,2019
+07/13,Pittsburg,CA,5,Impulse,Open Class,52.05,2019
+07/14,Belleville,IL,5,Mandarins,World Class,80.5,2019
+07/15,Bentonville,AR,5,Jersey Surf,World Class,67.6,2019
+07/13,Pittsburg,CA,6,Blue Devils C,Open Class,50.0,2019
+07/14,Woodstock,GA,1,Atlanta CV,DCA Open Class,79.0,2019
+07/14,Belleville,IL,6,Phantom Regiment,World Class,78.65,2019
+07/13,Pittsburg,CA,7,Incognito,Open Class,48.75,2019
+07/14,Woodstock,GA,2,Southern Knights,DCA Open Class,62.1,2019
+07/14,Belleville,IL,7,Spirit of Atlanta,World Class,77.15,2019
+07/14,Belleville,IL,8,Colts,World Class,75.4,2019
+07/14,Woodstock,GA,1,Carolina Gold,DCA A Class,69.6,2019
+07/14,Belleville,IL,1,Guardians,Open Class,58.2,2019
+07/15,El Dorado,KS,1,Blue Devils,World Class,88.4,2019
+07/15,Olathe,KS,1,Bluecoats,World Class,88.4,2019
+07/16,Broken Arrow,OK,1,Bluecoats,World Class,89.375,2019
+07/15,El Dorado,KS,2,Vanguard,World Class,88.35,2019
+07/15,Olathe,KS,2,Colts,World Class,74.95,2019
+07/16,Broken Arrow,OK,2,Blue Devils,World Class,88.725,2019
+07/15,El Dorado,KS,3,Blue Knights,World Class,83.3,2019
+07/15,Olathe,KS,3,Pacific Crest,World Class,73.65,2019
+07/16,Broken Arrow,OK,3,Vanguard,World Class,88.05,2019
+07/15,El Dorado,KS,4,Cadets,World Class,82.95,2019
+07/15,Olathe,KS,4,Troopers,World Class,71.45,2019
+07/16,Broken Arrow,OK,4,Carolina Crown,World Class,86.85,2019
+07/15,El Dorado,KS,5,Mandarins,World Class,81.25,2019
+07/16,Broken Arrow,OK,5,Boston Crusaders,World Class,86.15,2019
+07/15,El Dorado,KS,6,Crossmen,World Class,80.75,2019
+07/15,Olathe,KS,1,Guardians,Open Class,59.6,2019
+07/16,Broken Arrow,OK,6,Cavaliers,World Class,84.35,2019
+07/15,Olathe,KS,2,Colt Cadets,Open Class,55.45,2019
+07/16,Broken Arrow,OK,7,Cadets,World Class,82.3,2019
+07/16,Broken Arrow,OK,8,Blue Stars,World Class,81.9,2019
+07/16,Broken Arrow,OK,9,Phantom Regiment,World Class,79.1,2019
+07/18,Belton,TX,1,Spirit of Atlanta,World Class,77.85,2019
+07/18,Denton,TX,1,Vanguard,World Class,89.45,2019
+07/18,Riverside,CA,1,Blue Devils B,Open Class,73.6,2019
+07/19,Katy,TX,1,Bluecoats,World Class,90.725,2019
+07/18,Belton,TX,2,Madison Scouts,World Class,73.9,2019
+07/18,Denton,TX,2,Carolina Crown,World Class,88.0,2019
+07/18,Riverside,CA,2,Vanguard Cadets,Open Class,71.85,2019
+07/19,Katy,TX,2,Blue Devils,World Class,90.425,2019
+07/18,Belton,TX,3,Genesis,World Class,69.0,2019
+07/18,Denton,TX,3,Boston Crusaders,World Class,87.025,2019
+07/18,Riverside,CA,3,Gold,Open Class,71.0,2019
+07/19,Katy,TX,3,Vanguard,World Class,89.825,2019
+07/18,Belton,TX,4,Music City,World Class,67.75,2019
+07/18,Denton,TX,4,Cavaliers,World Class,86.1,2019
+07/18,Riverside,CA,4,Golden Empire,Open Class,66.55,2019
+07/19,Katy,TX,4,Carolina Crown,World Class,88.325,2019
+07/18,Belton,TX,5,Jersey Surf,World Class,65.95,2019
+07/18,Denton,TX,5,Cadets,World Class,83.95,2019
+07/18,Riverside,CA,5,Battalion,Open Class,64.8,2019
+07/19,Katy,TX,5,Cavaliers,World Class,86.85,2019
+07/18,Denton,TX,6,Blue Knights,World Class,83.85,2019
+07/18,Riverside,CA,6,Vessel,Open Class,64.1,2019
+07/19,Katy,TX,6,Blue Stars,World Class,84.45,2019
+07/18,Belton,TX,1,Guardians,Open Class,60.95,2019
+07/18,Denton,TX,7,Crossmen,World Class,82.775,2019
+07/18,Riverside,CA,7,Watchmen,Open Class,59.4,2019
+07/19,Katy,TX,7,Cadets,World Class,83.925,2019
+07/18,Denton,TX,8,Mandarins,World Class,81.975,2019
+07/18,Riverside,CA,8,Impulse,Open Class,55.65,2019
+07/19,Katy,TX,8,Phantom Regiment,World Class,80.3,2019
+07/18,Denton,TX,9,Phantom Regiment,World Class,80.1,2019
+07/18,Riverside,CA,9,Incognito,Open Class,52.1,2019
+07/18,Denton,TX,10,Academy,World Class,77.4,2019
+07/18,Denton,TX,11,Colts,World Class,76.25,2019
+07/18,Denton,TX,12,Pacific Crest,World Class,75.1,2019
+07/18,Denton,TX,13,Troopers,World Class,72.675,2019
+07/19,Bellflower,CA,1,Blue Devils B,Open Class,75.7,2019
+07/20,Nashua,NH,1,Spartans,Open Class,72.05,2019
+07/20,San Antonio,TX,1,Bluecoats,World Class,91.2125,2019
+07/20,Vista,CA,1,Blue Devils B,Open Class,76.55,2019
+07/19,Bellflower,CA,2,Vanguard Cadets,Open Class,74.35,2019
+07/20,Nashua,NH,2,Legends,Open Class,70.45,2019
+07/20,San Antonio,TX,2,Blue Devils,World Class,91.0125,2019
+07/20,Vista,CA,2,Vanguard Cadets,Open Class,75.5,2019
+07/19,Bellflower,CA,3,Gold,Open Class,72.5,2019
+07/20,Nashua,NH,3,Southwind,Open Class,66.05,2019
+07/20,San Antonio,TX,3,Vanguard,World Class,90.475,2019
+07/20,Vista,CA,3,Gold,Open Class,73.05,2019
+07/19,Bellflower,CA,4,Golden Empire,Open Class,66.7,2019
+07/20,Nashua,NH,4,7th Regiment,Open Class,64.15,2019
+07/20,San Antonio,TX,4,Carolina Crown,World Class,88.8625,2019
+07/20,Vista,CA,4,Golden Empire,Open Class,68.15,2019
+07/19,Bellflower,CA,5,Battalion,Open Class,65.75,2019
+07/20,Nashua,NH,5,Heat Wave,Open Class,57.15,2019
+07/20,San Antonio,TX,5,Boston Crusaders,World Class,88.5125,2019
+07/20,Vista,CA,5,Battalion,Open Class,67.75,2019
+07/19,Bellflower,CA,6,Vessel,Open Class,62.8,2019
+07/20,Nashua,NH,6,Les Stentors,Open Class,51.25,2019
+07/20,San Antonio,TX,6,Cavaliers,World Class,87.5,2019
+07/20,Vista,CA,6,Vessel,Open Class,64.5,2019
+07/19,Bellflower,CA,7,Watchmen,Open Class,60.95,2019
+07/20,San Antonio,TX,7,Blue Knights,World Class,85.55,2019
+07/20,Vista,CA,7,Watchmen,Open Class,61.35,2019
+07/19,Bellflower,CA,8,Impulse,Open Class,56.825,2019
+07/20,San Antonio,TX,8,Blue Stars,World Class,85.225,2019
+07/20,Vista,CA,8,Impulse,Open Class,57.8,2019
+07/19,Bellflower,CA,9,Incognito,Open Class,53.1,2019
+07/20,San Antonio,TX,9,Cadets,World Class,83.575,2019
+07/20,Vista,CA,9,Incognito,Open Class,54.55,2019
+07/19,Bellflower,CA,10,Blue Devils C,Open Class,51.95,2019
+07/20,San Antonio,TX,10,Mandarins,World Class,82.175,2019
+07/20,Vista,CA,10,Blue Devils C,Open Class,53.5,2019
+07/20,San Antonio,TX,11,Crossmen,World Class,81.875,2019
+07/20,San Antonio,TX,12,Phantom Regiment,World Class,80.6125,2019
+07/20,San Antonio,TX,13,Spirit of Atlanta,World Class,78.875,2019
+07/20,San Antonio,TX,14,Academy,World Class,77.5125,2019
+07/20,San Antonio,TX,15,Colts,World Class,76.725,2019
+07/20,San Antonio,TX,16,Pacific Crest,World Class,75.2,2019
+07/20,San Antonio,TX,17,Madison Scouts,World Class,73.5,2019
+07/20,San Antonio,TX,18,Troopers,World Class,72.5625,2019
+07/20,San Antonio,TX,19,Genesis,World Class,70.5875,2019
+07/20,San Antonio,TX,20,Music City,World Class,70.3,2019
+07/20,San Antonio,TX,21,Jersey Surf,World Class,68.375,2019
+07/20,San Antonio,TX,22,Seattle Cascades,World Class,64.9,2019
+07/20,San Antonio,TX,1,Guardians,Open Class,60.225,2019
+07/20,Pataskala,OH,1,Cincinnati Tradition,DCA Open Class,70.5,2019
+07/20,Uniondale,NY,1,Hawthorne Caballeros,DCA Open Class,81.05,2019
+07/22,Lafayette,LA,1,Blue Stars,World Class,85.6,2019
+07/20,Uniondale,NY,2,Connecticut Hurricanes,DCA Open Class,72.0,2019
+07/22,Lafayette,LA,2,Cadets,World Class,84.25,2019
+07/20,Pataskala,OH,1,Columbus Saints,DCA A Class,55.85,2019
+07/20,Uniondale,NY,3,Sunrisers,DCA Open Class,62.7,2019
+07/22,Lafayette,LA,3,Mandarins,World Class,83.55,2019
+07/22,Lafayette,LA,4,Academy,World Class,78.8,2019
+07/22,Lafayette,LA,5,Pacific Crest,World Class,76.25,2019
+07/22,Lafayette,LA,6,Genesis,World Class,72.425,2019
+07/22,Lafayette,LA,7,Music City,World Class,71.15,2019
+07/22,Lafayette,LA,8,Jersey Surf,World Class,70.45,2019
+07/22,Lafayette,LA,9,Seattle Cascades,World Class,67.2,2019
+07/22,Lafayette,LA,1,Louisiana Stars,Open Class,66.4,2019
+07/22,Mesquite,TX,1,Bluecoats,World Class,91.55,2019
+07/22,Salt Lake City,UT,1,Gold,Open Class,73.9,2019
+07/23,Niagara,NY,1,Spartans,Open Class,73.55,2019
+07/24,Little Rock,AR,1,Bluecoats,World Class,92.05,2019
+07/22,Mesquite,TX,2,Blue Devils,World Class,91.175,2019
+07/22,Salt Lake City,UT,2,Battalion,Open Class,69.25,2019
+07/23,Niagara,NY,2,Legends,Open Class,71.9,2019
+07/24,Little Rock,AR,2,Vanguard,World Class,91.25,2019
+07/22,Mesquite,TX,3,Carolina Crown,World Class,89.5,2019
+07/22,Salt Lake City,UT,3,Vessel,Open Class,66.4,2019
+07/23,Niagara,NY,3,Southwind,Open Class,68.0,2019
+07/24,Little Rock,AR,3,Boston Crusaders,World Class,89.85,2019
+07/22,Mesquite,TX,4,Cavaliers,World Class,88.6,2019
+07/22,Salt Lake City,UT,4,Watchmen,Open Class,61.85,2019
+07/23,Niagara,NY,4,7th Regiment,Open Class,67.5,2019
+07/24,Little Rock,AR,4,Cavaliers,World Class,88.575,2019
+07/22,Mesquite,TX,5,Blue Knights,World Class,84.55,2019
+07/22,Salt Lake City,UT,5,Impulse,Open Class,59.65,2019
+07/23,Niagara,NY,5,Heat Wave,Open Class,56.55,2019
+07/24,Little Rock,AR,5,Blue Knights,World Class,85.55,2019
+07/22,Mesquite,TX,6,Crossmen,World Class,82.5,2019
+07/23,Niagara,NY,6,Les Stentors,Open Class,52.65,2019
+07/24,Little Rock,AR,6,Crossmen,World Class,82.7,2019
+07/22,Mesquite,TX,7,Phantom Regiment,World Class,80.75,2019
+07/24,Little Rock,AR,7,Phantom Regiment,World Class,82.05,2019
+07/22,Mesquite,TX,8,Spirit of Atlanta,World Class,80.05,2019
+07/24,Little Rock,AR,8,Colts,World Class,78.65,2019
+07/22,Mesquite,TX,9,Colts,World Class,78.0,2019
+07/24,Little Rock,AR,9,Music City,World Class,72.75,2019
+07/22,Mesquite,TX,10,Troopers,World Class,75.2,2019
+07/24,Little Rock,AR,10,Jersey Surf,World Class,69.9,2019
+07/22,Mesquite,TX,11,Madison Scouts,World Class,74.15,2019
+07/24,Hattiesburg,MS,1,Blue Devils,World Class,92.15,2019
+07/24,Denver,CO,1,Gold,Open Class,75.35,2019
+07/25,Dothan,AL,1,Mandarins,World Class,85.65,2019
+07/26,Sheffield,PA,1,Spartans,Open Class,74.45,2019
+07/24,Hattiesburg,MS,2,Blue Stars,World Class,87.35,2019
+07/24,Denver,CO,2,Battalion,Open Class,70.25,2019
+07/25,Dothan,AL,2,Spirit of Atlanta,World Class,82.3,2019
+07/26,Sheffield,PA,2,Legends,Open Class,73.6,2019
+07/24,Hattiesburg,MS,3,Mandarins,World Class,84.65,2019
+07/24,Denver,CO,3,Vessel,Open Class,68.5,2019
+07/25,Dothan,AL,3,Pacific Crest,World Class,78.6,2019
+07/26,Sheffield,PA,3,7th Regiment,Open Class,69.4,2019
+07/24,Hattiesburg,MS,4,Cadets,World Class,84.05,2019
+07/24,Denver,CO,4,Watchmen,Open Class,62.85,2019
+07/25,Dothan,AL,4,Genesis,World Class,72.75,2019
+07/26,Sheffield,PA,4,Southwind,Open Class,67.55,2019
+07/24,Hattiesburg,MS,5,Academy,World Class,79.4,2019
+07/24,Denver,CO,5,Impulse,Open Class,60.15,2019
+07/25,Dothan,AL,5,Seattle Cascades,World Class,69.3,2019
+07/26,Sheffield,PA,5,Heat Wave,Open Class,57.95,2019
+07/24,Hattiesburg,MS,6,Troopers,World Class,76.1,2019
+07/26,Sheffield,PA,6,Raiders,Open Class,57.55,2019
+07/24,Hattiesburg,MS,7,Madison Scouts,World Class,74.6,2019
+07/26,Sheffield,PA,7,Les Stentors,Open Class,54.0,2019
+07/24,Hattiesburg,MS,8,Seattle Cascades,World Class,67.8,2019
+07/26,Sheffield,PA,1,Cincinnati Tradition,DCA Open Class,68.4,2019
+07/26,Cape Girardeau,MO,1,Gold,Open Class,73.55,2019
+07/26,Trussville,AL,1,Blue Knights,World Class,87.45,2019
+07/26,Murfreesboro,TN,1,Blue Devils,World Class,93.5,2019
+07/27,Atlanta,GA,1,Bluecoats,World Class,93.7625,2019
+07/26,Cape Girardeau,MO,2,Guardians,Open Class,66.4,2019
+07/26,Trussville,AL,2,Colts,World Class,80.65,2019
+07/26,Murfreesboro,TN,2,Bluecoats,World Class,93.425,2019
+07/27,Atlanta,GA,2,Blue Devils,World Class,93.6325,2019
+07/26,Cape Girardeau,MO,3,River City Rhythm,Open Class,65.6,2019
+07/26,Trussville,AL,3,Pacific Crest,World Class,80.25,2019
+07/26,Murfreesboro,TN,3,Vanguard,World Class,92.575,2019
+07/27,Atlanta,GA,3,Vanguard,World Class,93.25,2019
+07/26,Cape Girardeau,MO,4,Louisiana Stars,Open Class,65.0,2019
+07/26,Trussville,AL,4,Madison Scouts,World Class,76.925,2019
+07/26,Murfreesboro,TN,4,Carolina Crown,World Class,90.075,2019
+07/27,Atlanta,GA,4,Carolina Crown,World Class,91.5875,2019
+07/26,Cape Girardeau,MO,5,Shadow,Open Class,60.9,2019
+07/26,Trussville,AL,5,Troopers,World Class,76.6,2019
+07/26,Murfreesboro,TN,5,Boston Crusaders,World Class,89.975,2019
+07/27,Atlanta,GA,5,Boston Crusaders,World Class,90.675,2019
+07/26,Trussville,AL,6,Genesis,World Class,73.3,2019
+07/26,Murfreesboro,TN,6,Cavaliers,World Class,89.5,2019
+07/27,Atlanta,GA,6,Cavaliers,World Class,90.6125,2019
+07/26,Trussville,AL,7,Jersey Surf,World Class,72.05,2019
+07/26,Murfreesboro,TN,7,Blue Stars,World Class,86.75,2019
+07/27,Atlanta,GA,7,Blue Knights,World Class,87.175,2019
+07/26,Murfreesboro,TN,8,Cadets,World Class,86.05,2019
+07/27,Atlanta,GA,8,Blue Stars,World Class,86.9125,2019
+07/26,Trussville,AL,1,Southern Knights,DCA Open Class,66.4,2019
+07/26,Murfreesboro,TN,9,Music City,World Class,73.05,2019
+07/27,Atlanta,GA,9,Cadets,World Class,85.95,2019
+07/27,Atlanta,GA,10,Mandarins,World Class,85.05,2019
+07/27,Atlanta,GA,11,Crossmen,World Class,84.2125,2019
+07/27,Atlanta,GA,12,Phantom Regiment,World Class,83.725,2019
+07/27,Atlanta,GA,13,Spirit of Atlanta,World Class,82.4,2019
+07/27,Atlanta,GA,14,Academy,World Class,79.875,2019
+07/27,Atlanta,GA,14,Colts,World Class,79.875,2019
+07/27,Atlanta,GA,16,Pacific Crest,World Class,79.25,2019
+07/27,Atlanta,GA,17,Madison Scouts,World Class,77.1,2019
+07/27,Atlanta,GA,18,Troopers,World Class,76.275,2019
+07/27,Atlanta,GA,19,Genesis,World Class,73.55,2019
+07/27,Atlanta,GA,20,Music City,World Class,73.25,2019
+07/27,Atlanta,GA,21,Jersey Surf,World Class,71.15,2019
+07/27,Atlanta,GA,22,Seattle Cascades,World Class,69.225,2019
+07/27,Atlanta,GA,1,Carolina Gold,DCA A Class,70.2,2019
+07/27,Peckville,PA,1,Reading Buccaneers,DCA Open Class,86.2,2019
+07/27,White Lake,MI,1,Spartans,Open Class,75.0,2019
+07/27,Oskaloosa,IA,1,Gold,Open Class,71.7,2019
+07/28,Winston-Salem,NC,1,Blue Devils,World Class,94.15,2019
+07/27,Peckville,PA,2,Hawthorne Caballeros,DCA Open Class,83.95,2019
+07/27,White Lake,MI,2,Legends,Open Class,73.5,2019
+07/27,Oskaloosa,IA,2,Louisiana Stars,Open Class,66.65,2019
+07/28,Winston-Salem,NC,2,Bluecoats,World Class,94.075,2019
+07/27,Peckville,PA,3,White Sabers,DCA Open Class,79.35,2019
+07/27,White Lake,MI,3,Southwind,Open Class,69.65,2019
+07/27,Oskaloosa,IA,3,River City Rhythm,Open Class,66.4,2019
+07/28,Winston-Salem,NC,3,Vanguard,World Class,93.4,2019
+07/27,Peckville,PA,4,Bushwackers,DCA Open Class,78.75,2019
+07/27,White Lake,MI,4,7th Regiment,Open Class,68.9,2019
+07/27,Oskaloosa,IA,4,Guardians,Open Class,65.55,2019
+07/28,Winston-Salem,NC,4,Carolina Crown,World Class,91.575,2019
+07/27,Peckville,PA,5,Fusion Core,DCA Open Class,76.8,2019
+07/27,White Lake,MI,5,Raiders,Open Class,59.1,2019
+07/27,Oskaloosa,IA,5,Shadow,Open Class,63.2,2019
+07/28,Winston-Salem,NC,5,Cavaliers,World Class,91.4,2019
+07/27,Peckville,PA,6,Cincinnati Tradition,DCA Open Class,74.95,2019
+07/27,White Lake,MI,6,Heat Wave,Open Class,58.95,2019
+07/27,Oskaloosa,IA,6,Colt Cadets,Open Class,59.45,2019
+07/28,Winston-Salem,NC,6,Boston Crusaders,World Class,90.275,2019
+07/27,Peckville,PA,7,Connecticut Hurricanes,DCA Open Class,74.05,2019
+07/27,White Lake,MI,7,Les Stentors,Open Class,55.95,2019
+07/28,Winston-Salem,NC,7,Blue Knights,World Class,87.825,2019
+07/27,Peckville,PA,1,Skyliners,DCA A Class,69.65,2019
+07/27,White Lake,MI,1,Columbus Saints,DCA A Class,50.0,2019
+07/28,Winston-Salem,NC,9,Cadets,World Class,86.65,2019
+07/28,Winston-Salem,NC,10,Phantom Regiment,World Class,84.425,2019
+07/28,Winston-Salem,NC,11,Spirit of Atlanta,World Class,83.0,2019
+07/29,Charleston,WV,1,Mandarins,World Class,85.75,2019
+07/29,Centerville,OH,1,Blue Devils,World Class,94.625,2019
+07/29,Plymouth,IN,1,Spartans,Open Class,76.15,2019
+07/29,Storm Lake,IA,1,Gold,Open Class,73.9,2019
+07/29,Charleston,WV,2,Phantom Regiment,World Class,84.8,2019
+07/29,Centerville,OH,2,Bluecoats,World Class,94.35,2019
+07/29,Plymouth,IN,2,Legends,Open Class,74.35,2019
+07/29,Storm Lake,IA,2,River City Rhythm,Open Class,68.5,2019
+07/29,Charleston,WV,3,Academy,World Class,81.3,2019
+07/29,Centerville,OH,3,Colts,World Class,81.45,2019
+07/29,Plymouth,IN,3,Southwind,Open Class,70.75,2019
+07/29,Storm Lake,IA,3,Louisiana Stars,Open Class,67.85,2019
+07/29,Charleston,WV,4,Pacific Crest,World Class,81.0,2019
+07/29,Centerville,OH,4,Troopers,World Class,76.95,2019
+07/29,Plymouth,IN,4,7th Regiment,Open Class,69.4,2019
+07/29,Storm Lake,IA,4,Guardians,Open Class,66.2,2019
+07/29,Charleston,WV,5,Madison Scouts,World Class,77.35,2019
+07/29,Centerville,OH,5,Music City,World Class,74.2,2019
+07/29,Plymouth,IN,5,Heat Wave,Open Class,62.05,2019
+07/29,Storm Lake,IA,5,Shadow,Open Class,64.3,2019
+07/29,Charleston,WV,6,Seattle Cascades,World Class,69.65,2019
+07/29,Plymouth,IN,6,Raiders,Open Class,60.25,2019
+07/29,Storm Lake,IA,6,Colt Cadets,Open Class,60.35,2019
+07/29,Centerville,OH,1,Cincinnati Tradition,DCA Open Class,70.4,2019
+07/29,Plymouth,IN,7,Les Stentors,Open Class,58.85,2019
+07/30,Annapolis,MD,1,Cavaliers,World Class,92.05,2019
+07/30,Salem,VA,1,Carolina Crown,World Class,92.5,2019
+07/31,Farmington,MN,1,Spartans,Open Class,77.45,2019
+07/30,Annapolis,MD,2,Cadets,World Class,88.3,2019
+07/30,Salem,VA,2,Blue Knights,World Class,87.75,2019
+07/31,Farmington,MN,2,Gold',Open Class,76.2,2019
+07/30,Annapolis,MD,3,Mandarins,World Class,87.15,2019
+07/30,Salem,VA,3,Blue Stars,World Class,87.2,2019
+07/31,Farmington,MN,3,River City Rhythm,Open Class,70.8,2019
+07/30,Annapolis,MD,4,Spirit of Atlanta,World Class,84.6,2019
+07/30,Salem,VA,4,Crossmen,World Class,84.45,2019
+07/31,Farmington,MN,4,Louisiana Stars,Open Class,69.55,2019
+07/30,Annapolis,MD,5,Jersey Surf,World Class,74.2,2019
+07/30,Salem,VA,5,Pacific Crest,World Class,79.35,2019
+07/31,Farmington,MN,5,Colt Cadets,Open Class,62.4,2019
+07/30,Annapolis,MD,6,Seattle Cascades,World Class,70.75,2019
+07/30,Salem,VA,6,Madison Scouts,World Class,77.2,2019
+07/31,Farmington,MN,1,Govenaires,DCA A Class,66.6,2019
+07/30,Annapolis,MD,1,Encorps,Open Class,55.35,2019
+08/01,Lawrence,MA,1,Carolina Crown,World Class,93.25,2019
+08/01,Rome,NY,1,Phantom Regiment,World Class,86.2,2019
+08/02,Plainwell,MI,1,Legends,Open Class,75.25,2019
+08/02,Marion,IA,1,Spartans,Open Class,77.3,2019
+08/01,Lawrence,MA,2,Boston Crusaders,World Class,92.7,2019
+08/01,Rome,NY,2,Spirit of Atlanta,World Class,84.95,2019
+08/02,Plainwell,MI,2,Southwind,Open Class,71.15,2019
+08/02,Marion,IA,2,Gold,Open Class,75.9,2019
+08/01,Lawrence,MA,3,Mandarins,World Class,87.05,2019
+08/01,Rome,NY,3,Pacific Crest,World Class,81.75,2019
+08/02,Plainwell,MI,3,7th Regiment,Open Class,70.9,2019
+08/02,Marion,IA,3,Louisiana Stars,Open Class,70.7,2019
+08/01,Lawrence,MA,4,Colts,World Class,82.35,2019
+08/01,Rome,NY,4,Music City,World Class,75.85,2019
+08/02,Plainwell,MI,4,Guardians,Open Class,70.75,2019
+08/02,Marion,IA,4,Golden Empire,Open Class,69.6,2019
+08/01,Lawrence,MA,5,Seattle Cascades,World Class,70.75,2019
+08/01,Rome,NY,5,Jersey Surf,World Class,75.5,2019
+08/02,Plainwell,MI,5,Heat Wave,Open Class,63.55,2019
+08/02,Marion,IA,5,River City Rhythm,Open Class,69.55,2019
+08/02,Plainwell,MI,6,Raiders,Open Class,61.95,2019
+08/02,Marion,IA,6,Shadow,Open Class,64.85,2019
+08/02,Plainwell,MI,7,Les Stentors,Open Class,60.75,2019
+08/02,Marion,IA,7,Colt Cadets,Open Class,61.4,2019
+08/02,Allentown,PA,1,Bluecoats,World Class,95.175,2019
+08/03,Allentown,PA,1,Carolina Crown,World Class,93.6375,2019
+08/03,Kingston,NY,1,Hawthorne Caballeros,DCA Open Class,85.85,2019
+08/03,St. Peter,MN,1,Govenaires,DCA A Class,69.15,2019
+08/02,Allentown,PA,2,Blue Devils,World Class,94.95,2019
+08/03,Allentown,PA,2,Cavaliers,World Class,92.65,2019
+08/03,Kingston,NY,2,White Sabers,DCA Open Class,80.85,2019
+08/02,Allentown,PA,3,Vanguard,World Class,93.5875,2019
+08/03,Allentown,PA,3,Boston Crusaders,World Class,91.975,2019
+08/03,Kingston,NY,3,Bushwackers,DCA Open Class,80.85,2019
+08/02,Allentown,PA,4,Blue Knights,World Class,88.1,2019
+08/03,Allentown,PA,4,Cadets,World Class,87.875,2019
+08/03,Kingston,NY,4,Fusion Core,DCA Open Class,80.25,2019
+08/02,Allentown,PA,5,Blue Stars,World Class,88.025,2019
+08/03,Allentown,PA,5,Mandarins,World Class,87.125,2019
+08/03,Kingston,NY,5,Connecticut Hurricanes,DCA Open Class,76.75,2019
+08/02,Allentown,PA,6,Academy,World Class,82.15,2019
+08/03,Allentown,PA,6,Crossmen,World Class,86.625,2019
+08/03,Kingston,NY,6,Sunrisers,DCA Open Class,67.2,2019
+08/02,Allentown,PA,7,Madison Scouts,World Class,79.375,2019
+08/03,Allentown,PA,7,Phantom Regiment,World Class,85.9,2019
+08/02,Allentown,PA,8,Troopers,World Class,78.25,2019
+08/03,Allentown,PA,8,Spirit of Atlanta,World Class,84.6,2019
+08/02,Allentown,PA,9,Genesis,World Class,76.125,2019
+08/03,Allentown,PA,9,Colts,World Class,82.8625,2019
+08/02,Allentown,PA,10,Music City,World Class,74.45,2019
+08/03,Allentown,PA,10,Pacific Crest,World Class,82.575,2019
+08/03,Allentown,PA,11,Jersey Surf,World Class,76.625,2019
+08/02,Allentown,PA,1,Encorps,Open Class,56.75,2019
+08/03,Allentown,PA,12,Seattle Cascades,World Class,71.95,2019
+08/03,Avon Lake,OH,1,Legends,Open Class,76.95,2019
+08/03,East Troy,WI,1,Spartans,Open Class,78.4,2019
+08/04,Pittsburgh,PA,1,Blue Devils,World Class,95.75,2019
+08/04,Buffalo,NY,1,Bluecoats,World Class,95.875,2019
+08/03,Avon Lake,OH,2,Southwind,Open Class,73.25,2019
+08/03,East Troy,WI,2,Gold,Open Class,76.8,2019
+08/04,Pittsburgh,PA,2,Spirit of Atlanta,World Class,86.05,2019
+08/04,Buffalo,NY,2,Carolina Crown,World Class,94.775,2019
+08/03,Avon Lake,OH,3,7th Regiment,Open Class,72.7,2019
+08/03,East Troy,WI,3,Louisiana Stars,Open Class,73.0,2019
+08/04,Pittsburgh,PA,3,Academy,World Class,84.2,2019
+08/04,Buffalo,NY,3,Cavaliers,World Class,93.1,2019
+08/03,Avon Lake,OH,3,Guardians,Open Class,72.7,2019
+08/03,East Troy,WI,4,River City Rhythm,Open Class,72.75,2019
+08/04,Pittsburgh,PA,4,Troopers,World Class,79.6,2019
+08/04,Buffalo,NY,4,Boston Crusaders,World Class,92.3,2019
+08/03,Avon Lake,OH,5,Heat Wave,Open Class,63.6,2019
+08/03,East Troy,WI,5,Golden Empire,Open Class,69.65,2019
+08/04,Pittsburgh,PA,5,Madison Scouts,World Class,79.25,2019
+08/04,Buffalo,NY,5,Blue Knights,World Class,89.0,2019
+08/03,Avon Lake,OH,6,Raiders,Open Class,63.5,2019
+08/03,East Troy,WI,6,Shadow,Open Class,66.65,2019
+08/04,Pittsburgh,PA,6,Genesis,World Class,75.7,2019
+08/04,Buffalo,NY,6,Blue Stars,World Class,87.975,2019
+08/03,Avon Lake,OH,7,Les Stentors,Open Class,63.45,2019
+08/03,East Troy,WI,7,Colt Cadets,Open Class,63.35,2019
+08/04,Pittsburgh,PA,7,Seattle Cascades,World Class,70.85,2019
+08/04,Buffalo,NY,7,Mandarins,World Class,87.2,2019
+08/04,Buffalo,NY,8,Phantom Regiment,World Class,86.4,2019
+08/04,Buffalo,NY,9,Colts,World Class,83.15,2019
+08/05,Edinboro,PA,1,Cadets,World Class,89.4,2019
+08/05,Akron,OH,1,Bluecoats,World Class,96.15,2019
+08/05,Edinboro,PA,2,Colts,World Class,84.45,2019
+08/05,Akron,OH,2,Vanguard,World Class,95.15,2019
+08/05,Edinboro,PA,3,Pacific Crest,World Class,83.6,2019
+08/05,Akron,OH,3,Carolina Crown,World Class,94.85,2019
+08/05,Edinboro,PA,4,Madison Scouts,World Class,81.1,2019
+08/05,Akron,OH,4,Cavaliers,World Class,92.8,2019
+08/05,Edinboro,PA,5,Jersey Surf,World Class,77.1,2019
+08/05,Akron,OH,5,Boston Crusaders,World Class,92.7,2019
+08/05,Edinboro,PA,6,Music City,World Class,76.05,2019
+08/05,Akron,OH,6,Blue Knights,World Class,89.55,2019
+08/05,Edinboro,PA,7,Seattle Cascades,World Class,71.4,2019
+08/05,Akron,OH,7,Mandarins,World Class,87.8,2019
+08/05,Akron,OH,8,Phantom Regiment,World Class,86.1,2019
+08/05,Akron,OH,9,Crossmen,World Class,85.95,2019
+08/05,Marion,IN,1,Spartans,Open Class,79.825,2019
+08/06,Marion,IN,1,Spartans,Open Class,81.05,2019
+08/05,Marion,IN,2,Gold,Open Class,78.45,2019
+08/06,Marion,IN,,Legends,Open Class,79.4,2019
+08/05,Marion,IN,3,Legends,Open Class,77.55,2019
+08/06,Marion,IN,3,Gold,Open Class,79.25,2019
+08/05,Marion,IN,4,Southwind,Open Class,74.35,2019
+08/06,Marion,IN,4,Louisiana Stars,Open Class,75.85,2019
+08/05,Marion,IN,5,Louisiana Stars,Open Class,73.875,2019
+08/06,Marion,IN,5,Southwind,Open Class,75.6375,2019
+08/05,Marion,IN,6,7th Regiment,Open Class,72.9,2019
+08/06,Marion,IN,6,7th Regiment,Open Class,73.75,2019
+08/05,Marion,IN,7,River City Rhythm,Open Class,72.825,2019
+08/06,Marion,IN,7,Guardians,Open Class,73.575,2019
+08/05,Marion,IN,8,Guardians,Open Class,72.2,2019
+08/06,Marion,IN,8,River City Rhythm,Open Class,73.3,2019
+08/05,Marion,IN,9,Golden Empire,Open Class,71.225,2019
+08/06,Marion,IN,9,Golden Empire,Open Class,70.65,2019
+08/05,Marion,IN,10,Shadow,Open Class,67.725,2019
+08/06,Marion,IN,10,Shadow,Open Class,69.525,2019
+08/05,Marion,IN,11,Colt Cadets,Open Class,64.075,2019
+08/06,Marion,IN,11,Colt Cadets,Open Class,65.6,2019
+08/05,Marion,IN,12,Raiders,Open Class,62.725,2019
+08/06,Marion,IN,12,Raiders,Open Class,64.25,2019
+08/05,Marion,IN,13,Les Stentors,Open Class,62.65,2019
+08/05,Marion,IN,14,Heat Wave,Open Class,62.55,2019
+08/08,Indianapolis,IN,1,Bluecoats,World Class,97.65,2019
+08/09,Indianapolis,IN,1,Blue Devils,World Class,97.7,2019
+08/10,Indianapolis,IN,1,Blue Devils,World Class,98.325,2019
+08/08,Indianapolis,IN,2,Blue Devils,World Class,97.55,2019
+08/09,Indianapolis,IN,2,Bluecoats,World Class,97.55,2019
+08/10,Indianapolis,IN,2,Bluecoats,World Class,98.2375,2019
+08/08,Indianapolis,IN,3,Vanguard,World Class,96.2375,2019
+08/09,Indianapolis,IN,3,Vanguard,World Class,96.325,2019
+08/10,Indianapolis,IN,3,Vanguard,World Class,96.6,2019
+08/08,Indianapolis,IN,4,Carolina Crown,World Class,95.9375,2019
+08/09,Indianapolis,IN,4,Carolina Crown,World Class,96.025,2019
+08/10,Indianapolis,IN,4,Carolina Crown,World Class,96.5625,2019
+08/08,Indianapolis,IN,5,Cavaliers,World Class,94.25,2019
+08/09,Indianapolis,IN,5,Cavaliers,World Class,95.2125,2019
+08/10,Indianapolis,IN,5,Cavaliers,World Class,95.4,2019
+08/08,Indianapolis,IN,6,Boston Crusaders,World Class,94.225,2019
+08/09,Indianapolis,IN,6,Boston Crusaders,World Class,93.4125,2019
+08/10,Indianapolis,IN,6,Boston Crusaders,World Class,94.4875,2019
+08/08,Indianapolis,IN,7,Blue Knights,World Class,91.475,2019
+08/09,Indianapolis,IN,7,Blue Knights,World Class,92.625,2019
+08/10,Indianapolis,IN,7,Blue Knights,World Class,92.05,2019
+08/08,Indianapolis,IN,8,Blue Stars,World Class,90.85,2019
+08/09,Indianapolis,IN,8,Blue Stars,World Class,91.3,2019
+08/10,Indianapolis,IN,8,Blue Stars,World Class,91.225,2019
+08/08,Indianapolis,IN,9,Cadets,World Class,90.1,2019
+08/09,Indianapolis,IN,9,Cadets,World Class,89.8,2019
+08/10,Indianapolis,IN,9,Cadets,World Class,89.8375,2019
+08/08,Indianapolis,IN,10,Mandarins,World Class,88.85,2019
+08/09,Indianapolis,IN,10,Mandarins,World Class,89.437,2019
+08/10,Indianapolis,IN,10,Mandarins,World Class,89.3,2019
+08/08,Indianapolis,IN,11,Phantom Regiment,World Class,87.375,2019
+08/09,Indianapolis,IN,11,Crossmen,World Class,88.225,2019
+08/10,Indianapolis,IN,11,Crossmen,World Class,87.55,2019
+08/08,Indianapolis,IN,12,Crossmen,World Class,87.1625,2019
+08/09,Indianapolis,IN,12,Phantom Regiment,World Class,87.775,2019
+08/10,Indianapolis,IN,12,Phantom Regiment,World Class,87.2375,2019
+08/08,Indianapolis,IN,13,Spirit of Atlanta,World Class,85.25,2019
+08/09,Indianapolis,IN,13,Spirit of Atlanta,World Class,85.587,2019
+08/08,Indianapolis,IN,14,Pacific Crest,World Class,83.925,2019
+08/09,Indianapolis,IN,14,Pacific Crest,World Class,85.35,2019
+08/08,Indianapolis,IN,15,Academy,World Class,83.9,2019
+08/09,Indianapolis,IN,15,Academy,World Class,84.3,2019
+08/08,Indianapolis,IN,16,Colts,World Class,83.825,2019
+08/09,Indianapolis,IN,16,Colts,World Class,84.225,2019
+08/08,Indianapolis,IN,17,Madison Scouts,World Class,81.025,2019
+08/09,Indianapolis,IN,17,Madison Scouts,World Class,82.1365,2019
+08/08,Indianapolis,IN,18,Troopers,World Class,80.85,2019
+08/09,Indianapolis,IN,18,Troopers,World Class,81.6625,2019
+08/08,Indianapolis,IN,19,Spartans,Open Class,80.4,2019
+08/09,Indianapolis,IN,19,Spartans,Open Class,80.35,2019
+08/08,Indianapolis,IN,20,Genesis,World Class,78.725,2019
+08/09,Indianapolis,IN,20,Genesis,World Class,78.725,2019
+08/08,Indianapolis,IN,21,Legends,Open Class,78.075,2019
+08/09,Indianapolis,IN,21,Legends,Open Class,78.4,2019
+08/08,Indianapolis,IN,22,Gold,Open Class,76.775,2019
+08/09,Indianapolis,IN,22,Gold,Open Class,77.1,2019
+08/08,Indianapolis,IN,23,Music City,World Class,76.5875,2019
+08/09,Indianapolis,IN,23,Music City,World Class,76.65,2019
+08/08,Indianapolis,IN,24,Jersey Surf,World Class,76.4125,2019
+08/09,Indianapolis,IN,24,Jersey Surf,World Class,75.9,2019
+08/08,Indianapolis,IN,25,Seattle Cascades,World Class,73.7,2019
+08/09,Indianapolis,IN,25,Seattle Cascades,World Class,73.275,2019
+08/08,Indianapolis,IN,26,Louisiana Stars,Open Class,73.6,2019
+08/08,Indianapolis,IN,27,Southwind,Open Class,72.3625,2019
+08/08,Indianapolis,IN,28,River City Rhythm,Open Class,71.075,2019
+08/08,Indianapolis,IN,29,Guardians,Open Class,70.975,2019
+08/08,Indianapolis,IN,30,7th Regiment,Open Class,70.475,2019
+08/08,Indianapolis,IN,31,Golden Empire,Open Class,68.475,2019
+08/08,Indianapolis,IN,32,Shadow,Open Class,66.3,2019
+08/08,Indianapolis,IN,33,Colt Cadets,Open Class,64.425,2019
+08/08,Indianapolis,IN,34,Les Stentors,Open Class,63.15,2019
+08/08,Indianapolis,IN,35,Raiders,Open Class,62.45,2019
+08/08,Indianapolis,IN,36,Heat Wave,Open Class,60.05,2019
+08/17,Woodbridge,NJ,1,Reading Buccaneers,DCA Open Class,91.65,2019
+08/24,Goldsboro,NC,1,Carolina Gold,DCA A Class,75.75,2019
+08/24,Reading,PA,1,Reading Buccaneers,DCA Open Class,93.85,2019
+08/24,Seymour,CT,1,Hawthorn Caballeros,DCA Open Class,93.15,2019
+08/17,Woodbridge,NJ,2,Hawthorn Caballeros,DCA Open Class,90.05,2019
+08/24,Reading,PA,2,Bushwackers,DCA Open Class,87.25,2019
+08/24,Seymour,CT,2,Connecticut Hurricanes,DCA Open Class,82.95,2019
+08/17,Woodbridge,NJ,3,Bushwackers,DCA Open Class,84.85,2019
+08/24,Reading,PA,3,Fusion Core,DCA Open Class,87.15,2019
+08/24,Seymour,CT,3,Sunrisers,DCA Open Class,73.6,2019
+08/17,Woodbridge,NJ,4,Fusion Core,DCA Open Class,83.5,2019
+08/24,Reading,PA,4,White Sabers,DCA Open Class,86.0,2019
+08/17,Woodbridge,NJ,5,White Sabers,DCA Open Class,82.6,2019
+08/24,Reading,PA,1,Skyliners,DCA A Class,77.8,2019
+08/17,Woodbridge,NJ,1,Atlanta CV,DCA Open Class,93.7,2019
+08/17,Woodbridge,NJ,2,Southern Knights,DCA Open Class,73.0,2019
+08/31,Williamsport-Prelims,PA,1,Carolina Gold,DCA A Class,82.25,2019
+08/31,Williamsport,PA,1,Carolina Gold,DCA A Class,84.225,2019
+08/31,Williamsport-Prelims,PA,1,Reading Buccaneers,DCA Open Class,96.5,2019
+08/31,Williamsport,PA,1,Reading Buccaneers,DCA Open Class,98.225,2019
+08/31,Williamsport-Prelims,PA,2,Skyliners,DCA A Class,80.9,2019
+08/31,Williamsport,PA,2,Skyliners,DCA A Class,80.825,2019
+08/31,Williamsport-Prelims,PA,2,Atlanta CV,DCA Open Class,94.7625,2019
+08/31,Williamsport,PA,2,Atlanta CV,DCA Open Class,96.15,2019
+08/31,Williamsport-Prelims,PA,3,Govenaires,DCA A Class,76.8,2019
+08/31,Williamsport,PA,3,Govenaires,DCA A Class,77.125,2019
+08/31,Williamsport-Prelims,PA,3,Hawthorn Caballeros,DCA Open Class,93.925,2019
+08/31,Williamsport,PA,3,Hawthorn Caballeros,DCA Open Class,95.2,2019
+08/31,Williamsport-Prelims,PA,4,Columbus Saints,DCA A Class,68.675,2019
+08/31,Williamsport,PA,4,Columbus Saints,DCA A Class,68.35,2019
+08/31,Williamsport-Prelims,PA,4,White Sabers,DCA Open Class,91.0,2019
+08/31,Williamsport,PA,4,White Sabers,DCA Open Class,91.95,2019
+08/31,Williamsport-Prelims,PA,5,Bushwackers,DCA Open Class,90.325,2019
+08/31,Williamsport,PA,5,Bushwackers,DCA Open Class,91.625,2019
+08/31,Williamsport-Prelims,PA,6,Fusion Core,DCA Open Class,88.8,2019
+08/31,Williamsport,PA,6,Fusion Core,DCA Open Class,91.125,2019
+08/31,Williamsport-Prelims,PA,7,Cincinnati Tradition,DCA Open Class,85.75,2019
+08/31,Williamsport,PA,7,Cincinnati Tradition,DCA Open Class,87.375,2019
+08/31,Williamsport-Prelims,PA,8,Connecticut Hurricanes,DCA Open Class,83.65,2019
+08/31,Williamsport,PA,8,Connecticut Hurricanes,DCA Open Class,84.15,2019
+08/31,Williamsport-Prelims,PA,9,Southern Knights,DCA Open Class,77.475,2019
+08/31,Williamsport,PA,9,Southern Knights,DCA Open Class,76.7125,2019
+08/31,Williamsport-Prelims,PA,10,Sunrisers,DCA Open Class,75.475,2019
+08/31,Williamsport,PA,10,Sunrisers,DCA Open Class,74.75,2019

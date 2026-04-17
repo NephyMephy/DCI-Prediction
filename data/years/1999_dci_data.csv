@@ -1,0 +1,1603 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/12,Menasha,WI,1,Madison Scouts,World Class,66.1,1999
+06/18,Oswego,IL,1,Cavaliers,World Class,69.1,1999
+06/18,LaPorte,IN,1,Madison Scouts,World Class,66.0,1999
+06/19,Toledo,OH,1,Cavaliers,World Class,70.1,1999
+06/12,Menasha,WI,2,Pioneer,World Class,57.3,1999
+06/18,Oswego,IL,2,Colts,World Class,61.4,1999
+06/18,LaPorte,IN,2,Blue Knights,World Class,63.4,1999
+06/19,Toledo,OH,2,Glassmen,World Class,65.8,1999
+06/12,Menasha,WI,3,Capital Sound,World Class,45.4,1999
+06/18,Oswego,IL,3,Pioneer,World Class,54.3,1999
+06/18,LaPorte,IN,3,Phantom Regiment,World Class,62.6,1999
+06/19,Toledo,OH,3,Madison Scouts,World Class,64.0,1999
+06/12,Menasha,WI,4,Americanos,World Class,43.4,1999
+06/18,Oswego,IL,4,Capital Sound,World Class,46.5,1999
+06/18,LaPorte,IN,4,Cincinnati Glory,World Class,35.0,1999
+06/19,Toledo,OH,4,Phantom Regiment,World Class,61.7,1999
+06/12,Menasha,WI,5,Blue Stars,World Class,39.9,1999
+06/18,Oswego,IL,5,Americanos,World Class,45.7,1999
+06/19,Toledo,OH,5,Colts,World Class,61.0,1999
+06/12,Menasha,WI,6,Phantom Legion,World Class,38.1,1999
+06/18,Oswego,IL,6,Blue Stars,World Class,45.5,1999
+06/19,Toledo,OH,6,Pioneer,World Class,52.3,1999
+06/18,Oswego,IL,7,Phantom Legion,World Class,42.5,1999
+06/19,Toledo,OH,7,Capital Regiment,World Class,35.5,1999
+06/18,Oswego,IL,8,Joliet Kingsmen,World Class,21.8,1999
+06/19,Toledo,OH,8,Cincinnati Glory,World Class,29.6,1999
+06/19,Stroudsburg,PA,1,Hawthorne Caballeros,World Class,67.3,1999
+06/19,Orlando,FL,1,Cadets,World Class,73.6,1999
+06/19,Racine,WI,1,Minnesota Brass,World Class,57.8,1999
+06/19,Malden,MA,1,Targets,World Class,58.5,1999
+06/19,Stroudsburg,PA,2,Connecticut Hurricanes,World Class,61.1,1999
+06/19,Orlando,FL,2,Crossmen,World Class,65.0,1999
+06/19,Racine,WI,2,Kilties,World Class,50.9,1999
+06/19,Stroudsburg,PA,3,Bushwackers,World Class,59.5,1999
+06/19,Orlando,FL,3,Magic of Orlando,World Class,60.6,1999
+06/19,Racine,WI,3,Capital Sound,World Class,49.8,1999
+06/19,Malden,MA,1,Citation Juniors,World Class,51.8,1999
+06/19,Stroudsburg,PA,4,New York Skyliners,World Class,51.5,1999
+06/19,Orlando,FL,4,Carolina Crown,World Class,59.3,1999
+06/19,Racine,WI,4,Americanos,World Class,48.6,1999
+06/19,Malden,MA,2,East Coast Junior Jazz,World Class,42.7,1999
+06/19,Stroudsburg,PA,5,Chieftains,World Class,44.8,1999
+06/19,Racine,WI,5,Blue Stars,World Class,46.9,1999
+06/19,Malden,MA,3,Valley Pioneers,World Class,42.5,1999
+06/19,Racine,WI,6,Phantom Legion,World Class,43.5,1999
+06/19,Malden,MA,4,Braintree Braves,World Class,8.9,1999
+06/19,Racine,WI,7,Racine Scouts,World Class,32.0,1999
+06/19,Malden,MA,1,Spartans,World Class,71.8,1999
+06/19,Concord,CA,1,Pacific Crest,World Class,65.1,1999
+06/20,Butler,PA,1,Cavaliers,World Class,71.3,1999
+06/20,Louisville,KY,1,Glassmen,World Class,69.8,1999
+06/19,Malden,MA,2,East Coast Jazz,World Class,70.4,1999
+06/19,Concord,CA,2,Mandarins,World Class,59.3,1999
+06/20,Butler,PA,2,Madison Scouts,World Class,65.2,1999
+06/20,Louisville,KY,2,Phantom Regiment,World Class,65.6,1999
+06/19,Malden,MA,3,Citations,World Class,63.6,1999
+06/19,Concord,CA,3,Vanguard Cadets,World Class,58.8,1999
+06/20,Butler,PA,3,Southwind,World Class,49.5,1999
+06/20,Louisville,KY,3,Colts,World Class,62.8,1999
+06/19,Malden,MA,4,Bayonne Raiders,World Class,59.6,1999
+06/19,Concord,CA,4,Blue Devils B,World Class,57.8,1999
+06/20,Butler,PA,4,Gen Butler Vagabonds,World Class,40.4,1999
+06/20,Louisville,KY,4,Cincinnati Glory,World Class,33.6,1999
+06/19,Malden,MA,5,Kips Bay,World Class,57.7,1999
+06/19,Concord,CA,,"The Blue Devils/Vanguard were
+  not",World Class,5.0,1999
+06/19,Malden,MA,6,Knight Storm,World Class,56.7,1999
+06/19,Malden,MA,7,Quest,World Class,54.4,1999
+06/19,Malden,MA,8,Cadets of Brooklyn,World Class,50.9,1999
+06/20,Wisconsin Rapids,WI,1,Minnesota Brass,World Class,60.9,1999
+06/21,Warner-Robbins,GA,1,Cadets,World Class,73.0,1999
+06/22,Boiling Springs,SC,1,Cadets,World Class,75.3,1999
+06/22,Columbus,OH,1,Glassmen,World Class,70.8,1999
+06/20,Wisconsin Rapids,WI,2,Kilties,World Class,51.0,1999
+06/21,Warner-Robbins,GA,2,Crossmen,World Class,68.1,1999
+06/22,Boiling Springs,SC,2,Crossmen,World Class,70.0,1999
+06/22,Columbus,OH,2,Blue Knights,World Class,69.3,1999
+06/20,Wisconsin Rapids,WI,3,Capital Sound,World Class,50.8,1999
+06/21,Warner-Robbins,GA,3,Carolina Crown,World Class,60.0,1999
+06/22,Boiling Springs,SC,3,Carolina Crown,World Class,61.9,1999
+06/22,Columbus,OH,3,Phantom Regiment,World Class,65.2,1999
+06/20,Wisconsin Rapids,WI,4,Blue Stars,World Class,49.7,1999
+06/21,Warner-Robbins,GA,4,Magic of Orlando,World Class,58.6,1999
+06/22,Boiling Springs,SC,4,Magic of Orlando,World Class,61.1,1999
+06/22,Columbus,OH,4,Pioneer,World Class,52.0,1999
+06/20,Wisconsin Rapids,WI,5,Americanos,World Class,49.0,1999
+06/22,Columbus,OH,5,"General Butler
+  Vagabonds",World Class,48.5,1999
+06/20,Wisconsin Rapids,WI,6,Phantom Legion,World Class,46.1,1999
+06/22,Columbus,OH,6,Capital Regiment,World Class,37.0,1999
+06/20,Wisconsin Rapids,WI,7,Racine Scouts,World Class,32.6,1999
+06/22,Columbus,OH,7,Bandettes,World Class,26.1,1999
+06/23,Batesburg,SC,1,Cadets,World Class,75.7,1999
+06/23,Cincinnati,OH,1,Cavaliers,World Class,74.0,1999
+06/23,Lima,OH,1,Phantom Regiment,World Class,68.3,1999
+06/24,Bloomington-Normal,IL,1,Blue Devils,World Class,75.7,1999
+06/23,Batesburg,SC,2,Crossmen,World Class,70.7,1999
+06/23,Cincinnati,OH,2,Blue Knights,World Class,68.8,1999
+06/23,Lima,OH,2,Madison Scouts,World Class,67.9,1999
+06/24,Bloomington-Normal,IL,2,Cavaliers,World Class,73.9,1999
+06/23,Batesburg,SC,3,Magic of Orlando,World Class,62.1,1999
+06/23,Cincinnati,OH,3,Colts,World Class,64.2,1999
+06/23,Lima,OH,3,Pioneer,World Class,54.0,1999
+06/24,Bloomington-Normal,IL,3,Glassmen,World Class,70.2,1999
+06/23,Batesburg,SC,4,Carolina Crown,World Class,60.9,1999
+06/23,Cincinnati,OH,4,Southwind,World Class,56.2,1999
+06/23,Lima,OH,4,"General Butler
+  Vagabonds",World Class,50.7,1999
+06/24,Bloomington-Normal,IL,4,Blue Knights,World Class,68.2,1999
+06/23,Cincinnati,OH,5,Cincinnati Glory,World Class,36.3,1999
+06/23,Lima,OH,5,Capital Regiment,World Class,39.2,1999
+06/24,Bloomington-Normal,IL,5,Phantom Regiment,World Class,64.9,1999
+06/23,Cincinnati,OH,6,Marion Cadets,World Class,32.4,1999
+06/23,Lima,OH,6,Bandettes,World Class,24.8,1999
+06/24,Bloomington-Normal,IL,6,Colts,World Class,62.7,1999
+06/24,Bloomington-Normal,IL,7,Pioneer,World Class,53.2,1999
+06/24,Lynchburg,VA,1,Cadets,World Class,75.7,1999
+06/25,Chula Vista,CA,1,Vanguard,World Class,72.8,1999
+06/25,Portage,MI,1,Glassmen,World Class,73.1,1999
+06/25,Wausau,WI,1,Madison Scouts,World Class,73.6,1999
+06/24,Lynchburg,VA,2,Crossmen,World Class,71.2,1999
+06/25,Portage,MI,2,Phantom Regiment,World Class,71.1,1999
+06/25,Wausau,WI,2,Southwind,World Class,64.7,1999
+06/24,Lynchburg,VA,3,Magic of Orlando,World Class,63.0,1999
+06/25,Chula Vista,CA,1,Pacific Crest,World Class,69.4,1999
+06/25,Portage,MI,3,Pioneer,World Class,56.7,1999
+06/25,Wausau,WI,3,Troopers,World Class,57.4,1999
+06/24,Lynchburg,VA,4,Carolina Crown,World Class,61.8,1999
+06/25,Chula Vista,CA,2,Mandarins,World Class,64.4,1999
+06/25,Portage,MI,4,Phantom Legion,World Class,50.2,1999
+06/25,Wausau,WI,4,Blue Stars,World Class,55.9,1999
+06/25,Chula Vista,CA,3,Vanguard Cadets,World Class,62.1,1999
+06/25,Portage,MI,5,Cincinnati Glory,World Class,45.8,1999
+06/25,Wausau,WI,5,Americanos,World Class,54.9,1999
+06/25,Chula Vista,CA,4,Blue Devils B,World Class,61.0,1999
+06/25,Portage,MI,6,Bandettes,World Class,30.4,1999
+06/25,Wausau,WI,6,Capital Sound,World Class,52.2,1999
+06/25,Chula Vista,CA,5,Impulse,World Class,55.2,1999
+06/25,Portage,MI,7,Joliet Kingsmen,World Class,30.0,1999
+06/25,Wausau,WI,7,Marion Cadets,World Class,41.2,1999
+06/25,Chula Vista,CA,6,West Coast Sound,World Class,52.5,1999
+06/25,Wausau,WI,8,Racine Scouts,World Class,39.1,1999
+06/25,Murphysboro,IL,1,Cavaliers,World Class,76.4,1999
+06/25,Hamilton,Ontario,1,Dutch Boy,World Class,57.0,1999
+06/26,Walnut,CA,1,Vanguard,World Class,76.5,1999
+06/26,Elkton,MD,1,Cadets,World Class,77.3,1999
+06/25,Murphysboro,IL,2,Blue Knights,World Class,71.2,1999
+06/26,Elkton,MD,2,Crossmen,World Class,67.6,1999
+06/25,Murphysboro,IL,3,Tarheel Sun,World Class,58.1,1999
+06/25,Hamilton,Ontario,1,Conqueror II,World Class,54.8,1999
+06/26,Walnut,CA,1,Pacific Crest,World Class,73.6,1999
+06/26,Elkton,MD,3,Carolina Crown,World Class,62.6,1999
+06/25,Murphysboro,IL,4,Capital Regiment,World Class,40.5,1999
+06/25,Hamilton,Ontario,2,Emerald Knights,World Class,50.9,1999
+06/26,Walnut,CA,2,Mandarins,World Class,68.3,1999
+06/26,Elkton,MD,4,Magic of Orlando,World Class,62.0,1999
+06/25,Murphysboro,IL,5,Delta Brigade,World Class,30.8,1999
+06/25,Hamilton,Ontario,3,Blue Saints,World Class,41.1,1999
+06/26,Walnut,CA,3,Vanguard Cadets,World Class,64.6,1999
+06/26,Elkton,MD,5,Bluecoats,World Class,61.8,1999
+06/25,Murphysboro,IL,6,Memorial Lancers,World Class,29.5,1999
+06/26,Walnut,CA,4,Blue Devils B,World Class,63.3,1999
+06/26,Elkton,MD,6,Spirit of Atlanta,World Class,57.4,1999
+06/25,Hamilton,Ontario,1,Ridge Raiders,World Class,33.5,1999
+06/26,Walnut,CA,5,Impulse,World Class,57.5,1999
+06/26,Elkton,MD,7,Jersey Surf,World Class,40.7,1999
+06/26,Walnut,CA,6,West Coast Sound,World Class,52.3,1999
+06/26,Waukesha,WI,1,Phantom Regiment,World Class,68.3,1999
+06/26,Alexandria,MN,1,Madison Scouts,World Class,75.2,1999
+06/26,Des Plaines,IL,1,Cavaliers,World Class,74.9,1999
+06/26,Burlington,MA,1,Citations,World Class,72.8,1999
+06/26,Waukesha,WI,2,Troopers,World Class,53.6,1999
+06/26,Alexandria,MN,2,Southwind,World Class,63.7,1999
+06/26,Des Plaines,IL,2,Glassmen,World Class,71.1,1999
+06/26,Waukesha,WI,3,Americanos,World Class,49.6,1999
+06/26,Alexandria,MN,3,Blue Stars,World Class,56.9,1999
+06/26,Des Plaines,IL,3,Blue Knights,World Class,68.4,1999
+06/26,Burlington,MA,1,Targets,World Class,66.2,1999
+06/26,Waukesha,WI,4,Capital Sound,World Class,48.2,1999
+06/26,Alexandria,MN,4,Govenaires,World Class,50.0,1999
+06/26,Des Plaines,IL,4,Tarheel Sun,World Class,54.5,1999
+06/26,Waukesha,WI,5,Racine Scouts,World Class,32.2,1999
+06/26,Alexandria,MN,5,Marion Cadets,World Class,40.0,1999
+06/26,Des Plaines,IL,5,Kilties,World Class,50.8,1999
+06/26,Burlington,MA,1,Citation Juniors,World Class,58.8,1999
+06/26,Waukesha,WI,6,Delta Brigade,World Class,25.9,1999
+06/26,Alexandria,MN,6,"Chops, Inc.",World Class,39.8,1999
+06/26,Des Plaines,IL,6,Phantom Legion,World Class,49.1,1999
+06/26,Burlington,MA,2,Valley Pioneers,World Class,55.6,1999
+06/26,Des Plaines,IL,7,Cincinnati Glory,World Class,41.3,1999
+06/26,Burlington,MA,3,East Coast Junior Jazz,World Class,51.7,1999
+06/26,Des Plaines,IL,8,Bluegrass Brass,World Class,26.3,1999
+06/26,Burlington,MA,4,Braintree Braves,World Class,23.2,1999
+06/26,Paulsboro,NJ,1,Raiders,World Class,63.7,1999
+06/26,Bridgeport,CT,1,Empire Statesmen,World Class,75.3,1999
+06/27,Beverly,MA,1,Carolina Crown,World Class,72.8,1999
+06/27,Fargo,ND,1,Madison Scouts,World Class,77.8,1999
+06/26,Paulsboro,NJ,2,Phoenix-NJ,World Class,60.4,1999
+06/26,Bridgeport,CT,2,Syracuse Brigadiers,World Class,74.4,1999
+06/27,Beverly,MA,2,Boston Crusaders,World Class,70.2,1999
+06/27,Fargo,ND,2,Southwind,World Class,65.4,1999
+06/26,Paulsboro,NJ,3,Spirit of Newark,World Class,51.7,1999
+06/26,Bridgeport,CT,3,Reading Buccaneers,World Class,73.5,1999
+06/27,Beverly,MA,3,Spirit of Atlanta,World Class,67.9,1999
+06/27,Fargo,ND,3,Blue Stars,World Class,59.2,1999
+06/26,Paulsboro,NJ,4,Cadets of Brooklyn,World Class,49.6,1999
+06/26,Bridgeport,CT,4,Hawthorne Caballeros,World Class,71.0,1999
+06/27,Beverly,MA,4,Les Etoiles,World Class,58.2,1999
+06/27,Fargo,ND,4,Marion Cadets,World Class,40.7,1999
+06/26,Paulsboro,NJ,5,Bracken Cavaliers,World Class,43.2,1999
+06/26,Bridgeport,CT,5,Connecticut Hurricanes,World Class,63.7,1999
+06/27,Fargo,ND,5,Edmonton Strutters,World Class,39.2,1999
+06/26,Paulsboro,NJ,6,Imperial Guardsmen,World Class,40.1,1999
+06/26,Bridgeport,CT,6,Sunrisers,World Class,62.4,1999
+06/27,Beverly,MA,1,Spartans,World Class,72.5,1999
+06/26,Bridgeport,CT,7,Bushwackers,World Class,62.0,1999
+06/27,Beverly,MA,2,East Coast Jazz,World Class,71.0,1999
+06/26,Paulsboro,NJ,1,Brooklyn Regiment,World Class,59.8,1999
+06/27,Beverly,MA,3,Knight Storm,World Class,59.5,1999
+06/27,Cedar Rapids,IA,1,Cavaliers,World Class,76.0,1999
+06/27,Woodstock,IL,1,Glassmen,World Class,72.5,1999
+06/27,Waukegan,IL,1,Americanos,World Class,51.4,1999
+06/28,Kingston,NY,1,Cadets,World Class,79.1,1999
+06/27,Cedar Rapids,IA,2,Colts,World Class,68.1,1999
+06/27,Woodstock,IL,2,Phantom Regiment,World Class,68.6,1999
+06/27,Waukegan,IL,2,Cincinnati Glory,World Class,41.0,1999
+06/28,Kingston,NY,2,Crossmen,World Class,74.5,1999
+06/27,Cedar Rapids,IA,3,Tarheel Sun,World Class,57.7,1999
+06/27,Woodstock,IL,3,Troopers,World Class,53.2,1999
+06/27,Waukegan,IL,3,Memorial Lancers,World Class,34.5,1999
+06/28,Kingston,NY,3,Magic of Orlando,World Class,69.4,1999
+06/27,Cedar Rapids,IA,4,Capital Regiment,World Class,41.8,1999
+06/27,Woodstock,IL,4,Capital Sound,World Class,52.4,1999
+06/27,Waukegan,IL,4,Bluegrass Brass,World Class,33.1,1999
+06/28,Kingston,NY,4,Bluecoats,World Class,67.6,1999
+06/27,Cedar Rapids,IA,5,Bandettes,World Class,31.8,1999
+06/27,Woodstock,IL,5,Kilties,World Class,51.8,1999
+06/27,Waukegan,IL,5,Delta Brigade,World Class,29.4,1999
+06/28,Kingston,NY,5,Boston Crusaders,World Class,65.7,1999
+06/27,Cedar Rapids,IA,6,Colt Cadets,World Class,26.5,1999
+06/27,Woodstock,IL,6,Phantom Legion,World Class,47.3,1999
+06/27,Waukegan,IL,6,Joliet Kingsmen,World Class,24.7,1999
+06/28,Kingston,NY,6,Carolina Crown,World Class,65.1,1999
+06/27,Woodstock,IL,7,Racine Scouts,World Class,33.6,1999
+06/28,Kingston,NY,7,Les Etoiles,World Class,49.4,1999
+06/28,Kingston,NY,8,Lake Erie Regiment,World Class,38.4,1999
+06/29,Hastings,MN,1,Madison Scouts,World Class,74.8,1999
+06/29,Endicott,NY,1,Cadets,World Class,81.3,1999
+06/29,Crown Point,IN,1,Blue Knights,World Class,71.5,1999
+06/30,Kitchner,Ontario,1,Glassmen,World Class,73.2,1999
+06/29,Hastings,MN,2,Southwind,World Class,64.5,1999
+06/29,Endicott,NY,2,Crossmen,World Class,73.7,1999
+06/29,Crown Point,IN,2,Phantom Regiment,World Class,70.4,1999
+06/30,Kitchner,Ontario,2,Tarheel Sun,World Class,58.2,1999
+06/29,Hastings,MN,3,Minnesota Brass,World Class,60.1,1999
+06/29,Endicott,NY,3,Bluecoats,World Class,68.6,1999
+06/29,Crown Point,IN,3,Tarheel Sun,World Class,57.4,1999
+06/30,Kitchner,Ontario,3,Les Etoiles,World Class,52.6,1999
+06/29,Hastings,MN,4,Pioneer,World Class,54.8,1999
+06/29,Endicott,NY,4,Boston Crusaders,World Class,65.0,1999
+06/29,Crown Point,IN,4,Troopers,World Class,54.0,1999
+06/29,Hastings,MN,5,Americanos,World Class,52.1,1999
+06/29,Endicott,NY,5,Spirit of Atlanta,World Class,62.6,1999
+06/29,Crown Point,IN,5,Phantom Legion,World Class,50.6,1999
+06/30,Kitchner,Ontario,1,Patriots,World Class,66.5,1999
+06/29,Hastings,MN,6,Govenaires,World Class,50.2,1999
+06/29,Endicott,NY,6,Patriots,World Class,58.3,1999
+06/29,Crown Point,IN,6,Cincinnati Glory,World Class,42.6,1999
+06/30,Kitchner,Ontario,2,Dutch Boy,World Class,51.0,1999
+06/29,Hastings,MN,7,Edmonton Strutters,World Class,39.5,1999
+06/29,Endicott,NY,7,Spectrum,World Class,46.4,1999
+06/29,Crown Point,IN,7,Capital Regiment,World Class,41.6,1999
+06/29,Crown Point,IN,8,Bandettes,World Class,26.6,1999
+06/30,Kitchner,Ontario,1,Lake Erie Regiment,World Class,63.0,1999
+06/30,Kitchner,Ontario,2,Emerald Knights,World Class,52.0,1999
+06/30,Kitchner,Ontario,3,Conqueror II,World Class,49.1,1999
+06/30,Dayton,OH,1,Cavaliers,World Class,78.2,1999
+06/30,Allentown,PA,1,Cadets,World Class,79.5,1999
+06/30,LaCrosse,WI,1,Madison Scouts,World Class,73.4,1999
+06/30,Dayton,OH,2,Blue Knights,World Class,73.4,1999
+06/30,Allentown,PA,2,Crossmen,World Class,73.8,1999
+06/30,LaCrosse,WI,2,Pioneer,World Class,58.3,1999
+06/30,Dayton,OH,3,Phantom Regiment,World Class,72.2,1999
+06/30,Allentown,PA,3,Carolina Crown,World Class,68.1,1999
+06/30,LaCrosse,WI,3,Americanos,World Class,53.5,1999
+06/30,Dayton,OH,4,Troopers,World Class,55.1,1999
+06/30,Allentown,PA,4,Magic of Orlando,World Class,66.3,1999
+06/30,LaCrosse,WI,4,Edmonton Strutters,World Class,35.1,1999
+06/30,Dayton,OH,5,"General Butler
+  Vagabonds",World Class,52.7,1999
+06/30,Allentown,PA,5,Boston Crusaders,World Class,65.8,1999
+06/30,LaCrosse,WI,5,Delta Brigade,World Class,27.2,1999
+06/30,Dayton,OH,6,Phantom Legion,World Class,51.7,1999
+06/30,LaCrosse,WI,6,Decorah Kilties,World Class,18.2,1999
+06/30,Dayton,OH,7,Cincinnati Glory,World Class,46.1,1999
+06/30,Dayton,OH,8,Marion Cadets,World Class,34.0,1999
+06/30,Dayton,OH,9,Bandettes,World Class,27.6,1999
+07/01,Woodburn,OR,1,Vanguard,World Class,80.2,1999
+07/02,Bakersfield,CA,1,Blue Devils,World Class,78.7,1999
+07/02,Seattle,WA,1,Vanguard,World Class,80.7,1999
+07/02,Montreal,Quebec,1,Cadets,World Class,81.3,1999
+07/02,Montreal,Quebec,2,Glassmen,World Class,76.0,1999
+07/01,Woodburn,OR,1,Blue Devils B,World Class,72.4,1999
+07/02,Bakersfield,CA,1,Pacific Crest,World Class,77.0,1999
+07/02,Seattle,WA,1,Blue Devils B,World Class,69.2,1999
+07/02,Montreal,Quebec,3,Magic of Orlando,World Class,69.6,1999
+07/01,Woodburn,OR,2,Seattle Cascades,World Class,63.7,1999
+07/02,Bakersfield,CA,2,Vanguard Cadets,World Class,72.1,1999
+07/02,Seattle,WA,2,Seattle Cascades,World Class,64.0,1999
+07/02,Montreal,Quebec,4,Bluecoats,World Class,68.4,1999
+07/02,Bakersfield,CA,3,Mandarins,World Class,72.0,1999
+07/02,Montreal,Quebec,5,Tarheel Sun,World Class,56.1,1999
+07/02,Bakersfield,CA,4,Impulse,World Class,63.3,1999
+07/02,Montreal,Quebec,6,Les Etoiles,World Class,55.7,1999
+07/02,Bakersfield,CA,5,West Coast Sound,World Class,59.8,1999
+07/02,Montreal,Quebec,7,Kiwanis Kavaliers,World Class,53.7,1999
+07/02,Montreal,Quebec,8,Les Sénateurs,World Class,41.1,1999
+07/02,Mankato,MN,1,Madison Scouts,World Class,75.6,1999
+07/02,Streator,IL,1,Cavaliers,World Class,78.1,1999
+07/03,Riverside,CA,1,Blue Devils,World Class,80.0,1999
+07/03,Vancouver,WA,1,Vanguard,World Class,82.3,1999
+07/02,Mankato,MN,2,Southwind,World Class,66.0,1999
+07/02,Streator,IL,2,Blue Knights,World Class,73.1,1999
+07/02,Mankato,MN,3,Minnesota Brass,World Class,63.8,1999
+07/02,Streator,IL,3,Phantom Regiment,World Class,71.1,1999
+07/03,Riverside,CA,1,Pacific Crest,World Class,79.2,1999
+07/03,Vancouver,WA,1,Blue Devils B,World Class,72.0,1999
+07/02,Mankato,MN,4,Pioneer,World Class,59.6,1999
+07/02,Streator,IL,4,Colts,World Class,68.9,1999
+07/03,Riverside,CA,2,Mandarins,World Class,72.8,1999
+07/03,Vancouver,WA,2,Seattle Cascades,World Class,62.5,1999
+07/02,Mankato,MN,5,Blue Stars,World Class,53.5,1999
+07/02,Streator,IL,5,Troopers,World Class,55.2,1999
+07/03,Riverside,CA,3,Vanguard Cadets,World Class,71.2,1999
+07/02,Mankato,MN,6,Capital Sound,World Class,51.0,1999
+07/02,Streator,IL,6,Phantom Legion,World Class,53.2,1999
+07/03,Riverside,CA,4,Impulse,World Class,61.2,1999
+07/02,Mankato,MN,7,Govenaires,World Class,50.3,1999
+07/02,Streator,IL,7,"General Butler
+  Vagabonds",World Class,50.9,1999
+07/03,Riverside,CA,5,West Coast Sound,World Class,55.1,1999
+07/02,Mankato,MN,8,Decorah Kilties,World Class,25.0,1999
+07/02,Streator,IL,8,Americanos,World Class,50.7,1999
+07/02,Streator,IL,9,Cincinnati Glory,World Class,47.0,1999
+07/03,Bristol,RI,1,Glassmen,World Class,78.8,1999
+07/03,Clifton,NJ,1,Cadets,World Class,80.5,1999
+07/03,Decorah,IA,1,Pioneer,World Class,62.7,1999
+07/03,Rockford,IL,1,Cavaliers,World Class,77.6,1999
+07/03,Bristol,RI,2,Bluecoats,World Class,72.3,1999
+07/03,Clifton,NJ,2,Crossmen,World Class,75.5,1999
+07/03,Decorah,IA,2,Blue Stars,World Class,57.7,1999
+07/03,Rockford,IL,2,Madison Scouts,World Class,73.2,1999
+07/03,Bristol,RI,3,Boston Crusaders,World Class,69.7,1999
+07/03,Clifton,NJ,3,Carolina Crown,World Class,70.5,1999
+07/03,Decorah,IA,3,Capital Sound,World Class,54.6,1999
+07/03,Rockford,IL,3,Phantom Regiment,World Class,72.4,1999
+07/03,Bristol,RI,4,Spirit of Atlanta,World Class,66.4,1999
+07/03,Clifton,NJ,4,Magic of Orlando,World Class,68.3,1999
+07/03,Decorah,IA,3,Govenaires,World Class,54.6,1999
+07/03,Rockford,IL,4,Phantom Legion,World Class,55.2,1999
+07/03,Bristol,RI,5,Tarheel Sun,World Class,59.4,1999
+07/03,Decorah,IA,5,Edmonton Strutters,World Class,40.8,1999
+07/03,Rockford,IL,5,Kilties,World Class,53.2,1999
+07/03,Bristol,RI,6,Kiwanis Kavaliers,World Class,58.4,1999
+07/03,Decorah,IA,6,Colt Cadets,World Class,29.6,1999
+07/03,Rockford,IL,6,Americanos,World Class,51.9,1999
+07/03,Bristol,RI,7,Spartans,World Class,52.8,1999
+07/03,Rockford,IL,7,"General Butler
+  Vagabonds",World Class,51.6,1999
+07/03,Bristol,RI,8,East Coast Jazz,World Class,50.9,1999
+07/03,Rockford,IL,8,Marion Cadets,World Class,38.8,1999
+07/03,Belleville,NJ,1,Hawthorne Caballeros,World Class,73.1,1999
+07/03,Belleville,NJ,1,Patriots,World Class,65.2,1999
+07/04,Costa Mesa,CA,1,Blue Devils,World Class,80.2,1999
+07/04,Medford,OR,1,Vanguard,World Class,82.5,1999
+07/03,Belleville,NJ,2,Connecticut Hurricanes,World Class,69.2,1999
+07/03,Belleville,NJ,2,Jersey Surf,World Class,53.9,1999
+07/03,Belleville,NJ,3,Sunrisers,World Class,66.0,1999
+07/03,Belleville,NJ,3,Kips Bay Crusaders,World Class,43.6,1999
+07/04,Costa Mesa,CA,1,Pacific Crest,World Class,82.2,1999
+07/04,Medford,OR,1,Blue Devils B,World Class,71.6,1999
+07/03,Belleville,NJ,4,Bushwackers,World Class,65.6,1999
+07/03,Belleville,NJ,4,Phoenix,World Class,42.9,1999
+07/04,Costa Mesa,CA,2,Mandarins,World Class,78.7,1999
+07/04,Medford,OR,2,Seattle Cascades,World Class,63.2,1999
+07/03,Belleville,NJ,5,Quest,World Class,41.8,1999
+07/04,Costa Mesa,CA,3,Vanguard Cadets,World Class,76.9,1999
+07/03,Belleville,NJ,1,New York Skyliners,World Class,58.2,1999
+07/04,Costa Mesa,CA,4,Impulse,World Class,62.8,1999
+07/03,Belleville,NJ,2,Heat Wave (DCA),World Class,51.8,1999
+07/04,Costa Mesa,CA,5,West Coast Sound,World Class,59.6,1999
+07/04,Wakefield,MA,1,Cadets,World Class,84.5,1999
+07/04,Saint Peter,MN,1,Minnesota Brass,World Class,67.4,1999
+07/04,Racine,WI,1,Madison Scouts,World Class,75.6,1999
+07/04,Dixon,IL,1,Blue Knights,World Class,71.4,1999
+07/04,Wakefield,MA,2,Glassmen,World Class,80.2,1999
+07/04,Saint Peter,MN,2,Pioneer,World Class,66.6,1999
+07/04,Racine,WI,2,Kilties,World Class,55.0,1999
+07/04,Dixon,IL,2,Colts,World Class,66.6,1999
+07/04,Wakefield,MA,3,Crossmen,World Class,75.2,1999
+07/04,Saint Peter,MN,3,Capital Sound,World Class,55.9,1999
+07/04,Racine,WI,3,Americanos,World Class,54.6,1999
+07/04,Dixon,IL,3,Southwind,World Class,60.2,1999
+07/04,Wakefield,MA,4,Boston Crusaders,World Class,70.2,1999
+07/04,Saint Peter,MN,4,"Chops, Inc.",World Class,38.7,1999
+07/04,Racine,WI,4,Cincinnati Glory,World Class,50.0,1999
+07/04,Dixon,IL,4,Troopers,World Class,49.8,1999
+07/04,Wakefield,MA,5,Spirit of Atlanta,World Class,67.1,1999
+07/04,Saint Peter,MN,5,Edmonton Strutters,World Class,37.5,1999
+07/04,Racine,WI,5,Memorial Lancers,World Class,37.3,1999
+07/04,Dixon,IL,5,Bandettes,World Class,23.7,1999
+07/04,Wakefield,MA,6,Les Etoiles,World Class,54.3,1999
+07/04,Saint Peter,MN,6,Colt Cadets,World Class,26.4,1999
+07/04,Racine,WI,6,Racine Scouts,World Class,32.4,1999
+07/04,Wakefield,MA,7,East Coast Jazz,World Class,51.1,1999
+07/04,New Berlin,WI,1,Blue Stars,World Class,60.0,1999
+07/05,Pittsfield,MA,1,Carolina Crown,World Class,73.2,1999
+07/06,Charles City,IA,1,Madison Scouts,World Class,76.0,1999
+07/07,Washington,DC,1,Cadets,World Class,82.6,1999
+07/04,New Berlin,WI,2,"General Butler
+  Vagabonds",World Class,59.6,1999
+07/05,Pittsfield,MA,2,Magic of Orlando,World Class,72.3,1999
+07/06,Charles City,IA,2,Phantom Regiment,World Class,74.3,1999
+07/07,Washington,DC,2,Crossmen,World Class,75.5,1999
+07/04,New Berlin,WI,3,Marion Cadets,World Class,47.0,1999
+07/05,Pittsfield,MA,3,Tarheel Sun,World Class,61.6,1999
+07/06,Charles City,IA,3,Colts,World Class,70.1,1999
+07/07,Washington,DC,3,Carolina Crown,World Class,73.3,1999
+07/04,New Berlin,WI,4,Blue Grass Brass,World Class,37.1,1999
+07/05,Pittsfield,MA,4,Kiwanis Kavaliers,World Class,60.6,1999
+07/06,Charles City,IA,4,Pioneer,World Class,61.5,1999
+07/07,Washington,DC,4,Bluecoats,World Class,72.1,1999
+07/04,New Berlin,WI,5,Delta Brigade,World Class,35.5,1999
+07/05,Pittsfield,MA,5,Les Etoiles,World Class,57.0,1999
+07/06,Charles City,IA,5,Americanos,World Class,53.2,1999
+07/07,Washington,DC,5,Boston Crusaders,World Class,68.4,1999
+07/06,Charles City,IA,6,Phantom Legion,World Class,52.2,1999
+07/07,Washington,DC,6,Spirit of Atlanta,World Class,65.8,1999
+07/05,Pittsfield,MA,1,East Coast Jazz,World Class,70.2,1999
+07/06,Charles City,IA,7,Colt Cadets,World Class,30.2,1999
+07/07,Washington,DC,7,Kiwanis Kavaliers,World Class,58.6,1999
+07/05,Pittsfield,MA,2,Citations,World Class,56.9,1999
+07/06,Charles City,IA,8,Decorah Kilties,World Class,25.7,1999
+07/07,Dubuque,IA,1,Madison Scouts,World Class,77.3,1999
+07/07,Rockford,IL,1,Americanos,World Class,56.9,1999
+07/08,Buffalo,NY,1,Cadets,World Class,85.2,1999
+07/09,Stockton,CA,1,Vanguard,World Class,84.4,1999
+07/07,Dubuque,IA,2,Phantom Regiment,World Class,75.7,1999
+07/07,Rockford,IL,2,Blue Stars,World Class,55.5,1999
+07/08,Buffalo,NY,2,Crossmen,World Class,74.8,1999
+07/09,Stockton,CA,2,Blue Devils,World Class,82.9,1999
+07/07,Dubuque,IA,3,Colts,World Class,71.5,1999
+07/07,Rockford,IL,3,Phantom Legion,World Class,53.6,1999
+07/08,Buffalo,NY,3,Carolina Crown,World Class,72.9,1999
+07/07,Dubuque,IA,4,Southwind,World Class,63.9,1999
+07/07,Rockford,IL,4,"General Butler
+  Vagabonds",World Class,53.2,1999
+07/08,Buffalo,NY,4,Bluecoats,World Class,72.6,1999
+07/09,Stockton,CA,1,Pacific Crest,World Class,82.0,1999
+07/07,Dubuque,IA,5,Pioneer,World Class,63.8,1999
+07/07,Rockford,IL,5,Cincinnati Glory,World Class,45.2,1999
+07/08,Buffalo,NY,5,Boston Crusaders,World Class,70.8,1999
+07/09,Stockton,CA,2,Vanguard Cadets,World Class,78.4,1999
+07/07,Dubuque,IA,6,Capital Regiment,World Class,43.3,1999
+07/07,Rockford,IL,6,Delta Brigade,World Class,35.1,1999
+07/08,Buffalo,NY,6,Kiwanis Kavaliers,World Class,59.7,1999
+07/09,Stockton,CA,3,Mandarins,World Class,77.8,1999
+07/07,Dubuque,IA,7,Marion Cadets,World Class,38.2,1999
+07/07,Rockford,IL,7,Racine Scouts,World Class,33.8,1999
+07/09,Stockton,CA,4,Blue Devils B,World Class,71.4,1999
+07/07,Dubuque,IA,8,Decorah Kilties,World Class,26.6,1999
+07/08,Buffalo,NY,1,Patriots,World Class,69.9,1999
+07/09,Stockton,CA,5,Seattle Cascades,World Class,68.2,1999
+07/08,Buffalo,NY,2,Lake Erie Regiment,World Class,58.6,1999
+07/09,Stockton,CA,6,Impulse,World Class,65.0,1999
+07/09,Stockton,CA,7,West Coast Sound,World Class,61.5,1999
+07/09,Fort Edward,NY,1,Cadets,World Class,85.0,1999
+07/09,Philadelphia,PA,1,Patriots,World Class,79.6,1999
+07/09,DeKalb,IL,1,Cavaliers,World Class,79.7,1999
+07/10,DeKalb,IL,1,"General Butler
+  Vagabonds",World Class,56.3,1999
+07/09,Fort Edward,NY,2,Crossmen,World Class,77.9,1999
+07/09,Philadelphia,PA,2,East Coast Jazz,World Class,78.7,1999
+07/09,DeKalb,IL,2,Glassmen,World Class,78.8,1999
+07/10,DeKalb,IL,2,Blue Stars,World Class,55.9,1999
+07/09,Fort Edward,NY,3,Carolina Crown,World Class,77.0,1999
+07/09,Philadelphia,PA,3,Spartans,World Class,78.2,1999
+07/09,DeKalb,IL,3,Madison Scouts,World Class,75.7,1999
+07/10,DeKalb,IL,3,Phantom Legion,World Class,55.2,1999
+07/09,Fort Edward,NY,4,Spirit of Atlanta,World Class,71.2,1999
+07/09,Philadelphia,PA,4,Jersey Surf,World Class,72.3,1999
+07/09,DeKalb,IL,4,Phantom Regiment,World Class,73.8,1999
+07/10,DeKalb,IL,4,Cincinnati Glory,World Class,49.9,1999
+07/09,Fort Edward,NY,5,Tarheel Sun,World Class,61.2,1999
+07/09,Philadelphia,PA,5,Kips Bay Knight Club,World Class,64.8,1999
+07/09,DeKalb,IL,5,Colts,World Class,72.0,1999
+07/10,DeKalb,IL,5,Capital Regiment,World Class,46.8,1999
+07/09,Fort Edward,NY,6,Kiwanis Kavaliers,World Class,58.8,1999
+07/09,Philadelphia,PA,6,Dutch Boy,World Class,63.2,1999
+07/09,DeKalb,IL,6,Southwind,World Class,64.8,1999
+07/10,DeKalb,IL,6,Marion Cadets,World Class,41.0,1999
+07/09,Fort Edward,NY,7,Les Etoiles,World Class,56.0,1999
+07/09,DeKalb,IL,7,Pioneer,World Class,62.1,1999
+07/10,DeKalb,IL,7,Racine Scouts,World Class,35.0,1999
+07/09,Philadelphia,PA,1,Lake Erie Regiment,World Class,75.7,1999
+07/10,DeKalb,IL,8,Memorial Lancers,World Class,34.3,1999
+07/09,Philadelphia,PA,2,Raiders,World Class,70.4,1999
+07/09,DeKalb,IL,1,Americanos,World Class,54.6,1999
+07/10,DeKalb,IL,9,Delta Brigade,World Class,32.6,1999
+07/09,Philadelphia,PA,3,Emerald Knights,World Class,63.0,1999
+07/09,DeKalb,IL,2,Capital Sound,World Class,51.8,1999
+07/10,DeKalb,IL,10,Colt Cadets,World Class,31.9,1999
+07/09,Philadelphia,PA,4,Knight Storm,World Class,60.1,1999
+07/10,DeKalb,IL,11,Bandettes,World Class,31.4,1999
+07/09,Philadelphia,PA,5,Citations,World Class,59.1,1999
+07/10,DeKalb,IL,12,Decorah Kilties,World Class,29.8,1999
+07/09,Philadelphia,PA,6,Spectrum,World Class,53.7,1999
+07/10,DeKalb,IL,13,Joliet Kingsmen,World Class,21.2,1999
+07/09,Philadelphia,PA,7,Cadets of Brooklyn,World Class,49.3,1999
+07/10,DeKalb,IL,14,Twilight Optimists,World Class,8.5,1999
+07/09,Philadelphia,PA,8,Scenic City,World Class,27.5,1999
+07/10,DeKalb,IL,1,Minnesota Brass,World Class,67.6,1999
+07/10,DeKalb,IL,2,Kilties,World Class,55.4,1999
+07/10,DeKalb,IL,3,Govenaires,World Class,50.0,1999
+07/10,DeKalb,IL,4,"Chops, Inc.",World Class,43.5,1999
+07/10,DeKalb,IL,5,Bluegrass Brass,World Class,34.6,1999
+07/10,DeKalb,IL,1,Cavaliers,World Class,79.8,1999
+07/10,San Jose,CA,1,Vanguard,World Class,84.2,1999
+07/10,Hershey,PA,1,Cadets,World Class,85.9,1999
+07/10,Toms River,NJ,1,Reading Buccaneers,World Class,78.2,1999
+07/10,DeKalb,IL,2,Glassmen,World Class,78.6,1999
+07/10,San Jose,CA,2,Blue Devils,World Class,83.0,1999
+07/10,Hershey,PA,2,Crossmen,World Class,78.5,1999
+07/10,Toms River,NJ,2,Hawthorne Caballeros,World Class,76.3,1999
+07/10,DeKalb,IL,3,Madison Scouts,World Class,77.0,1999
+07/10,Hershey,PA,3,Carolina Crown,World Class,78.3,1999
+07/10,Toms River,NJ,3,Connecticut Hurricanes,World Class,71.8,1999
+07/10,DeKalb,IL,4,Phantom Regiment,World Class,74.9,1999
+07/10,San Jose,CA,1,Pacific Crest,World Class,83.6,1999
+07/10,Hershey,PA,4,Boston Crusaders,World Class,76.1,1999
+07/10,Toms River,NJ,4,Sunrisers,World Class,67.3,1999
+07/10,DeKalb,IL,5,Colts,World Class,70.9,1999
+07/10,San Jose,CA,2,Vanguard Cadets,World Class,78.2,1999
+07/10,Hershey,PA,5,Bluecoats,World Class,74.7,1999
+07/10,Toms River,NJ,5,Bushwackers,World Class,66.5,1999
+07/10,DeKalb,IL,6,Southwind,World Class,63.3,1999
+07/10,San Jose,CA,3,Blue Devils B,World Class,71.7,1999
+07/10,Hershey,PA,6,Spirit of Atlanta,World Class,73.6,1999
+07/10,DeKalb,IL,7,Pioneer,World Class,62.7,1999
+07/10,Hershey,PA,7,Magic of Orlando,World Class,72.6,1999
+07/10,Toms River,NJ,1,Chieftains,World Class,51.1,1999
+07/10,San Jose,CA,1,Mandarins,World Class,76.8,1999
+07/10,Hershey,PA,8,Tarheel Sun,World Class,64.1,1999
+07/10,DeKalb,IL,1,Blue Stars,World Class,57.7,1999
+07/10,San Jose,CA,2,Impulse,World Class,61.2,1999
+07/10,Hershey,PA,9,Les Etoiles,World Class,61.0,1999
+07/10,DeKalb,IL,2,"General Butler
+  Vagabonds",World Class,57.2,1999
+07/10,San Jose,CA,3,West Coast Sound,World Class,57.7,1999
+07/10,Hershey,PA,10,Kiwanis Kavaliers,World Class,59.9,1999
+07/10,DeKalb,IL,3,Phantom Legion,World Class,56.3,1999
+07/10,DeKalb,IL,1,Minnesota Brass,World Class,63.7,1999
+07/10,DeKalb,IL,2,Kilties,World Class,54.9,1999
+07/10,Belleville,Ontario,1,Syracuse Brigadiers,World Class,80.3,1999
+07/10,Horseheads,NY,1,Patriots,World Class,80.3,1999
+07/10,Roxbury,NJ,1,Phoenix,World Class,65.5,1999
+07/10,Varennes,Quebec,1,Les Senateurs,World Class,61.5,1999
+07/10,Belleville,Ontario,2,Empire Statesmen,World Class,79.0,1999
+07/10,Horseheads,NY,2,Spartans,World Class,77.5,1999
+07/10,Roxbury,NJ,2,Spirit of Newark,World Class,59.1,1999
+07/10,Varennes,Quebec,2,Les Stentors,World Class,58.1,1999
+07/10,Belleville,Ontario,3,Rochester Crusaders,World Class,64.7,1999
+07/10,Horseheads,NY,3,Jersey Surf,World Class,74.8,1999
+07/10,Roxbury,NJ,3,Latin Knights,World Class,51.9,1999
+07/10,Varennes,Quebec,3,Les Sentinelles,World Class,54.6,1999
+07/10,Belleville,Ontario,4,Kingston Grenadiers,World Class,64.5,1999
+07/10,Roxbury,NJ,4,Imperial Guardsmen,World Class,45.6,1999
+07/10,Varennes,Quebec,4,Les Melomanes,World Class,51.7,1999
+07/10,Horseheads,NY,1,Lake Erie Regiment,World Class,69.5,1999
+07/10,Roxbury,NJ,5,Targets,World Class,45.0,1999
+07/10,Horseheads,NY,2,Raiders,World Class,63.4,1999
+07/10,Varennes,Quebec,1,Pers-Clairs,World Class,51.5,1999
+07/10,Horseheads,NY,3,Citations,World Class,61.1,1999
+07/10,Roxbury,NJ,1,Long Island Sound,World Class,64.6,1999
+07/10,Horseheads,NY,4,Kips Bay Crusaders,World Class,56.5,1999
+07/10,Roxbury,NJ,2,Phoenix Kidets,World Class,60.4,1999
+07/10,Horseheads,NY,5,Knight Storm,World Class,51.6,1999
+07/10,Horseheads,NY,6,Spectrum,World Class,47.0,1999
+07/11,Rochester,NY,1,Patriots,World Class,83.2,1999
+07/11,Newark,NJ,1,Quest,World Class,68.3,1999
+07/12,Marion,OH,1,Glassmen,World Class,81.4,1999
+07/12,Bowling Green,KY,1,Cadets,World Class,85.0,1999
+07/11,Rochester,NY,2,Spartans,World Class,78.7,1999
+07/11,Newark,NJ,2,Cadets of Brooklyn,World Class,60.8,1999
+07/12,Marion,OH,2,Crossmen,World Class,78.0,1999
+07/12,Bowling Green,KY,2,Phantom Regiment,World Class,76.5,1999
+07/11,Rochester,NY,3,Jersey Surf,World Class,78.4,1999
+07/11,Newark,NJ,3,Spirit of Newark,World Class,58.1,1999
+07/12,Marion,OH,3,Magic of Orlando,World Class,74.9,1999
+07/12,Bowling Green,KY,3,Southwind,World Class,64.7,1999
+07/11,Newark,NJ,4,Targets,World Class,49.6,1999
+07/12,Marion,OH,4,Bluecoats,World Class,72.5,1999
+07/12,Bowling Green,KY,4,Les Etoiles,World Class,58.7,1999
+07/11,Rochester,NY,1,Lake Erie Regiment,World Class,72.4,1999
+07/11,Newark,NJ,5,Imperial Guardsmen,World Class,44.7,1999
+07/12,Marion,OH,5,Spirit of Atlanta,World Class,69.3,1999
+07/12,Bowling Green,KY,5,Tarheel Sun,World Class,58.6,1999
+07/11,Rochester,NY,2,Citations,World Class,64.3,1999
+07/11,Newark,NJ,6,Illusion,World Class,39.2,1999
+07/12,Marion,OH,6,Kiwanis Kavaliers,World Class,63.2,1999
+07/11,Rochester,NY,3,Knight Storm,World Class,56.4,1999
+07/12,Marion,OH,7,Spartans,World Class,58.1,1999
+07/11,Rochester,NY,4,Spectrum,World Class,48.7,1999
+07/12,Marion,OH,8,Capital Regiment,World Class,48.7,1999
+07/11,Rochester,NY,5,Scenic City,World Class,37.1,1999
+07/12,Marion,OH,9,Marion Cadets,World Class,46.2,1999
+07/13,Boise,ID,1,Blue Devils,World Class,84.5,1999
+07/13,Willoughby,OH,1,Glassmen,World Class,83.5,1999
+07/13,Saint Louis,MO,1,Cadets,World Class,84.7,1999
+07/14,Logan,UT,1,Vanguard,World Class,85.4,1999
+07/13,Boise,ID,1,Vanguard,World Class,84.5,1999
+07/13,Willoughby,OH,2,Crossmen,World Class,79.4,1999
+07/13,Saint Louis,MO,2,Phantom Regiment,World Class,78.3,1999
+07/14,Logan,UT,2,Blue Devils,World Class,85.1,1999
+07/13,Boise,ID,3,Troopers,World Class,63.1,1999
+07/13,Willoughby,OH,3,Carolina Crown,World Class,77.2,1999
+07/13,Saint Louis,MO,3,Boston Crusaders,World Class,75.2,1999
+07/14,Logan,UT,3,Troopers,World Class,65.2,1999
+07/13,Willoughby,OH,4,Bluecoats,World Class,74.1,1999
+07/13,Saint Louis,MO,4,Les Etoiles,World Class,59.5,1999
+07/13,Boise,ID,1,Vanguard Cadets,World Class,79.4,1999
+07/13,Willoughby,OH,5,Kiwanis Kavaliers,World Class,62.0,1999
+07/13,Saint Louis,MO,5,Cincinnati Glory,World Class,50.4,1999
+07/14,Logan,UT,1,Vanguard Cadets,World Class,80.0,1999
+07/13,Boise,ID,2,Seattle Cascades,World Class,69.4,1999
+07/13,Willoughby,OH,6,Tarheel Sun,World Class,60.4,1999
+07/13,Saint Louis,MO,6,Marion Cadets,World Class,41.7,1999
+07/14,Logan,UT,2,Seattle Cascades,World Class,69.7,1999
+07/13,Willoughby,OH,7,Spartans,World Class,58.2,1999
+07/13,Saint Louis,MO,7,Memorial Lancers,World Class,35.8,1999
+07/13,Willoughby,OH,8,Lake Erie Regiment,World Class,51.2,1999
+07/13,Saint Louis,MO,8,Delta Brigade,World Class,35.4,1999
+07/14,Lawrence,KS,1,Madison Scouts,World Class,81.4,1999
+07/15,Laramie,WY,1,Vanguard,World Class,85.7,1999
+07/15,Hornell,NY,1,Glassmen,World Class,82.7,1999
+07/15,Ankeny,IA,1,Cadets,World Class,83.8,1999
+07/14,Lawrence,KS,2,Phantom Regiment,World Class,79.4,1999
+07/15,Laramie,WY,2,Blue Knights,World Class,79.2,1999
+07/15,Hornell,NY,2,Carolina Crown,World Class,78.7,1999
+07/15,Ankeny,IA,2,Madison Scouts,World Class,78.9,1999
+07/14,Lawrence,KS,3,Colts,World Class,74.8,1999
+07/15,Laramie,WY,3,Troopers,World Class,68.2,1999
+07/15,Hornell,NY,3,Magic of Orlando,World Class,72.9,1999
+07/15,Ankeny,IA,3,Colts,World Class,73.1,1999
+07/14,Lawrence,KS,4,Boston Crusaders,World Class,74.2,1999
+07/15,Hornell,NY,4,Spirit of Atlanta,World Class,66.6,1999
+07/15,Ankeny,IA,4,Blue Stars,World Class,56.4,1999
+07/14,Lawrence,KS,5,Blue Stars,World Class,60.3,1999
+07/15,Laramie,WY,1,Vanguard Cadets,World Class,79.2,1999
+07/15,Hornell,NY,5,Kiwanis Kavaliers,World Class,61.6,1999
+07/14,Lawrence,KS,6,Les Etoiles,World Class,59.5,1999
+07/15,Laramie,WY,2,Seattle Cascades,World Class,72.3,1999
+07/15,Hornell,NY,5,Tarheel Sun,World Class,61.6,1999
+07/14,Lawrence,KS,7,Marion Cadets,World Class,42.1,1999
+07/15,Laramie,WY,3,Allegiance Elite,World Class,64.4,1999
+07/15,Hornell,NY,7,Patriots,World Class,53.3,1999
+07/14,Lawrence,KS,8,Memorial Lancers,World Class,36.4,1999
+07/15,Hornell,NY,8,Spectrum,World Class,31.5,1999
+07/16,Cumberland,MD,1,Glassmen,World Class,83.1,1999
+07/16,Hamilton,Ontario,1,Les Stentors,World Class,69.5,1999
+07/17,Brantford,Ontario,1,Kiwanis Kavaliers,World Class,68.9,1999
+07/17,Denver,CO,1,Vanguard,World Class,87.1,1999
+07/16,Cumberland,MD,2,Crossmen,World Class,80.0,1999
+07/16,Hamilton,Ontario,2,Dutch Boy,World Class,62.7,1999
+07/17,Denver,CO,2,Blue Devils,World Class,86.4,1999
+07/16,Cumberland,MD,3,Carolina Crown,World Class,77.5,1999
+07/17,Brantford,Ontario,1,Les Stentors,World Class,71.3,1999
+07/17,Denver,CO,3,Cadets,World Class,84.1,1999
+07/16,Cumberland,MD,4,Magic of Orlando,World Class,73.9,1999
+07/16,Hamilton,Ontario,1,Emerald Knights,World Class,66.2,1999
+07/17,Brantford,Ontario,2,Dutch Boy,World Class,63.0,1999
+07/17,Denver,CO,4,Blue Knights,World Class,80.0,1999
+07/16,Cumberland,MD,5,Bluecoats,World Class,72.7,1999
+07/16,Hamilton,Ontario,2,Conqueror II,World Class,64.0,1999
+07/17,Denver,CO,5,Phantom Regiment,World Class,77.9,1999
+07/16,Cumberland,MD,6,Spirit of Atlanta,World Class,69.5,1999
+07/16,Hamilton,Ontario,3,Les Sentinelles,World Class,57.1,1999
+07/17,Brantford,Ontario,1,Emerald Knights,World Class,68.2,1999
+07/17,Denver,CO,6,Colts,World Class,75.0,1999
+07/16,Cumberland,MD,7,"General Butler
+  Vagabonds",World Class,53.2,1999
+07/16,Hamilton,Ontario,4,Les Melomanes,World Class,54.7,1999
+07/17,Brantford,Ontario,2,Conqueror II,World Class,66.4,1999
+07/17,Denver,CO,7,Troopers,World Class,66.7,1999
+07/16,Hamilton,Ontario,5,Blue Saints,World Class,38.0,1999
+07/17,Brantford,Ontario,3,Les Sentinelles,World Class,59.6,1999
+07/17,Brantford,Ontario,4,Les Melomanes,World Class,51.3,1999
+07/17,Denver,CO,1,Vanguard Cadets,World Class,79.8,1999
+07/16,Hamilton,Ontario,1,Ridge Raiders,World Class,32.7,1999
+07/17,Brantford,Ontario,5,Blue Saints,World Class,42.8,1999
+07/17,Denver,CO,2,Seattle Cascades,World Class,70.2,1999
+07/17,Denver,CO,3,Allegiance Elite,World Class,63.9,1999
+07/17,Brantford,Ontario,1,Ridge Raiders,World Class,37.0,1999
+07/17,Brantford,Ontario,1,Kingston Grenadiers,World Class,65.4,1999
+07/17,Brantford,Ontario,1,Patriots,World Class,86.0,1999
+07/17,Brantford,Ontario,1,Lake Erie Regiment,World Class,77.1,1999
+07/17,Brantford,Ontario,2,Imperial Regiment,World Class,46.7,1999
+07/17,Michigan City,IN,1,Cavaliers,World Class,83.4,1999
+07/17,Hampton,VA,1,Glassmen,World Class,84.6,1999
+07/17,Nashua,NH,1,East Coast Jazz,World Class,82.0,1999
+07/17,Braintree,MA,1,Targets,World Class,71.7,1999
+07/17,Michigan City,IN,2,Madison Scouts,World Class,81.1,1999
+07/17,Hampton,VA,2,Crossmen,World Class,80.9,1999
+07/17,Nashua,NH,1,Spartans,World Class,82.0,1999
+07/17,Michigan City,IN,3,Boston Crusaders,World Class,75.6,1999
+07/17,Hampton,VA,3,Carolina Crown,World Class,79.3,1999
+07/17,Nashua,NH,3,Jersey Surf,World Class,78.3,1999
+07/17,Braintree,MA,1,Citation Juniors,World Class,70.6,1999
+07/17,Michigan City,IN,4,Pioneer,World Class,66.4,1999
+07/17,Hampton,VA,4,Bluecoats,World Class,74.4,1999
+07/17,Nashua,NH,4,Citations,World Class,71.9,1999
+07/17,Braintree,MA,2,East Coast Junior Jazz,World Class,66.4,1999
+07/17,Michigan City,IN,5,Les Etoiles,World Class,64.2,1999
+07/17,Hampton,VA,5,Spirit of Atlanta,World Class,69.6,1999
+07/17,Nashua,NH,5,Knight Storm,World Class,63.9,1999
+07/17,Braintree,MA,3,Valley Pioneers,World Class,63.5,1999
+07/17,Michigan City,IN,6,Capital Sound,World Class,56.6,1999
+07/17,Hampton,VA,6,Tarheel Sun,World Class,63.9,1999
+07/17,Nashua,NH,6,Spectrum,World Class,56.4,1999
+07/17,Braintree,MA,4,Braintree Braves,World Class,21.6,1999
+07/17,Michigan City,IN,7,Phantom Legion,World Class,56.5,1999
+07/17,Nashua,NH,7,Academie Musicale,World Class,53.3,1999
+07/17,Nashua,NH,8,Cadets of Brooklyn,World Class,50.7,1999
+07/17,Saul Ste. Marie,Ontario,1,Americanos,Open Class,62.0,1999
+07/17,Warren,PA,1,Empire Statesmen,Open Class,84.3,1999
+07/17,Clifton,NJ,1,Syracuse Brigadiers,Open Class,82.1,1999
+07/18,Waterbury,CT,1,Connecticut Hurricanes,Open Class,75.1,1999
+07/17,Saul Ste. Marie,Ontario,2,Blue Stars,Open Class,60.4,1999
+07/17,Warren,PA,2,Reading Buccaneers,Open Class,82.7,1999
+07/17,Clifton,NJ,2,Hawthorne Caballeros,Open Class,78.8,1999
+07/18,Waterbury,CT,2,Bushwackers,Open Class,73.3,1999
+07/17,Saul Ste. Marie,Ontario,3,Capital Regiment,Open Class,44.8,1999
+07/17,Warren,PA,3,Rochester Crusaders,Open Class,70.3,1999
+07/17,Clifton,NJ,3,Connecticut Hurricanes,Open Class,72.6,1999
+07/18,Waterbury,CT,3,Sunrisers,Open Class,72.7,1999
+07/17,Saul Ste. Marie,Ontario,4,Marion Cadets,Open Class,44.5,1999
+07/17,Warren,PA,5,Chieftains,Open Class,52.4,1999
+07/17,Clifton,NJ,4,Sunrisers,Open Class,70.3,1999
+07/17,Clifton,NJ,5,Bushwackers,Open Class,68.6,1999
+07/18,Waterbury,CT,4,New York Skyliners,Open Class,61.7,1999
+07/17,Warren,PA,4,Heat Wave (DCA),Open Class,56.4,1999
+07/18,Waterbury,CT,5,Generations,Open Class,49.1,1999
+07/17,Clifton,NJ,1,Generations,Open Class,50.0,1999
+07/18,Winchendon,MA,1,Citations,Open Class,74.7,1999
+07/18,Minocqua,WI,1,Madison Scouts,Open Class,80.9,1999
+07/18,Mississauga,Ontario,1,Kiwanis Kavaliers,Open Class,69.8,1999
+07/18,Lakewood,NJ,1,Spartans,Open Class,85.3,1999
+07/18,Minocqua,WI,2,Americanos,Open Class,63.5,1999
+07/18,Lakewood,NJ,2,Jersey Surf,Open Class,83.7,1999
+07/18,Winchendon,MA,1,Targets,Open Class,78.7,1999
+07/18,Minocqua,WI,3,Les Etoiles,Open Class,63.2,1999
+07/18,Mississauga,Ontario,1,Patriots,Open Class,84.6,1999
+07/18,Lakewood,NJ,3,Kips Bay Knight Club,Open Class,76.6,1999
+07/18,Minocqua,WI,4,Blue Stars,Open Class,62.5,1999
+07/18,Mississauga,Ontario,2,Les Stentors,Open Class,67.7,1999
+07/18,Lakewood,NJ,4,Latin Knights,Open Class,55.7,1999
+07/18,Winchendon,MA,1,Citation Juniors,Open Class,73.0,1999
+07/18,Minocqua,WI,5,Capital Sound,Open Class,58.8,1999
+07/18,Lakewood,NJ,5,Illusion,Open Class,47.9,1999
+07/18,Winchendon,MA,2,East Coast Junior Jazz,Open Class,68.9,1999
+07/18,Minocqua,WI,6,Marion Cadets,Open Class,42.1,1999
+07/18,Mississauga,Ontario,1,Lake Erie Regiment,Open Class,74.0,1999
+07/18,Lakewood,NJ,6,William G. Lucas,Open Class,33.6,1999
+07/18,Winchendon,MA,3,Valley Pioneers,Open Class,64.6,1999
+07/18,Minocqua,WI,7,Bandettes,Open Class,36.4,1999
+07/18,Mississauga,Ontario,2,Emerald Knights,Open Class,63.8,1999
+07/18,Winchendon,MA,4,Braintree Braves,Open Class,17.6,1999
+07/18,Mississauga,Ontario,3,Conqueror II,Open Class,62.4,1999
+07/18,Lakewood,NJ,1,Raiders,Open Class,73.8,1999
+07/18,Mississauga,Ontario,4,Les Sentinelles,Open Class,57.4,1999
+07/18,Lakewood,NJ,2,Quest,Open Class,72.8,1999
+07/18,Mississauga,Ontario,5,Les Melomanes,Open Class,48.5,1999
+07/18,Lakewood,NJ,3,Phoenix,Open Class,70.8,1999
+07/18,Mississauga,Ontario,6,Imperial Guardsmen,Open Class,41.8,1999
+07/18,Lakewood,NJ,4,Cadets of Brooklyn,Open Class,64.4,1999
+07/18,Mississauga,Ontario,7,Blue Saints,Open Class,38.9,1999
+07/18,Lakewood,NJ,5,Spirit of Newark,Open Class,63.6,1999
+07/18,Lakewood,NJ,6,Phoenix Kidets,Open Class,59.8,1999
+07/18,Lakewood,NJ,7,Cadet Regiment,Open Class,58.1,1999
+07/18,Lakewood,NJ,8,Bracken Cavaliers,Open Class,51.1,1999
+07/18,Lakewood,NJ,1,Long Island Sound,Open Class,62.8,1999
+07/18,Lakewood,NJ,2,Phoenix Kidets,Open Class,59.8,1999
+07/18,Lakewood,NJ,3,Brooklyn Regiment,Open Class,58.1,1999
+07/18,Lakewood,NJ,4,Bracken Cavaliers,Open Class,51.1,1999
+07/18,Durham,NC,1,Glassmen,Open Class,85.3,1999
+07/19,Wichita,KS,1,Blue Devils,Open Class,88.8,1999
+07/19,Columbia,SC,1,Cavaliers,Open Class,86.1,1999
+07/20,Stillwater,MN,1,Vanguard,Open Class,88.4,1999
+07/18,Durham,NC,2,Crossmen,Open Class,82.3,1999
+07/19,Wichita,KS,2,Blue Knights,Open Class,82.0,1999
+07/19,Columbia,SC,2,Glassmen,Open Class,85.1,1999
+07/20,Stillwater,MN,2,Cadets,Open Class,86.8,1999
+07/18,Durham,NC,3,Carolina Crown,Open Class,80.4,1999
+07/19,Wichita,KS,3,Phantom Regiment,Open Class,79.8,1999
+07/19,Columbia,SC,3,Carolina Crown,Open Class,78.2,1999
+07/20,Stillwater,MN,3,Madison Scouts,Open Class,83.3,1999
+07/18,Durham,NC,4,Magic of Orlando,Open Class,75.6,1999
+07/19,Wichita,KS,4,Pioneer,Open Class,68.1,1999
+07/19,Columbia,SC,4,Bluecoats,Open Class,74.6,1999
+07/20,Stillwater,MN,4,Boston Crusaders,Open Class,78.7,1999
+07/18,Durham,NC,5,Spirit of Atlanta,Open Class,71.5,1999
+07/19,Wichita,KS,5,Seattle Cascades,Open Class,58.3,1999
+07/19,Columbia,SC,5,Magic of Orlando,Open Class,74.3,1999
+07/20,Stillwater,MN,5,Colts,Open Class,77.4,1999
+07/18,Durham,NC,6,Tarheel Sun,Open Class,68.2,1999
+07/19,Wichita,KS,6,Legend of Texas,Open Class,44.7,1999
+07/19,Columbia,SC,6,Spirit of Atlanta,Open Class,71.2,1999
+07/20,Stillwater,MN,6,Troopers,Open Class,65.0,1999
+07/19,Wichita,KS,7,Delta Brigade,Open Class,43.6,1999
+07/20,Stillwater,MN,7,Les Etoiles,Open Class,62.1,1999
+07/20,Stillwater,MN,8,Capital Sound,Open Class,53.1,1999
+07/20,Troy,AL,1,Cavaliers,Open Class,86.3,1999
+07/20,Tulsa,OK,1,Blue Devils,Open Class,89.0,1999
+07/21,Stillwater,MN,1,Vanguard,Open Class,89.1,1999
+07/21,Ocean Springs,MS,1,Cavaliers,Open Class,86.5,1999
+07/20,Troy,AL,2,Crossmen,Open Class,82.0,1999
+07/20,Tulsa,OK,2,Blue Knights,Open Class,81.2,1999
+07/21,Stillwater,MN,2,Cadets,Open Class,88.3,1999
+07/21,Ocean Springs,MS,2,Crossmen,Open Class,81.5,1999
+07/20,Troy,AL,3,Bluecoats,Open Class,73.8,1999
+07/20,Tulsa,OK,3,Phantom Regiment,Open Class,81.1,1999
+07/21,Stillwater,MN,3,Madison Scouts,Open Class,84.4,1999
+07/21,Ocean Springs,MS,3,Bluecoats,Open Class,75.3,1999
+07/20,Troy,AL,3,Magic of Orlando,Open Class,73.8,1999
+07/20,Tulsa,OK,4,Pioneer,Open Class,69.3,1999
+07/21,Stillwater,MN,4,Boston Crusaders,Open Class,79.5,1999
+07/21,Ocean Springs,MS,4,Magic of Orlando,Open Class,74.9,1999
+07/20,Troy,AL,5,Spirit of Atlanta,Open Class,69.7,1999
+07/20,Tulsa,OK,5,Seattle Cascades,Open Class,57.1,1999
+07/21,Stillwater,MN,5,Troopers,Open Class,65.7,1999
+07/21,Ocean Springs,MS,5,Spirit of Atlanta,Open Class,67.8,1999
+07/20,Troy,AL,6,Tarheel Sun,Open Class,65.7,1999
+07/20,Tulsa,OK,6,Legend of Texas,Open Class,44.0,1999
+07/21,Stillwater,MN,6,Les Etoiles,Open Class,61.0,1999
+07/21,Ocean Springs,MS,6,Tarheel Sun,Open Class,65.1,1999
+07/20,Tulsa,OK,7,Delta Brigade,Open Class,40.4,1999
+07/21,Stillwater,MN,7,Blue Stars,Open Class,54.7,1999
+07/21,Stillwater,MN,8,Allegiance Elite,Open Class,47.0,1999
+07/21,Amarillo,TX,1,Blue Knights,Open Class,82.5,1999
+07/22,Burlington,IA,1,Vanguard,Open Class,88.9,1999
+07/23,Dallas,TX,1,Blue Devils,Open Class,90.5,1999
+07/24,Houston,TX,1,Cavaliers,Open Class,87.6,1999
+07/21,Amarillo,TX,2,Phantom Regiment,Open Class,81.4,1999
+07/22,Burlington,IA,2,Cadets,Open Class,87.1,1999
+07/23,Dallas,TX,2,Cavaliers,Open Class,87.5,1999
+07/24,Houston,TX,2,Phantom Regiment,Open Class,84.9,1999
+07/21,Amarillo,TX,3,Pioneer,Open Class,67.5,1999
+07/22,Burlington,IA,3,Colts,Open Class,76.6,1999
+07/23,Dallas,TX,3,Madison Scouts,Open Class,84.8,1999
+07/24,Houston,TX,3,Blue Knights,Open Class,83.8,1999
+07/21,Amarillo,TX,4,Seattle Cascades,Open Class,56.5,1999
+07/22,Burlington,IA,4,Troopers,Open Class,66.7,1999
+07/23,Dallas,TX,4,Crossmen,Open Class,83.9,1999
+07/24,Houston,TX,4,Crossmen,Open Class,82.3,1999
+07/21,Amarillo,TX,5,Legend of Texas,Open Class,45.3,1999
+07/22,Burlington,IA,5,Les Etoiles,Open Class,65.2,1999
+07/23,Dallas,TX,5,Bluecoats,Open Class,77.8,1999
+07/24,Houston,TX,5,Bluecoats,Open Class,78.1,1999
+07/22,Burlington,IA,6,Blue Stars,Open Class,56.7,1999
+07/23,Dallas,TX,6,Magic of Orlando,Open Class,75.3,1999
+07/24,Houston,TX,6,Magic of Orlando,Open Class,75.2,1999
+07/22,Burlington,IA,7,Allegiance Elite,Open Class,50.2,1999
+07/23,Dallas,TX,7,Spirit of Atlanta,Open Class,71.3,1999
+07/24,Houston,TX,7,Pioneer,Open Class,71.1,1999
+07/23,Dallas,TX,8,Pioneer,Open Class,69.9,1999
+07/24,Houston,TX,8,Spirit of Atlanta,Open Class,70.9,1999
+07/23,Dallas,TX,9,Tarheel Sun,Open Class,68.0,1999
+07/24,Houston,TX,9,Tarheel Sun,Open Class,68.6,1999
+07/24,Brooklyn,NY,1,Kips Bay Knight Club,Open Class,77.1,1999
+07/24,Trois-Rivieres ,Quebec,1,Les Senateurs,Open Class,69.6,1999
+07/24,Springfield,MA,1,Targets,Open Class,75.9,1999
+07/24,Rochester,NY,1,Syracuse Brigadiers,Open Class,85.2,1999
+07/24,Trois-Rivieres ,Quebec,2,Emerald Knights,Open Class,69.0,1999
+07/24,Springfield,MA,2,Imperial Guardsmen,Open Class,73.8,1999
+07/24,Rochester,NY,2,Empire Statesmen,Open Class,85.1,1999
+07/24,Brooklyn,NY,1,Quest,Open Class,75.8,1999
+07/24,Trois-Rivieres ,Quebec,3,Les Stentors,Open Class,68.8,1999
+07/24,Rochester,NY,3,Sunrisers,Open Class,72.0,1999
+07/24,Brooklyn,NY,2,Phoenix,Open Class,74.3,1999
+07/24,Trois-Rivieres ,Quebec,4,Dutch Boy,Open Class,65.2,1999
+07/24,Springfield,MA,1,Valley Pioneers,Open Class,58.4,1999
+07/24,Rochester,NY,4,Kingston Grenadiers,Open Class,69.6,1999
+07/24,Brooklyn,NY,3,Cadets of Brooklyn,Open Class,68.5,1999
+07/24,Trois-Rivieres ,Quebec,5,Les Sentinelles,Open Class,61.5,1999
+07/24,Springfield,MA,2,Braintree Braves,Open Class,13.7,1999
+07/24,Brooklyn,NY,4,Spirit of Newark,Open Class,65.5,1999
+07/24,Trois-Rivieres ,Quebec,6,Les Melomanes,Open Class,56.9,1999
+07/24,Brooklyn,NY,5,Latin Knights,Open Class,61.1,1999
+07/24,Brooklyn,NY,6,Illusion,Open Class,51.2,1999
+07/24,Trois-Rivieres ,Quebec,1,Pers-Clairs,Open Class,59.2,1999
+07/24,Brooklyn,NY,7,William G. Lucas,Open Class,38.2,1999
+07/24,Brooklyn,NY,1,Long Island Sound,Open Class,63.5,1999
+07/24,Brooklyn,NY,2,Brooklyn Regiment,Open Class,60.6,1999
+07/24,Brooklyn,NY,3,Bracken Cavaliers,Open Class,50.9,1999
+07/24,Reading,PA,1,Reading Buccaneers,Open Class,83.7,1999
+07/24,Toledo,OH,1,Vanguard,Open Class,90.2,1999
+07/25,San Antonio,TX,1,Blue Devils,Open Class,91.0,1999
+07/25,Port Huron,MI,1,Vanguard,Open Class,89.9,1999
+07/24,Reading,PA,2,Hawthorne Caballeros,Open Class,81.4,1999
+07/24,Toledo,OH,2,Cadets,Open Class,88.0,1999
+07/25,San Antonio,TX,2,Cavaliers,Open Class,88.8,1999
+07/25,Port Huron,MI,2,Colts,Open Class,79.8,1999
+07/24,Reading,PA,3,Connecticut Hurricanes,Open Class,77.3,1999
+07/24,Toledo,OH,3,Glassmen,Open Class,86.8,1999
+07/25,San Antonio,TX,3,Madison Scouts,Open Class,85.3,1999
+07/25,Port Huron,MI,3,Carolina Crown,Open Class,79.8,1999
+07/24,Reading,PA,4,Bushwackers,Open Class,73.8,1999
+07/24,Toledo,OH,4,Colts,Open Class,80.3,1999
+07/25,San Antonio,TX,4,Phantom Regiment,Open Class,85.2,1999
+07/25,Port Huron,MI,3,Boston Crusaders,Open Class,78.2,1999
+07/24,Reading,PA,5,Chieftains,Open Class,55.1,1999
+07/24,Toledo,OH,5,Carolina Crown,Open Class,79.2,1999
+07/25,San Antonio,TX,5,Blue Knights,Open Class,85.0,1999
+07/25,Port Huron,MI,5,Southwind,Open Class,71.9,1999
+07/24,Toledo,OH,6,Boston Crusaders,Open Class,76.9,1999
+07/25,San Antonio,TX,6,Crossmen,Open Class,82.7,1999
+07/25,Port Huron,MI,6,Kiwanis Kavaliers,Open Class,66.6,1999
+07/24,Reading,PA,1,New York Skyliners,Open Class,63.0,1999
+07/24,Toledo,OH,7,Southwind,Open Class,73.8,1999
+07/25,San Antonio,TX,7,Bluecoats,Open Class,78.7,1999
+07/25,Port Huron,MI,7,Americanos,Open Class,55.7,1999
+07/24,Toledo,OH,8,Kiwanis Kavaliers,Open Class,69.1,1999
+07/25,San Antonio,TX,8,Magic of Orlando,Open Class,74.7,1999
+07/25,Port Huron,MI,8,Allegiance Elite,Open Class,49.7,1999
+07/24,Toledo,OH,9,Les Etoiles,Open Class,67.6,1999
+07/25,San Antonio,TX,9,Pioneer,Open Class,71.5,1999
+07/24,Toledo,OH,10,Troopers,Open Class,66.2,1999
+07/25,San Antonio,TX,10,Spirit of Atlanta,Open Class,70.7,1999
+07/25,San Antonio,TX,11,Tarheel Sun,Open Class,68.7,1999
+07/25,Fleurimont,Quebec,1,Emerald Knights,Open Class,73.4,1999
+07/25,Springfield,MA,1,Citations,Open Class,81.5,1999
+07/27,Cincinnati,OH,1,Vanguard,Open Class,90.0,1999
+07/28,Evansville,IN,1,Cadets,Open Class,89.8,1999
+07/25,Fleurimont,Quebec,2,Les Senateurs,Open Class,72.9,1999
+07/25,Springfield,MA,2,Spectrum,Open Class,75.8,1999
+07/27,Cincinnati,OH,2,Cadets,Open Class,89.3,1999
+07/28,Evansville,IN,2,Glassmen,Open Class,85.7,1999
+07/25,Fleurimont,Quebec,3,Les Stentors,Open Class,71.0,1999
+07/27,Cincinnati,OH,3,Colts,Open Class,80.5,1999
+07/28,Evansville,IN,3,Carolina Crown,Open Class,81.6,1999
+07/25,Fleurimont,Quebec,4,Dutch Boy,Open Class,67.3,1999
+07/25,Springfield,MA,1,Targets,Open Class,78.8,1999
+07/27,Cincinnati,OH,4,Carolina Crown,Open Class,79.1,1999
+07/28,Evansville,IN,4,Southwind,Open Class,72.9,1999
+07/25,Fleurimont,Quebec,5,Les Sentinelles,Open Class,63.3,1999
+07/27,Cincinnati,OH,5,Les Etoiles,Open Class,65.2,1999
+07/28,Evansville,IN,5,Kiwanis Kavaliers,Open Class,66.2,1999
+07/25,Fleurimont,Quebec,6,Les Melomanes,Open Class,57.9,1999
+07/25,Springfield,MA,1,East Coast Junior Jazz,Open Class,74.3,1999
+07/27,Cincinnati,OH,6,Mandarins,Open Class,63.5,1999
+07/28,Evansville,IN,6,Mandarins,Open Class,65.0,1999
+07/25,Springfield,MA,2,Citation Juniors,Open Class,74.0,1999
+07/27,Cincinnati,OH,7,Troopers,Open Class,62.7,1999
+07/28,Evansville,IN,7,Les Etoiles,Open Class,63.4,1999
+07/25,Springfield,MA,3,Valley Pioneers,Open Class,70.7,1999
+07/27,Cincinnati,OH,8,Cincinnati Glory,Open Class,51.6,1999
+07/25,Springfield,MA,4,Braintree Braves,Open Class,19.0,1999
+07/29,Tupelo,MS,1,Blue Devils,Open Class,91.0,1999
+07/29,Alton,IL,1,Glassmen,Open Class,86.7,1999
+07/29,Chattanooga,TN,1,Vanguard,Open Class,91.6,1999
+07/30,Fon du Lac,WI,1,Blue Stars,Open Class,81.4,1999
+07/29,Tupelo,MS,2,Cavaliers,Open Class,88.0,1999
+07/29,Alton,IL,2,Colts,Open Class,81.7,1999
+07/29,Chattanooga,TN,2,Phantom Regiment,Open Class,86.4,1999
+07/30,Fon du Lac,WI,2,Americanos,Open Class,81.1,1999
+07/29,Tupelo,MS,3,Madison Scouts,Open Class,85.5,1999
+07/29,Alton,IL,3,Crossmen,Open Class,81.6,1999
+07/29,Chattanooga,TN,3,Boston Crusaders,Open Class,81.0,1999
+07/30,Fon du Lac,WI,3,Phantom Legion,Open Class,79.4,1999
+07/29,Tupelo,MS,4,Blue Knights,Open Class,84.1,1999
+07/29,Alton,IL,4,Carolina Crown,Open Class,80.4,1999
+07/29,Chattanooga,TN,4,Spirit of Atlanta,Open Class,73.6,1999
+07/30,Fon du Lac,WI,4,Yamato,Open Class,75.4,1999
+07/29,Tupelo,MS,5,Bluecoats,Open Class,78.0,1999
+07/29,Alton,IL,5,Troopers,Open Class,68.4,1999
+07/29,Chattanooga,TN,5,Southwind,Open Class,71.0,1999
+07/30,Fon du Lac,WI,5,Capital Regiment,Open Class,66.2,1999
+07/29,Tupelo,MS,6,Tarheel Sun,Open Class,68.1,1999
+07/29,Alton,IL,6,Blue Stars,Open Class,60.0,1999
+07/29,Chattanooga,TN,6,Kiwanis Kavaliers,Open Class,66.0,1999
+07/30,Fon du Lac,WI,6,Marion Cadets,Open Class,55.5,1999
+07/29,Tupelo,MS,7,Pioneer,Open Class,67.6,1999
+07/29,Alton,IL,7,Allegiance Elite,Open Class,57.9,1999
+07/29,Chattanooga,TN,7,Seattle Cascades,Open Class,56.9,1999
+07/30,Fon du Lac,WI,7,Racine Scouts,Open Class,49.0,1999
+07/29,Chattanooga,TN,8,Legend of Texas,Open Class,45.1,1999
+07/30,Fon du Lac,WI,8,Bandettes,Open Class,44.6,1999
+07/30,Fon du Lac,WI,9,Joliet Kingsmen,Open Class,32.5,1999
+07/30,Williamstown,NJ,1,Patriots,Open Class,88.4,1999
+07/30,Murfreesboro,TN,1,Blue Devils,Open Class,92.9,1999
+07/31,Murfreesboro,TN,1,Cadets,Open Class,92.0,1999
+07/31,St. Louis,MO,1,Seattle Cascades,Open Class,80.4,1999
+07/30,Williamstown,NJ,2,Spartans,Open Class,86.7,1999
+07/30,Murfreesboro,TN,2,Vanguard,Open Class,91.6,1999
+07/31,Murfreesboro,TN,2,Glassmen,Open Class,89.5,1999
+07/31,St. Louis,MO,2,Allegiance Elite,Open Class,76.1,1999
+07/30,Williamstown,NJ,3,East Coast Jazz,Open Class,86.3,1999
+07/30,Murfreesboro,TN,3,Cavaliers,Open Class,89.5,1999
+07/31,Murfreesboro,TN,3,Madison Scouts,Open Class,87.8,1999
+07/31,St. Louis,MO,3,Marion Cadets,Open Class,64.4,1999
+07/30,Williamstown,NJ,4,Jersey Surf,Open Class,82.7,1999
+07/30,Murfreesboro,TN,4,Blue Knights,Open Class,86.4,1999
+07/31,Murfreesboro,TN,4,Crossmen,Open Class,85.6,1999
+07/31,St. Louis,MO,4,Memorial Lancers,Open Class,52.1,1999
+07/30,Murfreesboro,TN,5,Phantom Regiment,Open Class,84.5,1999
+07/31,Murfreesboro,TN,5,Colts,Open Class,83.3,1999
+07/31,St. Louis,MO,5,Volunteers,Open Class,40.2,1999
+07/30,Williamstown,NJ,1,Raiders,Open Class,76.6,1999
+07/30,Murfreesboro,TN,6,Carolina Crown,Open Class,82.4,1999
+07/31,Murfreesboro,TN,6,Boston Crusaders,Open Class,81.4,1999
+07/31,St. Louis,MO,6,Twilight Optimist,Open Class,32.0,1999
+07/30,Williamstown,NJ,2,Citations,Open Class,74.1,1999
+07/30,Murfreesboro,TN,7,Magic of Orlando,Open Class,76.8,1999
+07/31,Murfreesboro,TN,7,Bluecoats,Open Class,80.1,1999
+07/30,Williamstown,NJ,3,Teal Sound,Open Class,66.4,1999
+07/30,Murfreesboro,TN,8,Southwind,Open Class,72.5,1999
+07/31,Murfreesboro,TN,8,Troopers,Open Class,70.3,1999
+07/30,Williamstown,NJ,4,Quest,Open Class,63.6,1999
+07/30,Murfreesboro,TN,9,Spirit of Atlanta,Open Class,72.2,1999
+07/31,Murfreesboro,TN,9,Kiwanis Kavaliers,Open Class,68.3,1999
+07/30,Williamstown,NJ,5,Edmonton Strutters,Open Class,59.8,1999
+07/30,Murfreesboro,TN,10,Pioneer,Open Class,69.7,1999
+07/31,Murfreesboro,TN,10,Les Etoiles,Open Class,63.2,1999
+07/30,Murfreesboro,TN,11,Tarheel Sun,Open Class,68.1,1999
+07/31,Cumberland,MD,1,Reading Buccaneers,Open Class,87.4,1999
+07/31,Clifton,NJ,1,Patriots,Open Class,85.5,1999
+07/31,Clifton,NJ,1,Patriots,Open Class,87.1,1999
+07/31,Leominster,MA,1,Targets,Open Class,83.1,1999
+07/31,Cumberland,MD,2,Hawthorne Caballeros,Open Class,86.2,1999
+07/31,Clifton,NJ,2,East Coast Jazz,Open Class,84.8,1999
+07/31,Clifton,NJ,2,Spartans,Open Class,86.3,1999
+07/31,Cumberland,MD,3,Connecticut Hurricanes,Open Class,78.7,1999
+07/31,Clifton,NJ,3,Spartans,Open Class,84.7,1999
+07/31,Clifton,NJ,3,East Coast Jazz,Open Class,85.7,1999
+07/31,Leominster,MA,1,East Coast Junior Jazz,Open Class,78.7,1999
+07/31,Cumberland,MD,4,Sunrisers,Open Class,76.7,1999
+07/31,Clifton,NJ,4,Jersey Surf,Open Class,80.5,1999
+07/31,Clifton,NJ,4,Jersey Surf,Open Class,79.3,1999
+07/31,Leominster,MA,2,Citation Juniors,Open Class,74.1,1999
+07/31,Cumberland,MD,5,Bushwackers,Open Class,76.5,1999
+07/31,Clifton,NJ,5,Teal Sound,Open Class,70.1,1999
+07/31,Clifton,NJ,5,Teal Sound,Open Class,71.8,1999
+07/31,Leominster,MA,3,Valley Pioneers,Open Class,73.6,1999
+07/31,Cumberland,MD,6,Grenadiers,Open Class,73.5,1999
+07/31,Clifton,NJ,6,Kips Bay Knight Club,Open Class,69.8,1999
+07/31,Leominster,MA,4,Braintree Braves,Open Class,19.8,1999
+07/31,Clifton,NJ,1,"General Butler
+  Vagabonds",Open Class,80.4,1999
+07/31,Clifton,NJ,1,"General Butler
+  Vagabonds",Open Class,81.1,1999
+07/31,Clifton,NJ,2,Raiders,Open Class,78.6,1999
+07/31,Clifton,NJ,2,Raiders,Open Class,78.6,1999
+07/31,Clifton,NJ,3,Les Senateurs,Open Class,74.3,1999
+07/31,Clifton,NJ,3,Les Senateurs,Open Class,75.4,1999
+07/31,Clifton,NJ,4,Citations,Open Class,72.6,1999
+07/31,Clifton,NJ,4,Citations,Open Class,74.0,1999
+07/31,Clifton,NJ,5,Phoenix,Open Class,66.8,1999
+07/31,Clifton,NJ,5,Phoenix,Open Class,70.6,1999
+07/31,Clifton,NJ,6,Emerald Knights,Open Class,69.7,1999
+07/31,Clifton,NJ,7,Knight Storm,Open Class,69.0,1999
+07/31,Clifton,NJ,8,Quest,Open Class,67.8,1999
+07/31,Clifton,NJ,9,Conqueror II,Open Class,67.6,1999
+07/31,Clifton,NJ,9,Legend of Texas,Open Class,67.6,1999
+07/31,Clifton,NJ,11,Edmonton Strutters,Open Class,67.3,1999
+07/31,Clifton,NJ,12,Académie Musicale,Open Class,65.1,1999
+07/31,Clifton,NJ,12,Spectrum,Open Class,65.1,1999
+07/31,Clifton,NJ,14,Cadets of Brooklyn,Open Class,58.2,1999
+07/31,Clifton,NJ,16,Spirit of Newark,Open Class,57.7,1999
+07/31,Clifton,NJ,17,Illusion,Open Class,51.6,1999
+07/31,Clifton,NJ,18,Imperial Guardsmen,Open Class,49.8,1999
+07/31,Clifton,NJ,19,Lucas Rhythm Nation,Open Class,36.5,1999
+08/01,Charlotte,NC,1,Blue Devils,World Class,93.9,1999
+08/01,Jacksonville,AL,1,Vanguard,World Class,92.2,1999
+08/01,Lakewood,NJ,1,Jersey Surf,World Class,82.8,1999
+08/01,Ottawa,IL,1,Americanos,World Class,84.9,1999
+08/01,Charlotte,NC,2,Glassmen,World Class,90.5,1999
+08/01,Jacksonville,AL,2,Cadets,World Class,91.1,1999
+08/01,Lakewood,NJ,2,Kips Bay Knight Club,World Class,76.5,1999
+08/01,Ottawa,IL,2,Seattle Cascades,World Class,82.3,1999
+08/01,Charlotte,NC,3,Madison Scouts,World Class,89.0,1999
+08/01,Jacksonville,AL,3,Cavaliers,World Class,90.5,1999
+08/01,Ottawa,IL,3,Capital Sound,World Class,81.9,1999
+08/01,Charlotte,NC,4,Carolina Crown,World Class,85.0,1999
+08/01,Jacksonville,AL,4,Blue Knights,World Class,86.7,1999
+08/01,Lakewood,NJ,1,Raiders,World Class,81.1,1999
+08/01,Charlotte,NC,5,Boston Crusaders,World Class,82.1,1999
+08/01,Jacksonville,AL,5,Crossmen,World Class,83.5,1999
+08/01,Lakewood,NJ,2,Quest,World Class,76.3,1999
+08/01,Ottawa,IL,1,Blue Stars,World Class,82.3,1999
+08/01,Charlotte,NC,6,Magic of Orlando,World Class,78.8,1999
+08/01,Jacksonville,AL,6,Colts,World Class,82.5,1999
+08/01,Lakewood,NJ,3,Phoenix,World Class,76.2,1999
+08/01,Ottawa,IL,2,Phantom Legion,World Class,80.0,1999
+08/01,Charlotte,NC,7,Southwind,World Class,75.7,1999
+08/01,Jacksonville,AL,7,Spirit of Atlanta,World Class,73.2,1999
+08/01,Lakewood,NJ,4,Cadets of Brooklyn,World Class,69.3,1999
+08/01,Ottawa,IL,3,Yamato,World Class,77.8,1999
+08/01,Charlotte,NC,8,Tarheel Sun,World Class,71.5,1999
+08/01,Jacksonville,AL,8,Kiwanis Kavaliers,World Class,68.0,1999
+08/01,Lakewood,NJ,5,Spirit Of Newark,World Class,65.5,1999
+08/01,Ottawa,IL,4,Marion Cadets,World Class,66.1,1999
+08/01,Lakewood,NJ,6,Illusion,World Class,55.4,1999
+08/01,Ottawa,IL,5,Bandettes,World Class,59.3,1999
+08/01,Lakewood,NJ,7,Imperial Guardsmen,World Class,52.6,1999
+08/01,Lakewood,NJ,8,Lucas Rhythm Nation,World Class,45.5,1999
+08/01,Lakewood,NJ,1,Bracken Cavaliers,World Class,65.9,1999
+08/01,Lakewood,NJ,2,Long Island Sound,World Class,65.6,1999
+08/01,Lakewood,NJ,3,Brooklyn Regiment,World Class,63.5,1999
+08/01,Lakewood,NJ,4,Phoenix Kidets,World Class,62.9,1999
+08/02,Sevierville,TN,1,Cavaliers,World Class,90.8,1999
+08/02,Huntington,WV,1,Blue Devils,World Class,93.1,1999
+08/02,Winston-Salem,NC,1,Vanguard,World Class,93.0,1999
+08/02,Greenville,MI,1,Americanos,World Class,84.7,1999
+08/02,Sevierville,TN,2,Blue Knights,World Class,86.8,1999
+08/02,Huntington,WV,2,Phantom Regiment,World Class,87.0,1999
+08/02,Winston-Salem,NC,2,Glassmen,World Class,90.1,1999
+08/02,Greenville,MI,2,Capital Sound,World Class,83.1,1999
+08/02,Sevierville,TN,3,Crossmen,World Class,85.3,1999
+08/02,Huntington,WV,3,Boston Crusaders,World Class,81.4,1999
+08/02,Winston-Salem,NC,3,Carolina Crown,World Class,84.6,1999
+08/02,Greenville,MI,3,Allegiance Elite,World Class,75.0,1999
+08/02,Sevierville,TN,4,Colts,World Class,83.4,1999
+08/02,Huntington,WV,4,Bluecoats,World Class,80.9,1999
+08/02,Winston-Salem,NC,4,Spirit of Atlanta,World Class,75.0,1999
+08/02,Sevierville,TN,5,Southwind,World Class,70.8,1999
+08/02,Huntington,WV,5,Magic of Orlando,World Class,77.7,1999
+08/02,Winston-Salem,NC,5,Tarheel Sun,World Class,71.2,1999
+08/02,Greenville,MI,1,Mandarins,World Class,89.6,1999
+08/02,Sevierville,TN,6,Kiwanis Kavaliers,World Class,68.8,1999
+08/02,Huntington,WV,6,Troopers,World Class,68.4,1999
+08/02,Winston-Salem,NC,6,Les Etoiles,World Class,68.4,1999
+08/02,Greenville,MI,2,Blue Stars,World Class,85.1,1999
+08/02,Huntington,WV,7,East Coast Jazz,World Class,60.3,1999
+08/02,Winston-Salem,NC,7,Spartans,World Class,63.7,1999
+08/02,Greenville,MI,3,Phantom Legion,World Class,82.1,1999
+08/02,Huntington,WV,8,Yamato,World Class,52.5,1999
+08/02,Greenville,MI,4,Yokohama Scouts,World Class,73.0,1999
+08/02,Upper Sandusky,OH,1,Seattle Cascades,World Class,84.9,1999
+08/02,Joliette,Quebec,1,Les Senateurs,World Class,79.7,1999
+08/03,Centerville,OH,1,Blue Devils,World Class,93.4,1999
+08/03,Erie,PA,1,Madison Scouts,World Class,88.5,1999
+08/02,Upper Sandusky,OH,2,Cincinnati Glory,World Class,76.5,1999
+08/02,Joliette,Quebec,2,Les Stentors,World Class,73.4,1999
+08/03,Centerville,OH,2,Cadets,World Class,92.4,1999
+08/03,Erie,PA,2,Phantom Regiment,World Class,87.2,1999
+08/02,Upper Sandusky,OH,3,Académie Musicale,World Class,75.5,1999
+08/02,Joliette,Quebec,3,Conqueror II,World Class,68.7,1999
+08/03,Centerville,OH,3,Crossmen,World Class,85.6,1999
+08/03,Erie,PA,3,Boston Crusaders,World Class,84.7,1999
+08/02,Upper Sandusky,OH,4,Marion Cadets,World Class,70.3,1999
+08/02,Joliette,Quebec,4,Les Sentinelles,World Class,63.9,1999
+08/03,Centerville,OH,4,Carolina Crown,World Class,84.4,1999
+08/03,Erie,PA,4,Bluecoats,World Class,82.5,1999
+08/02,Upper Sandusky,OH,5,Capital Regiment,World Class,68.9,1999
+08/02,Joliette,Quebec,5,Les Melomanes,World Class,58.8,1999
+08/03,Centerville,OH,5,Pioneer,World Class,73.9,1999
+08/03,Erie,PA,5,Magic of Orlando,World Class,78.4,1999
+08/02,Upper Sandusky,OH,6,Legend of Texas,World Class,68.4,1999
+08/03,Centerville,OH,6,Troopers,World Class,70.6,1999
+08/03,Erie,PA,6,Spirit of Atlanta,World Class,74.6,1999
+08/02,Upper Sandusky,OH,7,Spectrum,World Class,63.7,1999
+08/03,Centerville,OH,7,Mandarins,World Class,66.7,1999
+08/03,Erie,PA,7,"General Butler
+  Vagabonds",World Class,66.3,1999
+08/02,Upper Sandusky,OH,8,Scenic City,World Class,49.5,1999
+08/03,Centerville,OH,8,Cincinnati Glory,World Class,57.3,1999
+08/03,Erie,PA,8,Lake Erie Regiment,World Class,61.1,1999
+08/02,Upper Sandusky,OH,9,Volunteers,World Class,47.5,1999
+08/03,Salem,VA,1,Vanguard,World Class,93.2,1999
+08/04,Kitchener,Ontario,1,East Coast Jazz,World Class,90.2,1999
+08/04,Kitchener,Ontario,1,Patriots,World Class,91.6,1999
+08/04,Rome,NY,1,Phantom Regiment,World Class,89.6,1999
+08/03,Salem,VA,2,Cavaliers,World Class,91.1,1999
+08/04,Kitchener,Ontario,2,Patriots,World Class,88.9,1999
+08/04,Kitchener,Ontario,2,East Coast Jazz,World Class,91.4,1999
+08/04,Rome,NY,2,Madison Scouts,World Class,88.9,1999
+08/03,Salem,VA,3,Blue Knights,World Class,90.0,1999
+08/04,Kitchener,Ontario,3,Americanos,World Class,88.1,1999
+08/04,Kitchener,Ontario,3,Americanos,World Class,89.2,1999
+08/04,Rome,NY,3,Boston Crusaders,World Class,84.2,1999
+08/03,Salem,VA,4,Glassmen,World Class,89.3,1999
+08/04,Kitchener,Ontario,4,Jersey Surf,World Class,86.9,1999
+08/04,Kitchener,Ontario,4,Jersey Surf,World Class,87.4,1999
+08/04,Rome,NY,4,Bluecoats,World Class,82.5,1999
+08/03,Salem,VA,5,Colts,World Class,84.7,1999
+08/04,Kitchener,Ontario,5,Seattle Cascades,World Class,85.5,1999
+08/04,Kitchener,Ontario,5,Seattle Cascades,World Class,87.2,1999
+08/04,Rome,NY,5,Magic of Orlando,World Class,79.0,1999
+08/03,Salem,VA,6,Southwind,World Class,74.5,1999
+08/04,Kitchener,Ontario,6,Capital Sound,World Class,82.3,1999
+08/04,Rome,NY,6,Spirit of Atlanta,World Class,75.9,1999
+08/03,Salem,VA,7,Kiwanis Kavaliers,World Class,70.5,1999
+08/04,Kitchener,Ontario,7,Teal Sound,World Class,78.5,1999
+08/04,Kitchener,Ontario,1,Blue Stars,World Class,87.1,1999
+08/04,Rome,NY,7,Les Etoiles,World Class,70.3,1999
+08/03,Salem,VA,8,Yamato,World Class,58.0,1999
+08/04,Kitchener,Ontario,8,Allegiance Elite,World Class,76.6,1999
+08/04,Kitchener,Ontario,2,Raiders,World Class,82.9,1999
+08/04,Rome,NY,8,Spartans,World Class,67.4,1999
+08/04,Kitchener,Ontario,9,Kips Bay Knight Club,World Class,74.7,1999
+08/04,Kitchener,Ontario,3,Lake Erie Regiment,World Class,80.8,1999
+08/04,Kitchener,Ontario,10,Les Stentors,World Class,70.9,1999
+08/04,Kitchener,Ontario,4,Cincinnati Glory,World Class,80.2,1999
+08/04,Kitchener,Ontario,11,Dutch Boy,World Class,68.9,1999
+08/04,Kitchener,Ontario,5,Capital Regiment,World Class,79.1,1999
+08/04,Kitchener,Ontario,1,Blue Stars,World Class,86.1,1999
+08/04,Kitchener,Ontario,2,Raiders,World Class,81.3,1999
+08/04,Kitchener,Ontario,3,Lake Erie Regiment,World Class,80.6,1999
+08/04,Kitchener,Ontario,4,Cincinnati Glory,World Class,78.5,1999
+08/04,Kitchener,Ontario,5,Capital Regiment,World Class,78.1,1999
+08/04,Kitchener,Ontario,6,Les Senateurs,World Class,76.9,1999
+08/04,Kitchener,Ontario,7,Phoenix,World Class,73.8,1999
+08/04,Kitchener,Ontario,8,Conqueror II,World Class,73.6,1999
+08/04,Kitchener,Ontario,9,Edmonton Strutters,World Class,70.0,1999
+08/04,Kitchener,Ontario,10,Academie Musicale,World Class,69.4,1999
+08/04,Kitchener,Ontario,11,Legend of Texas,World Class,69.2,1999
+08/04,Kitchener,Ontario,11,Emerald Knights,World Class,69.2,1999
+08/04,Kitchener,Ontario,13,Knight Storm,World Class,67.6,1999
+08/04,Kitchener,Ontario,14,Spectrum,World Class,64.8,1999
+08/04,Kitchener,Ontario,15,Marion Cadets,World Class,63.9,1999
+08/04,Kitchener,Ontario,16,Cadets of Brooklyn,World Class,59.2,1999
+08/04,Kitchener,Ontario,17,Bandettes,World Class,59.1,1999
+08/04,Kitchener,Ontario,18,Illusion,World Class,52.0,1999
+08/04,Kitchener,Ontario,19,Joliet Kingsmen,World Class,44.9,1999
+08/04,Kitchener,Ontario,20,Ridge Raiders,World Class,35.2,1999
+08/04,Kitchener,Ontario,21,Scenic City,World Class,41.4,1999
+08/04,Kitchener,Ontario,22,Twilight Optimist,World Class,35.2,1999
+08/04,Pittsburgh,PA,1,Cadets,World Class,94.2,1999
+08/05,Lynn,MA,1,Phantom Regiment,World Class,90.0,1999
+08/05,East Rutherford,NJ,1,Vanguard,World Class,93.7,1999
+08/06,Grand Haven,MI,1,Patriots,World Class,91.4,1999
+08/04,Pittsburgh,PA,2,Glassmen,World Class,90.9,1999
+08/05,Lynn,MA,2,Madison Scouts,World Class,89.0,1999
+08/05,East Rutherford,NJ,2,Cadets,World Class,93.4,1999
+08/06,Grand Haven,MI,2,Americanos,World Class,87.8,1999
+08/04,Pittsburgh,PA,3,Carolina Crown,World Class,86.0,1999
+08/05,Lynn,MA,3,Boston Crusaders,World Class,85.0,1999
+08/05,East Rutherford,NJ,3,Cavaliers,World Class,92.3,1999
+08/06,Grand Haven,MI,3,East Coast Jazz,World Class,87.3,1999
+08/04,Pittsburgh,PA,4,Kiwanis Kavaliers,World Class,74.6,1999
+08/05,Lynn,MA,4,Magic of Orlando,World Class,80.2,1999
+08/05,East Rutherford,NJ,4,Blue Knights,World Class,90.6,1999
+08/06,Grand Haven,MI,3,Seattle Cascades,World Class,87.3,1999
+08/04,Pittsburgh,PA,5,Pioneer,World Class,72.7,1999
+08/05,Lynn,MA,5,Spirit of Atlanta,World Class,76.9,1999
+08/05,East Rutherford,NJ,5,Crossmen,World Class,86.2,1999
+08/06,Grand Haven,MI,5,Capital Sound,World Class,84.5,1999
+08/04,Pittsburgh,PA,6,Tarheel Sun,World Class,72.3,1999
+08/05,Lynn,MA,6,Spartans,World Class,65.0,1999
+08/05,East Rutherford,NJ,6,Colts,World Class,83.6,1999
+08/06,Grand Haven,MI,6,Allegiance Elite,World Class,78.6,1999
+08/04,Pittsburgh,PA,7,Troopers,World Class,69.9,1999
+08/05,East Rutherford,NJ,7,Southwind,World Class,76.7,1999
+08/06,Grand Haven,MI,7,Teal Sound,World Class,77.4,1999
+08/04,Pittsburgh,PA,8,"General Butler
+  Vagabonds",World Class,64.8,1999
+08/06,Grand Haven,MI,8,Kips Bay Knights Club,World Class,76.2,1999
+08/06,Grand Haven,MI,9,Les Stentors,World Class,69.1,1999
+08/06,Grand Haven,MI,10,Dutch Boy,World Class,68.4,1999
+08/06,Grand Haven,MI,1,Mandarins,World Class,89.8,1999
+08/06,Grand Haven,MI,2,Blue Stars,World Class,89.7,1999
+08/06,Grand Haven,MI,3,"General Butler
+  Vagabonds",World Class,86.7,1999
+08/06,Grand Haven,MI,4,Phantom Legion,World Class,85.5,1999
+08/06,Grand Haven,MI,5,Yokohama Scouts,World Class,85.4,1999
+08/06,Grand Haven,MI,6,Yamato,World Class,84.0,1999
+08/06,Grand Haven,MI,7,Cincinnati Glory,World Class,83.0,1999
+08/06,Grand Haven,MI,8,Raiders,World Class,82.2,1999
+08/06,Grand Haven,MI,9,Capital Regiment,World Class,80.6,1999
+08/06,Grand Haven,MI,10,Lake Erie Regiment,World Class,79.4,1999
+08/06,Grand Haven,MI,11,Citations,World Class,78.4,1999
+08/06,Grand Haven,MI,12,Les Senateurs,World Class,73.9,1999
+08/06,Grand Haven,MI,13,Phoenix,World Class,71.4,1999
+08/06,Grand Haven,MI,14,West Coast Sound,World Class,70.2,1999
+08/06,Grand Haven,MI,15,Knight Storm,World Class,70.1,1999
+08/06,Grand Haven,MI,16,Legend of Texas,World Class,68.6,1999
+08/06,Grand Haven,MI,17,Edmonton Strutters,World Class,68.3,1999
+08/06,Grand Haven,MI,18,Conqueror II,World Class,67.9,1999
+08/06,Grand Haven,MI,19,Emerald Knights,World Class,67.4,1999
+08/06,Grand Haven,MI,20,Marion Cadets,World Class,64.9,1999
+08/06,Grand Haven,MI,21,Spectrum,World Class,61.2,1999
+08/06,Grand Haven,MI,22,Cadets of Brooklyn,World Class,60.4,1999
+08/06,Grand Haven,MI,23,Bandettes,World Class,60.0,1999
+08/06,Grand Haven,MI,24,Racine Scouts,World Class,53.8,1999
+08/06,Grand Haven,MI,25,Joliet Kingsmen,World Class,42.7,1999
+08/06,Grand Haven,MI,25,Ridge Raiders,World Class,42.7,1999
+08/06,Grand Haven,MI,1,Patriots,World Class,91.5,1999
+08/06,Allentown,PA,1,Vanguard,World Class,94.9,1999
+08/07,Allentown,PA,1,Blue Devils,World Class,94.4,1999
+08/07,Kingston,NY,1,Empire Statesmen,World Class,87.6,1999
+08/06,Grand Haven,MI,2,Americanos,World Class,89.7,1999
+08/06,Allentown,PA,2,Glassmen,World Class,90.9,1999
+08/07,Allentown,PA,2,Cadets,World Class,93.8,1999
+08/07,Kingston,NY,2,Reading Buccaneers,World Class,87.3,1999
+08/06,Grand Haven,MI,3,East Coast Jazz,World Class,89.2,1999
+08/06,Allentown,PA,3,Blue Knights,World Class,90.2,1999
+08/07,Allentown,PA,3,Cavaliers,World Class,92.8,1999
+08/07,Kingston,NY,3,Hawthorne Caballeros,World Class,85.2,1999
+08/06,Grand Haven,MI,4,Seattle Cascades,World Class,86.3,1999
+08/06,Allentown,PA,4,Madison Scouts,World Class,88.9,1999
+08/07,Allentown,PA,4,Phantom Regiment,World Class,90.3,1999
+08/07,Kingston,NY,4,Rochester Crusaders,World Class,76.4,1999
+08/06,Grand Haven,MI,5,Capital Sound,World Class,84.8,1999
+08/06,Allentown,PA,5,Crossmen,World Class,86.9,1999
+08/07,Allentown,PA,5,Carolina Crown,World Class,84.6,1999
+08/07,Kingston,NY,5,Kingston Grenadiers,World Class,75.7,1999
+08/06,Allentown,PA,6,Boston Crusaders,World Class,85.2,1999
+08/07,Allentown,PA,6,Magic of Orlando,World Class,79.7,1999
+08/07,Kingston,NY,6,Chieftains,World Class,59.9,1999
+08/06,Grand Haven,MI,1,Mandarins,World Class,90.1,1999
+08/06,Allentown,PA,7,Colts,World Class,82.8,1999
+08/07,Allentown,PA,7,Spirit of Atlanta,World Class,77.0,1999
+08/06,Grand Haven,MI,2,Blue Stars,World Class,89.2,1999
+08/06,Allentown,PA,8,Bluecoats,World Class,82.0,1999
+08/07,Allentown,PA,8,Southwind,World Class,76.1,1999
+08/07,Kingston,NY,1,Heat Wave (DCA),World Class,66.3,1999
+08/06,Grand Haven,MI,3,"General Butler
+  Vagabonds",World Class,85.4,1999
+08/06,Allentown,PA,9,Kiwanis Kavaliers,World Class,74.0,1999
+08/07,Allentown,PA,9,Pioneer,World Class,75.5,1999
+08/06,Grand Haven,MI,4,Phantom Legion,World Class,85.3,1999
+08/06,Allentown,PA,10,Troopers,World Class,71.0,1999
+08/07,Allentown,PA,10,Tarheel Sun,World Class,71.7,1999
+08/06,Grand Haven,MI,5,Yamato,World Class,81.6,1999
+08/06,Allentown,PA,11,Les Etoiles,World Class,68.7,1999
+08/06,Grand Haven,MI,6,Yokohama Scouts,World Class,81.3,1999
+08/07,East Providence,RI,1,Syracuse Brigadiers,World Class,91.3,1999
+08/08,Washington,DC,1,Vanguard,World Class,95.0,1999
+08/08,Massillon,OH,1,Cavaliers,World Class,94.0,1999
+08/08,Menasha,WI,1,Patriots,World Class,91.8,1999
+08/07,East Providence,RI,2,Connecticut Hurricanes,World Class,81.2,1999
+08/08,Washington,DC,2,Cadets,World Class,94.1,1999
+08/08,Massillon,OH,2,Glassmen,World Class,92.6,1999
+08/08,Menasha,WI,2,Spartans,World Class,90.8,1999
+08/07,East Providence,RI,3,Bushwackers,World Class,77.6,1999
+08/08,Washington,DC,3,Blue Knights,World Class,90.7,1999
+08/08,Massillon,OH,3,Phantom Regiment,World Class,90.6,1999
+08/08,Menasha,WI,3,Americanos,World Class,89.0,1999
+08/07,East Providence,RI,4,Sunrisers,World Class,77.1,1999
+08/08,Washington,DC,4,Madison Scouts,World Class,90.1,1999
+08/08,Massillon,OH,4,Boston Crusaders,World Class,86.1,1999
+08/08,Menasha,WI,4,Seattle Cascades,World Class,87.0,1999
+08/08,Washington,DC,5,Crossmen,World Class,87.5,1999
+08/08,Massillon,OH,5,Bluecoats,World Class,83.8,1999
+08/08,Menasha,WI,5,Jersey Surf,World Class,86.7,1999
+08/07,East Providence,RI,1,New York Skyliners,World Class,69.2,1999
+08/08,Washington,DC,6,Carolina Crown,World Class,85.5,1999
+08/08,Massillon,OH,6,Kiwanis Kavaliers,World Class,76.1,1999
+08/08,Menasha,WI,6,Capital Sound,World Class,81.9,1999
+08/07,East Providence,RI,2,Generations,World Class,58.5,1999
+08/08,Washington,DC,7,Colts,World Class,85.3,1999
+08/08,Massillon,OH,7,Troopers,World Class,73.3,1999
+08/08,Menasha,WI,7,Allegiance Elite,World Class,79.2,1999
+08/08,Washington,DC,8,Magic of Orlando,World Class,80.4,1999
+08/08,Massillon,OH,8,Les Etoiles,World Class,71.7,1999
+08/08,Menasha,WI,8,Teal Sound,World Class,76.9,1999
+08/08,Washington,DC,9,Spirit of Atlanta,World Class,77.3,1999
+08/08,Menasha,WI,9,Kips Bay Knights Club,World Class,76.3,1999
+08/08,Washington,DC,10,Southwind,World Class,75.7,1999
+08/08,Menasha,WI,10,Les Stentors,World Class,68.7,1999
+08/08,Washington,DC,11,Tarheel Sun,World Class,72.3,1999
+08/08,Menasha,WI,11,Dutch Boy,World Class,68.3,1999
+08/08,Menasha,WI,1,Mandarins,World Class,94.6,1999
+08/08,Menasha,WI,2,Blue Stars,World Class,93.0,1999
+08/08,Menasha,WI,3,Phantom Legion,World Class,90.1,1999
+08/08,Menasha,WI,4,Yokohama Scouts,World Class,89.7,1999
+08/08,Menasha,WI,4,"General Butler
+  Vagabonds",World Class,89.7,1999
+08/08,Menasha,WI,6,Yamato,World Class,88.3,1999
+08/08,Menasha,WI,7,Raiders,World Class,85.7,1999
+08/08,Menasha,WI,8,Cincinnati Glory,World Class,83.4,1999
+08/08,Menasha,WI,9,West Coast Sound,World Class,83.3,1999
+08/08,Menasha,WI,9,Citations,World Class,83.3,1999
+08/08,Menasha,WI,11,Lake Erie Regiment,World Class,82.9,1999
+08/08,Menasha,WI,12,Les Senateurs,World Class,82.5,1999
+08/08,Menasha,WI,13,Marion Cadets,World Class,75.8,1999
+08/08,Menasha,WI,14,Legend of Texas,World Class,75.4,1999
+08/08,Menasha,WI,15,Emerald Knights,World Class,75.0,1999
+08/08,Menasha,WI,16,Conqueror II,World Class,73.7,1999
+08/08,Menasha,WI,17,Academie Musicale,World Class,72.3,1999
+08/08,Menasha,WI,18,Knight Storm,World Class,71.9,1999
+08/08,Menasha,WI,19,Edmonton Strutters,World Class,70.3,1999
+08/08,Menasha,WI,20,Phoenix,World Class,68.9,1999
+08/08,Menasha,WI,21,Spectrum,World Class,67.9,1999
+08/08,Menasha,WI,22,Cadets of Brooklyn,World Class,66.0,1999
+08/08,Menasha,WI,23,Racine Scouts,World Class,64.6,1999
+08/08,Menasha,WI,24,Illusion,World Class,60.4,1999
+08/08,Menasha,WI,25,Bandettes,World Class,60.1,1999
+08/08,Menasha,WI,26,Scenic City,World Class,51.4,1999
+08/08,Menasha,WI,27,Ridge Raiders,World Class,49.6,1999
+08/08,Menasha,WI,28,Joliet Kingsmen,World Class,47.0,1999
+08/08,Menasha,WI,29,Twilight Optimist,World Class,40.2,1999
+08/10,Madison,WI,1,Patriots,World Class,93.8,1999
+08/11,Madison,WI,1,Blue Stars,World Class,92.9,1999
+08/11,Madison,WI,1,Patriots,World Class,96.3,1999
+08/11,Madison,WI,1,Mandarins,World Class,93.7,1999
+08/10,Madison,WI,2,Spartans,World Class,92.7,1999
+08/11,Madison,WI,2,Mandarins,World Class,92.8,1999
+08/11,Madison,WI,2,Spartans,World Class,95.3,1999
+08/11,Madison,WI,2,Blue Stars,World Class,92.2,1999
+08/10,Madison,WI,3,East Coast Jazz,World Class,91.1,1999
+08/11,Madison,WI,3,"General Butler
+  Vagabonds",World Class,89.5,1999
+08/11,Madison,WI,3,East Coast Jazz,World Class,93.6,1999
+08/11,Madison,WI,3,"General Butler
+  Vagabonds",World Class,89.3,1999
+08/10,Madison,WI,3,Americanos,World Class,91.1,1999
+08/11,Madison,WI,4,Phantom Legion,World Class,87.4,1999
+08/11,Madison,WI,4,Americanos,World Class,91.6,1999
+08/11,Madison,WI,4,Phantom Legion,World Class,88.5,1999
+08/10,Madison,WI,5,Jersey Surf,World Class,89.2,1999
+08/11,Madison,WI,5,Yokohama Scouts,World Class,86.5,1999
+08/11,Madison,WI,5,Jersey Surf,World Class,88.7,1999
+08/11,Madison,WI,5,Yokohama Scouts,World Class,86.3,1999
+08/10,Madison,WI,6,Seattle Cascades,World Class,88.8,1999
+08/11,Madison,WI,6,Raiders,World Class,85.5,1999
+08/11,Madison,WI,6,Raiders,World Class,84.4,1999
+08/10,Madison,WI,7,Capital Sound,World Class,85.3,1999
+08/11,Madison,WI,7,Lake Erie Regiment,World Class,84.0,1999
+08/11,Madison,WI,7,Yamato,World Class,83.3,1999
+08/10,Madison,WI,8,Allegiance Elite,World Class,81.7,1999
+08/11,Madison,WI,8,Yamato,World Class,83.8,1999
+08/11,Madison,WI,8,Lake Erie Regiment,World Class,82.7,1999
+08/10,Madison,WI,9,Teal Sound,World Class,76.7,1999
+08/11,Madison,WI,9,Capital Regiment,World Class,82.2,1999
+08/10,Madison,WI,10,Kips Bay Knights Club,World Class,74.7,1999
+08/11,Madison,WI,10,Cincinnati Glory,World Class,82.2,1999
+08/10,Madison,WI,11,Les Stentors,World Class,70.6,1999
+08/11,Madison,WI,11,West Coast Sound,World Class,81.8,1999
+08/10,Madison,WI,12,Dutch Boy,World Class,69.3,1999
+08/11,Madison,WI,12,Les Senateurs,World Class,81.3,1999
+08/11,Madison,WI,13,Citations,World Class,80.0,1999
+08/11,Madison,WI,14,Emerald Knights,World Class,75.7,1999
+08/11,Madison,WI,15,Edmonton Strutters,World Class,75.0,1999
+08/11,Madison,WI,16,Legend of Texas,World Class,75.0,1999
+08/11,Madison,WI,17,Conqueror II,World Class,74.5,1999
+08/11,Madison,WI,18,Academie Musicale,World Class,73.8,1999
+08/11,Madison,WI,19,Phoenix,World Class,73.6,1999
+08/11,Madison,WI,20,Knight Storm,World Class,72.0,1999
+08/11,Madison,WI,21,Marion Cadets,World Class,70.3,1999
+08/11,Madison,WI,22,Spectrum,World Class,66.3,1999
+08/11,Madison,WI,23,Bandettes,World Class,66.0,1999
+08/11,Madison,WI,24,Cadets of Brooklyn,World Class,64.6,1999
+08/11,Madison,WI,25,Racine Scouts,World Class,63.8,1999
+08/11,Madison,WI,26,Illusion,World Class,55.3,1999
+08/11,Madison,WI,27,Scenic City,World Class,55.1,1999
+08/11,Madison,WI,28,Ridge Raiders,World Class,50.9,1999
+08/11,Madison,WI,29,Joliet Kingsmen,World Class,50.8,1999
+08/11,Madison,WI,30,Decorah Kilties,World Class,50.2,1999
+08/11,Madison,WI,31,Twilight Optimist,World Class,43.4,1999
+08/12,Madison,WI,1,Blue Devils,World Class,97.8,1999
+08/13,Madison,WI,1,Blue Devils,World Class,98.6,1999
+08/14,Madison,WI,1,Blue Devils,World Class,98.4,1999
+08/12,Madison,WI,2,Vanguard,World Class,97.0,1999
+08/13,Madison,WI,2,Vanguard,World Class,97.6,1999
+08/14,Madison,WI,1,Vanguard,World Class,98.4,1999
+08/12,Madison,WI,3,Cadets,World Class,96.8,1999
+08/13,Madison,WI,3,Cavaliers,World Class,96.8,1999
+08/14,Madison,WI,3,Cavaliers,World Class,97.0,1999
+08/12,Madison,WI,4,Cavaliers,World Class,95.8,1999
+08/13,Madison,WI,4,Cadets,World Class,95.5,1999
+08/14,Madison,WI,4,Cadets,World Class,96.4,1999
+08/12,Madison,WI,5,Blue Knights,World Class,93.4,1999
+08/13,Madison,WI,5,Glassmen,World Class,93.8,1999
+08/14,Madison,WI,5,Glassmen,World Class,93.7,1999
+08/12,Madison,WI,6,Glassmen,World Class,93.3,1999
+08/13,Madison,WI,6,Blue Knights,World Class,93.0,1999
+08/14,Madison,WI,6,Madison Scouts,World Class,93.4,1999
+08/12,Madison,WI,7,Madison Scouts,World Class,92.1,1999
+08/13,Madison,WI,7,Madison Scouts,World Class,92.2,1999
+08/14,Madison,WI,7,Blue Knights,World Class,92.5,1999
+08/12,Madison,WI,8,Phantom Regiment,World Class,91.7,1999
+08/13,Madison,WI,8,Phantom Regiment,World Class,91.7,1999
+08/14,Madison,WI,8,Phantom Regiment,World Class,91.2,1999
+08/12,Madison,WI,9,Crossmen,World Class,88.5,1999
+08/13,Madison,WI,9,Crossmen,World Class,86.7,1999
+08/14,Madison,WI,9,Boston Crusaders,World Class,88.6,1999
+08/12,Madison,WI,10,Boston Crusaders,World Class,87.7,1999
+08/13,Madison,WI,10,Boston Crusaders,World Class,86.5,1999
+08/14,Madison,WI,10,Crossmen,World Class,87.0,1999
+08/12,Madison,WI,11,Carolina Crown,World Class,86.5,1999
+08/13,Madison,WI,11,Carolina Crown,World Class,85.3,1999
+08/14,Madison,WI,11,Carolina Crown,World Class,86.3,1999
+08/12,Madison,WI,12,Colts,World Class,85.8,1999
+08/13,Madison,WI,12,Colts,World Class,85.2,1999
+08/14,Madison,WI,12,Colts,World Class,86.0,1999
+08/12,Madison,WI,13,Bluecoats,World Class,84.5,1999
+08/13,Madison,WI,13,Bluecoats,World Class,83.0,1999
+08/12,Madison,WI,14,Magic of Orlando,World Class,82.6,1999
+08/13,Madison,WI,14,Magic of Orlando,World Class,81.3,1999
+08/12,Madison,WI,15,Spirit of Atlanta,World Class,78.8,1999
+08/13,Madison,WI,15,Southwind,World Class,78.4,1999
+08/12,Madison,WI,15,Southwind,World Class,78.8,1999
+08/13,Madison,WI,16,Spirit of Atlanta,World Class,76.9,1999
+08/12,Madison,WI,17,Pioneer,World Class,77.8,1999
+08/13,Madison,WI,17,Pioneer,World Class,75.3,1999
+08/12,Madison,WI,18,Patriots,World Class,76.5,1999
+08/12,Madison,WI,19,Kiwanis Kavaliers,World Class,76.3,1999
+08/12,Madison,WI,20,Mandarins,World Class,73.9,1999
+08/12,Madison,WI,21,Troopers,World Class,73.8,1999
+08/12,Madison,WI,22,Spartans,World Class,73.7,1999
+08/12,Madison,WI,23,Tarheel Sun,World Class,73.2,1999
+08/12,Madison,WI,24,Les Etoiles,World Class,72.2,1999
+08/12,Madison,WI,25,East Coast Jazz,World Class,71.6,1999
+08/12,Madison,WI,26,Blue Stars,World Class,70.2,1999
+08/14,Madison,WI,1,Syracuse Brigadiers,Open Class,89.3,1999
+08/14,Scranton,PA,1,Empire Statesmen,Open Class,90.6,1999
+08/15,Springfield,IL,1,Cincinnati Glory,Open Class,70.2,1999
+08/15,Fleurimont,Quebec,1,Les Stentors,Open Class,81.6,1999
+08/14,Madison,WI,2,Minnesota Brass,Open Class,85.7,1999
+08/14,Scranton,PA,2,Reading Buccaneers,Open Class,90.3,1999
+08/15,Springfield,IL,2,Racine Scouts,Open Class,61.5,1999
+08/15,Fleurimont,Quebec,2,Academie Musicale,Open Class,79.9,1999
+08/14,Madison,WI,3,Rochester Crusaders,Open Class,76.3,1999
+08/14,Scranton,PA,3,Hawthorne Caballeros,Open Class,88.9,1999
+08/15,Springfield,IL,3,Cadets of Brooklyn,Open Class,58.0,1999
+08/15,Fleurimont,Quebec,3,Les Sentinelles,Open Class,71.3,1999
+08/14,Madison,WI,4,Kilties,Open Class,72.8,1999
+08/14,Scranton,PA,4,Connecticut Hurricanes,Open Class,83.4,1999
+08/15,Springfield,IL,4,Memorial Lancers,Open Class,54.1,1999
+08/15,Fleurimont,Quebec,4,Les Melomanes,Open Class,66.1,1999
+08/14,Madison,WI,5,Govenaires,Open Class,62.8,1999
+08/14,Scranton,PA,5,Bushwackers,Open Class,81.0,1999
+08/15,Springfield,IL,5,Spectrum,Open Class,52.8,1999
+08/14,Madison,WI,6,"Chops, Inc.",Open Class,60.4,1999
+08/14,Scranton,PA,6,Sunrisers,Open Class,80.6,1999
+08/15,Springfield,IL,6,Ainad,Open Class,50.6,1999
+08/15,Fleurimont,Quebec,1,Les Pers-Clairs,Open Class,71.7,1999
+08/14,Scranton,PA,7,Kingston Grenadiers,Open Class,78.6,1999
+08/15,Springfield,IL,7,Joliet Kingsmen,Open Class,49.9,1999
+08/19,Acton Vale,Quebec,1,Les Etoiles,Open Class,77.0,1999
+08/21,Syracuse,NY,1,Syracuse Brigadiers,Open Class,93.0,1999
+08/28,West Haven,CT,1,Empire Statesmen,Open Class,94.0,1999
+08/28,Endicott,NY,1,Syracuse Brigadiers,Open Class,93.9,1999
+08/21,Syracuse,NY,2,Empire Statesmen,Open Class,92.1,1999
+08/28,West Haven,CT,2,Hawthorne Caballeros,Open Class,92.5,1999
+08/28,Endicott,NY,2,Empire Statesmen,Open Class,92.8,1999
+08/19,Acton Vale,Quebec,1,Les Senateurs,Open Class,85.0,1999
+08/21,Syracuse,NY,3,Reading Buccaneers,Open Class,91.7,1999
+08/28,West Haven,CT,3,Connecticut Hurricanes,Open Class,87.3,1999
+08/28,Endicott,NY,3,Sunrisers,Open Class,83.8,1999
+08/19,Acton Vale,Quebec,2,Les Stentors,Open Class,81.4,1999
+08/21,Syracuse,NY,4,Hawthorne Caballeros,Open Class,90.3,1999
+08/28,West Haven,CT,4,Bushwackers,Open Class,86.2,1999
+08/28,Endicott,NY,4,Rochester Crusaders,Open Class,82.6,1999
+08/19,Acton Vale,Quebec,3,Les Sentinelles,Open Class,74.9,1999
+08/21,Syracuse,NY,5,Connecticut Hurricanes,Open Class,84.9,1999
+08/28,West Haven,CT,5,Chieftains,Open Class,63.8,1999
+08/28,Endicott,NY,5,Kingston Grenadiers,Open Class,81.4,1999
+08/19,Acton Vale,Quebec,4,Les Melomanes,Open Class,69.7,1999
+08/21,Syracuse,NY,6,Rochester Crusaders,Open Class,82.1,1999
+08/21,Syracuse,NY,7,Kingston Grenadiers,Open Class,81.1,1999
+08/28,West Haven,CT,1,Generations,Open Class,63.1,1999
+08/28,Endicott,NY,1,New York Skyliners,Open Class,73.9,1999
+08/19,Acton Vale,Quebec,1,Les Pers-Clairs,Open Class,73.4,1999
+08/21,Syracuse,NY,8,Bushwackers,Open Class,79.6,1999
+08/28,Endicott,NY,2,Westshoremen,Open Class,60.1,1999
+08/21,Syracuse,NY,9,Sunrisers,Open Class,79.1,1999
+08/21,Syracuse,NY,10,Kilties,Open Class,78.7,1999
+08/19,Acton Vale,Quebec,1,Les Etoiles,Open Class,80.1,1999
+08/19,Acton Vale,Quebec,1,Les Senateurs,Open Class,88.5,1999
+08/19,Acton Vale,Quebec,2,Les Stentors,Open Class,87.3,1999
+08/19,Acton Vale,Quebec,3,Academie Musicale,Open Class,83.4,1999
+08/19,Acton Vale,Quebec,4,Les Sentinelles,Open Class,78.5,1999
+08/19,Acton Vale,Quebec,5,Les Melomanes,Open Class,76.2,1999
+08/19,Acton Vale,Quebec,1,Les Pers-Clairs,Open Class,82.2,1999
+09/04,Allentown,PA,1,New York Skyliners,DCA Class A,74.9,1999
+09/04,Allentown,PA,1,Syracuse Brigadiers,Open Class,94.7,1999
+09/05,Allentown,PA,1,Syracuse Brigadiers,Open Class,97.5,1999
+09/04,Allentown,PA,2,Heat Wave (DCA),DCA Class A,69.3,1999
+09/04,Allentown,PA,2,Reading Buccaneers,Open Class,93.6,1999
+09/05,Allentown,PA,2,Reading Buccaneers,Open Class,95.8,1999
+09/04,Allentown,PA,3,Generations,DCA Class A,65.8,1999
+09/04,Allentown,PA,3,Empire Statesmen,Open Class,93.1,1999
+09/05,Allentown,PA,3,Empire Statesmen,Open Class,95.4,1999
+09/04,Allentown,PA,4,Westshoremen,DCA Class A,64.4,1999
+09/04,Allentown,PA,4,Hawthorne Caballeros,Open Class,91.7,1999
+09/05,Allentown,PA,4,Minnesota Brass,Open Class,95.0,1999
+09/04,Allentown,PA,5,Minnesota Brass,Open Class,91.5,1999
+09/05,Allentown,PA,5,Hawthorne Caballeros,Open Class,94.5,1999
+09/04,Allentown,PA,6,Connecticut Hurricanes,Open Class,87.4,1999
+09/05,Allentown,PA,6,Connecticut Hurricanes,Open Class,90.1,1999
+09/04,Allentown,PA,7,Bushwackers,Open Class,85.8,1999
+09/05,Allentown,PA,7,Bushwackers,Open Class,87.8,1999
+09/04,Allentown,PA,8,Sunrisers,Open Class,84.1,1999
+09/05,Allentown,PA,8,Sunrisers,Open Class,87.0,1999
+09/04,Allentown,PA,9,Rochester Crusaders,Open Class,82.6,1999
+09/05,Allentown,PA,9,Rochester Crusaders,Open Class,84.4,1999
+09/04,Allentown,PA,10,Kingston Grenadiers,Open Class,82.3,1999
+09/05,Allentown,PA,10,Kingston Grenadiers,Open Class,82.8,1999
+09/04,Allentown,PA,11,Kilties,Open Class,78.2,1999
+09/04,Allentown,PA,12,Chieftains,Open Class,67.8,1999

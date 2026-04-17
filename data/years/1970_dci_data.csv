@@ -1,0 +1,148 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/07,Hamden,CT,1,Yankee Rebels,World Class,73.35,1970
+06/13,Hershey,PA,1,Yankee Rebels,World Class,77.4,1970
+06/13,Stratford,CT,1,New York Skyliners,World Class,76.3,1970
+06/20,Syracuse,NY,1,Connecticut Hurricanes,World Class,73.15,1970
+06/07,Hamden,CT,2,Reading Buccaneers,World Class,72.8,1970
+06/13,Hershey,PA,2,Reading Buccaneers,World Class,76.2,1970
+06/13,Stratford,CT,2,Connecticut Hurricanes,World Class,74.6,1970
+06/20,Syracuse,NY,2,Reading Buccaneers,World Class,72.7,1970
+06/07,Hamden,CT,3,New York Skyliners,World Class,70.4,1970
+06/13,Hershey,PA,3,Hamburg Kingsmen,World Class,64.55,1970
+06/13,Stratford,CT,3,Sunrisers,World Class,74.35,1970
+06/20,Syracuse,NY,3,Hawthorne Caballeros,World Class,71.75,1970
+06/07,Hamden,CT,4,Sunrisers,World Class,67.45,1970
+06/13,Hershey,PA,4,Westshoremen,World Class,59.6,1970
+06/13,Stratford,CT,4,Hawthorne Caballeros,World Class,69.7,1970
+06/20,Syracuse,NY,4,Rochester Crusaders,World Class,65.05,1970
+06/07,Hamden,CT,5,Hawthorne Caballeros,World Class,67.4,1970
+06/13,Hershey,PA,5,Les Diplomats,World Class,55.4,1970
+06/13,Stratford,CT,5,Rochester Crusaders,World Class,50.1,1970
+06/20,Syracuse,NY,5,Syracuse Brigadiers,World Class,35.6,1970
+06/07,Hamden,CT,1,Connecticut Hurricanes,World Class,74.75,1970
+06/07,Hamden,CT,2,New York Skyliners,World Class,71.75,1970
+06/07,Hamden,CT,3,Sunrisers,World Class,71.65,1970
+06/07,Hamden,CT,4,Hawthorne Caballeros,World Class,66.7,1970
+06/07,Hamden,CT,5,Rochester Crusaders,World Class,64.85,1970
+07/04,Bridgeport,CT,1,New York Skyliners,World Class,75.7,1970
+07/04,Hershey,PA,1,Yankee Rebels,World Class,74.65,1970
+07/04,Erie,PA,1,Hamburg Kingsmen,World Class,74.65,1970
+07/11,Bridgeport,CT,1,Connecticut Hurricanes,World Class,77.25,1970
+07/04,Bridgeport,CT,2,Sunrisers,World Class,74.0,1970
+07/04,Hershey,PA,2,Reading Buccaneers,World Class,69.5,1970
+07/04,Erie,PA,2,Rochester Crusaders,World Class,74.1,1970
+07/11,Bridgeport,CT,2,New York Skyliners,World Class,75.9,1970
+07/04,Bridgeport,CT,3,Hawthorne Caballeros,World Class,71.7,1970
+07/04,Hershey,PA,3,Rochester Crusaders,World Class,69.24,1970
+07/04,Erie,PA,3,Westshoremen,World Class,67.1,1970
+07/11,Bridgeport,CT,3,Reading Buccaneers,World Class,71.6,1970
+07/04,Bridgeport,CT,4,Connecticut Hurricanes,World Class,71.55,1970
+07/04,Hershey,PA,4,Syracuse Brigadiers,World Class,60.25,1970
+07/04,Erie,PA,4,Royalaires,World Class,63.9,1970
+07/11,Bridgeport,CT,4,Sunrisers,World Class,70.9,1970
+07/04,Hershey,PA,5,Westshoremen,World Class,59.95,1970
+07/11,Bridgeport,CT,5,Hawthorne Caballeros,World Class,65.55,1970
+07/11,Rochester,NY,1,Hawthorne Caballeros,World Class,70.35,1970
+07/11,Bridgeport,CT,1,Connecticut Hurricanes,World Class,77.25,1970
+07/17,Altoona,PA,1,Yankee Rebels,World Class,80.7,1970
+07/18,Hershey,PA,1,Reading Buccaneers,World Class,77.95,1970
+07/11,Rochester,NY,2,Sunrisers,World Class,69.55,1970
+07/11,Bridgeport,CT,2,New York Skyliners,World Class,75.9,1970
+07/17,Altoona,PA,2,New York Skyliners,World Class,77.65,1970
+07/18,Hershey,PA,2,Yankee Rebels,World Class,75.7,1970
+07/11,Rochester,NY,3,New York Skyliners,World Class,69.4,1970
+07/11,Bridgeport,CT,3,Reading Buccaneers,World Class,71.6,1970
+07/17,Altoona,PA,3,Reading Buccaneers,World Class,76.8,1970
+07/18,Hershey,PA,3,New York Skyliners,World Class,73.05,1970
+07/11,Rochester,NY,4,Guelph Royalaires,World Class,55.85,1970
+07/11,Bridgeport,CT,4,Sunrisers,World Class,70.9,1970
+07/17,Altoona,PA,4,Hamburg Kingsmen,World Class,67.55,1970
+07/18,Hershey,PA,4,Sunrisers,World Class,71.7,1970
+07/11,Bridgeport,CT,5,Hawthorne Caballeros,World Class,65.55,1970
+07/17,Altoona,PA,5,Westshoremen,World Class,57.15,1970
+07/18,Hershey,PA,5,Hawthorne Caballeros,World Class,71.0,1970
+07/18,Hershey,PA,6,Westshoremen,World Class,54.6,1970
+07/25,Baltimore,MD,1,Reading Buccaneers,World Class,74.5,1970
+07/25,Rome,NY,1,Rochester Crusaders,World Class,71.85,1970
+07/25,Baltimore,MD,2,Hawthorne Caballeros,World Class,73.8,1970
+07/25,Rome,NY,2,Hamburg Kingsmen,World Class,69.3,1970
+07/25,Baltimore,MD,3,Connecticut Hurricanes,World Class,71.15,1970
+07/25,Rome,NY,3,Les Diplomats,World Class,59.35,1970
+07/25,Baltimore,MD,4,New York Skyliners,World Class,71.1,1970
+07/25,Baltimore,MD,5,Sunrisers,World Class,65.6,1970
+07/25,Baltimore,MD,6,Westshoremen,World Class,57.3,1970
+07/25,Baltimore,MD,7,Rockets,World Class,55.85,1970
+08/01,Carlisle,PA,1,Reading Buccaneers,World Class,80.9,1970
+08/08,Boyertown,PA,1,Hawthorne Caballeros,World Class,79.45,1970
+08/08,Waverly,NY,1,Yankee Rebels,World Class,77.85,1970
+08/09,Jersey City,NJ,1,Hawthorne Caballeros,World Class,83.3,1970
+08/01,Carlisle,PA,2,Yankee Rebels,World Class,80.2,1970
+08/08,Boyertown,PA,2,Reading Buccaneers,World Class,77.85,1970
+08/08,Waverly,NY,2,New York Skyliners,World Class,77.6,1970
+08/09,Jersey City,NJ,2,New York Skyliners,World Class,82.3,1970
+08/01,Carlisle,PA,3,Hamburg Kingsmen,World Class,70.2,1970
+08/08,Boyertown,PA,2,Connecticut Hurricanes,World Class,77.85,1970
+08/08,Waverly,NY,3,Sunrisers,World Class,72.0,1970
+08/09,Jersey City,NJ,3,Connecticut Hurricanes,World Class,80.1,1970
+08/01,Carlisle,PA,4,Rockets,World Class,65.75,1970
+08/08,Boyertown,PA,4,Rockets,World Class,69.65,1970
+08/08,Waverly,NY,4,Hamburg Kingsmen,World Class,71.2,1970
+08/09,Jersey City,NJ,4,Yankee Rebels,World Class,79.65,1970
+08/08,Boyertown,PA,5,Westshoremen,World Class,59.11,1970
+08/08,Waverly,NY,5,Rochester Crusaders,World Class,68.75,1970
+08/09,Jersey City,NJ,5,Reading Buccaneers,World Class,79.55,1970
+08/08,Waverly,NY,6,Les Diplomats,World Class,62.45,1970
+08/15,Scranton,PA,1,Connecticut Hurricanes,World Class,76.95,1970
+08/22,Albany,NY,1,Reading Buccaneers,World Class,79.95,1970
+08/29,Erie,PA,1,Rockets,World Class,73.1,1970
+08/29,Bridgeport,CT,1,Hawthorne Caballeros,World Class,75.7,1970
+08/15,Scranton,PA,2,Yankee Rebels,World Class,75.25,1970
+08/22,Albany,NY,2,Hawthorne Caballeros,World Class,79.45,1970
+08/29,Erie,PA,2,Guelph Royalaires,World Class,72.45,1970
+08/29,Bridgeport,CT,2,New York Skyliners,World Class,72.25,1970
+08/15,Scranton,PA,3,Reading Buccaneers,World Class,74.76,1970
+08/22,Albany,NY,3,New York Skyliners,World Class,79.05,1970
+08/29,Erie,PA,3,Marching Ambassadors,World Class,69.94,1970
+08/29,Bridgeport,CT,3,Connecticut Hurricanes,World Class,72.0,1970
+08/15,Scranton,PA,4,New York Skyliners,World Class,73.9,1970
+08/22,Albany,NY,3,Yankee Rebels,World Class,79.05,1970
+08/29,Erie,PA,4,Westshoremen,World Class,67.6,1970
+08/29,Bridgeport,CT,4,Reading Buccaneers,World Class,68.55,1970
+08/15,Scranton,PA,5,Rockets,World Class,63.45,1970
+08/22,Albany,NY,5,Rochester Crusaders,World Class,73.0,1970
+08/29,Erie,PA,5,Connecticut Yankees,World Class,61.5,1970
+08/29,Bridgeport,CT,5,Sunrisers,World Class,67.7,1970
+08/15,Scranton,PA,6,Les Diplomats,World Class,62.0,1970
+08/29,Erie,PA,6,Canadian Commanders,World Class,61.35,1970
+08/29,Erie,PA,7,Matadors,World Class,60.99,1970
+08/29,Erie,PA,8,Sentinels,World Class,57.85,1970
+08/29,Erie,PA,9,Statesmen,World Class,56.85,1970
+08/29,Erie,PA,10,Hanover Lancers,World Class,54.45,1970
+08/29,Erie,PA,11,Suburban Knights,World Class,51.15,1970
+08/29,Erie,PA,12,Patriots,World Class,48.35,1970
+08/29,Erie,PA,13,Freestatesmen,World Class,44.25,1970
+09/06,Rochester,NY,1,Hawthorne Caballeros,World Class,80.975,1970
+09/06,Rochester,NY,1,Hawthorne Caballeros,World Class,82.775,1970
+09/06,Rochester,NY,2,Yankee Rebels,World Class,80.0,1970
+09/06,Rochester,NY,2,Yankee Rebels,World Class,81.2,1970
+09/06,Rochester,NY,3,Connecticut Hurricanes,World Class,79.575,1970
+09/06,Rochester,NY,3,Connecticut Hurricanes,World Class,80.95,1970
+09/06,Rochester,NY,4,Reading Buccaneers,World Class,79.525,1970
+09/06,Rochester,NY,4,Reading Buccaneers,World Class,80.0,1970
+09/06,Rochester,NY,5,New York Skyliners,World Class,77.925,1970
+09/06,Rochester,NY,5,New York Skyliners,World Class,77.375,1970
+09/06,Rochester,NY,6,Sunrisers,World Class,75.0,1970
+09/06,Rochester,NY,6,Sunrisers,World Class,75.125,1970
+09/06,Rochester,NY,7,Boys of '76,World Class,72.05,1970
+09/06,Rochester,NY,7,Rochester Crusaders,World Class,73.25,1970
+09/06,Rochester,NY,8,Rochester Crusaders,World Class,71.6,1970
+09/06,Rochester,NY,8,Hamburg Kingsmen,World Class,68.9,1970
+09/06,Rochester,NY,9,Hamburg Kingsmen,World Class,70.45,1970
+09/06,Rochester,NY,9,Boys of '76,World Class,66.925,1970
+09/06,Rochester,NY,10,Les Diplomats,World Class,68.375,1970
+09/06,Rochester,NY,10,Les Diplomats,World Class,64.9,1970
+09/06,Rochester,NY,11,Westshoremen,World Class,66.625,1970
+09/06,Rochester,NY,12,Rockets,World Class,64.35,1970
+09/06,Rochester,NY,13,Royalaires,World Class,64.275,1970
+09/06,Rochester,NY,14,Canadian Ambassadors,World Class,62.65,1970
+09/06,Rochester,NY,15,Connecticut Yankees,World Class,58.3,1970

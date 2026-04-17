@@ -1,0 +1,70 @@
+{
+"location": [
+  {
+    "city": "Harrison",
+    "state": "NJ", 
+    "year": "1981-Present"
+  }
+],
+"formerNames": [],
+"championships": [
+  {"circuit": "DCA", "year": 1986, "score": 92.450, "showTitle": ""},
+  {"circuit": "DCA", "year": 1988, "score": 96.360, "showTitle": ""},
+  {"circuit": "DCA", "year": 1989, "score": 95.100, "showTitle": ""},
+  {"circuit": "DCA", "year": 1990, "score": 96.900, "showTitle": "Prototype - Steve Melillo"},
+  {"circuit": "DCA", "year": 1992, "score": 96.700, "showTitle": "Sweeny Todd"},
+  {"circuit": "DCA", "year": 1993, "score": 96.600, "showTitle": "Sunday in the Park with George"}
+],
+"captionAwards": [],
+"website": "https://www.bushwackers.org",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "1982-2023", "className": "Open Class"},
+  {"circuit": "DCI", "years": "2024-present", "className": "All-Age World Class"}
+],
+"shows": [
+  {"year": 1982, "showTitle": "", "repertoire": "Clash of the Titans by Laurence Rosenthal / Fish Legs / Mickey Mouse by Jimmie Dodd / That Cat is High / Snowbird Fantasy / Chariots of Fire by Vangelis", "placement": "8th Place", "score": 70.550},
+  {"year": 1983, "showTitle": "", "repertoire": "Cleopatra's Asp / Emerald Eyes / Egyptian Danza / Quensabe Los Suertas de Los Tontos (from Cuban Fire Suite) by Johnny Richards / La Suerte de Los Tontos (from Cuban Fire Suite) by Johnny Richards / Chariots of Fire by Vangelis", "placement": "5th Place", "score": 82.650},
+  {"year": 1984, "showTitle": "", "repertoire": "Santos / Quensabe Los Suertas de Los Tontos (from Cuban Fire Suite) by Johnny Richards / La Suerte de Los Tontos (from Cuban Fire Suite) by Johnny Richards / Egyptian Danza / I'll Be There by The Jackson 5 / Thriller by Michael Jackson", "placement": "3rd Place", "score": 89.000},
+  {"year": 1985, "showTitle": "", "repertoire": "The Epic / The First Circle by Pat Metheny / Supertonic Suite", "placement": "4th Place", "score": 86.550},
+  {"year": 1986, "showTitle": "", "repertoire": "Santos / Quensabe Los Suertas de Los Tontos (from Cuban Fire Suite) by Johnny Richards / La Suerte de Los Tontos (from Cuban Fire Suite) by Johnny Richards / Egyptian Danza / Ayres Eyes", "placement": "1st Place", "score": 92.450},
+  {"year": 1987, "showTitle": "", "repertoire": "Pellet Suite / Marguerite / Corner Pocket by Joe Zawinul / Ayres Eyes", "placement": "3rd Place", "score": 92.960},
+  {"year": 1988, "showTitle": "", "repertoire": "Pellet Suite / Inner Crisis / Mira, Mira / Out of Africa (from Congo) by Jerry Goldsmith", "placement": "1st Place", "score": 96.360},
+  {"year": 1989, "showTitle": "", "repertoire": "Time Check / In Her Family / No Pasaran / Mira, Mira", "placement": "1st Place", "score": 95.100},
+  {"year": 1990, "showTitle": "Prototype - Steve Melillo", "repertoire": "Repertoire not available", "placement": "1st Place", "score": 96.900},
+  {"year": 1991, "showTitle": "", "repertoire": "Original Music", "placement": "3rd Place", "score": 94.000},
+  {"year": 1992, "showTitle": "Sweeny Todd", "repertoire": "The Ballad of Sweeney Todd by Stephen Sondheim / My Friends (from Sweeney Todd) by Stephen Sondheim / Worst Pies in London (from Sweeney Todd) by Stephen Sondheim / History of the World / Epiphany (from Sweeney Todd) by Stephen Sondheim / Nothin's Gonna Harm You (from Sweeney Todd) by Stephen Sondheim", "placement": "1st Place", "score": 96.700},
+  {"year": 1993, "showTitle": "Sunday in the Park with George", "repertoire": "Putting It Together (from Sunday in the Park with George) by Stephen Sondheim / Color and Light (from Sunday in the Park with George) by Stephen Sondheim / Sunday in the Park (from Sunday in the Park with George) by Stephen Sondheim / Sunday", "placement": "1st Place", "score": 96.600},
+  {"year": 1994, "showTitle": "Nightmare Before Christmas", "repertoire": "What's This? (from Nightmare before Christmas) by Danny Elfman / This is Halloween (from Nightmare before Christmas) by Danny Elfman / Making Christmas (from Nightmare Before Christmas) by Danny Elfman / Kidnap the Sandy Claws (from Nightmare Before Christmas) by Danny Elfman / Sally's Song (from Nightmare Before Christmas) by Danny Elfman / What's This? Reprise (from Nightmare before Christmas) by Danny Elfman", "placement": "3rd Place", "score": 94.200},
+  {"year": 1995, "showTitle": "A Symphony For Drum Corps", "repertoire": "Mathis der Maler by Paul Hindemith / Age of Anxiety by Leonard Bernstein", "placement": "4th Place", "score": 93.600},
+  {"year": 1996, "showTitle": "Sunset Boulevard", "repertoire": "As If We Never Said Goodbye (from Sunset Boulevard) by Andrew Lloyd Webber / Let's Have Lunch (from Sunset Boulevard) by Andrew Lloyd Webber / The Car Chase (from Sunset Boulevard) by Andrew Lloyd Webber / With One Look (from Sunset Boulevard) by Andrew Lloyd Webber", "placement": "4th Place", "score": 91.500},
+  {"year": 1997, "showTitle": "", "repertoire": "El Congo Valiente (from Cuban Fire Suite) by Johnny Richards / Verde Luz / Festival de Ritmo / A Mis Abuelos", "placement": "5th Place", "score": 89.600},
+  {"year": 1998, "showTitle": "Jeckyll & Hyde", "repertoire": "This is the Moment (from Jekyll and Hyde) by Frank Wildhorn / Façade (from Jekyll and Hyde) by Frank Wildhorn / Murder, Murder (from Jekyll and Hyde) by Frank Wildhorn / Transformation (from Jekyll and Hyde) by Frank Wildhorn / Alive (from Jekyll and Hyde) by Frank Wildhorn / Take Me As I Am (from Jekyll and Hyde) by Frank Wildhorn", "placement": "8th Place", "score": 85.200},
+  {"year": 1999, "showTitle": "Sondheim Snapshots", "repertoire": "Overture (from Merrily We Roll Along) by Stephen Sondheim / Next (from Pacific Overtures) by Stephen Sondheim / Pretty Women (from Sweeney Todd) by Stephen Sondheim / Putting It Together (from Sunday in the Park with George) by Stephen Sondheim", "placement": "7th Place", "score": 87.800},
+  {"year": 2000, "showTitle": "Music From The Dark Side", "repertoire": "The Duelk Of The Fates (from Phantom Menace) by John Williams / The Battle (from A New Hope) by John Williams / Battle In The Snow (from The Empire Strikes Back) by John Williams / The Crash (from The Return Of The Jedi) by John Williams / The War, Ewok Battle (from The Return Of The Jedi) by John Williams / The End (from The Phantom Menace) by John Williams", "placement": "10th Place", "score": 82.100},
+  {"year": 2001, "showTitle": "The Raging River", "repertoire": "Into The Raging River / On The Waterfront by Leonard Bernstein", "placement": "5th Place", "score": 92.400},
+  {"year": 2002, "showTitle": "The Myths of Fire", "repertoire": "Inferno (from Divine Comedy) / Vesuvius / Firebird Suite by Igor Stravinsky", "placement": "7th Place", "score": 91.100},
+  {"year": 2003, "showTitle": "Journey To The Moon", "repertoire": "Twelve Seconds To The Moon / Star Trek: First Contact by Jerry Goldsmith / To Tame The Perilous Skies", "placement": "7th Place", "score": 91.038},
+  {"year": 2004, "showTitle": "Early American Landscapes", "repertoire": "Symphony #9 (from The New World) by Antonín Dvořák / Amber Waves / William Tell Overture by Gioachino Rossini", "placement": "8th Place", "score": 88.638},
+  {"year": 2005, "showTitle": "Russian Winter Portraits", "repertoire": "Russlan and Ludmilla by Mikhail Glinka / Dance of the Tumblers by Nikolai Rimsky-Korsakov / Romeo and Juliet by Pyotr Ilyich Tchaikovsky / 1812 Overture by Pyotr Ilyich Tchaikovsky", "placement": "3rd Place", "score": 94.738},
+  {"year": 2006, "showTitle": "Stages: A 25th Anniversary Celebration", "repertoire": "Fanfare for the New / The Perfect Year (from Sunset Boulevard) by Andrew Lloyd Webber / Rocky Point Holiday by Ron Nelson", "placement": "3rd Place", "score": 95.638},
+  {"year": 2007, "showTitle": "Around The Town", "repertoire": "Lonely Town (from On the Town) by Leonard Bernstein / Galop (from Fancy Free) by Leonard Bernstein / Ain't Got No Tears Left (from On the Town) by Leonard Bernstein / The Great Lover (from On the Town) by Leonard Bernstein / Times Square (from On the Town) by Leonard Bernstein", "placement": "4th Place", "score": 94.575},
+  {"year": 2008, "showTitle": "Gypsodic!", "repertoire": "Repertoire not available", "placement": "6th Place", "score": 93.425},
+  {"year": 2009, "showTitle": "Scenes From A Physchotic Circus", "repertoire": "Parade of Characters (from Scenes of a Psychotic Circus) / Circus Normalus (from Scenes of a Psychotic Circus) / Death Defying Feats (from Scenes of a Psychotic Circus) / Freak Show (from Scenes of a Psychotic Circus) / Three Ring Psychotic Circus (from Scenes of a Psychotic Circus)", "placement": "9th Place", "score": 88.963},
+  {"year": 2010, "showTitle": "Voodoo", "repertoire": "Origins (from Voodoo) / Rituals (from Voodoo) / Gris-gris (from Voodoo) / Black Magic (from Voodoo)", "placement": "9th Place", "score": 86.763},
+  {"year": 2011, "showTitle": "A New Beginning", "repertoire": "First Climb (From Everest) / Rest at High Camp (From Everest) / Second Climb and Avalanche (From Everest) / To the Summit (From Everest)", "placement": "11th Place", "score": 79.800},
+  {"year": 2012, "showTitle": "Amercian Roots", "repertoire": "Scarborough Fair (Traditional) / Chester by William Billings / Shenandoah (Traditional)", "placement": "11th Place", "score": 80.200},
+  {"year": 2013, "showTitle": "WE ARE", "repertoire": "Intro / I Am The Doctor (from Doctor Who) by Murray Gold / Some Nights by Fun. / Tonight Tonight by The Smashing Pumpkins", "placement": "8th Place", "score": 87.430},
+  {"year": 2014, "showTitle": "The Resistants", "repertoire": "Supremecy by Muse / Blowin' In The Wind by Bob Dylan / Knights of Cydonia by Muse / Symphonic Metamorphosis by Paul Hindemith", "placement": "7th Place", "score": 89.800},
+  {"year": 2015, "showTitle": "Industrial (r)Evolution", "repertoire": "Industrial Evolution / The Factory / Wild Ride / Tempered Steel / Enigma Variations by Edward Elgar", "placement": "12th Place", "score": 82.300},
+  {"year": 2016, "showTitle": "Piano Forte", "repertoire": "Piano Concerto No. 1 / Selection / Selection", "placement": "9th Place", "score": 85.280},
+  {"year": 2017, "showTitle": "Where We All Belong", "repertoire": "Creep by Radiohead / Orawa by Wojciech Kilar / Blue Shades by Frank Ticheli", "placement": "8th Place", "score": 89.830},
+  {"year": 2018, "showTitle": "Pablo", "repertoire": "The Canyon / Nature Boy by Eden Ahbez / Cubism / Genius", "placement": "5th Place", "score": 92.725},
+  {"year": 2019, "showTitle": "Diverge", "repertoire": "Adagio for Strings by Samuel Barber / Fearful Symmetries by John Adams / Us and Them by Pink Floyd / Land of Make Believe / Libertango by Astor Piazzolla", "placement": "5th Place", "score": 91.625},
+  {"year": 2021, "showTitle": "Reminiscor: An Introspective Piece", "repertoire": "Children's Dance (from Merry Mount Suite) by Howard Hanson / Man In The Mirror by Michael Jackson / Reflections of My Life by The Marmalade", "placement": "3rd Place", "score": 90.300},
+  {"year": 2022, "showTitle": "Canyon", "repertoire": "Fanfare For The Common Man by Aaron Copland / Horse With No Name by America / Hallelujah by Leonard Cohen / Original Composition / Short Ride in a Fast Machine by John Adams", "placement": "3rd Place", "score": 94.600},
+  {"year": 2023, "showTitle": "Hollywood - A walk in their shoes: Tales of Tinseltown", "repertoire": "Dedicated To The One I Love by Lowman Pauling / Hooray for Hollywood by Richard A. Whiting / Paparazzi by Lady Gaga / The Car Chase (from Sunset Boulevard) by Andrew Lloyd Webber / Original Music / Make Your Own Kind of Music by Barry Mann", "placement": "3rd Place", "score": 92.200},
+  {"year": 2024, "showTitle": "The Ride", "repertoire": "Last Train Home by John Mayer / Let You Break My Heart Again by Laufey / The Great Locomotive Chase / Home Sweet Home by John Howard Payne", "placement": "3rd Place", "score": 92.625},
+  {"year": 2025, "showTitle": "Where Do We Begin?", "repertoire": "Caves / Air Waltz / You and I (We Can Conquer the World) by Stevie Wonder / Bucimis", "placement": "3rd Place", "score": 94.250}
+]
+}

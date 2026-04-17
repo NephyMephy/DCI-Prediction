@@ -1,0 +1,122 @@
+{
+ "location": [
+   {
+     "city": "Casper",
+     "state": "WY", 
+     "year": "1957-Present"
+   }
+ ],
+ "formerNames": [
+   "N/A"
+ ],
+ "championships": [
+   {
+     "circuit": "CYO",
+     "year": "1968",
+     "score": "83.650",
+     "showTitle": "N/A"
+   },
+  {
+     "circuit": "CYO",
+     "year": "1969",
+     "score": "81.000",
+     "showTitle": "N/A"
+   },
+   {
+     "circuit": "CYO",
+     "year": "1970",
+     "score": "83.100",
+     "showTitle": "N/A"
+   },
+   {
+     "circuit": "VFW",
+     "year": "1966",
+     "score": "90.450",
+     "showTitle": "N/A"
+   },
+   {
+     "circuit": "VFW",
+     "year": "1970",
+     "score": "87.450",
+     "showTitle": "N/A"
+   }
+ ],
+ "captionAwards": [
+   {"caption": "Visual Performance Award", "years": [1972, 1973, 1974]},
+   {"caption": "Color Guard Award", "years": [1973]}
+ ],
+ "website": "https://www.troopersdrumcorps.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {
+     "circuit": "DCI",
+     "years": "1972-1991",
+     "className": "Open Class"
+   },
+   {
+     "circuit": "DCI",
+     "years": "1992-2007",
+     "className": "Division I"
+   },
+   {
+     "circuit": "DCI",
+     "years": "2008-Present",
+     "className": "World Class"
+   }
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "Ghost Riders in the Sky by Stan Jones / Battle Hymn of the Republic by William Steffe & Julia Ward Howe / Cincinnati Kid by Lalo Schifrin & Dorcas Cochran / When Johnny Comes Marching Home by Louis Lambert (Patrick Sarsfield Gilmore) / How the West Was Won by Alfred Newman", "placement": "6th Place", "score": 81.95},
+   {"year": 1973, "showTitle": "", "repertoire": "Ghost Riders in the Sky by Stan Jones / The Eagle Screams by Nelson Riddle / Black Saddle by Michael Hennagin / Wedding Dance (from Hassaneh Suite) by Jacques Press / Thanksgiving Hymn by Eduard Kremser / Day By Day (from Godspell) by Stephen Schwartz / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "2nd Place", "score": 86.15},
+   {"year": 1974, "showTitle": "", "repertoire": "Ghost Riders in the Sky by Stan Jones / Yankee Doodle (Traditional) / Yellow Rose of Texas (Traditional) / The Virginian by Percy Faith / Tubular Bells by Mike Oldfield / Thanksgiving Prayer by Eduard Kremser / Day By Day (from Godspell) by Stephen Schwartz / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "5th Place", "score": 85.65},
+   {"year": 1975, "showTitle": "", "repertoire": "Introduction and Fantasia by Rex Mitchell / Tubular Bells by Mike Oldfield / Gentle On My Mind by John Hartford / Night on Bald Mountain by Modest Mussorgsky / The Virginian by Percy Faith / No Goodbye (from How the West Was Won) by Alfred Newman / Bound for the Promised Land (from How the West Was Won) by Ken Darby & Robert Emmett Dolan", "placement": "12th Place", "score": 76.20},
+   {"year": 1976, "showTitle": "", "repertoire": "Roundabout by Jon Anderson & Steve Howe (Yes) / Alabama Jubilee by George L. Cobb & Jack Yellen / Land of Make Believe by Chuck Mangione / Looking for Space by John Denver / Jet by Paul & Linda McCartney (Wings)", "placement": "13th Place", "score": 82.75},
+   {"year": 1977, "showTitle": "", "repertoire": "Hang 'em High by Dominic Frontiere / When Johnny Comes Marching Home by Louis Lambert (Patrick Sarsfield Gilmore) / Rodeo by Aaron Copland / Drunken Cowboy / Billy's Death (from Billy the Kid) & Hoedown (from Rodeo) by Aaron Copland / Farandole by Georges Bizet / Bound for the Promised Land (from How the West Was Won) by Ken Darby & Robert Emmett Dolan / Shenandoah (Traditional) / Wild Wild West by Richard Markowitz", "placement": "20th Place", "score": 78.80},
+   {"year": 1978, "showTitle": "", "repertoire": "Hang 'em High by Dominic Frontiere / American Salute by Morton Gould / Maple Leaf Rag by Scott Joplin / Rodeo & Hoedown (from Rodeo) by Aaron Copland / Farandole by Georges Bizet / The Ballad of Billy the Kid by Billy Joel / The Ecstasy of Gold by Ennio Morricone", "placement": "20th Place", "score": 74.25},
+   {"year": 1979, "showTitle": "", "repertoire": "Variations on a Scene by Alan Broadbent / Aquarius & Let The Sunshine In (from Hair) by Galt MacDermot, James Rado & Gerome Ragni / The Ballad of Billy the Kid by Billy Joel / The Ecstasy of Gold by Ennio Morricone / Ghost Riders in the Sky by Stan Jones", "placement": "12th Place", "score": 77.90},
+   {"year": 1980, "showTitle": "", "repertoire": "Theme from The Cowboys by John Williams / Shenandoah (Traditional) / Turkey in the Straw (Traditional) / Central Park by Chick Corea / The Ecstasy of Gold by Ennio Morricone / Ghost Riders in the Sky by Stan Jones", "placement": "14th Place", "score": 76.65},
+   {"year": 1981, "showTitle": "", "repertoire": "Theme from The Cowboys by John Williams / Turkey in the Straw (Traditional) / Central Park by Chick Corea / En Sueno by Albert Kunzelmann / Shenandoah (Traditional) / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "12th Place", "score": 78.10},
+   {"year": 1982, "showTitle": "", "repertoire": "Wabash Cannonball (Traditional) / En Sueno by Albert Kunzelmann / Shenandoah (Traditional) / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "14th Place", "score": 77.60},
+   {"year": 1983, "showTitle": "25th Anniversary", "repertoire": "Ghost Riders in the Sky by Stan Jones / Battle Hymn of the Republic by William Steffe & Julia Ward Howe / Pops Hoedown by Richard Hayman / It Was a Very Good Year by Ervin Drake / How the West Was Won by Alfred Newman", "placement": "15th Place", "score": 76.85},
+   {"year": 1984, "showTitle": "Battle Hymn of the Republic by William Steffe & Julia Ward Howe / Ghost Riders in the Sky by Stan Jones / High Noon by Dimitri Tiomkin & Ned Washington / The Aggie Song (from The Best Little Whorehouse in Texas) by Carol Hall", "repertoire": "Battle Hymn of the Republic by William Steffe & Julia Ward Howe / Ghost Riders in the Sky by Stan Jones / High Noon by Dimitri Tiomkin & Ned Washington / The Aggie Song (from The Best Little Whorehouse in Texas) by Carol Hall", "placement": "13th Place", "score": 85.20},
+   {"year": 1985, "showTitle": "Symphonic Dance No. 3 - Fiesta by Clifton Williams / Third Symphony, Buckaroo Holiday (from Rodeo) & The Red Pony by Aaron Copland", "repertoire": "Symphonic Dance No. 3 - Fiesta by Clifton Williams / Third Symphony, Buckaroo Holiday (from Rodeo) & The Red Pony by Aaron Copland", "placement": "9th Place", "score": 86.70},
+   {"year": 1986, "showTitle": "American Salute by Morton Gould / Silverado by Bruce Broughton / Prayer of Thanksgiving (Traditional) / The Red Pony by Aaron Copland / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "repertoire": "American Salute by Morton Gould / Silverado by Bruce Broughton / Prayer of Thanksgiving (Traditional) / The Red Pony by Aaron Copland / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "11th Place", "score": 83.50},
+   {"year": 1987, "showTitle": "He's Gone Away (Traditional) / American Overture by Morton Gould / Third Symphony by Aaron Copland / When Johnny Comes Marching Home by Louis Lambert (Patrick Sarsfield Gilmore)", "repertoire": "He's Gone Away (Traditional) / American Overture by Morton Gould / Third Symphony by Aaron Copland / When Johnny Comes Marching Home by Louis Lambert (Patrick Sarsfield Gilmore)", "placement": "17th Place", "score": 81.00},
+   {"year": 1988, "showTitle": "Magnificent Seven by Elmer Bernstein / Corral Nocturne & Hoedown (from Rodeo) by Aaron Copland / Silverado by Bruce Broughton", "repertoire": "Magnificent Seven by Elmer Bernstein / Corral Nocturne & Hoedown (from Rodeo) by Aaron Copland / Silverado by Bruce Broughton", "placement": "19th Place", "score": 77.80},
+   {"year": 1989, "showTitle": "How the West Was Won", "repertoire": "How the West Was Won, Cheyennes & No Goodbyes by Lionel Newman / Bound for the Promised Land by Ken Darby & Robert Emmett Dolan", "placement": "18th Place", "score": 78.00},
+   {"year": 1990, "showTitle": "Music for the Centennial of the State of Wyoming", "repertoire": "How the West Was Won by Alfred Newman / Silverado by Bruce Broughton / Pop's Hoedown by Richard Hayman / Shenandoah (Traditional) / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "placement": "17th Place", "score": 80.25},
+   {"year": 1991, "showTitle": "The Cowboys from Sunset / Lonesome Dove by Basil Poledouris / Oklahoma Crude by Henry Mancini / \"Orange Blossom Special\" by Ervin T. Rouse / Music from Dances With Wolves by John Barry / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "repertoire": "The Cowboys from Sunset / Lonesome Dove by Basil Poledouris / Oklahoma Crude by Henry Mancini / \"Orange Blossom Special\" by Ervin T. Rouse / Music from Dances With Wolves by John Barry / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "placement": "21st Place", "score": 74.90},
+   {"year": 1992, "showTitle": "A Western Odyssey", "repertoire": "Flag of Stars by Gordon Jacob / Cool, Clear Water by Bob Nolan / \"Unsquare Dance\" by Dave Brubeck / The Ecstasy of Gold by Ennio Morricone / Ghost Riders in the Sky by Stan Jones", "placement": "19th Place", "score": 76.10},
+   {"year": 1993, "showTitle": "The Last Crossing: East Moves West", "repertoire": "Ashokan Farewell by Jay Ungar / Cheyennes (from How the West Was Won) by Alfred Newman / Western Overture by Thom Ritter George / Charles County Overture by Joseph Willcox Jenkins / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "19th Place", "score": 77.10},
+   {"year": 1994, "showTitle": "Southwestern Sketches", "repertoire": "Sunrise by Fred Taylor / Scherzo by John Cheetham / Santa Fe Saga by Morton Gould / Symphonic Dance No. 3 - Fiesta by Clifton Williams", "placement": "14th Place", "score": 81.60},
+   {"year": 1995, "showTitle": "A Copland Canvas", "repertoire": "Third Symphony, Mvt. 4; Fanfare for the Common Man & Appalachian Spring by Aaron Copland", "placement": "14th Place", "score": 80.70},
+   {"year": 1996, "showTitle": "American Jubilee", "repertoire": "The Wind and The Lion by Jerry Goldsmith / Shenandoah (Traditional) / Outdoor Overture by Aaron Copland / Camptown Races by Stephen Foster", "placement": "19th Place", "score": 74.40},
+   {"year": 1997, "showTitle": "American Salute by Morton Gould / The Way West by Bronisław Kaper / Magnificent Seven by Elmer Bernstein / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "repertoire": "American Salute by Morton Gould / The Way West by Bronisław Kaper / Magnificent Seven by Elmer Bernstein / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "placement": "20th Place", "score": 68.00},
+   {"year": 1998, "showTitle": "Forging a Frontier", "repertoire": "The Getaway (from Silverado), The Family (from Tombstone) & McKendrick Attack (from Silverado) by Bruce Broughton / Ghost Riders in the Sky by Stan Jones", "placement": "24th Place", "score": 68.60},
+   {"year": 1999, "showTitle": "Billy the Kid", "repertoire": "Billy the Kid by Aaron Copland", "placement": "21st Place", "score": 73.80},
+   {"year": 2000, "showTitle": "Symphony of Freedom", "repertoire": "America the Beautiful by Samuel A. Ward & Katharine Lee Bates / America's Struggle (Original) / America (from West Side Story) by Leonard Bernstein & Stephen Sondheim / Amazing Grace by John Newton, adapted by William Walker / Stars and Stripes Forever by John Philip Sousa", "placement": "19th Place", "score": 73.65},
+   {"year": 2001, "showTitle": "Tribute to An Uncommon Man", "repertoire": "Outdoor Overture, El Salon Mexico & Down a Country Lane by Aaron Copland / Chorale & Shaker Dance by John Zdechlik", "placement": "19th Place", "score": 76.20},
+   {"year": 2002, "showTitle": "Red, White and Blue", "repertoire": "Javelin by Michael Torke / American Elegy by Frank Ticheli / Into the Storm (from Stormworks) by Stephen Melillo", "placement": "21st Place", "score": 75.55},
+   {"year": 2003, "showTitle": "Reflections of the Blue and Gray", "repertoire": "The Great Locomotive Chase by Robert W. Smith / Gently Flows the Amber Grain by Brian Scott / Battle Music by David Holsinger / Masque by Kenneth Hesketh", "placement": "22nd Place", "score": 75.45},
+   {"year": 2004, "showTitle": "The Troopers Are Coming", "repertoire": "Carriage of the Spirits & The Chase (from The Good, the Bad and the Ugly) by Ennio Morricone / America the Beautiful by Samuel A. Ward & Katharine Lee Bates / Shenandoah (Traditional) / Finishing It by Bruce Broughton / Down in the Valley (Traditional) / Rodeo by Paul Hart / Houston by David Benoit / Ghost Riders in the Sky by Stan Jones / Magnificent Seven by Elmer Bernstein / Taps by Daniel Butterfield", "placement": "23rd Place", "score": 74.925},
+   {"year": 2005, "showTitle": "Gold Rush", "repertoire": "The Gates of Gold (for Violin and Orchestra) by Joseph Curiale / Death by Triple Fiddle by Sam Bush & Mike Marshall / She'll Be Comin' Round The Mountain (Traditional)", "placement": "22nd Place", "score": 71.675},
+   {"year": 2006, "showTitle": "Corps inactive", "repertoire": "", "placement": "", "score": null},
+   {"year": 2007, "showTitle": "Awakening", "repertoire": "Joy (from Awakening) by Joseph Curiale / \"Unsquare Dance\" by Dave Brubeck / Ever Braver, Ever Stronger by Gordon Goodwin / American Faces by David Holsinger", "placement": "20th Place", "score": 77.55},
+   {"year": 2008, "showTitle": "Iron Horse Express", "repertoire": "Ghost Riders in the Sky by Stan Jones / Canyon of Heroes by Sean O'Loughlin / The Ghost Train Triptych by Eric Whitacre / Sasparilla by John Mackey / Song of the Gandy Dancers by Richard Saucedo / The Great Revival by William Gordon", "placement": "16th Place", "score": 81.10},
+   {"year": 2009, "showTitle": "Western Side Story", "repertoire": "Cave by Russell Peck / Maria & Somewhere (from West Side Story) by Leonard Bernstein and Stephen Sondheim / Adelina de Maya by Joseph Curiale / America (from West Side Story) by Leonard Bernstein & Stephen Sondheim / Spaghetti Western by Michael Daugherty / One Hand, One Heart (from West Side Story) by Leonard Bernstein & Stephen Sondheim / Pentium by Peter Graham / West Side Story Reprise by Leonard Bernstein & Stephen Sondheim", "placement": "12th Place", "score": 85.10},
+   {"year": 2010, "showTitle": "Wanted", "repertoire": "Wanted Dead or Alive by Jon Bon Jovi & Richie Sambora / Trittico by Václav Nelhýbel / Proven Lands (from There Will Be Blood) by Jonny Greenwood / Suite from Our Town by Aaron Copland / Borinage by Michael Gordon / Journey to the Center of the Earth by Peter Graham / Night Flight (from Swing Shift) by Kenji Bunch", "placement": "15th Place", "score": 83.35},
+   {"year": 2011, "showTitle": "The Road Home", "repertoire": "The Old Church by Stephen Paulus / China Gates by John Adams / Memory (from Nepomuk's Dances, Mvt. 3) by Marcelo Zarvos / Muted and Sensuous (from Four Piano Blues) by Aaron Copland / Mama by Edgar Meyer", "placement": "14th Place", "score": 83.20},
+   {"year": 2012, "showTitle": "This Was the Future", "repertoire": "Galop from Souvenirs, Op. 28 by Samuel Barber / Music for Theater & The Heiress by Aaron Copland", "placement": "18th Place", "score": 77.65},
+   {"year": 2013, "showTitle": "Magnificent 11", "repertoire": "Fanfare for the 11th by Robert W. Smith / Theme from The Magnificent Seven by Elmer Bernstein / John Dunbar's Theme (from Dances with Wolves) by John Barry / Tribal Spirits by Paul Rennick / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "13th Place", "score": 86.05},
+   {"year": 2014, "showTitle": "A People's House", "repertoire": "A People's House by Robert W. Smith / The Ramparts by Clifton Williams / Distant Images by Sandi & Paul Rennick / Lincoln by Robert W. Smith / Oh Shenandoah (Traditional) / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "placement": "14th Place", "score": 84.775},
+   {"year": 2015, "showTitle": "Wild Horses", "repertoire": "Dreamer by John Debney / Open Spaces by Robert W. Smith / Wild Horses by Natasha Bedingfield, Andrew Frampton & Wayne Wilkins / Adrenaline City by Adam Gorb", "placement": "13th Place", "score": 83.800},
+   {"year": 2016, "showTitle": "Hero", "repertoire": "Fanfare & Fire by Robert W. Smith / War Psalm by Paul Rennick / Walking with Heroes by Paul Lovatt-Cooper / Symphony No. 1, Mvt. 1 by John Corigliano / Fix You by Chris Martin, Jonny Buckland, Guy Berryman & Will Champion (Coldplay)", "placement": "14th Place", "score": 83.275},
+   {"year": 2017, "showTitle": "Duels & Duets", "repertoire": "Part I – The Foe – Romeo and Juliet by Sergei Prokofiev Part II – The Friend – Romeo and Juliet by Sergei Prokofiev Part III – The Lover – Black Heart Tango by Robert W. Smith & Paul Rennick / Nessun Dorma by Giacomo Puccini Part IV – The Foil – The Foil by Robert W. Smith", "placement": "17th Place", "score": 81.275},
+   {"year": 2018, "showTitle": "The New Road West", "repertoire": "Welcome to the Black Parade by Bob Bryar, Frank Iero, Ray Toro, Gerard Way & Mikey Way (My Chemical Romance) / Toward The Splendid City by Richard Danielpour / Canyon Echoes by Robert W. Smith / Both Sides Now by Joni Mitchell / New Road West by Robert W. Smith", "placement": "17th Place", "score": 81.787},
+   {"year": 2019, "showTitle": "Beyond Boundaries", "repertoire": "Divertimento for Band, Opus 42 by Vincent Persichetti / Enterprising Young Men (from Star Trek) by Michael Giacchino / Wondrous Light by John Estacio / To The Stars by Randy Edelman / Chorale VI Cantus – Song of Aeolus by Karl Jenkins / Main title, Krill Attack & Shuttle Escape (from The Orville) by Bruce Broughton", "placement": "18th Place", "score": 81.663},
+   {"year": 2021, "showTitle": "Unleashed", "repertoire": "The Triumph of Time by Peter Graham / Knockin' on Heaven's Door by Bob Dylan / Eclipse by Roger Waters, Nick Mason, Richard Wright & David Gilmour (Pink Floyd)", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "VorAcious", "repertoire": "When Johnny Comes Marching Home by Louis Lambert (Patrick Sarsfield Gilmore) / Without Warning by Stephen Melillo / The Ecstasy of Gold by Ennio Morricone / Nothing Else Matters by James Hetfield & Lars Ulrich / Dance of the Earth by Igor Stravinsky / Original music by Tim Snyder & Paul Rennick", "placement": "12th Place", "score": 86.425},
+   {"year": 2023, "showTitle": "To Lasso the Sun", "repertoire": "L'ultima diligenza di Red Rock (from The Hateful Eight) by Ennio Morricone / Harrison's Dream by Peter Graham / Jesu, meine Freude by Johann Sebastian Bach / Theme (from Once Upon a Time in the West) by Ennio Morricone / As if a Voice Were in Them by Oliver Waespi / Final Duel (from Once Upon a Time in the West) by Ennio Morricone", "placement": "10th Place", "score": 89.475},
+   {"year": 2024, "showTitle": "Dance with the Devil", "repertoire": "The Other Side by Tim Snyder, Paul Rennick & Justin Shelton / Hyperlink by Peter Graham / House Of The Rising Sun by The Animals / Don't Let Me Be Misunderstood (from Kill Bill: Volume 1) by Santa Esmeralda / Wait Of The World by Stephen Melillo", "placement": "10th Place", "score": 88.950},
+   {"year": 2025, "showTitle": "The Final Sunset", "repertoire": "Original music by Paul and Sandi Rennick / Embarking and Setting Sail by Thomas Bergersen / Many Mothers (from Mad Max: Fury Road) by Junkie XL / In This Heart by Sinéad O'Connor / Funeral for a Friend by Elton John / Symphony No. 2 in C Minor by Gustav Mahler", "placement": "10th Place", "score": 90.050}
+ ]
+}

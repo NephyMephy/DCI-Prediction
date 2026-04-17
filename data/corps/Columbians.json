@@ -1,0 +1,41 @@
+{
+ "location": [
+    {
+     "city": "Pasco",
+     "state": "WA", 
+     "year": "1955-1974"
+   },
+   {
+     "city": "Pasco",
+     "state": "WA", 
+     "year": "2012-Present"
+   }
+ ],
+ "formerNames": [
+   "Pasco American Legion Post 34",
+   "Tri-City Columbians"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.columbiansdrumcorps.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2012-present", "className": "Open Class"}
+ ],
+"shows": [
+  {"year": 1962, "showTitle": "", "repertoire": "Love is a Many-Splendored Thing by Sammy Fain / The Sloop John B (Traditional) / I Love You Truly by Carrie Jacobs-Bond / Crazy Rhythm by Irving Caesar / Blue Moon by Richard Rodgers / Arrivederci Roma by Renato Rascel / America by Leonard Bernstein / Black Is The Color Of My True Love's Hair (Traditional) / Where Or When (from Babes In Arms) by Richard Rodgers", "placement": "DCI not Active", "score": null},
+  {"year": 1963, "showTitle": "", "repertoire": "I Hear Music by Burton Lane / Parade of the Charioteers (Ben Hur) by Miklós Rózsa / America by Leonard Bernstein / Love is a Many-Splendored Thing by Sammy Fain / Black Is The Color Of My True Love's Hair (Traditional) / On Broadway by Barry Mann / Ben Casey Theme by David Raksin", "placement": "DCI not Active", "score": null},
+  {"year": 1973, "showTitle": "", "repertoire": "Repertoire not available", "placement": "35th Place", "score": 54.350},
+  {"year": 2013, "showTitle": "A River Runs Through It", "repertoire": "Firebird Suite by Igor Stravinsky / October / Dulaman (Traditional) / Original", "placement": "Did not attend DCI", "score": null},
+  {"year": 2014, "showTitle": "Stardust - Jupiter Dance", "repertoire": "Jupiter (from The Planets) by Gustav Holst / Vincent by Don McLean / Coronation (from Stardust) by Ilan Eshkeri", "placement": "Did not attend DCI", "score": null},
+  {"year": 2015, "showTitle": "1942", "repertoire": "Nocturne in Eb by Frédéric Chopin / Pavane by Gabriel Fauré / Symphony No. 7 by Ludwig van Beethoven / Sing Sing Sing by Louis Prima / America the Beautiful by Samuel A. Ward / Symphony No. 5 by Ludwig van Beethoven / Original Music", "placement": "Did not attend DCI", "score": null},
+  {"year": 2016, "showTitle": "Clash!", "repertoire": "Original music / Hey Jude by John Lennon & Paul McCartney / The Star Spangled Banner by Francis Scott Key / Be Thou My Vision (Traditional) / Fire and Rain by James Taylor / Aquarius (from Hair) by Galt MacDermot / Let The Sunshine In (from Hair) by Galt MacDermot", "placement": "Did not attend DCI", "score": null},
+  {"year": 2017, "showTitle": "Do Not Go Gentle", "repertoire": "Funeral March / Adagio for Strings by Samuel Barber / Do Not Go Gentle Into That Good Night / A Mighty Fortress by Martin Luther", "placement": "Did not attend DCI", "score": null},
+  {"year": 2018, "showTitle": "Danzon!", "repertoire": "Danzon No. 2 by Arturo Márquez / Havana by Camila Cabello / Cabello Bailando / On The Floor by Jennifer Lopez", "placement": "Did not attend DCI", "score": null},
+  {"year": 2019, "showTitle": "Origins", "repertoire": "Song of Aeolus Choral VI (Sol Fa/Cantus) by Karl Jenkins / Original music", "placement": "Did not attend DCI", "score": null},
+  {"year": 2022, "showTitle": "For the River's New Path", "repertoire": "Ecstatic Waters / Raging Waters / Kingfishers Catchfire by John Mackey / Oceans / A Rivers New Path / Kingfishers Catchfire by John Mackey", "placement": "Did not attend DCI", "score": null},
+  {"year": 2023, "showTitle": "Face Everything and Rise", "repertoire": "F-E-A-R / Once More Unto the Breach / Come Home / The Fear / Appalachian Morning / Oceans (Where Feet May Fall) by Hillsong United", "placement": "24th Place", "score": 74.600},
+  {"year": 2024, "showTitle": "BE)NT", "repertoire": "Trisense / Elastic Heart by Sia / Bone FX 3 / Original music", "placement": "26th Place", "score": 75.200},
+  {"year": 2025, "showTitle": "Bloom", "repertoire": "Can Ya Feel / We Bought a Zoo by Jónsi / Sunflower by Post Malone / Go The Distance (from Hercules) by Alan Menken / Spring 1 (from Recomposed) by Max Richter / Make Our Garden Grow (from Candide) by Leonard Bernstein", "placement": "25th Place", "score": 74.500}
+]
+}

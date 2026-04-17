@@ -1,0 +1,49 @@
+{
+ "location": [
+   {
+     "city": "Great Bend",
+     "state": "KS", 
+     "year": "1947-1979"
+   },
+   {
+     "city": "Great Bend",
+     "state": "KS", 
+     "year": "1983-1984"
+   }
+ ],
+ "formerNames": [
+   "St. Rose Drum and Bugle Corps"
+ ],
+ "championships": [
+   {"circuit": "American Legion", "year": 1971, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1972, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1973, "score": null, "showTitle": ""}
+ ],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1979", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1983-1984", "className": "Class A"}
+ ],
+ "shows": [
+   {"year": 1962, "showTitle": "", "repertoire": "Everything's Coming Up Roses (from Gypsy) * Get Me To the Church on Time (from My Fair Lady) * Slaughter on Tenth Avenue (from On Your Toes) * I Believe", "placement": "", "score": null},
+   {"year": 1964, "showTitle": "", "repertoire": "Who Will Buy (from Oliver) * This Could Be the Start of Something Big * Night and Day * Put On A Happy Face * Stars and Stripes Forever * The Big Country", "placement": "", "score": null},
+   {"year": 1965, "showTitle": "", "repertoire": "Who Will Buy (from Oliver) * This Could Be the Start of Something Big * Stars and Stripes Forever * Get Me To the Church on Time (from My Fair Lady) * I Could Have Danced All Night * Put On A Happy Face * Show Me (from My Fair Lady) * The Big Country", "placement": "", "score": null},
+   {"year": 1966, "showTitle": "", "repertoire": "Those Magnificent Men In Their Flying Machines * Stars and Stripes Forever * I Could Have Danced All Night * Show Me (from My Fair Lady) * Get Me To the Church on Time (from My Fair Lady) * Who Will Buy (from Oliver) * Come On In Sit Right Down * The Big Country", "placement": "", "score": null},
+   {"year": 1968, "showTitle": "", "repertoire": "Those Magnificent Men In Their Flying Machines * America * God Bless America (from This Is the Army) * Bess, You Is My Woman Now (from Porgy and Bess) * Summertime (from Porgy and Bess) * I Got Plenty of Nothin' (from Porgy and Bess) * Our Day Will Come * Jubilation T Cornpone (from Li'l Abner) * The Big Country", "placement": "10th Place", "score": 76.250},
+   {"year": 1969, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * American Salute * Mission Impossible * Hey Jude * Our Day Will Come * Shenandoah", "placement": "12th Place", "score": 74.600},
+   {"year": 1970, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * Mission Impossible * Hey Jude * Our Day Will Come * Stars and Stripes Forever * Shenandoah", "placement": "8th Place", "score": 82.550},
+   {"year": 1971, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * Stars and Stripes Forever * Heaven on Their Minds (from Jesus Christ Superstar) * I Don't Know How to Love Him (from Jesus Christ Superstar) * Gethsemane (from Jesus Christ Superstar) * King Herod's Song (from Jesus Christ Superstar) * Crucifixion * John 19:10 (from Jesus Christ Superstar) * Shenandoah", "placement": "6th Place", "score": 87.350},
+   {"year": 1972, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * Jesus Christ Superstar Medley * Stars and Stripes Forever * Theme from Love Story", "placement": "5th Place", "score": 82.900},
+   {"year": 1973, "showTitle": "", "repertoire": "Fanfare For The New * Malaga * Stars and Stripes Forever", "placement": "11th Place", "score": 73.150},
+   {"year": 1974, "showTitle": "", "repertoire": "Mass", "placement": "33rd Place", "score": 65.300},
+   {"year": 1975, "showTitle": "", "repertoire": "French National Defile * Star Spangled Banner * Traces * Let's Hear It For Me (from Funny Lady)", "placement": "20th Place", "score": 73.150},
+   {"year": 1976, "showTitle": "", "repertoire": "Channel One Suite * Fanfare For The New * Farandole (from L'Arlesienne) * Flight of the Bumblebee", "placement": "18th Place", "score": 77.750},
+   {"year": 1977, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "42nd Place", "score": 56.550},
+   {"year": 1978, "showTitle": "", "repertoire": "New York City Rhythm * Mambo Tambo * Cantina Band (from Star Wars) * Come Sail Away * Stars and Stripes Forever", "placement": "42nd Place", "score": 53.850},
+   {"year": 1979, "showTitle": "", "repertoire": "Jesus Christ Superstar * Mambo Tambo * Don't Cry For Me Argentina (from Evita) * Stars and Stripes Forever", "placement": "36th Place", "score": 62.250},
+   {"year": 1983, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "10th Place Class A", "score": 32.350},
+   {"year": 1984, "showTitle": "", "repertoire": "Alexander's Ragtime Band * Battle Hymn of the Republic * Stars and Stripes Forever", "placement": "19th Place Division II", "score": 51.000}
+ ]
+}

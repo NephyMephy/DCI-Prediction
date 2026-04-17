@@ -1,0 +1,100 @@
+{
+"location": [
+  {
+    "city": "Orangetown",
+    "state": "NJ", 
+    "year": "1954-Present"
+  }
+],
+"formerNames": [
+  "Long Island Sunrisers"
+],
+"championships": [
+  {"circuit": "DCA", "year": 1977, "score": 94.150, "showTitle": ""},
+  {"circuit": "DCA", "year": 1978, "score": 90.850, "showTitle": ""},
+  {"circuit": "DCA", "year": 1982, "score": 89.850, "showTitle": ""},
+  {"circuit": "DCA", "year": 1983, "score": 91.450, "showTitle": ""},
+  {"circuit": "DCA", "year": 1987, "score": 94.840, "showTitle": ""},
+  {"circuit": "DCA", "year": 1988, "score": 96.360, "showTitle": ""}
+],
+"captionAwards": [],
+"website": "https://rhrdbc.org",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "1965-2002", "className": "Open Class"},
+  {"circuit": "DCA", "years": "2003-2020", "className": "A Class"},
+  {"circuit": "DCA", "years": "2021-2023", "className": "Open Class"},
+  {"circuit": "DCI", "years": "2024", "className": "All-Age A Class"},
+  {"circuit": "DCI", "years": "2025-present", "className": "All-Age Open Class"}
+],
+"shows": [
+  {"year": 1958, "showTitle": "", "repertoire": "Repertoire not available", "placement": "Did not attend DCA", "score": null},
+  {"year": 1959, "showTitle": "", "repertoire": "Repertoire not available", "placement": "Did not attend DCA", "score": null},
+  {"year": 1960, "showTitle": "", "repertoire": "Varsity Drag by Ray Henderson / Whispering by John Schonberger / I'm Just Wild About Harry by Eubie Blake / Stouthearted Men (from New Moon) by Sigmund Romberg / Cecilia by Herman Ruby / Honeysuckle Rose by Fats Waller / The Charleston by James P. Johnson / Ma - He's makin' Eyes At Me by Con Conrad / Toot Toot Tootsie Goodbye by Gus Kahn", "placement": "Did not attend DCA", "score": null},
+  {"year": 1961, "showTitle": "", "repertoire": "Repertoire not available", "placement": "Did not attend DCA", "score": null},
+  {"year": 1962, "showTitle": "", "repertoire": "Gigi by Frederick Loewe / Theme from Can-Can by Jacques Offenbach / Mademoiselle de Paree / C'est Magnifique (from Can-Can) by Cole Porter / La Marseillaise by Claude Joseph Rouget de Lisle / My Buddy by Walter Donaldson / Clair de Lune (from Suite Bergamasque) by Claude Debussy / The Continental by Con Conrad / Domo / Take Care / Fanfare (from Gigi) by Frederick Loewe", "placement": "Did not attend DCA", "score": null},
+  {"year": 1963, "showTitle": "", "repertoire": "French National March / Lord's Prayer by Albert Hay Malotte / Clair de Lune (from Suite Bergamasque) by Claude Debussy / Sing Sing Sing by Louis Prima / Domino by Louis Ferrari / Ballin' the Jack (from For Me and My Gal) by Jim Burris / It's A Pity To Say Goodnight by Billy Reid", "placement": "Did not attend DCA", "score": null},
+  {"year": 1964, "showTitle": "", "repertoire": "Ride Through the Night (from Subways Are For Sleeping) by Jule Styne / Mama Inez by Eliseo Grenet / Lord's Prayer by Albert Hay Malotte / Clair de Lune (from Suite Bergamasque) by Claude Debussy / Sing Sing Sing by Louis Prima / Ballin' the Jack (from For Me and My Gal) by Jim Burris / It's A Pity To Say Goodnight by Billy Reid", "placement": "Did not attend DCA", "score": null},
+  {"year": 1965, "showTitle": "", "repertoire": "West Side Story by Leonard Bernstein / Lord's Prayer by Albert Hay Malotte / Sing Sing Sing by Louis Prima / Old Mc Donald Had a Farm (Traditional) / Ballin' the Jack (from For Me and My Gal) by Jim Burris / Goldfinger by John Barry", "placement": "Did not attend DCA", "score": null},
+  {"year": 1966, "showTitle": "", "repertoire": "Nothing Can Stop Us Now / Orange Colored Sky by Milton Delugg / American Salute by Morton Gould / America the Beautiful by Samuel A. Ward / Tropical Merengue / On the Atchison, Topeka and the Santa Fe by Harry Warren / Chattanooga Choo Choo by Harry Warren / I've Been Working On the Railroad (Traditional) / Joker / RockaBye Your Baby by Jean Schwartz", "placement": "4th Place", "score": 83.400},
+  {"year": 1967, "showTitle": "", "repertoire": "My Mammy by Walter Donaldson / Alabamy Bound by Buddy DeSylva / Swanee by George Gershwin", "placement": "5th Place", "score": 79.766},
+  {"year": 1968, "showTitle": "", "repertoire": "Conquest (from Captain From Castile) by Alfred Newman / When Johnny Comes Marching Home by Patrick Gilmore / Goin' Out Of My Head by Teddy Randazzo / Can't Take My Eyes Off You by Bob Crewe / An American in Paris by George Gershwin / Joker / Dulcinea (from Man of La Mancha) by Mitch Leigh / Man of La Mancha by Mitch Leigh / The World is Waiting for the Sunrise by Eugene Lockhart", "placement": "2nd Place", "score": 80.116},
+  {"year": 1969, "showTitle": "", "repertoire": "Great Gate of Kiev (from Pictures At An Exhibition) by Modest Mussorgsky / Procession of the Nobles by Nikolai Rimsky-Korsakov / When Johnny Comes Marching Home by Patrick Gilmore / Blue Rondo A La Turk by Dave Brubeck / Ritual Fire Dance by Manuel de Falla / An American in Paris by George Gershwin / Aquarius (from Hair) by Galt MacDermot / Scarborough Fair by Paul Simon / Great Gate of Kiev (from Pictures At An Exhibition) by Modest Mussorgsky", "placement": "6th Place", "score": 68.500},
+  {"year": 1970, "showTitle": "", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Blue Rondo A La Turk by Dave Brubeck / Ritual Fire Dance by Manuel de Falla / Man of La Mancha by Mitch Leigh", "placement": "6th Place", "score": 75.125},
+  {"year": 1971, "showTitle": "", "repertoire": "Ritual Fire Dance by Manuel de Falla / Abraham, Martin and John by Dick Holler / Battle Hymn of the Republic by William Steffe / Anything You Can Do I Can Do Better (from Annie Get Your Gun) by Irving Berlin / Can-Can (from Can-Can) by Jacques Offenbach", "placement": "8th Place", "score": 79.550},
+  {"year": 1972, "showTitle": "", "repertoire": "Repertoire not available", "placement": "8th Place", "score": 76.000},
+  {"year": 1973, "showTitle": "", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Great Gate of Kiev (from Pictures At An Exhibition) by Modest Mussorgsky / Chester by William Billings / When Johnny Comes Marching Home by Patrick Gilmore / Tears on My Pillow by Sylvester Bradford / A Little Help From My Friends by John Lennon / Sweet Caroline by Neil Diamond / Hi-De-Ho (That Old Sweet Roll) / Killing Me Softly with His Song by Norman Gimbel", "placement": "9th Place", "score": 66.800},
+  {"year": 1974, "showTitle": "", "repertoire": "Repertoire not available", "placement": "8th Place", "score": 59.700},
+  {"year": 1975, "showTitle": "", "repertoire": "Sing Sing Sing by Louis Prima / And The Angels Sing by Ziggy Elman / Porgy and Bess by George Gershwin / Joker / Sunrise Fanfare", "placement": "7th Place", "score": 80.700},
+  {"year": 1976, "showTitle": "", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Sabre Dance (from Gayne Ballet) by Aram Khachaturian / Spain by Chick Corea / Ol' Man River (from Show Boat) by Jerome Kern / Sing Sing Sing by Louis Prima / Dance Of The Wind-Up Toy / Greensleeves (Traditional) / Musical Salute To Our Nation's 200th Birthday", "placement": "3rd Place", "score": 86.550},
+  {"year": 1977, "showTitle": "", "repertoire": "English Folk Song Suite by Ralph Vaughan Williams / Spain by Chick Corea / Ol' Man River (from Show Boat) by Jerome Kern / Eli's Coming by Laura Nyro / Dance Of The Wind-Up Toy (drum solo) / Evergreen (from A Star is Born) by Barbra Streisand", "placement": "1st Place", "score": 94.150},
+  {"year": 1978, "showTitle": "", "repertoire": "English Folk Song Suite by Ralph Vaughan Williams / Malaga / Farandole (from L'Arlesienne) by Georges Bizet / Evergreen (from A Star is Born) by Barbra Streisand", "placement": "1st Place", "score": 90.850},
+  {"year": 1979, "showTitle": "", "repertoire": "Crown Imperial by William Walton / Mama-Llaga / Malaga / Medley (from The Wiz) / Ding Dong the Witch is Dead (from Wizard of Oz) by Harold Arlen / Superman Theme (from Superman) by John Williams", "placement": "3rd Place", "score": 88.300},
+  {"year": 1980, "showTitle": "", "repertoire": "Crown Imperial by William Walton / Alone (from Born to Sing) / Central Park by Maynard Ferguson / Ding Dong the Witch is Dead (from Wizard of Oz) by Harold Arlen / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Joker", "placement": "6th Place", "score": 83.150},
+  {"year": 1981, "showTitle": "", "repertoire": "Come Follow the Band (from Barnum) by Cy Coleman / Late in the Evening by Paul Simon / Legend of the One-Eyed Sailor / Barnum's Revenge / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Thunder and Blazes by Julius Fučík", "placement": "2nd Place", "score": 89.100},
+  {"year": 1982, "showTitle": "", "repertoire": "God Save the Queen (Traditional) / English Suite for Military Band / Barnum's Revenge / Tiger of San Pedro / Legend of the One-Eyed Sailor / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Come Follow the Band (from Barnum) by Cy Coleman", "placement": "1st Place", "score": 89.850},
+  {"year": 1983, "showTitle": "", "repertoire": "Meadowland (Traditional Russian) / Alexander's Ragtime Band by Irving Berlin / Legend of the One-Eyed Sailor / Peasant Dance / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Come Follow the Band (from Barnum) by Cy Coleman", "placement": "1st Place", "score": 91.450},
+  {"year": 1984, "showTitle": "", "repertoire": "Meadowland (Traditional Russian) / Niner Two / Samba / Tiger of San Pedro", "placement": "4th Place", "score": 86.450},
+  {"year": 1985, "showTitle": "", "repertoire": "Adventures on Earth (from E.T.) by John Williams / Niner Two / Grace / Power Suite / Theme from E.T. by John Williams", "placement": "3rd Place", "score": 90.600},
+  {"year": 1986, "showTitle": "Fiddler on the Roof", "repertoire": "Prologue/Tradition (from Fiddler on the Roof) by Jerry Bock / Sabbath Prayer (from Fiddler on the Roof) by Jerry Bock / To Life (from Fiddler on the Roof) by Jerry Bock / Sunrise, Sunset (from Fiddler on the Roof) by Jerry Bock / Chava (from Fiddler on the Roof) by Jerry Bock / Weding Celebration (from Fiddler on the Roof) by Jerry Bock", "placement": "6th Place", "score": 85.300},
+  {"year": 1987, "showTitle": "", "repertoire": "Adventures on Earth (from E.T.) by John Williams / Jupiter (from The Planets) by Gustav Holst", "placement": "1st Place", "score": 94.840},
+  {"year": 1988, "showTitle": "", "repertoire": "Savannah River Holiday by Ron Nelson / Concerto in F by George Gershwin / An American in Paris by George Gershwin", "placement": "1st Place", "score": 96.360},
+  {"year": 1989, "showTitle": "", "repertoire": "Savannah River Holiday by Ron Nelson / Rhapsody in Blue by George Gershwin", "placement": "2nd Place", "score": 95.000},
+  {"year": 1990, "showTitle": "", "repertoire": "Moorside March (from A Moorside Suite) by Gustav Holst / Firebird Suite by Igor Stravinsky", "placement": "9th Place", "score": 86.800},
+  {"year": 1991, "showTitle": "", "repertoire": "Toccata & Fugue in D Minor by Johann Sebastian Bach / Ave Maria by Franz Schubert / Jim's New Life (from Empire of the Sun) by John Williams / Tonight (from West Side Story) by Leonard Bernstein", "placement": "11th Place", "score": 77.300},
+  {"year": 1992, "showTitle": "", "repertoire": "Liferaft Earth / Adventures on Earth (from E.T.) by John Williams / Mars (from The Planets) by Gustav Holst / Throneroom (from Star Wars) by John Williams / Finale (from Star Wars) by John Williams", "placement": "12th Place", "score": 80.800},
+  {"year": 1993, "showTitle": "", "repertoire": "You Are The Sunshine Of My Life by Stevie Wonder / Sassy Samba / Don't Let The Sun Go Down On Me by Elton John", "placement": "Did not attend DCA", "score": null},
+  {"year": 1994, "showTitle": "", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Malaga / E.T. & Me (from E.T.) by John Williams / Finale (from E.T.) by John Williams", "placement": "12th Place", "score": 79.400},
+  {"year": 1995, "showTitle": "New World Symphony", "repertoire": "New World Symphony by Antonín Dvořák", "placement": "9th Place", "score": 84.600},
+  {"year": 1996, "showTitle": "Les Miserables", "repertoire": "Work Song (from Les Miserables) by Claude-Michel Schönberg / At the End of the Day (from Les Miserables) by Claude-Michel Schönberg / On My Own (from Les Miserables) by Claude-Michel Schönberg / Plumet Attack (from Les Miserables) by Claude-Michel Schönberg / One Day More (from Les Miserables) by Claude-Michel Schönberg", "placement": "6th Place", "score": 90.400},
+  {"year": 1997, "showTitle": "Spiritual Hymns & Dances - D. Holsinger", "repertoire": "On an American Spiritual by David Holsinger / Havendance by David Holsinger / On a Hymnsong of Philip Bliss by David Holsinger / Nilesdance by David Holsinger / On a Southern Hymnsong by David Holsinger", "placement": "4th Place", "score": 92.000},
+  {"year": 1998, "showTitle": "Russian Sketches", "repertoire": "Festive Overture by Dmitri Shostakovich / Romance (from Lieutenant Kije) by Sergei Prokofiev / Comedians' Galop by Dmitri Kabalevsky / Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière", "placement": "6th Place", "score": 89.500},
+  {"year": 1999, "showTitle": "An American Celebration", "repertoire": "American Salute by Morton Gould / Yankee Doodle Dandy by George M. Cohan / Shenandoah (Traditional) / Stars and Stripes Forever by John Philip Sousa", "placement": "8th Place", "score": 87.000},
+  {"year": 2000, "showTitle": "A Copland Centennial Celebration", "repertoire": "Fanfare for the Common Man by Aaron Copland / 3rd Symphony (excerpts) by Aaron Copland / Lincoln Portrait Chorale by Aaron Copland / Appalachian Spring by Aaron Copland / Simple Gifts (from Appalachian Spring) by Aaron Copland", "placement": "Did not attend DCA", "score": null},
+  {"year": 2001, "showTitle": "Sunstorm", "repertoire": "Festive Overture by Dmitri Shostakovich / Meadowland (Traditional Russian) / Romance (from Lieutenant Kije) by Sergei Prokofiev / Dance of the Tumblers by Nikolai Rimsky-Korsakov", "placement": "Did not attend DCA", "score": null},
+  {"year": 2003, "showTitle": "Celtic Sun", "repertoire": "Fanfare / Tomorrow Is My Dancing Day (Traditional) / Highland Cathedral by Ulrich Roever / Lord Of The Dance by Michael Flatley", "placement": "2nd Place", "score": 73.238},
+  {"year": 2004, "showTitle": "Something Old, Something New, Something Orange, Something Blue", "repertoire": "Where's Teddy? / Classical Gas by Mason Williams / Legend of the One-Eyed Sailor", "placement": "3rd Place", "score": 73.563},
+  {"year": 2005, "showTitle": "The Tell-Tale Heart", "repertoire": "The Tell-Tale Heart", "placement": "15th Place", "score": 76.913},
+  {"year": 2006, "showTitle": "A Touch Of Class", "repertoire": "Pagliacci by Ruggero Leoncavallo / Clair de Lune (from Suite Bergamasque) by Claude Debussy / Bolero by Maurice Ravel / Nessun Dorma (from Turandot) by Giacomo Puccini", "placement": "16th Place", "score": 77.700},
+  {"year": 2007, "showTitle": "Cirque du Soleil Se Levant", "repertoire": "Atmadja (from Quidam) by Cirque du Soleil / Distorted (from La Nouba) by Cirque du Soleil / Quidam/Seisouso/Urban by Cirque du Soleil / Ninkou Latora/Incantation by Cirque du Soleil", "placement": "1st Place", "score": 83.988},
+  {"year": 2008, "showTitle": "", "repertoire": "Man of La Mancha (from Man of La Mancha) by Mitch Leigh / Dulcinea (from Man of La Mancha) by Mitch Leigh / The Impossible Dream (from Man of La Mancha) by Mitch Leigh", "placement": "Did not attend DCA", "score": null},
+  {"year": 2009, "showTitle": "Homage: Three Tapestries", "repertoire": "Movement I - Regnum / Movement II - Sacra / Movement III - Proelium", "placement": "8th Place", "score": 65.263},
+  {"year": 2010, "showTitle": "Africa", "repertoire": "Africa Ceremony, Song & Ritual by Robert W. Smith / Shadowlands / The Stampede", "placement": "Did not attend DCA", "score": 999.000},
+  {"year": 2011, "showTitle": "Les Misérables", "repertoire": "I Dreamed a Dream (from Les Miserables) by Claude-Michel Schönberg / On My Own (from Les Miserables) by Claude-Michel Schönberg / Attack on Rue Plumet (from Les Miserables) by Claude-Michel Schönberg / One Day More (from Les Miserables) by Claude-Michel Schönberg", "placement": "5th Place", "score": 73.530},
+  {"year": 2012, "showTitle": "Carmen", "repertoire": "Overture (from Carmen) by Georges Bizet / La Habanera (from Carmen) by Georges Bizet / Intermezzo (from Carmen) by Georges Bizet / Treador (from Carmen) by Georges Bizet", "placement": "5th Place", "score": 75.050},
+  {"year": 2013, "showTitle": "A Painter's Canvas", "repertoire": "Repertoire not available", "placement": "11th Place", "score": 81.030},
+  {"year": 2014, "showTitle": "1917: The Rise and Fall", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Comedians' Galop by Dmitri Kabalevsky / Fire Of Eternal Glory by Dmitri Shostakovich / Infernal Dance (from Firebird Suite) by Igor Stravinsky / Finale (from the Firebird Suite) by Igor Stravinsky", "placement": "11th Place", "score": 83.500},
+  {"year": 2015, "showTitle": "Come Fly With Me", "repertoire": "El Camino Real / Cavalleria Rusticana by Pietro Mascagni / Jai Ho from Slumdog Millionaire by A.R. Rahman / Marseilles", "placement": "9th Place", "score": 85.380},
+  {"year": 2016, "showTitle": "House of Cards", "repertoire": "May Be a Price To Pay / Tempered Steel / Diamonds Are a Girl's Best Friend(from Gentlemen Prefer Blondes) by Jule Styne / Sparkling Diamonds / In the Spring, at the Time When Kings Go Off to War", "placement": "8th Place", "score": 88.530},
+  {"year": 2017, "showTitle": "Mirage", "repertoire": "Festival of Light / Caravan by Duke Ellington / Danse Bacchanale from Samson and Delilah by Camille Saint-Saëns", "placement": "10th Place", "score": 85.680},
+  {"year": 2018, "showTitle": "Outside In", "repertoire": "A Kaleidoscope of Mathematics from (A Beautiful Mind) by James Horner / Always on my Mind by Wayne Carson / Fly to Paradise / On my Mind / Dance of Vengeance (from Medea) by Samuel Barber", "placement": "10th Place", "score": 80.775},
+  {"year": 2019, "showTitle": "Into the Deep Blue", "repertoire": "A Walk on Water / Songs Of Sailor and Sea / Bridge Over Troubled Water by Simon & Garfunkel / Cyclone / Victory At Sea by Richard Rodgers", "placement": "10th Place", "score": 74.750},
+  {"year": 2021, "showTitle": "Portraits by Gershwin", "repertoire": "Rhapsody in Blue by George Gershwin / An American in Paris by George Gershwin", "placement": "8th Place", "score": 79.900},
+  {"year": 2024, "showTitle": "The Light Within", "repertoire": "Black Hole Sun by Soundgarden / Daylight / Lux Aurumque by Eric Whitacre / Becoming One of the People by James Horner", "placement": "2nd Place", "score": 79.175},
+  {"year": 2025, "showTitle": "Move", "repertoire": "Partita for Eight Voices by Caroline Shaw / 2 Pieces for 4 Brothers / Original Music / Move", "placement": "9th Place", "score": 83.475}
+]
+}
+
+
+
+

@@ -1,0 +1,79 @@
+{
+ "location": [
+   {
+     "city": "Fort Mill",
+     "state": "SC", 
+     "year": "1988-Present"
+   }
+ ],
+ "formerNames": [
+   "Charlotte Drum Corps Association"
+ ],
+ "championships": [
+   {"circuit": "DCI Open Class", "year": 1993, "score": 94.300, "showTitle": "La Fiesta Mexicana"},
+   {"circuit": "DCI World Class", "year": 2013, "score": 98.300, "showTitle": "E=mc2"}
+ ],
+ "captionAwards": [
+   {
+     "caption": "General Effect Award",
+     "years": [2013, 2015]
+   },
+   {
+     "caption": "Visual Performance Award", 
+     "years": [2012, 2013, 2016]
+   },
+   {
+     "caption": "Color Guard Award",
+     "years": [2016]
+   },
+   {
+     "caption": "Brass Performance Award",
+     "years": [2009, 2011, 2012, 2013, 2016, 2017, 2019, 2023]
+   }
+ ],
+ "website": "www.carolinacrown.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1990", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1991-1993", "className": "Class A/Division II"},
+   {"circuit": "DCI", "years": "1994-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1990, "showTitle": "The Music Man", "repertoire": "Goodnight, My Someone; Ya Got Trouble; Lida Rose; Marian the Librarian; Till There Was You; Goodnight Ladies & 76 Trombones All from The Music Man by Meredith Willson", "placement": "33rd Place", "score": 58.600},
+   {"year": 1991, "showTitle": "The Music of Prokofiev", "repertoire": "Piano Concerto No. 3; March Opus 99; Troika (from Lieutenant Kijé Suite); Alexander Nevsky & Ivan the Terrible All by Sergei Prokofiev", "placement": "2nd Place Class A / 25th Place Open Class", "score": 91.500},
+   {"year": 1992, "showTitle": "The Dances of Malcolm Arnold", "repertoire": "English Dance I (Set One, Op. 27); English Dance II (Set Two, Op. 53); English Dance IV (Set One, Op. 27); Four Scottish Dances III (Op. 59); Four Cornish Dances IV (Op. 91) All by Malcolm Arnold", "placement": "3rd Place Division II & III / 25th Place Division I", "score": 90.500},
+   {"year": 1993, "showTitle": "La Fiesta Mexicana", "repertoire": "Aztec Dance, Mass & Carnival All from La Fiesta Mexicana by H. Owen Reed", "placement": "1st Place Division II / 21st Place Division I", "score": 94.300},
+   {"year": 1994, "showTitle": "A Southwestern Impression", "repertoire": "El Salón México by Aaron Copland / Rio Grande, Round Up, Wagon Train & Fiesta (from Santa Fe Saga) by Morton Gould", "placement": "17th Place", "score": 75.100},
+   {"year": 1995, "showTitle": "Stormworks", "repertoire": "Stormworks by Stephen Melillo / Watermark by Enya / The Storm by Marty McCartt", "placement": "11th Place", "score": 82.800},
+   {"year": 1996, "showTitle": "Chess... and the Art of Strategy", "repertoire": "Strategical Fanfare by Marty McCartt / Presto with Malice (from Symphony No. 1) by Sir William Walton / Nimrod & Variation XV (based on Enigma Variations) by Sir Edward Elgar, arranged by Marty McCartt", "placement": "10th Place", "score": 82.100},
+   {"year": 1997, "showTitle": "Postcards from Britain", "repertoire": "Crown Imperial by Sir William Walton / Terpsichore, Mvt. 4 by Bob Margolis / Nimrod (from Enigma Variations) by Sir Edward Elgar / Jig (from St Paul's Suite) by Gustav Holst", "placement": "12th Place", "score": 85.000},
+   {"year": 1998, "showTitle": "Heroes: Then and Now", "repertoire": "Russian Christmas Music, Armenian Dances & Praise Jerusalem All by Alfred Reed", "placement": "11th Place", "score": 85.700},
+   {"year": 1999, "showTitle": "Jekyll and Hyde", "repertoire": "Prologue; Once Upon A Dream; Murder, Murder; Confrontation; In His Eyes & Façade All from Jekyll & Hyde by Frank Wildhorn, Leslie Bricusse & Steve Cuden", "placement": "11th Place", "score": 86.300},
+   {"year": 2000, "showTitle": "The Mask of Zorro", "repertoire": "Main Title, The Ride, Diego's Goodbye & Stealing the Map All from The Mask of Zorro by James Horner", "placement": "11th Place", "score": 85.150},
+   {"year": 2001, "showTitle": "Industry", "repertoire": "Original Music by Marty McCartt / Concerto for Four Percussion by David Gillingham / Main Theme (from The Cider House Rules) by Rachel Portman / Motown Metal by Michael Daugherty", "placement": "10th Place", "score": 86.950},
+   {"year": 2002, "showTitle": "Greek Mythology: Stories of Gods and Heroes", "repertoire": "Second Essay for Orchestra by Samuel Barber / Javelin by Michael Torke / One Day I'll Fly Away (from Moulin Rouge!) by Will Jennings & Joe Sample / Dance of Vengeance (from Medea) & Piano Concerto by Samuel Barber", "placement": "16th Place", "score": 81.800},
+   {"year": 2003, "showTitle": "Bell-isimo!", "repertoire": "Mass (from La Fiesta Mexicana) by H. Owen Reed / Earth (from Symphony No. 1) by Philip Sparke / Engulfed Cathedral by Claude Debussy / Stained Glass by David Gillingham / Carol of the Bells by Mykola Leontovych", "placement": "10th Place", "score": 86.650},
+   {"year": 2004, "showTitle": "Bohemia!", "repertoire": "The Moldeau (from Má vlast) by Bedřich Smetana / La Bohème by Giacomo Puccini / Epistrophy by Thelonious Monk & Kenneth Clark / Seasons of Love (from Rent) by Jonathan Larson / Beat Generation (Original Music) / Bohemian Rhapsody by Freddie Mercury (Queen)", "placement": "7th Place", "score": 91.225},
+   {"year": 2005, "showTitle": "Angelus", "repertoire": "The Reason by Ed Nalle & Bob Kauflin (GLAD) / A Mighty Fortress by Martin Luther / Angel by Sarah McLachlan / Never Surrender (from First Knight) by Jerry Goldsmith / Joy (from Awakening) by Joseph Curiale / Call of the Mountain (from Gates of Gold) by Joseph Curiale", "placement": "7th Place", "score": 90.725},
+   {"year": 2006, "showTitle": "In.trance.it", "repertoire": "Urban Dances & Celestial Night by Richard Danielpour", "placement": "8th Place", "score": 89.975},
+   {"year": 2007, "showTitle": "Triple Crown", "repertoire": "Theme (from Dreamer) by John Debney / The Trap by James Newton Howard / Wild Horses by Mick Jagger & Keith Richards (The Rolling Stones) / Happy Ending (from The Red Pony) by Aaron Copland / Manny's Story (from Dreamer) by John Debney / William Tell Overture by Gioachino Rossini / Last Race (from Dreamer) by John Debney", "placement": "6th Place", "score": 94.150},
+   {"year": 2008, "showTitle": "Finis", "repertoire": "Candide by Leonard Bernstein / Toccata and Fugue in D Minor by Johann Sebastian Bach / Barber of Seville by Gioachino Rossini / Ode to Joy (Symphony No. 9) by Ludwig van Beethoven / Midsummer Night's Dream No. 9 by Felix Mendelssohn / Claire De Lune by Claude Debussy / One Hand One Heart & Somewhere (from West Side Story) by Leonard Bernstein / Hungarian Rhapsody No. 2 by Franz Liszt / Festive Overture by Dmitri Shostakovich / 1812 Overture by Pyotr Ilyich Tchaikovsky / Appalachian Spring by Aaron Copland / Hallelujah Chorus by George Frederic Handel", "placement": "4th Place", "score": 96.800},
+   {"year": 2009, "showTitle": "The Grass Is Always Greener", "repertoire": "The Promise of Living (from The Tender Land) by Aaron Copland / Church Windows by Ottorino Respighi / Puck (from Il Sogno) by Elvis Costello / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg / Somewhere (from West Side Story) by Leonard Bernstein / Hybrid by Lee Beddis / Slalom by Carter Pann / Sensemayá by Silvestre Revueltas", "placement": "2nd Place", "score": 97.500},
+   {"year": 2010, "showTitle": "A Sec2nd Chance", "repertoire": "Resurrection Symphony (Symphony No. 2) by Gustav Mahler / Symphony No. 2 by Aram Khatchaturian / Danzón No. 2 by Arturo Marquez / Nimrod (from Enigma Variations) by Edward Elgar / The Promise of Living from The Tender Land) by Aaron Copland", "placement": "4th Place", "score": 95.950},
+   {"year": 2011, "showTitle": "Rach Star", "repertoire": "We Will Rock You by Brian May (Queen) / Symphonic Dances by Sergei Rachmaninoff / \"Paint It Black\" by Mick Jagger & Keith Richards (The Rolling Stones) / Iron Man by Ozzy Osbourne, Tony Iommi, Geezer Butler & Bill Ward (Black Sabbath) / Eruption by Michael Anthony, David Lee Roth, Eddie Van Halen & Alex Van Halen (Van Halen) / Bohemian Rhapsody by Freddie Mercury (Queen) / Piano Concerto No. 2 by Sergei Rachmaninoff / Piano Concerto No. 1 by Keith Emerson / Rhapsody on a Theme of Paganini by Sergei Rachmaninoff", "placement": "4th Place", "score": 95.300},
+   {"year": 2012, "showTitle": "For the Common Good", "repertoire": "Fanfare for the Common Man by Aaron Copland / Dreams by Bertrand Moren / Symphony No. 3 by Aaron Copland", "placement": "2nd Place", "score": 97.650},
+   {"year": 2013, "showTitle": "E=mc2", "repertoire": "Also Sprach Zarathustra by Richard Strauss / Einstein on the Beach by Philip Glass / Walking with Heroes by Paul Lovatt-Cooper / The Devil's Bridge by Bertrand Moren / The Abyss by Alan Silvestri / The Light Fantastic & The Dark Side of the Moon by Paul Lovatt-Cooper", "placement": "1st Place", "score": 98.300},
+   {"year": 2014, "showTitle": "Out of This World", "repertoire": "Space Oddity by David Bowie / Interstellar Suite by Amin Bhatia / Shadow Behind the Iron Sun by Evelyn Glennie / There's No Place Like Home (from Lost) by Michael Giacchino / Major Tom (Coming Home) by Peter Schilling / Perihelion by Philip Sparke / Vitae Aeternum by Paul Lovatt-Cooper", "placement": "5th Place", "score": 95.675},
+   {"year": 2015, "showTitle": "Inferno", "repertoire": "Gates of Hell by Thom Hannum, Tony Nunez & Steve Ridley / Dies Irae (from Requiem) by Giuseppe Verdi / Symphony for Organ and Orchestra by Aaron Copland / Adagio in G Minor by Remo Giazotto / Symphony No. 9 by Ludwig van Beethoven", "placement": "2nd Place", "score": 97.075},
+   {"year": 2016, "showTitle": "Relentless", "repertoire": "The Good, the Bad and the Ugly & The Ecstasy of Gold by Ennio Morricone / Dance of Vengeance (from Medea) by Samuel Barber / Journey of the Lone Wolf by Simon Dobson / El Tango de Roxanne (from Moulin Rouge!) by Sting, Craig Pearce, Baz Luhrmann & Mariano Mores / Hallelujah by Leonard Cohen / Il Triello (The Trio) by Ennio Morricone / Equilibrium by Paul Lovatt-Cooper", "placement": "3rd Place", "score": 97.088},
+   {"year": 2017, "showTitle": "It Is...", "repertoire": "Little Fugue in G Minor by Johann Sebastian Bach / Crown Imperial by Sir William Walton / Symphony No. 3 by Vittorio Giannini / Old Home Days by Charles Ives / For Good (from Wicked) by Stephen Schwartz / NO one To kNOW one by Andy Akiho / Raveling, Unraveling by Philip Sparke", "placement": "3rd Place", "score": 96.575},
+   {"year": 2018, "showTitle": "Beast", "repertoire": "Symphony No. 8, Mvt. 4 by Anton Bruckner / Build a Pyre by Ryan Lott (Son Lux) / Destination Moon by Paul Raphael / Myth Forest by Stig Nordhagen / If I Fell by John Lennon & Paul McCartney / Blow It Up, Start Again by Jonathan Newman / Epiphanies (Fanfares and Chorales) by Ron Nelson", "placement": "4th Place", "score": 95.500},
+   {"year": 2019, "showTitle": "Beneath the Surface", "repertoire": "Temen Oblak (from The Drop That Contained the Sea) by Christopher Tin / Frolic (from Rabbit and Rogue) by Danny Elfman / Gabriel's Oboe (from The Mission) by Ennio Morricone / Bucimis (Traditional) by The Swingles with Trichy Sankaran", "placement": "4th Place", "score": 96.563},
+   {"year": 2021, "showTitle": "In My Mind", "repertoire": "Carolina In My Mind by James Taylor / Seize the Day by Peter Graham / Gravity by Sara Bareilles / Toccata Andromeda by Paul Halley (Carolina Crown did not perform live at DCI events in 2021)", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Right Here, Right Now!", "repertoire": "With the Love in My Heart by Jacob Collier / Chandelier by Sia Furler & Jesse Shatkin / Chasing the Moment by Michael Klesch, Thom Hannum, Andrew Monteiro, Jim Ancona & Travis Peterman / Benedictus by Karl Jenkins / Own The Moment by Andrew Monteiro & Travis Peterman / Toccata Andromeda by Paul Halley", "placement": "4th Place", "score": 96.350},
+   {"year": 2023, "showTitle": "The Round Table: Echoes of Camelot", "repertoire": "The Night Window by Thomas Newman / Bachelorette by Björk / String Quartet No. 2, Mvt. 2 by Béla Bartók / Requiem in D-Minor (Lacrimosa) by Wolfgang Amadeus Mozart / Stampede (from Australia) by David Hirschfelder / All is Full of Love by Björk / Tristan and Isolde by Richard Wagner / Manifest 3 by Elliot Goldenthal / The Wounded King by Michael Klesch, Michael Martin, Kevin Shah & Mike Jackson / Dido's Lament by Henry Purcell", "placement": "3rd Place", "score": 97.663},
+   {"year": 2024, "showTitle": "Promethean", "repertoire": "American Prometheus by Ludwig Emil Tomas Gorranson / Run! by Benjamin Wallfisch / Define Dancing by Thomas Newman / Fraternity by Thierry Deleruyelle / Fission by John Mackey", "placement": "5th Place", "score": 95.025},
+   {"year": 2025, "showTitle": "The Point of No Return", "repertoire": "Carmina Burana: No. 21 (In trutina) by Carl Orff / Music for Prague 1968 by Karel Husa / Carmina Burana: No. 10 (Were diu werit alle min), No. 18 (Circa mea pectora) & No. 20 (Veni, veni, venias) by Carl Orff / Symphony No. 5: Adagietto (Sehr langsam) by Gustav Mahler / Étude No. 13 (The Devil's Staircase) by György Ligeti / Carmina Burana: No. 1 (O Fortuna) by Carl Orff", "placement": "5th Place", "score": 94.800}
+ ]
+}

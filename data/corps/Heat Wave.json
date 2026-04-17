@@ -1,0 +1,32 @@
+{
+ "location": [
+   {
+     "city": "Tampa Bay",
+     "state": "FL", 
+     "year": "2014-2023"
+   },
+   {
+     "city": "Tampa Bay",
+     "state": "FL", 
+     "year": "2025-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.heat-wave.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2015-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2015, "showTitle": "Cuban Fire", "repertoire": "Fuego Cubano (from Cuban Fire Suite) * El Congo Valiente (from Cuban Fire Suite) * La Suerte de Los Tontos (from Cuban Fire Suite)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2016, "showTitle": "Sahara", "repertoire": "Lawrence of Arabia (Main Theme) * The Heat of the Day * Paradise * Desert Rose", "placement": "Did not attend DCI", "score": null},
+   {"year": 2017, "showTitle": "Project Apollo", "repertoire": "Olympiada * Enterprising Young Men (from Star Trek) * Twelve Seconds to the Moon * Fly Me To The Moon * Ride", "placement": "Did not attend DCI", "score": null},
+   {"year": 2018, "showTitle": "The World Keeps Spinning", "repertoire": "New World Symphony * The Times They Are a-Changin' * What a Wonderful World * Fanfare for the Common Man * There's a Great Big Beautiful Tomorrow", "placement": "40th Place", "score": 58.700},
+   {"year": 2019, "showTitle": "Nature Boy", "repertoire": "Nature Boy * Scherzo from Midsummer's Night's Dream * Fix You * Changes * Original music", "placement": "36th Place", "score": 60.050},
+   {"year": 2022, "showTitle": "Welcome to the Neighborhood", "repertoire": "Bat Out of Hell * It's All Coming Back to Me Now * Great Boleros of Fire", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "When October Goes", "repertoire": "When October Goes * 6th Symphony (Pastorale) * 6th Symphony (Pathetique)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2025, "showTitle": "Rising Heat", "repertoire": "Gimme Three Steps * Free Fallin' * With Arms Wide Open * Rollin' (Air Raid Vehicle) * Ocean Avenue", "placement": "Did not attend DCI", "score": null}
+ ]
+}

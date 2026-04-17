@@ -1,0 +1,35 @@
+{
+ "location": [
+   {
+     "city": "Memphis",
+     "state": "TN", 
+     "year": "1980-1983"
+   },
+   {
+     "city": "Memphis",
+     "state": "TN", 
+     "year": "2023-Present"
+   }
+ ],
+ "formerNames": [
+   "Memphis Blues Brass Band"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1980-1983", "className": "World Class"},
+   {"circuit": "DCI", "years": "2023-2024", "className": "SoundSport"},
+   {"circuit": "DCI", "years": "2025-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1980, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * Blues in the Night * The Birth of the Blues * Celebration of Possum Mennier's Entrance into Heaven", "placement": "20th Place World Class", "score": 67.550},
+   {"year": 1981, "showTitle": "", "repertoire": "Barnum and Bailey's Favorite * Basin Street Blues * Limehouse Blues * Al Jolson Medley * Can't Help Falling in Love", "placement": "18th Place World Class", "score": 71.300},
+   {"year": 1982, "showTitle": "", "repertoire": "Brunswick Blues * Bye Bye Blues * Concerto in F * Blue Mercury * Can't Help Falling In Love", "placement": "19th Place World Class", "score": 72.500},
+   {"year": 1983, "showTitle": "", "repertoire": "And the Angels Sing * He's Got the Whole World in His Hands * Swing Low, Sweet Chariot * When the Saints Go Marching In * Blow Gabriel Blow (from Anything Goes) * Brand New Church * Rise Again", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "Blue Notes From Spain", "repertoire": "(Repertoire not available)", "placement": "SoundSport", "score": null},
+   {"year": 2024, "showTitle": "Blue Notes From Spain, Madrid Nights", "repertoire": "Blue Skies of Valencia * Carnivals of Barcelona", "placement": "SoundSport", "score": null},
+   {"year": 2025, "showTitle": "Rhapsody In Memphis Blue", "repertoire": "Rhapsody in Blue", "placement": "Did not attend DCI", "score": null}
+ ]
+}

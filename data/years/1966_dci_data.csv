@@ -1,0 +1,216 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/04,New Haven ,CT,1,New York Skyliners,World Class,82.336,1966
+06/05,Hershey,PA,1,Reading Buccaneers,World Class,81.7,1966
+06/11,Herkimer,NY,1,Reading Buccaneers,World Class,80.166,1966
+06/11,Stratford,CT,1,Connecticut Hurricanes,World Class,83.73,1966
+06/04,New Haven ,CT,2,Reading Buccaneers,World Class,79.483,1966
+06/05,Hershey,PA,2,Westshoremen,World Class,77.08,1966
+06/11,Herkimer,NY,2,New York Skyliners,World Class,79.933,1966
+06/11,Stratford,CT,2,Hawthorne Caballeros,World Class,80.53,1966
+06/04,New Haven ,CT,3,Yankee Rebels,World Class,79.0,1966
+06/05,Hershey,PA,3,Hamburg Kingsmen,World Class,76.88,1966
+06/11,Herkimer,NY,3,Lt. Norman Princemen,World Class,75.5,1966
+06/11,Stratford,CT,3,Rochester Crusaders,World Class,77.53,1966
+06/04,New Haven ,CT,4,Archer Epler Musketeers,World Class,74.533,1966
+06/05,Hershey,PA,4,Archer Epler Musketeers,World Class,75.43,1966
+06/11,Herkimer,NY,4,Archer Epler Musketeers,World Class,73.45,1966
+06/11,Stratford,CT,4,Sunrisers,World Class,76.51,1966
+06/04,New Haven ,CT,5,Les Metropolitans,World Class,65.033,1966
+06/05,Hershey,PA,5,Reilly Raiders,World Class,67.7,1966
+06/11,Herkimer,NY,5,Reilly Raiders,World Class,64.85,1966
+06/11,Stratford,CT,5,Marksmen,World Class,69.41,1966
+06/11,Herkimer,NY,6,Les Metropolitans,World Class,64.81,1966
+06/11,New Haven ,CT,1,Connecticut Hurricanes,World Class,84.95,1966
+06/12,Harrisburg,PA,1,Hanover Lancers,World Class,78.16,1966
+06/18,Toronto,Ontario,1,Hawthorne Caballeros,World Class,83.55,1966
+06/18,Hershey,PA,1,Reading Buccaneers,World Class,81.07,1966
+06/11,New Haven ,CT,2,Sunrisers,World Class,77.13,1966
+06/12,Harrisburg,PA,2,Westshoremen,World Class,76.43,1966
+06/18,Toronto,Ontario,2,Rochester Crusaders,World Class,82.35,1966
+06/18,Hershey,PA,2,Westshoremen,World Class,77.08,1966
+06/11,New Haven ,CT,3,Archer Epler Musketeers,World Class,69.55,1966
+06/12,Harrisburg,PA,3,Sentinels,World Class,66.66,1966
+06/18,Toronto,Ontario,3,Canadian Commanders,World Class,80.65,1966
+06/18,Hershey,PA,3,Hamburg Kingsmen,World Class,76.88,1966
+06/11,New Haven ,CT,4,Les Diplomates,World Class,68.33,1966
+06/12,Harrisburg,PA,4,Stateliners,World Class,55.68,1966
+06/18,Toronto,Ontario,4,Les Diplomates,World Class,78.95,1966
+06/18,Hershey,PA,4,Archer Epler Musketeers,World Class,75.43,1966
+06/11,New Haven ,CT,5,Interstatesmen,World Class,66.28,1966
+06/18,Hershey,PA,5,Reilly Raiders,World Class,67.7,1966
+06/11,New Haven ,CT,6,Lt. Norman Princemen,World Class,60.11,1966
+06/18,Allentown,PA,1,New York Skyliners,World Class,80.21,1966
+06/18,Charleston,MA,1,Connecticut Hurricanes,World Class,84.95,1966
+06/18,Torrington,VT,1,New York Skyliners,World Class,84.18,1966
+06/25,Boston,MA,1,Connecticut Hurricanes,World Class,83.83,1966
+06/18,Allentown,PA,2,Reading Buccaneers,World Class,79.85,1966
+06/18,Charleston,MA,2,Sunrisers,World Class,77.13,1966
+06/18,Torrington,VT,2,Connecticut Hurricanes,World Class,83.8,1966
+06/25,Boston,MA,2,New York Skyliners,World Class,82.92,1966
+06/18,Allentown,PA,3,Yankee Rebels,World Class,78.46,1966
+06/18,Charleston,MA,3,Archer Epler Musketeers,World Class,69.55,1966
+06/18,Torrington,VT,3,Yankee Rebels,World Class,79.4,1966
+06/25,Boston,MA,3,Hawthorne Caballeros,World Class,79.9,1966
+06/18,Charleston,MA,4,Les Diplomats,World Class,68.33,1966
+06/18,Torrington,VT,4,Sunrisers,World Class,78.81,1966
+06/25,Boston,MA,4,Reading Buccaneers,World Class,78.2,1966
+06/18,Charleston,MA,5,Interstatesmen,World Class,66.28,1966
+06/18,Torrington,VT,5,Lt. Norman Princemen,World Class,71.86,1966
+06/25,Boston,MA,5,Rochester Crusaders,World Class,77.01,1966
+06/18,Charleston,MA,6,Lt. Norman Princemen,World Class,60.11,1966
+06/25,Boston,MA,6,Marksmen,World Class,71.1,1966
+06/25,Boston,MA,7,Lt. Norman Princemen,World Class,69.05,1966
+06/25,Boston,MA,8,Les Diplomats,World Class,68.58,1966
+06/25,Kingston,NY,1,Sunrisers,World Class,79.96,1966
+06/25,Emporium,PA,1,Syracuse Brigadiers,World Class,79.91,1966
+06/25,Kingston,NY,2,Westshoremen,World Class,74.36,1966
+06/25,Emporium,PA,2,Hanover Lancers,World Class,74.14,1966
+06/25,Kingston,NY,3,Les Metropolitans,World Class,71.6,1966
+06/25,Emporium,PA,3,Cornplanter Black Knights,World Class,66.29,1966
+06/25,Kingston,NY,4,Les Troubadours,World Class,65.0,1966
+06/25,Emporium,PA,4,Vern Acklin Cavaliers,World Class,64.0,1966
+07/02,Syracuse,NY,1,Hawthorne Caballeros,World Class,83.616,1966
+07/02,Bridgeport,CT,1,Reading Buccaneers,World Class,83.08,1966
+07/02,Irwin,PA,1,Rockets,World Class,78.4,1966
+07/03,Rochester,NY,1,Rochester Crusaders,World Class,83.26,1966
+07/02,Syracuse,NY,2,Sunrisers,World Class,80.316,1966
+07/02,Bridgeport,CT,2,New York Skyliners,World Class,81.11,1966
+07/02,Irwin,PA,2,Westshoremen,World Class,77.12,1966
+07/03,Rochester,NY,2,Les Diplomates,World Class,80.1,1966
+07/02,Syracuse,NY,3,Lt. Norman Princemen,World Class,76.1,1966
+07/02,Bridgeport,CT,3,Yankee Rebels,World Class,77.6,1966
+07/02,Irwin,PA,3,Canada's M. Ambassadors,World Class,70.78,1966
+07/03,Rochester,NY,3,Hamburg Kingsmen,World Class,77.06,1966
+07/02,Syracuse,NY,4,Interstatesmen,World Class,73.216,1966
+07/02,Bridgeport,CT,4,Rochester Crusaders,World Class,74.85,1966
+07/02,Irwin,PA,3,Hanover Lancers,World Class,70.78,1966
+07/03,Rochester,NY,4,Albion Grenadiers,World Class,73.56,1966
+07/02,Bridgeport,CT,5,Archer Epler Musketeers,World Class,70.55,1966
+07/03,Rochester,NY,5,Mohawk Troubadours,World Class,70.58,1966
+07/04,Warren,PA,1,Syracuse Brigadiers,World Class,77.95,1966
+07/09,Hershey,PA,1,New York Skyliners,World Class,83.8,1966
+07/09,Patterson,NJ,1,Rochester Crusaders,World Class,80.766,1966
+07/16,Baltimore,MD,1,Connecticut Hurricanes,World Class,85.15,1966
+07/04,Warren,PA,2,Westshoremen,World Class,75.51,1966
+07/09,Hershey,PA,2,Connecticut Hurricanes,World Class,83.65,1966
+07/09,Patterson,NJ,2,Yankee Rebels,World Class,79.253,1966
+07/16,Baltimore,MD,2,New York Skyliners,World Class,84.18,1966
+07/04,Warren,PA,3,Interstatesmen,World Class,74.75,1966
+07/09,Hershey,PA,3,Reading Buccaneers,World Class,82.45,1966
+07/09,Patterson,NJ,3,Archer Epler Musketeers,World Class,71.696,1966
+07/16,Baltimore,MD,3,Reading Buccaneers,World Class,82.55,1966
+07/04,Warren,PA,4,Meadville Thunderbirds,World Class,61.23,1966
+07/09,Hershey,PA,4,Les Diplomats,World Class,79.11,1966
+07/09,Patterson,NJ,4,Lt. Norman Princemen,World Class,66.95,1966
+07/16,Baltimore,MD,4,Interstatesmen,World Class,82.01,1966
+07/09,Hershey,PA,5,Les Metropolitans,World Class,73.15,1966
+07/16,Baltimore,MD,5,Sunrisers,World Class,80.01,1966
+07/16,Baltimore,MD,6,Reilly Raiders,World Class,69.13,1966
+07/16,Hamburg,NY,1,Canadian Commanders,World Class,84.55,1966
+07/16,Harrisburg,PA,1,Reading Buccaneers,World Class,88.42,1966
+07/22,Hershey,PA,1,Reading Buccaneers,World Class,85.68,1966
+07/23,Albany,NY,1,New York Skyliners,World Class,86.81,1966
+07/16,Hamburg,NY,2,Syracuse Brigadiers,World Class,83.4,1966
+07/16,Harrisburg,PA,2,Westshoremen,World Class,85.03,1966
+07/22,Hershey,PA,2,Rockets,World Class,78.38,1966
+07/23,Albany,NY,2,Rochester Crusaders,World Class,85.2,1966
+07/16,Hamburg,NY,3,Albion Grenadiers,World Class,79.67,1966
+07/16,Harrisburg,PA,3,Hanover Lancers,World Class,76.88,1966
+07/22,Hershey,PA,3,Westshoremen,World Class,76.85,1966
+07/23,Albany,NY,3,Syracuse Brigadiers,World Class,83.3,1966
+07/16,Hamburg,NY,4,Guelph Royalaires,World Class,72.0,1966
+07/22,Hershey,PA,4,Archer Epler Musketeers,World Class,75.45,1966
+07/23,Albany,NY,4,Sunrisers,World Class,80.08,1966
+07/22,Hershey,PA,5,Reilly Raiders,World Class,75.0,1966
+07/23,Albany,NY,5,Hamburg Kingsmen,World Class,76.38,1966
+07/23,Albany,NY,6,Interstatesmen,World Class,72.83,1966
+07/23,Albany,NY,7,Wanderers,World Class,70.52,1966
+07/23,Scranton,PA,1,Reading Buccaneers,World Class,84.48,1966
+07/30,Reading,PA,1,Yankee Rebels,World Class,77.93,1966
+07/31,Waterbury,CT,1,Connecticut Hurricanes,World Class,80.52,1966
+07/23,Scranton,PA,2,Hawthorne Caballeros,World Class,83.98,1966
+07/30,Reading,PA,2,Archer Epler Musketeers,World Class,73.66,1966
+07/31,Waterbury,CT,2,New York Skyliners,World Class,78.7,1966
+07/23,Scranton,PA,3,Connecticut Hurricanes,World Class,83.13,1966
+07/30,Reading,PA,3,Rockets,World Class,73.0,1966
+07/31,Waterbury,CT,3,Sunrisers,World Class,70.42,1966
+07/23,Scranton,PA,4,Yankee Rebels,World Class,80.0,1966
+07/30,Reading,PA,4,Westshoremen,World Class,69.56,1966
+07/31,Waterbury,CT,4,Marksmen,World Class,66.95,1966
+07/23,Scranton,PA,5,Archer Epler Musketeers,World Class,76.35,1966
+07/30,Reading,PA,5,Reilly Raiders,World Class,67.73,1966
+07/31,Waterbury,CT,5,Interstatesmen,World Class,64.48,1966
+08/06,Waverly,NY,1,New York Skyliners,World Class,83.5,1966
+08/06,Bangor,PA,1,Westshoremen,World Class,77.0,1966
+08/13,Greenwich,CT,1,Connecticut Hurricanes,World Class,85.25,1966
+08/13,Lewisburg,PA,1,New York Skyliners,World Class,83.8,1966
+08/06,Waverly,NY,2,Reading Buccaneers,World Class,83.0,1966
+08/06,Bangor,PA,2,Hanover Lancers,World Class,74.53,1966
+08/13,Greenwich,CT,2,New York Skyliners,World Class,84.4,1966
+08/13,Lewisburg,PA,2,Connecticut Hurricanes,World Class,83.65,1966
+08/06,Waverly,NY,3,Rochester Crusaders,World Class,80.3,1966
+08/06,Bangor,PA,3,Whalers,World Class,73.12,1966
+08/13,Greenwich,CT,3,Sunrisers,World Class,80.73,1966
+08/13,Lewisburg,PA,3,Reading Buccaneers,World Class,82.45,1966
+08/06,Waverly,NY,4,Syracuse Brigadiers,World Class,79.293,1966
+08/06,Bangor,PA,4,Sentinels,World Class,72.32,1966
+08/13,Greenwich,CT,4,Interstatesmen,World Class,69.73,1966
+08/13,Lewisburg,PA,4,Les Diplomats,World Class,79.11,1966
+08/06,Waverly,NY,5,Les Metropolitans,World Class,73.15,1966
+08/06,Bangor,PA,5,Stateliners,World Class,60.0,1966
+08/13,Lewisburg,PA,5,Les Metropolitans,World Class,73.15,1966
+08/13,Lewisburg,PA,6,Reilly Raiders,World Class,64.75,1966
+08/19,Bronx,NY,1,Rochester Crusaders,World Class,80.766,1966
+08/20,Titusville,PA,1,Canadian Commanders,World Class,80.57,1966
+08/20,New Rochelle,NY,1,Connecticut Hurricanes,World Class,85.7,1966
+08/21,Jersey City,NJ,1,New York Skyliners,World Class,84.956,1966
+08/19,Bronx,NY,2,Yankee Rebels,World Class,79.253,1966
+08/20,Titusville,PA,2,Hamburg Kingsmen,World Class,77.78,1966
+08/20,New Rochelle,NY,2,New York Skyliners,World Class,84.766,1966
+08/21,Jersey City,NJ,2,Connecticut Hurricanes,World Class,83.933,1966
+08/19,Bronx,NY,3,Archer Epler Musketeers,World Class,71.696,1966
+08/20,Titusville,PA,3,Albion Royalaires,World Class,72.92,1966
+08/20,New Rochelle,NY,3,Sunrisers,World Class,81.233,1966
+08/21,Jersey City,NJ,3,Reading Buccaneers,World Class,83.583,1966
+08/19,Bronx,NY,4,Lt. Norman Princemen,World Class,66.95,1966
+08/20,Titusville,PA,4,Guelph Royalaires,World Class,69.31,1966
+08/20,New Rochelle,NY,4,Reading Buccaneers,World Class,80.45,1966
+08/21,Jersey City,NJ,4,Hawthorne Caballeros,World Class,83.516,1966
+08/20,New Rochelle,NY,5,Marksmen,World Class,77.733,1966
+08/21,Jersey City,NJ,5,Les Diplomats,World Class,77.066,1966
+08/28,Washington,DC,1,Hawthorne Caballeros,World Class,81.67,1966
+08/28,Washington,DC,1,Hawthorne Caballeros,World Class,83.65,1966
+08/28,Washington,DC,2,Connecticut Hurricanes,World Class,80.53,1966
+08/28,Washington,DC,2,Connecticut Hurricanes,World Class,83.533,1966
+08/28,Washington,DC,3,New York Skyliners,World Class,79.95,1966
+08/28,Washington,DC,3,Rochester Crusaders,World Class,80.45,1966
+08/28,Washington,DC,4,Rochester Crusaders,World Class,79.75,1966
+08/28,Washington,DC,4,New York Skyliners,World Class,80.316,1966
+08/28,Washington,DC,5,Yankee Rebels,World Class,78.18,1966
+08/28,Washington,DC,5,Yankee Rebels,World Class,78.033,1966
+08/28,Washington,DC,6,Sunrisers,World Class,78.0,1966
+08/28,Washington,DC,7,Rockets,World Class,74.3,1966
+08/28,Washington,DC,8,Boys of '76,World Class,66.1,1966
+08/28,Washington,DC,9,Maumee Demons,World Class,64.78,1966
+08/28,Washington,DC,10,Young Admirals,World Class,36.1,1966
+09/04,Syracuse,NY,1,Connecticut Hurricanes,World Class,81.31,1966
+09/10,Ansonia,CT,1,New York Skyliners,World Class,84.9,1966
+09/04,Syracuse,NY,2,Reading Buccaneers,World Class,81.293,1966
+09/10,Ansonia,CT,2,Reading Buccaneers,World Class,83.76,1966
+09/04,Syracuse,NY,3,New York Skyliners,World Class,81.216,1966
+09/10,Ansonia,CT,3,Syracuse Brigadiers,World Class,80.83,1966
+09/04,Syracuse,NY,4,Rochester Crusaders,World Class,79.716,1966
+09/10,Ansonia,CT,4,Sunrisers,World Class,78.2,1966
+09/04,Syracuse,NY,5,Les Diplomats,World Class,74.7,1966
+09/10,Ansonia,CT,5,Marksmen,World Class,76.05,1966
+09/10,Ansonia,CT,6,Lt. Norman Princemen,World Class,69.13,1966
+09/04,Syracuse,NY,1,New York Skyliners,World Class,84.53,1966
+09/04,Syracuse,NY,2,Connecticut Hurricanes,World Class,84.4,1966
+09/04,Syracuse,NY,3,Reading Buccaneers,World Class,83.97,1966
+09/04,Syracuse,NY,4,Sunrisers,World Class,83.4,1966
+09/04,Syracuse,NY,5,Hawthorne Caballeros,World Class,83.02,1966
+09/04,Syracuse,NY,6,Syracuse Brigadiers,World Class,79.35,1966
+09/04,Syracuse,NY,7,Rockets,World Class,78.83,1966
+09/04,Syracuse,NY,8,Archer Epler Musketeers,World Class,74.92,1966
+09/04,Syracuse,NY,9,Lt. Norman Princemen,World Class,73.98,1966
+09/04,Syracuse,NY,10,Les Metropolitans,World Class,71.6,1966

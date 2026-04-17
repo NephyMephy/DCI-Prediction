@@ -1,0 +1,47 @@
+{
+ "location": [
+   {
+     "city": "Anaheim",
+     "state": "CA", 
+     "year": "1958-1991"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "CYO", "year": 1972, "score": 88.100, "showTitle": ""},
+   {"circuit": "DCI", "year": 1972, "score": 88.100, "showTitle": ""}
+ ],
+ "captionAwards": [
+   {
+     "caption": "Color Guard Performance Award",
+     "years": [1972]
+   },
+   {
+     "caption": "Brass Performance Award",
+     "years": [1972]
+   },
+   {
+     "caption": "Percussion Performance Award",
+     "years": [1972]
+   }
+ ],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1991", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "March from Folk Song Suite by Ralph Vaughan Williams / When Johnny Comes Marching Home by Patrick Sarsfield Gilmore / Mickey Mouse Club March by Jimmie Dodd / Ritual Fire Dance (from El Amor Brujo) by Manuel de Falla / Sing, Sing, Sing by Louis Prima / Exodus by Ernest Gold / King of Kings by Miklos Rosza", "placement": "1st Place", "score": 88.100},
+   {"year": 1973, "showTitle": "", "repertoire": "Suite for Band by Gustav Holst / English Folk Song Suite by Ralph Vaughan Williams / Sabre Dance by Aram Khachaturian / Ritual Fire Dance (from El Amor Brujo) by Manuel de Falla / Sing, Sing, Sing by Louis Prima / El Cid & King of Kings by Miklos Rosza", "placement": "6th Place", "score": 82.650},
+   {"year": 1974, "showTitle": "", "repertoire": "Dance at the Gym (from West Side Story) by Leonard Bernstein / March to the Scaffold (from Symphonie Fantastique) by Hector Berlioz / Tubular Bells by Mike Oldfield / Artistry in Rhythm by Stan Kenton / So Very Hard To Go by Emilio Castillo & Stephen Kupka (Tower of Power) / Firebird Suite by Igor Stravinsky", "placement": "3rd Place", "score": 88.550},
+   {"year": 1976, "showTitle": "", "repertoire": "Mambo (from West Side Story) by Leonard Bernstein / Hill Where the Lord Hides by Chuck Mangione / Cheshire Cat Walk by Chick Corea / Artistry in Rhythm by Stan Kenton / So Very Hard To Go by Emilio Castillo & Stephen Kupka (Tower of Power) / Bravura Finale (from Firebird Suite) by Igor Stravinsky", "placement": "19th Place", "score": 76.900},
+   {"year": 1977, "showTitle": "", "repertoire": "West Side Story Medley by Leonard Bernstein / I Believe in Love (from A Star is Born) by Kenny Loggins & Alan and Marilyn Bergman / Watch Closely Now (from A Star is Born) by Paul Williams & Kenneth Ascher / Evergreen (from A Star is Born) by Barbra Streisand & Paul Williams / Firebird Suite by Igor Stravinsky", "placement": "14th Place", "score": 83.600},
+   {"year": 1978, "showTitle": "", "repertoire": "Symphonie Fantastique by Hector Berlioz / Blue Rondo A La Turk by Dave Brubeck / Selections from Close Encounters of the Third Kind by John Williams", "placement": "19th Place", "score": 75.000},
+   {"year": 1982, "showTitle": "", "repertoire": "Come Back to Me (from On a Clear Day You Can See Forever) by Burton Lane & Alan Jay Lerner / Evergreen (from A Star is Born) by Barbra Streisand & Paul Williams / Prologue, When You're a Jet, Maria & Gee, Officer Krupke (from West Side Story) by Leonard Bernstein", "placement": "28th Place", "score": 64.150},
+   {"year": 1983, "showTitle": "", "repertoire": "The Heat's On by Sammy Nestico / Mars (from The Planets) by Gustav Holst / Night on Bald Mountain by Modest Mussorgsky / Jupiter (from The Planets) by Gustav Holst / I Believe in Love (from A Star is Born) by Kenny Loggins & Alan and Marilyn Bergman / Evergreen (from A Star is Born) by Barbra Streisand & Paul Williams / E.T. (from E.T.) by John Williams", "placement": "33rd Place", "score": 45.450},
+   {"year": 1984, "showTitle": "", "repertoire": "Ritual Fire Dance (from El Amor Brujo) by Manuel de Falla / All Night Long by Lionel Richie / Rio by Mack David, Oswaldo Santiago & Alcyr Pires Vermelho / Ballet in Brass by Vic Schoen / Evergreen (from A Star is Born) by Barbra Streisand & Paul Williams / Mambo (from West Side Story) by Leonard Bernstein", "placement": "37th Place", "score": 72.800},
+   {"year": 1985, "showTitle": "", "repertoire": "Repertoire unavailable", "placement": "35th Place", "score": 61.400},
+   {"year": 1986, "showTitle": "", "repertoire": "Repertoire unavailable", "placement": "30th Place", "score": 67.700},
+   {"year": 1988, "showTitle": "", "repertoire": "Repertoire unavailable", "placement": "Did not attend DCI", "score": null}
+ ]
+}

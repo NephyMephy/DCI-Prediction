@@ -1,0 +1,53 @@
+{
+ "location": [
+   {
+     "city": "San Marcos",
+     "state": "TX", 
+     "year": "2012"
+   },
+   {
+     "city": "Seguin",
+     "state": "TX", 
+     "year": "2013-2015"
+   },
+   {
+     "city": "Houston",
+     "state": "TX", 
+     "year": "2015-2022"
+   },
+   {
+     "city": "Dallas–Fort Worth Metroplex",
+     "state": "TX", 
+     "year": "2022"
+   },
+   {
+     "city": "San Antonio",
+     "state": "TX", 
+     "year": "2022-2024"
+   }
+ ],
+ "formerNames": [
+   "Central Texas Drum Corps Initiative"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "www.guardiansdbc.org",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2013", "className": "SoundSport"},
+   {"circuit": "DCI", "years": "2014-2024", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2013, "showTitle": "The Eternal Quest", "repertoire": "Apocalyptic (Symphony No. 8) by Anton Bruckner / Symphony No. 2 (Resurrection) by Gustav Mahler / Nimrod (from Enigma Variations) by Edward Elgar / Children's March (Over the Hills and Far Away) by Percy Grainger", "placement": "Did not attend DCI", "score": null},
+   {"year": 2014, "showTitle": "Terra Nova", "repertoire": "Ecstatic Waters by Steven Bryant / Third Symphony, Mvt. 2 Allegro Molto by Aaron Copland / Symphony No. 2 (Resurrection) by Gustav Mahler / Daphnis and Chloé - Scene 3 by Maurice Ravel / Old Hundredth (Doxology) by Loys Bourgeois / Original Music by Daniel Montoya Jr. & Sarah Santa Cruz", "placement": "", "score": null},
+   {"year": 2015, "showTitle": "Light of Gold", "repertoire": "Grand Piano Music, Part II: On the Dominant Divide by John Adams / Toccata and Fugue in D Minor by Johann Sebastian Bach / Lux Aurumque by Eric Whitacre / Original Music by Daniel Montoya Jr. & Robbie Green", "placement": "", "score": null},
+   {"year": 2016, "showTitle": "Radioactive", "repertoire": "Symphonie Fantastique, Op. 14 by Hector Berlioz / Radioactive by Melvyn Gonzalez, Alexander Grant, Ben McKee. Josh Mosser, Dan Platzman, Dan Reynolds & Wayne Sermon (Imagine Dragons) / Radioactive by Daniel Montoya Jr. & Benjamin Pyles / The Adoration of Veless and Ala (from Scythian Suite) by Sergei Prokofiev / Creep by Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien & Phil Selway (Radiohead); Albert Hammond & Mike Hazlewood / Everything In Its Right Place by Thom Yorke (Radiohead) / The National Anthem by Thom Yorke, Colin Greenwood & Phil Selway (Radiohead) / Church Windows, Mvt. II by Ottorino Respighi / Toxic by Cathy Dennis, Christian Karlsson, Pontus Winnberg & Henrik Jonback / Original Music by Daniel Montoya Jr. & Robbie Green", "placement": "11th Place Open Class / 32nd Place World Class", "score": 64.450},
+   {"year": 2017, "showTitle": "My Beautiful Dark Twisted Fantasy", "repertoire": "Dark Fantasy by Kanye West, Robert Diggs (RZA), Ernest Wilson (No I.D.), Jeff Bhasker, Mike Dean, Malik Yusef Jones, Jon Anderson & Mike Oldfield / Power by Kanye West, Larry Griffin, Jr. (Symbolyc One), Dean Bhasker, Andwele Gardner (Dwele), Ken Lewis, Francois Bernheim, Jean-Pierre Lang, Boris Bergman, Robert Fripp, Michael Giles, Greg Lake, Ian McDonald & Peter Sinfield / Heartless by Kanye West, Ernest Wilson, Scott Mescudi (Kid Cudi) & Malik Yusef Jones / All of the Lights by Kanye West, Dean Bhasker, Malik Yusef Jones & Warren Trotter (Really Doe) / Runaway by Kanye West, Terrence Thornton (Pusha T), Emile Haynie, Jeff Bhasker, Mike Dean & John Roger Branch / Symphony in B♭ & Symphonic Metamorphosis of Themes by Carl Maria von Weber by Paul Hindemith, Original Music by Daniel Montoya Jr., Doug Bush & Patricia Islas", "placement": "10th Place Open Class / 33rd Place World Class", "score": 69.738},
+   {"year": 2018, "showTitle": "Damned", "repertoire": "Halo by Ryan Tedder, Evan Bogart & Beyoncé Knowles / Cocoa Butter Kisses by Chancelor Jonathan Bennett (Chance the Rapper) / Sunrise by Donald Glover (Childish Gambino) / Sweatpants by Donald Glover, Ludwig Göransson & Jason Martin (Problem) / Praying by Kesha Sebert, Andrew Joslyn, Ben Abraham & Ryan Lewis / HUMBLE. by Kendrick Lamar Duckworth, Michael Williams (Mike Will Made It & Asheton Hogan / Symphony No. 2 in C Minor (Resurrection) by Gustav Mahler / H•a•m by Shawn Carter (Jay-Z), Kanye West & Lexus Lewis (Lex Luger / No Church In the Wild by James Brown, Shawn Carter, Michael Dean, Christopher Francis (Frank Ocean), Phil Manzanera, Terius Nash (The-Dream), Charles Njapa (88-Keys), Joseph Roach, Kanye West & Gary Wright / Original Music by Daniel Montoya Jr., Doug Bush & Patricia Islas", "placement": "7th Place Open Class / 29th Place World Class", "score": 71.875},
+   {"year": 2019, "showTitle": "Unpeeled", "repertoire": "Palladio by Karl Jenkins / Top Hat, White Tie, and Tails by Irving Berlin / Suit & Tie by Justin Timberlake / Across the Universe by John Lennon / La Valse à Mille Temps by Jacques Brel", "placement": "7th Place Open Class / 29th Place World Class", "score": 73.575},
+   {"year": 2021, "showTitle": "Contrary", "repertoire": "Theme from The Phantom of the Opera by Andrew Lloyd Webber / Back That Azz Up by Juvenile / Careless Whisper by George Michael & Andrew Ridgely (Wham!) / Work It by Missy Elliott / Original Music by Ben Hylton, Matt Penland, & Tyler Sammons", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "From Scratch...", "repertoire": "Turning Tables by Adele / Total Eclipse of the Heart by Bonnie Tyler / Y'all Get Back Now by Big Freedia / Original Music by Ben Hylton, Matt Penland & Tyler Sammons", "placement": "5th Place Open Class / 24th Place World Class", "score": 79.213},
+   {"year": 2023, "showTitle": "i know the end.", "repertoire": "Sound & Color by Alabama Shakes / X. Adjuah (I Own The Night) by Chief Xian aTunde Adjuah (Christian Scott) / Everything in its Right Place by Radiohead / Welcome to the Black Parade by My Chemical Romance / Original Music by Ben Hylton, Matt Penland & Tyler Sammons", "placement": "6th Place Open Class / 27th Place World Class", "score": 72.688},
+   {"year": 2024, "showTitle": "Going Places", "repertoire": "Clutch by Andrew David Perkins / Like Kids (from Cirque du Soleil's \"Volta\") by M83 / The Beating of our Hearts (from The Symphony of Us) by Pinar Toprak / What You Mean to Me (from Finding Neverland) by Scott Frankel", "placement": "Did not attend DCI", "score": null}
+ ]
+}

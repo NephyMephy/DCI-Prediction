@@ -1,0 +1,27 @@
+{
+ "location": [
+   {
+     "city": "Brooklyn",
+     "state": "NY", 
+     "year": "1914-1976"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [
+   {
+     "caption": "NY State Standstill Championships",
+     "years": [1954]
+   }
+ ],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1976", "className": "Open Class (World Class)"}
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "Music of Rogers and Hammerstein", "repertoire": "Oklahoma (from Oklahoma!) * Carousel * South Pacific * The Sound of Music * If I Loved You (from Carousel) * Walk On * Selections from The King and I", "placement": "", "score": null},
+   {"year": 1975, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "46th Place", "score": 45.300},
+   {"year": 1976, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "45th Place", "score": 57.500}
+ ]
+}

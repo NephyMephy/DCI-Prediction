@@ -1,0 +1,57 @@
+{
+ "location": [
+   {
+     "city": "Burlington",
+     "state": "NJ", 
+     "year": "1990-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "DCI Division II & III", "year": 2005, "score": 87.750, "showTitle": "Jesus Christ Superstar"}
+ ],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2008-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1991, "showTitle": "", "repertoire": "Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière / To the Last Whale by David Crosby & Graham Nash / Victory at Sea by Richard Rodgers", "placement": "Did not attend DCI", "score": null},
+   {"year": 1992, "showTitle": "", "repertoire": "Victory at Sea by Richard Rodgers", "placement": "19th Place*", "score": 54.700},
+   {"year": 1993, "showTitle": "Queen", "repertoire": "Who Wants To Live Forever & Flash's Theme (from Flash Gordon) by Brian May / Bicycle Race & Bohemian Rhapsody by Freddie Mercury", "placement": "15th Place*", "score": 69.100},
+   {"year": 1994, "showTitle": "Jesus Christ Superstar", "repertoire": "Overture, Heaven on Their Minds, I Don't Know How to Love Him, Simon Zealotes & Superstar All from Jesus Christ Superstar by Andrew Lloyd Webber & Tim Rice", "placement": "14th Place*", "score": 74.400},
+   {"year": 1995, "showTitle": "A Chorus Line", "repertoire": "I Hope I Get It, At The Ballet, Music and The Mirror & One All from A Chorus Line by Marvin Hamlisch & Edward Kleban", "placement": "11th Place*", "score": 77.300},
+   {"year": 1996, "showTitle": "Sidewalks of New York", "repertoire": "The Sidewalks of New York (East Side, West Side) by Charles B. Lawlor & James W. Blake / Take the 'A' Train by Billy Strayhorn / Harlem Nocturne by Earle Hagen & Dick Rogers / Central Park by Armando Anthony \"Chick\" Corea / Autumn in New York by Vernon Duke / (I'll Take) Manhattan by Richard Rodgers & Lorenz Hart / The Sidewalks of New York (Reprise) by Charles B. Lawlor & James W. Blake", "placement": "7th Place*", "score": 79.000},
+   {"year": 1997, "showTitle": "", "repertoire": "It Don't Mean a Thing (If It Ain't Got That Swing) by Duke Ellington & Irving Mills / Do Nothing Till You Hear From Me by Duke Ellington & Bob Russell / En Fuego (On Fire) by Michel Camilo / What a Wonderful World by Bob Thiele & George David Weiss / Air Mail Special by Benny Goodman, James Mundy & Charlie Christian", "placement": "14th Place*", "score": 79.500},
+   {"year": 1998, "showTitle": "A Solstice Celebration / Winter Solstice", "repertoire": "My Favorite Things (from The Sound Of Music) by Rodgers and Hammerstein / Sometimes in Winter by Steve Katz / O Holy Night by Adolphe Adam & John Sullivan Dwight / Snow by Irving Berlin", "placement": "8th Place*", "score": 81.500},
+   {"year": 1999, "showTitle": "A Trilogy of Darkness", "repertoire": "Master of Puppets by James Hetfield, Lars Ulrich, Cliff Burton & Kirk Hammett (Metallica) / Jazzhatten Suite by Oliver Nelson / Trilogy by Keith Emerson & Greg Lake", "placement": "6th Place*", "score": 84.400},
+   {"year": 2000, "showTitle": "Traditions and Innovations", "repertoire": "Piano Concerto No. 2 by Sergei Rachmaninoff / Kashmir by Jimmy Page, Robert Plant & John Bonham / Sunrise by Donna Jean Godchaux", "placement": "12th Place*", "score": 80.750},
+   {"year": 2001, "showTitle": "Pictures at an Exhibition", "repertoire": "Promenade, Gnomus, The Old Castle, The Hut of Baba-Yaga & The Great Gate of Kiev All from Pictures at an Exhibition by Modest Mussorgsky", "placement": "2nd Place*", "score": 88.500},
+   {"year": 2002, "showTitle": "Balance", "repertoire": "Festive Overture by Dmitri Shostakovich / Masque by W. Francis McBeth / Fifth Symphony, Mvt. 4 by Dmitri Shostakovich", "placement": "8th Place*", "score": 78.300},
+   {"year": 2003, "showTitle": "Carmina Burana", "repertoire": "Carminua Burana by Carl Orff", "placement": "4th Place*", "score": 81.200},
+   {"year": 2004, "showTitle": "Adams: A Sound Story", "repertoire": "Wild Nights of Harmonium, Short Ride in a Fast Machine, Harmonielehre - Mvt. III & Fearful Symmertries All by John Adams", "placement": "6th Place*", "score": 79.650},
+   {"year": 2005, "showTitle": "Jesus Christ Superstar", "repertoire": "Overture, Heaven on Our Minds, John 19:10, Garden of Gethsemene, Simon Zealotes & Jesus Christ Superstar All from Jesus Christ Superstar by Andrew Lloyd Webber & Tim Rice", "placement": "1st Place*", "score": 87.750},
+   {"year": 2006, "showTitle": "Coast to Coast", "repertoire": "Awayday by Adam Gorb / Letter from Home by Pat Metheny / Strawberry Soup by Don Ellis", "placement": "3rd Place*", "score": 80.500},
+   {"year": 2007, "showTitle": "West Side Story", "repertoire": "Prologue, Cool, I Have a Love, One Hand, One Heart, Mambo & Tonight All from West Side Story by Leonard Bernstein & Stephen Sondheim", "placement": "6th Place*", "score": 84.400},
+   {"year": 2008, "showTitle": "Deep Blue", "repertoire": "Selections from A Perfect Storm by James Horner / Original Music by Michael Hamilton & Colin Bell", "placement": "9th Place*", "score": 86.250},
+   {"year": 2009, "showTitle": "Isle of Hope", "repertoire": "American Elegy by Frank Ticheli / Hungarian Peasant Songs, Romanian Dance for Orchestra, Sz. 47a & Swineherds Dance by Béla Bartók / Gan Ainm (Traditional) / Barber of Seville by Gioachino Rossini", "placement": "6th Place*", "score": 88.250},
+   {"year": 2010, "showTitle": "Platinum Celebration", "repertoire": "Celebration Fanfare by Michael Hamilton / Exulate by Samuel Hazo / Exhilaration by Larry Clark / New Beginnings by Peter Boyer", "placement": "5th Place*", "score": 89.150},
+   {"year": 2011, "showTitle": "Blueecentric", "repertoire": "Blue Shades by Frank Ticheli / Bluesette by Toots Thielemans / Blue Rondo à la Turk & Bluette by Dave Brubeck / Rhapsody in Blue by George Gershwin", "placement": "35th Place", "score": 81.900},
+   {"year": 2012, "showTitle": "Warped", "repertoire": "Warped by Key Poulan", "placement": "32nd Place", "score": 82.000},
+   {"year": 2013, "showTitle": "The Raven: A Descent Into Madness", "repertoire": "The Raven by Key Poulan", "placement": "31st Place", "score": 84.950},
+   {"year": 2014, "showTitle": "Seasons of the Earth", "repertoire": "October by Eric Whitacre / Month of the Cold Moon by Roland Barrett / Into the Joy of Spring by James Swearingen / Kingfishers Catch Fire by John Mackey", "placement": "31st Place", "score": 69.100},
+   {"year": 2015, "showTitle": "From the Ashes", "repertoire": "Olympiada by Samuel Hazo / Fanfare - A Vision and A Dream by Ryan Nowlin / Our Yesterdays Lengthen Like Shadows by Samuel Hazo / Into The Light by Jay Bocook", "placement": "36th Place", "score": 63.600},
+   {"year": 2016, "showTitle": "Industrial Evolution", "repertoire": "Fearful Symmetries by John Adams / Hymn of Acxiom by Vienna Teng / Ballet Sacra by David Holsinger", "placement": "33rd Place", "score": 66.825},
+   {"year": 2017, "showTitle": "Iconic", "repertoire": "Who Wants to Live Forever by Brian May / Beat It by Michael Jackson / Let It Be by Lennon–McCartney / Runaway Baby by Bruno Mars, Philip Lawrence, Ari Levine & Brody Brown (The Smeezingtons) / Knights of Cydonia by Matt Bellamy / Bohemian Rhapsody by Freddie Mercury", "placement": "36th Place", "score": 64.975},
+   {"year": 2018, "showTitle": "Beowulf: The Rise of a Legend", "repertoire": "Beowulf: The Rise of a Legend by Jake Kaplan", "placement": "39th Place", "score": 62.675},
+   {"year": 2019, "showTitle": "Gateway to the Unknown", "repertoire": "Discovery of the Portal, The Conversation, The Veil of Isolation, Teleportation & Our Connected Universe All by Key Poulan, Dan Bryan & Travis Peterman", "placement": "35th Place", "score": 64.250},
+   {"year": 2020, "showTitle": "Season canceled due to the COVID-19 pandemic", "repertoire": "", "placement": "", "score": null},
+   {"year": 2021, "showTitle": "Opted out of competition for the season", "repertoire": "", "placement": "", "score": null},
+   {"year": 2022, "showTitle": "Use Your Imagination", "repertoire": "Pure Imagination by Leslie Bricusse & Anthony Newley / Hymn of Acxiom by Vienna Teng / Original Music by Key Poulan, Dan Bryan & Travis Peterman", "placement": "34th Place", "score": 67.625},
+   {"year": 2023, "showTitle": "Circus Reversus", "repertoire": "Blazes and Thunder, Trip to the Circus & Clowns the in Send by Key Poulan & Marc Garside / From Now On (from The Greatest Showman) by Justin Paul & Benj Pasek", "placement": "31st Place", "score": 68.650},
+   {"year": 2024, "showTitle": "Fan the Flame", "repertoire": "Spark by Ed Sheeran & Aaron Dessner / Raging Out of Control by Michael Terry / Fire of Eternal Glory by Dmitri Shostakovich / We Didn't Start the Fire by Billy Joel", "placement": "28th Place", "score": 73.375},
+   {"year": 2025, "showTitle": "Time is...Time{less}", "repertoire": "Time by Pink Floyd / Ebb & Flow by Michael Terry and Marc Garside / Time in a Bottle by Jim Croce / Clocks by Coldplay", "placement": "28th Place", "score": 72.200}
+ ]
+}

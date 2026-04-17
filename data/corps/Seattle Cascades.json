@@ -1,0 +1,90 @@
+{
+ "location": [
+   {
+     "city": "Seattle",
+     "state": "WA", 
+     "year": "1957-1985"
+   },
+      {
+     "city": "Seattle",
+     "state": "WA", 
+     "year": "1991-1996"
+   },
+      {
+     "city": "Seattle",
+     "state": "WA", 
+     "year": "1998-2007"
+   },
+      {
+     "city": "Seattle",
+     "state": "WA", 
+     "year": "2009-2019"
+   },
+      {
+     "city": "Seattle",
+     "state": "WA", 
+     "year": "2022-Present"
+   }
+ ],
+ "formerNames": [
+   "Greenwood Boys Club Drum and Bugle Corps",
+   "Seattle Thunderbirds",
+   "Cascade Cadets"
+ ],
+ "championships": [
+   {"circuit": "DCI Division II & III", "year": 2000, "score": 89.700, "showTitle": "At the Strongholds of En Gedi"}
+ ],
+ "captionAwards": [],
+ "website": "www.seattlecascades.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1991", "className": "Open Class/Class A60"},
+   {"circuit": "DCI", "years": "1992-2001", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2002-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "She'll Be Coming 'Round the Mountain (Traditional) / Shenandoah (Traditional) / Sweet Betsy from Pike by John A. Stone / Rodeo by Aaron Copland / Wild, Wild West by Richard Markowitz / Rawhide by Dimitri Tiomkin & Ned Washington / Bonanza by David Rose / Promised Land (from How the West Was Won) by Alfred Newman / Seattle (from Here Come the Brides) by Hugo Montenegro, Jack Keller & Ernie Sheldon", "placement": "Did not attend DCI", "score": null},
+   {"year": 1973, "showTitle": "", "repertoire": "Entry to the Coliseum by Michael Leckrone / Greensleeves (Traditional) / America, the Beautiful by Samuel A. Ward & Katharine Lee Bates / African Suite by Samuel Coleridge-Taylor / Sabbath Prayer (from Fiddler on the Roof) by Jerry Bock & Sheldon Harnick", "placement": "Did not attend DCI", "score": null},
+   {"year": 1974, "showTitle": "", "repertoire": "Soul Sacrifice by David Brown, Marcus Malone, Gregg Rolie & Carlos Santana (Santana) / African Suite by Samuel Coleridge-Taylor / Sabbath Prayer (from Fiddler on the Roof) by Jerry Bock & Sheldon Harnick / El Gato Triste by Chuck Mangione / Requiem for an Era by Truman Crawford", "placement": "Did not attend DCI", "score": null},
+   {"year": 1975, "showTitle": "", "repertoire": "Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière / Gospel John by Jill Steinberg / Requiem for an Era by Truman Crawford", "placement": "Did not attend DCI", "score": null},
+   {"year": 1976, "showTitle": "", "repertoire": "The Sinfonians by Clifton Williams / Karn Evil 9 – Second Impression by Keith Emerson, Greg Lake & Peter Sinfield / Rain on My Parade (from Funny Girl) by Bob Merrill & Jule Styne / El Gato Triste by Chuck Mangione", "placement": "Did not attend DCI", "score": null},
+   {"year": 1977, "showTitle": "", "repertoire": "Nutville by Horace Ward Martin Tavares Silva (Horace Silver) / El Gato Triste by Chuck Mangione / Selections from The Wizard of Oz by Harold Arlen & E.Y. \"Yip\" Harburg / Home (from The Wiz) by Charlie Smalls", "placement": "45th Place", "score": 52.300},
+   {"year": 1978, "showTitle": "", "repertoire": "The Flintstones Theme by Hoyt Curtin / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Medley from The Wiz by Charlie Smalls", "placement": "34th Place", "score": 64.450},
+   {"year": 1979, "showTitle": "", "repertoire": "Brand New Day (from The Wiz) by Charlie Smalls / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / If You Believe, Mean Old Lion & Home (from The Wiz) by Charlie Smalls", "placement": "Did not attend DCI", "score": null},
+   {"year": 1982, "showTitle": "", "repertoire": "Explosions / Macarena / Late in the Evening by Paul Simon / Spies in the Night by David Foster & Jay Graydon", "placement": "Did not attend DCI", "score": null},
+   {"year": 1983, "showTitle": "", "repertoire": "Explosions / El Gato Triste by Chuck Mangione / Whistling Midgets by Tom Collier & Dan Dean / Stoney End by Laura Nyro / Just Once by Barry Mann & Cynthia Weil", "placement": "Did not attend DCI", "score": null},
+   {"year": 1984, "showTitle": "", "repertoire": "When You Wish Upon a Star (from Pinocchio) by Leigh Harline & Ned Washington / Someday My Prince Will Come (from Snow White and the Seven Dwarfs) by Frank Churchill & Larry Morey / Zip-a-Dee-Doo-Dah (from Song of the South) by Allie Wrubel & Ray Gilbert / Alice in Wonderland & Very Good Advice (from Alice in Wonderland) by Sammy Fain & Bob Hilliard", "placement": "Did not attend DCI", "score": null},
+   {"year": 1985, "showTitle": "", "repertoire": "Repertoire unavailable", "placement": "15th Place", "score": 37.000},
+   {"year": 1991, "showTitle": "Gershwin", "repertoire": "Selections by George Gershwin", "placement": "12th Place", "score": 60.000},
+   {"year": 1992, "showTitle": "Kismet", "repertoire": "The Sands of Time, Gesticulate, Zubbediyah & Strangers in Paradise All from Kismet by Robert Wright & George Forrest, adapted from the works of Alexander Borodin", "placement": "17th Place", "score": 54.200},
+   {"year": 1993, "showTitle": "A Riverboat/Showboat", "repertoire": "Ol' Man River (from Show Boat) by Jerome Kern & Oscar Hammerstein II / Waiting for the Robert E. Lee by Lewis F. Muir & L. Wolfe Gilbert / Proud Mary by John Fogerty", "placement": "14th Place", "score": 70.000},
+   {"year": 1994, "showTitle": "A Day in Paris", "repertoire": "La Vie en Rose by Louiguy, Marguerite Monnot & Édith Piaf / Claire de Lune by Claude Debussy / Scherzo by John Cheetham", "placement": "17th Place", "score": 71.800},
+   {"year": 1995, "showTitle": "Salute to Elton John", "repertoire": "Goodbye Yellow Brick Road & Saturday Night's Alright For Fighting by Elton John & Bernie Taupin / Funeral For a Friend by Elton John / Candle in the Wind by Elton John & Bernie Taupin", "placement": "10th Place", "score": 79.700},
+   {"year": 1996, "showTitle": "Salute to the Beatles", "repertoire": "Lucy in the Sky With Diamonds, Magical Mystery Tour & \"Eleanor Rigby\" by Lennon–McCartney / Imagine by John Lennon", "placement": "6th Place", "score": 86.600},
+   {"year": 1998, "showTitle": "The Music of Chicago", "repertoire": "Does Anybody Really Know What Time It Is? & Listen by Robert Lamm / Someday by James Pankow & Robert Lamm / Beginnings by Robert Lamm", "placement": "9th Place", "score": 83.800},
+   {"year": 1999, "showTitle": "Technological Evolution: A Fable in Four Acts", "repertoire": "The Innocents, The March of Civilization, The Mechanized Society & The Awakening All by Pat Metheney & Lyle Mays", "placement": "6th Place", "score": 88.800},
+   {"year": 2000, "showTitle": "At the Strongholds of En Gedi", "repertoire": "At the Strongholds of En Gedi, Prelude and Rondo & Liturgical Dances by David Holsinger / Endurance by Timothy Mahr / Gymnway's Revenge by David Holsinger", "placement": "23rd Place", "score": 89.700},
+   {"year": 2001, "showTitle": "The Veneration", "repertoire": "Abram's Pursuit, Helm Toccata & The Armies of the Omnipresent Otserf All by David Holsinger", "placement": "17th Place", "score": 96.700},
+   {"year": 2002, "showTitle": "City Riffs: The Music of Leonard Bernstein", "repertoire": "On the Town, Profanation (from The Jeremiah Symphony), Simple Song (from Mass), Riffs (from Prelude, Fugue, and Riffs) & Make Our Garden Grow (from Candide) All by Leonard Bernstein", "placement": "12th Place", "score": 84.050},
+   {"year": 2003, "showTitle": "Festiva Danza", "repertoire": "Huapango by José Pablo Moncayo / Harp Concerto by Alberto Ginastera / Oblivion & Libertango by Astor Piazzolla / El Salon Mexico by Aaron Copland", "placement": "15th Place", "score": 81.650},
+   {"year": 2004, "showTitle": "Nature's Confession", "repertoire": "Distant Showers by Scott Boerma & Rob Lewis / Savannah River Holiday by Ron Nelson / The Birth by Benoît Jutras / Allegro Impetuoso by Václav Nelhýbel / All Things Bright and Beautiful by John Rutter", "placement": "15th Place", "score": 81.800},
+   {"year": 2005, "showTitle": "Airborne Symphony", "repertoire": "Airborne Symphony by Marc Blitzstein / Aerodynamics by David Gillingham / Weeping Willow by Scott Joplin / Redline Tango by John Mackey / Stairway To Heaven by Jimmy Page & Robert Plant", "placement": "17th Place", "score": 78.100},
+   {"year": 2006, "showTitle": "Redemption", "repertoire": "Ghosts by Stephen McNeff / Second String Quartet by Béla Bartók / Dance Movement No. 1 by Russ Newbury / Lux Arumque by Eric Whitacre / Ra! by David Dzubay", "placement": "19th Place", "score": 75.525},
+   {"year": 2007, "showTitle": "Three", "repertoire": "Postcards by Frank Ticheli / Sleep by Eric Whitacre / V2 Schneider by Philip Glass", "placement": "18th Place", "score": 80.100},
+   {"year": 2009, "showTitle": "Beyond the Forest", "repertoire": "Into The Forest / Selections from Pan's Labyrinth by Javier Navarrete / Tangiers (from The Bourne Ultimatum) by John Powell / Not While I'm Around (from Sweeney Todd) by Stephen Sondheim / Make Our Garden Grow (from Candide) by Leonard Bernstein", "placement": "22nd Place", "score": 74.950},
+   {"year": 2010, "showTitle": "Silver Lining", "repertoire": "Cloudsplitter Fanfare by Jack Stamp / Allegro Impetuoso (from Two Symphonic Movements) by Václav Nelhýbel / River Flows in You by Yiruma / Hope Awakes by Josh Hinkle / The Sun Will Come Out Tomorrow by Charles Strouse & Martin Charnin", "placement": "22nd Place", "score": 74.600},
+   {"year": 2011, "showTitle": "Pandora, a Dark Gift", "repertoire": "Pandora - A Dark Gift by Josh Hinkle & Chris Grant / My Immortal by Ben Moody & Amy Lee", "placement": "24th Place", "score": 72.200},
+   {"year": 2012, "showTitle": "Shinto", "repertoire": "Kingfishers Catch Fire by John Mackey / Panda Po (from Kung Fu Panda) by Hans Zimmer / Shogun by John Powell", "placement": "25th Place", "score": 68.750},
+   {"year": 2013, "showTitle": "Inescapable", "repertoire": "Solar Sailor (from Tron: Legacy) by Guy-Manuel de Homem-Christo & Thomas Bangalter (Daft Punk) / Original Music by Lewis Norfleet", "placement": "27th Place", "score": 69.850},
+   {"year": 2014, "showTitle": "Turn", "repertoire": "Summertime (from Porgy and Bess) by George Gershwin / Firebird by Igor Stravinsky / Turn! Turn! Turn! by Pete Seeger / Carol of the Bells by Mykola Leontovych & Peter J. Wilhousky / Dies Irae (from Requiem) by Giuseppe Verdi / The Rite of Spring by Igor Stravinsky / Simple Gifts by Joseph Brackett", "placement": "26th Place", "score": 72.250},
+   {"year": 2015, "showTitle": "Intergalactic", "repertoire": "Mars (from The Planets) by Gustav Holst / Enterprising Young Men (from Star Trek) by Michael Giacchino / Short Ride in a Fast Machine by John Adams / Black Hole Sun by Chris Cornell / Venus, Mercury & Jupiter (from The Planets) by Gustav Holst / Intergalactic by Michael Diamond, Adam Yauch & Adam Horovitz (Beastie Boys) and Mario Caldato Jr. / To Boldly Go (from Star Trek) by Michael Giacchino / Theme from Star Trek by Alexander Courage", "placement": "24th Place", "score": 71.075},
+   {"year": 2016, "showTitle": "O", "repertoire": "Apollo Unleashed from Symphony No. 2 by Frank Ticheli / The Moment I Said It by Imogen Heap / Orawa by Wojciech Kilar", "placement": "22nd Place", "score": 75.150},
+   {"year": 2017, "showTitle": "Set Free", "repertoire": "1000 Airplanes on the Roof, Labyrinth & Scenes of Memory by Philip Glass / Symphony No. 10, Mvt. 2 by Dmitri Shostakovich / Bird Set Free by Sia / Free Bird by Allen Collins & Ronnie Van Zant (Lynyrd Skynyrd) / Fly to Paradise by Eric Whitacre / Caged Bird (Poem) by Maya Angelou", "placement": "26th Place", "score": 74.125},
+   {"year": 2018, "showTitle": "What Goes Around", "repertoire": "Wound Up, Spin Moves, Infinite Echoes & Unraveled by Key Poulan, Micah Brusse, Alex Brinkley & Kaela Shoe / Ave Maria by Franz Schubert / What Goes Around... Comes Around by Justin Timberlake, Tim Mosley & Nathaniel Hills / Around the World by Guy-Manuel de Homem-Christo & Thomas Bangalter (Daft Punk)", "placement": "27th Place", "score": 71.963},
+   {"year": 2019, "showTitle": "Off the Grid", "repertoire": "Off the Grid by Brandon Smith / Asphalt Cocktail by John Mackey / I've Got the World on a String by Harold Arlen & Ted Koehler / Never Gonna Give You Up by Matt Aitken, Mike Stock & Pete Waterman / Nitro by Frank Ticheli / High Wire by John Mackey", "placement": "25th Place", "score": 73.275},
+   {"year": 2023, "showTitle": "Revival", "repertoire": "Bad Moon Rising by Mourning Ritual / Stained Glass by David Gillingham / Angels in the Architecture by Frank Ticheli / I Will Follow You Into the Dark by Death Cab for Cutie / Revival (Interlude) by Eminem", "placement": "25th Place", "score": 73.925},
+   {"year": 2024, "showTitle": "Sky Above", "repertoire": "Across The Universe by The Beatles / Out of The Blue by Nigel Westlake / Kaval Sviri (The Flute Plays) by Bulgarian State Television Female Vocal Choir / Sky Above by Jacob Collier / Imagine by John Lennon", "placement": "23rd Place", "score": 76.075},
+   {"year": 2025, "showTitle": "Primary", "repertoire": "Yellow by Coldplay / Butterfly by BTS / Love You like a Love Song by Selena Gomez / A Million Miles Away (from Belle) by Mamoru Hosoda, Kaho Nakamura & Taisei Iwasaki / Original music by Jeff Chambers & Eric Yahrmarkt / Usseewa by Ado / Shikabane no Odori by Kikuo / My Universe by Coldplay & BTS", "placement": "23rd Place", "score": 77.050}
+ ]
+}

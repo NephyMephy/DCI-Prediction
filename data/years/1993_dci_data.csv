@@ -1,0 +1,1820 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/12,Menasha,WI,1,Madison Scouts,World Class,65.2,1993
+06/12,Dublin,CA,1,Blue Devils,World Class,66.1,1993
+06/13,Bayonne,NJ,1,Bushwackers,World Class,58.08,1993
+06/13,Normal,IL,1,Cavaliers,World Class,68.1,1993
+06/12,Menasha,WI,2,Colts,World Class,55.8,1993
+06/12,Dublin,CA,2,Vanguard,World Class,56.1,1993
+06/13,Bayonne,NJ,2,Hawthorne Caballeros,World Class,57.855,1993
+06/13,Normal,IL,2,Madison Scouts,World Class,65.4,1993
+06/12,Menasha,WI,3,Nite Express,World Class,41.2,1993
+06/12,Dublin,CA,3,Freelancers,World Class,46.8,1993
+06/13,Bayonne,NJ,3,Connecticut Hurricanes,World Class,52.58,1993
+06/13,Normal,IL,3,Colts,World Class,57.5,1993
+06/12,Menasha,WI,4,Americanos,World Class,35.1,1993
+06/13,Bayonne,NJ,4,New York Skyliners,World Class,46.67,1993
+06/13,Normal,IL,4,Pioneer,World Class,47.6,1993
+06/12,Menasha,WI,5,Blue Stars,World Class,34.0,1993
+06/12,Dublin,CA,1,Vanguard Cadets,World Class,50.6,1993
+06/13,Bayonne,NJ,5,Chieftains,World Class,30.55,1993
+06/13,Normal,IL,5,CapitolAires,World Class,43.3,1993
+06/12,Dublin,CA,2,Mandarins,World Class,49.9,1993
+06/13,Normal,IL,6,Nite Express,World Class,41.0,1993
+06/12,Dublin,CA,3,Blue Devils B,World Class,41.2,1993
+06/13,Normal,IL,7,Chicago Vanguard,World Class,26.6,1993
+06/18,Indianapolis,IN,1,Star of Indiana,World Class,72.9,1993
+06/18,Oswego,IL,1,Phantom Regiment,World Class,67.0,1993
+06/18,LaMiranda,CA,1,Cavaliers,World Class,70.6,1993
+06/18,Malden,MA,1,Buccaneers,World Class,61.6,1993
+06/18,Indianapolis,IN,2,Blue Knights,World Class,63.0,1993
+06/18,Oswego,IL,2,Minnesota Brass,World Class,53.6,1993
+06/18,LaMiranda,CA,2,Blue Devils,World Class,68.0,1993
+06/18,Malden,MA,2,East Coast Jazz,World Class,57.2,1993
+06/18,Indianapolis,IN,3,Glassmen,World Class,58.4,1993
+06/18,Oswego,IL,3,CapitolAires,World Class,42.6,1993
+06/18,LaMiranda,CA,3,Velvet Knights,World Class,58.0,1993
+06/18,Malden,MA,3,Satellites,World Class,46.0,1993
+06/18,Indianapolis,IN,4,Colts,World Class,56.4,1993
+06/18,Oswego,IL,4,Blue Stars,World Class,36.9,1993
+06/18,LaMiranda,CA,4,Freelancers,World Class,50.4,1993
+06/18,Indianapolis,IN,5,Sky Ryders,World Class,54.7,1993
+06/18,Oswego,IL,5,Americanos,World Class,34.4,1993
+06/18,Malden,MA,1,Phoenix,World Class,67.1,1993
+06/18,Indianapolis,IN,6,Knights,World Class,32.0,1993
+06/18,Oswego,IL,6,Phantom Regiment Cadets,World Class,33.6,1993
+06/18,LaMiranda,CA,1,Vanguard Cadets,World Class,56.4,1993
+06/18,Malden,MA,2,Citations,World Class,62.4,1993
+06/18,Indianapolis,IN,7,Bluegrass Brass,World Class,31.2,1993
+06/18,Oswego,IL,7,Guardsmen,World Class,20.4,1993
+06/18,Malden,MA,3,Royal Cadets,World Class,61.9,1993
+06/18,Malden,MA,4,Joanettes,World Class,57.4,1993
+06/18,Malden,MA,1,East Coast Cadets,World Class,50.6,1993
+06/19,Terre Haute,IN,1,Star of Indiana,World Class,73.5,1993
+06/19,Waterbury,CT,1,Bushwackers,World Class,71.6,1993
+06/19,Riverside,CA,1,Cavaliers,World Class,72.6,1993
+06/19,St-Hyacinth,Quebec,1,Pers-Clairs,World Class,83.3,1993
+06/19,Terre Haute,IN,2,Glassmen,World Class,59.7,1993
+06/19,Waterbury,CT,2,Hawthorne Caballeros,World Class,67.1,1993
+06/19,Riverside,CA,2,Blue Devils,World Class,70.2,1993
+06/19,St-Hyacinth,Quebec,2,Majestic,World Class,68.7,1993
+06/19,Terre Haute,IN,3,Colts,World Class,58.3,1993
+06/19,Waterbury,CT,3,Connecticut Hurricanes,World Class,63.4,1993
+06/19,Riverside,CA,3,Velvet Knights,World Class,61.3,1993
+06/19,St-Hyacinth,Quebec,3,Multi-Visions,World Class,61.0,1993
+06/19,Terre Haute,IN,4,Sky Ryders,World Class,46.5,1993
+06/19,Waterbury,CT,4,Reading Buccaneers,World Class,56.4,1993
+06/19,Riverside,CA,4,Freelancers,World Class,54.3,1993
+06/19,St-Hyacinth,Quebec,4,Princesses,World Class,58.5,1993
+06/19,Terre Haute,IN,5,Phantom Regiment Cadets,World Class,33.0,1993
+06/19,Waterbury,CT,5,New York Skyliners,World Class,55.2,1993
+06/19,Terre Haute,IN,6,Knights,World Class,32.1,1993
+06/19,Waterbury,CT,6,Capitol Brass Ensemble,World Class,42.9,1993
+06/19,Riverside,CA,1,Vanguard Cadets,World Class,60.7,1993
+06/19,St-Hyacinth,Quebec,1,Preludes,World Class,61.3,1993
+06/19,Terre Haute,IN,7,Bluegrass Brass,World Class,27.6,1993
+06/19,Waterbury,CT,7,Chieftains,World Class,35.9,1993
+06/19,Riverside,CA,2,Mandarins,World Class,56.2,1993
+06/19,St-Hyacinth,Quebec,2,Arc en Ciel,World Class,59.3,1993
+06/19,Terre Haute,IN,8,Royalaires,World Class,23.9,1993
+06/19,St-Hyacinth,Quebec,3,Les Melogammes,World Class,58.1,1993
+06/19,St-Hyacinth,Quebec,4,Dynamiques,World Class,53.0,1993
+06/19,St-Hyacinth,Quebec,5,Feux-Follets,World Class,30.5,1993
+06/19,Rochester,NY,1,Spartans,World Class,54.4,1993
+06/20,Toledo,OH,1,Star of Indiana,World Class,72.5,1993
+06/20,Costa Mesa,CA,1,Cavaliers,World Class,75.1,1993
+06/20,Scarborough,Ontario,1,Spartans,World Class,58.6,1993
+06/19,Rochester,NY,2,Kiwanis Kavaliers,World Class,50.0,1993
+06/20,Toledo,OH,2,Madison Scouts,World Class,67.9,1993
+06/20,Costa Mesa,CA,2,Blue Devils,World Class,72.8,1993
+06/20,Scarborough,Ontario,2,Kiwanis Kavaliers,World Class,55.6,1993
+06/19,Rochester,NY,3,Patriots,World Class,45.8,1993
+06/20,Toledo,OH,3,Phantom Regiment,World Class,67.8,1993
+06/20,Costa Mesa,CA,3,Velvet Knights,World Class,64.0,1993
+06/20,Scarborough,Ontario,3,Cardinals,World Class,51.2,1993
+06/19,Rochester,NY,4,Saint John's,World Class,45.5,1993
+06/20,Toledo,OH,4,Bluecoats,World Class,59.8,1993
+06/20,Costa Mesa,CA,4,Freelancers,World Class,56.9,1993
+06/20,Scarborough,Ontario,4,Patriots,World Class,51.0,1993
+06/19,Rochester,NY,5,Cardinals,World Class,43.3,1993
+06/20,Toledo,OH,5,Colts,World Class,58.7,1993
+06/20,Scarborough,Ontario,5,Saint John's,World Class,48.2,1993
+06/19,Rochester,NY,6,Royal Columbians,World Class,41.4,1993
+06/20,Toledo,OH,6,Glassmen,World Class,58.6,1993
+06/20,Costa Mesa,CA,1,Vanguard Cadets,World Class,61.7,1993
+06/20,Scarborough,Ontario,6,Conqueror II,World Class,47.3,1993
+06/19,Rochester,NY,7,Conqueror II,World Class,38.3,1993
+06/20,Toledo,OH,7,Northern Aurora,World Class,49.3,1993
+06/20,Costa Mesa,CA,2,Mandarins,World Class,58.3,1993
+06/20,Scarborough,Ontario,7,Royal Columbians,World Class,46.6,1993
+06/20,Toledo,OH,8,Pioneer,World Class,44.5,1993
+06/20,Toledo,OH,9,Bluegrass Brass,World Class,24.0,1993
+06/21,Mansfield,OH,1,Madison Scouts,World Class,68.3,1993
+06/22,Dublin,OH,1,Star of Indiana,World Class,73.5,1993
+06/22,Saginaw,MI,1,Phantom Regiment,World Class,69.6,1993
+06/23,Otsego,MI,1,Phantom Regiment,World Class,71.7,1993
+06/21,Mansfield,OH,2,Bluecoats,World Class,61.2,1993
+06/22,Dublin,OH,2,Blue Knights,World Class,59.9,1993
+06/22,Saginaw,MI,2,Colts,World Class,61.0,1993
+06/23,Otsego,MI,2,Madison Scouts,World Class,71.1,1993
+06/21,Mansfield,OH,3,Glassmen,World Class,59.0,1993
+06/22,Dublin,OH,3,Glassmen,World Class,59.1,1993
+06/22,Saginaw,MI,3,Northern Aurora,World Class,54.1,1993
+06/23,Otsego,MI,3,Colts,World Class,61.4,1993
+06/21,Mansfield,OH,4,Northern Aurora,World Class,50.4,1993
+06/22,Dublin,OH,4,Sky Ryders,World Class,53.7,1993
+06/22,Saginaw,MI,4,Pioneer,World Class,49.6,1993
+06/23,Otsego,MI,4,Sky Ryders,World Class,56.6,1993
+06/21,Mansfield,OH,5,Knights,World Class,35.9,1993
+06/22,Dublin,OH,5,Knights,World Class,37.0,1993
+06/22,Saginaw,MI,5,Blue Stars,World Class,38.1,1993
+06/23,Otsego,MI,5,Northern Aurora,World Class,52.9,1993
+06/21,Mansfield,OH,6,Golden Lancers,World Class,34.4,1993
+06/22,Dublin,OH,6,Golden Lancers,World Class,32.3,1993
+06/22,Saginaw,MI,6,Phantom Regiment Cadets,World Class,34.2,1993
+06/23,Otsego,MI,6,Pioneer,World Class,49.8,1993
+06/21,Mansfield,OH,7,12th Command,World Class,29.8,1993
+06/22,Dublin,OH,7,Marion Cadets,World Class,21.5,1993
+06/22,Saginaw,MI,7,12th Command,World Class,28.6,1993
+06/23,Otsego,MI,7,Blue Stars,World Class,38.6,1993
+06/23,Otsego,MI,8,Phantom Regiment Cadets,World Class,32.6,1993
+06/23,Otsego,MI,9,12th Command,World Class,28.1,1993
+06/23,Merced,CA,1,Cavaliers,World Class,77.1,1993
+06/24,Massillon,OH,1,Phantom Regiment,World Class,72.0,1993
+06/24,Streator,IL,1,Madison Scouts,World Class,71.1,1993
+06/25,Pittsburgh,PA,1,Cadets,World Class,74.1,1993
+06/23,Merced,CA,2,Blue Devils,World Class,73.5,1993
+06/24,Massillon,OH,2,Bluecoats,World Class,62.9,1993
+06/24,Streator,IL,2,Blue Knights,World Class,68.1,1993
+06/25,Pittsburgh,PA,2,Phantom Regiment,World Class,73.7,1993
+06/23,Merced,CA,3,Velvet Knights,World Class,65.4,1993
+06/24,Massillon,OH,3,Glassmen,World Class,61.6,1993
+06/24,Streator,IL,3,Colts,World Class,62.2,1993
+06/25,Pittsburgh,PA,3,Crossmen,World Class,70.7,1993
+06/24,Massillon,OH,4,Golden Lancers,World Class,33.1,1993
+06/24,Streator,IL,4,Sky Ryders,World Class,60.3,1993
+06/25,Pittsburgh,PA,4,Glassmen,World Class,62.4,1993
+06/23,Merced,CA,1,Vanguard Cadets,World Class,61.1,1993
+06/24,Massillon,OH,5,12th Command,World Class,32.8,1993
+06/24,Streator,IL,5,Pioneer,World Class,53.5,1993
+06/23,Merced,CA,2,Mandarins,World Class,57.7,1993
+06/24,Streator,IL,6,Railmen,World Class,49.7,1993
+06/25,Pittsburgh,PA,1,Kiwanis Kavaliers,World Class,52.7,1993
+06/23,Merced,CA,3,Blue Devils B,World Class,52.1,1993
+06/24,Streator,IL,7,Phantom Regiment Cadets,World Class,39.7,1993
+06/25,Pittsburgh,PA,2,Golden Lancers,World Class,50.1,1993
+06/24,Streator,IL,8,Colt Cadets,World Class,33.2,1993
+06/25,Pittsburgh,PA,3,12th Command,World Class,41.4,1993
+06/24,Streator,IL,9,Madison Junior Scouts,World Class,32.7,1993
+06/24,Streator,IL,10,Northmen,World Class,22.9,1993
+06/25,LaCrosse,WI,1,Madison Scouts,World Class,71.0,1993
+06/25,Clearwater,FL,1,Star of Indiana,World Class,77.1,1993
+06/25,Hayward,CA,1,Cavaliers,World Class,75.9,1993
+06/25,Brantford,Ontario,1,Dutch Boy Cadets,World Class,46.1,1993
+06/25,LaCrosse,WI,2,Colts,World Class,61.7,1993
+06/25,Clearwater,FL,2,Spirit of Georgia,World Class,64.0,1993
+06/25,Hayward,CA,2,Blue Devils,World Class,73.5,1993
+06/25,Brantford,Ontario,2,Royal Cadets,World Class,34.6,1993
+06/25,LaCrosse,WI,3,CapitolAires,World Class,47.5,1993
+06/25,Clearwater,FL,3,Southwind,World Class,57.5,1993
+06/25,Hayward,CA,3,Vanguard,World Class,67.0,1993
+06/25,Brantford,Ontario,3,Emerald Knights,World Class,26.9,1993
+06/25,LaCrosse,WI,4,Nite Express,World Class,44.5,1993
+06/25,Clearwater,FL,4,Magic of Orlando,World Class,54.1,1993
+06/25,Hayward,CA,4,Velvet Knights,World Class,64.8,1993
+06/25,LaCrosse,WI,5,Americanos,World Class,34.2,1993
+06/25,Clearwater,FL,5,Carolina Crown,World Class,52.2,1993
+06/25,Hayward,CA,5,Freelancers,World Class,59.1,1993
+06/25,LaCrosse,WI,6,Phantom Regiment Cadets,World Class,32.9,1993
+06/25,LaCrosse,WI,7,Colt Cadets,World Class,29.7,1993
+06/25,Clearwater,FL,1,Suncoast Sound,World Class,52.3,1993
+06/25,Hayward,CA,1,Vanguard Cadets,World Class,64.8,1993
+06/25,Clearwater,FL,2,Delta Brigade,World Class,31.2,1993
+06/25,Hayward,CA,2,Mandarins,World Class,60.1,1993
+06/25,Hayward,CA,3,Blue Devils B,World Class,50.7,1993
+06/26,Waterloo,Ontario,1,Cadets,World Class,78.6,1993
+06/26,Alexandria,MN,1,Madison Scouts,World Class,73.6,1993
+06/26,Monmouth,IL,1,Blue Knights,World Class,75.1,1993
+06/26,Muskegon,MI,1,Glassmen,World Class,63.1,1993
+06/26,Waterloo,Ontario,2,Crossmen,World Class,72.1,1993
+06/26,Alexandria,MN,2,Minnesota Brass,World Class,59.4,1993
+06/26,Monmouth,IL,2,Bluecoats,World Class,70.6,1993
+06/26,Muskegon,MI,2,Northern Aurora,World Class,57.6,1993
+06/26,Waterloo,Ontario,3,Boston Crusaders,World Class,63.1,1993
+06/26,Alexandria,MN,3,CapitolAires,World Class,47.6,1993
+06/26,Monmouth,IL,3,Sky Ryders,World Class,65.3,1993
+06/26,Muskegon,MI,3,Pioneer,World Class,52.6,1993
+06/26,Waterloo,Ontario,4,Dutch Boy,World Class,53.5,1993
+06/26,Alexandria,MN,4,Nite Express,World Class,45.4,1993
+06/26,Monmouth,IL,4,Knights,World Class,50.0,1993
+06/26,Muskegon,MI,4,Railmen,World Class,47.7,1993
+06/26,Alexandria,MN,5,Americanos,World Class,40.7,1993
+06/26,Monmouth,IL,5,Phantom Regiment Cadets,World Class,41.9,1993
+06/26,Muskegon,MI,5,12th Command,World Class,30.9,1993
+06/26,Waterloo,Ontario,1,Spartans,World Class,64.1,1993
+06/26,Alexandria,MN,6,Govenaires,World Class,34.2,1993
+06/26,Monmouth,IL,6,Madison Junior Scouts,World Class,35.7,1993
+06/26,Muskegon,MI,6,Marquis,World Class,22.2,1993
+06/26,Waterloo,Ontario,2,Kiwanis Kavaliers,World Class,59.6,1993
+06/26,Monmouth,IL,7,Northmen,World Class,27.3,1993
+06/26,Muskegon,MI,7,Racine Scouts,World Class,7.5,1993
+06/26,Waterloo,Ontario,3,Cardinals,World Class,56.5,1993
+06/26,Waterloo,Ontario,4,Saint John's,World Class,53.2,1993
+06/26,Waterloo,Ontario,5,Ventures,World Class,48.2,1993
+06/26,Waterloo,Ontario,6,Dutch Boy Cadets,World Class,40.6,1993
+06/26,Waterloo,Ontario,7,Royal Cadets,World Class,35.7,1993
+06/26,Melbourne,FL,1,Star of Indiana,World Class,78.5,1993
+06/26,Sacramento,CA,1,Cavaliers,World Class,78.4,1993
+06/26,Bridgeport,CT,1,Bushwackers,World Class,66.3,1993
+06/27,Rochester,MN,1,Madison Scouts,World Class,74.6,1993
+06/26,Melbourne,FL,2,Spirit of Georgia,World Class,64.3,1993
+06/26,Sacramento,CA,2,Blue Devils,World Class,75.1,1993
+06/26,Bridgeport,CT,2,Empire Statesmen,World Class,65.3,1993
+06/27,Rochester,MN,2,Blue Knights,World Class,66.0,1993
+06/26,Melbourne,FL,3,Southwind,World Class,57.3,1993
+06/26,Sacramento,CA,3,Vanguard,World Class,68.0,1993
+06/26,Bridgeport,CT,3,Hawthorne Caballeros,World Class,64.1,1993
+06/27,Rochester,MN,3,Colts,World Class,65.1,1993
+06/26,Melbourne,FL,4,Magic of Orlando,World Class,56.6,1993
+06/26,Sacramento,CA,4,Velvet Knights,World Class,66.8,1993
+06/26,Bridgeport,CT,4,Connecticut Hurricanes,World Class,59.8,1993
+06/27,Rochester,MN,4,Minnesota Brass,World Class,61.4,1993
+06/26,Melbourne,FL,5,Carolina Crown,World Class,52.9,1993
+06/26,Sacramento,CA,5,Freelancers,World Class,61.8,1993
+06/26,Bridgeport,CT,5,Syracuse Brigadiers,World Class,50.1,1993
+06/27,Rochester,MN,5,Nite Express,World Class,49.6,1993
+06/26,Bridgeport,CT,6,New York Skyliners,World Class,49.7,1993
+06/27,Rochester,MN,6,Blue Stars,World Class,44.6,1993
+06/26,Melbourne,FL,1,Suncoast Sound,World Class,54.2,1993
+06/26,Sacramento,CA,1,Vanguard Cadets,World Class,66.5,1993
+06/26,Bridgeport,CT,7,Reading Buccaneers,World Class,46.3,1993
+06/27,Rochester,MN,7,Americanos,World Class,40.0,1993
+06/26,Melbourne,FL,2,Delta Brigade,World Class,32.2,1993
+06/26,Sacramento,CA,2,Mandarins,World Class,62.5,1993
+06/27,Rochester,MN,8,Govenaires,World Class,33.2,1993
+06/26,Sacramento,CA,3,Blue Devils B,World Class,55.5,1993
+06/27,Montreal,Quebec,1,Cadets,World Class,80.5,1993
+06/27,LaPorte,IN,1,Bluecoats,World Class,64.7,1993
+06/27,Palatka,FL,1,Star of Indiana,World Class,80.3,1993
+06/27,Danville,Ontario,1,Kiwanis Kavaliers,World Class,63.7,1993
+06/27,Montreal,Quebec,2,Phantom Regiment,World Class,77.4,1993
+06/27,LaPorte,IN,2,Glassmen,World Class,63.0,1993
+06/27,Palatka,FL,2,Spirit of Georgia,World Class,66.1,1993
+06/27,Danville,Ontario,2,Oakland Crusaders,World Class,30.0,1993
+06/27,Montreal,Quebec,3,Boston Crusaders,World Class,60.6,1993
+06/27,LaPorte,IN,3,Sky Ryders,World Class,57.3,1993
+06/27,Palatka,FL,3,Magic of Orlando,World Class,57.9,1993
+06/27,LaPorte,IN,4,Pioneer,World Class,54.9,1993
+06/27,Palatka,FL,4,Southwind,World Class,56.2,1993
+06/27,Danville,Ontario,1,Saint John's,World Class,55.7,1993
+06/27,Montreal,Quebec,1,Spartans,World Class,63.5,1993
+06/27,LaPorte,IN,5,Northern Aurora,World Class,54.7,1993
+06/27,Palatka,FL,5,Carolina Crown,World Class,52.6,1993
+06/27,Danville,Ontario,2,Conqueror II,World Class,55.2,1993
+06/27,Montreal,Quebec,2,L'Insolite,World Class,61.6,1993
+06/27,LaPorte,IN,6,Railmen,World Class,44.3,1993
+06/27,Danville,Ontario,3,Canadian Knights,World Class,43.1,1993
+06/27,Montreal,Quebec,3,Academie Musicale,World Class,54.1,1993
+06/27,LaPorte,IN,7,Knights,World Class,31.8,1993
+06/27,Palatka,FL,1,Suncoast Sound,World Class,51.5,1993
+06/27,Danville,Ontario,4,Ridge Raiders,World Class,42.1,1993
+06/27,Palatka,FL,2,Delta Brigade,World Class,31.9,1993
+06/27,Danville,Ontario,1,Dutch Boy Cadets,World Class,38.9,1993
+06/27,Danville,Ontario,2,Royal Cadets,World Class,35.1,1993
+06/27,Danville,Ontario,3,Emerald Knights,World Class,24.8,1993
+06/27,Waltham,MA,1,Buccaneers,World Class,62.3,1993
+06/28,Ottawa,Ontario,1,Academie Musicale,World Class,58.9,1993
+06/28,Sherbrooke,Quebec,1,Crossmen,World Class,74.6,1993
+06/28,Ogden,UT,1,Cavaliers,World Class,75.6,1993
+06/27,Waltham,MA,2,East Coast Jazz,World Class,60.5,1993
+06/28,Sherbrooke,Quebec,2,L'Insolite,World Class,57.3,1993
+06/28,Ogden,UT,2,Velvet Knights,World Class,63.9,1993
+06/27,Waltham,MA,3,Satellites,World Class,52.2,1993
+06/28,Ottawa,Ontario,1,Dimension,World Class,54.7,1993
+06/28,Ogden,UT,3,Troopers,World Class,53.5,1993
+06/28,Ottawa,Ontario,2,Contemporary Youth Ens.,World Class,51.5,1993
+06/28,Sherbrooke,Quebec,1,Cardinals,World Class,56.9,1993
+06/27,Waltham,MA,1,Phoenix,World Class,63.5,1993
+06/28,Sherbrooke,Quebec,2,Academie Musicale,World Class,56.0,1993
+06/28,Ogden,UT,1,Blue Devils B,World Class,55.0,1993
+06/27,Waltham,MA,2,Citations,World Class,58.6,1993
+06/28,Ottawa,Ontario,1,Les Senateurs,World Class,64.3,1993
+06/28,Sherbrooke,Quebec,3,Royal Columbians,World Class,53.3,1993
+06/27,Waltham,MA,3,Joanettes,World Class,54.3,1993
+06/28,Sherbrooke,Quebec,4,Dimension,World Class,49.3,1993
+06/28,Sherbrooke,Quebec,5,Les Senateurs,World Class,46.1,1993
+06/27,Waltham,MA,1,East Coast Cadets,World Class,54.0,1993
+06/28,Sherbrooke,Quebec,6,Les Coues,World Class,38.2,1993
+06/27,Waltham,MA,2,Braintree Braves,World Class,27.0,1993
+06/29,Brockport,NY,1,Cadets,World Class,76.1,1993
+06/30,Bellevue,NE,1,Cavaliers,World Class,78.3,1993
+06/30,Utica,NY,1,Cadets,World Class,79.4,1993
+06/30,Charles City,IA,1,Colts,World Class,59.2,1993
+06/29,Brockport,NY,2,Phantom Regiment,World Class,73.5,1993
+06/30,Bellevue,NE,2,Bluecoats,World Class,67.4,1993
+06/30,Utica,NY,2,Phantom Regiment,World Class,72.1,1993
+06/30,Charles City,IA,2,Sky Ryders,World Class,58.9,1993
+06/30,Bellevue,NE,3,Glassmen,World Class,63.6,1993
+06/30,Utica,NY,3,Crossmen,World Class,72.0,1993
+06/30,Charles City,IA,3,Blue Stars,World Class,45.7,1993
+06/29,Brockport,NY,1,Kiwanis Kavaliers,World Class,53.7,1993
+06/30,Bellevue,NE,4,Northern Aurora,World Class,56.6,1993
+06/30,Utica,NY,4,Dutch Boy,World Class,50.2,1993
+06/30,Charles City,IA,4,Americanos,World Class,41.1,1993
+06/29,Brockport,NY,2,Cardinals,World Class,51.3,1993
+06/30,Bellevue,NE,5,Pioneer,World Class,54.1,1993
+06/30,Charles City,IA,5,Knights,World Class,38.3,1993
+06/29,Brockport,NY,3,Patriots,World Class,48.2,1993
+06/30,Bellevue,NE,6,Railmen,World Class,47.6,1993
+06/30,Utica,NY,1,Kiwanis Kavaliers,World Class,54.1,1993
+06/30,Charles City,IA,6,Bandettes,World Class,31.0,1993
+06/30,Bellevue,NE,7,Nite Express,World Class,44.3,1993
+06/30,Utica,NY,2,L'Insolite,World Class,53.7,1993
+06/30,Charles City,IA,7,Colt Cadets,World Class,29.2,1993
+06/30,Utica,NY,3,Cardinals,World Class,52.5,1993
+06/30,Utica,NY,4,Academie Musicale,World Class,51.3,1993
+06/30,Utica,NY,5,Patriots,World Class,46.0,1993
+07/01,Kingston,NY,1,Cadets,World Class,77.4,1993
+07/01,Gowrie,IA,1,Cavaliers,World Class,79.9,1993
+07/01,Woodburn,OR,1,Vanguard,World Class,67.8,1993
+07/02,Cedar Rapids,IA,1,Cavaliers,World Class,79.1,1993
+07/01,Kingston,NY,2,Phantom Regiment,World Class,73.6,1993
+07/01,Gowrie,IA,2,Colts,World Class,68.4,1993
+07/01,Woodburn,OR,2,Freelancers,World Class,61.1,1993
+07/02,Cedar Rapids,IA,2,Bluecoats,World Class,69.2,1993
+07/01,Kingston,NY,3,Crossmen,World Class,70.0,1993
+07/01,Gowrie,IA,3,Glassmen,World Class,64.3,1993
+07/01,Woodburn,OR,3,Marauders,World Class,53.2,1993
+07/02,Cedar Rapids,IA,3,Colts,World Class,67.0,1993
+07/01,Kingston,NY,4,Dutch Boy,World Class,56.8,1993
+07/01,Gowrie,IA,4,Northern Aurora,World Class,59.5,1993
+07/02,Cedar Rapids,IA,4,Northern Aurora,World Class,60.1,1993
+07/01,Gowrie,IA,5,Pioneer,World Class,56.1,1993
+07/01,Woodburn,OR,1,Vanguard Cadets,World Class,69.0,1993
+07/02,Cedar Rapids,IA,5,Nite Express,World Class,49.7,1993
+07/01,Kingston,NY,1,Cardinals,World Class,59.7,1993
+07/01,Gowrie,IA,6,Railmen,World Class,50.0,1993
+07/01,Woodburn,OR,2,Mandarins,World Class,65.1,1993
+07/02,Cedar Rapids,IA,6,Railmen,World Class,49.5,1993
+07/01,Kingston,NY,2,L'Insolite,World Class,56.9,1993
+07/01,Gowrie,IA,7,Nite Express,World Class,46.7,1993
+07/01,Woodburn,OR,3,Blue Devils B,World Class,61.4,1993
+07/02,Cedar Rapids,IA,7,Blue Stars,World Class,41.7,1993
+07/01,Kingston,NY,3,Kiwanis Kavaliers,World Class,54.5,1993
+07/01,Gowrie,IA,8,Colt Cadets,World Class,32.2,1993
+07/01,Woodburn,OR,4,Allegiance Elite,World Class,57.1,1993
+07/02,Cedar Rapids,IA,8,Knights,World Class,39.0,1993
+07/01,Kingston,NY,4,Academie Musicale,World Class,52.9,1993
+07/01,Woodburn,OR,5,Seattle Cascades,World Class,49.0,1993
+07/02,Cedar Rapids,IA,9,Colt Cadets,World Class,31.9,1993
+07/01,Kingston,NY,5,Ventures,World Class,52.4,1993
+07/01,Woodburn,OR,6,Edmonton Strutters,World Class,35.1,1993
+07/02,Cottage Grove,MN,1,Madison Scouts,World Class,72.5,1993
+07/02,Fon du Lac,WI,1,Blue Knights,World Class,70.8,1993
+07/02,Prattville,AL,1,Star of Indiana,World Class,80.8,1993
+07/02,Kelso,WA,1,Vanguard,World Class,67.5,1993
+07/02,Cottage Grove,MN,2,Glassmen,World Class,64.6,1993
+07/02,Fon du Lac,WI,2,Sky Ryders,World Class,61.7,1993
+07/02,Prattville,AL,2,Spirit of Georgia,World Class,66.2,1993
+07/02,Kelso,WA,2,Freelancers,World Class,61.5,1993
+07/02,Cottage Grove,MN,3,Minnesota Brass,World Class,59.0,1993
+07/02,Fon du Lac,WI,3,Phantom Regiment Cadets,World Class,42.4,1993
+07/02,Prattville,AL,3,Southwind,World Class,59.2,1993
+07/02,Kelso,WA,3,Marauders,World Class,52.7,1993
+07/02,Cottage Grove,MN,4,CapitolAires,World Class,53.9,1993
+07/02,Fon du Lac,WI,4,Marquis,World Class,37.8,1993
+07/02,Prattville,AL,4,Magic of Orlando,World Class,55.8,1993
+07/02,Cottage Grove,MN,5,Americanos,World Class,46.2,1993
+07/02,Fon du Lac,WI,5,Madison Junior Scouts,World Class,34.5,1993
+07/02,Kelso,WA,1,Vanguard Cadets,World Class,69.6,1993
+07/02,Cottage Grove,MN,6,Govenaires,World Class,39.3,1993
+07/02,Fon du Lac,WI,6,Guardsmen,World Class,29.7,1993
+07/02,Prattville,AL,1,Carolina Crown,World Class,70.3,1993
+07/02,Kelso,WA,2,Mandarins,World Class,66.2,1993
+07/02,Cottage Grove,MN,7,Bandettes,World Class,35.0,1993
+07/02,Fon du Lac,WI,7,Northmen,World Class,12.5,1993
+07/02,Prattville,AL,2,Suncoast Sound,World Class,53.5,1993
+07/02,Kelso,WA,3,Blue Devils B,World Class,61.7,1993
+07/02,Fon du Lac,WI,8,Racine Scouts,World Class,9.5,1993
+07/02,Kelso,WA,4,Allegiance Elite,World Class,57.7,1993
+07/02,Kelso,WA,5,Seattle Cascades,World Class,48.5,1993
+07/02,Kelso,WA,6,Edmonton Strutters,World Class,43.4,1993
+07/03,Clifton,NJ,1,Cadets,World Class,79.4,1993
+07/03,Austin,MN,1,Madison Scouts,World Class,73.8,1993
+07/03,Prattville,AL,1,Cavaliers,World Class,78.7,1993
+07/03,Jonesboro,GA,1,Star of Indiana,World Class,82.7,1993
+07/03,Clifton,NJ,2,Phantom Regiment,World Class,74.9,1993
+07/03,Austin,MN,2,Glassmen,World Class,66.4,1993
+07/03,Prattville,AL,2,Blue Knights,World Class,69.5,1993
+07/03,Jonesboro,GA,2,Spirit of Georgia,World Class,70.2,1993
+07/03,Clifton,NJ,3,Crossmen,World Class,70.7,1993
+07/03,Austin,MN,3,Railmen,World Class,61.3,1993
+07/03,Prattville,AL,3,Bluecoats,World Class,68.8,1993
+07/03,Jonesboro,GA,3,Southwind,World Class,63.0,1993
+07/03,Clifton,NJ,4,Boston Crusaders,World Class,63.1,1993
+07/03,Austin,MN,4,CapitolAires,World Class,52.4,1993
+07/03,Prattville,AL,4,Colts,World Class,64.4,1993
+07/03,Jonesboro,GA,4,Magic of Orlando,World Class,62.8,1993
+07/03,Clifton,NJ,5,Dutch Boy,World Class,58.2,1993
+07/03,Austin,MN,5,Americanos,World Class,45.1,1993
+07/03,Prattville,AL,5,Knights,World Class,39.7,1993
+07/03,Austin,MN,6,Bandettes,World Class,33.7,1993
+07/03,Prattville,AL,6,Guardsmen,World Class,31.0,1993
+07/03,Jonesboro,GA,1,Carolina Crown,World Class,70.4,1993
+07/03,Clifton,NJ,1,Academie Musicale,World Class,59.2,1993
+07/03,Prattville,AL,7,Chicago Vanguard,World Class,25.8,1993
+07/03,Jonesboro,GA,2,Suncoast Sound,World Class,60.7,1993
+07/03,Clifton,NJ,2,Raiders,World Class,51.8,1993
+07/03,Jonesboro,GA,3,Lone Star,World Class,44.7,1993
+07/03,Clifton,NJ,3,Jersey Surf,World Class,49.4,1993
+07/03,Jonesboro,GA,4,East Coast Jazz,World Class,40.6,1993
+07/03,Clifton,NJ,4,Dutch Boy Cadets,World Class,42.9,1993
+07/03,Jonesboro,GA,5,Delta Brigade,World Class,34.5,1993
+07/03,Edmonds,WA,1,Vanguard,World Class,70.6,1993
+07/04,Bristol,RI,1,Cadets,World Class,80.7,1993
+07/04,East Troy,WI,1,Northern Aurora,World Class,62.6,1993
+07/04,Saint Peter,MN,1,Madison Scouts,World Class,75.3,1993
+07/03,Edmonds,WA,2,Freelancers,World Class,63.4,1993
+07/04,Bristol,RI,2,Phantom Regiment,World Class,76.0,1993
+07/04,East Troy,WI,2,Pioneer,World Class,56.7,1993
+07/04,Saint Peter,MN,2,Glassmen,World Class,68.9,1993
+07/03,Edmonds,WA,3,Marauders,World Class,53.4,1993
+07/04,Bristol,RI,3,Crossmen,World Class,74.0,1993
+07/04,East Troy,WI,3,Nite Express,World Class,50.2,1993
+07/04,Saint Peter,MN,3,Minnesota Brass,World Class,61.8,1993
+07/04,Bristol,RI,4,Boston Crusaders,World Class,61.2,1993
+07/04,East Troy,WI,4,Marquis,World Class,32.7,1993
+07/04,Saint Peter,MN,4,CapitolAires,World Class,54.9,1993
+07/03,Edmonds,WA,1,Vanguard Cadets,World Class,71.0,1993
+07/04,Bristol,RI,5,Dutch Boy,World Class,55.7,1993
+07/04,East Troy,WI,5,Royalaires,World Class,28.3,1993
+07/04,Saint Peter,MN,5,Blue Stars,World Class,50.8,1993
+07/03,Edmonds,WA,2,Mandarins,World Class,68.3,1993
+07/04,East Troy,WI,6,Madison Junior Scouts,World Class,26.2,1993
+07/04,Saint Peter,MN,6,Americanos,World Class,48.1,1993
+07/03,Edmonds,WA,3,Allegiance Elite,World Class,62.0,1993
+07/04,Saint Peter,MN,7,Bandettes,World Class,37.8,1993
+07/03,Edmonds,WA,4,Seattle Cascades,World Class,51.4,1993
+07/03,Edmonds,WA,5,Edmonton Strutters,World Class,37.6,1993
+07/04,Oswego,NY,1,Empire Statesmen,World Class,71.0,1993
+07/05,Wakefield,MA,1,Cadets,World Class,82.3,1993
+07/05,Hoffman Estates,IL,1,Colts,World Class,67.0,1993
+07/05,Mankato,MN,1,Madison Scouts,World Class,76.1,1993
+07/04,Oswego,NY,2,Rochester Crusaders,World Class,67.3,1993
+07/05,Wakefield,MA,2,Phantom Regiment,World Class,77.7,1993
+07/05,Hoffman Estates,IL,2,Nite Express,World Class,53.0,1993
+07/05,Mankato,MN,2,Glassmen,World Class,71.2,1993
+07/04,Oswego,NY,3,Capitol Brass Ensemble,World Class,46.6,1993
+07/05,Wakefield,MA,3,Crossmen,World Class,74.9,1993
+07/05,Hoffman Estates,IL,3,Knights,World Class,43.5,1993
+07/05,Mankato,MN,3,Minnesota Brass,World Class,59.6,1993
+07/04,Oswego,NY,4,Chieftains,World Class,38.8,1993
+07/05,Wakefield,MA,4,Boston Crusaders,World Class,62.7,1993
+07/05,Hoffman Estates,IL,4,Phantom Regiment Cadets,World Class,42.6,1993
+07/05,Mankato,MN,4,Railmen,World Class,56.0,1993
+07/05,Wakefield,MA,5,Dutch Boy,World Class,56.8,1993
+07/05,Hoffman Estates,IL,5,Ridge Raiders,World Class,32.3,1993
+07/05,Mankato,MN,5,CapitolAires,World Class,54.2,1993
+07/05,Wakefield,MA,6,L'Insolite,World Class,48.3,1993
+07/05,Hoffman Estates,IL,6,Colt Cadets,World Class,31.3,1993
+07/05,Mankato,MN,6,Americanos,World Class,46.3,1993
+07/05,Hoffman Estates,IL,7,Royalaires,World Class,31.0,1993
+07/05,Mankato,MN,7,Govenaires,World Class,42.7,1993
+07/05,Hoffman Estates,IL,8,Guardsmen,World Class,28.3,1993
+07/05,Mankato,MN,8,Bandettes,World Class,35.3,1993
+07/05,Hoffman Estates,IL,9,Northmen,World Class,25.0,1993
+07/05,Evans,GA,1,Star of Indiana,World Class,82.4,1993
+07/05,Chicopee,MA,1,Spartans,World Class,68.0,1993
+07/06,Warner Robbins,GA,1,Star of Indiana,World Class,84.0,1993
+07/07,Port Clinton,OH,1,Phantom Regiment,World Class,77.8,1993
+07/05,Evans,GA,2,Spirit of Georgia,World Class,70.2,1993
+07/05,Chicopee,MA,2,Cardinals,World Class,59.6,1993
+07/06,Warner Robbins,GA,2,Spirit of Georgia,World Class,72.2,1993
+07/07,Port Clinton,OH,2,Madison Scouts,World Class,76.1,1993
+07/05,Evans,GA,3,Southwind,World Class,61.8,1993
+07/05,Chicopee,MA,3,Academie Musicale,World Class,59.2,1993
+07/06,Warner Robbins,GA,3,Magic of Orlando,World Class,65.5,1993
+07/07,Port Clinton,OH,3,Glassmen,World Class,68.8,1993
+07/05,Evans,GA,3,Magic of Orlando,World Class,61.8,1993
+07/05,Chicopee,MA,3,Patriots,World Class,59.2,1993
+07/06,Warner Robbins,GA,4,Southwind,World Class,63.5,1993
+07/07,Port Clinton,OH,4,Sky Ryders,World Class,64.8,1993
+07/05,Chicopee,MA,5,Kiwanis Kavaliers,World Class,58.4,1993
+07/07,Port Clinton,OH,5,Northern Aurora,World Class,61.4,1993
+07/05,Evans,GA,1,Carolina Crown,World Class,69.3,1993
+07/05,Chicopee,MA,6,Ventures,World Class,53.2,1993
+07/06,Warner Robbins,GA,1,Carolina Crown,World Class,73.3,1993
+07/07,Port Clinton,OH,6,CapitolAires,World Class,52.4,1993
+07/05,Evans,GA,2,Suncoast Sound,World Class,61.9,1993
+07/05,Chicopee,MA,7,Royal Columbians,World Class,49.6,1993
+07/06,Warner Robbins,GA,2,Suncoast Sound,World Class,63.6,1993
+07/07,Port Clinton,OH,7,Golden Lancers,World Class,39.7,1993
+07/05,Evans,GA,3,Lone Star,World Class,49.9,1993
+07/05,Chicopee,MA,8,Dutch Boy Cadets,World Class,40.8,1993
+07/06,Warner Robbins,GA,3,Lone Star,World Class,51.3,1993
+07/07,Port Clinton,OH,8,Northmen,World Class,28.0,1993
+07/05,Evans,GA,4,East Coast Jazz,World Class,42.1,1993
+07/05,Chicopee,MA,9,Satellites,World Class,40.5,1993
+07/06,Warner Robbins,GA,4,Delta Brigade,World Class,44.6,1993
+07/05,Evans,GA,5,Delta Brigade,World Class,32.9,1993
+07/05,Chicopee,MA,10,Royal Cadets,World Class,35.9,1993
+07/07,Columbia,SC,1,Star of Indiana,World Class,84.1,1993
+07/08,Bayonne,NJ,1,Cadets,World Class,81.2,1993
+07/08,Wyandotte,MI,1,Madison Scouts,World Class,78.5,1993
+07/08,Cary,NC,1,Star of Indiana,World Class,85.0,1993
+07/07,Columbia,SC,2,Spirit of Georgia,World Class,70.9,1993
+07/08,Bayonne,NJ,2,Crossmen,World Class,74.6,1993
+07/08,Wyandotte,MI,2,Glassmen,World Class,70.4,1993
+07/08,Cary,NC,2,Magic of Orlando,World Class,66.1,1993
+07/07,Columbia,SC,3,Southwind,World Class,62.6,1993
+07/08,Bayonne,NJ,3,Dutch Boy,World Class,62.6,1993
+07/08,Wyandotte,MI,3,Colts,World Class,69.3,1993
+07/08,Cary,NC,3,Southwind,World Class,64.5,1993
+07/07,Columbia,SC,4,Magic of Orlando,World Class,62.3,1993
+07/08,Wyandotte,MI,4,Northern Aurora,World Class,64.3,1993
+07/08,Bayonne,NJ,1,Kiwanis Kavaliers,World Class,63.0,1993
+07/08,Wyandotte,MI,5,CapitolAires,World Class,56.4,1993
+07/08,Cary,NC,1,Carolina Crown,World Class,69.5,1993
+07/07,Columbia,SC,1,Carolina Crown,World Class,69.0,1993
+07/08,Bayonne,NJ,2,Southern Knights,World Class,57.0,1993
+07/08,Wyandotte,MI,6,12th Command,World Class,42.6,1993
+07/08,Cary,NC,2,Suncoast Sound,World Class,62.8,1993
+07/07,Columbia,SC,2,Suncoast Sound,World Class,60.6,1993
+07/08,Bayonne,NJ,3,Raiders,World Class,55.0,1993
+07/08,Wyandotte,MI,7,Bandettes,World Class,32.3,1993
+07/08,Cary,NC,3,East Coast Jazz,World Class,43.0,1993
+07/07,Columbia,SC,3,East Coast Jazz,World Class,43.6,1993
+07/08,Bayonne,NJ,4,Jersey Surf,World Class,54.6,1993
+07/08,Wyandotte,MI,8,Marion Cadets,World Class,31.4,1993
+07/08,Cary,NC,4,Delta Brigade,World Class,38.0,1993
+07/07,Columbia,SC,4,Delta Brigade,World Class,36.8,1993
+07/09,Norristown,PA,1,Cadets,World Class,82.3,1993
+07/09,Michigan City,IN,1,Phantom Regiment,World Class,77.9,1993
+07/09,Traverse City,MI,1,Sky Ryders,World Class,67.7,1993
+07/09,Stockton,CA,1,Blue Devils,World Class,76.4,1993
+07/09,Norristown,PA,2,Crossmen,World Class,75.3,1993
+07/09,Michigan City,IN,2,Glassmen,World Class,68.9,1993
+07/09,Traverse City,MI,2,12th Command,World Class,43.7,1993
+07/09,Stockton,CA,2,Vanguard,World Class,71.3,1993
+07/09,Norristown,PA,3,Bluecoats,World Class,72.7,1993
+07/09,Michigan City,IN,3,Colts,World Class,67.0,1993
+07/09,Traverse City,MI,3,Golden Lancers,World Class,37.9,1993
+07/09,Stockton,CA,3,Freelancers,World Class,63.9,1993
+07/09,Norristown,PA,4,Boston Crusaders,World Class,64.7,1993
+07/09,Michigan City,IN,4,Northern Aurora,World Class,66.3,1993
+07/09,Traverse City,MI,4,Bandettes,World Class,35.8,1993
+07/09,Norristown,PA,5,Dutch Boy,World Class,64.2,1993
+07/09,Michigan City,IN,5,Pioneer,World Class,55.7,1993
+07/09,Traverse City,MI,5,Ridge Raiders,World Class,35.3,1993
+07/09,Stockton,CA,1,Vanguard Cadets,World Class,73.0,1993
+07/09,Michigan City,IN,6,CapitolAires,World Class,47.7,1993
+07/09,Traverse City,MI,6,Marquis,World Class,34.6,1993
+07/09,Stockton,CA,2,Mandarins,World Class,69.5,1993
+07/09,Norristown,PA,1,L'Insolite,World Class,63.6,1993
+07/09,Michigan City,IN,7,Chicago Vanguard,World Class,36.5,1993
+07/09,Traverse City,MI,7,Coachmen,World Class,23.9,1993
+07/09,Stockton,CA,3,Blue Devils B,World Class,64.6,1993
+07/09,Norristown,PA,2,Raiders,World Class,56.7,1993
+07/09,Michigan City,IN,8,Royalaires,World Class,28.6,1993
+07/09,Traverse City,MI,8,Racine Scouts,World Class,16.4,1993
+07/09,Stockton,CA,4,Seattle Cascades,World Class,52.6,1993
+07/09,Norristown,PA,3,Jersey Surf,World Class,53.0,1993
+07/09,Michigan City,IN,9,Northmen,World Class,25.1,1993
+07/09,Norristown,PA,4,Southern Knights,World Class,42.9,1993
+07/10,Hershey,PA,1,Cadets,World Class,82.7,1993
+07/10,Herkimer,NY,1,Empire Statesmen,World Class,77.9,1993
+07/10,Rockford,IL,1,Phantom Regiment,World Class,80.8,1993
+07/10,Concord,CA,1,Blue Devils,World Class,78.7,1993
+07/10,Hershey,PA,2,Crossmen,World Class,74.9,1993
+07/10,Herkimer,NY,2,Rochester Crusaders,World Class,70.5,1993
+07/10,Rockford,IL,2,Cavaliers,World Class,80.6,1993
+07/10,Concord,CA,2,Vanguard,World Class,72.7,1993
+07/10,Hershey,PA,3,Bluecoats,World Class,70.8,1993
+07/10,Herkimer,NY,3,Connecticut Hurricanes,World Class,70.4,1993
+07/10,Rockford,IL,3,Madison Scouts,World Class,78.3,1993
+07/10,Concord,CA,3,Velvet Knights,World Class,70.5,1993
+07/10,Hershey,PA,4,Boston Crusaders,World Class,62.8,1993
+07/10,Herkimer,NY,4,Syracuse Brigadiers,World Class,64.6,1993
+07/10,Rockford,IL,4,Colts,World Class,69.0,1993
+07/10,Concord,CA,4,Freelancers,World Class,66.3,1993
+07/10,Hershey,PA,5,Dutch Boy,World Class,59.8,1993
+07/10,Herkimer,NY,5,Capitol Brass Ensemble,World Class,49.9,1993
+07/10,Rockford,IL,5,Northern Aurora,World Class,63.3,1993
+07/10,Hershey,PA,6,L'Insolite,World Class,51.4,1993
+07/10,Rockford,IL,6,Pioneer,World Class,57.4,1993
+07/10,Concord,CA,1,Vanguard Cadets,World Class,72.4,1993
+07/10,Rockford,IL,7,Chicago Vanguard,World Class,36.7,1993
+07/10,Concord,CA,2,Mandarins,World Class,72.1,1993
+07/10,Hershey,PA,1,Hawthorne Caballeros,World Class,70.2,1993
+07/10,Concord,CA,3,Blue Devils B,World Class,65.9,1993
+07/10,Hershey,PA,2,Reading Buccaneers,World Class,62.6,1993
+07/10,Concord,CA,4,Seattle Cascades,World Class,50.3,1993
+07/10,Hershey,PA,3,New York Skyliners,World Class,62.1,1993
+07/10,Concord,CA,5,Edmonton Strutters,World Class,38.8,1993
+07/10,Hershey,PA,4,Westshoremen,World Class,59.9,1993
+07/10,Fort Mill,SC,1,Spirit of Georgia,DCA Class A,74.9,1993
+07/10,Belleville,Ontario,1,Cardinals,DCA Class A,65.6,1993
+07/10,Kitchener,Ontario,1,Oakland Crusaders,DCA Class A,42.1,1993
+07/10,Braintree,MA,1,Buccaneers,DCA Class A,65.9,1993
+07/10,Fort Mill,SC,2,Magic of Orlando,DCA Class A,66.0,1993
+07/10,Belleville,Ontario,2,Kiwanis Kavaliers,DCA Class A,65.4,1993
+07/10,Braintree,MA,2,Contemporary Youth Ens.,DCA Class A,63.6,1993
+07/10,Fort Mill,SC,3,Southwind,DCA Class A,64.9,1993
+07/10,Belleville,Ontario,3,Saint John's,DCA Class A,56.7,1993
+07/10,Kitchener,Ontario,1,Ventures,DCA Class A,59.4,1993
+07/10,Braintree,MA,3,Satellites,DCA Class A,57.8,1993
+07/10,Belleville,Ontario,4,Conqueror II,DCA Class A,53.1,1993
+07/10,Kitchener,Ontario,2,Ridge Raiders,DCA Class A,51.5,1993
+07/10,Fort Mill,SC,1,Carolina Crown,DCA Class A,71.3,1993
+07/10,Belleville,Ontario,5,Canadian Knights,DCA Class A,42.1,1993
+07/10,Kitchener,Ontario,3,Blue Saints,DCA Class A,42.2,1993
+07/10,Braintree,MA,1,Phoenix,DCA Class A,68.8,1993
+07/10,Fort Mill,SC,2,Suncoast Sound,DCA Class A,60.4,1993
+07/10,Braintree,MA,2,Royal Cadets,DCA Class A,64.4,1993
+07/10,Fort Mill,SC,3,Delta Brigade,DCA Class A,38.3,1993
+07/10,Kitchener,Ontario,1,Dutch Boy Cadets,DCA Class A,70.4,1993
+07/10,Braintree,MA,3,Joanettes,DCA Class A,60.1,1993
+07/10,Kitchener,Ontario,2,Emerald Knights,DCA Class A,56.0,1993
+07/10,Braintree,MA,4,Citations,DCA Class A,59.0,1993
+07/11,Charleston,WV,1,Cadets,DCA Class A,83.5,1993
+07/11,Oshkosh,WI,1,Cavaliers,DCA Class A,81.8,1993
+07/11,Boone,NC,1,Star of Indiana,DCA Class A,88.3,1993
+07/11,Newark,NJ,1,Raiders,DCA Class A,74.6,1993
+07/11,Charleston,WV,2,Crossmen,DCA Class A,76.0,1993
+07/11,Oshkosh,WI,2,Madison Scouts,DCA Class A,78.3,1993
+07/11,Boone,NC,2,Spirit of Georgia,DCA Class A,76.5,1993
+07/11,Newark,NJ,2,Southern Knights,DCA Class A,72.6,1993
+07/11,Charleston,WV,3,Bluecoats,DCA Class A,72.9,1993
+07/11,Oshkosh,WI,3,Colts,DCA Class A,70.8,1993
+07/11,Boone,NC,3,Magic of Orlando,DCA Class A,68.3,1993
+07/11,Charleston,WV,4,Dutch Boy,DCA Class A,61.9,1993
+07/11,Oshkosh,WI,4,Sky Ryders,DCA Class A,66.2,1993
+07/11,Boone,NC,4,Carolina Crown,DCA Class A,61.0,1993
+07/11,Newark,NJ,1,Marching 100,DCA Class A,52.7,1993
+07/11,Oshkosh,WI,5,Blue Stars,DCA Class A,48.3,1993
+07/11,Boone,NC,5,Suncoast Sound,DCA Class A,51.5,1993
+07/11,Newark,NJ,2,Quest,DCA Class A,50.3,1993
+07/11,Oshkosh,WI,6,Americanos,DCA Class A,46.9,1993
+07/11,Newark,NJ,3,Springfield Ambassadors,DCA Class A,46.7,1993
+07/11,Oshkosh,WI,7,Knights,DCA Class A,45.1,1993
+07/11,Newark,NJ,4,Illusion,DCA Class A,45.4,1993
+07/11,Oshkosh,WI,8,Phantom Regiment Cadets,DCA Class A,43.0,1993
+07/11,Newark,NJ,5,Phoenix,DCA Class A,39.7,1993
+07/11,Oshkosh,WI,9,Marquis,DCA Class A,39.0,1993
+07/11,Newark,NJ,1,William G. Lucas,DCA Class A,39.5,1993
+07/11,Kitchener,Ontario,1,Kiwanis Kavaliers,DCA Class A,76.1,1993
+07/11,Coshocton,NY,1,Patriots,DCA Class A,72.2,1993
+07/11,Gardner,MA,1,Buccaneers,DCA Class A,68.9,1993
+07/15,Syracuse,NY,1,Cadets,DCA Class A,89.1,1993
+07/11,Kitchener,Ontario,2,Cardinals,DCA Class A,73.2,1993
+07/11,Gardner,MA,2,Contemporary Youth Ens.,DCA Class A,63.2,1993
+07/15,Syracuse,NY,2,Crossmen,DCA Class A,83.6,1993
+07/11,Kitchener,Ontario,3,Oakland Crusaders,DCA Class A,49.3,1993
+07/11,Coshocton,NY,1,Royal Columbians,DCA Class A,66.5,1993
+07/11,Gardner,MA,3,Satellites,DCA Class A,61.3,1993
+07/15,Syracuse,NY,3,Dutch Boy,DCA Class A,66.9,1993
+07/11,Coshocton,NY,2,Spectrum,DCA Class A,53.1,1993
+07/11,Kitchener,Ontario,1,Saint John's,DCA Class A,66.6,1993
+07/11,Gardner,MA,1,Phoenix,DCA Class A,66.3,1993
+07/15,Syracuse,NY,1,L'Insolite,DCA Class A,69.8,1993
+07/11,Kitchener,Ontario,2,Conqueror II,DCA Class A,65.5,1993
+07/11,Coshocton,NY,1,Quest,DCA Class A,63.8,1993
+07/11,Gardner,MA,2,Royal Cadets,DCA Class A,65.2,1993
+07/15,Syracuse,NY,2,Kiwanis Kavaliers,DCA Class A,64.9,1993
+07/11,Kitchener,Ontario,3,Ventures,DCA Class A,60.4,1993
+07/11,Coshocton,NY,2,Firebirds,DCA Class A,63.1,1993
+07/11,Gardner,MA,3,Joanettes,DCA Class A,60.7,1993
+07/15,Syracuse,NY,3,Patriots,DCA Class A,64.3,1993
+07/11,Kitchener,Ontario,4,Canadian Knights,DCA Class A,57.8,1993
+07/15,Syracuse,NY,4,Oakland Crusaders,DCA Class A,61.4,1993
+07/11,Kitchener,Ontario,5,Ridge Raiders,DCA Class A,50.9,1993
+07/11,Gardner,MA,1,East Coast Cadets,DCA Class A,50.7,1993
+07/15,Syracuse,NY,5,Academie Musicale,DCA Class A,58.9,1993
+07/11,Kitchener,Ontario,6,Blue Saints,DCA Class A,44.2,1993
+07/11,Gardner,MA,2,Braintree Braves,DCA Class A,28.7,1993
+07/15,Syracuse,NY,6,Ventures,DCA Class A,49.6,1993
+07/11,Kitchener,Ontario,1,Dutch Boy Cadets,DCA Class A,70.4,1993
+07/11,Kitchener,Ontario,2,Empire Loyalists,DCA Class A,70.0,1993
+07/11,Kitchener,Ontario,3,Emerald Knights,DCA Class A,59.4,1993
+07/15,Madison,WI,1,Cavaliers,DCA Class A,82.1,1993
+07/16,Clovis,CA,1,Blue Devils,DCA Class A,81.1,1993
+07/16,Nashua,NH,1,L'Insolite,DCA Class A,77.4,1993
+07/16,Toledo,OH,1,Star of Indiana,DCA Class A,86.4,1993
+07/15,Madison,WI,2,Phantom Regiment,DCA Class A,80.9,1993
+07/16,Clovis,CA,2,Vanguard,DCA Class A,75.3,1993
+07/16,Nashua,NH,2,Spartans,DCA Class A,75.3,1993
+07/16,Toledo,OH,2,Cavaliers,DCA Class A,83.2,1993
+07/15,Madison,WI,3,Madison Scouts,DCA Class A,79.3,1993
+07/16,Clovis,CA,3,Freelancers,DCA Class A,68.3,1993
+07/16,Nashua,NH,3,Kiwanis Kavaliers,DCA Class A,73.4,1993
+07/16,Toledo,OH,3,Phantom Regiment,DCA Class A,83.0,1993
+07/15,Madison,WI,4,Colts,DCA Class A,70.4,1993
+07/16,Nashua,NH,4,Academie Musicale,DCA Class A,71.2,1993
+07/16,Toledo,OH,4,Madison Scouts,DCA Class A,80.1,1993
+07/15,Madison,WI,5,Northern Aurora,DCA Class A,62.1,1993
+07/16,Clovis,CA,1,Vanguard Cadets,DCA Class A,75.6,1993
+07/16,Nashua,NH,5,Cardinals,DCA Class A,68.8,1993
+07/16,Toledo,OH,5,Glassmen,DCA Class A,73.0,1993
+07/15,Madison,WI,6,CapitolAires,DCA Class A,53.1,1993
+07/16,Clovis,CA,2,Mandarins,DCA Class A,73.5,1993
+07/16,Nashua,NH,6,Patriots,DCA Class A,68.7,1993
+07/16,Toledo,OH,6,Bluecoats,DCA Class A,72.6,1993
+07/15,Madison,WI,7,Americanos,DCA Class A,45.8,1993
+07/16,Clovis,CA,3,Blue Devils B,DCA Class A,67.7,1993
+07/16,Nashua,NH,7,Contemporary Youth Ens.,DCA Class A,64.6,1993
+07/16,Toledo,OH,7,Colts,DCA Class A,71.2,1993
+07/16,Nashua,NH,8,Royal Columbians,DCA Class A,62.8,1993
+07/16,Toledo,OH,8,Northern Aurora,DCA Class A,65.2,1993
+07/16,Nashua,NH,9,Buccaneers,DCA Class A,62.2,1993
+07/16,Nashua,NH,10,Jersey Surf,DCA Class A,59.4,1993
+07/16,Toledo,OH,1,Pioneer,DCA Class A,59.3,1993
+07/16,Nashua,NH,11,Ventures,DCA Class A,58.5,1993
+07/16,Toledo,OH,2,Limited Edition,DCA Class A,54.6,1993
+07/16,Nashua,NH,12,Southern Knights,DCA Class A,56.1,1993
+07/16,Nashua,NH,13,Raiders,DCA Class A,55.0,1993
+07/16,Nashua,NH,14,East Coast Jazz,DCA Class A,51.3,1993
+07/16,Nashua,NH,15,Dutch Boy Cadets,DCA Class A,45.9,1993
+07/16,Nashua,NH,16,Royal Cadets,DCA Class A,40.4,1993
+07/16,Nashua,NH,17,Satellites,DCA Class A,39.7,1993
+07/16,Nashua,NH,18,Firebirds,DCA Class A,22.2,1993
+07/17,Toledo,OH,1,Nite Express,DCA Class A,54.1,1993
+07/17,Toledo,OH,1,Star of Indiana,DCA Class A,86.8,1993
+07/17,Boston,MA,1,Cadets,DCA Class A,85.7,1993
+07/17,Long Beach,CA,1,Blue Devils,DCA Class A,83.0,1993
+07/17,Toledo,OH,2,CapitolAires,DCA Class A,54.0,1993
+07/17,Toledo,OH,2,Cavaliers,DCA Class A,83.7,1993
+07/17,Boston,MA,2,Crossmen,DCA Class A,79.8,1993
+07/17,Long Beach,CA,2,Vanguard,DCA Class A,79.9,1993
+07/17,Toledo,OH,3,Blue Stars,DCA Class A,52.0,1993
+07/17,Toledo,OH,3,Phantom Regiment,DCA Class A,83.2,1993
+07/17,Boston,MA,3,Boston Crusaders,DCA Class A,71.5,1993
+07/17,Long Beach,CA,3,Velvet Knights,DCA Class A,76.0,1993
+07/17,Toledo,OH,4,Knights,DCA Class A,47.9,1993
+07/17,Toledo,OH,4,Madison Scouts,DCA Class A,78.6,1993
+07/17,Boston,MA,4,Dutch Boy,DCA Class A,68.1,1993
+07/17,Long Beach,CA,4,Freelancers,DCA Class A,72.9,1993
+07/17,Toledo,OH,5,Americanos,DCA Class A,47.3,1993
+07/17,Toledo,OH,5,Glassmen,DCA Class A,72.6,1993
+07/17,Toledo,OH,6,Golden Lancers,DCA Class A,45.3,1993
+07/17,Toledo,OH,6,Colts,DCA Class A,72.0,1993
+07/17,Boston,MA,1,L'Insolite,DCA Class A,78.9,1993
+07/17,Long Beach,CA,1,Mandarins,DCA Class A,76.7,1993
+07/17,Toledo,OH,7,Phantom Regiment Cadets,DCA Class A,41.6,1993
+07/17,Toledo,OH,7,Bluecoats,DCA Class A,71.1,1993
+07/17,Boston,MA,2,Spartans,DCA Class A,77.0,1993
+07/17,Long Beach,CA,2,Blue Devils B,DCA Class A,75.9,1993
+07/17,Toledo,OH,8,12th Command,DCA Class A,37.6,1993
+07/17,Toledo,OH,8,Northern Aurora,DCA Class A,64.7,1993
+07/17,Boston,MA,3,Kiwanis Kavaliers,DCA Class A,74.4,1993
+07/17,Toledo,OH,9,Marquis,DCA Class A,35.4,1993
+07/17,Boston,MA,4,Cardinals,DCA Class A,69.0,1993
+07/17,Toledo,OH,10,Bandettes,DCA Class A,35.3,1993
+07/17,Toledo,OH,1,Nite Express,DCA Class A,52.7,1993
+07/17,Boston,MA,5,Academie Musicale,DCA Class A,66.4,1993
+07/17,Toledo,OH,10,Colt Cadets,DCA Class A,35.3,1993
+07/17,Toledo,OH,2,Blue Stars,DCA Class A,52.2,1993
+07/17,Toledo,OH,12,Madison Junior Scouts,DCA Class A,33.2,1993
+07/17,Toledo,OH,3,CapitolAires,DCA Class A,52.1,1993
+07/17,Boston,MA,1,Empire Statesmen,DCA Class A,80.6,1993
+07/17,Toledo,OH,13,Northmen,DCA Class A,28.3,1993
+07/17,Toledo,OH,4,Knights,DCA Class A,46.1,1993
+07/17,Boston,MA,2,Rochester Crusaders,DCA Class A,73.1,1993
+07/17,Toledo,OH,14,Royalaires,DCA Class A,27.8,1993
+07/17,Boston,MA,3,Syracuse Brigadiers,DCA Class A,67.2,1993
+07/17,Toledo,OH,15,Guardsmen,DCA Class A,26.4,1993
+07/17,Toledo,OH,1,Minnesota Brass,DCA Class A,63.4,1993
+07/17,Boston,MA,4,Capitol Brass Ensemble,DCA Class A,50.1,1993
+07/17,Toledo,OH,16,Marion Cadets,DCA Class A,25.3,1993
+07/17,Toledo,OH,2,Govenaires,DCA Class A,46.6,1993
+07/17,Toledo,OH,17,Prince Hall Lancers,DCA Class A,23.3,1993
+07/17,Toledo,OH,18,Coachmen,DCA Class A,23.2,1993
+07/17,Toledo,OH,19,Racine Scouts,DCA Class A,15.8,1993
+07/17,Toledo,OH,1,Minnesota Brass,DCA Class A,65.4,1993
+07/17,Toledo,OH,2,Govenaires,DCA Class A,44.3,1993
+07/17,Toledo,OH,3,Chicago Vanguard,DCA Class A,37.5,1993
+07/17,Toledo,OH,4,Bluegrass Brass,DCA Class A,35.4,1993
+07/17,Bath,NY,1,Spectrum,DCA Class A,65.2,1993
+07/17,LaBaie,Quebec,1,Dimension,DCA Class A,65.18,1993
+07/17,Clifton,NJ,1,Bushwackers,Open Class,76.8,1993
+07/17,Cobourg,Ontario,1,Saint John's,DCA Class A,71.0,1993
+07/17,Bath,NY,2,Springfield Ambassadors,DCA Class A,50.3,1993
+07/17,LaBaie,Quebec,2,Les Mousquetaires,DCA Class A,58.18,1993
+07/17,Clifton,NJ,2,Hawthorne Caballeros,Open Class,74.3,1993
+07/17,Cobourg,Ontario,2,Conqueror II,DCA Class A,61.9,1993
+07/17,LaBaie,Quebec,3,Senateurs,DCA Class A,56.59,1993
+07/17,Clifton,NJ,3,Connecticut Hurricanes,Open Class,70.1,1993
+07/17,Cobourg,Ontario,3,Canadian Knights,DCA Class A,50.2,1993
+07/17,Bath,NY,1,Firebirds,DCA Class A,65.0,1993
+07/17,Clifton,NJ,4,Reading Buccaneers,Open Class,67.4,1993
+07/17,Cobourg,Ontario,4,Ridge Raiders,DCA Class A,48.8,1993
+07/17,Bath,NY,2,Quest,DCA Class A,64.0,1993
+07/17,LaBaie,Quebec,1,Les Etoiles,DCA Class A,70.3,1993
+07/17,Clifton,NJ,5,New York Skyliners,Open Class,66.0,1993
+07/17,Cobourg,Ontario,5,Oakland Crusaders,DCA Class A,48.0,1993
+07/17,LaBaie,Quebec,2,Les Senateurs,DCA Class A,45.59,1993
+07/17,Clifton,NJ,6,Les Metropolitains,Open Class,64.2,1993
+07/17,Cobourg,Ontario,6,Blue Saints,DCA Class A,38.3,1993
+07/17,LaBaie,Quebec,3,Decibels,DCA Class A,57.5,1993
+07/17,Clifton,NJ,7,Chieftains,Open Class,52.4,1993
+07/17,Cobourg,Ontario,1,Empire Loyalists,DCA Class A,66.1,1993
+07/17,LaBaie,Quebec,1,Majestic,DCA Class A,31.18,1993
+07/17,Cobourg,Ontario,2,Emerald Knights,DCA Class A,57.5,1993
+07/17,Cobourg,Ontario,1,Phoenix-ONT,DCA Class A,66.9,1993
+07/18,Beverly,MA,1,Crossmen,DCA Class A,82.3,1993
+07/18,Peterborough,Ontario,1,Saint John's,DCA Class A,75.1,1993
+07/19,Alton,IL,1,Phantom Regiment,Open Class,81.3,1993
+07/19,Mesa,AZ,1,Blue Devils,DCA Class A,82.1,1993
+07/18,Beverly,MA,2,Boston Crusaders,DCA Class A,73.0,1993
+07/18,Peterborough,Ontario,2,Conqueror II,DCA Class A,70.9,1993
+07/19,Alton,IL,2,Blue Knights,Open Class,74.3,1993
+07/19,Mesa,AZ,2,Vanguard,DCA Class A,81.2,1993
+07/18,Beverly,MA,3,Dutch Boy,DCA Class A,68.9,1993
+07/18,Peterborough,Ontario,3,Canadian Knights,DCA Class A,56.3,1993
+07/19,Alton,IL,3,Glassmen,Open Class,72.9,1993
+07/19,Mesa,AZ,3,Velvet Knights,DCA Class A,74.8,1993
+07/18,Peterborough,Ontario,4,Ridge Raiders,DCA Class A,53.6,1993
+07/19,Alton,IL,4,Sky Ryders,Open Class,64.5,1993
+07/19,Mesa,AZ,4,Freelancers,DCA Class A,71.5,1993
+07/18,Beverly,MA,1,L'Insolite,DCA Class A,79.6,1993
+07/18,Peterborough,Ontario,5,Blue Saints,DCA Class A,48.9,1993
+07/19,Alton,IL,5,Marauders,Open Class,61.9,1993
+07/18,Beverly,MA,2,Spartans,DCA Class A,76.0,1993
+07/18,Beverly,MA,3,Patriots,DCA Class A,68.6,1993
+07/18,Peterborough,Ontario,1,Oakland Crusaders,DCA Class A,50.6,1993
+07/19,Alton,IL,1,Nite Express,Open Class,66.8,1993
+07/18,Beverly,MA,4,Academie Musicale,DCA Class A,68.5,1993
+07/19,Alton,IL,2,Royalaires,Open Class,43.2,1993
+07/18,Beverly,MA,5,Ventures,DCA Class A,60.5,1993
+07/18,Peterborough,Ontario,1,Empire Loyalists,DCA Class A,75.4,1993
+07/18,Peterborough,Ontario,2,Emerald Knights,DCA Class A,63.5,1993
+07/18,Peterborough,Ontario,1,Phoenix-ONT,DCA Class A,66.8,1993
+07/19,Mesa,AZ,1,Blue Devils,DCA Class A,82.1,1993
+07/19,Dolbeau,Quebec,1,Dimension,DCA Class A,62.4,1993
+07/20,Montreal,Quebec,1,Cadets,Open Class,86.3,1993
+07/20,Albuquerque,NM,1,Vanguard,DCA Class A,81.0,1993
+07/19,Mesa,AZ,2,Vanguard,DCA Class A,81.2,1993
+07/19,Dolbeau,Quebec,2,Les Mousquetaires,DCA Class A,59.9,1993
+07/20,Montreal,Quebec,2,Crossmen,Open Class,78.8,1993
+07/20,Albuquerque,NM,2,Velvet Knights,DCA Class A,74.5,1993
+07/19,Mesa,AZ,3,Velvet Knights,DCA Class A,74.8,1993
+07/19,Dolbeau,Quebec,3,Senateurs,DCA Class A,59.6,1993
+07/20,Montreal,Quebec,3,Bluecoats,Open Class,73.7,1993
+07/20,Albuquerque,NM,3,Freelancers,DCA Class A,71.9,1993
+07/19,Mesa,AZ,4,Freelancers,DCA Class A,71.5,1993
+07/20,Montreal,Quebec,4,Boston Crusaders,Open Class,67.1,1993
+07/20,Albuquerque,NM,4,Troopers,DCA Class A,69.1,1993
+07/19,Dolbeau,Quebec,1,Les Etoiles,DCA Class A,72.0,1993
+07/20,Montreal,Quebec,5,Dutch Boy,Open Class,63.7,1993
+07/19,Dolbeau,Quebec,2,Les Senateurs,DCA Class A,70.85,1993
+07/19,Dolbeau,Quebec,3,Les Stentors,DCA Class A,66.1,1993
+07/20,Montreal,Quebec,1,L'Insolite,Open Class,74.3,1993
+07/19,Dolbeau,Quebec,4,Decibels,DCA Class A,60.2,1993
+07/19,Dolbeau,Quebec,1,Impact,DCA Class A,62.6,1993
+07/19,Dolbeau,Quebec,2,Majestic,DCA Class A,54.9,1993
+07/20,Springfield,MO,1,Phantom Regiment,DCA Class A,81.7,1993
+07/21,Pittsfield,MA,1,Cadets,DCA Class A,86.3,1993
+07/22,Evansville,IN,1,Star of Indiana,Open Class,87.7,1993
+07/22,East Rutherford,NJ,1,Cadets,DCA Class A,87.8,1993
+07/20,Springfield,MO,2,Blue Knights,DCA Class A,75.1,1993
+07/21,Pittsfield,MA,2,Cavaliers,DCA Class A,84.8,1993
+07/22,Evansville,IN,2,Phantom Regiment,Open Class,83.0,1993
+07/22,East Rutherford,NJ,2,Cavaliers,DCA Class A,85.7,1993
+07/20,Springfield,MO,3,Glassmen,DCA Class A,74.1,1993
+07/21,Pittsfield,MA,3,Crossmen,DCA Class A,79.7,1993
+07/22,Evansville,IN,3,Blue Knights,Open Class,75.4,1993
+07/22,East Rutherford,NJ,3,Crossmen,DCA Class A,80.5,1993
+07/20,Springfield,MO,4,Sky Ryders,DCA Class A,65.9,1993
+07/21,Pittsfield,MA,4,Bluecoats,DCA Class A,73.2,1993
+07/22,Evansville,IN,4,Sky Ryders,Open Class,66.9,1993
+07/22,East Rutherford,NJ,4,Bluecoats,DCA Class A,75.9,1993
+07/20,Springfield,MO,5,Marauders,DCA Class A,61.5,1993
+07/21,Pittsfield,MA,5,Boston Crusaders,DCA Class A,68.4,1993
+07/22,Evansville,IN,5,Marauders,Open Class,60.1,1993
+07/22,East Rutherford,NJ,5,Dutch Boy,DCA Class A,68.3,1993
+07/21,Pittsfield,MA,6,Dutch Boy,DCA Class A,63.5,1993
+07/22,Evansville,IN,6,Carolina Crown,Open Class,53.2,1993
+07/22,Tulsa,OK,1,Blue Devils,DCA Class A,81.5,1993
+07/22,Ishpeming,MI,1,Blue Stars,DCA Class A,55.3,1993
+07/23,Hibbing,MN,1,Minnesota Brass,Open Class,68.0,1993
+07/23,Bettendorf,IA,1,Madison Scouts,DCA Class A,82.0,1993
+07/22,Tulsa,OK,2,Vanguard,DCA Class A,79.5,1993
+07/22,Ishpeming,MI,2,CapitolAires,DCA Class A,53.7,1993
+07/23,Hibbing,MN,2,CapitolAires,Open Class,56.8,1993
+07/23,Bettendorf,IA,2,Colts,DCA Class A,71.9,1993
+07/22,Tulsa,OK,3,Freelancers,DCA Class A,70.7,1993
+07/22,Ishpeming,MI,3,12th Command,DCA Class A,40.6,1993
+07/23,Hibbing,MN,3,Americanos,Open Class,44.7,1993
+07/23,Bettendorf,IA,3,Marauders,DCA Class A,64.6,1993
+07/22,Tulsa,OK,4,Troopers,DCA Class A,67.0,1993
+07/22,Ishpeming,MI,4,Bandettes,DCA Class A,38.9,1993
+07/23,Hibbing,MN,4,Govenaires,Open Class,43.1,1993
+07/23,Bettendorf,IA,4,Pioneer,DCA Class A,59.3,1993
+07/22,Tulsa,OK,5,Black Gold,DCA Class A,51.7,1993
+07/22,Ishpeming,MI,5,Madison Junior Scouts,DCA Class A,37.7,1993
+07/23,Hibbing,MN,5,Marquis,Open Class,39.4,1993
+07/23,Bettendorf,IA,5,Railmen,DCA Class A,56.6,1993
+07/22,Ishpeming,MI,6,Northmen,DCA Class A,31.0,1993
+07/23,Hibbing,MN,6,Royalaires,Open Class,30.9,1993
+07/23,Bettendorf,IA,6,Nite Express,DCA Class A,53.1,1993
+07/22,Tulsa,OK,1,Lone Star,DCA Class A,53.0,1993
+07/22,Ishpeming,MI,7,Blue Saints,DCA Class A,29.3,1993
+07/23,Bettendorf,IA,7,Knights,DCA Class A,47.6,1993
+07/22,Tulsa,OK,2,Delta Brigade,DCA Class A,39.1,1993
+07/23,Bettendorf,IA,8,Northmen,DCA Class A,29.1,1993
+07/23,College Park,MD,1,Westshoremen,Open Class,72.5,1993
+07/23,Reading,PA,1,Bushwackers,Open Class,86.3,1993
+07/23,Charlevoix,MI,1,Blue Stars,Open Class,57.4,1993
+07/24,Schenectady,NY,1,Empire Statesmen,Open Class,79.3,1993
+07/23,College Park,MD,2,Reading Buccaneers,Open Class,71.6,1993
+07/23,Reading,PA,2,Rochester Crusaders,Open Class,84.3,1993
+07/23,Charlevoix,MI,2,12th Command,Open Class,45.8,1993
+07/24,Schenectady,NY,2,Rochester Crusaders,Open Class,71.1,1993
+07/23,College Park,MD,3,Chieftains,Open Class,55.0,1993
+07/23,Reading,PA,3,Westshoremen,Open Class,73.8,1993
+07/23,Charlevoix,MI,3,Bandettes,Open Class,40.8,1993
+07/24,Schenectady,NY,3,Syracuse Brigadiers,Open Class,66.0,1993
+07/23,Reading,PA,4,Connecticut Hurricanes,Open Class,73.7,1993
+07/23,Charlevoix,MI,4,Madison Junior Scouts,Open Class,38.4,1993
+07/24,Schenectady,NY,4,New York Skyliners,Open Class,65.8,1993
+07/23,Reading,PA,5,Reading Buccaneers,Open Class,71.1,1993
+07/23,Charlevoix,MI,5,Blue Saints,Open Class,31.4,1993
+07/24,Schenectady,NY,5,Capitol Brass Ensemble,Open Class,55.7,1993
+07/23,Reading,PA,6,Chieftains,Open Class,57.8,1993
+07/23,Charlevoix,MI,6,Coachmen,Open Class,25.3,1993
+07/24,Dubuque,IA,1,Madison Scouts,Open Class,83.2,1993
+07/24,Saul Ste. Marie,Ontario,1,Blue Stars,Open Class,58.6,1993
+07/24,Great Barrington,MA,1,Spartans,Open Class,81.1,1993
+07/24,Chelmsford,MA,1,Buccaneers,Open Class,73.3,1993
+07/24,Dubuque,IA,2,Colts,Open Class,75.0,1993
+07/24,Saul Ste. Marie,Ontario,2,12th Command,Open Class,45.7,1993
+07/24,Great Barrington,MA,2,Royal Columbians,Open Class,67.1,1993
+07/24,Chelmsford,MA,2,East Coast Jazz,Open Class,71.6,1993
+07/24,Dubuque,IA,3,Marauders,Open Class,67.9,1993
+07/24,Saul Ste. Marie,Ontario,3,Madison Junior Scouts,Open Class,39.5,1993
+07/24,Great Barrington,MA,3,Ventures,Open Class,63.9,1993
+07/24,Chelmsford,MA,3,Satellites,Open Class,59.3,1993
+07/24,Dubuque,IA,4,Pioneer,Open Class,64.6,1993
+07/24,Saul Ste. Marie,Ontario,4,Blue Saints,Open Class,34.3,1993
+07/24,Dubuque,IA,5,Railmen,Open Class,58.1,1993
+07/24,Saul Ste. Marie,Ontario,5,Coachmen,Open Class,30.0,1993
+07/24,Chelmsford,MA,1,Phoenix,Open Class,74.2,1993
+07/24,Dubuque,IA,6,Nite Express,Open Class,54.2,1993
+07/24,Chelmsford,MA,2,Royal Cadets,Open Class,72.8,1993
+07/24,Dubuque,IA,7,Knights,Open Class,48.8,1993
+07/24,Chelmsford,MA,3,Citations,Open Class,70.1,1993
+07/24,Dubuque,IA,8,Phantom Regiment Cadets,Open Class,41.1,1993
+07/24,Chelmsford,MA,4,Joanettes,Open Class,67.3,1993
+07/24,Dubuque,IA,9,Colt Cadets,Open Class,35.5,1993
+07/24,Chelmsford,MA,1,East Coast Cadets,Open Class,63.3,1993
+07/24,Chelmsford,MA,2,Braintree Braves,Open Class,34.1,1993
+07/24,L'Ancienne-Lorette,Quebec,1,Academie Musicale,Open Class,75.18,1993
+07/24,Sharon Hill,PA,1,Raiders,Open Class,75.3,1993
+07/24,Nashville,TN,1,Phantom Regiment,Open Class,84.3,1993
+07/24,Nashville,TN,1,Phantom Regiment,Open Class,85.0,1993
+07/24,Sharon Hill,PA,2,Southern Knights,Open Class,73.0,1993
+07/24,Nashville,TN,2,Blue Devils,Open Class,83.9,1993
+07/24,Nashville,TN,2,Blue Devils,Open Class,84.8,1993
+07/24,L'Ancienne-Lorette,Quebec,1,Dimension,Open Class,67.18,1993
+07/24,Nashville,TN,3,Vanguard,Open Class,80.8,1993
+07/24,Nashville,TN,3,Vanguard,Open Class,80.8,1993
+07/24,L'Ancienne-Lorette,Quebec,2,Les Mousquetaires,Open Class,64.73,1993
+07/24,Sharon Hill,PA,1,Marching 100,Open Class,54.2,1993
+07/24,Nashville,TN,4,Blue Knights,Open Class,76.0,1993
+07/24,Nashville,TN,4,Blue Knights,Open Class,79.7,1993
+07/24,L'Ancienne-Lorette,Quebec,3,Senateurs,Open Class,61.18,1993
+07/24,Nashville,TN,5,Velvet Knights,Open Class,74.8,1993
+07/24,Nashville,TN,5,Velvet Knights,Open Class,73.6,1993
+07/24,Sharon Hill,PA,1,Illusion,Open Class,50.3,1993
+07/24,Nashville,TN,6,Spirit of Georgia,Open Class,73.7,1993
+07/24,Nashville,TN,6,Glassmen,Open Class,73.0,1993
+07/24,L'Ancienne-Lorette,Quebec,1,Les Voltigeurs,Open Class,38.45,1993
+07/24,Sharon Hill,PA,2,Springfield Ambassadors,Open Class,48.3,1993
+07/24,Nashville,TN,7,Glassmen,Open Class,71.9,1993
+07/24,Nashville,TN,7,Freelancers,Open Class,71.6,1993
+07/24,Sharon Hill,PA,3,Phoenix-NJ,Open Class,43.1,1993
+07/24,Nashville,TN,8,Freelancers,Open Class,71.6,1993
+07/24,Nashville,TN,8,Spirit of Georgia,Open Class,71.5,1993
+07/24,Nashville,TN,9,Sky Ryders,Open Class,68.6,1993
+07/24,Nashville,TN,9,Magic of Orlando,Open Class,66.7,1993
+07/24,Nashville,TN,10,Magic of Orlando,Open Class,66.4,1993
+07/24,Nashville,TN,10,Sky Ryders,Open Class,64.7,1993
+07/24,Nashville,TN,11,Southwind,Open Class,65.2,1993
+07/24,Nashville,TN,12,Troopers,Open Class,63.8,1993
+07/24,Nashville,TN,13,Carolina Crown,Open Class,61.4,1993
+07/24,Nashville,TN,14,Black Gold,Open Class,52.5,1993
+07/24,Buffalo,NY,1,Star of Indiana,Open Class,88.9,1993
+07/25,South Milwaukee,WI,1,Madison Scouts,Open Class,83.6,1993
+07/25,Dunellen,NJ,1,Southern Knights,Open Class,81.5,1993
+07/25,Burlington,MA,1,Buccaneers,Open Class,81.9,1993
+07/24,Buffalo,NY,2,Cadets,Open Class,87.4,1993
+07/25,South Milwaukee,WI,2,Colts,Open Class,74.9,1993
+07/25,Burlington,MA,2,East Coast Jazz,Open Class,78.4,1993
+07/24,Buffalo,NY,3,Cavaliers,Open Class,84.9,1993
+07/25,South Milwaukee,WI,3,Marauders,Open Class,68.6,1993
+07/25,Dunellen,NJ,1,Marching 100,Open Class,67.6,1993
+07/25,Burlington,MA,3,Satellites,Open Class,70.8,1993
+07/24,Buffalo,NY,4,Crossmen,Open Class,80.2,1993
+07/25,South Milwaukee,WI,4,Pioneer,Open Class,63.1,1993
+07/25,Dunellen,NJ,2,Quest,Open Class,62.9,1993
+07/24,Buffalo,NY,5,Bluecoats,Open Class,76.5,1993
+07/25,South Milwaukee,WI,5,Nite Express,Open Class,56.9,1993
+07/25,Burlington,MA,1,Phoenix,Open Class,74.2,1993
+07/24,Buffalo,NY,6,Boston Crusaders,Open Class,70.2,1993
+07/25,South Milwaukee,WI,6,Phantom Regiment Cadets,Open Class,43.6,1993
+07/25,Dunellen,NJ,1,Illusion,Open Class,59.0,1993
+07/25,Burlington,MA,2,Royal Cadets,Open Class,73.2,1993
+07/24,Buffalo,NY,7,Dutch Boy,Open Class,68.1,1993
+07/25,South Milwaukee,WI,7,Chicago Vanguard,Open Class,36.8,1993
+07/25,Dunellen,NJ,2,Springfield Ambassadors,Open Class,57.4,1993
+07/25,Burlington,MA,3,Joanettes,Open Class,70.1,1993
+07/24,Buffalo,NY,8,Northern Aurora,Open Class,66.5,1993
+07/25,Dunellen,NJ,3,Phoenix-NJ,Open Class,53.9,1993
+07/25,Burlington,MA,4,Citations,Open Class,69.9,1993
+07/24,Buffalo,NY,1,Kiwanis Kavaliers,Open Class,69.7,1993
+07/25,Dunellen,NJ,1,William G. Lucas,Open Class,42.4,1993
+07/25,Burlington,MA,1,East Coast Cadets,Open Class,59.0,1993
+07/24,Buffalo,NY,2,Patriots,Open Class,66.5,1993
+07/25,Burlington,MA,2,Braintree Braves,Open Class,24.1,1993
+07/24,Buffalo,NY,3,Cardinals,Open Class,64.1,1993
+07/24,Buffalo,NY,1,Saint John's,Open Class,61.2,1993
+07/24,Buffalo,NY,2,Contemporary Youth Ens.,Open Class,51.5,1993
+07/24,Buffalo,NY,3,Ridge Raiders,Open Class,49.7,1993
+07/24,Buffalo,NY,4,Spectrum,Open Class,48.8,1993
+07/24,Buffalo,NY,5,Firebirds,Open Class,24.2,1993
+07/25,Sudbury,Ontario,1,12th Command,Open Class,64.4,1993
+07/26,Sevierville,TN,1,Phantom Regiment,Open Class,85.3,1993
+07/26,Massillon,OH,1,Star of Indiana,Open Class,89.4,1993
+07/26,Winchester,KY,1,Vanguard,Open Class,82.3,1993
+07/25,Sudbury,Ontario,2,Madison Junior Scouts,Open Class,54.2,1993
+07/26,Sevierville,TN,2,Velvet Knights,Open Class,76.3,1993
+07/26,Massillon,OH,2,Crossmen,Open Class,81.1,1993
+07/26,Winchester,KY,2,Blue Knights,Open Class,77.8,1993
+07/25,Sudbury,Ontario,3,Canadian Knights,Open Class,49.5,1993
+07/26,Sevierville,TN,3,Spirit of Georgia,Open Class,72.3,1993
+07/26,Massillon,OH,3,Bluecoats,Open Class,77.1,1993
+07/26,Winchester,KY,3,Magic of Orlando,Open Class,67.5,1993
+07/25,Sudbury,Ontario,4,Bandettes,Open Class,45.1,1993
+07/26,Sevierville,TN,4,Sky Ryders,Open Class,66.8,1993
+07/26,Massillon,OH,4,Glassmen,Open Class,74.3,1993
+07/26,Winchester,KY,4,Carolina Crown,Open Class,60.5,1993
+07/25,Sudbury,Ontario,5,Blue Saints,Open Class,41.2,1993
+07/26,Sevierville,TN,5,Troopers,Open Class,64.7,1993
+07/26,Massillon,OH,5,Boston Crusaders,Open Class,72.4,1993
+07/26,Winchester,KY,5,Black Gold,Open Class,51.8,1993
+07/26,Sevierville,TN,6,Southwind,Open Class,61.5,1993
+07/26,Massillon,OH,6,Dutch Boy,Open Class,70.0,1993
+07/25,Sudbury,Ontario,1,Nickel City Sound,Open Class,73.0,1993
+07/26,Massillon,OH,7,Northern Aurora,Open Class,64.6,1993
+07/26,Massillon,OH,8,Golden Lancers,Open Class,43.8,1993
+07/27,Columbus,OH,1,Cavaliers,Open Class,87.3,1993
+07/27,Fairfield,OH,1,Star of Indiana,Open Class,89.4,1993
+07/28,Centerville,OH,1,Cadets,Open Class,87.9,1993
+07/28,Fort Wayne,IN,1,Star of Indiana,Open Class,90.7,1993
+07/27,Columbus,OH,2,Madison Scouts,Open Class,82.9,1993
+07/27,Fairfield,OH,2,Cadets,Open Class,87.2,1993
+07/28,Centerville,OH,2,Blue Devils,Open Class,85.6,1993
+07/28,Fort Wayne,IN,2,Phantom Regiment,Open Class,85.3,1993
+07/27,Columbus,OH,3,Vanguard,Open Class,81.9,1993
+07/27,Fairfield,OH,3,Blue Devils,Open Class,84.6,1993
+07/28,Centerville,OH,3,Madison Scouts,Open Class,82.6,1993
+07/28,Fort Wayne,IN,3,Bluecoats,Open Class,77.6,1993
+07/27,Columbus,OH,4,Freelancers,Open Class,73.4,1993
+07/27,Fairfield,OH,4,Crossmen,Open Class,81.3,1993
+07/28,Centerville,OH,4,Freelancers,Open Class,73.4,1993
+07/28,Fort Wayne,IN,4,Colts,Open Class,73.0,1993
+07/27,Columbus,OH,5,Boston Crusaders,Open Class,71.0,1993
+07/27,Fairfield,OH,5,Velvet Knights,Open Class,74.3,1993
+07/28,Centerville,OH,5,Velvet Knights,Open Class,73.0,1993
+07/28,Fort Wayne,IN,5,Boston Crusaders,Open Class,72.9,1993
+07/27,Columbus,OH,6,Carolina Crown,Open Class,61.3,1993
+07/27,Fairfield,OH,6,Colts,Open Class,71.1,1993
+07/28,Centerville,OH,6,Sky Ryders,Open Class,67.5,1993
+07/28,Fort Wayne,IN,6,Marauders,Open Class,64.6,1993
+07/27,Fairfield,OH,7,Spirit of Georgia,Open Class,70.6,1993
+07/28,Centerville,OH,7,Troopers,Open Class,67.2,1993
+07/28,Fort Wayne,IN,7,Southwind,Open Class,63.8,1993
+07/27,Fairfield,OH,8,Marauders,Open Class,61.8,1993
+07/28,Centerville,OH,8,Black Gold,Open Class,50.3,1993
+07/28,Huntington,WV,1,Cavaliers,Open Class,86.9,1993
+07/28,Green Bay,WI,1,Nite Express,Open Class,77.9,1993
+07/30,Ypsilanti,MI,1,Star of Indiana,Open Class,90.1,1993
+07/31,Ypsilanti,MI,1,Star of Indiana,Open Class,92.0,1993
+07/28,Huntington,WV,2,Vanguard,Open Class,83.3,1993
+07/28,Green Bay,WI,2,Blue Stars,Open Class,74.8,1993
+07/30,Ypsilanti,MI,1,Cadets,Open Class,90.1,1993
+07/31,Ypsilanti,MI,2,Cadets,Open Class,90.4,1993
+07/28,Huntington,WV,3,Blue Knights,Open Class,80.0,1993
+07/28,Green Bay,WI,3,Americanos,Open Class,69.4,1993
+07/30,Ypsilanti,MI,3,Cavaliers,Open Class,86.7,1993
+07/31,Ypsilanti,MI,3,Cavaliers,Open Class,87.9,1993
+07/28,Huntington,WV,4,Spirit of Georgia,Open Class,73.5,1993
+07/28,Green Bay,WI,4,Northmen,Open Class,61.5,1993
+07/30,Ypsilanti,MI,4,Blue Devils,Open Class,86.4,1993
+07/31,Ypsilanti,MI,4,Blue Devils,Open Class,86.7,1993
+07/28,Huntington,WV,5,Dutch Boy,Open Class,70.1,1993
+07/28,Green Bay,WI,5,Bandettes,Open Class,59.6,1993
+07/30,Ypsilanti,MI,5,Phantom Regiment,Open Class,86.2,1993
+07/31,Ypsilanti,MI,4,Phantom Regiment,Open Class,86.7,1993
+07/28,Huntington,WV,6,Magic of Orlando,Open Class,68.1,1993
+07/28,Green Bay,WI,6,Colt Cadets,Open Class,57.1,1993
+07/30,Ypsilanti,MI,6,Madison Scouts,Open Class,83.1,1993
+07/31,Ypsilanti,MI,6,Vanguard,Open Class,83.6,1993
+07/28,Huntington,WV,7,Carolina Crown,Open Class,62.6,1993
+07/30,Ypsilanti,MI,7,Vanguard,Open Class,83.0,1993
+07/31,Ypsilanti,MI,7,Madison Scouts,Open Class,83.3,1993
+07/30,Ypsilanti,MI,8,Crossmen,Open Class,81.4,1993
+07/31,Ypsilanti,MI,8,Crossmen,Open Class,81.6,1993
+07/30,Ypsilanti,MI,9,Blue Knights,Open Class,77.4,1993
+07/31,Ypsilanti,MI,9,Blue Knights,Open Class,79.9,1993
+07/30,Ypsilanti,MI,10,Bluecoats,Open Class,76.9,1993
+07/31,Ypsilanti,MI,10,Bluecoats,Open Class,77.1,1993
+07/30,Ypsilanti,MI,11,Glassmen,Open Class,75.5,1993
+07/31,Ypsilanti,MI,11,Glassmen,Open Class,73.9,1993
+07/30,Ypsilanti,MI,12,Freelancers,Open Class,73.7,1993
+07/31,Ypsilanti,MI,12,Freelancers,Open Class,72.3,1993
+07/30,Ypsilanti,MI,13,Velvet Knights,Open Class,72.9,1993
+07/30,Ypsilanti,MI,14,Colts,Open Class,72.5,1993
+07/30,Ypsilanti,MI,15,Spirit of Georgia,Open Class,70.9,1993
+07/30,Ypsilanti,MI,16,Boston Crusaders,Open Class,69.8,1993
+07/30,Ypsilanti,MI,17,Troopers,Open Class,67.9,1993
+07/30,Ypsilanti,MI,18,Magic of Orlando,Open Class,67.8,1993
+07/30,Ypsilanti,MI,19,Dutch Boy,Open Class,67.0,1993
+07/30,Ypsilanti,MI,20,Sky Ryders,Open Class,66.7,1993
+07/30,Ypsilanti,MI,21,Northern Aurora,Open Class,64.3,1993
+07/30,Ypsilanti,MI,22,Southwind,Open Class,62.0,1993
+07/30,Ypsilanti,MI,23,Marauders,Open Class,60.9,1993
+07/30,Ypsilanti,MI,24,Carolina Crown,Open Class,59.6,1993
+07/30,Ypsilanti,MI,25,Black Gold,Open Class,51.5,1993
+07/31,Leominster,MA,1,Buccaneers,Open Class,73.2,1993
+07/31,Bayonne,NJ,1,Raiders,Open Class,81.4,1993
+07/31,Dorion,Quebec,1,Academie Musicale,Open Class,76.55,1993
+07/31,Rochester,NY,1,Rochester Crusaders,Open Class,83.1,1993
+07/31,Leominster,MA,2,East Coast Jazz,Open Class,67.4,1993
+07/31,Bayonne,NJ,2,Southern Knights,Open Class,80.6,1993
+07/31,Rochester,NY,2,New York Skyliners,Open Class,78.3,1993
+07/31,Leominster,MA,3,Satellites,Open Class,58.9,1993
+07/31,Dorion,Quebec,1,Dimension,Open Class,70.27,1993
+07/31,Rochester,NY,3,Syracuse Brigadiers,Open Class,77.5,1993
+07/31,Bayonne,NJ,1,Quest,Open Class,65.1,1993
+07/31,Dorion,Quebec,2,Senateurs,Open Class,67.36,1993
+07/31,Rochester,NY,4,Les Metropolitains,Open Class,69.2,1993
+07/31,Leominster,MA,1,Phoenix,Open Class,73.2,1993
+07/31,Bayonne,NJ,2,Marching 100,Open Class,63.2,1993
+07/31,Dorion,Quebec,3,Ensemble Contemporary,Open Class,56.73,1993
+07/31,Rochester,NY,5,Capitol Brass Ensemble,Open Class,62.8,1993
+07/31,Leominster,MA,2,Royal Cadets,Open Class,72.1,1993
+07/31,Leominster,MA,3,Joanettes,Open Class,67.9,1993
+07/31,Bayonne,NJ,1,Springfield Ambassadors,Open Class,59.9,1993
+07/31,Dorion,Quebec,1,Les Etoiles,Open Class,58.64,1993
+07/31,Leominster,MA,4,Citations,Open Class,66.3,1993
+07/31,Bayonne,NJ,2,Illusion,Open Class,58.5,1993
+07/31,Dorion,Quebec,2,Les Senateurs,Open Class,52.36,1993
+07/31,Bayonne,NJ,3,Phoenix-NJ,Open Class,53.4,1993
+07/31,Dorion,Quebec,3,Les Stentors,Open Class,46.45,1993
+07/31,Leominster,MA,1,East Coast Cadets,Open Class,53.3,1993
+07/31,Dorion,Quebec,4,Decibels,Open Class,38.73,1993
+07/31,Leominster,MA,2,Braintree Braves,Open Class,34.3,1993
+07/31,Bayonne,NJ,1,William G. Lucas,Open Class,32.6,1993
+07/31,Bayonne,NJ,2,Images,Open Class,24.4,1993
+07/31,Leominster,MA,1,Bushwackers,Open Class,85.2,1993
+07/31,Leominster,MA,2,Hawthorne Caballeros,Open Class,83.7,1993
+07/31,Leominster,MA,3,Connecticut Hurricanes,Open Class,77.5,1993
+07/31,Leominster,MA,4,Westshoremen,Open Class,76.5,1993
+07/31,Leominster,MA,5,Reading Buccaneers,Open Class,76.1,1993
+08/01,Bellevue,OH,1,Blue Devils,World Class,87.8,1993
+08/01,Des Plaines,IL,1,Cadets,World Class,90.9,1993
+08/01,Batavia,NY,1,Patriots,World Class,82.8,1993
+08/01,Mississauga,Ontario,1,Kiwanis Kavaliers,World Class,83.7,1993
+08/01,Bellevue,OH,2,Velvet Knights,World Class,78.3,1993
+08/01,Des Plaines,IL,2,Cavaliers,World Class,88.5,1993
+08/01,Batavia,NY,2,Oakland Crusaders,World Class,61.5,1993
+08/01,Mississauga,Ontario,2,Cardinals,World Class,79.3,1993
+08/01,Bellevue,OH,3,Boston Crusaders,World Class,71.7,1993
+08/01,Des Plaines,IL,3,Phantom Regiment,World Class,87.0,1993
+08/01,Bellevue,OH,4,Dutch Boy,World Class,70.1,1993
+08/01,Des Plaines,IL,4,Blue Knights,World Class,81.5,1993
+08/01,Batavia,NY,1,Empire Loyalists,World Class,76.4,1993
+08/01,Mississauga,Ontario,1,Conqueror II,World Class,73.3,1993
+08/01,Bellevue,OH,5,Magic of Orlando,World Class,67.8,1993
+08/01,Des Plaines,IL,5,Glassmen,World Class,76.2,1993
+08/01,Batavia,NY,2,Quest,World Class,67.3,1993
+08/01,Mississauga,Ontario,2,Saint John's,World Class,71.1,1993
+08/01,Bellevue,OH,6,Carolina Crown,World Class,60.3,1993
+08/01,Des Plaines,IL,6,Troopers,World Class,68.6,1993
+08/01,Batavia,NY,3,Firebirds,World Class,61.2,1993
+08/01,Mississauga,Ontario,3,Ventures,World Class,67.0,1993
+08/01,Des Plaines,IL,7,Allegiance Elite,World Class,53.7,1993
+08/01,Mississauga,Ontario,4,Canadian Knights,World Class,57.2,1993
+08/01,Des Plaines,IL,8,Phantom Regiment Cadets,World Class,43.6,1993
+08/01,Batavia,NY,1,Spectrum,World Class,63.4,1993
+08/01,Mississauga,Ontario,5,Ridge Raiders,World Class,55.5,1993
+08/01,Mississauga,Ontario,1,Dutch Boy Cadets,World Class,70.2,1993
+08/01,Mississauga,Ontario,2,Emerald Knights,World Class,62.7,1993
+08/01,Mississauga,Ontario,1,Nickel City Sound,World Class,72.7,1993
+08/02,Stillwater,MN,1,Star of Indiana,World Class,90.9,1993
+08/02,Mentor,OH,1,Blue Devils,World Class,88.2,1993
+08/02,Burlington,IA,1,Cadets,World Class,91.0,1993
+08/03,Blaine,MN,1,Star of Indiana,World Class,91.8,1993
+08/02,Stillwater,MN,2,Madison Scouts,World Class,85.2,1993
+08/02,Mentor,OH,2,Crossmen,World Class,83.1,1993
+08/02,Burlington,IA,2,Vanguard,World Class,86.4,1993
+08/03,Blaine,MN,2,Madison Scouts,World Class,84.1,1993
+08/02,Stillwater,MN,3,Freelancers,World Class,75.5,1993
+08/02,Mentor,OH,3,Bluecoats,World Class,79.6,1993
+08/02,Burlington,IA,3,Blue Knights,World Class,80.3,1993
+08/03,Blaine,MN,3,Vanguard,World Class,82.9,1993
+08/02,Stillwater,MN,4,Marauders,World Class,66.9,1993
+08/02,Mentor,OH,4,Spirit of Georgia,World Class,73.8,1993
+08/02,Burlington,IA,4,Glassmen,World Class,77.7,1993
+08/03,Blaine,MN,4,Sky Ryders,World Class,65.1,1993
+08/02,Stillwater,MN,5,Black Gold,World Class,58.3,1993
+08/02,Mentor,OH,5,Southwind,World Class,66.4,1993
+08/02,Burlington,IA,5,Colts,World Class,75.6,1993
+08/03,Blaine,MN,5,Pioneer,World Class,56.3,1993
+08/02,Mentor,OH,6,Northern Aurora,World Class,64.6,1993
+08/02,Burlington,IA,6,Sky Ryders,World Class,69.5,1993
+08/03,Blaine,MN,6,Black Gold,World Class,53.7,1993
+08/02,Stillwater,MN,1,Pioneer,World Class,77.4,1993
+08/02,Burlington,IA,7,Knights,World Class,55.0,1993
+08/03,Blaine,MN,7,Blue Stars,World Class,52.4,1993
+08/02,Stillwater,MN,2,Blue Stars,World Class,73.3,1993
+08/03,Blaine,MN,8,CapitolAires,World Class,46.7,1993
+08/02,Stillwater,MN,3,CapitolAires,World Class,70.0,1993
+08/03,Pittsburgh,PA,1,Cavaliers,World Class,88.0,1993
+08/03,Ankeny,IA,1,Cadets,World Class,92.1,1993
+08/03,Salem,VA,1,Crossmen,World Class,83.8,1993
+08/04,Fulton,NY,1,Blue Devils,World Class,88.1,1993
+08/03,Pittsburgh,PA,2,Velvet Knights,World Class,79.5,1993
+08/03,Ankeny,IA,2,Glassmen,World Class,78.6,1993
+08/03,Salem,VA,2,Bluecoats,World Class,80.6,1993
+08/04,Fulton,NY,2,Cavaliers,World Class,87.4,1993
+08/03,Pittsburgh,PA,3,Boston Crusaders,World Class,75.4,1993
+08/03,Ankeny,IA,3,Freelancers,World Class,73.9,1993
+08/03,Salem,VA,3,Spirit of Georgia,World Class,73.5,1993
+08/04,Fulton,NY,3,Velvet Knights,World Class,78.0,1993
+08/03,Pittsburgh,PA,4,Magic of Orlando,World Class,71.4,1993
+08/03,Ankeny,IA,4,Colts,World Class,73.6,1993
+08/03,Salem,VA,4,Dutch Boy,World Class,71.3,1993
+08/04,Fulton,NY,4,Boston Crusaders,World Class,73.8,1993
+08/03,Pittsburgh,PA,5,Northern Aurora,World Class,69.0,1993
+08/03,Ankeny,IA,5,Marauders,World Class,60.6,1993
+08/03,Salem,VA,5,Carolina Crown,World Class,64.1,1993
+08/04,Fulton,NY,5,Magic of Orlando,World Class,70.0,1993
+08/03,Pittsburgh,PA,6,Southwind,World Class,66.3,1993
+08/03,Ankeny,IA,6,Railmen,World Class,56.8,1993
+08/04,Fulton,NY,6,Northern Aurora,World Class,68.2,1993
+08/03,Ankeny,IA,7,Allegiance Elite,World Class,51.8,1993
+08/04,Fulton,NY,1,L'Insolite,World Class,81.0,1993
+08/04,Fulton,NY,2,Kiwanis Kavaliers,World Class,72.2,1993
+08/04,Fulton,NY,3,Patriots,World Class,69.9,1993
+08/04,Fulton,NY,4,Ventures,World Class,66.1,1993
+08/04,Omaha,NE,1,Star of Indiana,World Class,91.2,1993
+08/05,Bensalem,PA,1,Cavaliers,World Class,87.6,1993
+08/05,Hornell,NY,1,Blue Devils,World Class,89.4,1993
+08/05,Sioux City,IA,1,Cadets,World Class,91.3,1993
+08/04,Omaha,NE,2,Madison Scouts,World Class,85.8,1993
+08/05,Bensalem,PA,2,Crossmen,World Class,82.3,1993
+08/05,Hornell,NY,2,Velvet Knights,World Class,80.8,1993
+08/05,Sioux City,IA,2,Phantom Regiment,World Class,88.6,1993
+08/04,Omaha,NE,3,Vanguard,World Class,84.8,1993
+08/05,Bensalem,PA,3,Bluecoats,World Class,80.2,1993
+08/05,Hornell,NY,3,Magic of Orlando,World Class,72.3,1993
+08/05,Sioux City,IA,3,Madison Scouts,World Class,86.5,1993
+08/04,Omaha,NE,4,Glassmen,World Class,78.7,1993
+08/05,Bensalem,PA,4,Spirit of Georgia,World Class,71.0,1993
+08/05,Hornell,NY,4,Boston Crusaders,World Class,71.6,1993
+08/05,Sioux City,IA,4,Colts,World Class,78.8,1993
+08/04,Omaha,NE,5,Marauders,World Class,64.2,1993
+08/05,Bensalem,PA,5,Dutch Boy,World Class,69.4,1993
+08/05,Hornell,NY,5,Northern Aurora,World Class,67.5,1993
+08/05,Sioux City,IA,5,Freelancers,World Class,77.6,1993
+08/04,Omaha,NE,6,Black Gold,World Class,56.3,1993
+08/05,Bensalem,PA,6,Carolina Crown,World Class,59.7,1993
+08/05,Hornell,NY,6,Southwind,World Class,67.3,1993
+08/05,Sioux City,IA,6,Seattle Cascades,World Class,47.4,1993
+08/04,Omaha,NE,7,Railmen,World Class,52.3,1993
+08/05,Bensalem,PA,7,Jersey Surf,World Class,42.8,1993
+08/05,Hornell,NY,7,Patriots,World Class,52.7,1993
+08/04,Omaha,NE,8,Allegiance Elite,World Class,48.6,1993
+08/05,Hornell,NY,8,Southern Knights,World Class,49.7,1993
+08/05,Hornell,NY,9,Ventures,World Class,49.5,1993
+08/06,Grand Haven,MI,1,Pioneer,World Class,83.7,1993
+08/06,Allentown,PA,1,L'Insolite,World Class,85.0,1993
+08/07,Allentown,PA,1,Cavaliers,World Class,89.7,1993
+08/07,Allentown,PA,1,Cavaliers,World Class,90.4,1993
+08/06,Grand Haven,MI,2,Railmen,World Class,80.6,1993
+08/06,Allentown,PA,2,Carolina Crown,World Class,84.9,1993
+08/07,Allentown,PA,2,Blue Devils,World Class,89.3,1993
+08/07,Allentown,PA,2,Blue Devils,World Class,90.3,1993
+08/06,Grand Haven,MI,3,Allegiance Elite,World Class,75.4,1993
+08/06,Allentown,PA,3,Spartans,World Class,81.1,1993
+08/07,Allentown,PA,3,Crossmen,World Class,86.0,1993
+08/07,Allentown,PA,3,Crossmen,World Class,86.4,1993
+08/06,Grand Haven,MI,4,Nite Express,World Class,74.8,1993
+08/06,Allentown,PA,4,Patriots,World Class,76.8,1993
+08/07,Allentown,PA,4,Bluecoats,World Class,83.1,1993
+08/07,Allentown,PA,4,Bluecoats,World Class,84.8,1993
+08/06,Grand Haven,MI,5,Seattle Cascades,World Class,64.2,1993
+08/06,Allentown,PA,5,Academie Musicale,World Class,73.6,1993
+08/07,Allentown,PA,5,Velvet Knights,World Class,78.4,1993
+08/07,Allentown,PA,5,Velvet Knights,World Class,80.6,1993
+08/06,Allentown,PA,6,Jersey Surf,World Class,66.2,1993
+08/07,Allentown,PA,6,Boston Crusaders,World Class,75.1,1993
+08/07,Allentown,PA,6,Boston Crusaders,World Class,77.9,1993
+08/06,Grand Haven,MI,1,Blue Stars,World Class,77.7,1993
+08/06,Allentown,PA,7,Raiders,World Class,62.4,1993
+08/07,Allentown,PA,7,Spirit of Georgia,World Class,72.9,1993
+08/07,Allentown,PA,7,Magic of Orlando,World Class,73.9,1993
+08/06,Grand Haven,MI,2,Saint John's,World Class,75.1,1993
+08/07,Allentown,PA,8,Dutch Boy,World Class,71.6,1993
+08/07,Allentown,PA,8,Spirit of Georgia,World Class,73.4,1993
+08/06,Grand Haven,MI,3,12th Command,World Class,61.9,1993
+08/06,Allentown,PA,1,Southern Knights,World Class,72.2,1993
+08/07,Allentown,PA,9,Magic of Orlando,World Class,70.6,1993
+08/07,Allentown,PA,9,Dutch Boy,World Class,73.0,1993
+08/06,Grand Haven,MI,4,Northmen,World Class,49.4,1993
+08/06,Allentown,PA,2,Royal Columbians,World Class,70.5,1993
+08/07,Allentown,PA,10,Northern Aurora,World Class,68.1,1993
+08/07,Allentown,PA,10,Northern Aurora,World Class,69.0,1993
+08/06,Grand Haven,MI,5,Guardsmen,World Class,46.6,1993
+08/06,Allentown,PA,3,Buccaneers,World Class,68.5,1993
+08/07,Allentown,PA,11,Southwind,World Class,67.5,1993
+08/07,Allentown,PA,11,Southwind,World Class,67.2,1993
+08/06,Grand Haven,MI,6,Coachmen,World Class,39.1,1993
+08/06,Allentown,PA,4,Conqueror II,World Class,64.5,1993
+08/06,Allentown,PA,5,East Coast Jazz,World Class,60.9,1993
+08/06,Allentown,PA,6,Contemporary Youth Ens.,World Class,55.9,1993
+08/06,Allentown,PA,7,Spectrum,World Class,55.0,1993
+08/06,Allentown,PA,8,Illusion,World Class,41.2,1993
+08/06,Allentown,PA,9,Phoenix,World Class,33.6,1993
+08/06,Allentown,PA,10,Firebirds,World Class,26.9,1993
+08/07,Denver,CO,1,Cadets,DCA Class A,93.1,1993
+08/07,Sorel,Quebec,1,Senateurs,DCA Class A,70.9,1993
+08/07,Kingston,NY,1,Bushwackers,Open Class,87.7,1993
+08/07,Fulton,NY,1,Empire Statesmen,Open Class,84.7,1993
+08/07,Denver,CO,2,Star of Indiana,DCA Class A,92.8,1993
+08/07,Kingston,NY,2,Connecticut Hurricanes,Open Class,82.1,1993
+08/07,Fulton,NY,2,Hawthorne Caballeros,Open Class,82.9,1993
+08/07,Denver,CO,3,Phantom Regiment,DCA Class A,89.7,1993
+08/07,Sorel,Quebec,2,Les Etoiles,DCA Class A,81.25,1993
+08/07,Kingston,NY,3,New York Skyliners,Open Class,80.0,1993
+08/07,Fulton,NY,3,Rochester Crusaders,Open Class,80.2,1993
+08/07,Denver,CO,4,Madison Scouts,DCA Class A,86.6,1993
+08/07,Sorel,Quebec,2,Les Senateurs,DCA Class A,77.35,1993
+08/07,Kingston,NY,4,Capitol Brass Ensemble,Open Class,65.0,1993
+08/07,Fulton,NY,4,Syracuse Brigadiers,Open Class,76.3,1993
+08/07,Denver,CO,5,Vanguard,DCA Class A,85.5,1993
+08/07,Kingston,NY,5,Chieftains,Open Class,59.3,1993
+08/07,Fulton,NY,5,Les Metropolitains,Open Class,69.3,1993
+08/07,Denver,CO,6,Blue Knights,DCA Class A,83.1,1993
+08/07,Sorel,Quebec,1,Pers-Clairs,DCA Class A,69.8,1993
+08/07,Denver,CO,7,Glassmen,DCA Class A,79.0,1993
+08/07,Sorel,Quebec,2,Voltigeurs,DCA Class A,60.25,1993
+08/07,Denver,CO,8,Freelancers,DCA Class A,78.8,1993
+08/07,Sorel,Quebec,3,Majestic,DCA Class A,58.3,1993
+08/07,Denver,CO,9,Colts,DCA Class A,77.2,1993
+08/07,Denver,CO,10,Troopers,DCA Class A,70.2,1993
+08/07,Denver,CO,11,Marauders,DCA Class A,67.5,1993
+08/07,Denver,CO,12,Vanguard Cadets,DCA Class A,64.0,1993
+08/07,Denver,CO,13,Black Gold,DCA Class A,59.9,1993
+08/08,West Chester,PA,1,Bushwackers,Open Class,89.5,1993
+08/08,Etobicoke,Ontario,1,Allegiance Elite,DCA Class A,86.4,1993
+08/08,Elmira,NY,1,Patriots,Open Class,83.0,1993
+08/08,Hampton,VA,1,Cavaliers,Open Class,90.0,1993
+08/08,West Chester,PA,2,New York Skyliners,Open Class,81.8,1993
+08/08,Etobicoke,Ontario,2,Kiwanis Kavaliers,DCA Class A,85.3,1993
+08/08,Elmira,NY,2,Spectrum,Open Class,66.3,1993
+08/08,Hampton,VA,2,Bluecoats,Open Class,84.2,1993
+08/08,West Chester,PA,3,Reading Buccaneers,Open Class,80.2,1993
+08/08,Etobicoke,Ontario,3,Academie Musicale,DCA Class A,84.3,1993
+08/08,Hampton,VA,3,Spirit of Georgia,Open Class,75.5,1993
+08/08,West Chester,PA,4,Westshoremen,Open Class,79.9,1993
+08/08,Etobicoke,Ontario,4,Cardinals,DCA Class A,83.4,1993
+08/08,Elmira,NY,1,Ambassadors,Open Class,69.1,1993
+08/08,Hampton,VA,4,Dutch Boy,Open Class,73.6,1993
+08/08,West Chester,PA,5,Chieftains,Open Class,63.9,1993
+08/08,Etobicoke,Ontario,5,Oakland Crusaders,DCA Class A,62.5,1993
+08/08,Elmira,NY,2,Quest,Open Class,67.5,1993
+08/08,Hampton,VA,5,Southwind,Open Class,67.2,1993
+08/08,Hampton,VA,6,Suncoast Sound,Open Class,51.1,1993
+08/08,Etobicoke,Ontario,1,Saint John's,DCA Class A,77.1,1993
+08/08,Etobicoke,Ontario,2,Ventures,DCA Class A,75.4,1993
+08/08,Etobicoke,Ontario,3,Conqueror II,DCA Class A,74.7,1993
+08/08,Etobicoke,Ontario,4,Canadian Knights,DCA Class A,63.8,1993
+08/08,Etobicoke,Ontario,5,Ridge Raiders,DCA Class A,61.3,1993
+08/08,Etobicoke,Ontario,6,Blue Saints,DCA Class A,54.6,1993
+08/08,Etobicoke,Ontario,1,Empire Loyalists,DCA Class A,76.35,1993
+08/08,Etobicoke,Ontario,2,Dutch Boy Cadets,DCA Class A,76.0,1993
+08/08,Etobicoke,Ontario,3,Emerald Knights,DCA Class A,69.35,1993
+08/08,Etobicoke,Ontario,1,Nickel City Sound,DCA Class A,77.3,1993
+08/08,Etobicoke,Ontario,2,Phoenix-ONT,DCA Class A,65.7,1993
+08/08,Lynn,MA,1,Blue Devils,Open Class,91.6,1993
+08/09,Oklahoma City,OK,1,Star of Indiana,DCA Class A,92.6,1993
+08/09,Charlotte,NC,1,Cavaliers,Open Class,90.7,1993
+08/09,Fort Edward,NY,1,Crossmen,Open Class,86.5,1993
+08/08,Lynn,MA,2,Crossmen,Open Class,86.6,1993
+08/09,Oklahoma City,OK,2,Vanguard,DCA Class A,86.8,1993
+08/09,Charlotte,NC,2,Bluecoats,Open Class,86.0,1993
+08/09,Fort Edward,NY,2,Velvet Knights,Open Class,82.2,1993
+08/08,Lynn,MA,3,Boston Crusaders,Open Class,79.6,1993
+08/09,Oklahoma City,OK,3,Glassmen,DCA Class A,81.3,1993
+08/09,Charlotte,NC,3,Spirit of Georgia,Open Class,80.7,1993
+08/09,Fort Edward,NY,3,Boston Crusaders,Open Class,77.5,1993
+08/08,Lynn,MA,4,Magic of Orlando,Open Class,73.1,1993
+08/09,Oklahoma City,OK,4,Colts,DCA Class A,79.2,1993
+08/09,Charlotte,NC,4,Dutch Boy,Open Class,74.9,1993
+08/09,Fort Edward,NY,4,Magic of Orlando,Open Class,74.0,1993
+08/08,Lynn,MA,5,Northern Aurora,Open Class,69.1,1993
+08/09,Oklahoma City,OK,5,Marauders,DCA Class A,66.7,1993
+08/09,Charlotte,NC,5,Southwind,Open Class,68.9,1993
+08/09,Fort Edward,NY,5,Northern Aurora,Open Class,68.4,1993
+08/09,Oklahoma City,OK,6,Black Gold,DCA Class A,60.0,1993
+08/09,Fort Edward,NY,6,L'Insolite,Open Class,62.4,1993
+08/08,Lynn,MA,1,L'Insolite,Open Class,77.9,1993
+08/09,Oklahoma City,OK,7,Lone Star,DCA Class A,39.5,1993
+08/09,Charlotte,NC,1,Carolina Crown,Open Class,80.0,1993
+08/09,Fort Edward,NY,7,Knights,Open Class,49.2,1993
+08/08,Lynn,MA,2,Patriots,Open Class,69.1,1993
+08/09,Oklahoma City,OK,8,Delta Brigade,DCA Class A,33.8,1993
+08/09,Charlotte,NC,2,Suncoast Sound,Open Class,64.2,1993
+08/10,Wichita Falls,TX,1,Cadets,Open Class,93.7,1993
+08/10,Erie,PA,1,Blue Devils,DCA Class A,90.8,1993
+08/10,Winston-Salem,NC,1,Cavaliers,Open Class,90.9,1993
+08/11,Texarkana,AR,1,Cadets,Open Class,93.9,1993
+08/10,Wichita Falls,TX,2,Phantom Regiment,Open Class,91.2,1993
+08/10,Erie,PA,2,Crossmen,DCA Class A,86.9,1993
+08/10,Winston-Salem,NC,2,Bluecoats,Open Class,84.6,1993
+08/11,Texarkana,AR,2,Star of Indiana,Open Class,93.5,1993
+08/10,Wichita Falls,TX,3,Vanguard,Open Class,88.9,1993
+08/10,Erie,PA,3,Velvet Knights,DCA Class A,81.9,1993
+08/10,Winston-Salem,NC,3,Spirit of Georgia,Open Class,75.2,1993
+08/11,Texarkana,AR,3,Blue Knights,Open Class,86.0,1993
+08/10,Wichita Falls,TX,4,Madison Scouts,Open Class,87.7,1993
+08/10,Erie,PA,4,Boston Crusaders,DCA Class A,79.3,1993
+08/10,Winston-Salem,NC,3,Dutch Boy,Open Class,75.2,1993
+08/11,Texarkana,AR,4,Glassmen,Open Class,81.8,1993
+08/10,Wichita Falls,TX,5,Blue Knights,Open Class,84.8,1993
+08/10,Erie,PA,5,Magic of Orlando,DCA Class A,74.4,1993
+08/10,Winston-Salem,NC,5,Southwind,Open Class,70.3,1993
+08/11,Texarkana,AR,5,Freelancers,Open Class,81.3,1993
+08/10,Wichita Falls,TX,6,Glassmen,Open Class,82.3,1993
+08/10,Erie,PA,6,Northern Aurora,DCA Class A,68.7,1993
+08/10,Winston-Salem,NC,6,Carolina Crown,Open Class,64.6,1993
+08/11,Texarkana,AR,6,Colts,Open Class,78.3,1993
+08/10,Wichita Falls,TX,7,Colts,Open Class,79.4,1993
+08/10,Erie,PA,7,Spartans,DCA Class A,55.7,1993
+08/10,Winston-Salem,NC,7,Suncoast Sound,Open Class,51.0,1993
+08/11,Texarkana,AR,7,Sky Ryders,Open Class,71.8,1993
+08/10,Wichita Falls,TX,8,Troopers,Open Class,74.3,1993
+08/10,Erie,PA,8,Knights,DCA Class A,48.2,1993
+08/11,Texarkana,AR,8,Marauders,Open Class,67.9,1993
+08/10,Wichita Falls,TX,9,Black Gold,Open Class,60.3,1993
+08/11,Texarkana,AR,9,Delta Brigade,Open Class,34.8,1993
+08/11,Kitchener,Ontario,1,Vanguard Cadets,Open Class,90.0,1993
+08/11,Kitchener,Ontario,1,Vanguard Cadets,DCA Class A,93.0,1993
+08/12,Atlanta,GA,1,Cavaliers,Open Class,92.2,1993
+08/12,Dallas,TX,1,Cadets,Open Class,93.9,1993
+08/11,Kitchener,Ontario,2,Pioneer,Open Class,89.9,1993
+08/11,Kitchener,Ontario,2,Pioneer,DCA Class A,90.0,1993
+08/12,Atlanta,GA,2,Spirit of Georgia,Open Class,79.2,1993
+08/12,Dallas,TX,2,Phantom Regiment,Open Class,91.3,1993
+08/11,Kitchener,Ontario,3,Mandarins,Open Class,88.9,1993
+08/11,Kitchener,Ontario,3,Mandarins,DCA Class A,87.3,1993
+08/12,Atlanta,GA,3,Dutch Boy,Open Class,77.9,1993
+08/12,Dallas,TX,3,Vanguard,Open Class,88.1,1993
+08/11,Kitchener,Ontario,4,Railmen,Open Class,83.8,1993
+08/11,Kitchener,Ontario,4,Nite Express,DCA Class A,84.1,1993
+08/12,Atlanta,GA,4,Southwind,Open Class,71.1,1993
+08/12,Dallas,TX,4,Madison Scouts,Open Class,87.7,1993
+08/11,Kitchener,Ontario,5,Nite Express,Open Class,80.2,1993
+08/11,Kitchener,Ontario,5,Railmen,DCA Class A,83.2,1993
+08/12,Atlanta,GA,5,Carolina Crown,Open Class,68.6,1993
+08/12,Dallas,TX,5,Freelancers,Open Class,80.6,1993
+08/11,Kitchener,Ontario,6,Kiwanis Kavaliers,Open Class,79.6,1993
+08/12,Atlanta,GA,6,Suncoast Sound,Open Class,54.0,1993
+08/12,Dallas,TX,6,Sky Ryders,Open Class,74.2,1993
+08/11,Kitchener,Ontario,7,Spartans,Open Class,79.4,1993
+08/11,Kitchener,Ontario,1,Blue Stars,DCA Class A,84.5,1993
+08/12,Dallas,TX,7,Troopers,Open Class,72.2,1993
+08/11,Kitchener,Ontario,8,Academie Musicale,Open Class,78.6,1993
+08/11,Kitchener,Ontario,2,CapitolAires,DCA Class A,78.1,1993
+08/12,Dallas,TX,8,Black Gold,Open Class,59.8,1993
+08/11,Kitchener,Ontario,9,Allegiance Elite,Open Class,74.8,1993
+08/11,Kitchener,Ontario,3,Americanos,DCA Class A,74.6,1993
+08/11,Kitchener,Ontario,10,Cardinals,Open Class,74.2,1993
+08/11,Kitchener,Ontario,4,Ventures,DCA Class A,74.3,1993
+08/11,Kitchener,Ontario,11,Patriots,Open Class,72.6,1993
+08/11,Kitchener,Ontario,5,Saint John's,DCA Class A,73.3,1993
+08/11,Kitchener,Ontario,12,Seattle Cascades,Open Class,64.6,1993
+08/11,Kitchener,Ontario,13,Oakland Crusaders,Open Class,60.9,1993
+08/11,Kitchener,Ontario,14,Raiders,Open Class,58.1,1993
+08/11,Kitchener,Ontario,1,Blue Stars,Open Class,83.3,1993
+08/11,Kitchener,Ontario,2,CapitolAires,Open Class,81.8,1993
+08/11,Kitchener,Ontario,3,Americanos,Open Class,76.3,1993
+08/11,Kitchener,Ontario,4,Ventures,Open Class,72.9,1993
+08/11,Kitchener,Ontario,5,Saint John's,Open Class,72.3,1993
+08/11,Kitchener,Ontario,6,Conqueror II,Open Class,70.1,1993
+08/11,Kitchener,Ontario,7,Canadian Knights,Open Class,61.1,1993
+08/11,Kitchener,Ontario,8,Northmen,Open Class,59.3,1993
+08/11,Kitchener,Ontario,9,Ridge Raiders,Open Class,58.7,1993
+08/11,Kitchener,Ontario,10,Bandettes,Open Class,58.3,1993
+08/11,Kitchener,Ontario,11,Dutch Boy Cadets,Open Class,55.1,1993
+08/11,Kitchener,Ontario,12,Blue Saints,Open Class,52.7,1993
+08/11,Kitchener,Ontario,13,Coachmen,Open Class,45.3,1993
+08/12,Port Huron,MI,1,Blue Devils,Open Class,92.3,1993
+08/13,Marion,OH,1,Vanguard Cadets,DCA Class A,92.6,1993
+08/13,Marion,OH,1,Crossmen,Open Class,89.9,1993
+08/13,Killeen,TX,1,Phantom Regiment,Open Class,91.8,1993
+08/12,Port Huron,MI,2,Crossmen,Open Class,87.1,1993
+08/13,Marion,OH,2,Pioneer,DCA Class A,91.5,1993
+08/13,Marion,OH,2,Bluecoats,Open Class,88.2,1993
+08/13,Killeen,TX,2,Madison Scouts,Open Class,88.8,1993
+08/12,Port Huron,MI,3,Velvet Knights,Open Class,83.7,1993
+08/13,Marion,OH,3,Mandarins,DCA Class A,88.2,1993
+08/13,Marion,OH,3,Velvet Knights,Open Class,84.4,1993
+08/13,Killeen,TX,3,Blue Knights,Open Class,86.9,1993
+08/12,Port Huron,MI,4,Boston Crusaders,Open Class,79.2,1993
+08/13,Marion,OH,4,Nite Express,DCA Class A,85.7,1993
+08/13,Marion,OH,4,Boston Crusaders,Open Class,81.3,1993
+08/13,Killeen,TX,4,Glassmen,Open Class,82.9,1993
+08/12,Port Huron,MI,5,Magic of Orlando,Open Class,77.1,1993
+08/13,Marion,OH,5,Kiwanis Kavaliers,DCA Class A,84.7,1993
+08/13,Marion,OH,5,Magic of Orlando,Open Class,80.1,1993
+08/13,Killeen,TX,5,Colts,Open Class,81.4,1993
+08/12,Port Huron,MI,6,Northern Aurora,Open Class,70.9,1993
+08/13,Marion,OH,6,Spartans,DCA Class A,83.0,1993
+08/13,Marion,OH,6,Northern Aurora,Open Class,72.2,1993
+08/13,Killeen,TX,6,Sky Ryders,Open Class,76.5,1993
+08/12,Port Huron,MI,7,L'Insolite,Open Class,66.0,1993
+08/13,Marion,OH,7,Academie Musicale,DCA Class A,82.9,1993
+08/13,Killeen,TX,7,Troopers,Open Class,75.7,1993
+08/13,Marion,OH,8,Allegiance Elite,DCA Class A,82.6,1993
+08/13,Marion,OH,1,Vanguard Cadets,Open Class,92.9,1993
+08/13,Killeen,TX,8,Marauders,Open Class,72.4,1993
+08/13,Marion,OH,9,Railmen,DCA Class A,71.3,1993
+08/13,Marion,OH,2,Pioneer,Open Class,90.0,1993
+08/13,Marion,OH,10,Patriots,DCA Class A,81.1,1993
+08/13,Marion,OH,3,Mandarins,Open Class,89.7,1993
+08/13,Killeen,TX,1,Lone Star,Open Class,64.4,1993
+08/13,Marion,OH,11,Raiders,DCA Class A,73.9,1993
+08/13,Killeen,TX,2,Delta Brigade,Open Class,51.7,1993
+08/13,Marion,OH,12,Seattle Cascades,DCA Class A,70.4,1993
+08/13,Marion,OH,1,Americanos,Open Class,78.6,1993
+08/13,Marion,OH,13,Oakland Crusaders,DCA Class A,63.8,1993
+08/13,Marion,OH,2,CapitolAires,Open Class,78.4,1993
+08/13,Marion,OH,14,General Butler Vagabonds,DCA Class A,41.8,1993
+08/13,Marion,OH,3,Blue Stars,Open Class,77.1,1993
+08/13,Marion,OH,1,CapitolAires,DCA Class A,79.6,1993
+08/13,Marion,OH,2,Blue Stars,DCA Class A,79.0,1993
+08/13,Marion,OH,3,Americanos,DCA Class A,76.3,1993
+08/13,Marion,OH,4,Ventures,DCA Class A,76.1,1993
+08/13,Marion,OH,5,Royal Columbians,DCA Class A,72.1,1993
+08/13,Marion,OH,6,Conqueror II,DCA Class A,71.6,1993
+08/13,Marion,OH,7,Saint John's,DCA Class A,71.5,1993
+08/13,Marion,OH,8,Phoenix Regiment,DCA Class A,67.6,1993
+08/13,Marion,OH,9,Golden Lancers,DCA Class A,66.6,1993
+08/13,Marion,OH,10,12th Command,DCA Class A,60.2,1993
+08/13,Marion,OH,11,Ridge Raiders,DCA Class A,58.9,1993
+08/13,Marion,OH,12,Northmen,DCA Class A,53.5,1993
+08/13,Marion,OH,13,Bandettes,DCA Class A,52.9,1993
+08/13,Marion,OH,14,Dutch Boy Cadets,DCA Class A,49.3,1993
+08/13,Marion,OH,15,Coachmen,DCA Class A,44.9,1993
+08/13,Marion,OH,16,Marion Cadets,DCA Class A,41.5,1993
+08/13,Marion,OH,17,Racine Scouts,DCA Class A,35.2,1993
+08/13,Killeen,TX,1,Phantom Regiment,Open Class,91.8,1993
+08/14,Joliette,Quebec,1,Dimension,DCA Class A,75.55,1993
+08/14,Scranton,PA,1,Bushwackers,Open Class,90.8,1993
+08/14,East Providence,RI,1,Hawthorne Caballeros,Open Class,87.2,1993
+08/13,Killeen,TX,2,Madison Scouts,Open Class,88.8,1993
+08/14,Joliette,Quebec,2,Senateurs,DCA Class A,72.18,1993
+08/14,Scranton,PA,2,Empire Statesmen,Open Class,88.4,1993
+08/14,East Providence,RI,2,Rochester Crusaders,Open Class,84.8,1993
+08/13,Killeen,TX,3,Blue Knights,Open Class,86.9,1993
+08/14,Joliette,Quebec,3,Mousquetaires,DCA Class A,72.0,1993
+08/14,Scranton,PA,3,Westshoremen,Open Class,81.2,1993
+08/14,East Providence,RI,3,Connecticut Hurricanes,Open Class,84.1,1993
+08/13,Killeen,TX,4,Glassmen,Open Class,82.9,1993
+08/14,Joliette,Quebec,4,Ensemble Contemporary,DCA Class A,67.73,1993
+08/14,Scranton,PA,4,Reading Buccaneers,Open Class,80.0,1993
+08/14,East Providence,RI,4,Les Metropolitains,Open Class,77.1,1993
+08/13,Killeen,TX,5,Colts,Open Class,81.4,1993
+08/14,Scranton,PA,5,New York Skyliners,Open Class,79.6,1993
+08/14,East Providence,RI,5,Capitol Brass Ensemble,Open Class,64.5,1993
+08/13,Killeen,TX,6,Sky Ryders,Open Class,76.5,1993
+08/14,Joliette,Quebec,1,Les Etoiles,DCA Class A,81.0,1993
+08/14,Scranton,PA,6,Syracuse Brigadiers,Open Class,78.3,1993
+08/13,Killeen,TX,7,Troopers,Open Class,75.7,1993
+08/14,Joliette,Quebec,2,Les Senateurs,DCA Class A,79.2,1993
+08/14,Scranton,PA,7,Chieftains,Open Class,63.9,1993
+08/13,Killeen,TX,8,Marauders,Open Class,72.4,1993
+08/14,Joliette,Quebec,3,Les Stentors,DCA Class A,73.7,1993
+08/14,Joliette,Quebec,4,Les Decibels,DCA Class A,65.5,1993
+08/13,Killeen,TX,1,Lone Star,Open Class,64.4,1993
+08/13,Killeen,TX,2,Delta Brigade,Open Class,51.7,1993
+08/14,Joliette,Quebec,1,Pers-Clairs,DCA Class A,74.3,1993
+08/14,Joliette,Quebec,2,Voltigeurs,DCA Class A,65.0,1993
+08/14,Joliette,Quebec,3,Majestic,DCA Class A,64.35,1993
+08/14,Bloomington,IN,1,Star of Indiana,Open Class,95.7,1993
+08/15,Houston,TX,1,Cadets,DCA Class A,96.0,1993
+08/15,Algoma,WI,1,Marquis,Open Class,60.4,1993
+08/15,Springfield,IL,1,Carolina Crown,Open Class,86.2,1993
+08/14,Bloomington,IN,2,Cavaliers,Open Class,93.6,1993
+08/15,Houston,TX,2,Phantom Regiment,DCA Class A,93.3,1993
+08/15,Algoma,WI,2,Saint Paul Lancers,Open Class,52.1,1993
+08/15,Springfield,IL,2,Academie Musicale,Open Class,82.5,1993
+08/14,Bloomington,IN,3,Blue Devils,Open Class,93.5,1993
+08/15,Houston,TX,3,Madison Scouts,DCA Class A,89.8,1993
+08/15,Algoma,WI,3,Guardsmen,Open Class,50.7,1993
+08/15,Springfield,IL,3,Railmen,Open Class,80.4,1993
+08/14,Bloomington,IN,4,Crossmen,Open Class,89.4,1993
+08/15,Houston,TX,4,Vanguard,DCA Class A,89.4,1993
+08/15,Algoma,WI,4,Racine Scouts,Open Class,38.6,1993
+08/15,Springfield,IL,4,Cardinals,Open Class,76.7,1993
+08/14,Bloomington,IN,5,Bluecoats,Open Class,87.3,1993
+08/15,Houston,TX,5,Blue Knights,DCA Class A,86.1,1993
+08/15,Algoma,WI,5,Mirage,Open Class,34.6,1993
+08/15,Springfield,IL,5,Patriots,Open Class,75.2,1993
+08/14,Bloomington,IN,6,Velvet Knights,Open Class,83.7,1993
+08/15,Houston,TX,6,Glassmen,DCA Class A,81.6,1993
+08/15,Springfield,IL,6,Raiders,Open Class,62.6,1993
+08/14,Bloomington,IN,7,Boston Crusaders,Open Class,82.5,1993
+08/15,Houston,TX,7,Freelancers,DCA Class A,81.5,1993
+08/15,Springfield,IL,7,Seattle Cascades,Open Class,55.6,1993
+08/14,Bloomington,IN,8,Spirit of Georgia,Open Class,79.5,1993
+08/15,Houston,TX,8,Colts,DCA Class A,80.9,1993
+08/15,Springfield,IL,8,Oakland Crusaders,Open Class,44.9,1993
+08/14,Bloomington,IN,9,Dutch Boy,Open Class,78.0,1993
+08/15,Houston,TX,9,Sky Ryders,DCA Class A,77.9,1993
+08/14,Bloomington,IN,10,Magic of Orlando,Open Class,77.3,1993
+08/15,Houston,TX,10,Troopers,DCA Class A,74.4,1993
+08/14,Bloomington,IN,11,Carolina Crown,Open Class,70.4,1993
+08/15,Houston,TX,11,Marauders,DCA Class A,69.9,1993
+08/14,Bloomington,IN,12,Southwind,Open Class,70.1,1993
+08/15,Houston,TX,12,Black Gold,DCA Class A,61.5,1993
+08/14,Bloomington,IN,13,Northern Aurora,Open Class,70.0,1993
+08/14,Bloomington,IN,1,Star of Indiana,Open Class,94.7,1993
+08/14,Bloomington,IN,2,Madison Scouts,Open Class,90.2,1993
+08/14,Bloomington,IN,3,Colts,Open Class,80.9,1993
+08/14,Bloomington,IN,4,Sky Ryders,Open Class,75.4,1993
+08/14,Bloomington,IN,5,Troopers,Open Class,74.0,1993
+08/16,Jackson,MS,1,Blue Stars,Open Class,83.5,1993
+08/17,Jackson,MS,1,Carolina Crown,DCA Class A,92.3,1993
+08/17,Jackson,MS,1,Carolina Crown,Open Class,94.3,1993
+08/17,Jackson,MS,1,Blue Stars,Open Class,85.4,1993
+08/16,Jackson,MS,2,Ventures,Open Class,82.8,1993
+08/17,Jackson,MS,2,Vanguard Cadets,DCA Class A,92.0,1993
+08/17,Jackson,MS,2,Vanguard Cadets,Open Class,92.6,1993
+08/17,Jackson,MS,2,Ventures,Open Class,84.8,1993
+08/16,Jackson,MS,3,CapitolAires,Open Class,82.7,1993
+08/17,Jackson,MS,3,Mandarins,DCA Class A,91.6,1993
+08/17,Jackson,MS,2,Mandarins,Open Class,92.6,1993
+08/17,Jackson,MS,3,CapitolAires,Open Class,81.7,1993
+08/16,Jackson,MS,4,Quad City Knights,Open Class,80.5,1993
+08/17,Jackson,MS,4,Pioneer,DCA Class A,90.8,1993
+08/17,Jackson,MS,4,Pioneer,Open Class,91.1,1993
+08/17,Jackson,MS,4,Quad City Knights,Open Class,79.3,1993
+08/16,Jackson,MS,5,Saint John's,Open Class,80.2,1993
+08/17,Jackson,MS,5,L'Insolite,DCA Class A,90.2,1993
+08/17,Jackson,MS,5,L'Insolite,Open Class,90.9,1993
+08/17,Jackson,MS,5,Americanos,Open Class,78.0,1993
+08/16,Jackson,MS,6,Suncoast Sound,Open Class,79.7,1993
+08/17,Jackson,MS,6,Nite Express,DCA Class A,85.9,1993
+08/17,Jackson,MS,6,Saint John's,Open Class,77.2,1993
+08/16,Jackson,MS,7,Americanos,Open Class,79.2,1993
+08/17,Jackson,MS,7,Railmen,DCA Class A,85.3,1993
+08/17,Jackson,MS,7,Suncoast Sound,Open Class,77.1,1993
+08/16,Jackson,MS,8,Royal Columbians,Open Class,75.3,1993
+08/17,Jackson,MS,8,Spartans,DCA Class A,84.9,1993
+08/16,Jackson,MS,9,Lone Star,Open Class,72.4,1993
+08/17,Jackson,MS,9,Kiwanis Kavaliers,DCA Class A,83.7,1993
+08/16,Jackson,MS,10,Golden Lancers,Open Class,71.5,1993
+08/17,Jackson,MS,10,Academie Musicale,DCA Class A,80.9,1993
+08/16,Jackson,MS,11,Phoenix Regiment,Open Class,70.4,1993
+08/17,Jackson,MS,11,Allegiance Elite,DCA Class A,80.3,1993
+08/16,Jackson,MS,12,Conqueror II,Open Class,67.5,1993
+08/17,Jackson,MS,12,Patriots,DCA Class A,78.3,1993
+08/16,Jackson,MS,13,Phantom Regiment Cadets,Open Class,65.4,1993
+08/17,Jackson,MS,13,Cardinals,DCA Class A,76.1,1993
+08/16,Jackson,MS,14,12th Command,Open Class,64.1,1993
+08/17,Jackson,MS,14,Seattle Cascades,DCA Class A,70.0,1993
+08/16,Jackson,MS,15,Buccaneers,Open Class,64.0,1993
+08/17,Jackson,MS,15,Raiders,DCA Class A,69.1,1993
+08/16,Jackson,MS,16,Spectrum,Open Class,63.1,1993
+08/16,Jackson,MS,17,East Coast Jazz,Open Class,60.2,1993
+08/16,Jackson,MS,18,Bandettes,Open Class,58.8,1993
+08/16,Jackson,MS,19,Northmen,Open Class,58.5,1993
+08/16,Jackson,MS,20,Ridge Raiders,Open Class,56.9,1993
+08/16,Jackson,MS,21,Delta Brigade,Open Class,47.5,1993
+08/19,Jackson,MS,1,Star of Indiana,Open Class,97.8,1993
+08/20,Jackson,MS,1,Cadets,DCA Class A,97.3,1993
+08/21,Jackson,MS,1,Cadets,Open Class,97.4,1993
+08/19,Jackson,MS,2,Cadets,Open Class,97.4,1993
+08/20,Jackson,MS,2,Star of Indiana,DCA Class A,97.0,1993
+08/21,Jackson,MS,2,Star of Indiana,Open Class,97.3,1993
+08/19,Jackson,MS,3,Phantom Regiment,Open Class,94.9,1993
+08/20,Jackson,MS,3,Phantom Regiment,DCA Class A,94.9,1993
+08/21,Jackson,MS,3,Phantom Regiment,Open Class,96.2,1993
+08/19,Jackson,MS,4,Blue Devils,Open Class,94.5,1993
+08/20,Jackson,MS,4,Cavaliers,DCA Class A,94.3,1993
+08/21,Jackson,MS,4,Blue Devils,Open Class,95.1,1993
+08/19,Jackson,MS,5,Cavaliers,Open Class,94.4,1993
+08/20,Jackson,MS,5,Blue Devils,DCA Class A,93.6,1993
+08/21,Jackson,MS,5,Cavaliers,Open Class,94.0,1993
+08/19,Jackson,MS,6,Madison Scouts,Open Class,91.9,1993
+08/20,Jackson,MS,6,Madison Scouts,DCA Class A,91.5,1993
+08/21,Jackson,MS,6,Madison Scouts,Open Class,91.9,1993
+08/19,Jackson,MS,7,Vanguard,Open Class,91.1,1993
+08/20,Jackson,MS,7,Vanguard,DCA Class A,91.0,1993
+08/21,Jackson,MS,7,Vanguard,Open Class,90.4,1993
+08/19,Jackson,MS,8,Crossmen,Open Class,90.6,1993
+08/20,Jackson,MS,8,Crossmen,DCA Class A,88.2,1993
+08/21,Jackson,MS,8,Crossmen,Open Class,89.6,1993
+08/19,Jackson,MS,9,Bluecoats,Open Class,88.3,1993
+08/20,Jackson,MS,9,Bluecoats,DCA Class A,88.0,1993
+08/21,Jackson,MS,9,Bluecoats,Open Class,87.2,1993
+08/19,Jackson,MS,10,Blue Knights,Open Class,87.4,1993
+08/20,Jackson,MS,10,Blue Knights,DCA Class A,85.8,1993
+08/21,Jackson,MS,10,Blue Knights,Open Class,85.0,1993
+08/19,Jackson,MS,11,Glassmen,Open Class,85.6,1993
+08/20,Jackson,MS,11,Glassmen,DCA Class A,84.2,1993
+08/21,Jackson,MS,11,Glassmen,Open Class,82.8,1993
+08/19,Jackson,MS,12,Velvet Knights,Open Class,83.9,1993
+08/20,Jackson,MS,11,Colts,DCA Class A,84.2,1993
+08/21,Jackson,MS,12,Colts,Open Class,81.6,1993
+08/19,Jackson,MS,13,Colts,Open Class,83.5,1993
+08/20,Jackson,MS,13,Velvet Knights,DCA Class A,83.1,1993
+08/19,Jackson,MS,14,Boston Crusaders,Open Class,83.0,1993
+08/20,Jackson,MS,14,Boston Crusaders,DCA Class A,82.4,1993
+08/19,Jackson,MS,15,Freelancers,Open Class,82.4,1993
+08/20,Jackson,MS,15,Freelancers,DCA Class A,79.6,1993
+08/19,Jackson,MS,16,Magic of Orlando,Open Class,80.9,1993
+08/20,Jackson,MS,16,Magic of Orlando,DCA Class A,78.5,1993
+08/19,Jackson,MS,17,Spirit of Georgia,Open Class,79.2,1993
+08/20,Jackson,MS,17,Spirit of Georgia,DCA Class A,77.9,1993
+08/19,Jackson,MS,18,Dutch Boy,Open Class,78.3,1993
+08/19,Jackson,MS,19,Troopers,Open Class,77.1,1993
+08/19,Jackson,MS,20,Sky Ryders,Open Class,74.3,1993
+08/19,Jackson,MS,21,Carolina Crown,Open Class,74.2,1993
+08/19,Jackson,MS,22,Southwind,Open Class,73.0,1993
+08/19,Jackson,MS,23,Marauders,Open Class,71.1,1993
+08/19,Jackson,MS,24,Northern Aurora,Open Class,70.0,1993
+08/19,Jackson,MS,25,Vanguard Cadets,Open Class,69.3,1993
+08/19,Jackson,MS,26,Mandarins,Open Class,67.2,1993
+08/19,Jackson,MS,27,Pioneer,Open Class,65.5,1993
+08/19,Jackson,MS,28,L'Insolite,Open Class,64.6,1993
+08/19,Jackson,MS,29,Black Gold,Open Class,58.3,1993
+08/21,Montreal,Quebec,1,L'Insolite,Open Class,79.91,1993
+08/28,Ansonia,CT,1,Empire Statesmen,Open Class,93.5,1993
+08/28,Allentown,PA,1,Bushwackers,Open Class,93.2,1993
+08/28,Ansonia,CT,2,Hawthorne Caballeros,Open Class,92.9,1993
+08/28,Allentown,PA,2,Rochester Crusaders,Open Class,87.6,1993
+08/21,Montreal,Quebec,1,Academie Musicale,Open Class,86.64,1993
+08/28,Ansonia,CT,3,Connecticut Hurricanes,Open Class,91.1,1993
+08/28,Allentown,PA,3,Westshoremen,Open Class,84.7,1993
+08/28,Ansonia,CT,4,New York Skyliners,Open Class,86.4,1993
+08/28,Allentown,PA,4,Syracuse Brigadiers,Open Class,83.8,1993
+08/21,Montreal,Quebec,1,Dimension,Open Class,81.36,1993
+08/28,Ansonia,CT,5,Capitol Brass Ensemble,Open Class,76.8,1993
+08/28,Allentown,PA,5,Reading Buccaneers,Open Class,82.6,1993
+08/21,Montreal,Quebec,2,Mousquetaires,Open Class,80.09,1993
+08/28,Allentown,PA,6,Chieftains,Open Class,71.2,1993
+08/21,Montreal,Quebec,3,Senateurs,Open Class,78.73,1993
+08/21,Montreal,Quebec,4,Ensemble Contemporary,Open Class,71.09,1993
+08/21,Montreal,Quebec,1,Les Etoiles,Open Class,85.21,1993
+08/21,Montreal,Quebec,2,Les Senateurs,Open Class,82.6,1993
+08/21,Montreal,Quebec,3,Les Stentors,Open Class,78.9,1993
+08/21,Montreal,Quebec,4,Les Decibels,Open Class,72.75,1993
+08/21,Montreal,Quebec,1,Pers-Clairs,Open Class,83.2,1993
+08/21,Montreal,Quebec,2,Impact,Open Class,75.0,1993
+08/21,Montreal,Quebec,3,Voltigeurs,Open Class,71.0,1993
+08/21,Montreal,Quebec,4,Majestic,Open Class,67.6,1993
+08/21,Montreal,Quebec,1,Les Chevaliers,Open Class,70.45,1993
+08/21,Montreal,Quebec,2,Multi-Visions,Open Class,68.91,1993
+08/21,Montreal,Quebec,3,Princesses,Open Class,65.35,1993
+08/21,Montreal,Quebec,4,Feux-Follets,Open Class,64.32,1993
+08/21,Montreal,Quebec,5,Melogammes,Open Class,51.95,1993
+09/05,Scranton,PA,1,Bushwackers,Open Class,95.4,1993
+09/06,Scranton,PA,1,Bushwackers,Open Class,96.6,1993
+09/05,Scranton,PA,2,Empire Statesmen,Open Class,92.9,1993
+09/06,Scranton,PA,2,Empire Statesmen,Open Class,96.2,1993
+09/05,Scranton,PA,3,Hawthorne Caballeros,Open Class,91.7,1993
+09/06,Scranton,PA,3,Hawthorne Caballeros,Open Class,93.2,1993
+09/05,Scranton,PA,4,Connecticut Hurricanes,Open Class,88.6,1993
+09/06,Scranton,PA,4,Rochester Crusaders,Open Class,91.6,1993
+09/05,Scranton,PA,5,Rochester Crusaders,Open Class,88.3,1993
+09/06,Scranton,PA,5,Connecticut Hurricanes,Open Class,91.2,1993
+09/05,Scranton,PA,6,Westshoremen,Open Class,87.3,1993
+09/06,Scranton,PA,6,Westshoremen,Open Class,88.7,1993
+09/05,Scranton,PA,7,New York Skyliners,Open Class,85.8,1993
+09/06,Scranton,PA,7,New York Skyliners,Open Class,87.2,1993
+09/05,Scranton,PA,8,Minnesota Brass,Open Class,85.4,1993
+09/06,Scranton,PA,8,Les Metropolitains,Open Class,86.7,1993
+09/05,Scranton,PA,9,Syracuse Brigadiers,Open Class,84.8,1993
+09/06,Scranton,PA,9,Syracuse Brigadiers,Open Class,86.1,1993
+09/05,Scranton,PA,10,Reading Buccaneers,Open Class,83.7,1993
+09/06,Scranton,PA,10,Minnesota Brass,Open Class,85.9,1993
+09/05,Scranton,PA,11,Les Metropolitains,Open Class,81.5,1993
+09/06,Scranton,PA,11,Reading Buccaneers,Open Class,84.8,1993
+09/05,Scranton,PA,12,Capitol Brass Ensemble,Open Class,76.0,1993
+09/06,Scranton,PA,12,Capitol Brass Ensemble,Open Class,78.5,1993
+09/05,Scranton,PA,13,Chieftains,Open Class,73.9,1993
+09/06,Scranton,PA,13,Chieftains,Open Class,76.3,1993

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2,
+    "target_date": "Fall 2025",
+    "title": "Mobile Optimization",
+    "description": "Adjust site layout and functionality for better mobile experience",
+    "type": "site_update",
+    "priority": "high"
+  },
+  {
+    "id": 1,
+    "target_date": "Fall 2025",
+    "title": "DCI & DCA Historic Data",
+    "description": "Finish cleaning and standardizing DCI and DCA historic data from 1964 to 2007",
+    "type": "data_update",
+    "priority": "high"
+  },
+  {
+    "id": 5,
+    "target_date": "Fall 2025",
+    "title": "Records Page",
+    "description": "Finish framework and launch records page for DCI historic data from 1972 to 2025. Begin work on VFW, CYO, AL, and DCA recordbooks.",
+    "type": "feature_update",
+    "priority": "low"
+  },
+  {
+    "id": 3,
+    "target_date": "Winter 2025",
+    "title": "Full Show Recaps 2013-2025",
+    "description": "Complete full show recaps for DCI and DCA from 2013 to 2025",
+    "type": "data_update",
+    "priority": "low"
+  },
+  {
+    "id": 4,
+    "target_date": "September 2025",
+    "title": "DCI and DCA Corps Bios (2000-Present)",
+    "description": "Complete data files for all for DCI and DCA ensembles that competed from 2000 to 2025",
+    "type": "data_update",
+    "priority": "medium"
+  }
+]

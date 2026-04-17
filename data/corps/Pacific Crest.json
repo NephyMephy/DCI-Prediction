@@ -1,0 +1,57 @@
+{
+ "location": [
+   {
+     "city": "Diamond Bar",
+     "state": "CA", 
+     "year": "1993-Present"
+   },
+   {
+     "city": "City of Industry",
+     "state": "CA", 
+     "year": "1993"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2003-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1994, "showTitle": "Backdraft", "repertoire": "It's All Right With Me, Show Me Your Firetruck, Haven't You Heard & Ya Gotta Make Your Own Luck All from Backdraft by Hans Zimmer", "placement": "Did not attend DCI", "score": null},
+   {"year": 1995, "showTitle": "Music from Metroscape", "repertoire": "Double Lattes & the LA Times, Heavy Traffic Reported, Bottom Rung of the Corporate Ladder, Alternate Route Suggested & Back Home All by Dale Leaman", "placement": "Did not attend DCI", "score": null},
+   {"year": 1996, "showTitle": "Jekyll and Hyde", "repertoire": "I Need to Know, Take Me As I Am & Dangerous Game (from Jekyll & Hyde) by Leslie Bricusse & Frank Wildhorn / The World Has Gone Insane (from Dracula: The Concept Recording) by Frank Wildhorn / Confrontation & Alive (from Jekyll & Hyde) by Leslie Bricusse & Frank Wildhorn", "placement": "Did not attend DCI", "score": null},
+   {"year": 1997, "showTitle": "Frankenstein", "repertoire": "To Think of a Story, The Creation, The Escape, Friendless & Evil Stitched to Evil All from Mary Shelley's Frankenstein by Patrick Doyle", "placement": "Did not attend DCI", "score": null},
+   {"year": 1998, "showTitle": "Hamlet", "repertoire": "The Ghost, Death & Anguish, I Loved You Once, What Players Are They & Madness All from Hamlet by Patrick Doyle", "placement": "Did not attend DCI", "score": null},
+   {"year": 1999, "showTitle": "Dracula", "repertoire": "Incident At Charing X Station, Dance Of The Effigies, Seduction At Castle Dracula, The Crypt & The Death of Dracula All from Dracula by Philip Feeney", "placement": "Did not attend DCI", "score": null},
+   {"year": 2000, "showTitle": "Joan of Arc", "repertoire": "Voices of Light; A Call To Arms; The Siege of Chinon; The Miracle; Sacraments; Coronation; Betrayal, Trial and Torture & The Fire of the Dove Angels in the Cleansing Flames All from Voices of Light by Richard Einhorn", "placement": "Did not attend DCI", "score": null},
+   {"year": 2001, "showTitle": "Age of Empires", "repertoire": "The Adoration of Veless and Ala, The Enemy God and the Dance of the Pagan Monsters & The Glorious Departure of Lolly and the Sun's Cortège (from Scythian Suite) by Sergei Prokofiev / Her Name Was Merit (from The Egyptian) by Alfred Newman / The Reprimand, Following Tzipporah & Red Sea (from The Prince of Egypt) by Hans Zimmer & Stephen Schwartz / The Battle & Barbarian Horde (from Gladiator) by Hans Zimmer & Lisa Gerrard", "placement": "Did not attend DCI", "score": null},
+   {"year": 2002, "showTitle": "Reinvention", "repertoire": "Atmadja (from Quidam) by Benoit Jutras / Ravendhi (from Dralion) by Violaine Corradi / Seisuoso (from Quidam) by Benoit Jutras / Ombra (from Dralion) by Violaine Corradi / Incantation (from Quidam) and Distorted & Urban (from La Nouba) by Benoit Jutras", "placement": "Did not attend DCI", "score": null},
+   {"year": 2003, "showTitle": "Invocacion a Poderosos", "repertoire": "Moonlight on the Parana, Invocation to the Spirits of Power & Dawn All from Panambí, Op. 1 by Alberto Ginastera", "placement": "17th Place", "score": 79.300},
+   {"year": 2004, "showTitle": "On Dangerous Ground", "repertoire": "The Man Who Knew Too Much, The Snows of Kilimanjaro, Baghdad (from The 7th Voyage of Sinbad) & Death Hunt (from On Dangerous Ground) All by Bernard Hermann", "placement": "19th Place", "score": 77.850},
+   {"year": 2005, "showTitle": "Fluid States: Vapor, Solid, Liquid", "repertoire": "Four Sea Interludes (from Peter Grimes) by Benjamin Britten / Sinfonia Antarctica by Ralph Vaughan Williams", "placement": "19th Place", "score": 77.250},
+   {"year": 2006, "showTitle": "From the City of Angels", "repertoire": "Prologue: Theme from City of Angels, Double Talk Walk, With Every Breath I Take & I'm Nothing Without You All from City of Angels by Cy Coleman & David Zippel", "placement": "21st Place", "score": 74.900},
+   {"year": 2007, "showTitle": "What Happens In Vegas...", "repertoire": "Viva Las Vegas by Doc Pomus & Mort Shuman / Love for Sale (from The New Yorkers) by Cole Porter / Angel Eyes by Matt Dennis & Earl Brent / Luck Be A Lady (from Guys and Dolls) by Frank Loesser", "placement": "17th Place", "score": 79.525},
+   {"year": 2008, "showTitle": "Primality: The Rituals of Passion", "repertoire": "Selections from Blood Diamond by James Newton Howard / Selections from The Wind and the Lion by Jerry Goldsmith / Selections from Dralion by Violaine Corradi", "placement": "17th Place", "score": 79.650},
+   {"year": 2009, "showTitle": "El Corazon de la Gente", "repertoire": "Selections by Carlos Chavez / Pampeana No. 3 – Impetuosamente, Variaciones Concertantes & Pequena Danza by Alberto Ginastera / Symphonic Dances (Danzas Sinfonicas): Gregoriana by Julián Orbón", "placement": "19th Place", "score": 79.050},
+   {"year": 2010, "showTitle": "Maze", "repertoire": "Machu Picchu by Satoshi Yagisawa / Asphalt Cocktail by John Mackey / Sam's Gone (from I Am Legend) by James Newton Howard / Turbine by John Mackey", "placement": "18th Place", "score": 80.350},
+   {"year": 2011, "showTitle": "Push, Pull, Twist, Turn", "repertoire": "Lauds (Praise High Day) by Ron Nelson / Push by Robert W. Smith / Adagietto, Symphony No. 5 by Gustav Mahler / The Mechanical Ballet (Unknown) / Serenada Schizophrana by Danny Elfman / AirLink by Jack Stamp", "placement": "18th Place", "score": 77.750},
+   {"year": 2012, "showTitle": "The Spectrum", "repertoire": "Butterfly Yellow & Tarantella Red (from Bright Colored Dances) by Lewis J. Buckley / The Red Machine by Peter Graham / Yellow by Guy Berryman, Jonny Buckland, Will Champion & Chris Martin / Blue Sapphire (from Colours) by Roger Cichy / End Credits (from Green Lantern: First Flight) by Robert Kral / True Colors by Billy Steinberg & Tom Kelly", "placement": "16th Place", "score": 80.250},
+   {"year": 2013, "showTitle": "Transfixed", "repertoire": "Fix a Heart by Emanuel Kiriakou & Priscilla Renea / Instinctive Travels by Michael Markowski / Drum Music by John Mackey", "placement": "16th Place", "score": 82.300},
+   {"year": 2014, "showTitle": "No Strings Attached", "repertoire": "Overture to Orpheus in the Underworld by Jacques Offenbach / Firefly by Ryan George / Shadowplay (from Kà) by René Dupéré / A Tango by John M. Meehan & Mike Huestis", "placement": "20th Place", "score": 78.900},
+   {"year": 2015, "showTitle": "The Catalyst", "repertoire": "Scythian Suite by Sergei Prokofiev / Liberi Fatali (from Final Fantasy) by Nobuo Uematsu / Enjoy the Silence by Martin Gore (Depeche Mode) / Angels in the Architecture by Frank Ticheli", "placement": "21st Place", "score": 74.925},
+   {"year": 2016, "showTitle": "The Union", "repertoire": "Foundry: Original Composition by John Meehan, Pete Lucero & Brian Dinkel Working: Aha! by Imogen Heap Space Between: Fix You by Jonny Buckland, Will Champion, Chris Martin & Guy Berryman (Coldplay) Engine: Original Music by Pete Lucero & Brian Dinkel Train: Point Blank by Paul Dooley / Last Train Home by Pat Metheny", "placement": "19th Place", "score": 78.875},
+   {"year": 2017, "showTitle": "Golden State of Mind", "repertoire": "\"California Dreamin'\" by John Phillips & Michelle Phillips / Kaleidoscope of Mathematics (from A Beautiful Mind) by James Horner / Arrival of the Birds (from The Crimson Wing: Mystery of the Flamingos) by Jason Swincoe (The Cinematic Orchestra) / Alfonso Muskedunder by Todd Terje / Moving On (from Lost) by Michael Giacchino", "placement": "21st Place", "score": 78.000},
+   {"year": 2018, "showTitle": "Here's to the Ones Who Dream", "repertoire": "Planetarium (from La La Land) by Justin Hurwitz / Overture & Waltz for Peppy (from The Artist) by Ludovic Bource / The 20th Century Fox Mambo (from Smash) by Marc Shaiman & Scott Wittman / Audition (The Fools Who Dream) (from La La Land) by Justin Hurwitz, Benj Pasek & Justin Paul / Pretty Peppy (from The Artist) by Ludovic Bource / Epilogue (from La La Land) by Justin Hurwitz", "placement": "20th Place", "score": 79.300},
+   {"year": 2019, "showTitle": "Everglow", "repertoire": "Awakening: Original Music by Bradley Kerr Green, Jonathan Zuniga & Ezekiel Lanser Adventure: Ready Player One by Alan Silvestri Longing: Meta by Bradley Kerr Green, Jonathan Zuniga & Ezekiel Lanser Trials: View From Olympus by John Psathas Heartbreak: Chinatown by Jerry Goldsmith Rebirth: Insight by Haywyre (Martin Sebastian Vogt) Acceptance & Departure: The Grand Finale (from Edward Scissorhands) by Danny Elfman", "placement": "14th Place", "score": 85.350},
+   {"year": 2020, "showTitle": "Season canceled due to the COVID-19 pandemic", "repertoire": "", "placement": "", "score": null},
+   {"year": 2021, "showTitle": "eX", "repertoire": "Theme from The Rocketeer by James Horner / Feeling Good by Leslie Bricusse & Anthony Newley / Life on Mars by David Bowie", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Welcome to the Void", "repertoire": "Finale (from Swiss Army Man) by Andy Hull & Robert McDowell / The Void by Bradley Kerr Green, Jonathan Zuniga & Ezekiel Lanser / Enjoy the Silence by Martin Gore / Intruder by Peter Gabriel / Where Is My Mind? by Black Francis", "placement": "19th Place", "score": 80.250},
+   {"year": 2023, "showTitle": "Goddess", "repertoire": "Engulfed Cathedral by Claude Debussy / Danse Diabolique by Joseph Hellmesberger Jr. / Watershed by Vienna Teng / Gloriosa by Yasuhide Ito / Scythian Suite by Sergei Prokofiev", "placement": "14th Place", "score": 85.050},
+   {"year": 2024, "showTitle": "The Broken Column", "repertoire": "Benediction and Dream by Elliot Goldenthal / Burning Red by Elliot Goldenthal / Harmonielehre by John Adams / California Counterpoint: The Twittering Machine by Cindy McTee / Ramalama Bang Bang by Matthew John Herbert & Roisin Murphy / Passage by Cynthia Yih Shih / ...And the Mountains Rising Nowhere by Joseph Schwantner", "placement": "13th Place", "score": 86.350},
+   {"year": 2025, "showTitle": "It Sin Our Nature", "repertoire": "Fantasie by Oskar Schuster / Symphony No. 10 by Dmitri Shostakovich / How I'd Kill by Cowboy Malfoy / Jealous by Labyrinth / Better Have My Money by Rihanna / Dies Irae by Giuseppe Verdi / To Die For (from The Lion King) by Hans Zimmer", "placement": "15th Place", "score": 84.825}
+ ]
+}

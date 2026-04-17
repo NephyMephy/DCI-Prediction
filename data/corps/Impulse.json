@@ -1,0 +1,49 @@
+{
+ "location": [
+   {
+     "city": "Buena Park",
+     "state": "CA", 
+     "year": "1998-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "DCI Division II & III", "year": 2006, "score": 84.975, "showTitle": "Me, Myself and I"}
+ ],
+ "captionAwards": [],
+ "website": "www.impulseyoutharts.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2001-2007", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2008-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1999, "showTitle": "Kool Vibes", "repertoire": "Good Vibrations by Brian Wilson & Mike Love / The Contender by Bill Ungerman, Daniel Glass, Eddie Nichols & Mick Farren (Royal Crown Revue) / I Want You Back by Berry Gordy, Freddie Perren, Alphonzo Mizell & Deke Richards / I'll Be There by Berry Gordy, Bob West, Hal Davis & Willie Hutch", "placement": "Did not attend DCI", "score": null},
+   {"year": 2000, "showTitle": "Music 101", "repertoire": "I've Got the Music in Me by Bias Boshell / Jesu, Joy of Man's Desiring by Johann Sebastian Bach / Too Much Time on My Hands by Tommy Shaw / Help by Lennon–McCartney / Dragnet Theme (Danger Ahead and Dragnet March) by Miklós Rózsa & Walter Schumann / Rockin' the Paradise by Dennis DeYoung, Tommy Shaw & James \"J.Y.\" Young", "placement": "Did not attend DCI", "score": null},
+   {"year": 2001, "showTitle": "Island Extravaganza", "repertoire": "Theme from Gilligan's Island by Sherwood Schwartz & George Wyle / Bali Hai (from South Pacific) by Richard Rodgers & Oscar Hammerstein II / Hawaiian Wedding Song by Charles E. King / Volcano Music by Tex Avery / Hawaiian War Chat by Prince Leleiohoku", "placement": "9th Place", "score": 82.150},
+   {"year": 2002, "showTitle": "Hey Lucy! We're Home", "repertoire": "I Love Lucy Theme by Eliot Daniel / Cuban Pete by Joseph \"José\" Norman / Just Kidding by Michel Camilo / Pagliacci by Ruggero Leoncavallo", "placement": "12th Place", "score": 81.050},
+   {"year": 2003, "showTitle": "Pure Imagination", "repertoire": "Pure Imagination, Candy Man, I've got a Golden Ticket, Oompa Loompa, and Cheer Up Charlie All from Willy Wonka and the Chocolate Factory by Leslie Bricusse & Anthony Newley", "placement": "8th Place", "score": 84.800},
+   {"year": 2004, "showTitle": "Cartoon", "repertoire": "Cartoon by Paul Hart / Powerhouse by Raymond Scott", "placement": "6th Place", "score": 89.050},
+   {"year": 2005, "showTitle": "The Impulsables", "repertoire": "Glory Days, Off to Work, 1000 Mile Dash, and the Incredits All from The Incredibles by Michael Giacchino", "placement": "6th Place", "score": 90.900},
+   {"year": 2006, "showTitle": "Me, Myself and I", "repertoire": "Selections from Charlie and the Chocolate Factory by Danny Elfman", "placement": "1st Place", "score": 84.975},
+   {"year": 2007, "showTitle": "Shichi", "repertoire": "Music from Final Fantasy by Nobuo Uematsu", "placement": "6th Place", "score": 78.850},
+   {"year": 2008, "showTitle": "The Game", "repertoire": "Three Worlds by John Meehan", "placement": "18th Place", "score": 77.300},
+   {"year": 2009, "showTitle": "A New American Classic", "repertoire": "Morning, Noon and Night in Vienna Overture by Franz von Suppé / Morning Mood (from the Peer Gynt Suite No. 1) by Edvard Grieg / Anvil Chorus (from Il Trovatore) by Giuseppe Verdi / Dance of the Comedians (from The Bartered Bride) by Bedřich Smetana / Blue Danube Waltz by Johann Strauss II / Poet and Peasant Overture by Franz von Suppé", "placement": "Did not attend DCI", "score": null},
+   {"year": 2010, "showTitle": "United", "repertoire": "America the Beautiful by Samuel A. Ward & Katharine Lee Bates / Beyond the Breaking Tides by Christian Earl / Songs of Earth, Water, Fire and Sky by Robert W. Smith / Amber Waves by Morton Gould / The Red Pony & Fanfare for the Common Man by Aaron Copland", "placement": "Did not attend DCI", "score": null},
+   {"year": 2011, "showTitle": "Tribute", "repertoire": "Third Symphony, Fourth Mvt. by Vittorio Giannini / Variations on a Korean Folk Song by John Barnes Chance / Corral Nocturne & Hoe-Down (from Rodeo), The Red Pony & Fanfare for the Common Man by Aaron Copland", "placement": "Did not attend DCI", "score": null},
+   {"year": 2012, "showTitle": "Overture!", "repertoire": "American Overture by Joseph Willcox Jenkins / Cuban Overture by George Gershwin / 1712 Overture by P. D. Q. Bach (Peter Schickele)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2013, "showTitle": "Crystal Celebration", "repertoire": "Outdoor Overture by Aaron Copland / Powerhouse by Raymond Scott / Dance of the Hours (from La Gioconda) by Amilcare Ponchielli", "placement": "Did not attend DCI", "score": null},
+   {"year": 2014, "showTitle": "Dusk to Dawn", "repertoire": "Symphony No. 5 / Moonlight Sonata / Ode to Joy from Symphony No. 9 All by Ludwig van Beethoven", "placement": "Did not attend DCI", "score": null},
+   {"year": 2015, "showTitle": "Interpolation", "repertoire": "Anna's Theme, The Monastery, Gregorian Chant & The Gypsies All from The Red Violin by John Corigliano", "placement": "Did not attend DCI", "score": null},
+   {"year": 2016, "showTitle": "Music is ___", "repertoire": "Beautiful Dreamer by Stephen Collins Foster / Symphony No. 25 in G Minor (K-183) - Allegro con brio by Wolfgang Amadeus Mozart / Firebird Suite by Igor Stravinsky / Great Gate of Kiev by Modest Mussorgsky", "placement": "14th Place Open Class / 36th Place World Class", "score": 61.575},
+   {"year": 2017, "showTitle": "In the Beginning", "repertoire": "Also Sprach Zarathustra by Richard Strauss / Rite Of Spring by Igor Stravinsky / Adagio (from Spartacus) by Aram Khachaturian / Piano Concerto No. 2 by Poul Ruders / Ritual Fire Dance by Manuel de Falla", "placement": "15th Place Open Class / 39th Place World Class", "score": 58.125},
+   {"year": 2018, "showTitle": "Time After Time", "repertoire": "Primacy of Number by Philip Glass / Time After Time by Cyndi Lauper & Rob Hyman / Time Is Running Out by Matt Bellamy, Chris Wolstenholme & Dominic Howard (Muse)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2019, "showTitle": "The Greatest Hero", "repertoire": "Incredits 2 (from Incredibles 2) & Homecoming Suite (from Spider-Man: Homecoming) All by Michael Giacchino", "placement": "Did not attend DCI", "score": null},
+   {"year": 2020, "showTitle": "Season canceled due to the COVID-19 pandemic", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 2021, "showTitle": "Opted out of competition for the season", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 2022, "showTitle": "Anew", "repertoire": "Repertoire not available", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "Maverick", "repertoire": "Darkstar by Harold Faltermeyer & Lorne Balfe / You're Where You Belong by Hans Zimmer, Michael Tucker & Stefani Germanotta / I Ain't Woried by Ryan Tedder, Brent Kutzle, Tyler Spry, Peter Morén, Björn Yttling & John Eriksson / The Man, The Legend by Hans Zimmer, Harold Faltermeyer, Michael Tucke & Stefani Germanotta / Hold my Hand by Michael Tucker & Stefani Germanotta", "placement": "Did not attend DCI", "score": null},
+   {"year": 2024, "showTitle": "That New York Feeling", "repertoire": "Repertoire not available", "placement": "Did not attend DCI", "score": null},
+   {"year": 2025, "showTitle": "LOOK UP", "repertoire": "The Dark Knight by Hans Zimmer / Romantic Flight (From How To Train Your Dragon) by James Powell / Focus Hiccup (From How To Train Your Dragon) by James Powell / Married Life (From Up) by Michael Glaccino / End Credits (From How To Train Your Dragon) by James Powell", "placement": "Did not attend DCI", "score": null}
+ ]
+}

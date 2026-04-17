@@ -1,0 +1,1186 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/25,Clifton,NJ,1,Reading Buccaneers,World Class,79.95,1980
+05/31,Johnstown,NY,1,Reading Buccaneers,World Class,70.6,1980
+05/25,Clifton,NJ,2,Hawthorne Caballeros,World Class,76.45,1980
+05/31,Johnstown,NY,2,New York Skyliners,World Class,63.6,1980
+05/25,Clifton,NJ,3,Sunrisers,World Class,72.2,1980
+05/31,Johnstown,NY,3,Sunrisers,World Class,59.45,1980
+05/25,Clifton,NJ,4,Matadors,World Class,62.95,1980
+05/31,Johnstown,NY,4,Westshoremen,World Class,59.0,1980
+05/31,Johnstown,NY,5,Rochester Crusaders,World Class,56.0,1980
+05/31,Johnstown,NY,6,Matadors,World Class,50.1,1980
+06/07,LaCrosse,WI,1,Phantom Regiment,World Class,65.15,1980
+06/07,Bayonne,NJ,1,27th Lancers,World Class,65.2,1980
+06/07,Hamden,CT,1,Reading Buccaneers,World Class,74.45,1980
+06/08,Bricktown,NJ,1,New York Skyliners,World Class,72.2,1980
+06/07,LaCrosse,WI,2,Madison Scouts,World Class,62.5,1980
+06/07,Bayonne,NJ,2,Crossmen,World Class,62.4,1980
+06/07,Hamden,CT,2,Hawthorne Caballeros,World Class,71.05,1980
+06/08,Bricktown,NJ,2,Hawthorne Caballeros,World Class,68.9,1980
+06/07,LaCrosse,WI,3,Blue Stars,World Class,52.85,1980
+06/07,Bayonne,NJ,3,North Star,World Class,61.95,1980
+06/07,Hamden,CT,3,New York Skyliners,World Class,67.3,1980
+06/08,Bricktown,NJ,3,Westshoremen,World Class,63.15,1980
+06/07,LaCrosse,WI,4,Guardsmen-IL,World Class,48.65,1980
+06/07,Bayonne,NJ,4,Long Island Kingsmen,World Class,56.0,1980
+06/07,Hamden,CT,4,Connecticut Hurricanes,World Class,64.65,1980
+06/08,Bricktown,NJ,4,Sunrisers,World Class,62.25,1980
+06/07,LaCrosse,WI,5,Rivermen,World Class,44.85,1980
+06/07,Bayonne,NJ,5,Royal Brigade,World Class,46.2,1980
+06/07,Hamden,CT,5,Sunrisers,World Class,61.9,1980
+06/08,Bricktown,NJ,5,Connecticut Hurricanes,World Class,58.25,1980
+06/07,Hamden,CT,6,Matadors,World Class,56.15,1980
+06/08,Oshkosh,WI,1,Phantom Regiment,World Class,69.4,1980
+06/14,Fulton,NY,1,Crossmen,World Class,68.25,1980
+06/14,Revere,MA,1,27th Lancers,World Class,70.1,1980
+06/14,Canton,IL,1,Phantom Regiment,World Class,71.05,1980
+06/08,Oshkosh,WI,2,Madison Scouts,World Class,67.6,1980
+06/14,Fulton,NY,2,Long Island Kingsmen,World Class,55.75,1980
+06/14,Revere,MA,2,Bridgemen,World Class,69.85,1980
+06/14,Canton,IL,2,Blue Stars,World Class,63.9,1980
+06/08,Oshkosh,WI,3,Blue Stars,World Class,54.7,1980
+06/14,Fulton,NY,3,Royal Brigade,World Class,55.2,1980
+06/14,Revere,MA,3,North Star,World Class,66.65,1980
+06/14,Canton,IL,3,Knights,World Class,51.7,1980
+06/08,Oshkosh,WI,4,Rivermen,World Class,46.05,1980
+06/14,Fulton,NY,4,Les Eclipses,World Class,43.3,1980
+06/14,Revere,MA,4,Boston Crusaders,World Class,57.5,1980
+06/14,Canton,IL,4,Colts,World Class,49.2,1980
+06/08,Oshkosh,WI,5,Americanos,World Class,40.25,1980
+06/14,Revere,MA,5,Defenders,World Class,52.1,1980
+06/14,Canton,IL,5,Saginaires,World Class,47.7,1980
+06/14,Revere,MA,6,Garfield Cadets,World Class,51.05,1980
+06/14,Canton,IL,6,CapitolAires,World Class,32.65,1980
+06/14,Revere,MA,7,Spectra,World Class,43.6,1980
+06/14,Park Ridge,IL,1,Madison Scouts,World Class,69.85,1980
+06/14,Hershey,PA,1,Reading Buccaneers,World Class,78.2,1980
+06/15,Swansea,MA,1,27th Lancers,World Class,73.25,1980
+06/15,Geneseo,IL,1,Phantom Regiment,World Class,74.9,1980
+06/14,Park Ridge,IL,2,Guardsmen-IL,World Class,54.35,1980
+06/14,Hershey,PA,2,New York Skyliners,World Class,71.4,1980
+06/15,Swansea,MA,2,Bridgemen,World Class,72.0,1980
+06/15,Geneseo,IL,2,Blue Stars,World Class,65.25,1980
+06/14,Park Ridge,IL,3,Pioneer,World Class,47.0,1980
+06/14,Hershey,PA,3,Westshoremen,World Class,68.25,1980
+06/15,Swansea,MA,3,North Star,World Class,68.75,1980
+06/15,Geneseo,IL,3,Knights,World Class,54.4,1980
+06/14,Park Ridge,IL,4,Illiana Lancers,World Class,30.9,1980
+06/14,Hershey,PA,4,Sunrisers,World Class,63.9,1980
+06/15,Swansea,MA,4,Boston Crusaders,World Class,63.75,1980
+06/15,Geneseo,IL,4,Colts,World Class,52.0,1980
+06/14,Park Ridge,IL,5,Royal Grenadiers,World Class,28.75,1980
+06/14,Hershey,PA,5,Rochester Crusaders,World Class,52.15,1980
+06/15,Swansea,MA,5,Defenders,World Class,56.75,1980
+06/15,Geneseo,IL,5,Saginaires,World Class,47.0,1980
+06/14,Hershey,PA,6,Thunderbirds,World Class,45.4,1980
+06/15,Swansea,MA,6,Garfield Cadets,World Class,53.25,1980
+06/15,Geneseo,IL,6,CapitolAires,World Class,31.85,1980
+06/14,Hershey,PA,7,Renaissance,World Class,27.1,1980
+06/15,Milwaukee,WI,1,Madison Scouts,World Class,73.4,1980
+06/20,Saginaw,MI,1,Phantom Regiment,World Class,72.2,1980
+06/20,Fort Wayne,IN,1,Madison Scouts,World Class,73.6,1980
+06/20,San Jose,CA,1,Blue Devils,World Class,70.8,1980
+06/15,Milwaukee,WI,2,Cavaliers,World Class,64.55,1980
+06/20,Saginaw,MI,2,Knights,World Class,54.0,1980
+06/20,Fort Wayne,IN,2,Blue Stars,World Class,65.6,1980
+06/20,San Jose,CA,2,Vanguard,World Class,62.0,1980
+06/15,Milwaukee,WI,3,Rivermen,World Class,54.6,1980
+06/20,Saginaw,MI,3,Pioneer,World Class,47.0,1980
+06/20,Fort Wayne,IN,3,Royal Crusaders,World Class,51.75,1980
+06/20,San Jose,CA,3,Freelancers,World Class,50.75,1980
+06/15,Milwaukee,WI,4,Guardsmen-IL,World Class,53.9,1980
+06/20,Saginaw,MI,4,Vagabonds,World Class,39.95,1980
+06/20,Fort Wayne,IN,4,Oakland Crusaders,World Class,49.65,1980
+06/20,San Jose,CA,4,Conquistadors,World Class,43.25,1980
+06/15,Milwaukee,WI,5,Pioneer,World Class,48.1,1980
+06/20,Saginaw,MI,5,Bandettes,World Class,31.45,1980
+06/20,Fort Wayne,IN,5,Ventures,World Class,48.1,1980
+06/20,San Jose,CA,5,San Jose Raiders,World Class,35.2,1980
+06/15,Milwaukee,WI,6,Americanos,World Class,41.45,1980
+06/20,Saginaw,MI,6,Coachmen,World Class,24.0,1980
+06/20,Fort Wayne,IN,6,Marion Cadets,World Class,34.45,1980
+06/20,San Jose,CA,6,Valley Fever,World Class,28.2,1980
+06/15,Milwaukee,WI,7,Golden Knights,World Class,27.25,1980
+06/15,Milwaukee,WI,8,Illiana Lancers,World Class,21.6,1980
+06/21,Boston,MA,1,27th Lancers,World Class,77.4,1980
+06/21,Concord,CA,1,Blue Devils,World Class,73.45,1980
+06/21,Dubois,PA,1,Reading Buccaneers,World Class,77.9,1980
+06/21,Boston,MA,1,Hawthorne Caballeros,World Class,77.6,1980
+06/21,Boston,MA,2,North Star,World Class,73.25,1980
+06/21,Concord,CA,2,Vanguard,World Class,67.45,1980
+06/21,Dubois,PA,2,Westshoremen,World Class,69.2,1980
+06/21,Boston,MA,2,New York Skyliners,World Class,69.95,1980
+06/21,Boston,MA,3,Boston Crusaders,World Class,65.0,1980
+06/21,Concord,CA,3,Freelancers,World Class,55.65,1980
+06/21,Dubois,PA,3,Rochester Crusaders,World Class,64.15,1980
+06/21,Boston,MA,3,Connecticut Hurricanes,World Class,68.75,1980
+06/21,Boston,MA,4,Holy Family Defenders,World Class,57.05,1980
+06/21,Concord,CA,4,Conquistadors,World Class,46.3,1980
+06/21,Dubois,PA,4,Thunderbirds,World Class,55.15,1980
+06/21,Boston,MA,4,Matadors,World Class,60.55,1980
+06/21,Concord,CA,5,San Jose Raiders,World Class,38.85,1980
+06/21,Dubois,PA,5,Renaissance,World Class,40.2,1980
+06/21,Concord,CA,6,Valley Fever,World Class,28.25,1980
+06/21,Ypsilanti,MI,1,Madison Scouts,World Class,74.25,1980
+06/22,Harrison,NJ,1,Bridgemen,World Class,74.0,1980
+06/22,Grand Rapids,MI,1,Knights,World Class,50.0,1980
+06/22,Lafayette,IN,1,Phantom Regiment,World Class,73.75,1980
+06/21,Ypsilanti,MI,2,Phantom Regiment,World Class,73.25,1980
+06/22,Harrison,NJ,2,Crossmen,World Class,69.67,1980
+06/22,Grand Rapids,MI,2,Pioneer,World Class,47.8,1980
+06/22,Lafayette,IN,2,Madison Scouts,World Class,73.25,1980
+06/21,Ypsilanti,MI,3,Blue Stars,World Class,63.8,1980
+06/22,Harrison,NJ,3,Garfield Cadets,World Class,60.33,1980
+06/22,Grand Rapids,MI,3,Oakland Crusaders,World Class,42.1,1980
+06/22,Lafayette,IN,3,Cavaliers,World Class,66.0,1980
+06/21,Ypsilanti,MI,4,Royal Crusaders,World Class,48.6,1980
+06/22,Harrison,NJ,4,Royal Brigade,World Class,59.0,1980
+06/22,Grand Rapids,MI,4,General Putnam's Men,World Class,38.0,1980
+06/22,Lafayette,IN,4,Blue Stars,World Class,63.4,1980
+06/21,Ypsilanti,MI,5,Knights,World Class,45.6,1980
+06/22,Harrison,NJ,5,Black Watch,World Class,50.33,1980
+06/22,Grand Rapids,MI,5,Bandettes,World Class,30.15,1980
+06/22,Lafayette,IN,5,Guardsmen-IL,World Class,51.4,1980
+06/21,Ypsilanti,MI,6,Pioneer,World Class,45.5,1980
+06/21,Ypsilanti,MI,7,Saginaires,World Class,44.75,1980
+06/21,Ypsilanti,MI,8,Ventures,World Class,43.75,1980
+06/21,Ypsilanti,MI,9,Oakland Crusaders,World Class,40.5,1980
+06/25,Huntington,WV,1,Bridgemen,World Class,74.85,1980
+06/26,Louisville,KY,1,Bridgemen,World Class,76.45,1980
+06/27,Cleveland,TN,1,Bridgemen,World Class,75.25,1980
+06/27,Dubuque,IA,1,Madison Scouts,World Class,77.45,1980
+06/25,Huntington,WV,2,Spirit of Atlanta,World Class,72.5,1980
+06/26,Louisville,KY,2,Spirit of Atlanta,World Class,74.35,1980
+06/27,Cleveland,TN,2,Spirit of Atlanta,World Class,68.1,1980
+06/27,Dubuque,IA,2,Blue Stars,World Class,68.65,1980
+06/25,Huntington,WV,3,Crossmen,World Class,65.4,1980
+06/26,Louisville,KY,3,Crossmen,World Class,68.1,1980
+06/27,Cleveland,TN,3,Crossmen,World Class,57.45,1980
+06/27,Dubuque,IA,3,Troopers,World Class,66.4,1980
+06/25,Huntington,WV,4,Long Island Kingsmen,World Class,64.3,1980
+06/26,Louisville,KY,4,Long Island Kingsmen,World Class,63.65,1980
+06/27,Cleveland,TN,4,Long Island Kingsmen,World Class,44.5,1980
+06/27,Dubuque,IA,4,Knights,World Class,55.95,1980
+06/25,Huntington,WV,5,Vagabonds,World Class,49.75,1980
+06/26,Louisville,KY,5,Florida Vanguard,World Class,39.8,1980
+06/27,Cleveland,TN,5,Florida Vanguard,World Class,42.65,1980
+06/27,Dubuque,IA,5,CapitolAires,World Class,82.35,1980
+06/25,Huntington,WV,6,Marion Cadets,World Class,36.15,1980
+06/26,Louisville,KY,6,Suncoast Sound,World Class,39.15,1980
+06/27,Cleveland,TN,6,Suncoast Sound,World Class,38.7,1980
+06/27,Dubuque,IA,6,Silver Spectrum,World Class,28.95,1980
+06/25,Huntington,WV,7,Golden Knights,World Class,35.55,1980
+06/27,Clovis,CA,1,Blue Devils,World Class,75.25,1980
+06/28,Rome,NY,1,27th Lancers,World Class,73.05,1980
+06/28,Cedar Rapids,IA,1,Blue Stars,World Class,73.65,1980
+06/28,Madison,WI,1,Madison Scouts,World Class,77.6,1980
+06/27,Clovis,CA,2,Vanguard,World Class,68.1,1980
+06/28,Rome,NY,2,Avant Garde,World Class,55.05,1980
+06/28,Cedar Rapids,IA,2,Rivermen,World Class,59.95,1980
+06/28,Madison,WI,2,Phantom Regiment,World Class,76.15,1980
+06/27,Clovis,CA,3,Freelancers,World Class,57.45,1980
+06/28,Rome,NY,3,Fitchburg Kingsmen,World Class,40.95,1980
+06/28,Cedar Rapids,IA,3,Colts,World Class,58.5,1980
+06/28,Madison,WI,3,Cavaliers,World Class,69.1,1980
+06/27,Clovis,CA,4,Conquistadors,World Class,44.5,1980
+06/28,Rome,NY,4,Barons of Stueben,World Class,20.5,1980
+06/28,Cedar Rapids,IA,4,Knights,World Class,57.65,1980
+06/28,Madison,WI,4,Guardsmen,World Class,59.05,1980
+06/27,Clovis,CA,5,Blue Devils B,World Class,42.65,1980
+06/28,Cedar Rapids,IA,5,Silver Spectrum,World Class,30.0,1980
+06/28,Madison,WI,5,Memphis Blues,World Class,56.05,1980
+06/27,Clovis,CA,6,San Jose Raiders,World Class,38.7,1980
+06/28,Madison,WI,6,Pioneer,World Class,51.35,1980
+06/28,Modesto,CA,1,Blue Devils,World Class,77.1,1980
+06/28,Bridgeport,CT,1,Hawthorne Caballeros,World Class,75.05,1980
+06/28,Liverpool,NY,1,Reading Buccaneers,World Class,78.95,1980
+06/28,Oradell,NJ,1,Saint Ignatius,World Class,53.7,1980
+06/28,Modesto,CA,2,Vanguard,World Class,69.6,1980
+06/28,Bridgeport,CT,2,New York Skyliners,World Class,72.45,1980
+06/28,Liverpool,NY,2,Westshoremen,World Class,72.1,1980
+06/28,Oradell,NJ,2,New York Lancers,World Class,51.15,1980
+06/28,Modesto,CA,3,Freelancers,World Class,58.5,1980
+06/28,Bridgeport,CT,3,Connecticut Hurricanes,World Class,72.35,1980
+06/28,Liverpool,NY,3,Rochester Crusaders,World Class,60.25,1980
+06/28,Oradell,NJ,3,Sacred Heart Crusaders,World Class,43.05,1980
+06/28,Modesto,CA,4,Conquistadors,World Class,47.15,1980
+06/28,Bridgeport,CT,4,Sunrisers,World Class,66.4,1980
+06/28,Liverpool,NY,4,Erie Thunderbirds,World Class,52.65,1980
+06/28,Oradell,NJ,4,Royales,World Class,36.75,1980
+06/28,Modesto,CA,5,Blue Devils B,World Class,43.1,1980
+06/28,Bridgeport,CT,5,Matadors,World Class,59.15,1980
+06/28,Liverpool,NY,5,Renaissance,World Class,45.1,1980
+06/28,Oradell,NJ,5,Windjammers,World Class,35.45,1980
+06/28,Modesto,CA,6,San Jose Raiders,World Class,35.7,1980
+06/28,Modesto,CA,7,Valley Fever,World Class,31.45,1980
+06/28,Penn Argyll,PA,1,Hanover Lancers,World Class,68.65,1980
+06/28,Wausau,WI,1,Americanos,World Class,53.9,1980
+06/29,Atlanta,GA,1,Bridgemen,World Class,77.0,1980
+06/29,Rockford,IL,1,Madison Scouts,World Class,77.35,1980
+06/28,Penn Argyll,PA,2,Yankee Rebels,World Class,66.6,1980
+06/28,Wausau,WI,2,Sundowners,World Class,45.95,1980
+06/29,Atlanta,GA,2,Spirit of Atlanta,World Class,72.95,1980
+06/29,Rockford,IL,2,Phantom Regiment,World Class,74.75,1980
+06/28,Penn Argyll,PA,3,Renaissance Senior,World Class,58.0,1980
+06/28,Wausau,WI,3,CapitolAires,World Class,40.05,1980
+06/29,Atlanta,GA,3,Crossmen,World Class,68.95,1980
+06/29,Rockford,IL,3,Cavaliers,World Class,71.05,1980
+06/28,Penn Argyll,PA,4,Ohio Brass Factory,World Class,40.4,1980
+06/29,Atlanta,GA,4,North Star,World Class,67.95,1980
+06/29,Rockford,IL,4,Guardsmen-IL,World Class,60.6,1980
+06/29,Atlanta,GA,5,Long Island Kingsmen,World Class,64.9,1980
+06/29,Rockford,IL,5,Troopers,World Class,60.25,1980
+06/29,Atlanta,GA,6,Suncoast Sound,World Class,39.75,1980
+06/29,Rockford,IL,6,Memphis Blues,World Class,55.85,1980
+06/29,Atlanta,GA,7,Florida Vanguard,World Class,35.8,1980
+06/29,Sacramento,CA,1,Blue Devils,World Class,77.05,1980
+06/29,Decorah,IA,1,Blue Stars,World Class,73.1,1980
+06/30,Omaha,NE,1,"Phantom
+  Regiment",World Class,75.85,1980
+06/30,Port Huron,MI,1,"27th
+  Lancers",World Class,77.2,1980
+06/29,Sacramento,CA,2,Vanguard,World Class,68.6,1980
+06/29,Decorah,IA,2,Knights,World Class,61.3,1980
+06/30,Omaha,NE,2,Guardsmen-IL,World Class,60.85,1980
+06/30,Port Huron,MI,2,Madison Scouts,World Class,76.0,1980
+06/29,Sacramento,CA,3,Freelancers,World Class,57.7,1980
+06/29,Decorah,IA,3,Rivermen,World Class,60.05,1980
+06/30,Omaha,NE,3,Sky Ryders,World Class,55.45,1980
+06/30,Port Huron,MI,3,Troopers,World Class,63.45,1980
+06/29,Sacramento,CA,4,Conquistadors,World Class,45.9,1980
+06/29,Decorah,IA,4,Colts,World Class,55.3,1980
+06/30,Omaha,NE,4,Defenders,World Class,53.15,1980
+06/30,Port Huron,MI,4,Royal Crusaders,World Class,53.85,1980
+06/29,Sacramento,CA,5,Blue Devils B,World Class,43.7,1980
+06/29,Decorah,IA,5,Emerald Knights,World Class,29.75,1980
+06/30,Omaha,NE,5,Rivermen,World Class,51.25,1980
+06/30,Port Huron,MI,5,Ventures,World Class,45.9,1980
+06/29,Sacramento,CA,6,San Jose Raiders,World Class,36.35,1980
+06/29,Decorah,IA,6,Silver Spectrum,World Class,28.45,1980
+06/30,Omaha,NE,6,Crimson Cadets,World Class,30.75,1980
+06/30,Port Huron,MI,6,Oakland Crusaders,World Class,45.75,1980
+06/29,Sacramento,CA,7,Valley Fever,World Class,31.8,1980
+07/01,Wichita,KS,1,"Phantom
+  Regiment",World Class,77.55,1980
+07/01,Kitchner,Ontario,1,"27th
+  Lancers",World Class,77.2,1980
+07/02,Oklahoma City,OK,1,"Phantom
+  Regiment",World Class,74.9,1980
+07/02,Saint Petersburg,FL,1,Bridgemen,World Class,77.35,1980
+07/01,Wichita,KS,2,Guardsmen-IL,World Class,61.55,1980
+07/01,Kitchner,Ontario,2,Madison Scouts,World Class,75.75,1980
+07/02,Oklahoma City,OK,2,Guardsmen-IL,World Class,59.05,1980
+07/02,Saint Petersburg,FL,2,Spirit of Atlanta,World Class,74.15,1980
+07/01,Wichita,KS,3,Sky Ryders,World Class,54.9,1980
+07/01,Kitchner,Ontario,3,Royal Crusaders,World Class,53.3,1980
+07/02,Oklahoma City,OK,3,Sky Ryders,World Class,54.65,1980
+07/02,Saint Petersburg,FL,3,Crossmen,World Class,71.55,1980
+07/01,Wichita,KS,4,Rivermen,World Class,53.0,1980
+07/01,Kitchner,Ontario,4,Offensive Lions,World Class,47.05,1980
+07/02,Oklahoma City,OK,4,Rivermen,World Class,52.05,1980
+07/02,Saint Petersburg,FL,4,North Star,World Class,69.3,1980
+07/01,Wichita,KS,5,Defenders,World Class,51.65,1980
+07/01,Kitchner,Ontario,5,Ventures,World Class,43.75,1980
+07/02,Oklahoma City,OK,5,Defenders,World Class,51.0,1980
+07/02,Saint Petersburg,FL,5,Long Island Kingsmen,World Class,60.1,1980
+07/01,Wichita,KS,6,Vagabonds,World Class,42.75,1980
+07/02,Oklahoma City,OK,6,Vagabonds,World Class,40.8,1980
+07/02,Saint Petersburg,FL,6,Suncoast Sound,World Class,49.3,1980
+07/02,Saint Petersburg,FL,7,Imperial Guard,World Class,48.2,1980
+07/02,Saint Petersburg,FL,8,Florida Vanguard,World Class,44.3,1980
+07/03,Austin,TX,1,"Phantom
+  Regiment",World Class,79.4,1980
+07/03,Miami,FL,1,Bridgemen,World Class,78.75,1980
+07/03,Montreal,Quebec,1,"27th
+  Lancers",World Class,77.1,1980
+07/03,Wheaton,IL,1,Cavaliers,World Class,75.85,1980
+07/03,Austin,TX,2,Guardsmen-IL,World Class,61.25,1980
+07/03,Miami,FL,2,Crossmen,World Class,74.1,1980
+07/03,Montreal,Quebec,2,Madison Scouts,World Class,76.75,1980
+07/03,Wheaton,IL,2,Blue Stars,World Class,70.0,1980
+07/03,Austin,TX,3,Defenders,World Class,56.85,1980
+07/03,Miami,FL,3,Spirit of Atlanta,World Class,73.7,1980
+07/03,Montreal,Quebec,3,Troopers,World Class,64.65,1980
+07/03,Wheaton,IL,3,Knights,World Class,61.25,1980
+07/03,Austin,TX,4,Sky Ryders,World Class,56.15,1980
+07/03,Miami,FL,4,North Star,World Class,71.95,1980
+07/03,Montreal,Quebec,4,Offensive Lions,World Class,56.5,1980
+07/03,Wheaton,IL,4,Pioneer,World Class,55.85,1980
+07/03,Austin,TX,5,Rivermen,World Class,54.05,1980
+07/03,Miami,FL,5,Long Island Kingsmen,World Class,61.15,1980
+07/03,Montreal,Quebec,5,Royal Crusaders,World Class,55.6,1980
+07/03,Wheaton,IL,5,Vaqueros,World Class,28.9,1980
+07/03,Austin,TX,6,Vagabonds,World Class,44.25,1980
+07/03,Miami,FL,6,Florida Vanguard,World Class,46.25,1980
+07/03,Montreal,Quebec,6,Arc en Ciel,World Class,48.5,1980
+07/03,Wheaton,IL,6,Black Knights,World Class,28.5,1980
+07/03,Montreal,Quebec,7,Arbella,World Class,46.35,1980
+07/04,Stockton,CA,1,Blue Devils,World Class,79.95,1980
+07/04,Elmhurst,IL,1,Knights,World Class,58.8,1980
+07/04,Plainfield,IL,1,Cavaliers,World Class,77.1,1980
+07/04,Columbus,WI,1,Sundowners,World Class,52.6,1980
+07/04,Stockton,CA,2,Vanguard,World Class,72.9,1980
+07/04,Elmhurst,IL,2,Saginaires,World Class,55.6,1980
+07/04,Plainfield,IL,2,Blue Stars,World Class,73.8,1980
+07/04,Columbus,WI,2,CapitolAires,World Class,43.4,1980
+07/04,Stockton,CA,3,Freelancers,World Class,60.7,1980
+07/04,Elmhurst,IL,3,Pioneer,World Class,55.25,1980
+07/04,Plainfield,IL,3,Knights,World Class,55.45,1980
+07/04,Columbus,WI,3,Emerald Knights,World Class,40.2,1980
+07/04,Stockton,CA,4,Seattle Imperials,World Class,54.2,1980
+07/04,Elmhurst,IL,4,Skokie Imperials,World Class,41.75,1980
+07/04,Plainfield,IL,4,Saginaires,World Class,53.35,1980
+07/04,Stockton,CA,5,Renaissance,World Class,49.85,1980
+07/04,Elmhurst,IL,5,Black Knights,World Class,34.3,1980
+07/04,Plainfield,IL,5,Skokie Imperials,World Class,41.0,1980
+07/04,Stockton,CA,6,Conquistadors,World Class,43.7,1980
+07/04,Elmhurst,IL,6,Illiana Lancers,World Class,31.2,1980
+07/04,Plainfield,IL,6,Golden Knights,World Class,38.55,1980
+07/04,Stockton,CA,7,San Jose Raiders,World Class,42.7,1980
+07/04,Stockton,CA,8,Valley Fever,World Class,30.9,1980
+07/05,Dallas,TX,1,"Phantom
+  Regiment",World Class,81.3,1980
+07/05,Fort Walton Beach,FL,1,"Spirit of
+  Atlanta",World Class,75.8,1980
+07/05,Malden,MA,1,"Madison
+  Scouts",World Class,76.4,1980
+07/05,San Jose,CA,1,Blue Devils,World Class,81.45,1980
+07/05,Dallas,TX,2,Guardsmen-IL,World Class,62.9,1980
+07/05,Fort Walton Beach,FL,2,Crossmen,World Class,74.05,1980
+07/05,Malden,MA,2,27th Lancers,World Class,76.35,1980
+07/05,San Jose,CA,2,Vanguard,World Class,74.6,1980
+07/05,Dallas,TX,3,Holy Family Defenders,World Class,61.9,1980
+07/05,Fort Walton Beach,FL,3,North Star,World Class,72.65,1980
+07/05,Malden,MA,3,Troopers,World Class,62.3,1980
+07/05,San Jose,CA,3,Freelancers,World Class,63.2,1980
+07/05,Dallas,TX,4,Sky Ryders,World Class,59.85,1980
+07/05,Fort Walton Beach,FL,4,Imperial Guard,World Class,52.25,1980
+07/05,Malden,MA,4,Offensive Lions,World Class,59.0,1980
+07/05,San Jose,CA,4,Seattle Imperials,World Class,58.05,1980
+07/05,Dallas,TX,5,Rivermen,World Class,53.5,1980
+07/05,Fort Walton Beach,FL,5,Suncoast Sound,World Class,48.55,1980
+07/05,Malden,MA,5,Boston Crusaders,World Class,56.85,1980
+07/05,San Jose,CA,5,Renaissance,World Class,53.0,1980
+07/05,Dallas,TX,6,Vagabonds,World Class,44.85,1980
+07/05,Fort Walton Beach,FL,6,Florida Vanguard,World Class,42.95,1980
+07/05,Malden,MA,6,Royal Crusaders,World Class,56.35,1980
+07/05,San Jose,CA,6,Conquistadors,World Class,45.7,1980
+07/05,Malden,MA,7,Royal Brigade,World Class,56.05,1980
+07/05,San Jose,CA,7,Valley Fever,World Class,33.8,1980
+07/05,Rochester,NY,1,Reading Buccaneers,World Class,80.2,1980
+07/05,Midland,PA,1,Westshoremen,World Class,72.95,1980
+07/05,Oak Creek,WI,1,Blue Stars,World Class,75.1,1980
+07/06,Garfield,NJ,1,27th Lancers,World Class,77.1,1980
+07/05,Rochester,NY,2,Rochester Crusaders,World Class,79.5,1980
+07/05,Midland,PA,2,Sunrisers,World Class,70.7,1980
+07/05,Oak Creek,WI,2,Pioneer,World Class,55.5,1980
+07/06,Garfield,NJ,2,Madison Scouts,World Class,76.95,1980
+07/05,Rochester,NY,3,Thunderbirds,World Class,67.65,1980
+07/05,Midland,PA,3,Hanover Lancers,World Class,45.4,1980
+07/05,Oak Creek,WI,3,Saginaires,World Class,54.25,1980
+07/06,Garfield,NJ,3,Troopers,World Class,61.7,1980
+07/05,Rochester,NY,4,Renaissance,World Class,54.05,1980
+07/05,Midland,PA,4,Yankee Rebels,World Class,44.2,1980
+07/05,Oak Creek,WI,4,CapitolAires,World Class,38.2,1980
+07/06,Garfield,NJ,4,Garfield Cadets,World Class,55.15,1980
+07/05,Rochester,NY,5,Ohio Brass Factory,World Class,42.55,1980
+07/05,Oak Creek,WI,5,Voyagers,World Class,37.05,1980
+07/06,Garfield,NJ,5,Boston Crusaders,World Class,54.95,1980
+07/06,Garfield,NJ,6,Offensive Lions,World Class,52.7,1980
+07/06,Monterey,CA,1,Blue Devils,World Class,80.3,1980
+07/06,Dixon,IL,1,Colts,World Class,60.7,1980
+07/06,New Orleans,LA,1,Crossmen,World Class,76.0,1980
+07/06,East Troy,WI,1,Blue Stars,World Class,76.1,1980
+07/06,Monterey,CA,2,Vanguard,World Class,72.7,1980
+07/06,Dixon,IL,2,Knights,World Class,60.05,1980
+07/06,New Orleans,LA,2,Spirit of Atlanta,World Class,75.45,1980
+07/06,East Troy,WI,2,Memphis Blues,World Class,62.4,1980
+07/06,Monterey,CA,3,Freelancers,World Class,61.45,1980
+07/06,Dixon,IL,3,Royal Grenadiers,World Class,32.7,1980
+07/06,New Orleans,LA,3,North Star,World Class,72.5,1980
+07/06,East Troy,WI,3,Pioneer,World Class,56.5,1980
+07/06,Monterey,CA,4,Seattle Imperials,World Class,54.95,1980
+07/06,Dixon,IL,4,Spirit of '76,World Class,30.35,1980
+07/06,New Orleans,LA,4,Cavaliers,World Class,71.05,1980
+07/06,East Troy,WI,4,Saginaires,World Class,50.1,1980
+07/06,Monterey,CA,5,Renaissance,World Class,47.4,1980
+07/06,Dixon,IL,5,Illiana Lancers,World Class,30.25,1980
+07/06,New Orleans,LA,5,Imperial Guard,World Class,47.0,1980
+07/06,East Troy,WI,5,CapitolAires,World Class,33.85,1980
+07/06,Monterey,CA,6,Conquistadors,World Class,43.15,1980
+07/06,Dixon,IL,6,Statesmen,World Class,28.4,1980
+07/06,New Orleans,LA,6,Suncoast Sound,World Class,43.7,1980
+07/06,Monterey,CA,7,Valley Fever,World Class,41.35,1980
+07/06,New Orleans,LA,7,Florida Vanguard,World Class,40.35,1980
+07/07,Hanover,PA,1,27th Lancers,World Class,79.5,1980
+07/08,Memphis,TN,1,Crossmen,World Class,75.55,1980
+07/09,Akron,OH,1,Garfield Cadets,World Class,60.4,1980
+07/09,Columbus,OH,1,27th Lancers,World Class,79.35,1980
+07/07,Hanover,PA,2,Troopers,World Class,67.55,1980
+07/08,Memphis,TN,2,Cavaliers,World Class,70.2,1980
+07/09,Akron,OH,2,Boston Crusaders,World Class,59.3,1980
+07/09,Columbus,OH,2,Madison Scouts,World Class,78.7,1980
+07/07,Hanover,PA,3,Boston Crusaders,World Class,56.7,1980
+07/08,Memphis,TN,3,Holy Family Defenders,World Class,54.2,1980
+07/09,Akron,OH,3,Avant Garde,World Class,53.8,1980
+07/09,Columbus,OH,3,Troopers,World Class,64.5,1980
+07/07,Hanover,PA,4,Garfield Cadets,World Class,56.55,1980
+07/08,Memphis,TN,4,Rivermen,World Class,51.85,1980
+07/09,Akron,OH,4,Royal Brigade,World Class,53.35,1980
+07/09,Columbus,OH,4,Royal Crusaders,World Class,57.15,1980
+07/07,Hanover,PA,5,Royal Brigade,World Class,56.1,1980
+07/08,Memphis,TN,5,Vagabonds,World Class,41.1,1980
+07/09,Akron,OH,5,Offensive Lions,World Class,52.55,1980
+07/09,Columbus,OH,5,Bluecoats,World Class,36.65,1980
+07/07,Hanover,PA,6,Offensive Lions,World Class,53.85,1980
+07/09,Akron,OH,6,Ventures,World Class,41.45,1980
+07/09,Columbus,OH,6,Marion Cadets,World Class,31.8,1980
+07/07,Hanover,PA,7,Avant Garde,World Class,48.85,1980
+07/09,Huntington,WV,1,Yankee Rebels,World Class,87.25,1980
+07/10,Cincinnati,OH,1,Madison Scouts,World Class,80.05,1980
+07/10,Indianapolis,IN,1,27th Lancers,World Class,78.7,1980
+07/11,Riverside,CA,1,Blue Devils,World Class,75.55,1980
+07/09,Huntington,WV,2,Tyrone Guards,World Class,76.7,1980
+07/10,Cincinnati,OH,2,Garfield Cadets,World Class,65.15,1980
+07/10,Indianapolis,IN,2,Cavaliers,World Class,71.9,1980
+07/11,Riverside,CA,2,Vanguard,World Class,70.2,1980
+07/09,Huntington,WV,3,Blue Angels,World Class,74.65,1980
+07/10,Cincinnati,OH,3,Boston Crusaders,World Class,62.85,1980
+07/10,Indianapolis,IN,3,Troopers,World Class,66.5,1980
+07/11,Riverside,CA,3,Freelancers,World Class,54.2,1980
+07/09,Huntington,WV,4,Cambria Cadets,World Class,74.15,1980
+07/10,Cincinnati,OH,4,Offensive Lions,World Class,56.25,1980
+07/10,Indianapolis,IN,4,Royal Brigade,World Class,58.1,1980
+07/11,Riverside,CA,4,Seattle Imperials,World Class,51.85,1980
+07/10,Cincinnati,OH,5,Royal Crusaders,World Class,55.6,1980
+07/10,Indianapolis,IN,5,Avant Garde,World Class,54.9,1980
+07/11,Riverside,CA,5,Renaissance,World Class,41.1,1980
+07/10,Cincinnati,OH,6,Golden Knights,World Class,30.65,1980
+07/10,Indianapolis,IN,6,Rivermen,World Class,53.6,1980
+07/10,Indianapolis,IN,7,Suncoast Sound,World Class,48.55,1980
+07/11,Dolton,IL,1,Knights,World Class,60.95,1980
+07/10,Whitewater,WI,1,27th Lancers,World Class,82.65,1980
+07/12,Whitewater,WI,1,27th Lancers,World Class,82.95,1980
+07/12,Los Angeles,CA,1,Blue Devils,World Class,84.75,1980
+07/11,Dolton,IL,2,Pioneer,World Class,60.7,1980
+07/10,Whitewater,WI,2,Phantom Regiment,World Class,81.75,1980
+07/12,Whitewater,WI,2,Phantom Regiment,World Class,82.0,1980
+07/12,Los Angeles,CA,2,Vanguard,World Class,79.05,1980
+07/11,Dolton,IL,3,Skokie Imperials,World Class,46.6,1980
+07/10,Whitewater,WI,3,Madison Scouts,World Class,79.65,1980
+07/12,Whitewater,WI,3,Madison Scouts,World Class,80.25,1980
+07/12,Los Angeles,CA,3,Freelancers,World Class,66.85,1980
+07/11,Dolton,IL,4,Vaqueros,World Class,34.55,1980
+07/10,Whitewater,WI,4,Spirit of Atlanta,World Class,78.15,1980
+07/12,Whitewater,WI,4,Spirit of Atlanta,World Class,75.9,1980
+07/12,Los Angeles,CA,4,Seattle Imperials,World Class,61.0,1980
+07/11,Dolton,IL,5,Black Knights,World Class,34.45,1980
+07/10,Whitewater,WI,5,Crossmen,World Class,76.75,1980
+07/12,Whitewater,WI,5,Crossmen,World Class,75.6,1980
+07/12,Los Angeles,CA,5,Renaissance,World Class,47.15,1980
+07/11,Dolton,IL,6,Illiana Lancers,World Class,31.85,1980
+07/10,Whitewater,WI,6,Cavaliers,World Class,74.35,1980
+07/12,Whitewater,WI,6,Cavaliers,World Class,72.6,1980
+07/11,Dolton,IL,7,Royal Grenadiers,World Class,29.55,1980
+07/10,Whitewater,WI,7,North Star,World Class,71.95,1980
+07/12,Whitewater,WI,7,North Star,World Class,70.7,1980
+07/10,Whitewater,WI,8,Guardsmen-IL,World Class,70.2,1980
+07/12,Whitewater,WI,8,Guardsmen-IL,World Class,65.65,1980
+07/10,Whitewater,WI,9,Troopers,World Class,68.15,1980
+07/12,Whitewater,WI,9,Troopers,World Class,64.1,1980
+07/10,Whitewater,WI,10,Blue Stars,World Class,68.1,1980
+07/12,Whitewater,WI,10,Blue Stars,World Class,63.8,1980
+07/10,Whitewater,WI,11,Garfield Cadets,World Class,65.7,1980
+07/12,Whitewater,WI,11,Sky Ryders,World Class,62.15,1980
+07/10,Whitewater,WI,12,Sky Ryders,World Class,63.2,1980
+07/12,Whitewater,WI,12,Garfield Cadets,World Class,60.45,1980
+07/10,Whitewater,WI,13,Boston Crusaders,World Class,59.7,1980
+07/10,Whitewater,WI,14,Royal Brigade,World Class,57.2,1980
+07/10,Whitewater,WI,15,Offensive Lions,World Class,57.15,1980
+07/10,Whitewater,WI,16,Rivermen,World Class,56.2,1980
+07/10,Whitewater,WI,17,Avant Garde,World Class,55.6,1980
+07/10,Whitewater,WI,18,Royal Crusaders,World Class,54.2,1980
+07/10,Whitewater,WI,19,Imperial Guard,World Class,50.65,1980
+07/10,Whitewater,WI,20,Suncoast Sound,World Class,50.5,1980
+07/10,Whitewater,WI,21,Colts,World Class,48.4,1980
+07/10,Whitewater,WI,22,Vagabonds,World Class,47.5,1980
+07/10,Whitewater,WI,23,Americanos,World Class,45.3,1980
+07/10,Whitewater,WI,24,Florida Vanguard,World Class,39.6,1980
+07/10,Whitewater,WI,25,Kiltie Kadets,World Class,31.3,1980
+07/10,Whitewater,WI,26,Emerald Knights,World Class,28.9,1980
+07/10,Whitewater,WI,27,Phantom Regiment Cadets,World Class,25.35,1980
+07/10,Whitewater,WI,28,Madison Junior Scouts,World Class,22.75,1980
+07/10,Whitewater,WI,29,Silver Spectrum,World Class,20.75,1980
+07/12,North Canton,OH,1,Westshoremen,World Class,79.6,1980
+07/12,Rutherford,NJ,1,Reading Buccaneers,World Class,82.5,1980
+07/13,Erie,PA,1,Reading Buccaneers,World Class,76.4,1980
+07/13,Dayton,OH,1,Crossmen,World Class,77.5,1980
+07/12,North Canton,OH,2,Rochester Crusaders,World Class,71.4,1980
+07/12,Rutherford,NJ,2,New York Skyliners,World Class,76.75,1980
+07/13,Erie,PA,2,Rochester Crusaders,World Class,71.4,1980
+07/13,Dayton,OH,1,Spirit of Atlanta,World Class,77.5,1980
+07/12,North Canton,OH,3,Thunderbirds,World Class,64.2,1980
+07/12,Rutherford,NJ,3,Connecticut Hurricanes,World Class,75.15,1980
+07/13,Erie,PA,3,Thunderbirds,World Class,64.2,1980
+07/13,Dayton,OH,3,Garfield Cadets,World Class,66.0,1980
+07/12,North Canton,OH,4,Renaissance,World Class,46.5,1980
+07/12,Rutherford,NJ,4,Sunrisers,World Class,73.0,1980
+07/13,Erie,PA,4,Renaissance,World Class,42.5,1980
+07/13,Dayton,OH,4,Boston Crusaders,World Class,61.8,1980
+07/12,North Canton,OH,5,Ohio Brass Factory,World Class,34.4,1980
+07/12,Rutherford,NJ,5,Matadors,World Class,64.5,1980
+07/13,Erie,PA,5,Ohio Brass Factory,World Class,36.1,1980
+07/13,Dayton,OH,5,Royal Crusaders,World Class,59.45,1980
+07/12,Rutherford,NJ,6,Le Clique Alouette,World Class,48.7,1980
+07/13,Dayton,OH,5,Avant Garde,World Class,59.45,1980
+07/13,Dayton,OH,7,Florida Vanguard,World Class,38.65,1980
+07/13,Dayton,OH,8,Marion Cadets,World Class,32.9,1980
+07/13,Madison,WI,1,Madison Scouts,World Class,81.3,1980
+07/13,Racine,WI,1,Phantom Regiment,World Class,83.5,1980
+07/19,Scarborough,Ontario,1,Kiwanis Kavaliers,World Class,73.07,1980
+07/19,Scarborough,Ontario,1,Kiwanis Kavaliers,World Class,72.0,1980
+07/13,Madison,WI,2,Blue Stars,World Class,73.3,1980
+07/13,Racine,WI,2,Cavaliers,World Class,77.2,1980
+07/19,Scarborough,Ontario,2,Ambassadors,World Class,70.01,1980
+07/19,Scarborough,Ontario,2,Ambassadors,World Class,68.05,1980
+07/13,Madison,WI,3,Rivermen,World Class,57.75,1980
+07/13,Racine,WI,3,Pioneer,World Class,55.5,1980
+07/19,Scarborough,Ontario,3,Durham Girls,World Class,61.03,1980
+07/19,Scarborough,Ontario,3,Durham Girls,World Class,61.1,1980
+07/13,Madison,WI,4,Colts,World Class,54.75,1980
+07/13,Racine,WI,4,Saginaires,World Class,55.0,1980
+07/19,Scarborough,Ontario,4,Golden Lions,World Class,57.0,1980
+07/19,Scarborough,Ontario,4,Golden Lions,World Class,52.6,1980
+07/13,Madison,WI,5,Americanos,World Class,47.6,1980
+07/13,Racine,WI,5,Emerald Knights,World Class,35.9,1980
+07/19,Scarborough,Ontario,5,Rebels,World Class,53.0,1980
+07/13,Racine,WI,6,Royal Grenadiers,World Class,33.7,1980
+07/19,Scarborough,Ontario,6,Cardinal Cadets,World Class,49.05,1980
+07/19,Scarborough,Ontario,7,Townsmen,World Class,43.05,1980
+07/19,Scarborough,Ontario,8,Blue Saints,World Class,40.2,1980
+07/19,Providence,RI,1,New York Skyliners,World Class,75.5,1980
+07/19,Carlisle,PA,1,Hawthorne Caballeros,World Class,80.85,1980
+07/23,Boise,ID,1,Blue Devils,World Class,85.2,1980
+07/25,Corning,NY,1,Bridgemen,World Class,84.0,1980
+07/19,Providence,RI,2,Connecticut Hurricanes,World Class,75.1,1980
+07/19,Carlisle,PA,2,Reading Buccaneers,World Class,79.2,1980
+07/23,Boise,ID,2,Vanguard,World Class,78.65,1980
+07/25,Corning,NY,2,Garfield Cadets,World Class,70.1,1980
+07/19,Providence,RI,3,Sunrisers,World Class,73.85,1980
+07/19,Carlisle,PA,3,Westshoremen,World Class,73.0,1980
+07/23,Boise,ID,3,Freelancers,World Class,65.6,1980
+07/25,Corning,NY,3,Long Island Kingsmen,World Class,65.45,1980
+07/19,Providence,RI,4,Matadors,World Class,63.8,1980
+07/19,Carlisle,PA,4,Rochester Crusaders,World Class,62.2,1980
+07/23,Boise,ID,4,Seattle Imperials,World Class,59.65,1980
+07/25,Corning,NY,4,Avant Garde,World Class,63.3,1980
+07/19,Providence,RI,5,Renaissance,World Class,45.1,1980
+07/19,Carlisle,PA,5,Hanover Lancers,World Class,45.2,1980
+07/25,Corning,NY,5,Royal Brigade,World Class,62.75,1980
+07/25,Corning,NY,6,Patriots,World Class,34.0,1980
+07/25,Corning,NY,7,Blazers,World Class,31.25,1980
+07/25,Corning,NY,8,Mello Dears,World Class,30.15,1980
+07/25,Casper,WY,1,Vanguard,World Class,76.8,1980
+07/25,Liverpool,NY,1,North Star,World Class,72.75,1980
+07/25,Elk Grove Village,IL,1,Phantom Regiment,World Class,83.9,1980
+07/26,Denver,CO,1,Blue Devils,World Class,86.25,1980
+07/25,Casper,WY,2,Troopers,World Class,69.2,1980
+07/25,Liverpool,NY,2,Defenders,World Class,68.2,1980
+07/25,Elk Grove Village,IL,2,Madison Scouts,World Class,82.7,1980
+07/26,Denver,CO,2,Vanguard,World Class,80.15,1980
+07/25,Casper,WY,3,Freelancers,World Class,63.8,1980
+07/25,Liverpool,NY,3,Boston Crusaders,World Class,62.45,1980
+07/25,Elk Grove Village,IL,3,Cavaliers,World Class,79.9,1980
+07/26,Denver,CO,3,Troopers,World Class,71.4,1980
+07/25,Casper,WY,4,Seattle Imperials,World Class,59.9,1980
+07/25,Liverpool,NY,4,Royal Crusaders,World Class,59.75,1980
+07/25,Elk Grove Village,IL,4,Knights,World Class,66.4,1980
+07/26,Denver,CO,4,Sky Ryders,World Class,65.6,1980
+07/25,Liverpool,NY,5,Arbella,World Class,53.05,1980
+07/25,Elk Grove Village,IL,5,Saginaires,World Class,61.2,1980
+07/26,Denver,CO,5,Freelancers,World Class,64.6,1980
+07/25,Liverpool,NY,6,Saint Ignatius,World Class,51.75,1980
+07/25,Elk Grove Village,IL,6,Skokie Imperials,World Class,47.3,1980
+07/26,Denver,CO,6,Seattle Imperials,World Class,59.95,1980
+07/25,Elk Grove Village,IL,7,Vaqueros,World Class,41.3,1980
+07/26,Denver,CO,7,Conquistadors,World Class,51.85,1980
+07/26,Ithaca,NY,1,27th Lancers,World Class,85.7,1980
+07/26,Ithaca,NY,1,27th Lancers,World Class,86.25,1980
+07/26,DeKalb,IL,1,Phantom Regiment,World Class,84.4,1980
+07/26,DeKalb,IL,1,Phantom Regiment,World Class,85.35,1980
+07/26,Ithaca,NY,2,Bridgemen,World Class,85.2,1980
+07/26,Ithaca,NY,2,Bridgemen,World Class,84.15,1980
+07/26,DeKalb,IL,2,Madison Scouts,World Class,83.9,1980
+07/26,DeKalb,IL,2,Madison Scouts,World Class,83.05,1980
+07/26,Ithaca,NY,3,Crossmen,World Class,79.15,1980
+07/26,Ithaca,NY,3,Crossmen,World Class,80.2,1980
+07/26,DeKalb,IL,3,Cavaliers,World Class,79.15,1980
+07/26,DeKalb,IL,3,Cavaliers,World Class,78.3,1980
+07/26,Ithaca,NY,4,North Star,World Class,73.6,1980
+07/26,Ithaca,NY,4,North Star,World Class,73.1,1980
+07/26,DeKalb,IL,4,Blue Stars,World Class,75.9,1980
+07/26,DeKalb,IL,4,Blue Stars,World Class,76.25,1980
+07/26,Ithaca,NY,5,Garfield Cadets,World Class,72.3,1980
+07/26,Ithaca,NY,5,Long Island Kingsmen,World Class,70.55,1980
+07/26,DeKalb,IL,5,Guardsmen,World Class,72.6,1980
+07/26,DeKalb,IL,5,Guardsmen,World Class,70.2,1980
+07/26,Ithaca,NY,6,Long Island Kingsmen,World Class,70.2,1980
+07/26,Ithaca,NY,6,Garfield Cadets,World Class,69.5,1980
+07/26,DeKalb,IL,6,Rivermen,World Class,63.2,1980
+07/26,DeKalb,IL,6,Knights,World Class,64.2,1980
+07/26,Ithaca,NY,7,Holy Family Defenders,World Class,69.65,1980
+07/26,Ithaca,NY,7,Holy Family Defenders,World Class,68.05,1980
+07/26,DeKalb,IL,7,Knights,World Class,62.7,1980
+07/26,DeKalb,IL,7,Rivermen,World Class,63.05,1980
+07/26,Ithaca,NY,8,Boston Crusaders,World Class,63.3,1980
+07/26,Ithaca,NY,8,Boston Crusaders,World Class,63.2,1980
+07/26,DeKalb,IL,8,Pioneer,World Class,60.3,1980
+07/26,DeKalb,IL,8,Saginaires,World Class,58.6,1980
+07/26,Ithaca,NY,9,Royal Brigade,World Class,62.7,1980
+07/26,Ithaca,NY,9,Avant Garde,World Class,62.6,1980
+07/26,DeKalb,IL,9,Colts,World Class,58.7,1980
+07/26,DeKalb,IL,9,Pioneer,World Class,58.4,1980
+07/26,Ithaca,NY,10,Avant Garde,World Class,61.6,1980
+07/26,Ithaca,NY,10,Royal Brigade,World Class,62.25,1980
+07/26,DeKalb,IL,10,Saginaires,World Class,57.85,1980
+07/26,DeKalb,IL,10,Colts,World Class,57.7,1980
+07/26,Ithaca,NY,11,Royal Crusaders,World Class,58.35,1980
+07/26,DeKalb,IL,11,Americanos,World Class,57.5,1980
+07/26,Ithaca,NY,12,Guardsmen-MA,World Class,56.5,1980
+07/26,DeKalb,IL,12,Skokie Imperials,World Class,45.85,1980
+07/26,Ithaca,NY,13,Oakland Crusaders,World Class,56.15,1980
+07/26,DeKalb,IL,13,CapitolAires,World Class,44.05,1980
+07/26,Ithaca,NY,14,Black Watch,World Class,49.85,1980
+07/26,DeKalb,IL,14,Sundowners,World Class,42.9,1980
+07/26,Ithaca,NY,15,Arbella,World Class,45.0,1980
+07/26,DeKalb,IL,15,Emerald Knights,World Class,37.85,1980
+07/26,Ithaca,NY,16,Squires,World Class,44.8,1980
+07/26,DeKalb,IL,16,Royal Grenadiers,World Class,33.45,1980
+07/26,Ithaca,NY,17,Saint Ignatius,World Class,42.15,1980
+07/26,DeKalb,IL,17,Black Knights,World Class,32.05,1980
+07/26,Ithaca,NY,18,Cavaliers-MA,World Class,39.25,1980
+07/26,DeKalb,IL,18,Statesmen,World Class,31.85,1980
+07/26,Ithaca,NY,19,Sounds of Central NY,World Class,34.5,1980
+07/26,DeKalb,IL,19,Vaqueros,World Class,30.5,1980
+07/26,Ithaca,NY,20,Fitchburg Kingsmen,World Class,34.4,1980
+07/26,DeKalb,IL,20,LaFlamme Brigade,World Class,29.85,1980
+07/26,Ithaca,NY,21,General Putnam's Men,World Class,33.05,1980
+07/26,DeKalb,IL,21,Illiana Lancers,World Class,28.1,1980
+07/26,Ithaca,NY,22,Patriots,World Class,24.4,1980
+07/26,DeKalb,IL,22,Silver Spectrum,World Class,27.15,1980
+07/26,Ithaca,NY,23,Mello Dears,World Class,24.15,1980
+07/26,Scranton,PA,1,Reading Buccaneers,World Class,84.65,1980
+07/26,Ansonia,CT,1,Connecticut Hurricanes,World Class,80.6,1980
+07/27,Jersey City,NJ,1,Hawthorne Caballeros,World Class,82.1,1980
+07/27,Horicon,WI,1,Vanguard,World Class,81.1,1980
+07/26,Scranton,PA,2,Hawthorne Caballeros,World Class,79.35,1980
+07/26,Ansonia,CT,2,Sunrisers,World Class,78.75,1980
+07/27,Jersey City,NJ,2,New York Skyliners,World Class,80.05,1980
+07/27,Horicon,WI,2,Spirit of Atlanta,World Class,80.65,1980
+07/26,Scranton,PA,3,New York Skyliners,World Class,77.35,1980
+07/26,Ansonia,CT,3,Matadors,World Class,71.0,1980
+07/27,Jersey City,NJ,3,Connecticut Hurricanes,World Class,74.6,1980
+07/27,Horicon,WI,3,Cavaliers,World Class,76.55,1980
+07/26,Scranton,PA,4,Westshoremen,World Class,75.7,1980
+07/26,Ansonia,CT,4,Les Allouettes,World Class,58.4,1980
+07/27,Jersey City,NJ,4,Sunrisers,World Class,72.95,1980
+07/27,Horicon,WI,4,Troopers,World Class,71.1,1980
+07/26,Scranton,PA,5,Rochester Crusaders,World Class,69.05,1980
+07/26,Ansonia,CT,5,Renaissance,World Class,47.7,1980
+07/27,Jersey City,NJ,5,Matadors,World Class,64.65,1980
+07/27,Horicon,WI,5,Blue Stars,World Class,69.9,1980
+07/26,Scranton,PA,6,Thunderbirds,World Class,57.85,1980
+07/27,Horicon,WI,6,Guardsmen,World Class,68.1,1980
+07/27,Horicon,WI,7,Sky Ryders,World Class,63.8,1980
+07/27,McHenry,IL,1,Phantom Regiment,World Class,82.85,1980
+07/28,Sioux City,IA,1,Blue Devils,World Class,86.45,1980
+07/30,Stillwater,MN,1,Blue Devils,World Class,88.0,1980
+07/27,McHenry,IL,2,Cavaliers,World Class,78.7,1980
+07/28,Sioux City,IA,2,Vanguard,World Class,80.8,1980
+07/30,Stillwater,MN,2,Spirit of Atlanta,World Class,82.3,1980
+07/27,McHenry,IL,3,Guardsmen-IL,World Class,70.95,1980
+07/28,Sioux City,IA,3,Freelancers,World Class,68.5,1980
+07/30,Stillwater,MN,3,Vanguard,World Class,82.25,1980
+07/27,McHenry,IL,4,Knights,World Class,60.95,1980
+07/28,Sioux City,IA,4,Sky Ryders,World Class,67.05,1980
+07/30,Stillwater,MN,4,Madison Scouts,World Class,82.1,1980
+07/27,McHenry,IL,5,Saginaires,World Class,59.55,1980
+07/28,Sioux City,IA,5,Seattle Imperials,World Class,64.65,1980
+07/30,Stillwater,MN,5,Guardsmen-IL,World Class,73.6,1980
+07/27,McHenry,IL,6,Colts,World Class,58.85,1980
+07/30,Stillwater,MN,6,Blue Stars,World Class,73.25,1980
+08/01,Whitewater,WI,1,Blue Devils,Open Class,87.55,1980
+08/01,Marion,OH,1,Geneseo Knights,Open Class,63.9,1980
+08/02,Marion,OH,1,Geneseo Knights,Open Class,60.55,1980
+08/02,Hamilton,Ontario,1,Ambassadors,Open Class,72.3,1980
+08/01,Whitewater,WI,2,Phantom Regiment,Open Class,84.0,1980
+08/01,Marion,OH,2,Black Watch-NJ,Open Class,57.15,1980
+08/02,Marion,OH,2,Ventures,Open Class,55.7,1980
+08/02,Hamilton,Ontario,2,Saint Andrew's,Open Class,61.9,1980
+08/01,Whitewater,WI,3,Madison Scouts,Open Class,83.05,1980
+08/01,Marion,OH,3,Ventures,Open Class,55.9,1980
+08/02,Marion,OH,3,Black Watch-NJ,Open Class,55.25,1980
+08/02,Hamilton,Ontario,3,Durham Girls,Open Class,60.6,1980
+08/01,Whitewater,WI,4,Vanguard,Open Class,80.75,1980
+08/01,Marion,OH,4,Les Chatelaines,Open Class,54.35,1980
+08/02,Marion,OH,4,Bluecoats,Open Class,52.75,1980
+08/02,Hamilton,Ontario,4,Rebels,Open Class,46.5,1980
+08/01,Whitewater,WI,5,Spirit of Atlanta,Open Class,79.85,1980
+08/01,Marion,OH,5,Bluecoats,Open Class,52.75,1980
+08/02,Marion,OH,5,General Putnam's Men,Open Class,50.45,1980
+08/02,Hamilton,Ontario,5,Cardinal Cadets,Open Class,44.6,1980
+08/01,Whitewater,WI,6,Blue Stars,Open Class,71.3,1980
+08/01,Marion,OH,6,General Putnam's Men,Open Class,51.45,1980
+08/02,Marion,OH,6,Les Chatelaines,Open Class,50.2,1980
+08/02,Hamilton,Ontario,6,Golden Lions,Open Class,40.3,1980
+08/01,Whitewater,WI,7,Troopers,Open Class,70.9,1980
+08/01,Marion,OH,7,CMCC Warriors,Open Class,48.95,1980
+08/02,Marion,OH,7,CMCC Warriors,Open Class,48.35,1980
+08/02,Hamilton,Ontario,7,Cadets of Gardner,Open Class,38.3,1980
+08/01,Whitewater,WI,8,Guardsmen-IL,Open Class,70.85,1980
+08/01,Marion,OH,8,Dutch Boy,Open Class,48.85,1980
+08/02,Marion,OH,8,Fantasia III,Open Class,42.5,1980
+08/01,Marion,OH,9,Fantasia III,Open Class,48.0,1980
+08/02,Marion,OH,9,Dutch Boy,Open Class,41.35,1980
+08/01,Marion,OH,10,Glassmen,Open Class,47.15,1980
+08/02,Marion,OH,10,Cleveland Caballeros,Open Class,40.9,1980
+08/01,Marion,OH,11,Cleveland Caballeros,Open Class,46.3,1980
+08/02,Marion,OH,11,Glassmen,Open Class,40.65,1980
+08/01,Marion,OH,12,CapitolAires,Open Class,43.3,1980
+08/02,Marion,OH,12,CapitolAires,Open Class,36.35,1980
+08/01,Marion,OH,13,Golden Knights,Open Class,40.9,1980
+08/01,Marion,OH,14,Patriots,Open Class,38.9,1980
+08/01,Marion,OH,15,Squires,Open Class,38.85,1980
+08/01,Marion,OH,16,Northern Lights,Open Class,37.95,1980
+08/01,Marion,OH,17,Spartans-WA,Open Class,37.2,1980
+08/01,Marion,OH,18,Memorial Lancers,Open Class,36.5,1980
+08/01,Marion,OH,19,Bleu Raeders,Open Class,36.1,1980
+08/01,Marion,OH,20,Emerald Grenadears,Open Class,35.9,1980
+08/01,Marion,OH,21,Mello Dears,Open Class,35.85,1980
+08/01,Marion,OH,22,Beverly Cardinals,Open Class,34.15,1980
+08/01,Marion,OH,23,Coachmen,Open Class,34.0,1980
+08/01,Marion,OH,24,Blazers,Open Class,33.85,1980
+08/01,Marion,OH,25,Bluewater Buccaneers,Open Class,31.85,1980
+08/01,Marion,OH,26,Gauchos,Open Class,28.2,1980
+08/01,Marion,OH,27,Golden Garrison,Open Class,27.85,1980
+08/01,Marion,OH,28,Pacific Blue,Open Class,25.7,1980
+08/01,Marion,OH,29,Wranglers,Open Class,24.25,1980
+08/01,Marion,OH,30,Suburbanettes,Open Class,23.1,1980
+08/01,Marion,OH,31,Spirit of Saint Louis,Open Class,22.7,1980
+08/02,Lewistown,PA,1,Reading Buccaneers,Open Class,83.15,1980
+08/02,Michigan City,IN,1,Vanguard,Open Class,81.1,1980
+08/02,Lynn,MA,1,Bridgemen,Open Class,86.95,1980
+08/02,Lynn,MA,1,Bridgemen,Open Class,86.4,1980
+08/02,Lewistown,PA,2,New York Skyliners,Open Class,80.85,1980
+08/02,Michigan City,IN,2,Spirit of Atlanta,Open Class,80.65,1980
+08/02,Lynn,MA,2,North Star,Open Class,77.7,1980
+08/02,Lynn,MA,2,North Star,Open Class,76.4,1980
+08/02,Lewistown,PA,3,Sunrisers,Open Class,75.8,1980
+08/02,Michigan City,IN,3,Cavaliers,Open Class,76.55,1980
+08/02,Lynn,MA,3,Holy Family Defenders,Open Class,72.35,1980
+08/02,Lynn,MA,3,Defenders,Open Class,73.8,1980
+08/02,Lewistown,PA,4,Connecticut Hurricanes,Open Class,74.65,1980
+08/02,Michigan City,IN,4,Troopers,Open Class,71.1,1980
+08/02,Lynn,MA,4,Long Island Kingsmen,Open Class,71.55,1980
+08/02,Lynn,MA,4,Long Island Kingsmen,Open Class,71.9,1980
+08/02,Lewistown,PA,5,Rochester Crusaders,Open Class,70.25,1980
+08/02,Michigan City,IN,5,Blue Stars,Open Class,69.9,1980
+08/02,Lynn,MA,5,Boston Crusaders,Open Class,67.9,1980
+08/02,Lynn,MA,5,Boston Crusaders,Open Class,70.3,1980
+08/02,Michigan City,IN,6,Guardsmen,Open Class,68.1,1980
+08/02,Lynn,MA,6,Guardsmen-MA,Open Class,61.8,1980
+08/02,Lynn,MA,6,Guardsmen-MA,Open Class,63.6,1980
+08/02,Michigan City,IN,7,Sky Ryders,Open Class,63.8,1980
+08/02,Lynn,MA,7,New York Lancers,Open Class,52.95,1980
+08/02,Lynn,MA,7,New York Lancers,Open Class,56.8,1980
+08/02,Lynn,MA,8,Spectra,Open Class,52.75,1980
+08/02,Lynn,MA,8,Simplex Minutemen,Open Class,54.55,1980
+08/02,Lynn,MA,9,Simplex Minutemen,Open Class,52.7,1980
+08/02,Lynn,MA,9,Spectra,Open Class,54.35,1980
+08/02,Lynn,MA,10,Amvet Brigadiers,Open Class,50.35,1980
+08/02,Lynn,MA,10,Amvet Brigadiers,Open Class,52.8,1980
+08/02,Lynn,MA,11,2nd Decade,Open Class,45.2,1980
+08/02,Lynn,MA,12,Sounds of Central NY,Open Class,43.6,1980
+08/02,Lynn,MA,13,Sacred Heart,Open Class,42.15,1980
+08/02,Lynn,MA,14,Bengal Lancers,Open Class,40.85,1980
+08/02,Lynn,MA,15,Fitchburg Kingsmen,Open Class,40.8,1980
+08/02,Lynn,MA,16,Royal Grenadiers,Open Class,40.6,1980
+08/02,Marion,OH,1,Phantom Regiment,Open Class,84.05,1980
+08/03,Hamilton,Ontario,1,Blue Devils,Open Class,87.15,1980
+08/03,Hamilton,Ontario,1,Blue Devils,Open Class,88.05,1980
+08/04,Toledo,OH,1,Phantom Regiment,Open Class,85.75,1980
+08/02,Marion,OH,2,Madison Scouts,Open Class,77.95,1980
+08/03,Hamilton,Ontario,2,Spirit of Atlanta,Open Class,83.65,1980
+08/03,Hamilton,Ontario,2,Spirit of Atlanta,Open Class,82.6,1980
+08/04,Toledo,OH,2,Madison Scouts,Open Class,83.95,1980
+08/02,Marion,OH,3,Garfield Cadets,Open Class,69.55,1980
+08/03,Hamilton,Ontario,3,Cavaliers,Open Class,77.15,1980
+08/03,Hamilton,Ontario,3,Cavaliers,Open Class,79.3,1980
+08/04,Toledo,OH,3,Garfield Cadets,Open Class,71.65,1980
+08/02,Marion,OH,4,Freelancers,Open Class,69.4,1980
+08/03,Hamilton,Ontario,4,Troopers,Open Class,74.55,1980
+08/03,Hamilton,Ontario,4,Troopers,Open Class,76.2,1980
+08/04,Toledo,OH,4,Guardsmen-IL,Open Class,69.7,1980
+08/02,Marion,OH,5,Seattle Imperials,Open Class,65.0,1980
+08/03,Hamilton,Ontario,5,Avant Garde,Open Class,64.05,1980
+08/03,Hamilton,Ontario,5,Avant Garde,Open Class,66.75,1980
+08/04,Toledo,OH,5,Sky Ryders,Open Class,68.65,1980
+08/02,Marion,OH,6,Memphis Blues,Open Class,63.45,1980
+08/03,Hamilton,Ontario,6,Offensive Lions,Open Class,63.3,1980
+08/03,Hamilton,Ontario,6,Offensive Lions,Open Class,62.1,1980
+08/04,Toledo,OH,6,Freelancers,Open Class,67.6,1980
+08/02,Marion,OH,7,Royal Crusaders,Open Class,60.75,1980
+08/03,Hamilton,Ontario,7,Ventures,Open Class,58.1,1980
+08/03,Hamilton,Ontario,7,Ventures,Open Class,59.35,1980
+08/04,Toledo,OH,7,Seattle Imperials,Open Class,66.4,1980
+08/02,Marion,OH,8,Saginaires,Open Class,54.6,1980
+08/03,Hamilton,Ontario,8,Black Watch,Open Class,54.75,1980
+08/03,Hamilton,Ontario,8,Les Chatelaines,Open Class,54.6,1980
+08/04,Toledo,OH,8,Avant Garde,Open Class,62.7,1980
+08/02,Marion,OH,9,Oakland Crusaders,Open Class,51.8,1980
+08/03,Hamilton,Ontario,9,Les Chatelaines,Open Class,53.7,1980
+08/03,Hamilton,Ontario,9,Black Watch,Open Class,54.1,1980
+08/04,Toledo,OH,9,Royal Crusaders,Open Class,60.35,1980
+08/02,Marion,OH,10,Colts,Open Class,51.7,1980
+08/03,Hamilton,Ontario,10,Les Troubadores,Open Class,50.4,1980
+08/03,Hamilton,Ontario,10,1st Canadian Regiment,Open Class,47.35,1980
+08/04,Toledo,OH,10,Memphis Blues,Open Class,59.7,1980
+08/02,Marion,OH,11,San Jose Raiders,Open Class,50.95,1980
+08/03,Hamilton,Ontario,11,1st Canadian Regiment,Open Class,47.85,1980
+08/03,Hamilton,Ontario,11,Les Troubadores,Open Class,44.7,1980
+08/02,Marion,OH,12,Vagabonds,Open Class,49.05,1980
+08/03,Hamilton,Ontario,12,Saint John's,Open Class,25.0,1980
+08/02,Marion,OH,13,Conquistadors,Open Class,48.35,1980
+08/02,Marion,OH,14,Pioneer,Open Class,46.1,1980
+08/02,Marion,OH,15,Renaissance,Open Class,45.5,1980
+08/02,Marion,OH,16,1st Canadian Regiment,Open Class,45.3,1980
+08/02,Marion,OH,17,Marion Cadets,Open Class,32.35,1980
+08/02,Marion,OH,18,Florida Vanguard,Open Class,27.85,1980
+08/06,Revere,MA,1,27th Lancers,Open Class,88.1,1980
+08/06,Butler,PA,1,Phantom Regiment,Open Class,85.55,1980
+08/06,Butler,PA,1,Madison Scouts,Open Class,86.45,1980
+08/07,Boston,MA,1,Blue Devils,Open Class,87.5,1980
+08/06,Revere,MA,2,Bridgemen,Open Class,86.05,1980
+08/06,Butler,PA,2,Madison Scouts,Open Class,83.9,1980
+08/06,Butler,PA,2,Phantom Regiment,Open Class,85.75,1980
+08/07,Boston,MA,2,27th Lancers,Open Class,86.4,1980
+08/06,Revere,MA,3,Spirit of Atlanta,Open Class,84.95,1980
+08/06,Butler,PA,3,Guardsmen-IL,Open Class,75.0,1980
+08/06,Butler,PA,3,Guardsmen-IL,Open Class,78.1,1980
+08/07,Boston,MA,3,Bridgemen,Open Class,84.8,1980
+08/06,Revere,MA,4,Vanguard,Open Class,82.35,1980
+08/06,Butler,PA,4,Garfield Cadets,Open Class,72.55,1980
+08/06,Butler,PA,4,Garfield Cadets,Open Class,76.85,1980
+08/07,Boston,MA,4,Vanguard,Open Class,82.8,1980
+08/06,Revere,MA,5,North Star,Open Class,74.4,1980
+08/06,Butler,PA,5,Freelancers,Open Class,72.05,1980
+08/06,Butler,PA,5,Freelancers,Open Class,74.7,1980
+08/07,Boston,MA,5,North Star,Open Class,73.95,1980
+08/06,Revere,MA,6,Troopers,Open Class,74.2,1980
+08/06,Butler,PA,6,Seattle Imperials,Open Class,70.95,1980
+08/06,Butler,PA,6,Seattle Imperials,Open Class,74.45,1980
+08/07,Boston,MA,6,Troopers,Open Class,73.9,1980
+08/06,Butler,PA,7,Sky Ryders,Open Class,67.3,1980
+08/06,Butler,PA,7,Sky Ryders,Open Class,68.2,1980
+08/07,Boston,MA,7,Blue Stars,Open Class,72.75,1980
+08/06,Butler,PA,8,Memphis Blues,Open Class,66.85,1980
+08/06,Butler,PA,8,Avant Garde,Open Class,66.95,1980
+08/07,Boston,MA,8,Long Island Kingsmen,Open Class,69.75,1980
+08/06,Butler,PA,9,Avant Garde,Open Class,64.95,1980
+08/06,Butler,PA,9,Memphis Blues,Open Class,65.2,1980
+08/07,Boston,MA,9,Defenders,Open Class,67.35,1980
+08/06,Butler,PA,10,Royal Crusaders,Open Class,62.8,1980
+08/06,Butler,PA,10,Royal Crusaders,Open Class,63.55,1980
+08/07,Boston,MA,10,Boston Crusaders,Open Class,64.6,1980
+08/06,Butler,PA,11,Oakland Crusaders,Open Class,58.2,1980
+08/07,Boston,MA,11,Spectra,Open Class,46.4,1980
+08/06,Butler,PA,12,Vagabonds,Open Class,57.85,1980
+08/07,Boston,MA,12,Amvet Brigadiers,Open Class,46.15,1980
+08/06,Butler,PA,13,Guardsmen-MA,Open Class,57.35,1980
+08/06,Butler,PA,14,Colts,Open Class,57.1,1980
+08/06,Butler,PA,15,San Jose Raiders,Open Class,55.9,1980
+08/06,Butler,PA,16,Conquistadors,Open Class,55.4,1980
+08/06,Butler,PA,17,Saginaires,Open Class,54.5,1980
+08/06,Butler,PA,18,Pioneer,Open Class,51.7,1980
+08/06,Butler,PA,19,1st Canadian Regiment,Open Class,49.1,1980
+08/06,Butler,PA,20,Bluecoats,Open Class,47.9,1980
+08/06,Butler,PA,21,Squires,Open Class,46.9,1980
+08/06,Butler,PA,22,Florida Vanguard,Open Class,39.9,1980
+08/06,Butler,PA,23,Sounds of Central NY,Open Class,37.1,1980
+08/08,Bayonne,NJ,1,Phantom Regiment,Open Class,86.35,1980
+08/09,Rochester,NY,1,Reading Buccaneers,Open Class,89.3,1980
+08/09,Allentown,PA,1,27th Lancers,Open Class,91.2,1980
+08/09,Allentown,PA,1,27th Lancers,Open Class,90.35,1980
+08/08,Bayonne,NJ,2,27th Lancers,Open Class,86.1,1980
+08/09,Rochester,NY,2,Hawthorne Caballeros,Open Class,83.05,1980
+08/09,Allentown,PA,2,Blue Devils,Open Class,88.55,1980
+08/09,Allentown,PA,2,Blue Devils,Open Class,89.5,1980
+08/08,Bayonne,NJ,3,Bridgemen,Open Class,86.05,1980
+08/09,Rochester,NY,3,New York Skyliners,Open Class,79.95,1980
+08/09,Allentown,PA,3,Bridgemen,Open Class,88.35,1980
+08/09,Allentown,PA,3,Bridgemen,Open Class,87.75,1980
+08/08,Bayonne,NJ,4,Blue Stars,Open Class,75.95,1980
+08/09,Rochester,NY,4,Connecticut Hurricanes,Open Class,76.75,1980
+08/09,Allentown,PA,4,Phantom Regiment,Open Class,87.55,1980
+08/09,Allentown,PA,4,Phantom Regiment,Open Class,86.8,1980
+08/08,Bayonne,NJ,5,North Star,Open Class,75.4,1980
+08/09,Rochester,NY,5,Sunrisers,Open Class,76.6,1980
+08/09,Allentown,PA,5,Vanguard,Open Class,86.85,1980
+08/09,Allentown,PA,5,Spirit of Atlanta,Open Class,85.3,1980
+08/08,Bayonne,NJ,6,Offensive Lions,Open Class,61.5,1980
+08/09,Rochester,NY,6,Westshoremen,Open Class,76.45,1980
+08/09,Allentown,PA,6,Madison Scouts,Open Class,86.45,1980
+08/09,Allentown,PA,6,Vanguard,Open Class,83.05,1980
+08/09,Rochester,NY,7,Rochester Crusaders,Open Class,69.05,1980
+08/09,Allentown,PA,7,Spirit of Atlanta,Open Class,85.05,1980
+08/09,Allentown,PA,7,Madison Scouts,Open Class,84.95,1980
+08/09,Rochester,NY,8,Thunderbirds,Open Class,65.3,1980
+08/09,Allentown,PA,8,Crossmen,Open Class,83.3,1980
+08/09,Allentown,PA,8,Crossmen,Open Class,81.35,1980
+08/09,Rochester,NY,9,Matadors,Open Class,63.8,1980
+08/09,Allentown,PA,9,Cavaliers,Open Class,80.15,1980
+08/09,Allentown,PA,9,Cavaliers,Open Class,78.5,1980
+08/09,Allentown,PA,10,Garfield Cadets,Open Class,75.65,1980
+08/09,Allentown,PA,10,Garfield Cadets,Open Class,77.0,1980
+08/09,Allentown,PA,11,Seattle Imperials,Open Class,70.7,1980
+08/09,Allentown,PA,11,Seattle Imperials,Open Class,70.8,1980
+08/09,Allentown,PA,12,Freelancers,Open Class,70.3,1980
+08/09,Allentown,PA,12,Freelancers,Open Class,69.95,1980
+08/09,Allentown,PA,13,Sky Ryders,Open Class,69.65,1980
+08/09,Allentown,PA,14,Royal Crusaders,Open Class,66.1,1980
+08/09,Allentown,PA,15,Avant Garde,Open Class,65.1,1980
+08/09,Allentown,PA,16,Boston Crusaders,Open Class,63.45,1980
+08/09,Allentown,PA,17,Royal Brigade,Open Class,60.2,1980
+08/09,Allentown,PA,17,Offensive Lions,Open Class,60.2,1980
+08/09,Allentown,PA,19,San Jose Raiders,Open Class,58.25,1980
+08/09,Allentown,PA,20,Guardsmen-MA,Open Class,55.1,1980
+08/09,Allentown,PA,21,Conquistadors,Open Class,54.5,1980
+08/09,Allentown,PA,22,Vagabonds,Open Class,53.9,1980
+08/09,Allentown,PA,23,Spectra,Open Class,52.9,1980
+08/09,Allentown,PA,24,1st Canadian Regiment,Open Class,49.3,1980
+08/09,Allentown,PA,25,Patriots,Open Class,34.95,1980
+08/10,Mendota,IL,1,Rivermen,Open Class,69.35,1980
+08/10,Cary,NC,1,27th Lancers,Open Class,89.0,1980
+08/11,Charlotte,NC,1,Blue Devils,Open Class,90.05,1980
+08/11,Jacksonville,AL,1,Spirit of Atlanta,Open Class,87.45,1980
+08/10,Mendota,IL,2,Colts,Open Class,68.65,1980
+08/10,Cary,NC,2,Bridgemen,Open Class,87.55,1980
+08/11,Charlotte,NC,2,Phantom Regiment,Open Class,88.05,1980
+08/11,Jacksonville,AL,2,Madison Scouts,Open Class,85.75,1980
+08/10,Mendota,IL,3,Pioneer,Open Class,61.95,1980
+08/10,Cary,NC,3,Crossmen,Open Class,81.3,1980
+08/11,Charlotte,NC,3,Blue Stars,Open Class,77.6,1980
+08/11,Jacksonville,AL,3,Cavaliers,Open Class,79.0,1980
+08/10,Mendota,IL,4,Americanos,Open Class,61.05,1980
+08/10,Cary,NC,4,Blue Stars,Open Class,75.7,1980
+08/11,Charlotte,NC,4,Avant Garde,Open Class,69.15,1980
+08/11,Jacksonville,AL,4,Long Island Kingsmen,Open Class,72.5,1980
+08/10,Mendota,IL,5,CapitolAires,Open Class,48.45,1980
+08/10,Cary,NC,5,North Star,Open Class,75.2,1980
+08/11,Charlotte,NC,5,Royal Brigade,Open Class,63.65,1980
+08/11,Jacksonville,AL,5,Sky Ryders,Open Class,71.0,1980
+08/10,Mendota,IL,6,Illiana Lancers,Open Class,39.65,1980
+08/10,Cary,NC,6,Guardsmen-IL,Open Class,74.35,1980
+08/11,Charlotte,NC,6,Offensive Lions,Open Class,61.75,1980
+08/11,Jacksonville,AL,6,Oakland Crusaders,Open Class,61.3,1980
+08/10,Cary,NC,7,Troopers,Open Class,72.8,1980
+08/11,Jacksonville,AL,7,Florida Vanguard,Open Class,46.25,1980
+08/11,Sevierville,TN,1,Vanguard,Open Class,87.35,1980
+08/12,Greenville,SC,1,27th Lancers,Open Class,89.05,1980
+08/11,Sevierville,TN,2,North Star,Open Class,81.55,1980
+08/12,Greenville,SC,2,Crossmen,Open Class,82.2,1980
+08/11,Sevierville,TN,3,Guardsmen-IL,Open Class,78.7,1980
+08/12,Greenville,SC,3,North Star,Open Class,78.95,1980
+08/11,Sevierville,TN,4,Troopers,Open Class,77.5,1980
+08/12,Greenville,SC,4,Blue Stars,Open Class,78.5,1980
+08/11,Sevierville,TN,5,Memphis Blues,Open Class,70.8,1980
+08/12,Greenville,SC,5,Suncoast Sound,Open Class,59.15,1980
+08/11,Sevierville,TN,6,Royal Crusaders,Open Class,68.1,1980
+08/12,Greenville,SC,6,1st Canadian Regiment,Open Class,55.6,1980
+08/11,Sevierville,TN,7,Ventures,Open Class,60.3,1980
+08/12,Greenville,SC,7,Marion Cadets,Open Class,39.95,1980
+08/11,Sevierville,TN,8,Suncoast Sound,Open Class,55.6,1980
+08/13,Birmingham,AL,1,Ventures,Open Class,63.8,1980
+08/15,Birmingham,AL,1,Ventures,Open Class,64.35,1980
+08/15,Birmingham,AL,1,Blue Devils,Open Class,90.4,1980
+08/16,Birmingham,AL,1,Blue Devils,Open Class,90.6,1980
+08/13,Birmingham,AL,2,Knights,Open Class,63.7,1980
+08/15,Birmingham,AL,2,Knights,Open Class,62.9,1980
+08/15,Birmingham,AL,2,27th Lancers,Open Class,89.35,1980
+08/16,Birmingham,AL,2,27th Lancers,Open Class,90.25,1980
+08/13,Birmingham,AL,3,Amvet Brigadiers,Open Class,52.9,1980
+08/15,Birmingham,AL,3,Amvet Brigadiers,Open Class,53.5,1980
+08/15,Birmingham,AL,3,Spirit of Atlanta,Open Class,89.0,1980
+08/16,Birmingham,AL,3,Bridgemen,Open Class,90.05,1980
+08/13,Birmingham,AL,4,Caballaros,Open Class,51.8,1980
+08/15,Birmingham,AL,4,Black Watch,Open Class,51.7,1980
+08/15,Birmingham,AL,4,Bridgemen,Open Class,88.65,1980
+08/16,Birmingham,AL,4,Spirit of Atlanta,Open Class,89.8,1980
+08/13,Birmingham,AL,5,Black Watch,Open Class,50.45,1980
+08/15,Birmingham,AL,5,Stardusters,Open Class,48.5,1980
+08/15,Birmingham,AL,5,Phantom Regiment,Open Class,87.65,1980
+08/16,Birmingham,AL,5,Phantom Regiment,Open Class,88.45,1980
+08/13,Birmingham,AL,6,Stardusters,Open Class,47.3,1980
+08/15,Birmingham,AL,6,Caballaros,Open Class,47.8,1980
+08/15,Birmingham,AL,6,Madison Scouts,Open Class,87.3,1980
+08/16,Birmingham,AL,6,Madison Scouts,Open Class,87.05,1980
+08/13,Birmingham,AL,7,Squires,Open Class,45.25,1980
+08/15,Birmingham,AL,7,Squires,Open Class,45.95,1980
+08/15,Birmingham,AL,7,Vanguard,Open Class,87.05,1980
+08/16,Birmingham,AL,7,Vanguard,Open Class,85.6,1980
+08/13,Birmingham,AL,8,Fantasia III,Open Class,44.75,1980
+08/15,Birmingham,AL,8,Fantasia III,Open Class,44.8,1980
+08/15,Birmingham,AL,8,Crossmen,Open Class,83.6,1980
+08/16,Birmingham,AL,8,Crossmen,Open Class,81.9,1980
+08/13,Birmingham,AL,9,Sundowners,Open Class,44.5,1980
+08/15,Birmingham,AL,9,Sundowners,Open Class,44.15,1980
+08/15,Birmingham,AL,9,Cavaliers,Open Class,81.65,1980
+08/16,Birmingham,AL,9,Cavaliers,Open Class,77.4,1980
+08/13,Birmingham,AL,10,CapitolAires,Open Class,40.6,1980
+08/15,Birmingham,AL,10,CapitolAires,Open Class,35.25,1980
+08/15,Birmingham,AL,10,Garfield Cadets,Open Class,81.45,1980
+08/16,Birmingham,AL,10,Garfield Cadets,Open Class,76.45,1980
+08/13,Birmingham,AL,10,Golden Knights,Open Class,40.6,1980
+08/15,Birmingham,AL,11,Golden Knights,Open Class,35.2,1980
+08/15,Birmingham,AL,11,Guardsmen-IL,Open Class,79.55,1980
+08/16,Birmingham,AL,11,North Star,Open Class,74.05,1980
+08/13,Birmingham,AL,12,Kilties Kadets,Open Class,40.55,1980
+08/15,Birmingham,AL,12,North Star,Open Class,79.35,1980
+08/16,Birmingham,AL,12,Guardsmen-IL,Open Class,72.9,1980
+08/13,Birmingham,AL,13,Bleu Raeders,Open Class,38.1,1980
+08/15,Birmingham,AL,13,Blue Stars,Open Class,77.05,1980
+08/13,Birmingham,AL,14,Cont Ambassadors,Open Class,35.9,1980
+08/15,Birmingham,AL,14,Troopers,Open Class,76.65,1980
+08/13,Birmingham,AL,15,Valley Fever,Open Class,34.55,1980
+08/15,Birmingham,AL,15,Seattle Imperials,Open Class,71.95,1980
+08/13,Birmingham,AL,16,Emerald Knights,Open Class,34.5,1980
+08/15,Birmingham,AL,16,Long Island Kingsmen,Open Class,71.15,1980
+08/13,Birmingham,AL,17,Vaqueros,Open Class,28.75,1980
+08/15,Birmingham,AL,17,Sky Ryders,Open Class,69.7,1980
+08/13,Birmingham,AL,18,Chattahoochee Sound,Open Class,25.6,1980
+08/15,Birmingham,AL,18,Defenders,Open Class,69.25,1980
+08/13,Birmingham,AL,19,Baron of Steuben,Open Class,25.15,1980
+08/15,Birmingham,AL,19,Freelancers,Open Class,68.8,1980
+08/13,Birmingham,AL,20,Pacific Blue,Open Class,24.9,1980
+08/15,Birmingham,AL,20,Memphis Blues,Open Class,67.55,1980
+08/13,Birmingham,AL,21,Iron Cross,Open Class,14.05,1980
+08/15,Birmingham,AL,21,Royal Brigade,Open Class,65.8,1980
+08/15,Birmingham,AL,22,Rivermen,Open Class,64.85,1980
+08/15,Birmingham,AL,23,Avant Garde,Open Class,64.5,1980
+08/15,Birmingham,AL,24,Royal Crusaders,Open Class,64.45,1980
+08/15,Birmingham,AL,25,Boston Crusaders,Open Class,63.9,1980
+08/15,Birmingham,AL,26,Offensive Lions,Open Class,63.2,1980
+08/15,Birmingham,AL,27,Renaissance,Open Class,61.25,1980
+08/15,Birmingham,AL,28,Colts,Open Class,61.1,1980
+08/15,Birmingham,AL,29,Guardsmen-MA,Open Class,60.8,1980
+08/15,Birmingham,AL,30,Suncoast Sound,Open Class,60.55,1980
+08/15,Birmingham,AL,31,San Jose Raiders,Open Class,59.5,1980
+08/15,Birmingham,AL,32,Oakland Crusaders,Open Class,56.7,1980
+08/15,Birmingham,AL,33,Saginaires,Open Class,55.25,1980
+08/15,Birmingham,AL,34,Conquistadors,Open Class,54.1,1980
+08/15,Birmingham,AL,35,Pioneer,Open Class,53.9,1980
+08/15,Birmingham,AL,36,Imperial Guard,Open Class,53.0,1980
+08/15,Birmingham,AL,37,Vagabonds,Open Class,52.35,1980
+08/15,Birmingham,AL,38,Bluecoats,Open Class,52.05,1980
+08/15,Birmingham,AL,39,Americanos,Open Class,50.75,1980
+08/15,Birmingham,AL,40,Spectra,Open Class,48.9,1980
+08/15,Birmingham,AL,41,1st Canadian Regiment,Open Class,48.3,1980
+08/15,Birmingham,AL,42,Glassmen,Open Class,45.5,1980
+08/15,Birmingham,AL,43,Florida Vanguard,Open Class,44.4,1980
+08/15,Birmingham,AL,44,Marion Cadets,Open Class,36.9,1980
+08/16,Chicago,IL,1,Madison Scouts,Open Class,83.85,1980
+08/16,Boston,MA,1,Arbella,Open Class,64.55,1980
+08/22,Toronto,Ontario,1,Offensive Lions,Open Class,67.15,1980
+08/23,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,86.4,1980
+08/16,Chicago,IL,1,Cavaliers,Open Class,83.85,1980
+08/16,Boston,MA,2,Sacred Heart Crusaders,Open Class,51.85,1980
+08/22,Toronto,Ontario,2,Ventures,Open Class,63.5,1980
+08/23,Bridgeport,CT,2,Reading Buccaneers,Open Class,85.6,1980
+08/16,Chicago,IL,3,Rivermen,Open Class,69.5,1980
+08/22,Toronto,Ontario,3,Arc en Ciel,Open Class,61.0,1980
+08/23,Bridgeport,CT,3,Connecticut Hurricanes,Open Class,83.55,1980
+08/16,Chicago,IL,4,Knights,Open Class,67.4,1980
+08/16,Boston,MA,1,Hawthorne Caballeros,Open Class,86.6,1980
+08/22,Toronto,Ontario,4,Éclipses,Open Class,56.3,1980
+08/23,Bridgeport,CT,4,Sunrisers,Open Class,81.3,1980
+08/16,Chicago,IL,5,Saginaires,Open Class,62.8,1980
+08/16,Boston,MA,2,Reading Buccaneers,Open Class,85.15,1980
+08/22,Toronto,Ontario,5,Les Chatelaines,Open Class,56.2,1980
+08/23,Bridgeport,CT,5,New York Skyliners,Open Class,80.95,1980
+08/16,Chicago,IL,6,Alliance,Open Class,58.0,1980
+08/16,Boston,MA,3,New York Skyliners,Open Class,83.95,1980
+08/22,Toronto,Ontario,5,Les Troubadours,Open Class,56.2,1980
+08/23,Bridgeport,CT,6,Matadors,Open Class,72.5,1980
+08/16,Chicago,IL,7,Americanos,Open Class,57.5,1980
+08/16,Boston,MA,4,Westshoremen,Open Class,81.65,1980
+08/22,Toronto,Ontario,7,Étoiles,Open Class,53.15,1980
+08/16,Chicago,IL,8,Pioneer,Open Class,55.4,1980
+08/16,Boston,MA,5,Connecticut Hurricanes,Open Class,80.7,1980
+08/22,Toronto,Ontario,8,Alliance Musicale,Open Class,47.4,1980
+08/16,Chicago,IL,9,Norwood Park Imperials,Open Class,47.35,1980
+08/16,Boston,MA,6,Rochester Crusaders,Open Class,74.95,1980
+08/22,Toronto,Ontario,9,2e Décade,Open Class,47.15,1980
+08/16,Chicago,IL,10,Sundowners,Open Class,46.65,1980
+08/16,Boston,MA,7,Matadors,Open Class,72.0,1980
+08/22,Toronto,Ontario,10,Dutch Boy Cadets,Open Class,41.05,1980
+08/22,Toronto,Ontario,11,Les Colibris,Open Class,40.55,1980
+08/22,Toronto,Ontario,12,Les Aventuries,Open Class,40.3,1980
+08/22,Toronto,Ontario,13,Les Olympians,Open Class,34.35,1980
+08/22,Toronto,Ontario,14,Les Matadors,Open Class,32.65,1980
+08/22,Toronto,Ontario,15,Bluewater Buccaneers,Open Class,31.15,1980
+08/23,Jonquière,Quebec,1,Offensive Lions,Open Class,74.7,1980
+08/23,Williamsport,PA,1,Westshoremen,Open Class,84.25,1980
+08/24,Boonton,NJ,1,Hawthorne Caballeros,Open Class,86.3,1980
+08/23,Jonquière,Quebec,2,Arc En Ciel,Open Class,68.75,1980
+08/23,Williamsport,PA,2,Rochester Crusaders,Open Class,76.35,1980
+08/24,Boonton,NJ,2,Reading Buccaneers,Open Class,85.6,1980
+08/23,Jonquière,Quebec,3,Éclipses,Open Class,66.95,1980
+08/23,Williamsport,PA,3,Erie Thunderbirds,Open Class,70.35,1980
+08/24,Boonton,NJ,3,New York Skyliners,Open Class,84.0,1980
+08/23,Jonquière,Quebec,4,Troubadours,Open Class,65.25,1980
+08/23,Williamsport,PA,4,Renaissance,Open Class,52.3,1980
+08/24,Boonton,NJ,4,Sunrisers,Open Class,79.9,1980
+08/23,Jonquière,Quebec,5,Étoiles,Open Class,61.8,1980
+08/23,Williamsport,PA,5,Yankee Rebels,Open Class,51.1,1980
+08/24,Boonton,NJ,5,Hanover Lancers,Open Class,57.5,1980
+08/23,Jonquière,Quebec,6,2e Décade,Open Class,56.45,1980
+08/23,Jonquière,Quebec,7,Alliance Musicale,Open Class,56.15,1980
+08/23,Jonquière,Quebec,8,Colibris,Open Class,51.5,1980
+08/23,Jonquière,Quebec,9,Aventuriers,Open Class,47.6,1980
+08/23,Jonquière,Quebec,1,Gendarmes,Open Class,65.3,1980
+08/23,Jonquière,Quebec,2,Étoiles d’Or,Open Class,62.8,1980
+08/23,Jonquière,Quebec,3,Patiotes,Open Class,61.4,1980
+08/23,Jonquière,Quebec,4,Voltiguers,Open Class,57.9,1980
+08/23,Jonquière,Quebec,5,Sénateurs,Open Class,55.0,1980
+08/23,Jonquière,Quebec,6,Kascadeurs,Open Class,48.1,1980
+08/23,Jonquière,Quebec,7,Marquises,Open Class,42.4,1980
+08/23,Jonquière,Quebec,8,Éperviers,Open Class,41.8,1980
+08/23,Jonquière,Quebec,9,Saphirs Étoilés de Guigue,Open Class,41.3,1980
+08/23,Jonquière,Quebec,10,Clan Chénier,Open Class,30.5,1980
+08/31,Hershey,PA,1,Reading Buccaneers,Open Class,89.4,1980
+08/31,Hershey,PA,1,Reading Buccaneers,Open Class,91.3,1980
+08/31,Hershey,PA,2,Hawthorne Caballeros,Open Class,86.35,1980
+08/31,Hershey,PA,2,Hawthorne Caballeros,Open Class,88.95,1980
+08/31,Hershey,PA,3,Connecticut Hurricanes,Open Class,84.6,1980
+08/31,Hershey,PA,3,Connecticut Hurricanes,Open Class,86.35,1980
+08/31,Hershey,PA,4,New York Skyliners,Open Class,84.55,1980
+08/31,Hershey,PA,4,New York Skyliners,Open Class,86.05,1980
+08/31,Hershey,PA,5,Sunrisers,Open Class,83.6,1980
+08/31,Hershey,PA,5,Westshoremen,Open Class,84.9,1980
+08/31,Hershey,PA,6,Westshoremen,Open Class,83.25,1980
+08/31,Hershey,PA,6,Sunrisers,Open Class,83.15,1980
+08/31,Hershey,PA,7,Rochester Crusaders,Open Class,78.25,1980
+08/31,Hershey,PA,7,Rochester Crusaders,Open Class,77.3,1980
+08/31,Hershey,PA,8,Matadors,Open Class,75.3,1980
+08/31,Hershey,PA,8,Matadors,Open Class,74.0,1980
+08/31,Hershey,PA,9,Thunderbirds,Open Class,71.2,1980
+08/31,Hershey,PA,9,Thunderbirds,Open Class,68.2,1980
+08/31,Hershey,PA,10,Les Allouettes,Open Class,66.35,1980
+08/31,Hershey,PA,10,Les Allouettes,Open Class,59.95,1980
+08/31,Hershey,PA,11,Yankee Rebels,Open Class,60.0,1980
+08/31,Hershey,PA,12,Hanover Lancers,Open Class,52.7,1980
+08/31,Hershey,PA,13,Canadian Regionaires,Open Class,51.9,1980
+08/31,Hershey,PA,14,Renaissance,Open Class,44.4,1980
+08/31,Hershey,PA,15,Ohio Brass Factory,Open Class,43.1,1980
+08/31,Hershey,PA,16,Princemen,Open Class,36.3,1980
+08/31,Hershey,PA,17,Tyrone Guard,Open Class,35.9,1980

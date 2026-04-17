@@ -1,0 +1,1335 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/17,Oswego,IL,1,Cavaliers,World Class,75.35,2005
+06/17,Mankato,MN,1,Madison Scouts,World Class,67.5,2005
+06/17,Elizabeth,PA,1,Cadets,World Class,70.3,2005
+06/18,Toledo,OH,1,Cavaliers,World Class,74.75,2005
+06/17,Oswego,IL,2,Southwind,World Class,58.8,2005
+06/17,Mankato,MN,2,Blue Knights,World Class,61.45,2005
+06/17,Elizabeth,PA,2,Bluecoats,World Class,67.4,2005
+06/18,Toledo,OH,2,Cadets,World Class,71.95,2005
+06/17,Oswego,IL,3,Pioneer,World Class,54.85,2005
+06/17,Mankato,MN,3,Pioneer,World Class,60.6,2005
+06/17,Elizabeth,PA,3,Glassmen,World Class,65.15,2005
+06/18,Toledo,OH,3,Bluecoats,World Class,69.25,2005
+06/17,Elizabeth,PA,4,Capital Regiment,World Class,58.05,2005
+06/18,Toledo,OH,4,Glassmen,World Class,66.3,2005
+06/17,Oswego,IL,1,Memphis Sound,World Class,50.4,2005
+06/17,Mankato,MN,1,Blue Stars,World Class,53.95,2005
+06/18,Toledo,OH,5,Capital Regiment,World Class,56.5,2005
+06/17,Oswego,IL,2,Capital Sound,World Class,43.6,2005
+06/18,Toledo,OH,6,Southwind,World Class,53.8,2005
+06/17,Mankato,MN,1,Minnesota Brass,World Class,56.8,2005
+06/17,Mankato,MN,2,Govenaires,World Class,44.9,2005
+06/18,Coon Rapids,MN,1,Madison Scouts,World Class,71.3,2005
+06/18,Pleasant Hill,CA,1,Blue Devils,World Class,76.15,2005
+06/18,Wildwood,NJ,1,Reading Buccaneers,World Class,78.125,2005
+06/19,Menomonie,WI,1,Madison Scouts,World Class,72.85,2005
+06/18,Coon Rapids,MN,2,Blue Knights,World Class,64.65,2005
+06/18,Pleasant Hill,CA,2,Vanguard,World Class,71.05,2005
+06/18,Wildwood,NJ,2,Empire Statesmen,World Class,76.15,2005
+06/19,Menomonie,WI,2,Blue Knights,World Class,66.6,2005
+06/18,Coon Rapids,MN,3,Colts,World Class,62.0,2005
+06/18,Pleasant Hill,CA,3,Mandarins,World Class,60.4,2005
+06/18,Wildwood,NJ,3,Syracuse Brigadiers,World Class,73.788,2005
+06/19,Menomonie,WI,3,Colts,World Class,65.3,2005
+06/18,Wildwood,NJ,4,Corpsvets,World Class,66.538,2005
+06/19,Menomonie,WI,4,Troopers,World Class,54.65,2005
+06/18,Coon Rapids,MN,1,Blue Stars,World Class,58.45,2005
+06/18,Pleasant Hill,CA,1,Academy,World Class,70.6,2005
+06/18,Pleasant Hill,CA,2,Blue Devils B,World Class,60.6,2005
+06/19,Menomonie,WI,1,Blue Stars,World Class,59.45,2005
+06/18,Coon Rapids,MN,1,Minnesota Brass,World Class,64.15,2005
+06/18,Pleasant Hill,CA,3,Fever,World Class,58.5,2005
+06/19,Menomonie,WI,2,Capital Sound,World Class,50.5,2005
+06/18,Coon Rapids,MN,2,Govenaires,World Class,48.75,2005
+06/18,Pleasant Hill,CA,4,Vanguard Cadets,World Class,57.6,2005
+06/18,Pleasant Hill,CA,5,Blue Devils C,World Class,39.8,2005
+06/19,Menomonie,WI,1,Minnesota Brass,World Class,65.65,2005
+06/19,Menomonie,WI,2,"Chops, Inc.",World Class,45.55,2005
+06/18,Pleasant Hill,CA,1,Renegades,World Class,65.2,2005
+06/18,Pleasant Hill,CA,2,River City Regiment,World Class,54.1,2005
+06/19,Lisle,IL,1,Cavaliers,World Class,75.8,2005
+06/19,Modesto,CA,1,Vanguard,World Class,69.6,2005
+06/20,Evansville,IN,1,Cadets,World Class,74.0,2005
+06/22,Fort Mill,SC,1,Cavaliers,World Class,78.45,2005
+06/19,Lisle,IL,2,Cadets,World Class,71.7,2005
+06/19,Modesto,CA,2,Mandarins,World Class,60.95,2005
+06/20,Evansville,IN,2,Bluecoats,World Class,73.1,2005
+06/22,Fort Mill,SC,2,Cadets,World Class,74.7,2005
+06/19,Lisle,IL,3,Phantom Regiment,World Class,70.35,2005
+06/20,Evansville,IN,3,Glassmen,World Class,69.35,2005
+06/22,Fort Mill,SC,3,Bluecoats,World Class,72.7,2005
+06/19,Lisle,IL,4,Bluecoats,World Class,70.25,2005
+06/19,Modesto,CA,1,Academy,World Class,71.9,2005
+06/20,Evansville,IN,4,Southwind,World Class,60.7,2005
+06/22,Fort Mill,SC,4,Carolina Crown,World Class,71.2,2005
+06/19,Lisle,IL,5,Capital Regiment,World Class,58.45,2005
+06/19,Modesto,CA,2,Fever,World Class,62.55,2005
+06/20,Evansville,IN,5,Capital Regiment,World Class,59.15,2005
+06/22,Fort Mill,SC,5,Glassmen,World Class,68.9,2005
+06/19,Lisle,IL,6,Southwind,World Class,57.6,2005
+06/19,Modesto,CA,3,Blue Devils B,World Class,62.25,2005
+06/22,Fort Mill,SC,6,Boston Crusaders,World Class,65.85,2005
+06/19,Lisle,IL,7,Pioneer,World Class,52.35,2005
+06/19,Modesto,CA,4,Vanguard Cadets,World Class,58.1,2005
+06/20,Evansville,IN,1,Memphis Sound,World Class,56.75,2005
+06/22,Fort Mill,SC,7,Spirit,World Class,63.6,2005
+06/19,Modesto,CA,5,Blue Devils C,World Class,40.1,2005
+06/19,Lisle,IL,1,Memphis Sound,World Class,52.2,2005
+06/19,Modesto,CA,1,Renegades,World Class,67.75,2005
+06/19,Modesto,CA,2,River City Regiment,World Class,53.25,2005
+06/22,Omaha,NE,1,Phantom Regiment,World Class,72.85,2005
+06/23,Powder Springs,GA,1,Cavaliers,World Class,79.95,2005
+06/23,Cedar Rapids,IA,1,Madison Scouts,World Class,74.95,2005
+06/23,Bakersfield,CA,1,Vanguard,World Class,71.05,2005
+06/22,Omaha,NE,2,Madison Scouts,World Class,72.8,2005
+06/23,Powder Springs,GA,2,Cadets,World Class,78.65,2005
+06/23,Cedar Rapids,IA,2,Phantom Regiment,World Class,74.0,2005
+06/23,Bakersfield,CA,2,Pacific Crest,World Class,64.55,2005
+06/22,Omaha,NE,3,Blue Knights,World Class,63.1,2005
+06/23,Powder Springs,GA,3,Carolina Crown,World Class,71.3,2005
+06/23,Cedar Rapids,IA,3,Colts,World Class,65.5,2005
+06/22,Omaha,NE,4,Colts,World Class,60.25,2005
+06/23,Powder Springs,GA,4,Glassmen,World Class,70.35,2005
+06/23,Cedar Rapids,IA,4,Blue Knights,World Class,64.9,2005
+06/23,Bakersfield,CA,1,Academy,World Class,72.45,2005
+06/22,Omaha,NE,5,Pioneer,World Class,51.75,2005
+06/23,Powder Springs,GA,5,Boston Crusaders,World Class,67.75,2005
+06/23,Cedar Rapids,IA,5,Pioneer,World Class,55.65,2005
+06/23,Bakersfield,CA,2,Fever,World Class,64.55,2005
+06/22,Omaha,NE,6,Troopers,World Class,49.7,2005
+06/23,Powder Springs,GA,6,Spirit,World Class,66.95,2005
+06/23,Cedar Rapids,IA,6,Troopers,World Class,51.85,2005
+06/23,Bakersfield,CA,3,Blue Devils B,World Class,63.85,2005
+06/23,Bakersfield,CA,4,Vanguard Cadets,World Class,59.95,2005
+06/22,Omaha,NE,1,Blue Stars,World Class,58.8,2005
+06/23,Cedar Rapids,IA,1,Blue Stars,World Class,59.6,2005
+06/23,Cedar Rapids,IA,2,Colt Cadets,World Class,37.0,2005
+06/24,Rockford,IL,1,Madison Scouts,World Class,75.8,2005
+06/24,Long Beach,CA,1,Vanguard,World Class,72.7,2005
+06/25,Madison,WI,1,Phantom Regiment,World Class,76.2,2005
+06/25,Copiague,NY,1,Bushwackers,World Class,73.338,2005
+06/24,Rockford,IL,2,Phantom Regiment,World Class,75.0,2005
+06/24,Long Beach,CA,2,Pacific Crest,World Class,65.4,2005
+06/25,Madison,WI,2,Southwind,World Class,64.25,2005
+06/25,Copiague,NY,2,Rochester Crusaders,World Class,66.313,2005
+06/24,Rockford,IL,3,Blue Knights,World Class,67.6,2005
+06/24,Long Beach,CA,3,Mandarins,World Class,63.7,2005
+06/25,Madison,WI,3,Capital Regiment,World Class,59.65,2005
+06/25,Copiague,NY,3,Connecticut Hurricanes,World Class,63.538,2005
+06/24,Rockford,IL,4,Southwind,World Class,61.0,2005
+06/24,Long Beach,CA,4,Esperanza,World Class,61.35,2005
+06/25,Madison,WI,4,Pioneer,World Class,57.75,2005
+06/25,Copiague,NY,4,New York Skyliners,World Class,60.725,2005
+06/24,Rockford,IL,5,Capital Regiment,World Class,58.45,2005
+06/25,Madison,WI,5,Troopers,World Class,53.25,2005
+06/25,Copiague,NY,5,Sunrisers,World Class,58.2,2005
+06/24,Rockford,IL,6,Pioneer,World Class,57.95,2005
+06/24,Long Beach,CA,1,Academy,World Class,73.95,2005
+06/24,Long Beach,CA,2,Blue Devils B,World Class,65.3,2005
+06/25,Madison,WI,1,Blue Stars,World Class,62.3,2005
+06/24,Rockford,IL,1,Colt Cadets,World Class,38.25,2005
+06/24,Long Beach,CA,3,Impulse,World Class,63.2,2005
+06/25,Madison,WI,2,Capital Sound,World Class,51.95,2005
+06/24,Rockford,IL,2,Racine Scouts,World Class,35.1,2005
+06/24,Long Beach,CA,4,Vanguard Cadets,World Class,61.25,2005
+06/24,Long Beach,CA,5,Mystikal,World Class,48.65,2005
+06/24,Long Beach,CA,6,Jester,World Class,34.85,2005
+06/24,Long Beach,CA,1,Dream,World Class,43.65,2005
+06/25,Orlando,FL,1,Cavaliers,World Class,79.225,2005
+06/25,Riverside,CA,1,Vanguard,World Class,74.45,2005
+06/25,Malden,MA,1,Spartans,World Class,72.85,2005
+06/26,Des Plaines,IL,1,Phantom Regiment,World Class,76.8,2005
+06/25,Orlando,FL,2,Cadets,World Class,78.45,2005
+06/25,Riverside,CA,2,Pacific Crest,World Class,66.25,2005
+06/25,Malden,MA,2,East Coast Jazz,World Class,71.8,2005
+06/26,Des Plaines,IL,2,Blue Knights,World Class,68.35,2005
+06/25,Orlando,FL,3,Bluecoats,World Class,76.325,2005
+06/25,Riverside,CA,3,Mandarins,World Class,65.95,2005
+06/25,Malden,MA,3,Jersey Surf,World Class,68.95,2005
+06/26,Des Plaines,IL,3,Colts,World Class,67.8,2005
+06/25,Orlando,FL,4,Glassmen,World Class,70.55,2005
+06/25,Riverside,CA,4,Esperanza,World Class,61.55,2005
+06/25,Malden,MA,4,Raiders,World Class,62.9,2005
+06/26,Des Plaines,IL,4,Southwind,World Class,63.25,2005
+06/25,Orlando,FL,5,Carolina Crown,World Class,70.325,2005
+06/25,Malden,MA,5,Citations,World Class,57.65,2005
+06/26,Des Plaines,IL,5,Capital Regiment,World Class,59.0,2005
+06/25,Orlando,FL,6,Boston Crusaders,World Class,70.0,2005
+06/25,Riverside,CA,1,Academy,World Class,75.6,2005
+06/25,Malden,MA,6,7th Regiment,World Class,48.75,2005
+06/25,Orlando,FL,7,Spirit,World Class,67.35,2005
+06/25,Riverside,CA,2,Blue Devils B,World Class,67.55,2005
+06/25,Malden,MA,7,Targets,World Class,47.5,2005
+06/26,Des Plaines,IL,1,Blue Stars,World Class,60.45,2005
+06/25,Orlando,FL,8,Magic,World Class,59.4,2005
+06/25,Riverside,CA,3,Vanguard Cadets,World Class,63.5,2005
+06/26,Des Plaines,IL,2,Colt Cadets,World Class,37.05,2005
+06/25,Orlando,FL,9,Kiwanis Kavaliers,World Class,46.625,2005
+06/25,Riverside,CA,4,Impulse,World Class,63.45,2005
+06/25,Riverside,CA,5,Mystikal,World Class,52.0,2005
+06/25,Orlando,FL,1,Teal Sound,World Class,55.075,2005
+06/25,Riverside,CA,6,Jester,World Class,29.5,2005
+06/25,Riverside,CA,1,Dream,World Class,58.7,2005
+06/26,Westlake Village,CA,1,Vanguard,World Class,75.5,2005
+06/27,Birmingham,AL,1,Cavaliers,World Class,79.95,2005
+06/28,Belding,MI,1,Madison Scouts,World Class,78.6,2005
+06/28,Memphis,TN,1,Cavaliers,World Class,80.35,2005
+06/26,Westlake Village,CA,2,Mandarins,World Class,67.75,2005
+06/27,Birmingham,AL,2,Bluecoats,World Class,76.45,2005
+06/28,Belding,MI,2,Colts,World Class,68.95,2005
+06/28,Memphis,TN,2,Bluecoats,World Class,77.7,2005
+06/26,Westlake Village,CA,3,Pacific Crest,World Class,67.7,2005
+06/27,Birmingham,AL,3,Glassmen,World Class,74.05,2005
+06/28,Belding,MI,3,Blue Knights,World Class,68.0,2005
+06/28,Memphis,TN,3,Glassmen,World Class,74.3,2005
+06/26,Westlake Village,CA,4,Esperanza,World Class,62.9,2005
+06/27,Birmingham,AL,4,Spirit,World Class,70.7,2005
+06/28,Belding,MI,4,Capital Regiment,World Class,61.85,2005
+06/28,Memphis,TN,4,Southwind,World Class,64.25,2005
+06/27,Birmingham,AL,5,Kiwanis Kavaliers,World Class,51.7,2005
+06/28,Belding,MI,5,Troopers,World Class,56.75,2005
+06/28,Memphis,TN,5,Pioneer,World Class,57.0,2005
+06/26,Westlake Village,CA,1,Academy,World Class,77.65,2005
+06/28,Memphis,TN,6,Kiwanis Kavaliers,World Class,49.4,2005
+06/26,Westlake Village,CA,2,Blue Devils B,World Class,68.75,2005
+06/27,Birmingham,AL,1,Memphis Sound,World Class,59.75,2005
+06/28,Belding,MI,1,Blue Stars,World Class,66.45,2005
+06/26,Westlake Village,CA,3,Vanguard Cadets,World Class,64.1,2005
+06/28,Belding,MI,2,Lake Erie Regiment,World Class,43.95,2005
+06/28,Memphis,TN,1,Memphis Sound,World Class,61.5,2005
+06/26,Westlake Village,CA,4,Impulse,World Class,63.9,2005
+06/26,Westlake Village,CA,5,Mystikal,World Class,51.65,2005
+06/26,Westlake Village,CA,6,Jester,World Class,30.75,2005
+06/26,Westlake Village,CA,1,Dream,World Class,57.14,2005
+06/29,Port Huron,MI,1,Madison Scouts,World Class,79.65,2005
+06/29,Chesapeake,VA,1,Cadets,World Class,80.5,2005
+06/30,Harrison,OH,1,Bluecoats,World Class,78.0,2005
+06/30,Westminster,MD,1,Cadets,World Class,81.55,2005
+06/29,Port Huron,MI,2,Blue Knights,World Class,69.85,2005
+06/29,Chesapeake,VA,2,Carolina Crown,World Class,76.0,2005
+06/30,Harrison,OH,2,Southwind,World Class,65.8,2005
+06/30,Westminster,MD,2,Boston Crusaders,World Class,76.2,2005
+06/29,Port Huron,MI,3,Colts,World Class,69.8,2005
+06/29,Chesapeake,VA,3,Boston Crusaders,World Class,74.0,2005
+06/30,Harrison,OH,3,Pioneer,World Class,59.9,2005
+06/30,Westminster,MD,3,Carolina Crown,World Class,75.85,2005
+06/29,Port Huron,MI,4,Capital Regiment,World Class,62.45,2005
+06/29,Chesapeake,VA,4,Crossmen,World Class,72.5,2005
+06/30,Harrison,OH,4,Kiwanis Kavaliers,World Class,52.85,2005
+06/30,Westminster,MD,4,Spirit,World Class,73.3,2005
+06/29,Port Huron,MI,5,Troopers,World Class,56.7,2005
+06/29,Chesapeake,VA,5,Spirit,World Class,71.8,2005
+06/30,Westminster,MD,5,Crossmen,World Class,72.35,2005
+06/29,Chesapeake,VA,6,Magic,World Class,65.2,2005
+06/30,Harrison,OH,1,Lake Erie Regiment,World Class,45.7,2005
+06/30,Westminster,MD,6,Magic,World Class,65.1,2005
+06/29,Port Huron,MI,1,Blue Stars,World Class,67.05,2005
+06/29,Chesapeake,VA,1,Jersey Surf,World Class,67.35,2005
+06/30,Westminster,MD,1,Jersey Surf,World Class,68.2,2005
+06/29,Chesapeake,VA,2,Teal Sound,World Class,63.25,2005
+07/01,Stockton,CA,1,Phantom Regiment,World Class,79.55,2005
+07/01,Bloomington,IL,1,Cavaliers,World Class,82.25,2005
+07/01,East Rutherford,NJ,1,Cadets,World Class,81.5,2005
+07/02,Menasha,WI,1,Bluecoats,World Class,80.6,2005
+07/01,Stockton,CA,2,Vanguard,World Class,77.15,2005
+07/01,Bloomington,IL,2,Madison Scouts,World Class,80.575,2005
+07/01,East Rutherford,NJ,2,Carolina Crown,World Class,76.5,2005
+07/02,Menasha,WI,2,Capital Regiment,World Class,68.55,2005
+07/01,Stockton,CA,3,Seattle Cascades,World Class,69.85,2005
+07/01,Bloomington,IL,3,Bluecoats,World Class,79.175,2005
+07/01,East Rutherford,NJ,3,Boston Crusaders,World Class,74.0,2005
+07/02,Menasha,WI,3,Pioneer,World Class,62.05,2005
+07/01,Stockton,CA,4,Pacific Crest,World Class,69.75,2005
+07/01,Bloomington,IL,4,Glassmen,World Class,75.325,2005
+07/01,East Rutherford,NJ,4,Spirit,World Class,72.1,2005
+07/02,Menasha,WI,3,Troopers,World Class,62.05,2005
+07/01,Stockton,CA,5,Mandarins,World Class,69.4,2005
+07/01,Bloomington,IL,5,Blue Knights,World Class,72.125,2005
+07/01,East Rutherford,NJ,5,Crossmen,World Class,70.85,2005
+07/01,Stockton,CA,6,Esperanza,World Class,66.2,2005
+07/01,Bloomington,IL,6,Colts,World Class,69.725,2005
+07/02,Menasha,WI,1,Blue Stars,World Class,68.7,2005
+07/01,Bloomington,IL,7,Southwind,World Class,64.2,2005
+07/01,East Rutherford,NJ,1,Jersey Surf,World Class,70.2,2005
+07/02,Menasha,WI,2,Capital Sound,World Class,54.15,2005
+07/01,Stockton,CA,1,Blue Devils B,World Class,70.5,2005
+07/01,Bloomington,IL,8,Capital Regiment,World Class,63.475,2005
+07/01,East Rutherford,NJ,2,Raiders,World Class,63.4,2005
+07/01,Stockton,CA,2,Fever,World Class,66.45,2005
+07/02,Menasha,WI,1,Kilties,World Class,50.15,2005
+07/01,Stockton,CA,3,Vanguard Cadets,World Class,65.05,2005
+07/01,Stockton,CA,4,Blue Devils C,World Class,44.4,2005
+07/01,Stockton,CA,1,Renegades,World Class,69.4,2005
+07/01,Stockton,CA,2,River City Regiment,World Class,56.65,2005
+07/02,Rochester,NY,1,Empire Statesmen,World Class,79.975,2005
+07/02,San Jose,CA,1,Phantom Regiment,World Class,80.6,2005
+07/02,Michigan City,IN,1,Cavaliers,World Class,82.4,2005
+07/02,Nashua,NH,1,Carolina Crown,World Class,76.45,2005
+07/02,Rochester,NY,2,Syracuse Brigadiers,World Class,77.288,2005
+07/02,San Jose,CA,2,Vanguard,World Class,77.75,2005
+07/02,Michigan City,IN,2,Glassmen,World Class,76.95,2005
+07/02,Nashua,NH,2,Boston Crusaders,World Class,75.65,2005
+07/02,Rochester,NY,3,Hawthorne Caballeros,World Class,71.525,2005
+07/02,San Jose,CA,3,Seattle Cascades,World Class,71.1,2005
+07/02,Michigan City,IN,3,Southwind,World Class,67.85,2005
+07/02,Nashua,NH,3,Spirit,World Class,73.55,2005
+07/02,Rochester,NY,4,Rochester Crusaders,World Class,68.588,2005
+07/02,San Jose,CA,4,Pacific Crest,World Class,69.6,2005
+07/02,Michigan City,IN,4,Kiwanis Kavaliers,World Class,56.45,2005
+07/02,Nashua,NH,4,Magic,World Class,65.5,2005
+07/02,Rochester,NY,5,Kingston Grenadiers,World Class,65.238,2005
+07/02,San Jose,CA,5,Mandarins,World Class,68.75,2005
+07/02,San Jose,CA,6,Esperanza,World Class,67.6,2005
+07/02,Michigan City,IN,1,Memphis Sound,World Class,62.2,2005
+07/02,Nashua,NH,1,Spartans,World Class,73.45,2005
+07/02,Rochester,NY,1,White Sabers,World Class,57.613,2005
+07/02,Michigan City,IN,2,Colt Cadets,World Class,45.35,2005
+07/02,Nashua,NH,2,East Coast Jazz,World Class,72.5,2005
+07/02,San Jose,CA,1,Blue Devils B,World Class,73.55,2005
+07/02,Michigan City,IN,3,Lake Erie Regiment,World Class,45.15,2005
+07/02,Nashua,NH,3,Jersey Surf,World Class,69.9,2005
+07/02,San Jose,CA,2,Fever,World Class,69.35,2005
+07/02,San Jose,CA,3,Vanguard Cadets,World Class,68.6,2005
+07/02,San Jose,CA,4,Blue Devils C,World Class,42.95,2005
+07/02,San Jose,CA,1,Renegades,World Class,69.06,2005
+07/02,San Jose,CA,2,River City Regiment,World Class,55.5,2005
+07/03,Cedarburg,WI,1,Madison Scouts,World Class,83.2,2005
+07/03,Bristol,RI,1,Cadets,World Class,82.75,2005
+07/03,Dixon,IL,1,Teal Sound,World Class,80.45,2005
+07/05,Beverly,MA,1,Cadets,World Class,83.35,2005
+07/03,Cedarburg,WI,2,Colts,World Class,72.7,2005
+07/03,Bristol,RI,2,Carolina Crown,World Class,77.9,2005
+07/03,Dixon,IL,2,Lake Erie Regiment,World Class,67.6,2005
+07/05,Beverly,MA,2,Carolina Crown,World Class,77.9,2005
+07/03,Cedarburg,WI,3,Southwind,World Class,69.85,2005
+07/03,Bristol,RI,3,Spirit,World Class,74.05,2005
+07/03,Dixon,IL,3,Music City Legend,World Class,65.85,2005
+07/05,Beverly,MA,3,Boston Crusaders,World Class,77.35,2005
+07/03,Cedarburg,WI,4,Pioneer,World Class,61.85,2005
+07/03,Bristol,RI,4,Crossmen,World Class,72.75,2005
+07/03,Dixon,IL,4,Gulf Coast Sound,World Class,55.85,2005
+07/05,Beverly,MA,4,Crossmen,World Class,74.0,2005
+07/03,Cedarburg,WI,5,Troopers,World Class,61.3,2005
+07/03,Bristol,RI,5,Magic,World Class,66.75,2005
+07/05,Beverly,MA,5,Spirit,World Class,71.5,2005
+07/05,Beverly,MA,6,Magic,World Class,67.55,2005
+07/03,Cedarburg,WI,1,Blue Stars,World Class,69.35,2005
+07/03,Bristol,RI,1,East Coast Jazz,World Class,73.5,2005
+07/03,Cedarburg,WI,2,Colt Cadets,World Class,39.0,2005
+07/03,Bristol,RI,2,Jersey Surf,World Class,68.45,2005
+07/05,Beverly,MA,1,Spartans,World Class,74.85,2005
+07/05,Beverly,MA,2,East Coast Jazz,World Class,74.7,2005
+07/03,Cedarburg,WI,1,Capital Sound,World Class,58.7,2005
+07/03,Cedarburg,WI,2,Racine Scouts,World Class,34.8,2005
+07/06,Woodburn,OR,1,Phantom Regiment,World Class,81.3,2005
+07/06,Stillwater,MN,1,Cavaliers,World Class,83.75,2005
+07/06,Fort Edward,NY,1,Cadets,World Class,83.7,2005
+07/06,Charles City,IA,1,Colts,World Class,74.25,2005
+07/06,Woodburn,OR,2,Seattle Cascades,World Class,66.7,2005
+07/06,Stillwater,MN,2,Madison Scouts,World Class,81.55,2005
+07/06,Fort Edward,NY,2,Boston Crusaders,World Class,77.45,2005
+07/06,Charles City,IA,2,Southwind,World Class,69.7,2005
+07/06,Stillwater,MN,3,Capital Regiment,World Class,69.0,2005
+07/06,Fort Edward,NY,3,Crossmen,World Class,74.9,2005
+07/06,Charles City,IA,3,Troopers,World Class,65.45,2005
+07/06,Woodburn,OR,1,Blue Devils B,World Class,75.75,2005
+07/06,Stillwater,MN,4,Kiwanis Kavaliers,World Class,55.5,2005
+07/06,Fort Edward,NY,4,Spirit,World Class,73.3,2005
+07/06,Charles City,IA,4,Pioneer,World Class,64.5,2005
+07/06,Woodburn,OR,2,Vanguard Cadets,World Class,68.25,2005
+07/06,Fort Edward,NY,5,Magic,World Class,67.55,2005
+07/06,Woodburn,OR,3,Oregon Crusaders,World Class,58.45,2005
+07/06,Stillwater,MN,1,Blue Stars,World Class,69.2,2005
+07/06,Charles City,IA,1,Memphis Sound,World Class,66.05,2005
+07/06,Woodburn,OR,4,Spokane Thunder,World Class,50.55,2005
+07/06,Fort Edward,NY,1,Spartans,World Class,75.3,2005
+07/06,Charles City,IA,2,Capital Sound,World Class,61.05,2005
+07/06,Stillwater,MN,1,Minnesota Brass,World Class,70.9,2005
+07/06,Charles City,IA,3,Colt Cadets,World Class,44.25,2005
+07/06,Stillwater,MN,2,"Chops, Inc.",World Class,47.8,2005
+07/06,Fort Edward,NY,1,Targets,World Class,41.25,2005
+07/07,Erie,PA,1,Cadets,World Class,84.75,2005
+07/07,Dubuque,IA,1,Cavaliers,World Class,85.3,2005
+07/08,Hillsboro,OR,1,Phantom Regiment,World Class,83.95,2005
+07/08,San Diego,CA,1,Vanguard,World Class,79.5,2005
+07/07,Erie,PA,2,Carolina Crown,World Class,78.3,2005
+07/07,Dubuque,IA,2,Colts,World Class,75.25,2005
+07/08,Hillsboro,OR,2,Seattle Cascades,World Class,69.0,2005
+07/08,San Diego,CA,2,Mandarins,World Class,72.45,2005
+07/07,Erie,PA,3,Boston Crusaders,World Class,78.25,2005
+07/07,Dubuque,IA,3,Southwind,World Class,71.6,2005
+07/08,San Diego,CA,3,Pacific Crest,World Class,72.25,2005
+07/07,Erie,PA,4,Glassmen,World Class,77.45,2005
+07/07,Dubuque,IA,4,Capital Regiment,World Class,70.7,2005
+07/08,Hillsboro,OR,1,Blue Devils B,World Class,77.3,2005
+07/08,San Diego,CA,4,Esperanza,World Class,69.15,2005
+07/07,Erie,PA,5,Spirit,World Class,74.0,2005
+07/07,Dubuque,IA,5,Troopers,World Class,66.1,2005
+07/08,Hillsboro,OR,2,Vanguard Cadets,World Class,73.25,2005
+07/07,Erie,PA,6,Crossmen,World Class,72.2,2005
+07/07,Dubuque,IA,6,Kiwanis Kavaliers,World Class,55.7,2005
+07/08,Hillsboro,OR,3,Fever,World Class,69.05,2005
+07/08,San Diego,CA,1,Academy,World Class,82.55,2005
+07/08,Hillsboro,OR,4,Oregon Crusaders,World Class,68.55,2005
+07/08,San Diego,CA,2,Impulse,World Class,73.1,2005
+07/07,Erie,PA,1,Lake Erie Regiment,World Class,53.45,2005
+07/07,Dubuque,IA,1,Memphis Sound,World Class,67.3,2005
+07/08,Hillsboro,OR,5,Spokane Thunder,World Class,54.15,2005
+07/07,Dubuque,IA,2,Colt Cadets,World Class,46.0,2005
+07/08,San Diego,CA,1,Mystikal,World Class,67.0,2005
+07/08,San Diego,CA,2,Gold,World Class,49.35,2005
+07/07,Dubuque,IA,1,Capital Sound,World Class,60.75,2005
+07/08,San Diego,CA,3,Jester,World Class,34.75,2005
+07/07,Dubuque,IA,2,Racine Scouts,World Class,39.5,2005
+07/08,San Diego,CA,1,River City Regiment,World Class,59.3,2005
+07/08,San Diego,CA,2,Dream,World Class,55.6,2005
+07/09,Springfield,MA,1,Spartans,World Class,78.95,2005
+07/09,Columbia,MO,1,Cavaliers,World Class,86.175,2005
+07/09,Louisville,KY,1,Cadets,World Class,84.15,2005
+07/09,DeKalb,IL,1,Pioneer,World Class,83.05,2005
+07/09,Springfield,MA,2,East Coast Jazz,World Class,78.3,2005
+07/09,Columbia,MO,2,Madison Scouts,World Class,84.125,2005
+07/09,Louisville,KY,2,Boston Crusaders,World Class,79.025,2005
+07/09,Columbia,MO,3,Bluecoats,World Class,80.875,2005
+07/09,Louisville,KY,3,Carolina Crown,World Class,78.075,2005
+07/09,DeKalb,IL,1,Blue Stars,World Class,83.05,2005
+07/09,Springfield,MA,1,Raiders,World Class,65.0,2005
+07/09,Columbia,MO,4,Colts,World Class,74.65,2005
+07/09,Louisville,KY,4,Glassmen,World Class,77.675,2005
+07/09,DeKalb,IL,2,Teal Sound,World Class,81.45,2005
+07/09,Springfield,MA,2,Citations,World Class,58.7,2005
+07/09,Columbia,MO,5,Capital Regiment,World Class,70.475,2005
+07/09,Louisville,KY,5,Crossmen,World Class,75.425,2005
+07/09,Springfield,MA,3,Saint John's,World Class,50.6,2005
+07/09,Columbia,MO,6,Kiwanis Kavaliers,World Class,56.525,2005
+07/09,Louisville,KY,6,Spirit,World Class,73.7,2005
+07/09,DeKalb,IL,1,Capital Sound,World Class,64.35,2005
+07/09,Springfield,MA,4,Targets,World Class,46.45,2005
+07/09,Louisville,KY,7,Southwind,World Class,69.45,2005
+07/09,DeKalb,IL,2,Lake Erie Regiment,World Class,63.85,2005
+07/09,Springfield,MA,5,Spirit of Newark,World Class,44.85,2005
+07/09,Columbia,MO,1,Memphis Sound,World Class,61.075,2005
+07/09,Louisville,KY,8,Magic,World Class,66.425,2005
+07/09,DeKalb,IL,3,Racine Scouts,World Class,52.5,2005
+07/09,Springfield,MA,6,7th Regiment,World Class,42.05,2005
+07/09,Springfield,MA,7,Cadets of NYC,World Class,41.3,2005
+07/09,Louisville,KY,1,Music City Legend,World Class,50.525,2005
+07/09,DeKalb,IL,1,Minnesota Brass,World Class,86.3,2005
+07/09,DeKalb,IL,2,Govenaires,World Class,69.75,2005
+07/09,DeKalb,IL,3,Kilties,World Class,68.7,2005
+07/09,DeKalb,IL,4,Frontier,World Class,59.2,2005
+07/09,Walnut,CA,1,Vanguard,World Class,79.65,2005
+07/09,Reading,PA,1,Reading Buccaneers,World Class,83.725,2005
+07/09,Seattle,WA,1,Phantom Regiment,World Class,84.85,2005
+07/10,Mesa,AZ,1,Vanguard,World Class,80.3,2005
+07/09,Walnut,CA,2,Mandarins,World Class,73.3,2005
+07/09,Reading,PA,2,Bushwackers,World Class,79.2,2005
+07/09,Seattle,WA,2,Seattle Cascades,World Class,70.4,2005
+07/10,Mesa,AZ,2,Pacific Crest,World Class,71.5,2005
+07/09,Walnut,CA,3,Pacific Crest,World Class,72.35,2005
+07/09,Reading,PA,3,Hawthorne Caballeros,World Class,73.65,2005
+07/09,Walnut,CA,4,Esperanza,World Class,69.55,2005
+07/09,Reading,PA,4,Connecticut Hurricanes,World Class,67.95,2005
+07/09,Seattle,WA,1,Blue Devils B,World Class,77.6,2005
+07/10,Mesa,AZ,1,Academy,World Class,83.2,2005
+07/09,Reading,PA,5,New York Skyliners,World Class,64.413,2005
+07/09,Seattle,WA,2,Vanguard Cadets,World Class,75.6,2005
+07/10,Mesa,AZ,2,Mystikal,World Class,61.25,2005
+07/09,Walnut,CA,1,Academy,World Class,84.25,2005
+07/09,Reading,PA,6,Sunrisers,World Class,60.988,2005
+07/09,Seattle,WA,3,Fever,World Class,72.55,2005
+07/10,Mesa,AZ,3,Jester,World Class,34.2,2005
+07/09,Walnut,CA,2,Impulse,World Class,74.45,2005
+07/09,Seattle,WA,4,Oregon Crusaders,World Class,67.95,2005
+07/09,Seattle,WA,5,Spokane Thunder,World Class,55.45,2005
+07/09,Walnut,CA,3,Mystikal,World Class,64.5,2005
+07/09,Walnut,CA,4,Gold,World Class,50.25,2005
+07/09,Walnut,CA,5,Jester,World Class,33.15,2005
+07/09,Walnut,CA,1,Dream,World Class,63.29,2005
+07/09,Walnut,CA,2,River City Regiment,World Class,61.16,2005
+07/10,Fairfield,OH,1,Boston Crusaders,World Class,81.55,2005
+07/10,Wayne,NJ,1,East Coast Jazz,World Class,78.7,2005
+07/10,Spokane,WA,1,Phantom Regiment,World Class,85.35,2005
+07/12,Centerville,OH,1,Cavaliers,World Class,86.9,2005
+07/10,Fairfield,OH,2,Carolina Crown,World Class,80.55,2005
+07/10,Wayne,NJ,2,Jersey Surf,World Class,74.45,2005
+07/10,Spokane,WA,2,Seattle Cascades,World Class,70.6,2005
+07/12,Centerville,OH,2,Madison Scouts,World Class,85.45,2005
+07/10,Fairfield,OH,3,Glassmen,World Class,79.25,2005
+07/12,Centerville,OH,3,Glassmen,World Class,80.4,2005
+07/10,Fairfield,OH,4,Spirit,World Class,77.15,2005
+07/10,Wayne,NJ,1,Raiders,World Class,69.9,2005
+07/10,Spokane,WA,1,Blue Devils B,World Class,78.65,2005
+07/12,Centerville,OH,4,Capital Regiment,World Class,71.55,2005
+07/10,Fairfield,OH,5,Crossmen,World Class,74.95,2005
+07/10,Wayne,NJ,2,Saint John's,World Class,47.4,2005
+07/10,Spokane,WA,2,Vanguard Cadets,World Class,75.15,2005
+07/10,Fairfield,OH,6,Southwind,World Class,69.55,2005
+07/10,Wayne,NJ,3,Targets,World Class,46.95,2005
+07/10,Spokane,WA,3,Fever,World Class,74.2,2005
+07/12,Centerville,OH,1,Memphis Sound,World Class,67.95,2005
+07/10,Wayne,NJ,4,Spirit of Newark,World Class,46.25,2005
+07/10,Spokane,WA,4,Oregon Crusaders,World Class,69.0,2005
+07/12,Centerville,OH,2,Lake Erie Regiment,World Class,54.3,2005
+07/10,Fairfield,OH,1,Lake Erie Regiment,World Class,57.6,2005
+07/10,Wayne,NJ,5,Cadets of NYC,World Class,44.3,2005
+07/10,Spokane,WA,5,Spokane Thunder,World Class,56.1,2005
+07/10,Wayne,NJ,6,7th Regiment,World Class,42.95,2005
+07/12,Sevierville,TN,1,Bluecoats,World Class,83.5,2005
+07/12,Boise,ID,1,Phantom Regiment,World Class,84.65,2005
+07/12,Ankeny,IA,1,Cadets,World Class,85.65,2005
+07/13,Dublin,OH,1,Bluecoats,World Class,84.1,2005
+07/12,Sevierville,TN,2,Boston Crusaders,World Class,79.9,2005
+07/12,Boise,ID,2,Seattle Cascades,World Class,72.35,2005
+07/12,Ankeny,IA,2,Colts,World Class,76.8,2005
+07/13,Dublin,OH,2,Carolina Crown,World Class,82.0,2005
+07/12,Sevierville,TN,3,Carolina Crown,World Class,79.4,2005
+07/12,Ankeny,IA,3,Crossmen,World Class,76.45,2005
+07/13,Dublin,OH,3,Boston Crusaders,World Class,82.0,2005
+07/12,Sevierville,TN,4,Spirit,World Class,76.45,2005
+07/12,Boise,ID,1,Vanguard Cadets,World Class,76.15,2005
+07/12,Ankeny,IA,4,Magic,World Class,68.7,2005
+07/13,Dublin,OH,4,Spirit,World Class,77.45,2005
+07/12,Sevierville,TN,5,Southwind,World Class,69.85,2005
+07/12,Boise,ID,2,Oregon Crusaders,World Class,70.05,2005
+07/12,Ankeny,IA,5,Pioneer,World Class,65.7,2005
+07/13,Dublin,OH,5,Southwind,World Class,73.4,2005
+07/12,Boise,ID,3,Spokane Thunder,World Class,56.0,2005
+07/12,Ankeny,IA,6,Kiwanis Kavaliers,World Class,58.9,2005
+07/13,Dublin,OH,6,Capital Regiment,World Class,72.2,2005
+07/12,Ankeny,IA,1,Blue Stars,World Class,72.15,2005
+07/13,Dublin,OH,1,Memphis Sound,World Class,69.05,2005
+07/12,Ankeny,IA,2,Colt Cadets,World Class,44.8,2005
+07/13,Dublin,OH,2,Lake Erie Regiment,World Class,59.15,2005
+07/13,Rexburg,ID,1,Phantom Regiment,World Class,85.5,2005
+07/14,Charleston,IL,1,Cavaliers,World Class,87.55,2005
+07/15,Casper,WY,1,Phantom Regiment,World Class,84.2,2005
+07/15,Kalamazoo,MI,1,Blue Devils,World Class,86.575,2005
+07/13,Rexburg,ID,2,Seattle Cascades,World Class,72.35,2005
+07/14,Charleston,IL,2,Madison Scouts,World Class,85.8,2005
+07/15,Casper,WY,2,Blue Knights,World Class,78.1,2005
+07/15,Kalamazoo,MI,2,Bluecoats,World Class,83.0,2005
+07/14,Charleston,IL,3,Colts,World Class,77.7,2005
+07/15,Casper,WY,3,Seattle Cascades,World Class,71.05,2005
+07/15,Kalamazoo,MI,3,Spirit,World Class,77.725,2005
+07/13,Rexburg,ID,1,Vanguard Cadets,World Class,76.9,2005
+07/14,Charleston,IL,4,Magic,World Class,71.5,2005
+07/15,Casper,WY,4,Troopers,World Class,66.85,2005
+07/15,Kalamazoo,MI,4,Southwind,World Class,73.225,2005
+07/13,Rexburg,ID,2,Oregon Crusaders,World Class,74.15,2005
+07/14,Charleston,IL,5,Pioneer,World Class,68.0,2005
+07/15,Casper,WY,5,Kiwanis Kavaliers,World Class,59.45,2005
+07/15,Kalamazoo,MI,5,Magic,World Class,69.925,2005
+07/13,Rexburg,ID,3,Spokane Thunder,World Class,56.7,2005
+07/15,Kalamazoo,MI,6,Pioneer,World Class,64.6,2005
+07/15,Kalamazoo,MI,1,Blue Stars,World Class,76.55,2005
+07/15,Kalamazoo,MI,2,Memphis Sound,World Class,70.025,2005
+07/15,Kalamazoo,MI,3,Racine Scouts,World Class,43.0,2005
+07/16,Kalamazoo,MI,1,Cavaliers,World Class,88.425,2005
+07/16,Denver,CO,1,Cadets,Open Class,87.525,2005
+07/16,Clifton,NJ,1,Reading Buccaneers,Open Class,85.925,2005
+07/16,Erie,PA,1,Empire Statesmen,Open Class,84.05,2005
+07/16,Kalamazoo,MI,2,Madison Scouts,World Class,86.05,2005
+07/16,Denver,CO,2,Phantom Regiment,Open Class,85.425,2005
+07/16,Clifton,NJ,2,Bushwackers,Open Class,80.9,2005
+07/16,Erie,PA,2,Syracuse Brigadiers,Open Class,82.325,2005
+07/16,Kalamazoo,MI,3,Carolina Crown,World Class,82.7,2005
+07/16,Denver,CO,3,Vanguard,Open Class,81.2,2005
+07/16,Clifton,NJ,3,Hawthorne Caballeros,Open Class,74.988,2005
+07/16,Erie,PA,3,Rochester Crusaders,Open Class,72.75,2005
+07/16,Kalamazoo,MI,4,Boston Crusaders,World Class,81.575,2005
+07/16,Denver,CO,4,Blue Knights,Open Class,79.95,2005
+07/16,Clifton,NJ,4,Connecticut Hurricanes,Open Class,71.863,2005
+07/16,Erie,PA,4,Kingston Grenadiers,Open Class,71.213,2005
+07/16,Kalamazoo,MI,5,Glassmen,World Class,79.85,2005
+07/16,Denver,CO,5,Crossmen,Open Class,76.6,2005
+07/16,Clifton,NJ,5,Sunrisers,Open Class,64.3,2005
+07/16,Erie,PA,5,New York Skyliners,Open Class,70.5,2005
+07/16,Kalamazoo,MI,6,Colts,World Class,76.8,2005
+07/16,Denver,CO,6,Seattle Cascades,Open Class,72.95,2005
+07/16,Kalamazoo,MI,7,Capital Regiment,World Class,71.425,2005
+07/16,Denver,CO,7,Troopers,Open Class,66.55,2005
+07/16,Erie,PA,6,White Sabers,Open Class,64.888,2005
+07/16,Denver,CO,8,Kiwanis Kavaliers,Open Class,60.75,2005
+07/16,Erie,PA,7,Mon Valley Express,Open Class,49.05,2005
+07/16,Kalamazoo,MI,1,Capital Sound,World Class,59.9,2005
+07/16,Kalamazoo,MI,3,Colt Cadets,World Class,50.825,2005
+07/16,Denver,CO,1,Academy,Open Class,83.45,2005
+07/16,Denver,CO,2,Oregon Crusaders,Open Class,71.35,2005
+07/16,Kalamazoo,MI,2,Lake Erie Regiment,World Class,55.0,2005
+07/16,Kalamazoo,MI,1,"Chops, Inc.",World Class,61.775,2005
+07/16,Rockmart,GA,1,Corpsvets,Open Class,73.5,2005
+07/16,Hastings,MN,1,Minnesota Brass,Open Class,83.55,2005
+07/16,Sunnyvale,CA,1,Mandarins,Open Class,76.9,2005
+07/17,Winchester,KY,1,Madison Scouts,Open Class,86.4,2005
+07/16,Rockmart,GA,2,Carolina Gold,Open Class,68.775,2005
+07/16,Hastings,MN,3,Kilties,Open Class,69.638,2005
+07/16,Sunnyvale,CA,2,Pacific Crest,Open Class,76.75,2005
+07/17,Winchester,KY,2,Bluecoats,Open Class,85.75,2005
+07/17,Winchester,KY,3,Carolina Crown,Open Class,82.95,2005
+07/16,Rockmart,GA,1,Heat Wave (DCA),Open Class,60.45,2005
+07/16,Hastings,MN,1,Govenaires,Open Class,72.013,2005
+07/16,Sunnyvale,CA,1,Blue Devils B,Open Class,80.6,2005
+07/17,Winchester,KY,4,Boston Crusaders,Open Class,82.0,2005
+07/16,Rockmart,GA,2,Alliance,Open Class,60.188,2005
+07/16,Sunnyvale,CA,2,Fever,Open Class,78.25,2005
+07/17,Winchester,KY,5,Spirit,Open Class,77.2,2005
+07/16,Rockmart,GA,3,Music City Legend,Open Class,59.238,2005
+07/16,Hastings,MN,1,Racine Scouts,Open Class,57.713,2005
+07/16,Sunnyvale,CA,3,Vanguard Cadets,Open Class,76.25,2005
+07/17,Winchester,KY,6,Southwind,Open Class,72.5,2005
+07/16,Rockmart,GA,4,Gulf Coast Sound,Open Class,53.363,2005
+07/17,Winchester,KY,7,Magic,Open Class,70.5,2005
+07/16,Rockmart,GA,5,Shenandoah Sound,Open Class,49.713,2005
+07/16,Sunnyvale,CA,1,Mystikal,Open Class,67.3,2005
+07/16,Sunnyvale,CA,2,Spokane Thunder,Open Class,65.95,2005
+07/16,Sunnyvale,CA,3,Blue Devils C,Open Class,48.8,2005
+07/16,Sunnyvale,CA,4,Jester,Open Class,37.35,2005
+07/17,Sacramento,CA,1,Mandarins,Open Class,77.9,2005
+07/17,Saint Peter,MN,1,Minnesota Brass,Open Class,82.313,2005
+07/18,Alton,IL,1,Blue Devils,Open Class,87.9,2005
+07/18,Wichita,KS,1,Cadets,Open Class,87.3,2005
+07/17,Sacramento,CA,2,Pacific Crest,Open Class,77.4,2005
+07/17,Saint Peter,MN,2,Kilties,Open Class,70.575,2005
+07/18,Alton,IL,2,Colts,Open Class,76.8,2005
+07/18,Wichita,KS,2,Phantom Regiment,Open Class,86.1,2005
+07/18,Alton,IL,3,Capital Regiment,Open Class,73.1,2005
+07/18,Wichita,KS,3,Vanguard,Open Class,81.0,2005
+07/17,Sacramento,CA,1,Blue Devils B,Open Class,82.1,2005
+07/17,Saint Peter,MN,1,Govenaires,Open Class,70.9,2005
+07/18,Alton,IL,4,Pioneer,Open Class,66.1,2005
+07/18,Wichita,KS,4,Crossmen,Open Class,77.35,2005
+07/17,Sacramento,CA,2,Fever,Open Class,79.85,2005
+07/17,Saint Peter,MN,2,"Chops, Inc.",Open Class,69.675,2005
+07/18,Wichita,KS,5,Seattle Cascades,Open Class,73.75,2005
+07/17,Sacramento,CA,3,Vanguard Cadets,Open Class,78.75,2005
+07/18,Alton,IL,1,Blue Stars,Open Class,74.3,2005
+07/18,Wichita,KS,6,Troopers,Open Class,68.6,2005
+07/17,Saint Peter,MN,1,Racine Scouts,Open Class,57.363,2005
+07/18,Alton,IL,2,Oregon Crusaders,Open Class,67.55,2005
+07/18,Wichita,KS,7,Kiwanis Kavaliers,Open Class,63.55,2005
+07/17,Sacramento,CA,1,Mystikal,Open Class,70.2,2005
+07/17,Sacramento,CA,2,Spokane Thunder,Open Class,68.8,2005
+07/17,Sacramento,CA,3,Blue Devils C,Open Class,50.4,2005
+07/17,Sacramento,CA,4,Jester,Open Class,40.15,2005
+07/18,Oxford,AL,1,Madison Scouts,Open Class,86.55,2005
+07/19,Pittsburg,KS,1,Cavaliers,Open Class,89.85,2005
+07/19,Wichita Falls,TX,1,Phantom Regiment,Open Class,87.25,2005
+07/19,Pascagoula,MS,1,Madison Scouts,Open Class,86.8,2005
+07/18,Oxford,AL,2,Bluecoats,Open Class,85.45,2005
+07/19,Pittsburg,KS,2,Blue Devils,Open Class,88.45,2005
+07/19,Wichita Falls,TX,2,Crossmen,Open Class,77.85,2005
+07/19,Pascagoula,MS,2,Carolina Crown,Open Class,81.95,2005
+07/18,Oxford,AL,3,Boston Crusaders,Open Class,83.15,2005
+07/19,Pittsburg,KS,3,Blue Knights,Open Class,81.05,2005
+07/19,Wichita Falls,TX,3,Seattle Cascades,Open Class,73.6,2005
+07/19,Pascagoula,MS,3,Spirit,Open Class,77.9,2005
+07/18,Oxford,AL,4,Spirit,Open Class,78.0,2005
+07/19,Pittsburg,KS,4,Glassmen,Open Class,80.65,2005
+07/19,Wichita Falls,TX,4,Troopers,Open Class,67.9,2005
+07/19,Pascagoula,MS,4,Magic,Open Class,73.25,2005
+07/18,Oxford,AL,5,Magic,Open Class,73.45,2005
+07/19,Pittsburg,KS,5,Colts,Open Class,76.9,2005
+07/19,Wichita Falls,TX,5,Kiwanis Kavaliers,Open Class,64.45,2005
+07/19,Pascagoula,MS,5,Southwind,Open Class,72.0,2005
+07/18,Oxford,AL,6,Southwind,Open Class,71.2,2005
+07/19,Pittsburg,KS,6,Capital Regiment,Open Class,72.75,2005
+07/19,Pittsburg,KS,7,Pioneer,Open Class,67.75,2005
+07/19,Pascagoula,MS,1,Teal Sound,Open Class,74.75,2005
+07/18,Oxford,AL,1,Teal Sound,Open Class,72.5,2005
+07/19,Pascagoula,MS,2,Memphis Sound,Open Class,72.1,2005
+07/18,Oxford,AL,2,Memphis Sound,Open Class,71.85,2005
+07/20,Siloam Springs,AR,1,Cavaliers,Open Class,88.8,2005
+07/20,Monroe,LA,1,Bluecoats,Open Class,86.95,2005
+07/21,Dallas,TX,1,Blue Devils,Open Class,88.9,2005
+07/21,Midland,TX,1,Cadets,Open Class,89.45,2005
+07/20,Siloam Springs,AR,2,Blue Knights,Open Class,81.25,2005
+07/20,Monroe,LA,2,Carolina Crown,Open Class,84.15,2005
+07/21,Dallas,TX,2,Bluecoats,Open Class,87.4,2005
+07/21,Midland,TX,2,Phantom Regiment,Open Class,87.15,2005
+07/20,Siloam Springs,AR,3,Glassmen,Open Class,80.85,2005
+07/20,Monroe,LA,3,Boston Crusaders,Open Class,82.3,2005
+07/21,Dallas,TX,3,Carolina Crown,Open Class,84.65,2005
+07/21,Midland,TX,3,Crossmen,Open Class,80.0,2005
+07/20,Siloam Springs,AR,4,Colts,Open Class,78.35,2005
+07/20,Monroe,LA,4,Spirit,Open Class,80.45,2005
+07/21,Dallas,TX,4,Vanguard,Open Class,82.8,2005
+07/21,Midland,TX,4,Seattle Cascades,Open Class,74.5,2005
+07/20,Siloam Springs,AR,5,Capital Regiment,Open Class,74.2,2005
+07/20,Monroe,LA,5,Southwind,Open Class,74.7,2005
+07/21,Dallas,TX,5,Blue Knights,Open Class,82.65,2005
+07/21,Midland,TX,5,Troopers,Open Class,68.65,2005
+07/20,Siloam Springs,AR,6,Pioneer,Open Class,67.6,2005
+07/21,Dallas,TX,6,Glassmen,Open Class,81.9,2005
+07/21,Midland,TX,6,Esperanza,Open Class,68.45,2005
+07/21,Dallas,TX,7,Colts,Open Class,77.85,2005
+07/21,Dallas,TX,8,Southwind,Open Class,74.95,2005
+07/21,Dallas,TX,9,Capital Regiment,Open Class,74.9,2005
+07/22,Houston,TX,1,Madison Scouts,Open Class,87.4,2005
+07/22,Horicon,WI,1,Blue Stars,Open Class,84.25,2005
+07/22,Everett,MA,1,Spartans,Open Class,84.25,2005
+07/22,Oneida,WI,1,Oregon Crusaders,Open Class,72.9,2005
+07/22,Houston,TX,2,Vanguard,Open Class,82.65,2005
+07/22,Horicon,WI,2,Pioneer,Open Class,82.288,2005
+07/22,Everett,MA,2,East Coast Jazz,Open Class,83.45,2005
+07/22,Oneida,WI,2,Dutch Boy,Open Class,62.4,2005
+07/22,Houston,TX,3,Spirit,Open Class,80.35,2005
+07/22,Horicon,WI,3,Govenaires,Open Class,74.263,2005
+07/22,Oneida,WI,3,Racine Scouts,Open Class,53.65,2005
+07/22,Houston,TX,4,Magic,Open Class,72.5,2005
+07/22,Horicon,WI,4,Capital Sound,Open Class,71.525,2005
+07/22,Everett,MA,1,Raiders,Open Class,70.25,2005
+07/22,Oneida,WI,4,Colt Cadets,Open Class,51.65,2005
+07/22,Houston,TX,5,Kiwanis Kavaliers,Open Class,64.4,2005
+07/22,Horicon,WI,5,Lake Erie Regiment,Open Class,67.463,2005
+07/22,Everett,MA,2,Les Stentors,Open Class,64.8,2005
+07/22,Oneida,WI,5,Blue Saints,Open Class,30.75,2005
+07/22,Everett,MA,3,Citations,Open Class,59.1,2005
+07/22,Everett,MA,4,Saint John's,Open Class,58.35,2005
+07/22,Everett,MA,5,Targets,Open Class,52.75,2005
+07/22,Everett,MA,6,Cadets of NYC,Open Class,49.8,2005
+07/23,San Antonio,TX,1,Vanguard,Open Class,83.9,2005
+07/23,San Antonio,TX,1,Cavaliers,Open Class,91.775,2005
+07/23,Pulaski,WI,1,Oregon Crusaders,Open Class,77.6,2005
+07/23,New London,CT,1,East Coast Jazz,Open Class,84.9,2005
+07/23,San Antonio,TX,2,Blue Knights,Open Class,83.75,2005
+07/23,San Antonio,TX,2,Cadets,Open Class,91.15,2005
+07/23,Pulaski,WI,2,Colt Cadets,Open Class,55.4,2005
+07/23,New London,CT,2,Spartans,Open Class,84.65,2005
+07/23,San Antonio,TX,3,Glassmen,Open Class,82.95,2005
+07/23,San Antonio,TX,3,Blue Devils,Open Class,89.775,2005
+07/23,New London,CT,3,Jersey Surf,Open Class,79.4,2005
+07/23,San Antonio,TX,4,Spirit,Open Class,82.55,2005
+07/23,San Antonio,TX,4,Madison Scouts,Open Class,88.55,2005
+07/23,Pulaski,WI,1,Capital Sound,Open Class,67.45,2005
+07/23,San Antonio,TX,5,Crossmen,Open Class,80.25,2005
+07/23,San Antonio,TX,5,Phantom Regiment,Open Class,87.8,2005
+07/23,Pulaski,WI,2,Dutch Boy,Open Class,66.1,2005
+07/23,New London,CT,1,Raiders,Open Class,71.3,2005
+07/23,San Antonio,TX,6,Colts,Open Class,79.675,2005
+07/23,San Antonio,TX,6,Bluecoats,Open Class,87.35,2005
+07/23,Pulaski,WI,3,Racine Scouts,Open Class,56.35,2005
+07/23,New London,CT,2,Les Stentors,Open Class,65.75,2005
+07/23,San Antonio,TX,7,Mandarins,Open Class,76.95,2005
+07/23,San Antonio,TX,7,Carolina Crown,Open Class,84.5,2005
+07/23,Pulaski,WI,4,Blue Saints,Open Class,30.75,2005
+07/23,New London,CT,3,Citations,Open Class,61.25,2005
+07/23,San Antonio,TX,8,Seattle Cascades,Open Class,75.675,2005
+07/23,San Antonio,TX,8,Boston Crusaders,Open Class,83.55,2005
+07/23,New London,CT,4,Saint John's,Open Class,57.85,2005
+07/23,San Antonio,TX,9,Southwind,Open Class,75.075,2005
+07/23,San Antonio,TX,9,Vanguard,Open Class,82.425,2005
+07/23,New London,CT,5,Spirit of Newark,Open Class,54.2,2005
+07/23,San Antonio,TX,10,Capital Regiment,Open Class,74.475,2005
+07/23,San Antonio,TX,10,Blue Knights,Open Class,82.025,2005
+07/23,New London,CT,6,Cadets of NYC,Open Class,52.1,2005
+07/23,San Antonio,TX,11,Magic,Open Class,72.95,2005
+07/23,San Antonio,TX,11,Glassmen,Open Class,80.575,2005
+07/23,New London,CT,7,Targets,Open Class,50.85,2005
+07/23,San Antonio,TX,12,Esperanza,Open Class,72.275,2005
+07/23,San Antonio,TX,12,Spirit,Open Class,80.0,2005
+07/23,San Antonio,TX,13,Troopers,Open Class,69.825,2005
+07/23,San Antonio,TX,14,Kiwanis Kavaliers,Open Class,65.25,2005
+07/23,San Antonio,TX,1,Revolution,Open Class,66.85,2005
+07/23,Lewisburg,PA,1,Reading Buccaneers,Open Class,87.363,2005
+07/24,Middleton,WI,1,Blue Stars,Open Class,78.9,2005
+07/25,Enid,OK,1,Madison Scouts,Open Class,89.0,2005
+07/25,Baton Rouge,LA,1,Blue Devils,Open Class,90.45,2005
+07/23,Lewisburg,PA,2,Empire Statesmen,Open Class,84.963,2005
+07/24,Middleton,WI,2,Oregon Crusaders,Open Class,78.35,2005
+07/25,Enid,OK,2,Bluecoats,Open Class,87.5,2005
+07/25,Baton Rouge,LA,2,Carolina Crown,Open Class,86.35,2005
+07/23,Lewisburg,PA,3,Syracuse Brigadiers,Open Class,83.05,2005
+07/24,Middleton,WI,3,Colt Cadets,Open Class,55.1,2005
+07/25,Enid,OK,3,Vanguard,Open Class,83.0,2005
+07/25,Baton Rouge,LA,3,Blue Knights,Open Class,84.35,2005
+07/23,Lewisburg,PA,4,Bushwackers,Open Class,82.225,2005
+07/25,Enid,OK,4,Glassmen,Open Class,81.4,2005
+07/25,Baton Rouge,LA,4,Spirit,Open Class,82.05,2005
+07/23,Lewisburg,PA,5,Hawthorne Caballeros,Open Class,77.778,2005
+07/24,Middleton,WI,1,Taipei Yuehfu,Open Class,69.25,2005
+07/25,Enid,OK,5,Seattle Cascades,Open Class,75.6,2005
+07/25,Baton Rouge,LA,5,Colts,Open Class,80.4,2005
+07/23,Lewisburg,PA,6,Connecticut Hurricanes,Open Class,73.675,2005
+07/24,Middleton,WI,2,Capital Sound,Open Class,67.95,2005
+07/25,Enid,OK,6,Southwind,Open Class,75.15,2005
+07/25,Baton Rouge,LA,6,Mandarins,Open Class,75.1,2005
+07/24,Middleton,WI,3,Dutch Boy,Open Class,65.8,2005
+07/25,Enid,OK,7,Capital Regiment,Open Class,75.05,2005
+07/25,Baton Rouge,LA,7,Magic,Open Class,74.1,2005
+07/24,Middleton,WI,4,Pride of the Lions,Open Class,60.6,2005
+07/25,Baton Rouge,LA,8,Esperanza,Open Class,71.3,2005
+07/24,Middleton,WI,5,Blue Saints,Open Class,29.4,2005
+07/25,Baton Rouge,LA,9,Troopers,Open Class,70.1,2005
+07/25,Baton Rouge,LA,10,Kiwanis Kavaliers,Open Class,65.9,2005
+07/26,Broken Arrow,OK,1,Phantom Regiment,Open Class,88.8,2005
+07/26,Troy,AL,1,Cavaliers,Open Class,92.05,2005
+07/26,Chippewa Falls,WI,1,Blue Stars,Open Class,84.35,2005
+07/27,Tupelo,MS,1,Cadets,Open Class,91.85,2005
+07/26,Broken Arrow,OK,2,Madison Scouts,Open Class,88.65,2005
+07/26,Troy,AL,2,Blue Devils,Open Class,90.85,2005
+07/26,Chippewa Falls,WI,2,Oregon Crusaders,Open Class,83.15,2005
+07/27,Tupelo,MS,2,Blue Knights,Open Class,84.7,2005
+07/26,Broken Arrow,OK,3,Bluecoats,Open Class,87.45,2005
+07/26,Troy,AL,3,Carolina Crown,Open Class,86.8,2005
+07/26,Chippewa Falls,WI,3,Colt Cadets,Open Class,57.45,2005
+07/27,Tupelo,MS,3,Capital Regiment,Open Class,77.35,2005
+07/26,Broken Arrow,OK,4,Boston Crusaders,Open Class,85.6,2005
+07/26,Troy,AL,4,Spirit,Open Class,83.1,2005
+07/27,Tupelo,MS,4,Seattle Cascades,Open Class,77.25,2005
+07/26,Broken Arrow,OK,5,Vanguard,Open Class,83.6,2005
+07/26,Troy,AL,5,Colts,Open Class,80.2,2005
+07/26,Chippewa Falls,WI,1,Taipei Yuehfu,Open Class,74.75,2005
+07/27,Tupelo,MS,5,Magic,Open Class,75.4,2005
+07/26,Broken Arrow,OK,6,Glassmen,Open Class,82.0,2005
+07/26,Troy,AL,6,Mandarins,Open Class,75.15,2005
+07/26,Chippewa Falls,WI,2,Capital Sound,Open Class,69.3,2005
+07/27,Tupelo,MS,6,Esperanza,Open Class,74.75,2005
+07/26,Broken Arrow,OK,7,Southwind,Open Class,75.3,2005
+07/26,Troy,AL,7,Troopers,Open Class,70.95,2005
+07/26,Chippewa Falls,WI,3,Pride of the Lions,Open Class,65.75,2005
+07/26,Troy,AL,8,Kiwanis Kavaliers,Open Class,66.5,2005
+07/26,Chippewa Falls,WI,4,Dutch Boy,Open Class,62.1,2005
+07/26,Chippewa Falls,WI,5,Blue Saints,Open Class,35.1,2005
+07/27,Dubuque,IA,1,Blue Stars,Open Class,85.35,2005
+07/28,Kennesaw,GA,1,Carolina Crown,Open Class,86.5,2005
+07/29,Van Buren,AR,1,Spartans,Open Class,88.45,2005
+07/29,Belding,MI,1,East Coast Jazz,Open Class,86.6,2005
+07/27,Dubuque,IA,2,Oregon Crusaders,Open Class,84.3,2005
+07/28,Kennesaw,GA,2,Spirit,Open Class,84.35,2005
+07/29,Van Buren,AR,2,Impulse,Open Class,84.2,2005
+07/27,Dubuque,IA,3,Fever,Open Class,82.35,2005
+07/28,Kennesaw,GA,3,Crossmen,Open Class,80.95,2005
+07/29,Van Buren,AR,3,Teal Sound,Open Class,83.05,2005
+07/29,Belding,MI,1,Raiders,Open Class,76.35,2005
+07/27,Dubuque,IA,4,Colt Cadets,Open Class,58.55,2005
+07/28,Kennesaw,GA,4,Colts,Open Class,80.8,2005
+07/29,Van Buren,AR,4,Oregon Crusaders,Open Class,83.0,2005
+07/29,Belding,MI,2,Yamato,Open Class,76.0,2005
+07/28,Kennesaw,GA,5,Mandarins,Open Class,76.85,2005
+07/29,Van Buren,AR,5,Memphis Sound,Open Class,78.25,2005
+07/29,Belding,MI,3,Capital Sound,Open Class,74.25,2005
+07/27,Dubuque,IA,4,Taipei Yuehfu,Open Class,75.35,2005
+07/28,Kennesaw,GA,6,Troopers,Open Class,71.85,2005
+07/29,Belding,MI,4,Citations,Open Class,69.8,2005
+07/27,Dubuque,IA,5,Capital Sound,Open Class,72.7,2005
+07/28,Kennesaw,GA,7,Kiwanis Kavaliers,Open Class,68.6,2005
+07/29,Van Buren,AR,1,Revolution,Open Class,71.85,2005
+07/29,Belding,MI,5,Pride of the Lions,Open Class,66.75,2005
+07/27,Dubuque,IA,6,Dutch Boy,Open Class,68.25,2005
+07/29,Belding,MI,6,Saint John's,Open Class,61.7,2005
+07/27,Dubuque,IA,7,Allegiance Elite,Open Class,66.75,2005
+07/27,Dubuque,IA,8,Pride of the Lions,Open Class,66.15,2005
+07/27,Dubuque,IA,10,Blue Saints,Open Class,35.95,2005
+07/29,LaCrosse,WI,1,Blue Stars,Open Class,84.9,2005
+07/29,Murfreesboro,TN,1,Cavaliers,Open Class,93.625,2005
+07/30,Jackson,TN,1,Spartans,Open Class,89.4,2005
+07/30,Endicott,NY,1,Empire Statesmen,Open Class,87.5,2005
+07/29,LaCrosse,WI,2,Fever,Open Class,83.15,2005
+07/29,Murfreesboro,TN,2,Cadets,Open Class,93.55,2005
+07/30,Jackson,TN,2,Oregon Crusaders,Open Class,84.4,2005
+07/30,Endicott,NY,2,Syracuse Brigadiers,Open Class,85.875,2005
+07/29,LaCrosse,WI,3,Colt Cadets,Open Class,62.35,2005
+07/29,Murfreesboro,TN,3,Blue Devils,Open Class,90.8,2005
+07/30,Jackson,TN,3,Impulse,Open Class,84.0,2005
+07/30,Endicott,NY,3,Rochester Crusaders,Open Class,75.525,2005
+07/29,Murfreesboro,TN,4,Phantom Regiment,Open Class,89.85,2005
+07/30,Jackson,TN,4,Teal Sound,Open Class,81.85,2005
+07/30,Endicott,NY,4,New York Skyliners,Open Class,71.888,2005
+07/29,LaCrosse,WI,1,Allegiance Elite,Open Class,71.95,2005
+07/29,Murfreesboro,TN,5,Madison Scouts,Open Class,89.175,2005
+07/30,Jackson,TN,5,Memphis Sound,Open Class,78.6,2005
+07/30,Endicott,NY,5,Kingston Grenadiers,Open Class,71.75,2005
+07/29,LaCrosse,WI,2,Dutch Boy,Open Class,71.0,2005
+07/29,Murfreesboro,TN,6,Bluecoats,Open Class,88.525,2005
+07/29,LaCrosse,WI,3,Blue Saints,Open Class,36.15,2005
+07/29,Murfreesboro,TN,7,Carolina Crown,Open Class,86.075,2005
+07/30,Jackson,TN,1,Revolution,Open Class,74.2,2005
+07/30,Endicott,NY,1,White Sabers,Open Class,60.738,2005
+07/29,Murfreesboro,TN,8,Boston Crusaders,Open Class,84.725,2005
+07/30,Indianapolis,IN,1,Vanguard,Open Class,86.25,2005
+07/30,Indianapolis,IN,1,Cadets,Open Class,94.15,2005
+07/30,Michigan City,IN,1,East Coast Jazz,Open Class,89.875,2005
+07/30,Winston-Salem,NC,1,Reading Buccaneers,Open Class,89.013,2005
+07/30,Indianapolis,IN,2,Blue Knights,Open Class,85.9,2005
+07/30,Indianapolis,IN,2,Cavaliers,Open Class,94.075,2005
+07/30,Michigan City,IN,2,Blue Stars,Open Class,87.975,2005
+07/30,Winston-Salem,NC,2,Bushwackers,Open Class,84.563,2005
+07/30,Indianapolis,IN,3,Glassmen,Open Class,85.05,2005
+07/30,Indianapolis,IN,3,Phantom Regiment,Open Class,90.975,2005
+07/30,Michigan City,IN,3,Fever,Open Class,86.225,2005
+07/30,Winston-Salem,NC,3,Renegades,Open Class,84.475,2005
+07/30,Indianapolis,IN,4,Spirit,Open Class,84.15,2005
+07/30,Indianapolis,IN,4,Blue Devils,Open Class,90.9,2005
+07/30,Michigan City,IN,4,Colt Cadets,Open Class,58.4,2005
+07/30,Winston-Salem,NC,4,Corpsvets,Open Class,76.688,2005
+07/30,Indianapolis,IN,5,Colts,Open Class,82.55,2005
+07/30,Indianapolis,IN,5,Madison Scouts,Open Class,90.725,2005
+07/30,Winston-Salem,NC,5,Connecticut Hurricanes,Open Class,73.913,2005
+07/30,Indianapolis,IN,6,Crossmen,Open Class,81.425,2005
+07/30,Indianapolis,IN,6,Bluecoats,Open Class,88.975,2005
+07/30,Michigan City,IN,1,Taipei Yuehfu,Open Class,82.725,2005
+07/30,Winston-Salem,NC,6,Carolina Gold,Open Class,73.325,2005
+07/30,Indianapolis,IN,7,Southwind,Open Class,79.0,2005
+07/30,Indianapolis,IN,7,Carolina Crown,Open Class,86.0,2005
+07/30,Michigan City,IN,2,Raiders,Open Class,78.225,2005
+07/30,Indianapolis,IN,8,Mandarins,Open Class,77.925,2005
+07/30,Indianapolis,IN,8,Boston Crusaders,Open Class,85.9,2005
+07/30,Michigan City,IN,3,Capital Sound,Open Class,77.475,2005
+07/30,Winston-Salem,NC,,Heat Wave (DCA),Open Class,61.85,2005
+07/30,Indianapolis,IN,9,Seattle Cascades,Open Class,77.675,2005
+07/30,Indianapolis,IN,9,Vanguard,Open Class,85.175,2005
+07/30,Michigan City,IN,4,Yamato,Open Class,75.3,2005
+07/30,Indianapolis,IN,10,Capital Regiment,Open Class,77.2,2005
+07/30,Indianapolis,IN,10,Blue Knights,Open Class,83.375,2005
+07/30,Michigan City,IN,5,Pride of the Lions,Open Class,71.775,2005
+07/30,Indianapolis,IN,11,Magic,Open Class,76.025,2005
+07/30,Indianapolis,IN,11,Glassmen,Open Class,82.275,2005
+07/30,Michigan City,IN,6,Allegiance Elite,Open Class,70.8,2005
+07/30,Indianapolis,IN,12,Esperanza,Open Class,74.8,2005
+07/30,Indianapolis,IN,12,Spirit,Open Class,81.625,2005
+07/30,Michigan City,IN,7,Dutch Boy,Open Class,68.15,2005
+07/30,Indianapolis,IN,13,Troopers,Open Class,73.1,2005
+07/30,Michigan City,IN,8,Lake Erie Regiment,Open Class,66.9,2005
+07/30,Indianapolis,IN,14,Pioneer,Open Class,71.05,2005
+07/30,Michigan City,IN,9,Citations,Open Class,66.775,2005
+07/30,Indianapolis,IN,15,Kiwanis Kavaliers,Open Class,68.2,2005
+07/30,Michigan City,IN,10,Les Stentors,Open Class,64.25,2005
+07/30,Michigan City,IN,11,Saint John's,Open Class,61.175,2005
+07/30,Michigan City,IN,12,Racine Scouts,Open Class,58.375,2005
+07/30,Michigan City,IN,13,Blue Saints,Open Class,33.325,2005
+07/31,Naperville,IL,1,Cavaliers,Open Class,94.4,2005
+07/31,Massillon,OH,1,Phantom Regiment,Open Class,91.75,2005
+07/31,Newman,GA,1,Spartans,Open Class,88.3,2005
+07/31,Naperville,IL,2,Blue Devils,Open Class,91.65,2005
+07/31,Massillon,OH,2,Madison Scouts,Open Class,90.55,2005
+07/31,Newman,GA,2,Oregon Crusaders,Open Class,83.375,2005
+07/31,Naperville,IL,3,Spirit,Open Class,83.85,2005
+07/31,Massillon,OH,3,Bluecoats,Open Class,90.0,2005
+07/31,Newman,GA,3,Teal Sound,Open Class,80.025,2005
+07/31,Naperville,IL,4,Seattle Cascades,Open Class,79.75,2005
+07/31,Massillon,OH,4,Boston Crusaders,Open Class,86.05,2005
+07/31,Newman,GA,4,Impulse,Open Class,79.925,2005
+07/31,Naperville,IL,5,Pioneer,Open Class,72.75,2005
+07/31,Massillon,OH,5,Crossmen,Open Class,84.45,2005
+07/31,Newman,GA,5,Jersey Surf,Open Class,79.375,2005
+07/31,Massillon,OH,6,Glassmen,Open Class,80.75,2005
+07/31,Newman,GA,6,Memphis Sound,Open Class,77.3,2005
+07/31,Massillon,OH,7,Magic,Open Class,76.0,2005
+07/31,Massillon,OH,8,Kiwanis Kavaliers,Open Class,68.65,2005
+07/31,Newman,GA,1,Revolution,Open Class,73.2,2005
+08/01,Columbus,OH,1,Cadets,World Class,94.65,2005
+08/01,Hornell,NY,1,Bluecoats,World Class,90.35,2005
+08/01,Charleston,WV,1,Phantom Regiment,World Class,92.05,2005
+08/01,Hilton Head Island,SC,1,Spartans,World Class,90.75,2005
+08/01,Columbus,OH,2,Blue Devils,World Class,92.6,2005
+08/01,Hornell,NY,2,Boston Crusaders,World Class,86.45,2005
+08/01,Charleston,WV,2,Madison Scouts,World Class,90.3,2005
+08/01,Hilton Head Island,SC,2,Oregon Crusaders,World Class,84.75,2005
+08/01,Columbus,OH,3,Blue Knights,World Class,87.05,2005
+08/01,Hornell,NY,3,Crossmen,World Class,81.55,2005
+08/01,Charleston,WV,3,Vanguard,World Class,85.5,2005
+08/01,Hilton Head Island,SC,3,Impulse,World Class,84.75,2005
+08/01,Columbus,OH,4,Glassmen,World Class,84.95,2005
+08/01,Hornell,NY,4,Magic,World Class,76.5,2005
+08/01,Charleston,WV,4,Colts,World Class,81.0,2005
+08/01,Hilton Head Island,SC,4,Teal Sound,World Class,82.75,2005
+08/01,Columbus,OH,5,Spirit,World Class,83.7,2005
+08/01,Hornell,NY,5,Kiwanis Kavaliers,World Class,67.65,2005
+08/01,Charleston,WV,5,Southwind,World Class,75.3,2005
+08/01,Hilton Head Island,SC,5,Jersey Surf,World Class,82.2,2005
+08/01,Columbus,OH,6,Capital Regiment,World Class,78.3,2005
+08/01,Charleston,WV,6,Esperanza,World Class,73.9,2005
+08/01,Columbus,OH,7,Troopers,World Class,71.8,2005
+08/01,Hilton Head Island,SC,1,Revolution,World Class,75.1,2005
+08/01,Columbus,OH,1,Yamato,World Class,71.3,2005
+08/01,Sudbury,Ontario,1,Colt Cadets,World Class,61.45,2005
+08/01,Buffalo,NY,1,Taipei Yuehfu,World Class,83.0,2005
+08/02,Charlotte,NC,1,Carolina Crown,World Class,88.05,2005
+08/02,Pittsburgh,PA,1,Cadets,World Class,95.35,2005
+08/01,Buffalo,NY,2,Capital Sound,World Class,80.5,2005
+08/02,Charlotte,NC,2,Vanguard,World Class,86.75,2005
+08/02,Pittsburgh,PA,2,Cavaliers,World Class,94.85,2005
+08/01,Sudbury,Ontario,1,Pride of the Lions,World Class,72.95,2005
+08/01,Buffalo,NY,3,Allegiance Elite,World Class,72.6,2005
+08/02,Charlotte,NC,3,Colts,World Class,82.4,2005
+08/02,Pittsburgh,PA,3,Blue Knights,World Class,86.65,2005
+08/01,Sudbury,Ontario,2,Dutch Boy,World Class,71.65,2005
+08/01,Buffalo,NY,4,Lake Erie Regiment,World Class,70.65,2005
+08/02,Charlotte,NC,4,Southwind,World Class,78.5,2005
+08/02,Pittsburgh,PA,4,Capital Regiment,World Class,79.9,2005
+08/01,Sudbury,Ontario,3,Les Stentors,World Class,67.05,2005
+08/01,Buffalo,NY,5,Citations,World Class,68.0,2005
+08/02,Charlotte,NC,5,Esperanza,World Class,76.95,2005
+08/02,Pittsburgh,PA,5,Seattle Cascades,World Class,78.5,2005
+08/01,Sudbury,Ontario,4,Saint John's,World Class,61.0,2005
+08/01,Buffalo,NY,6,Targets,World Class,53.15,2005
+08/02,Pittsburgh,PA,6,Pioneer,World Class,74.3,2005
+08/01,Sudbury,Ontario,5,7th Regiment,World Class,60.45,2005
+08/02,Charlotte,NC,1,Spartans,World Class,89.7,2005
+08/01,Sudbury,Ontario,6,HYPE,World Class,54.75,2005
+08/02,Charlotte,NC,2,Jersey Surf,World Class,81.25,2005
+08/02,Pittsburgh,PA,1,Yamato,World Class,75.5,2005
+08/01,Sudbury,Ontario,7,Blue Saints,World Class,39.2,2005
+08/02,Charlotte,NC,3,Memphis Sound,World Class,79.15,2005
+08/02,Pittsburgh,PA,2,Lake Erie Regiment,World Class,65.2,2005
+08/02,Kitchner,Ontario,1,Kiwanis Kavaliers,World Class,71.75,2005
+08/03,Buffalo,NY,1,Phantom Regiment,World Class,93.0,2005
+08/03,Salem,VA,1,Madison Scouts,World Class,90.65,2005
+08/04,West Chester,PA,1,Cadets,World Class,96.5,2005
+08/03,Buffalo,NY,2,Boston Crusaders,World Class,87.25,2005
+08/03,Salem,VA,2,Carolina Crown,World Class,88.65,2005
+08/04,West Chester,PA,2,Bluecoats,World Class,91.2,2005
+08/02,Kitchner,Ontario,1,East Coast Jazz,World Class,88.65,2005
+08/03,Buffalo,NY,3,Glassmen,World Class,85.95,2005
+08/03,Salem,VA,3,Vanguard,World Class,86.8,2005
+08/04,West Chester,PA,3,Blue Knights,World Class,86.45,2005
+08/02,Kitchner,Ontario,2,Colt Cadets,World Class,59.8,2005
+08/03,Buffalo,NY,4,Spirit,World Class,83.7,2005
+08/03,Salem,VA,4,Colts,World Class,82.8,2005
+08/04,West Chester,PA,4,Crossmen,World Class,83.75,2005
+08/03,Buffalo,NY,5,Seattle Cascades,World Class,79.85,2005
+08/03,Salem,VA,5,Southwind,World Class,80.55,2005
+08/04,West Chester,PA,5,Mandarins,World Class,79.65,2005
+08/02,Kitchner,Ontario,2,Pride of the Lions,World Class,73.1,2005
+08/03,Buffalo,NY,6,Troopers,World Class,72.4,2005
+08/03,Salem,VA,6,Esperanza,World Class,76.2,2005
+08/02,Kitchner,Ontario,3,Allegiance Elite,World Class,72.35,2005
+08/03,Buffalo,NY,7,Kiwanis Kavaliers,World Class,69.0,2005
+08/04,West Chester,PA,1,Jersey Surf,World Class,83.1,2005
+08/02,Kitchner,Ontario,4,Dutch Boy,World Class,71.2,2005
+08/03,Salem,VA,1,Blue Stars,World Class,86.3,2005
+08/02,Kitchner,Ontario,5,Les Stentors,World Class,68.05,2005
+08/02,Kitchner,Ontario,6,Saint John's,World Class,61.7,2005
+08/02,Kitchner,Ontario,8,Spirit of Newark,World Class,59.1,2005
+08/02,Kitchner,Ontario,9,7th Regiment,World Class,58.95,2005
+08/02,Kitchner,Ontario,10,HYPE,World Class,51.2,2005
+08/04,Warrenton,VA,1,Madison Scouts,World Class,90.25,2005
+08/04,Rome,NY,1,East Coast Jazz,World Class,90.1,2005
+08/04,Rome,NY,1,Phantom Regiment,World Class,93.65,2005
+08/05,Sherbrooke,Quebec,1,Dutch Boy,World Class,75.7,2005
+08/04,Warrenton,VA,2,Carolina Crown,World Class,88.3,2005
+08/04,Rome,NY,2,Fever,World Class,87.35,2005
+08/04,Rome,NY,2,Boston Crusaders,World Class,87.2,2005
+08/05,Sherbrooke,Quebec,2,Pride of the Lions,World Class,75.6,2005
+08/04,Warrenton,VA,3,Colts,World Class,84.35,2005
+08/04,Rome,NY,3,Capital Regiment,World Class,80.85,2005
+08/05,Sherbrooke,Quebec,3,Les Stentors,World Class,71.45,2005
+08/04,Warrenton,VA,4,Southwind,World Class,81.5,2005
+08/04,Rome,NY,1,Raiders,World Class,80.25,2005
+08/04,Rome,NY,4,Seattle Cascades,World Class,80.85,2005
+08/05,Sherbrooke,Quebec,4,7th Regiment,World Class,63.5,2005
+08/04,Warrenton,VA,5,Pacific Crest,World Class,79.7,2005
+08/04,Rome,NY,2,Allegiance Elite,World Class,76.1,2005
+08/04,Rome,NY,5,Magic,World Class,78.0,2005
+08/05,Sherbrooke,Quebec,5,St. John's,World Class,62.45,2005
+08/04,Warrenton,VA,6,Esperanza,World Class,76.25,2005
+08/04,Rome,NY,3,Capital Sound,World Class,75.9,2005
+08/04,Rome,NY,6,Troopers,World Class,74.7,2005
+08/05,Sherbrooke,Quebec,6,Spirit of New Jersey,World Class,58.2,2005
+08/04,Rome,NY,4,Lake Erie Regiment,World Class,69.4,2005
+08/04,Rome,NY,7,Pioneer,World Class,72.35,2005
+08/05,Sherbrooke,Quebec,7,Targets,World Class,55.2,2005
+08/04,Warrenton,VA,1,Blue Stars,World Class,84.9,2005
+08/04,Rome,NY,5,Citations,World Class,67.5,2005
+08/05,Sherbrooke,Quebec,8,H.Y.P.E.,World Class,52.95,2005
+08/04,Rome,NY,6,Targets,World Class,49.7,2005
+08/04,Rome,NY,1,East Coast Jazz,World Class,92.0,2005
+08/05,Sherbrooke,Quebec,9,Blue Saints,World Class,41.0,2005
+08/05,Bridgeport,CT,1,Spartans,World Class,91.05,2005
+08/05,Allentown,PA,1,Cavaliers,World Class,95.35,2005
+08/06,Allentown,PA,1,Cadets,World Class,96.225,2005
+08/06,New Brunswick,NJ,1,Fever,World Class,90.2,2005
+08/05,Bridgeport,CT,2,Oregon Crusaders,World Class,86.65,2005
+08/05,Allentown,PA,2,Blue Devils,World Class,92.5,2005
+08/06,Allentown,PA,2,Phantom Regiment,World Class,94.3,2005
+08/06,New Brunswick,NJ,2,Blue Stars,World Class,89.8,2005
+08/05,Bridgeport,CT,3,Impulse,World Class,86.5,2005
+08/05,Allentown,PA,3,Bluecoats,World Class,91.4,2005
+08/06,Allentown,PA,3,Madison Scouts,World Class,92.375,2005
+08/06,New Brunswick,NJ,3,Jersey Surf,World Class,88.05,2005
+08/05,Bridgeport,CT,4,Teal Sound,World Class,85.35,2005
+08/05,Allentown,PA,4,Boston Crusaders,World Class,87.75,2005
+08/06,Allentown,PA,4,Carolina Crown,World Class,89.0,2005
+08/05,Bridgeport,CT,5,Memphis Sound,World Class,83.2,2005
+08/05,Allentown,PA,5,Blue Knights,World Class,87.0,2005
+08/06,Allentown,PA,5,Vanguard,World Class,87.85,2005
+08/06,New Brunswick,NJ,1,Raiders,World Class,84.45,2005
+08/05,Allentown,PA,6,Glassmen,World Class,85.9,2005
+08/06,Allentown,PA,6,Crossmen,World Class,83.65,2005
+08/06,New Brunswick,NJ,2,Revolution,World Class,82.35,2005
+08/05,Bridgeport,CT,1,Taipei Yuehfu,World Class,82.25,2005
+08/05,Allentown,PA,7,Spirit,World Class,85.25,2005
+08/06,Allentown,PA,7,Colts,World Class,83.3,2005
+08/06,New Brunswick,NJ,3,Yamato,World Class,82.05,2005
+08/05,Bridgeport,CT,2,Yamato,World Class,79.1,2005
+08/05,Allentown,PA,8,Capital Regiment,World Class,80.075,2005
+08/06,Allentown,PA,8,Southwind,World Class,79.725,2005
+08/06,New Brunswick,NJ,4,Capital Sound,World Class,77.75,2005
+08/05,Bridgeport,CT,3,Revolution,World Class,78.95,2005
+08/05,Allentown,PA,9,Mandarins,World Class,79.725,2005
+08/06,Allentown,PA,9,Seattle Cascades,World Class,79.45,2005
+08/06,New Brunswick,NJ,5,Lake Erie Regiment,World Class,74.25,2005
+08/05,Bridgeport,CT,4,Stragnas,World Class,62.8,2005
+08/05,Allentown,PA,10,Pacific Crest,World Class,76.65,2005
+08/06,Allentown,PA,10,Magic,World Class,77.7,2005
+08/06,New Brunswick,NJ,6,Racine Scouts,World Class,62.75,2005
+08/05,Bridgeport,CT,5,Racine Scouts,World Class,59.9,2005
+08/05,Allentown,PA,11,Pioneer,World Class,73.2,2005
+08/06,Allentown,PA,11,Esperanza,World Class,76.55,2005
+08/05,Allentown,PA,12,Kiwanis Kavaliers,World Class,69.925,2005
+08/06,Allentown,PA,12,Troopers,World Class,73.475,2005
+08/06,Kingston,NY,1,Empire Statesmen,World Class,89.7,2005
+08/06,Manchester,NH,1,East Coast Jazz,World Class,93.4,2005
+08/07,Manchester,NH,1,Blue Stars,World Class,89.65,2005
+08/07,East Rutherford,NJ,1,Cadets,World Class,96.85,2005
+08/06,Kingston,NY,2,Syracuse Brigadiers,World Class,88.865,2005
+08/06,Manchester,NH,2,Spartans,World Class,93.1,2005
+08/07,Manchester,NH,2,Fever,World Class,89.075,2005
+08/07,East Rutherford,NJ,2,Cavaliers,World Class,96.05,2005
+08/06,Kingston,NY,3,Bushwackers,World Class,88.175,2005
+08/06,Manchester,NH,3,Teal Sound,World Class,88.9,2005
+08/07,Manchester,NH,3,Jersey Surf,World Class,87.45,2005
+08/07,East Rutherford,NJ,3,Blue Devils,World Class,94.0,2005
+08/06,Kingston,NY,4,Hawthorne Caballeros,World Class,81.863,2005
+08/06,Manchester,NH,4,Impulse,World Class,88.575,2005
+08/07,East Rutherford,NJ,4,Crossmen,World Class,85.0,2005
+08/06,Kingston,NY,5,Corpsvets,World Class,78.925,2005
+08/06,Manchester,NH,5,Oregon Crusaders,World Class,86.275,2005
+08/07,Manchester,NH,1,Raiders,World Class,82.85,2005
+08/07,East Rutherford,NJ,5,Colts,World Class,83.9,2005
+08/06,Kingston,NY,6,Carolina Gold,World Class,78.3,2005
+08/06,Manchester,NH,6,Memphis Sound,World Class,85.525,2005
+08/07,Manchester,NH,2,Yamato,World Class,82.575,2005
+08/07,East Rutherford,NJ,6,Capital Regiment,World Class,81.35,2005
+08/06,Kingston,NY,7,Connecticut Hurricanes,World Class,77.475,2005
+08/07,Manchester,NH,3,Revolution,World Class,79.95,2005
+08/07,East Rutherford,NJ,7,Pacific Crest,World Class,78.9,2005
+08/06,Kingston,NY,8,Rochester Crusaders,World Class,76.388,2005
+08/06,Manchester,NH,1,Taipei Yuehfu,World Class,86.875,2005
+08/07,Manchester,NH,4,Dutch Boy,World Class,77.05,2005
+08/07,East Rutherford,NJ,8,Mandarins,World Class,78.65,2005
+08/06,Kingston,NY,9,New York Skyliners,World Class,74.175,2005
+08/06,Manchester,NH,2,Allegiance Elite,World Class,79.875,2005
+08/07,Manchester,NH,5,Capital Sound,World Class,76.8,2005
+08/07,East Rutherford,NJ,9,Pioneer,World Class,73.6,2005
+08/06,Kingston,NY,10,Kingston Grenadiers,World Class,74.075,2005
+08/06,Manchester,NH,3,Pride of the Lions,World Class,78.275,2005
+08/07,Manchester,NH,6,Lake Erie Regiment,World Class,69.85,2005
+08/06,Kingston,NY,11,Sunrisers,World Class,68.275,2005
+08/06,Manchester,NH,4,Citations,World Class,73.75,2005
+08/07,Manchester,NH,7,Stragnas,World Class,68.375,2005
+08/06,Manchester,NH,5,Les Stentors,World Class,68.625,2005
+08/07,Manchester,NH,8,Racine Scouts,World Class,62.075,2005
+08/06,Manchester,NH,6,Cadets of NYC,World Class,67.4,2005
+08/07,Manchester,NH,9,HYPE,World Class,59.175,2005
+08/06,Manchester,NH,7,Spirit of Newark,World Class,64.775,2005
+08/07,Manchester,NH,10,Blue Saints,World Class,42.725,2005
+08/06,Manchester,NH,8,Saint John's,World Class,64.125,2005
+08/06,Manchester,NH,9,7th Regiment,World Class,62.925,2005
+08/06,Manchester,NH,10,Targets,World Class,55.65,2005
+08/07,Worcester,MA,1,Phantom Regiment,World Class,94.9,2005
+08/07,Pittsfield,MA,1,Teal Sound,World Class,90.45,2005
+08/07,Worcester,MA,2,Boston Crusaders,World Class,89.9,2005
+08/07,Pittsfield,MA,2,Impulse,World Class,90.2,2005
+08/07,Worcester,MA,3,Vanguard,World Class,88.05,2005
+08/07,Pittsfield,MA,3,Oregon Crusaders,World Class,90.15,2005
+08/07,Worcester,MA,4,Blue Knights,World Class,86.85,2005
+08/07,Pittsfield,MA,4,Memphis Sound,World Class,87.1,2005
+08/07,Worcester,MA,5,Spirit,World Class,85.35,2005
+08/07,Worcester,MA,6,Seattle Cascades,World Class,80.65,2005
+08/07,Pittsfield,MA,1,Allegiance Elite,World Class,78.0,2005
+08/07,Worcester,MA,7,Troopers,World Class,74.55,2005
+08/07,Pittsfield,MA,2,Pride of the Lions,World Class,77.65,2005
+08/07,Worcester,MA,8,Kiwanis Kavaliers,World Class,69.3,2005
+08/07,Pittsfield,MA,3,Saint John's,World Class,70.55,2005
+08/07,Pittsfield,MA,4,Les Stentors,World Class,70.15,2005
+08/07,Pittsfield,MA,5,Cadets of NYC,World Class,69.15,2005
+08/07,Pittsfield,MA,6,Spirit of Newark,World Class,67.3,2005
+08/07,Pittsfield,MA,7,7th Regiment,World Class,64.15,2005
+08/09,Brockton,MA,1,Taipei Yuehfu,World Class,87.25,2005
+08/09,Brockton,MA,1,Spartans,World Class,94.45,2005
+08/11,Brockton,MA,1,Spartans,World Class,96.275,2005
+08/13,Brockton,MA,1,East Coast Jazz,World Class,97.475,2005
+08/09,Brockton,MA,2,Raiders,World Class,85.9,2005
+08/09,Brockton,MA,2,East Coast Jazz,World Class,94.1,2005
+08/11,Brockton,MA,2,East Coast Jazz,World Class,95.625,2005
+08/13,Brockton,MA,2,Spartans,World Class,97.15,2005
+08/09,Brockton,MA,3,Yamato,World Class,85.025,2005
+08/09,Brockton,MA,3,Blue Stars,World Class,92.6,2005
+08/11,Brockton,MA,3,Blue Stars,World Class,92.675,2005
+08/13,Brockton,MA,3,Blue Stars,World Class,93.925,2005
+08/09,Brockton,MA,4,Revolution,World Class,82.875,2005
+08/09,Brockton,MA,4,Fever,World Class,90.75,2005
+08/11,Brockton,MA,4,Fever,World Class,91.85,2005
+08/13,Brockton,MA,4,Teal Sound,World Class,93.125,2005
+08/09,Brockton,MA,5,Capital Sound,World Class,80.25,2005
+08/09,Brockton,MA,5,Teal Sound,World Class,89.675,2005
+08/11,Brockton,MA,5,Teal Sound,World Class,91.65,2005
+08/13,Brockton,MA,5,Fever,World Class,92.425,2005
+08/09,Brockton,MA,6,Allegiance Elite,World Class,79.725,2005
+08/09,Brockton,MA,6,Impulse,World Class,88.075,2005
+08/11,Brockton,MA,6,Impulse,World Class,90.375,2005
+08/13,Brockton,MA,6,Impulse,World Class,90.9,2005
+08/09,Brockton,MA,7,Pride of the Lions,World Class,78.475,2005
+08/09,Brockton,MA,7,Oregon Crusaders,World Class,87.875,2005
+08/11,Brockton,MA,7,Oregon Crusaders,World Class,88.575,2005
+08/13,Brockton,MA,7,Jersey Surf,World Class,89.75,2005
+08/09,Brockton,MA,8,Dutch Boy,World Class,76.9,2005
+08/09,Brockton,MA,8,Jersey Surf,World Class,86.225,2005
+08/11,Brockton,MA,8,Jersey Surf,World Class,88.325,2005
+08/13,Brockton,MA,8,Raiders,World Class,88.8,2005
+08/09,Brockton,MA,9,Lake Erie Regiment,World Class,75.4,2005
+08/09,Brockton,MA,9,Memphis Sound,World Class,84.925,2005
+08/11,Brockton,MA,9,Memphis Sound,World Class,87.025,2005
+08/13,Brockton,MA,9,Oregon Crusaders,World Class,88.6,2005
+08/09,Brockton,MA,10,Citations,World Class,74.5,2005
+08/13,Brockton,MA,10,Taipei Yuehfu,World Class,88.525,2005
+08/09,Brockton,MA,11,Les Stentors,World Class,70.575,2005
+08/11,Brockton,MA,1,Raiders,World Class,87.75,2005
+08/13,Brockton,MA,11,Yamato,World Class,85.5,2005
+08/09,Brockton,MA,12,Cadets of NYC,World Class,70.425,2005
+08/11,Brockton,MA,2,Taipei Yuehfu,World Class,87.6,2005
+08/13,Brockton,MA,12,Memphis Sound,World Class,85.35,2005
+08/09,Brockton,MA,13,Stragnas,World Class,67.225,2005
+08/11,Brockton,MA,3,Yamato,World Class,85.675,2005
+08/09,Brockton,MA,14,Spirit of Newark,World Class,66.7,2005
+08/11,Brockton,MA,4,Revolution,World Class,84.95,2005
+08/09,Brockton,MA,15,Saint John's,World Class,65.925,2005
+08/11,Brockton,MA,5,Capital Sound,World Class,82.9,2005
+08/09,Brockton,MA,16,Racine Scouts,World Class,64.775,2005
+08/11,Brockton,MA,6,Allegiance Elite,World Class,80.65,2005
+08/09,Brockton,MA,17,7th Regiment,World Class,63.725,2005
+08/11,Brockton,MA,7,Pride of the Lions,World Class,80.075,2005
+08/09,Brockton,MA,18,HYPE,World Class,62.7,2005
+08/11,Brockton,MA,8,Dutch Boy,World Class,78.5,2005
+08/09,Brockton,MA,19,Targets,World Class,56.85,2005
+08/11,Brockton,MA,9,Lake Erie Regiment,World Class,77.5,2005
+08/09,Brockton,MA,20,Blue Saints,World Class,41.425,2005
+08/11,Foxboro,MA,1,Cadets,World Class,98.05,2005
+08/12,Foxboro,MA,1,Cadets,World Class,98.125,2005
+08/13,Foxboro,MA,1,Cadets,World Class,99.15,2005
+08/11,Foxboro,MA,2,Cavaliers,World Class,96.5,2005
+08/12,Foxboro,MA,2,Cavaliers,World Class,97.375,2005
+08/13,Foxboro,MA,2,Cavaliers,World Class,97.625,2005
+08/11,Foxboro,MA,3,Phantom Regiment,World Class,95.275,2005
+08/12,Foxboro,MA,3,Phantom Regiment,World Class,96.075,2005
+08/13,Foxboro,MA,3,Phantom Regiment,World Class,96.825,2005
+08/11,Foxboro,MA,4,Blue Devils,World Class,94.225,2005
+08/12,Foxboro,MA,4,Blue Devils,World Class,94.55,2005
+08/13,Foxboro,MA,4,Blue Devils,World Class,95.25,2005
+08/11,Foxboro,MA,5,Madison Scouts,World Class,92.525,2005
+08/12,Foxboro,MA,5,Madison Scouts,World Class,92.6,2005
+08/13,Foxboro,MA,5,Bluecoats,World Class,94.45,2005
+08/11,Foxboro,MA,6,Bluecoats,World Class,92.4,2005
+08/12,Foxboro,MA,5,Bluecoats,World Class,92.6,2005
+08/13,Foxboro,MA,6,Madison Scouts,World Class,92.625,2005
+08/11,Foxboro,MA,7,Boston Crusaders,World Class,89.425,2005
+08/12,Foxboro,MA,7,Carolina Crown,World Class,91.125,2005
+08/13,Foxboro,MA,7,Carolina Crown,World Class,90.725,2005
+08/11,Foxboro,MA,8,Carolina Crown,World Class,89.35,2005
+08/12,Foxboro,MA,8,Boston Crusaders,World Class,89.75,2005
+08/13,Foxboro,MA,8,Vanguard,World Class,88.65,2005
+08/11,Foxboro,MA,9,Vanguard,World Class,87.625,2005
+08/12,Foxboro,MA,9,Vanguard,World Class,88.05,2005
+08/13,Foxboro,MA,9,Boston Crusaders,World Class,88.4,2005
+08/11,Foxboro,MA,10,Blue Knights,World Class,87.4,2005
+08/12,Foxboro,MA,10,Blue Knights,World Class,87.875,2005
+08/13,Foxboro,MA,10,Blue Knights,World Class,88.225,2005
+08/11,Foxboro,MA,11,Glassmen,World Class,87.125,2005
+08/12,Foxboro,MA,11,Glassmen,World Class,87.775,2005
+08/13,Foxboro,MA,11,Glassmen,World Class,87.7,2005
+08/11,Foxboro,MA,12,Spirit,World Class,85.625,2005
+08/12,Foxboro,MA,12,Spirit,World Class,85.757,2005
+08/13,Foxboro,MA,12,Spirit,World Class,86.075,2005
+08/11,Foxboro,MA,13,Crossmen,World Class,83.125,2005
+08/12,Foxboro,MA,13,Colts,World Class,84.075,2005
+08/11,Foxboro,MA,14,Colts,World Class,82.975,2005
+08/12,Foxboro,MA,14,Crossmen,World Class,84.05,2005
+08/11,Foxboro,MA,15,Capital Regiment,World Class,79.925,2005
+08/12,Foxboro,MA,15,Capital Regiment,World Class,81.4,2005
+08/11,Foxboro,MA,16,Southwind,World Class,79.525,2005
+08/12,Foxboro,MA,16,Southwind,World Class,80.95,2005
+08/11,Foxboro,MA,17,Seattle Cascades,World Class,78.55,2005
+08/12,Foxboro,MA,17,Seattle Cascades,World Class,78.1,2005
+08/11,Foxboro,MA,17,Mandarins,World Class,78.55,2005
+08/12,Foxboro,MA,17,Mandarins,World Class,78.1,2005
+08/11,Foxboro,MA,19,Pacific Crest,World Class,77.25,2005
+08/11,Foxboro,MA,20,Esperanza,World Class,76.2,2005
+08/11,Foxboro,MA,21,Magic,World Class,75.975,2005
+08/11,Foxboro,MA,22,Troopers,World Class,71.675,2005
+08/11,Foxboro,MA,23,Pioneer,World Class,71.525,2005
+08/11,Foxboro,MA,24,Kiwanis Kavaliers,World Class,68.6,2005
+08/14,East Providence,RI,1,Empire Statesmen,Open Class,89.875,2005
+08/20,Syracuse,NY,1,Reading Buccaneers,Open Class,93.575,2005
+08/20,Waterbury,CT,1,Bushwackers,Open Class,92.113,2005
+08/20,Saint Cloud,FL,1,Corpsvets,DCA Class A,83.0,2005
+08/14,East Providence,RI,2,Syracuse Brigadiers,Open Class,88.613,2005
+08/20,Syracuse,NY,2,Empire Statesmen,Open Class,91.55,2005
+08/20,Waterbury,CT,2,Hawthorne Caballeros,Open Class,84.975,2005
+08/20,Saint Cloud,FL,2,Heat Wave (DCA),DCA Class A,70.25,2005
+08/14,East Providence,RI,3,Bushwackers,Open Class,88.175,2005
+08/20,Syracuse,NY,3,Syracuse Brigadiers,Open Class,90.6,2005
+08/20,Waterbury,CT,3,Connecticut Hurricanes,Open Class,80.675,2005
+08/20,Saint Cloud,FL,3,Alliance,DCA Class A,70.13,2005
+08/14,East Providence,RI,4,Hawthorne Caballeros,Open Class,82.8,2005
+08/20,Syracuse,NY,4,Rochester Crusaders,Open Class,78.925,2005
+08/20,Waterbury,CT,4,New York Skyliners,Open Class,77.325,2005
+08/20,Saint Cloud,FL,4,Gulf Coast Sound,DCA Class A,61.038,2005
+08/14,East Providence,RI,5,Connecticut Hurricanes,Open Class,76.65,2005
+08/20,Syracuse,NY,5,Kingston Grenadiers,Open Class,77.563,2005
+08/20,Waterbury,CT,5,Sunrisers,Open Class,73.87,2005
+08/20,Saint Cloud,FL,5,Shenandoah Sound,DCA Class A,54.463,2005
+08/20,Syracuse,NY,6,Kilties,Open Class,73.925,2005
+08/20,Syracuse,NY,1,White Sabers,Open Class,63.763,2005
+08/27,West Haven,CT,1,Bushwackers,Open Class,93.15,2005
+08/27,Corning,NY,1,Reading Buccaneers,Open Class,93.888,2005
+08/27,West Haven,CT,2,Hawthorne Caballeros,Open Class,87.1,2005
+08/27,Corning,NY,2,Empire Statesmen,Open Class,91.413,2005
+08/27,West Haven,CT,3,Connecticut Hurricanes,Open Class,81.788,2005
+08/27,Corning,NY,3,Syracuse Brigadiers,Open Class,91.088,2005
+08/27,West Haven,CT,4,New York Skyliners,Open Class,79.138,2005
+08/27,Corning,NY,4,Rochester Crusaders,Open Class,79.963,2005
+08/27,West Haven,CT,5,Sunrisers,Open Class,75.5,2005
+08/27,Corning,NY,5,Kingston Grenadiers,Open Class,78.0,2005
+08/27,Corning,NY,1,White Sabers,Open Class,66.538,2005
+09/03,Scranton,PA,1,"Chops, Inc.",DCA Class A,75.425,2005
+09/04,Scranton,PA,1,"Chops, Inc.",DCA Class A,79.1,2005
+09/03,Scranton,PA,1,Reading Buccaneers,Open Class,97.475,2005
+09/04,Scranton,PA,1,Reading Buccaneers,Open Class,98.45,2005
+09/03,Scranton,PA,2,Govenaires,DCA Class A,75.038,2005
+09/04,Scranton,PA,2,Govenaires,DCA Class A,78.088,2005
+09/03,Scranton,PA,2,Bushwackers,Open Class,95.0,2005
+09/04,Scranton,PA,2,Empire Statesmen,Open Class,95.225,2005
+09/03,Scranton,PA,3,Alliance,DCA Class A,74.625,2005
+09/04,Scranton,PA,3,Alliance,DCA Class A,77.45,2005
+09/03,Scranton,PA,3,Empire Statesmen,Open Class,94.413,2005
+09/04,Scranton,PA,3,Bushwackers,Open Class,94.738,2005
+09/03,Scranton,PA,4,Music City Legend,DCA Class A,73.525,2005
+09/03,Scranton,PA,4,Syracuse Brigadiers,Open Class,93.35,2005
+09/04,Scranton,PA,4,Syracuse Brigadiers,Open Class,94.038,2005
+09/03,Scranton,PA,5,Heat Wave (DCA),DCA Class A,71.288,2005
+09/03,Scranton,PA,5,Renegades,Open Class,92.525,2005
+09/04,Scranton,PA,5,Renegades,Open Class,93.738,2005
+09/03,Scranton,PA,6,White Sabers,DCA Class A,68.738,2005
+09/03,Scranton,PA,6,Minnesota Brass,Open Class,92.325,2005
+09/04,Scranton,PA,6,Minnesota Brass,Open Class,93.038,2005
+09/03,Scranton,PA,7,Lakeshoremen,DCA Class A,64.95,2005
+09/03,Scranton,PA,7,Hawthorne Caballeros,Open Class,90.05,2005
+09/04,Scranton,PA,7,Hawthorne Caballeros,Open Class,89.688,2005
+09/03,Scranton,PA,8,Gulf Coast Sound,DCA Class A,64.738,2005
+09/03,Scranton,PA,8,Carolina Gold,Open Class,85.588,2005
+09/04,Scranton,PA,8,Carolina Gold,Open Class,85.988,2005
+09/03,Scranton,PA,9,Shenandoah Sound,DCA Class A,56.8,2005
+09/03,Scranton,PA,9,Corpsvets,Open Class,85.488,2005
+09/04,Scranton,PA,9,Corpsvets,Open Class,85.5,2005
+09/03,Scranton,PA,10,Mon Valley Express,DCA Class A,53.563,2005
+09/03,Scranton,PA,10,Connecticut Hurricanes,Open Class,84.075,2005
+09/04,Scranton,PA,10,Connecticut Hurricanes,Open Class,84.425,2005
+09/03,Scranton,PA,11,Kingston Grenadiers,Open Class,82.425,2005
+09/03,Scranton,PA,12,Rochester Crusaders,Open Class,81.625,2005
+09/03,Scranton,PA,13,New York Skyliners,Open Class,80.875,2005
+09/03,Scranton,PA,14,Kilties,Open Class,78.588,2005
+09/03,Scranton,PA,15,Sunrisers,Open Class,76.913,2005
+09/03,Scranton,PA,16,Frontier,Open Class,70.713,2005

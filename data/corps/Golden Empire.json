@@ -1,0 +1,30 @@
+{
+ "location": [
+   {
+     "city": "Bakersfield",
+     "state": "CA", 
+     "year": "2013-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.geperformingarts.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2014-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2014, "showTitle": "A Journey Begins", "repertoire": "A Journey Begins * The Balloon Ride * Thinking of Home * Uncharted Waters", "placement": "Did not attend DCI", "score": null},
+   {"year": 2015, "showTitle": "The Color of Crime", "repertoire": "The Area is Secure * Pinch of a Finger * Perfect Day for a Murder * Feeling Good * Dreamsville * The Damburger Incident * Dragalong Dreyfus * Chasing Yuri * Pink Panther", "placement": "Did not attend DCI", "score": null},
+   {"year": 2016, "showTitle": "Music Matters", "repertoire": "Paradisi Gloria (from Stabat Mater) * Retribution * NO one To kNOW one * Original", "placement": "Did not attend DCI", "score": null},
+   {"year": 2017, "showTitle": "Discovering Gems Within", "repertoire": "Church Windows, Movement II * Red (from Bright Colored Dances IV by Tarantella) * One Day I'll Fly Away * Palladio", "placement": "Did not attend DCI", "score": null},
+   {"year": 2018, "showTitle": "Hear Our Voice", "repertoire": "Intro (Everyday): The Inside Out * Movement 1 (Overworked): Foundry * Movement 2 (Exhaustion): We're Not Gonna Take It * Movement 3 (Revolt): Revolt * Movement 4 (Reform): Cinderella Man", "placement": "35th Place World Class", "score": 65.100},
+   {"year": 2019, "showTitle": "Icarus", "repertoire": "Icarus and Daedalus Fantasy * The Firebird * Fly To Paradise * The Fall * Lux Aeterna (from Verdi's Requiem) * Dies Irae (from Verdi's Requiem)", "placement": "31st Place World Class", "score": 68.475},
+   {"year": 2021, "showTitle": "Re:Gen", "repertoire": "Purple Haze * Fly to Paradise * Original music", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "The Curse of the Ninth", "repertoire": "(Repertoire not available)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "Serpentine", "repertoire": "La Noche de los Mayas * Sensemaya * Culebra * Unholy", "placement": "Did not attend DCI", "score": null},
+   {"year": 2024, "showTitle": "Crossing the Threshold", "repertoire": "Symphony No. 9 * Symphony No. 7", "placement": "Did not attend DCI", "score": null},
+   {"year": 2025, "showTitle": "Mind to Matter", "repertoire": "Run to the Light * You Are Variations * Embryo * Hyperprism * With Soul Serene * Hypercube", "placement": "Did not attend DCI", "score": null}
+ ]
+}

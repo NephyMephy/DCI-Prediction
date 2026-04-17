@@ -1,0 +1,1383 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/07,Hamden,CT,1,Sunrisers,World Class,79.25,1971
+05/22,Hamden,CT,1,Royal Lancers-MI,World Class,51.3,1971
+05/29,Hamden,CT,1,Blue Rock,World Class,79.8,1971
+05/29,Fairlawn,NJ,1,Garfield Cadets,World Class,77.05,1971
+05/07,Hamden,CT,2,New York Skyliners,World Class,79.2,1971
+05/22,Hamden,CT,2,Vanguard Rockets,World Class,48.3,1971
+05/29,Hamden,CT,2,Bracken Cavaliers,World Class,61.75,1971
+05/29,Fairlawn,NJ,2,Blessed Sacrament,World Class,74.6,1971
+05/07,Hamden,CT,3,Rochester Crusaders,World Class,78.15,1971
+05/22,Hamden,CT,3,Praesidium,World Class,46.1,1971
+05/29,Hamden,CT,3,Chessmen,World Class,57.6,1971
+05/29,Fairlawn,NJ,3,Warriors,World Class,70.4,1971
+05/07,Hamden,CT,4,Connecticut Yankees,World Class,59.89,1971
+05/22,Hamden,CT,4,Eaglettes,World Class,45.8,1971
+05/29,Hamden,CT,4,Belvederes,World Class,56.8,1971
+05/29,Fairlawn,NJ,4,Bridgemen,World Class,69.65,1971
+05/07,Hamden,CT,5,Boston Renegades,World Class,59.25,1971
+05/22,Hamden,CT,5,Saginaires,World Class,24.8,1971
+05/29,Hamden,CT,5,Royaleer Mounties,World Class,55.8,1971
+05/29,Fairlawn,NJ,5,Poughkeepsie Pacers,World Class,53.55,1971
+05/29,Hamden,CT,6,Hamburg Buccaneers,World Class,45.95,1971
+05/29,Fairlawn,NJ,6,Les Compagnons,World Class,51.05,1971
+05/30,Saddle Brook,NJ,1,Blue Rock,World Class,73.7,1971
+05/30,Saint Claire Shores,MI,1,Royal Lancers-MI,World Class,70.6,1971
+05/30,Belvidere,IL,1,Imperials of St. Patrick's,World Class,66.05,1971
+05/30,Coughay,WI,1,Guardsmen,World Class,64.0,1971
+05/30,Saddle Brook,NJ,2,Garfield Cadets,World Class,73.35,1971
+05/30,Saint Claire Shores,MI,2,Marching Diplomats,World Class,60.0,1971
+05/30,Belvidere,IL,2,St. Paul Scouts,World Class,59.4,1971
+05/30,Coughay,WI,2,St. Paul Scouts,World Class,61.7,1971
+05/30,Saddle Brook,NJ,3,Blessed Sacrament,World Class,69.25,1971
+05/30,Saint Claire Shores,MI,3,Toronto Optimists,World Class,55.1,1971
+05/30,Belvidere,IL,3,Phantom Regiment,World Class,53.2,1971
+05/30,Coughay,WI,3,Matthias Cadets,World Class,57.6,1971
+05/30,Saddle Brook,NJ,4,Bridgemen,World Class,68.25,1971
+05/30,Saint Claire Shores,MI,4,Lionettes,World Class,49.1,1971
+05/30,Belvidere,IL,4,Viscounts,World Class,39.4,1971
+05/30,Coughay,WI,4,Windjammers,World Class,35.0,1971
+05/30,Saddle Brook,NJ,5,Muchachos,World Class,66.15,1971
+05/30,Saint Claire Shores,MI,5,Praesidium,World Class,48.7,1971
+05/30,Coughay,WI,5,Militaires,World Class,18.7,1971
+05/30,Saint Claire Shores,MI,6,Eaglettes,World Class,40.25,1971
+05/30,Kenosha,WI,1,Cavaliers,World Class,80.6,1971
+05/30,Royal Oak,MI,1,Royal Lancers-MI,World Class,63.5,1971
+05/30,Kenosha,WI,2,Blue Stars,World Class,77.0,1971
+05/30,Royal Oak,MI,2,Marauders,World Class,61.2,1971
+05/30,Kenosha,WI,3,Belleville Black Knights,World Class,71.05,1971
+05/30,Royal Oak,MI,3,Flint Guardsmen,World Class,,1971
+05/30,Kenosha,WI,4,Warriors Junior,World Class,62.0,1971
+05/30,Royal Oak,MI,4,Toronto Optimists,World Class,52.7,1971
+05/30,Kenosha,WI,5,Racine Scouts,World Class,60.0,1971
+05/30,Royal Oak,MI,5,Saginaires,World Class,24.2,1971
+05/30,Kenosha,WI,6,Thunderbolts,World Class,59.0,1971
+05/30,Kenosha,WI,7,Americanos,World Class,49.0,1971
+06/05,Hamden,CT,1,Hawthorne Caballeros,World Class,81.9,1971
+06/05,Milwaukee,WI,1,Imperials of St. Patrick's,World Class,63.91,1971
+06/05,Chester,PA,1,Garfield Cadets,World Class,74.8,1971
+06/05,Eau Claire,WI,1,Cavaliers,World Class,77.75,1971
+06/05,Hamden,CT,2,New York Skyliners,World Class,81.3,1971
+06/05,Milwaukee,WI,2,Warriors,World Class,63.5,1971
+06/05,Chester,PA,2,St. Rita's Brassmen,World Class,74.25,1971
+06/05,Eau Claire,WI,2,Blue Stars,World Class,77.55,1971
+06/05,Hamden,CT,3,Reading Buccaneers,World Class,80.45,1971
+06/05,Milwaukee,WI,3,Belleville Black Knights,World Class,61.4,1971
+06/05,Chester,PA,3,Marion Cadets,World Class,60.5,1971
+06/05,Eau Claire,WI,3,Madison Scouts,World Class,74.65,1971
+06/05,Hamden,CT,4,Yankee Rebels,World Class,80.25,1971
+06/05,Milwaukee,WI,4,Racine Scouts,World Class,60.3,1971
+06/05,Chester,PA,4,Beverly Cardinals,World Class,60.3,1971
+06/05,Eau Claire,WI,4,Thunderbolts,World Class,64.35,1971
+06/05,Hamden,CT,5,Sunrisers,World Class,74.75,1971
+06/05,Milwaukee,WI,5,Colt .45's,World Class,56.41,1971
+06/05,Chester,PA,5,Knickerbockers,World Class,58.15,1971
+06/05,Eau Claire,WI,5,Americanos,World Class,52.85,1971
+06/05,Milwaukee,WI,6,Skokie Imperials,World Class,47.9,1971
+06/05,Milwaukee,WI,7,Marquis,World Class,42.5,1971
+06/05,Anaheim,CA,1,LA Chinese,World Class,67.2,1971
+06/05,Toronto ,ON,1,St. Joseph's of Batavia,World Class,74.95,1971
+06/05,Bayonne,NJ,1,Blue Rock,World Class,73.45,1971
+06/05,Newton,PA,1,Polish Falcon Cadets,World Class,68.95,1971
+06/05,Anaheim,CA,2,Velvet Knights,World Class,61.0,1971
+06/05,Toronto ,ON,2,Cadets LaSalle,World Class,68.5,1971
+06/05,Bayonne,NJ,2,Blessed Sacrament,World Class,72.5,1971
+06/05,Newton,PA,2,Bracken Cavaliers,World Class,63.95,1971
+06/05,Anaheim,CA,3,Diplomats-CA,World Class,57.55,1971
+06/05,Toronto ,ON,3,Royal Lancers (MI),World Class,59.7,1971
+06/05,Bayonne,NJ,3,Muchachos,World Class,69.8,1971
+06/05,Newton,PA,3,Manville Crusaders,World Class,61.15,1971
+06/05,Anaheim,CA,4,Crusaders,World Class,55.25,1971
+06/05,Toronto ,ON,4,Scarborough Firefighters,World Class,58.85,1971
+06/05,Bayonne,NJ,4,Audobon Bon Bons,World Class,57.15,1971
+06/05,Newton,PA,4,Royaleer Mounties,World Class,55.4,1971
+06/05,Toronto ,ON,5,Midlanders,World Class,57.65,1971
+06/05,Bayonne,NJ,5,Poughkeepsie Pacers,World Class,52.25,1971
+06/05,Newton,PA,5,Belvederes,World Class,55.2,1971
+06/05,Anaheim,CA,1,Japanese Boy Scouts,World Class,51.75,1971
+06/05,Toronto ,ON,6,Les Compagnons,World Class,51.25,1971
+06/05,Newton,PA,6,Hamburg Buccaneers,World Class,47.5,1971
+06/05,Anaheim,CA,2,Golden Statesmen,World Class,46.6,1971
+06/05,Toronto ,ON,7,Saint John's,World Class,47.7,1971
+06/05,Anaheim,CA,1,King's Royal Lancers,World Class,58.8,1971
+06/05,Anaheim,CA,2,VK Squires,World Class,57.35,1971
+06/05,Pomton Lakes,NJ,1,Wynn Center Toppers,World Class,61.25,1971
+06/06,Madison,WI,1,Cavaliers,World Class,76.95,1971
+06/06,Wilmington,DE,1,Garfield Cadets,World Class,76.1,1971
+06/06,Unknown,WI,1,Cavaliers,World Class,79.09,1971
+06/05,Pomton Lakes,NJ,2,Poughkeepsie Vagabonds,World Class,60.55,1971
+06/06,Madison,WI,2,Blue Stars,World Class,76.2,1971
+06/06,Wilmington,DE,2,St. Rita's Brassmen,World Class,74.9,1971
+06/06,Unknown,WI,2,Blue Stars,World Class,78.2,1971
+06/05,Pomton Lakes,NJ,3,Riversiders,World Class,60.4,1971
+06/06,Madison,WI,3,Madison Scouts,World Class,68.7,1971
+06/06,Wilmington,DE,3,Blessed Sacrament,World Class,73.65,1971
+06/06,Unknown,WI,3,Madison Scouts,World Class,69.2,1971
+06/05,Pomton Lakes,NJ,4,Long Island Kingsmen,World Class,58.55,1971
+06/06,Madison,WI,4,Imperials of St. Patrick's,World Class,63.75,1971
+06/06,Wilmington,DE,4,CMCC Warriors,World Class,69.1,1971
+06/05,Pomton Lakes,NJ,5,Kingston Indians,World Class,48.85,1971
+06/06,Madison,WI,5,Racine Scouts,World Class,63.5,1971
+06/06,Wilmington,DE,5,Bridgemen,World Class,68.65,1971
+06/05,Pomton Lakes,NJ,6,Vanguards,World Class,38.3,1971
+06/06,Wilmington,DE,6,Knickerbockers,World Class,59.6,1971
+06/05,Pomton Lakes,NJ,7,Shadettes,World Class,35.9,1971
+06/06,Wilmington,DE,7,Audobon Bon Bons,World Class,59.05,1971
+06/06,Wilmington,DE,8,Marion Cadets,World Class,56.3,1971
+06/06,Wilmington,DE,9,Long Island Kingsmen,World Class,51.4,1971
+06/06,Wilmington,DE,10,Young Americans,World Class,51.1,1971
+06/06,Leominster,MA,1,27th Lancers,World Class,78.45,1971
+06/06,Oswego,NY,1,Syracuse Marauders,World Class,69.6,1971
+06/06,Toronto,ON,1,St. Joseph's of Batavia,World Class,74.9,1971
+06/06,Roslindale,MA,1,IC Reveries,World Class,60.2,1971
+06/06,Leominster,MA,2,Boston Crusaders,World Class,76.7,1971
+06/06,Oswego,NY,2,Appalachian Grenadiers,World Class,60.05,1971
+06/06,Toronto,ON,2,Scarborough Firefighters,World Class,68.85,1971
+06/06,Roslindale,MA,2,St. Francis Xavier Sancians,World Class,57.25,1971
+06/06,Leominster,MA,3,Pembroke Imperials,World Class,65.2,1971
+06/06,Oswego,NY,3,Cadets of Greece,World Class,57.3,1971
+06/06,Toronto,ON,3,DeLaSalle Oaklands,World Class,68.5,1971
+06/06,Roslindale,MA,3,Dukes of Marlboro,World Class,55.45,1971
+06/06,Leominster,MA,4,Dukes of Marlboro,World Class,57.3,1971
+06/06,Oswego,NY,4,Gauchos,World Class,52.75,1971
+06/06,Toronto,ON,4,Georgian Lancers,World Class,59.7,1971
+06/06,Roslindale,MA,4,Spartans,World Class,54.05,1971
+06/06,Leominster,MA,5,Spartans,World Class,56.5,1971
+06/06,Oswego,NY,5,Barons of Steuben,World Class,50.1,1971
+06/06,Toronto,ON,5,Midlanders,World Class,57.65,1971
+06/06,Roslindale,MA,5,Golden Rays,World Class,44.65,1971
+06/06,Toronto,ON,6,Les Compagnons,World Class,51.25,1971
+06/06,Toronto,ON,7,Saint John's,World Class,47.7,1971
+06/06,Roslindale,MA,1,Sir Thomas More Cadets,World Class,71.6,1971
+06/11,Manville,NJ,1,Blessed Sacrament,World Class,73.55,1971
+06/11,Lynn,MA,1,IC Rockets,World Class,63.9,1971
+06/12,Boston,MA,1,Blue Rock,World Class,80.4,1971
+06/06,Roslindale,MA,2,Annunciators,World Class,60.5,1971
+06/11,Manville,NJ,2,Bridgemen,World Class,70.2,1971
+06/11,Lynn,MA,2,Watertown Cadets,World Class,63.35,1971
+06/12,Boston,MA,2,Boston Crusaders,World Class,78.3,1971
+06/06,Roslindale,MA,3,Jay Jay's,World Class,51.95,1971
+06/11,Manville,NJ,3,Audubon Bon Bons,World Class,60.9,1971
+06/11,Lynn,MA,3,Annunciators,World Class,54.85,1971
+06/12,Boston,MA,3,27th Lancers,World Class,78.05,1971
+06/11,Manville,NJ,4,Polish Falcon Cadets,World Class,60.0,1971
+06/12,Boston,MA,4,Garfield Cadets,World Class,77.2,1971
+06/11,Manville,NJ,5,Bracken Cavaliers,World Class,50.35,1971
+06/12,Boston,MA,5,Blessed Sacrament,World Class,73.45,1971
+06/11,Manville,NJ,6,OLMM Orbits,World Class,43.55,1971
+06/12,Boston,MA,6,Pembroke Imperials,World Class,66.55,1971
+06/12,Boston,MA,7,Cardinals,World Class,62.4,1971
+06/12,Boston,MA,8,Blue Angels,World Class,55.55,1971
+06/12,Boston,MA,9,IC Reveries,World Class,42.1,1971
+06/12,Stratford,CT,1,Hawthorne Caballeros,World Class,83.05,1971
+06/12,Hershey,PA,1,Reading Buccaneers,World Class,80.0,1971
+06/12,Hamden,CT,1,Emerald Knights,World Class,71.9,1971
+06/12,Park Ridge,IL,1,Blue Stars,World Class,75.85,1971
+06/12,Stratford,CT,2,New York Skyliners,World Class,82.1,1971
+06/12,Hershey,PA,2,Yankee Rebels,World Class,79.65,1971
+06/12,Hamden,CT,2,Speigleaires,World Class,67.05,1971
+06/12,Park Ridge,IL,2,Des Plaines Vanguard,World Class,65.5,1971
+06/12,Stratford,CT,3,Rochester Crusaders,World Class,75.7,1971
+06/12,Hershey,PA,3,Connecticut Hurricanes,World Class,77.7,1971
+06/12,Hamden,CT,3,Bracken Cavaliers,World Class,60.85,1971
+06/12,Park Ridge,IL,3,Thunderbolts,World Class,63.8,1971
+06/12,Stratford,CT,4,Sunrisers,World Class,74.35,1971
+06/12,Hershey,PA,4,Hamburg Kingsmen,World Class,64.7,1971
+06/12,Hamden,CT,4,Manville Crusaders,World Class,59.3,1971
+06/12,Park Ridge,IL,4,Kilties,World Class,60.8,1971
+06/12,Stratford,CT,5,Les Diplomats,World Class,63.7,1971
+06/12,Hershey,PA,5,Westshoremen,World Class,63.35,1971
+06/12,Hamden,CT,5,Trumball Cadets,World Class,53.55,1971
+06/12,Park Ridge,IL,5,Racine Scouts,World Class,,1971
+06/12,Park Ridge,IL,6,Imperials,World Class,52.8,1971
+06/12,Kitchener,ON,1,Saint John's Girls,World Class,63.05,1971
+06/13,Revere,MA,1,Blue Rock,World Class,79.7,1971
+06/12,Carlstadt,NJ,1,Polish Falcon Cadets,World Class,61.65,1971
+06/13,Casper,WY,1,Vanguard,World Class,79.65,1971
+06/12,Kitchener,ON,2,Opti-Knights,World Class,62.0,1971
+06/13,Revere,MA,2,27th Lancers,World Class,78.75,1971
+06/12,Carlstadt,NJ,2,Valley Grenadiers,World Class,61.6,1971
+06/13,Casper,WY,2,Troopers,World Class,77.15,1971
+06/12,Kitchener,ON,3,Marching Angels,World Class,57.95,1971
+06/13,Revere,MA,3,Garfield Cadets,World Class,78.25,1971
+06/12,Carlstadt,NJ,3,Riversiders,World Class,57.95,1971
+06/13,Casper,WY,3,Madison Scouts,World Class,75.3,1971
+06/12,Kitchener,ON,4,Marching Diplomats,World Class,54.35,1971
+06/13,Revere,MA,4,Boston Crusaders,World Class,77.4,1971
+06/12,Carlstadt,NJ,4,Royales,World Class,46.9,1971
+06/13,Casper,WY,4,Argonne Rebels,World Class,69.85,1971
+06/12,Kitchener,ON,5,St. Claire Shores Vanguard,World Class,53.0,1971
+06/13,Revere,MA,5,St. Joseph's of Batavia,World Class,71.45,1971
+06/12,Carlstadt,NJ,5,Imperial Guardsmen,World Class,43.45,1971
+06/13,Casper,WY,5,Sky Ryders,World Class,58.2,1971
+06/12,Kitchener,ON,6,Etobicoke Crusaders,World Class,52.75,1971
+06/13,Revere,MA,6,Blessed Sacrament,World Class,70.9,1971
+06/12,Carlstadt,NJ,6,Monarchs,World Class,42.0,1971
+06/12,Kitchener,ON,7,Kinsmen Krescendos,World Class,42.4,1971
+06/13,Revere,MA,7,Cardinals,World Class,64.2,1971
+06/12,Carlstadt,NJ,7,Saints,World Class,37.45,1971
+06/12,Kitchener,ON,8,Ontario Golden Lions,World Class,41.5,1971
+06/13,Revere,MA,8,Pembroke Imperials,World Class,63.6,1971
+06/13,Revere,MA,9,Long Island Kingsmen,World Class,50.95,1971
+06/13,Appleton,WI,1,Chevaliers-IA,World Class,54.35,1971
+06/13,Durand,WI,1,Belles of Saint Mary's,World Class,55.8,1971
+06/13,Geneseo,IL,1,Cavaliers,World Class,76.4,1971
+06/13,Troy,NY,1,St. Rita's Brassmen,World Class,80.6,1971
+06/13,Appleton,WI,2,Saint Matthias Cadets,World Class,54.3,1971
+06/13,Durand,WI,2,Siundowners,World Class,50.75,1971
+06/13,Geneseo,IL,2,Blue Stars,World Class,74.8,1971
+06/13,Troy,NY,2,Cadets LaSalle,World Class,70.7,1971
+06/13,Appleton,WI,3,Blue Notes,World Class,52.95,1971
+06/13,Durand,WI,3,Crusader-Gladiators,World Class,44.5,1971
+06/13,Geneseo,IL,3,Des Plaines Vanguard,World Class,64.45,1971
+06/13,Troy,NY,3,Emerald Cadets,World Class,66.5,1971
+06/13,Durand,WI,4,Blue Knights-MI,World Class,40.95,1971
+06/13,Geneseo,IL,4,Kewanee Black Knights,World Class,61.3,1971
+06/13,Troy,NY,4,OLPH Ridgemen,World Class,63.9,1971
+06/13,Durand,WI,5,Ambassadors-WI,World Class,31.1,1971
+06/13,Geneseo,IL,5,Imperials,World Class,53.7,1971
+06/13,Troy,NY,5,Poughkeepsie Pacers,World Class,63.45,1971
+06/13,Geneseo,IL,6,Nisei Ambassadors,World Class,53.5,1971
+06/13,Troy,NY,6,Kingston Indians,World Class,55.25,1971
+06/17,Toronto,ON,1,27th Lancers,World Class,78.2,1971
+06/18,Casper,WY,1,Vanguard,World Class,79.65,1971
+06/18,Weymouth,MA,1,Sir Thomas More Cadets,World Class,74.55,1971
+06/19,Dolton,IL,1,Cavaliers,World Class,85.45,1971
+06/17,Toronto,ON,2,Garfield Cadets,World Class,77.5,1971
+06/18,Casper,WY,2,Troopers,World Class,77.15,1971
+06/18,Weymouth,MA,2,Jeanettes,World Class,61.95,1971
+06/19,Dolton,IL,2,Belleville Black Knights,World Class,77.4,1971
+06/17,Toronto,ON,3,Blue Rock,World Class,76.55,1971
+06/18,Casper,WY,3,Madison Scouts,World Class,75.3,1971
+06/18,Weymouth,MA,3,Annunciators,World Class,59.5,1971
+06/19,Dolton,IL,3,Des Plaines Vanguard,World Class,74.8,1971
+06/17,Toronto,ON,4,DeLaSalle Oaklands,World Class,74.7,1971
+06/18,Casper,WY,4,Argonne Rebels,World Class,69.85,1971
+06/19,Dolton,IL,4,Phantom Regiment,World Class,73.7,1971
+06/17,Toronto,ON,5,Blue Stars,World Class,74.5,1971
+06/18,Casper,WY,5,Sky Ryders,World Class,58.2,1971
+06/19,Dolton,IL,5,Nisei Ambassadors,World Class,73.25,1971
+06/17,Toronto,ON,6,Cadets LaSalle,World Class,67.1,1971
+06/19,Dolton,IL,6,Kewanee Black Knights,World Class,72.25,1971
+06/17,Toronto,ON,7,Optimists,World Class,61.9,1971
+06/19,Dolton,IL,7,Guardsmen,World Class,71.35,1971
+06/19,Dolton,IL,8,Skokie Imperials,World Class,68.85,1971
+06/19,Hempstead,NY,1,New York Skyliners,World Class,84.95,1971
+06/19,Schuylkill Haven,PA,1,Young Americans,World Class,70.052,1971
+06/19,Cheyenne,WY,1,Vanguard,World Class,80.7,1971
+06/19,Middleton,CT,1,Emerald Cadets,World Class,63.6,1971
+06/19,Hempstead,NY,2,Connecticut Hurricanes,World Class,81.6,1971
+06/19,Schuylkill Haven,PA,2,Chessmen,World Class,69.103,1971
+06/19,Cheyenne,WY,2,Madison Scouts,World Class,76.8,1971
+06/19,Middleton,CT,2,Shoreliners,World Class,63.3,1971
+06/19,Hempstead,NY,3,Yankee Rebels,World Class,81.1,1971
+06/19,Schuylkill Haven,PA,3,White Knights,World Class,62.054,1971
+06/19,Cheyenne,WY,3,Troopers,World Class,73.95,1971
+06/19,Middleton,CT,3,New London Surfers,World Class,59.75,1971
+06/19,Hempstead,NY,4,Les Diplomats,World Class,71.55,1971
+06/19,Schuylkill Haven,PA,4,Buccaneers-MA,World Class,52.055,1971
+06/19,Cheyenne,WY,4,Argonne Rebels,World Class,73.6,1971
+06/19,Middleton,CT,4,Speigleaires,World Class,55.35,1971
+06/19,Hempstead,NY,5,Connecticut Yankees,World Class,56.1,1971
+06/19,Schuylkill Haven,PA,5,Barons,World Class,50.256,1971
+06/19,Cheyenne,WY,5,Sky Ryders,World Class,56.6,1971
+06/19,Middleton,CT,5,Kingston Indians,World Class,51.8,1971
+06/19,Schuylkill Haven,PA,6,Montrose Ascots,World Class,39.25,1971
+06/19,Middleton,CT,6,Fletcher Raiders,World Class,46.55,1971
+06/19,Elizabeth,NJ,1,Blessed Sacrament,World Class,73.4,1971
+06/19,Bethel Park,PA,1,Brookhaven Crusaders,World Class,71.3,1971
+06/19,Dodgeville,WI,1,St. Matthias Cadets,World Class,53.85,1971
+06/20,Denver,CO,1,Vanguard,World Class,80.05,1971
+06/19,Elizabeth,NJ,2,Audobon Bon Bons,World Class,65.75,1971
+06/19,Bethel Park,PA,2,General Butler Vagabonds,World Class,65.3,1971
+06/19,Dodgeville,WI,2,Boys of '76,World Class,51.15,1971
+06/20,Denver,CO,2,Troopers,World Class,79.15,1971
+06/19,Elizabeth,NJ,3,OLPH Ridgemen,World Class,61.05,1971
+06/19,Bethel Park,PA,3,Shoreliners,World Class,56.45,1971
+06/19,Dodgeville,WI,3,Marquis,World Class,40.8,1971
+06/20,Denver,CO,3,Madison Scouts,World Class,77.15,1971
+06/19,Elizabeth,NJ,4,Wynn Center Toppers,World Class,59.85,1971
+06/19,Bethel Park,PA,4,Cambria Cadets,World Class,54.8,1971
+06/19,Dodgeville,WI,4,Sundowners,World Class,36.25,1971
+06/20,Denver,CO,4,Argonne Rebels,World Class,70.6,1971
+06/19,Elizabeth,NJ,5,Bracken Cavaliers,World Class,58.05,1971
+06/19,Dodgeville,WI,5,CapitolAires,World Class,60.6,1971
+06/20,Denver,CO,5,Sky Ryders,World Class,54.45,1971
+06/19,Elizabeth,NJ,6,Poughkeepsie Pacers,World Class,57.25,1971
+06/19,Elizabeth,NJ,7,Manville,World Class,54.4,1971
+06/20,Milwaukee,WI,1,Kilties,World Class,81.1,1971
+06/20,Watertown,WI,1,Imperials of St. Patrick's,World Class,69.4,1971
+06/20,Great Barrington,MA,1,Speigleaires,World Class,71.1,1971
+06/21,Hanover,PA,1,Matadors,World Class,58.7,1971
+06/20,Milwaukee,WI,2,Boys of '76,World Class,79.1,1971
+06/20,Watertown,WI,2,Racine Scouts,World Class,62.4,1971
+06/20,Great Barrington,MA,2,Valley-Airs,World Class,61.5,1971
+06/21,Hanover,PA,2,Gardener Guards,World Class,57.45,1971
+06/20,Milwaukee,WI,2,Thunderbolts,World Class,79.1,1971
+06/20,Watertown,WI,3,Guardsmen,World Class,59.7,1971
+06/20,Great Barrington,MA,3,Fletcher Raiders,World Class,61.3,1971
+06/21,Hanover,PA,3,Emmaus Sentinels,World Class,52.6,1971
+06/20,Milwaukee,WI,4,Marquis,World Class,,1971
+06/20,Watertown,WI,4,Saint Matthias Cadets,World Class,59.3,1971
+06/20,Great Barrington,MA,4,Golden Crusaders,World Class,60.3,1971
+06/21,Hanover,PA,4,Torrington Vagabonds,World Class,51.7,1971
+06/20,Milwaukee,WI,5,Sundowners,World Class,,1971
+06/20,Watertown,WI,5,Warriors,World Class,58.2,1971
+06/20,Great Barrington,MA,5,Pine Tree Warriors,World Class,53.35,1971
+06/21,Hanover,PA,5,Freestatesmen,World Class,47.95,1971
+06/20,Milwaukee,WI,6,CapitolAires,World Class,,1971
+06/20,Watertown,WI,6,Spectacle City Mariners,World Class,57.5,1971
+06/20,Great Barrington,MA,6,Centurions,World Class,53.25,1971
+06/21,Geneva,NY,1,DeLaSalle Oaklands,World Class,78.8,1971
+06/25,Kenosha,WI,1,Madison Scouts,World Class,79.95,1971
+06/25,Weymouth,MA,1,Sir Thomas More Cadets,World Class,73.05,1971
+06/26,Wildwood,NJ,1,Blue Rock,World Class,84.25,1971
+06/21,Geneva,NY,2,St. Joseph's of Batavia,World Class,78.15,1971
+06/25,Kenosha,WI,2,Blue Stars,World Class,78.05,1971
+06/25,Weymouth,MA,2,Annunciators,World Class,61.1,1971
+06/26,Wildwood,NJ,2,Garfield Cadets,World Class,82.2,1971
+06/21,Geneva,NY,3,Magnificent Yankees,World Class,71.9,1971
+06/25,Kenosha,WI,3,Kilties,World Class,72.15,1971
+06/25,Weymouth,MA,3,Jeanettes,World Class,53.55,1971
+06/26,Wildwood,NJ,3,Bridgemen,World Class,78.8,1971
+06/21,Geneva,NY,4,Purple Lancers,World Class,58.2,1971
+06/25,Kenosha,WI,4,Thunderbolts,World Class,68.6,1971
+06/26,Wildwood,NJ,4,Blessed Sacraments,World Class,77.25,1971
+06/21,Geneva,NY,5,Syracuse Marauders,World Class,55.85,1971
+06/25,Kenosha,WI,5,Racine Scouts,World Class,67.6,1971
+06/26,Wildwood,NJ,5,Polish Falcon Cadets,World Class,75.6,1971
+06/25,Kenosha,WI,6,Imperials of St. Patrick's,World Class,61.1,1971
+06/26,Wildwood,NJ,6,Audobon Bon Bons,World Class,74.9,1971
+06/25,Kenosha,WI,7,Warriors,World Class,59.8,1971
+06/26,Wildwood,NJ,7,OLPH Ridgemen,World Class,69.05,1971
+06/25,Kenosha,WI,8,St. Matthias Cadets,World Class,48.95,1971
+06/26,Wildwood,NJ,8,Sacred Heart Crusaders,World Class,67.5,1971
+06/25,Kenosha,WI,9,Americanos,World Class,43.85,1971
+06/26,Wildwood,NJ,9,Imperial Guardsmen,World Class,66.1,1971
+06/25,Kenosha,WI,10,Sundowners,World Class,35.5,1971
+06/26,Wildwood,NJ,10,Royaleer Mounties,World Class,64.95,1971
+06/25,Kenosha,WI,1,Marquis,World Class,57.15,1971
+06/25,Kenosha,WI,2,Belles of Saint Mary's,World Class,51.4,1971
+06/25,Kenosha,WI,3,Kiltie Kadets,World Class,51.2,1971
+06/25,Kenosha,WI,4,CapitolAires,World Class,48.6,1971
+06/25,Kenosha,WI,6,Racine Junior Scouts,World Class,33.0,1971
+06/26,Boston,MA,1,Hawthorne Caballeros,World Class,82.9,1971
+06/26,Selinsgrove,PA,1,Reading Buccaneers,World Class,85.4,1971
+06/26,Emporia,KS,1,Argonne Rebels,World Class,75.15,1971
+06/26,Montrose,PA,1,Belvederes,World Class,61.85,1971
+06/26,Boston,MA,2,New York Skyliners,World Class,82.4,1971
+06/26,Selinsgrove,PA,2,Rochester Crusaders,World Class,83.95,1971
+06/26,Emporia,KS,2,Sky Ryders,World Class,67.8,1971
+06/26,Montrose,PA,2,Grenadiers,World Class,59.6,1971
+06/26,Boston,MA,2,Connecticut Hurricanes,World Class,82.4,1971
+06/26,Selinsgrove,PA,3,Syracuse Brigadiers,World Class,77.1,1971
+06/26,Emporia,KS,3,Silver Sabers,World Class,56.9,1971
+06/26,Montrose,PA,3,Cadets of Greece,World Class,53.3,1971
+06/26,Boston,MA,4,Sunrisers,World Class,69.4,1971
+06/26,Selinsgrove,PA,4,Hamburg Kingsmen,World Class,75.35,1971
+06/26,Emporia,KS,4,Continental Ambassadors,World Class,35.25,1971
+06/26,Montrose,PA,4,Gauchos,World Class,48.3,1971
+06/26,Boston,MA,5,Les Diplomats,World Class,69.3,1971
+06/26,Selinsgrove,PA,5,Westshoremen,World Class,75.15,1971
+06/26,Emporia,KS,5,Plainsmen,World Class,30.1,1971
+06/26,Boston,MA,6,Connecticut Yankees,World Class,60.2,1971
+06/26,Selinsgrove,PA,6,Rockets,World Class,64.65,1971
+06/26,Emporia,KS,6,Emerald Knights,World Class,16.1,1971
+06/27,Mayville,WI,1,Racine Scouts,World Class,59.9,1971
+06/27,Hamburg,PA,1,Young Americans,World Class,70.6,1971
+06/27,Watkins Glen,NY,1,Syracuse Marauders,World Class,71.1,1971
+06/27,Cedarburg,WI,1,Blue Stars,World Class,79.15,1971
+06/27,Mayville,WI,2,Phantom Regiment,World Class,54.4,1971
+06/27,Hamburg,PA,2,Belvederes,World Class,65.0,1971
+06/27,Watkins Glen,NY,2,Opti-Knights,World Class,67.55,1971
+06/27,Cedarburg,WI,2,Cavaliers,World Class,77.85,1971
+06/27,Mayville,WI,3,St. Matthias Cadets,World Class,49.55,1971
+06/27,Hamburg,PA,3,York White Roses,World Class,62.1,1971
+06/27,Watkins Glen,NY,3,Mark Twain Cadets,World Class,64.85,1971
+06/27,Cedarburg,WI,3,Madison Scouts,World Class,73.4,1971
+06/27,Mayville,WI,4,Americanos,World Class,45.3,1971
+06/27,Hamburg,PA,4,Magnolia Lancers,World Class,55.05,1971
+06/27,Watkins Glen,NY,4,Grenadiers,World Class,64.5,1971
+06/27,Cedarburg,WI,4,Kilties,World Class,70.4,1971
+06/27,Mayville,WI,5,Boys of '76,World Class,43.8,1971
+06/27,Hamburg,PA,5,Emerald Lancers,World Class,46.0,1971
+06/27,Watkins Glen,NY,5,Mello-Dears,World Class,64.35,1971
+06/27,Cedarburg,WI,5,Oshkosh Marauders,World Class,66.45,1971
+06/27,Mayville,WI,6,Northernaires,World Class,29.2,1971
+06/27,Hamburg,PA,6,Skylarks,World Class,44.85,1971
+06/27,Watkins Glen,NY,6,Cadets of Greece,World Class,61.0,1971
+06/27,Cedarburg,WI,6,St. Patrick's Imperials,World Class,,1971
+06/27,Mayville,WI,1,CapitolAires,World Class,49.6,1971
+06/27,Cedarburg,WI,8,Chevaliers-IA,World Class,,1971
+06/27,Mayville,WI,2,Milwaukee Rebels,World Class,40.45,1971
+06/27,Cedarburg,WI,9,Marquis,World Class,,1971
+06/27,Mayville,WI,3,Ambassadors,World Class,38.4,1971
+06/27,Cedarburg,WI,10,Crusader-Gladiators,World Class,,1971
+06/27,Mayville,WI,4,Sundowners,World Class,37.0,1971
+06/27,Cedarburg,WI,11,Warrior Cadets,World Class,,1971
+06/27,Cedarburg,WI,1,Kiltie Kadets,World Class,50.6,1971
+06/27,Cedarburg,WI,2,Shoreliners-WI,World Class,49.35,1971
+07/02,Bridgeport,CT,1,Hawthorne Caballeros,World Class,82.4,1971
+07/02,Oshkosh,WI,1,Anaheim Kingsmen,World Class,76.15,1971
+07/03,Fon du Lac,WI,1,Thunderbolts,World Class,64.05,1971
+07/03,Racine,WI,1,Anaheim Kingsmen,World Class,81.9,1971
+07/02,Bridgeport,CT,2,Connecticut Hurricanes,World Class,80.0,1971
+07/02,Oshkosh,WI,2,Madison Scouts,World Class,74.2,1971
+07/03,Fon du Lac,WI,2,Colt 45's,World Class,63.75,1971
+07/03,Racine,WI,2,Sky Ryders,World Class,71.9,1971
+07/02,Bridgeport,CT,3,New York Skyliners,World Class,78.6,1971
+07/02,Oshkosh,WI,3,Sky Ryders,World Class,66.2,1971
+07/03,Fon du Lac,WI,3,Marion Cadets,World Class,60.85,1971
+07/03,Racine,WI,3,Kilties,World Class,71.55,1971
+07/02,Bridgeport,CT,4,Yankee Rebels,World Class,76.05,1971
+07/02,Oshkosh,WI,4,Racine Scouts,World Class,65.5,1971
+07/03,Fon du Lac,WI,4,Silver Sabers,World Class,56.75,1971
+07/03,Racine,WI,4,Stardusters,World Class,70.85,1971
+07/02,Bridgeport,CT,5,Reading Buccaneers,World Class,74.65,1971
+07/02,Oshkosh,WI,5,Kilties,World Class,62.25,1971
+07/03,Fon du Lac,WI,5,Saint Matthias Cadets,World Class,55.95,1971
+07/03,Racine,WI,5,St. Patrick's Imperials,World Class,69.5,1971
+07/02,Oshkosh,WI,6,Silver Sabers,World Class,53.5,1971
+07/03,Fon du Lac,WI,6,Americanos,World Class,53.9,1971
+07/03,Racine,WI,6,Racine Scouts,World Class,66.85,1971
+07/02,Oshkosh,WI,7,Spectacle City Mariners,World Class,50.6,1971
+07/03,Racine,WI,7,Warriors,World Class,63.85,1971
+07/02,Oshkosh,WI,8,Boys of '76,World Class,49.35,1971
+07/03,Racine,WI,8,Page Park Cadets,World Class,56.7,1971
+07/03,Racine,WI,9,Spectacle City Mariners,World Class,56.3,1971
+07/03,Racine,WI,10,Sentinels,World Class,51.25,1971
+07/03,Endicott,NY,1,Squires,World Class,67.35,1971
+07/03,Etobicoke,ON,1,DeLaSalle Oaklands,World Class,79.95,1971
+07/03,Hellertown,PA,1,Young Americans,World Class,62.2,1971
+07/03,Hamilton,NY,1,Squires,World Class,67.75,1971
+07/03,Endicott,NY,2,Shoreliners,World Class,62.25,1971
+07/03,Etobicoke,ON,2,Scarborough Firefighters,World Class,69.55,1971
+07/03,Hellertown,PA,2,Miraculous Medal Orbits,World Class,52.2,1971
+07/03,Hamilton,NY,2,Marching Saints,World Class,63.15,1971
+07/03,Endicott,NY,3,Mello-Dears,World Class,60.0,1971
+07/03,Etobicoke,ON,3,Toronto Optimists,World Class,69.05,1971
+07/03,Hellertown,PA,3,Belvederes,World Class,52.0,1971
+07/03,Hamilton,NY,3,Tri-Town Cadets,World Class,61.35,1971
+07/03,Endicott,NY,4,Mark Twain Cadets,World Class,56.2,1971
+07/03,Hellertown,PA,4,Hamburg Buccaneers,World Class,48.5,1971
+07/03,Hamilton,NY,4,Barons of Steuben,World Class,56.55,1971
+07/03,Endicott,NY,5,Royal Coachmen,World Class,48.25,1971
+07/03,Etobicoke,ON,1,Etobicoke Crusaders,World Class,59.65,1971
+07/03,Hellertown,PA,5,Magnolia Lancers,World Class,42.45,1971
+07/03,Hamilton,NY,5,Cadets of Greece,World Class,54.45,1971
+07/03,Endicott,NY,6,Barons of Steuben,World Class,43.75,1971
+07/03,Etobicoke,ON,2,Opti-Knights,World Class,55.1,1971
+07/03,Hellertown,PA,6,Shadettes,World Class,37.4,1971
+07/03,Hamilton,NY,6,Manchester Black Knights,World Class,48.05,1971
+07/03,Endicott,NY,7,Gauchos,World Class,41.2,1971
+07/03,Etobicoke,ON,3,Flying Dutchmen,World Class,52.25,1971
+07/03,Etobicoke,ON,4,Marching Angels,World Class,48.8,1971
+07/03,Etobicoke,ON,5,Golden Lions,World Class,40.95,1971
+07/03,Etobicoke,ON,6,Kinsmen Krescendos,World Class,39.7,1971
+07/03,Wheeling,IL,1,Cavaliers,World Class,85.55,1971
+07/04,Easton,PA,1,Brookhaven Crusaders,World Class,61.3,1971
+07/04,Dixon,IL,1,Sky Ryders,World Class,70.85,1971
+07/04,Westborough,MA,1,27th Lancers,World Class,81.95,1971
+07/03,Wheeling,IL,2,Vanguard,World Class,82.3,1971
+07/04,Easton,PA,2,Young Americans,World Class,59.55,1971
+07/04,Dixon,IL,2,Nisei Ambassadors,World Class,69.15,1971
+07/04,Westborough,MA,2,Boston Crusaders,World Class,80.9,1971
+07/03,Wheeling,IL,3,Troopers,World Class,81.1,1971
+07/04,Easton,PA,3,Bracken Cavaliers,World Class,58.3,1971
+07/04,Dixon,IL,3,Kewanee Black Knights,World Class,61.25,1971
+07/04,Westborough,MA,3,Beverly Cardinals,World Class,69.1,1971
+07/03,Wheeling,IL,4,Madison Scouts,World Class,80.75,1971
+07/04,Easton,PA,4,Belvederes,World Class,55.1,1971
+07/04,Dixon,IL,4,Phantom Regiment,World Class,59.7,1971
+07/04,Westborough,MA,4,Pembroke Imperials,World Class,64.6,1971
+07/03,Wheeling,IL,5,Blue Stars,World Class,80.6,1971
+07/04,Easton,PA,5,Sacred Heart Crusaders,World Class,53.05,1971
+07/04,Dixon,IL,5,Chevaliers-IA,World Class,47.25,1971
+07/04,Westborough,MA,5,Dukes of Marlboro,World Class,55.25,1971
+07/03,Wheeling,IL,6,Des Plaines Vanguard,World Class,69.5,1971
+07/04,Easton,PA,6,507 Hornets,World Class,47.9,1971
+07/04,Dixon,IL,6,Southern Rebels,World Class,37.9,1971
+07/04,Westborough,MA,6,Norwood Debonaires,World Class,52.2,1971
+07/04,Dubuque,IA,1,Cavaliers,World Class,81.55,1971
+07/05,Des Plaines,IL,1,Kilties,World Class,74.15,1971
+07/05,Havre de Grace,MD,1,Chessman,World Class,68.2,1971
+07/10,Brantford,ON,1,Cardinals,World Class,76.95,1971
+07/04,Dubuque,IA,2,Madison Scouts,World Class,79.25,1971
+07/05,Des Plaines,IL,2,Stardusters,World Class,71.85,1971
+07/05,Havre de Grace,MD,2,Young Americans,World Class,66.4,1971
+07/10,Brantford,ON,2,Midlanders,World Class,72.25,1971
+07/04,Dubuque,IA,3,Vanguard,World Class,78.95,1971
+07/05,Des Plaines,IL,3,Thunderbirds,World Class,68.0,1971
+07/05,Havre de Grace,MD,3,Belvederes,World Class,63.6,1971
+07/10,Brantford,ON,3,Les Compagnons,World Class,70.95,1971
+07/04,Dubuque,IA,4,Blue Stars,World Class,78.2,1971
+07/05,Des Plaines,IL,4,Racine Scouts,World Class,64.0,1971
+07/05,Havre de Grace,MD,4,White Americanos,World Class,62.3,1971
+07/10,Brantford,ON,4,Saint John's Girls,World Class,67.15,1971
+07/04,Dubuque,IA,5,Troopers,World Class,78.15,1971
+07/05,Des Plaines,IL,5,Guardsmen,World Class,59.25,1971
+07/05,Havre de Grace,MD,5,York Heart Crusaders,World Class,53.1,1971
+07/10,Brantford,ON,5,Shoreliners-WI,World Class,66.45,1971
+07/04,Dubuque,IA,6,Colt .45's,World Class,58.5,1971
+07/05,Des Plaines,IL,6,Catholic Daughters,World Class,39.0,1971
+07/05,Havre de Grace,MD,6,PAL Cadets,World Class,52.7,1971
+07/10,Milwaukee,WI,1,Des Plaines Vanguard,World Class,79.05,1971
+07/10,Milwaukee,WI,1,Kilties,World Class,76.25,1971
+07/10,Michigan City,IN,1,Troopers,World Class,81.8,1971
+07/10,Garfield,NJ,1,Blue Rock,World Class,83.2,1971
+07/10,Milwaukee,WI,2,Argonne Rebels,World Class,77.6,1971
+07/10,Milwaukee,WI,2,Argonne Rebels,World Class,76.0,1971
+07/10,Michigan City,IN,2,Cavaliers,World Class,81.55,1971
+07/10,Garfield,NJ,2,Anaheim Kingsmen,World Class,80.95,1971
+07/10,Milwaukee,WI,3,Kilties,World Class,77.35,1971
+07/10,Milwaukee,WI,3,Des Plaines Vanguard,World Class,73.8,1971
+07/10,Michigan City,IN,3,Vanguard,World Class,80.1,1971
+07/10,Garfield,NJ,3,27th Lancers,World Class,78.6,1971
+07/10,Milwaukee,WI,4,Silver Sabers,World Class,76.6,1971
+07/10,Milwaukee,WI,4,Racine Scouts,World Class,71.2,1971
+07/10,Michigan City,IN,4,DeLaSalle Oaklands,World Class,78.75,1971
+07/10,Garfield,NJ,4,Garfield Cadets,World Class,78.55,1971
+07/10,Milwaukee,WI,5,Belleville Black Knights,World Class,75.6,1971
+07/10,Milwaukee,WI,5,Belleville Black Knights,World Class,70.4,1971
+07/10,Michigan City,IN,5,Blue Stars,World Class,76.7,1971
+07/10,Garfield,NJ,5,Boston Crusaders,World Class,77.85,1971
+07/10,Milwaukee,WI,6,Nisei Ambassadors,World Class,73.55,1971
+07/10,Milwaukee,WI,6,Nisei Ambassadors,World Class,70.05,1971
+07/10,Michigan City,IN,6,Madison Scouts,World Class,76.5,1971
+07/10,Garfield,NJ,6,Blessed Sacrament,World Class,72.1,1971
+07/10,Milwaukee,WI,7,Racine Scouts,World Class,72.25,1971
+07/10,Milwaukee,WI,7,Imperials of Saint Patrick's,World Class,69.25,1971
+07/10,Michigan City,IN,7,Spectacle City Mariners,World Class,60.85,1971
+07/10,Garfield,NJ,7,St. Joseph's of Batavia,World Class,70.9,1971
+07/10,Milwaukee,WI,8,Imperials of Saint Patrick's,World Class,70.55,1971
+07/10,Milwaukee,WI,8,Warriors,World Class,68.35,1971
+07/10,Garfield,NJ,8,Toronto Optimists,World Class,55.35,1971
+07/10,Milwaukee,WI,9,Royals,World Class,69.05,1971
+07/10,Milwaukee,WI,9,Silver Sabers,World Class,66.15,1971
+07/10,Milwaukee,WI,9,Warriors,World Class,69.05,1971
+07/10,Milwaukee,WI,10,Royals,World Class,55.5,1971
+07/10,Milwaukee,WI,11,Colt .45's,World Class,69.0,1971
+07/10,Milwaukee,WI,12,Guardsmen,World Class,68.85,1971
+07/10,Milwaukee,WI,13,Marion Cadets,World Class,68.7,1971
+07/10,Milwaukee,WI,14,Thunderbolts,World Class,67.4,1971
+07/10,Milwaukee,WI,15,Kewanee Black Knights,World Class,66.8,1971
+07/10,Milwaukee,WI,16,Marauders,World Class,66.0,1971
+07/10,Milwaukee,WI,17,Boys of '76,World Class,64.3,1971
+07/10,Milwaukee,WI,18,St. Matthias Cadets,World Class,63.5,1971
+07/10,Milwaukee,WI,19,Guardsmen,World Class,58.1,1971
+07/10,Milwaukee,WI,20,Queen City Cadets,World Class,57.9,1971
+07/10,Milwaukee,WI,21,32nd Hussar,World Class,53.9,1971
+07/10,Syracuse,NY,1,Hawthorne Caballeros,World Class,82.05,1971
+07/10,Altoona,PA,1,Connecticut Hurricanes,World Class,85.45,1971
+07/10,Eddystone,PA,1,Chessmen,World Class,63.65,1971
+07/10,Torrington,CT,1,Boston Renegades,World Class,65.85,1971
+07/10,Syracuse,NY,2,Rochester Crusaders,World Class,77.35,1971
+07/10,Altoona,PA,2,Reading Buccaneers,World Class,84.45,1971
+07/10,Eddystone,PA,2,Belvederes,World Class,61.6,1971
+07/10,Torrington,CT,2,Connecticut Yankees,World Class,64.85,1971
+07/10,Syracuse,NY,3,Les Diplomats,World Class,73.3,1971
+07/10,Altoona,PA,3,Yankee Rebels,World Class,83.1,1971
+07/10,Eddystone,PA,3,White Knights,World Class,61.1,1971
+07/10,Torrington,CT,3,Matadors,World Class,53.5,1971
+07/10,Syracuse,NY,4,Brigadiers,World Class,72.05,1971
+07/10,Altoona,PA,4,Hamburg Kingsmen,World Class,74.75,1971
+07/10,Eddystone,PA,4,507 Hornets,World Class,57.45,1971
+07/10,Torrington,CT,4,Emmaus Sentinels,World Class,49.95,1971
+07/10,Syracuse,NY,5,Sunrisers,World Class,70.6,1971
+07/10,Altoona,PA,5,Rockets,World Class,67.15,1971
+07/10,Eddystone,PA,5,Royaleers,World Class,56.5,1971
+07/10,Torrington,CT,5,Hanover Lancers,World Class,43.6,1971
+07/10,Eddystone,PA,6,York White Roses,World Class,52.8,1971
+07/10,Nashua,NH,1,Sir Thomas More Cadets,World Class,70.8,1971
+07/10,Willingboro,NJ,1,Los Angeles Chinese,World Class,76.5,1971
+07/10,Sarnia,ON,1,Opti-Knights,World Class,64.45,1971
+07/11,Woodstock,IL,1,Kilties,World Class,74.35,1971
+07/10,Nashua,NH,2,IC Rockettes,World Class,65.0,1971
+07/10,Willingboro,NJ,2,Young Americans,World Class,74.05,1971
+07/10,Sarnia,ON,2,Marching Diplomats,World Class,62.5,1971
+07/11,Woodstock,IL,2,Nisei Ambassadors,World Class,71.4,1971
+07/10,Nashua,NH,3,Annunciators,World Class,58.0,1971
+07/10,Willingboro,NJ,3,Sacred Heart Crusaders,World Class,72.5,1971
+07/10,Sarnia,ON,3,Marching Angels,World Class,54.35,1971
+07/11,Woodstock,IL,3,Black Knights,World Class,68.0,1971
+07/10,Willingboro,NJ,4,Bracken Cavaliers,World Class,70.3,1971
+07/10,Sarnia,ON,4,Etobicoke Crusaders,World Class,53.5,1971
+07/11,Woodstock,IL,4,Racine Scouts,World Class,66.85,1971
+07/10,Willingboro,NJ,5,Emerald Lancers,World Class,50.85,1971
+07/10,Sarnia,ON,5,Flying Dutchmen,World Class,45.65,1971
+07/11,Woodstock,IL,5,Spectacle City Mariners,World Class,65.6,1971
+07/10,Willingboro,NJ,6,Earls of Buck,World Class,49.2,1971
+07/10,Sarnia,ON,6,Golden Lancers-ON,World Class,42.15,1971
+07/11,Woodstock,IL,6,Skokie Imperials,World Class,63.25,1971
+07/10,Sarnia,ON,7,Kinsmen Krescendos,World Class,40.45,1971
+07/11,Woodstock,IL,7,Marion Cadets,World Class,63.2,1971
+07/11,Woodstock,IL,8,Page Park Cadets,World Class,56.1,1971
+07/11,Long Island,NY,1,Anaheim Kingsmen,World Class,83.5,1971
+07/11,Woodbridge,NJ,1,Anaheim Kingsmen,World Class,84.85,1971
+07/11,Madison,WI,1,Troopers,World Class,77.3,1971
+07/11,Stoneham,MA,1,Sir Thomas More Cadets,World Class,64.7,1971
+07/11,Long Island,NY,2,Blue Rock,World Class,81.4,1971
+07/11,Woodbridge,NJ,2,Blue Rock,World Class,82.6,1971
+07/11,Madison,WI,2,Vanguard,World Class,76.65,1971
+07/11,Stoneham,MA,2,Annunciators,World Class,57.2,1971
+07/11,Long Island,NY,3,Garfield Cadets,World Class,81.05,1971
+07/11,Woodbridge,NJ,3,St. Rita's Brassmen,World Class,81.0,1971
+07/11,Madison,WI,3,DeLaSalle Oaklands,World Class,76.4,1971
+07/11,Stoneham,MA,3,Jeanettes,World Class,55.55,1971
+07/11,Long Island,NY,4,Boston Crusaders,World Class,80.5,1971
+07/11,Woodbridge,NJ,4,Blessed Sacrament,World Class,76.85,1971
+07/11,Madison,WI,4,Cavaliers,World Class,76.35,1971
+07/11,Long Island,NY,5,27th Lancers,World Class,79.35,1971
+07/11,Woodbridge,NJ,5,Muchachos,World Class,74.45,1971
+07/11,Madison,WI,5,Blue Stars,World Class,74.55,1971
+07/11,Long Island,NY,6,Blessed Sacrament,World Class,73.95,1971
+07/11,Woodbridge,NJ,6,Chinese Imperials,World Class,69.15,1971
+07/11,Madison,WI,6,Argonne Rebels,World Class,72.2,1971
+07/11,Long Island,NY,7,St. Joseph's of Batavia,World Class,72.85,1971
+07/11,Woodbridge,NJ,7,OLPH Ridgemen,World Class,67.15,1971
+07/11,Long Island,NY,8,Toronto Optimists,World Class,64.9,1971
+07/11,Long Island,NY,9,Speigleaires,World Class,58.35,1971
+07/11,Stoneham,MA,1,Sir Thomas More Cadets,World Class,64.7,1971
+07/13,Toronto,ON,1,Vanguard,World Class,84.5,1971
+07/15,Lowell ,MA,1,Blue Rock,World Class,84.4,1971
+07/17,Rochester,NY,1,St. Joseph's of Batavia,World Class,80.45,1971
+07/11,Stoneham,MA,2,Socialites,World Class,55.5,1971
+07/13,Toronto,ON,2,Troopers,World Class,81.8,1971
+07/15,Lowell ,MA,2,Anaheim Kingsmen,World Class,81.5,1971
+07/17,Rochester,NY,2,Magnificent Yankees,World Class,79.2,1971
+07/11,Stoneham,MA,3,Annunciators,World Class,54.15,1971
+07/13,Toronto,ON,3,Cavaliers,World Class,80.95,1971
+07/15,Lowell ,MA,3,Vanguard,World Class,80.55,1971
+07/17,Rochester,NY,3,Purple Lancers,World Class,73.8,1971
+07/13,Toronto,ON,4,Madison Scouts,World Class,78.5,1971
+07/15,Lowell ,MA,4,Troopers,World Class,80.1,1971
+07/17,Rochester,NY,4,Marauders,World Class,71.4,1971
+07/13,Toronto,ON,5,DeLaSalle Oaklands,World Class,78.25,1971
+07/15,Lowell ,MA,5,Madison Scouts,World Class,79.55,1971
+07/17,Rochester,NY,5,Appleknockers,World Class,69.5,1971
+07/13,Toronto,ON,6,Blue Stars,World Class,74.95,1971
+07/15,Lowell ,MA,6,Boston Crusaders,World Class,79.35,1971
+07/17,Rochester,NY,6,Mello-Dears,World Class,68.1,1971
+07/13,Toronto,ON,7,Argonne Rebels,World Class,69.55,1971
+07/15,Lowell ,MA,7,27th Lancers,World Class,79.05,1971
+07/17,Rochester,NY,7,OLPH Ridgemen,World Class,65.1,1971
+07/13,Toronto,ON,8,Toronto Optimists,World Class,63.3,1971
+07/15,Lowell ,MA,8,Cavaliers,World Class,78.9,1971
+07/17,Rochester,NY,8,Mark Twain Cadets,World Class,62.35,1971
+07/13,Toronto,ON,9,Scarborough Firefighters,World Class,63.25,1971
+07/15,Lowell ,MA,9,Blue Stars,World Class,78.65,1971
+07/15,Lowell ,MA,10,Garfield Cadets,World Class,76.1,1971
+07/15,Lowell ,MA,11,DeLaSalle Oaklands,World Class,74.95,1971
+07/15,Lowell ,MA,12,St. Rita's Brassmen,World Class,74.75,1971
+07/15,Lowell ,MA,13,Blessed Sacrament,World Class,72.35,1971
+07/15,Lowell ,MA,14,Argonne Rebels,World Class,69.2,1971
+07/15,Lowell ,MA,15,Bridgemen,World Class,68.7,1971
+07/15,Lowell ,MA,16,St. Francis Xavier Sancians,World Class,47.6,1971
+07/17,Lynn,MA,1,Vanguard,Open Class,86.1,1971
+07/17,Lynn,MA,1,27th Lancers,Open Class,87.0,1971
+07/17,Brentwood,PA,1,Royal Crusaders,Open Class,67.75,1971
+07/17,Baltimore,MD,1,New York Skyliners,Open Class,86.05,1971
+07/17,Lynn,MA,2,Blue Rock,Open Class,86.05,1971
+07/17,Lynn,MA,2,Vanguard,Open Class,86.65,1971
+07/17,Brentwood,PA,2,Vagabonds,Open Class,66.7,1971
+07/17,Baltimore,MD,2,Connecticut Hurricanes,Open Class,84.6,1971
+07/17,Lynn,MA,3,27th Lancers,Open Class,85.0,1971
+07/17,Lynn,MA,3,Anaheim Kingsmen,Open Class,86.3,1971
+07/17,Brentwood,PA,3,Young Americans,Open Class,66.5,1971
+07/17,Baltimore,MD,3,Hawthorne Caballeros,Open Class,84.45,1971
+07/17,Lynn,MA,4,Boston Crusaders,Open Class,84.95,1971
+07/17,Lynn,MA,4,Blue Rock,Open Class,86.05,1971
+07/17,Brentwood,PA,4,Belvederes,Open Class,62.6,1971
+07/17,Baltimore,MD,4,Reading Buccaneers,Open Class,84.05,1971
+07/17,Lynn,MA,5,Anaheim Kingsmen,Open Class,84.8,1971
+07/17,Lynn,MA,5,Troopers,Open Class,84.65,1971
+07/17,Brentwood,PA,5,Cambria Cadets,Open Class,60.95,1971
+07/17,Baltimore,MD,5,Les Diplomats,Open Class,76.9,1971
+07/17,Lynn,MA,6,Madison Scouts,Open Class,84.0,1971
+07/17,Lynn,MA,6,Garfield Cadets,Open Class,80.55,1971
+07/17,Brentwood,PA,6,Catholic Daughters,Open Class,53.1,1971
+07/17,Baltimore,MD,6,Westshoremen,Open Class,68.5,1971
+07/17,Lynn,MA,7,Garfield Cadets,Open Class,83.45,1971
+07/17,Lynn,MA,7,Madison Scouts,Open Class,80.25,1971
+07/17,Lynn,MA,8,Cavaliers,Open Class,83.25,1971
+07/17,Lynn,MA,8,Cavaliers,Open Class,80.05,1971
+07/17,Lynn,MA,9,Blue Stars,Open Class,82.1,1971
+07/17,Lynn,MA,9,Boston Crusaders,Open Class,79.4,1971
+07/17,Lynn,MA,10,Argonne Rebels,Open Class,80.0,1971
+07/17,Lynn,MA,10,Blue Stars,Open Class,76.7,1971
+07/17,Lynn,MA,11,DeLaSalle Oaklands,Open Class,79.95,1971
+07/17,Lynn,MA,11,DeLaSalle Oaklands,Open Class,76.15,1971
+07/17,Lynn,MA,12,Blessed Sacrament,Open Class,79.05,1971
+07/17,Lynn,MA,12,Argonne Rebels,Open Class,71.95,1971
+07/17,Lynn,MA,13,CMCC Warriors,Open Class,78.75,1971
+07/17,Lynn,MA,14,Bridgemen,Open Class,77.05,1971
+07/17,Lynn,MA,1,New London Surfers,Open Class,65.0,1971
+07/17,Lynn,MA,15,Audobon Bon Bons,Open Class,75.8,1971
+07/17,Lynn,MA,2,Royal Marquis,Open Class,61.7,1971
+07/17,Lynn,MA,16,St. Rita's Brassmen,Open Class,75.15,1971
+07/17,Lynn,MA,3,Squires,Open Class,61.4,1971
+07/17,Lynn,MA,17,Cardinals,Open Class,74.05,1971
+07/17,Lynn,MA,4,Royales,Open Class,61.0,1971
+07/17,Lynn,MA,18,Cadets LaSalle,Open Class,73.75,1971
+07/17,Lynn,MA,5,Stateliners,Open Class,59.9,1971
+07/17,Lynn,MA,19,Pembroke Imperials,Open Class,72.7,1971
+07/17,Lynn,MA,20,Emerald Cadets,Open Class,72.65,1971
+07/17,Lynn,MA,1,Audobon Bon Bons,Open Class,73.95,1971
+07/17,Lynn,MA,21,Polish Falcon Cadets,Open Class,69.05,1971
+07/17,Lynn,MA,2,Les Chatelaines,Open Class,66.4,1971
+07/17,Lynn,MA,22,Vagabonds,Open Class,68.1,1971
+07/17,Lynn,MA,3,Saint Ignatius,Open Class,64.5,1971
+07/17,Lynn,MA,23,Poughkeepsie Pacers,Open Class,67.35,1971
+07/17,Lynn,MA,4,Norwood Debonaires,Open Class,59.9,1971
+07/17,Lynn,MA,24,Blue Angels,Open Class,66.75,1971
+07/17,Lynn,MA,5,Royaleer Mounties,Open Class,53.6,1971
+07/17,Lynn,MA,25,Los Angels Chinese,Open Class,66.75,1971
+07/17,Lynn,MA,26,Chatelaines De Laval,Open Class,66.55,1971
+07/17,Lynn,MA,27,Brookhaven Crusaders,Open Class,65.35,1971
+07/17,Lynn,MA,28,Saint Ignatius,Open Class,64.95,1971
+07/17,Lynn,MA,29,Sacred Heart Crusaders,Open Class,63.65,1971
+07/17,Lynn,MA,30,Royaleers,Open Class,61.0,1971
+07/17,Lynn,MA,31,IC Reveries,Open Class,60.25,1971
+07/17,Lynn,MA,32,Olympians,Open Class,60.1,1971
+07/17,Lynn,MA,33,Dukes of Marlboro,Open Class,59.0,1971
+07/17,Lynn,MA,34,Trumball Cadets,Open Class,58.05,1971
+07/17,Lynn,MA,35,Wilmington Crusaders,Open Class,57.0,1971
+07/17,Lynn,MA,36,Colonades,Open Class,53.75,1971
+07/17,Lynn,MA,37,PAV Rangers,Open Class,51.85,1971
+07/18,Lawrence,MA,1,27th Lancers,Open Class,84.45,1971
+07/18,Kingston,NY,1,Blue Rock,Open Class,80.0,1971
+07/18,McHenry,IL,1,Nisei Ambassadors,Open Class,73.6,1971
+07/24,Ogdensburg,NY,1,St. Joseph's of Batavia,Open Class,78.3,1971
+07/18,Lawrence,MA,2,Vanguard,Open Class,84.1,1971
+07/18,Kingston,NY,2,CMCC Warriors,Open Class,75.2,1971
+07/18,McHenry,IL,2,Imperials of St. Patrick's,Open Class,70.8,1971
+07/24,Ogdensburg,NY,2,Cadets LaSalle,Open Class,73.4,1971
+07/18,Lawrence,MA,3,Troopers,Open Class,82.3,1971
+07/18,Kingston,NY,3,Cadets LaSalle,Open Class,71.2,1971
+07/18,McHenry,IL,3,Skokie Imperials,Open Class,64.45,1971
+07/24,Ogdensburg,NY,3,Magnificent Yankees,Open Class,73.4,1971
+07/18,Lawrence,MA,4,Cavaliers,Open Class,81.0,1971
+07/18,Kingston,NY,4,Vagabonds-NY,Open Class,67.95,1971
+07/18,McHenry,IL,4,Phantom Regiment,Open Class,63.05,1971
+07/24,Ogdensburg,NY,4,Appleknockers,Open Class,69.2,1971
+07/18,Lawrence,MA,5,St. Rita's Brassmen,Open Class,80.95,1971
+07/18,Kingston,NY,5,Imperial Dragons,Open Class,64.75,1971
+07/18,McHenry,IL,5,Chevaliers-IA,Open Class,56.8,1971
+07/24,Ogdensburg,NY,5,Syracuse Marauders,Open Class,66.1,1971
+07/18,Lawrence,MA,6,Boston Crusaders,Open Class,80.3,1971
+07/18,Kingston,NY,6,Les Compagnons,Open Class,61.65,1971
+07/18,McHenry,IL,6,Southern Rebels,Open Class,51.6,1971
+07/18,Lawrence,MA,7,Madison Scouts,Open Class,78.3,1971
+07/18,Kingston,NY,7,Speigleaires,Open Class,59.35,1971
+07/18,Lawrence,MA,8,Blue Stars,Open Class,77.85,1971
+07/18,Lawrence,MA,9,DeLaSalle Oaklands,Open Class,73.8,1971
+07/18,Lawrence,MA,10,Blessed Sacrament,Open Class,70.45,1971
+07/18,Lawrence,MA,11,Argonne Rebels,Open Class,69.9,1971
+07/18,Lawrence,MA,12,Spectacle City Mariners,Open Class,52.35,1971
+07/24,Newport News,VA,1,Blue Rock,Open Class,85.102,1971
+07/24,South Milwaukee,WI,1,Madison Scouts,Open Class,82.0,1971
+07/24,Clifton,NJ,1,Connecticut Hurricanes,Open Class,84.2,1971
+07/24,Buffalo,NY,1,Rochester Crusaders,Open Class,81.1,1971
+07/24,Newport News,VA,2,Knickerbockers,Open Class,69.503,1971
+07/24,South Milwaukee,WI,2,Cavaliers,Open Class,81.8,1971
+07/24,Clifton,NJ,2,Yankee Rebels,Open Class,83.7,1971
+07/24,Buffalo,NY,2,Reading Buccaneers,Open Class,78.8,1971
+07/24,Newport News,VA,3,Belvederes,Open Class,59.204,1971
+07/24,South Milwaukee,WI,3,Kilties,Open Class,75.35,1971
+07/24,Clifton,NJ,3,New York Skyliners,Open Class,81.3,1971
+07/24,Buffalo,NY,3,Hamburg Kingsmen,Open Class,77.45,1971
+07/24,Newport News,VA,4,Royaleer Mounties,Open Class,54.45,1971
+07/24,South Milwaukee,WI,4,Des Plaines Vanguard,Open Class,74.35,1971
+07/24,Clifton,NJ,4,Sunrisers,Open Class,74.75,1971
+07/24,Buffalo,NY,4,Rockets,Open Class,65.9,1971
+07/24,Newport News,VA,5,White Roses,Open Class,47.506,1971
+07/24,South Milwaukee,WI,5,Stardusters,Open Class,73.3,1971
+07/24,Clifton,NJ,5,Connecticut Yankees,Open Class,64.1,1971
+07/24,Buffalo,NY,5,Westshoremen,Open Class,62.9,1971
+07/24,Newport News,VA,6,Skylarks,Open Class,31.75,1971
+07/24,South Milwaukee,WI,6,Belleville Black Knights,Open Class,72.1,1971
+07/24,South Milwaukee,WI,7,St. Paul Scouts,Open Class,69.75,1971
+07/24,South Milwaukee,WI,8,Kewanee Black Knights,Open Class,68.45,1971
+07/24,South Milwaukee,WI,9,Oshkosh Marauders,Open Class,66.25,1971
+07/24,South Milwaukee,WI,10,Boys of '76,Open Class,64.75,1971
+07/25,Ottawa,IL,1,Kewanee Black Knights,Open Class,75.8,1971
+07/28,Portsmouth,NH,1,Boston Crusaders,Open Class,83.85,1971
+07/30,Salamanca,NY,1,Kilties,Open Class,81.75,1971
+07/31,Audubon,NJ,1,Blue Rock,Open Class,82.75,1971
+07/25,Ottawa,IL,2,Belleville Black Knights,Open Class,74.55,1971
+07/28,Portsmouth,NH,2,Beverly Cardinals,Open Class,79.25,1971
+07/30,Salamanca,NY,2,St. Joseph's of Batavia,Open Class,81.4,1971
+07/31,Audubon,NJ,2,Bridgemen,Open Class,71.25,1971
+07/25,Ottawa,IL,3,Des Plaines Vanguard,Open Class,74.5,1971
+07/28,Portsmouth,NH,3,Pembroke Imperials,Open Class,75.95,1971
+07/30,Salamanca,NY,3,DeLaSalle Oaklands,Open Class,80.15,1971
+07/31,Audubon,NJ,3,Polish Falcon Cadets,Open Class,64.7,1971
+07/25,Ottawa,IL,4,Imperials of St. Patrick's,Open Class,72.7,1971
+07/28,Portsmouth,NH,4,Spartans,Open Class,67.7,1971
+07/30,Salamanca,NY,4,Magnificent Yankees,Open Class,74.8,1971
+07/31,Audubon,NJ,4,Brookhaven Cavaliers,Open Class,56.55,1971
+07/25,Ottawa,IL,5,Skokie Imperials,Open Class,66.1,1971
+07/28,Portsmouth,NH,5,IC Reveries,Open Class,65.7,1971
+07/30,Salamanca,NY,5,Marion Cadets,Open Class,72.65,1971
+07/31,Audubon,NJ,5,Bracken Cavaliers,Open Class,54.75,1971
+07/25,Ottawa,IL,6,White Tornadoes,Open Class,46.05,1971
+07/28,Portsmouth,NH,6,Defenders-ME,Open Class,58.9,1971
+07/31,Stoughton,MA,1,Sir Thomas More Cadets,Open Class,69.45,1971
+07/31,Elmira,NY,1,Purple Lancers,Open Class,73.05,1971
+07/31,Saratoga,NY,1,Hawthorne Caballeros,Open Class,87.25,1971
+07/31,Carlisle,PA,1,Connecticut Hurricanes,Open Class,85.45,1971
+07/31,Stoughton,MA,2,Annunciators,Open Class,57.2,1971
+07/31,Elmira,NY,2,Syracuse Marauders,Open Class,65.5,1971
+07/31,Saratoga,NY,2,New York Skyliners,Open Class,87.15,1971
+07/31,Carlisle,PA,2,Yankee Rebels,Open Class,85.0,1971
+07/31,Stoughton,MA,3,Jeanettes,Open Class,55.55,1971
+07/31,Elmira,NY,3,Squires,Open Class,64.25,1971
+07/31,Saratoga,NY,3,Les Diplomats,Open Class,81.25,1971
+07/31,Carlisle,PA,3,Reading Buccaneers,Open Class,81.95,1971
+07/31,Elmira,NY,4,Mello Dears,Open Class,59.25,1971
+07/31,Saratoga,NY,4,Sunrisers,Open Class,76.65,1971
+07/31,Carlisle,PA,4,Hamburg Kingsmen,Open Class,74.0,1971
+07/31,Elmira,NY,5,Grenadiers of Broome County,Open Class,56.6,1971
+07/31,Saratoga,NY,5,Syracuse Brigadiers,Open Class,76.4,1971
+07/31,Carlisle,PA,5,Rockets,Open Class,65.75,1971
+07/31,Elmira,NY,6,Gauchos,Open Class,33.35,1971
+07/31,Stoughton,MA,1,Cavaliers,Open Class,82.25,1971
+07/31,Stoughton,MA,2,Belleville Black Knights,Open Class,79.8,1971
+07/31,Stoughton,MA,3,Nisei Ambassadors,Open Class,75.55,1971
+07/31,Stoughton,MA,4,Kewanee Black Knights,Open Class,70.2,1971
+07/31,Stoughton,MA,5,Guardsmen,Open Class,66.35,1971
+07/31,Stoughton,MA,6,Norwood Park Imperials,Open Class,62.4,1971
+07/31,Stoughton,MA,7,Ottawa Crusaders,Open Class,61.0,1971
+07/31,Stoughton,MA,8,White Tornadoes,Open Class,51.25,1971
+08/01,Hershey,PA,1,Yankee Rebels,World Class,86.3,1971
+08/01,Seneca Falls,NY,1,St. Joseph's of Batavia,World Class,77.35,1971
+08/01,Rochester,NY,1,Squires,World Class,65.1,1971
+08/02,Toronto ,ON,1,27th Lancers,World Class,79.4,1971
+08/01,Hershey,PA,2,Reading Buccaneers,World Class,85.9,1971
+08/01,Seneca Falls,NY,2,Marion Cadets,World Class,68.45,1971
+08/01,Rochester,NY,2,White Knights,World Class,61.25,1971
+08/02,Toronto ,ON,2,DeLaSalle Oaklands,World Class,75.25,1971
+08/01,Hershey,PA,3,Rochester Crusaders,World Class,84.3,1971
+08/01,Seneca Falls,NY,3,Syracuse Marauders,World Class,66.2,1971
+08/01,Rochester,NY,3,Lakeview Shoreliners,World Class,58.75,1971
+08/02,Toronto ,ON,3,Boston Crusaders,World Class,74.45,1971
+08/01,Hershey,PA,4,Sunrisers,World Class,70.3,1971
+08/01,Seneca Falls,NY,4,Les Chatelaines,World Class,64.65,1971
+08/01,Rochester,NY,4,Grenadiers of Broome County,World Class,57.25,1971
+08/02,Toronto ,ON,4,St. Joseph's of Batavia,World Class,72.5,1971
+08/01,Hershey,PA,5,Westshoremen,World Class,70.2,1971
+08/01,Seneca Falls,NY,5,Speigleaires,World Class,58.65,1971
+08/02,Toronto ,ON,5,Kilties,World Class,72.0,1971
+08/01,Hershey,PA,6,Rockets,World Class,67.5,1971
+08/01,Rochester,NY,1,Barons of Steuben,World Class,48.2,1971
+08/02,Toronto ,ON,6,Des Plaines Vanguard,World Class,69.4,1971
+08/01,Rochester,NY,2,Manchester Black Knights,World Class,39.15,1971
+08/02,Toronto ,ON,7,Toronto Optimists,World Class,68.2,1971
+08/01,Rochester,NY,3,Gauchos,World Class,38.45,1971
+08/02,Toronto ,ON,8,Firefighters,World Class,58.8,1971
+08/01,Rochester,NY,4,Montrose Ascots,World Class,31.85,1971
+08/02,Toronto ,ON,9,Midlanders,World Class,51.75,1971
+08/05,Allentown,PA,1,Audobon Bon Bons,World Class,,1971
+08/05,Chicago,IL,1,Belleville Black Knights,World Class,78.5,1971
+08/05,Chicago,IL,1,Cavaliers,World Class,77.5,1971
+08/06,London,ON,1,Les Ambassadeurs,World Class,75.15,1971
+08/05,Allentown,PA,2,Chessmen,World Class,,1971
+08/05,Chicago,IL,1,Kewanee Black Knights,World Class,78.5,1971
+08/05,Chicago,IL,2,Belleville Black Knights,World Class,76.05,1971
+08/06,London,ON,2,Vagabonds,World Class,74.85,1971
+08/05,Allentown,PA,3,Belvederes,World Class,,1971
+08/05,Chicago,IL,3,Racine Scouts,World Class,78.25,1971
+08/05,Chicago,IL,3,Racine Scouts,World Class,73.65,1971
+08/06,London,ON,3,Kingston Indians,World Class,74.2,1971
+08/05,Chicago,IL,4,Imperials of St. Patrick's,World Class,76.3,1971
+08/05,Chicago,IL,4,Kewanee Black Knights,World Class,73.5,1971
+08/06,London,ON,4,St. John's Girls,World Class,73.3,1971
+08/05,Chicago,IL,5,Thunderbolts,World Class,73.3,1971
+08/05,Chicago,IL,5,Imperials of St. Patrick's,World Class,72.7,1971
+08/06,London,ON,5,Royal Crusaders,World Class,70.25,1971
+08/05,Chicago,IL,6,Oshkosh Marauders,World Class,72.5,1971
+08/05,Chicago,IL,6,Thunderbolts,World Class,67.5,1971
+08/06,London,ON,6,Ottawa Crusaders,World Class,69.15,1971
+08/05,Chicago,IL,7,Cavaliers,World Class,71.2,1971
+08/05,Chicago,IL,7,Oshkosh Marauders,World Class,67.4,1971
+08/06,London,ON,7,Marching Saints,World Class,67.5,1971
+08/05,Chicago,IL,8,Skokie Imperials,World Class,71.15,1971
+08/05,Chicago,IL,8,Skokie Imperials,World Class,64.8,1971
+08/06,London,ON,8,Opti-Knights,World Class,66.65,1971
+08/05,Chicago,IL,9,Royals,World Class,69.1,1971
+08/05,Chicago,IL,9,Royals,World Class,61.8,1971
+08/06,London,ON,9,Etobicoke Crusaders,World Class,65.65,1971
+08/05,Chicago,IL,10,Ottawa Crusaders,World Class,68.95,1971
+08/05,Chicago,IL,10,Ottawa Crusaders,World Class,57.55,1971
+08/06,London,ON,10,Marching Diplomats,World Class,65.0,1971
+08/05,Chicago,IL,11,Viscounts,World Class,62.3,1971
+08/05,Chicago,IL,11,Viscounts,World Class,48.4,1971
+08/06,London,ON,11,Barons of Steuben,World Class,60.85,1971
+08/05,Chicago,IL,12,Falcons,World Class,37.8,1971
+08/06,London,ON,12,Ambassadears,World Class,59.9,1971
+08/06,London,ON,13,Golden Knights,World Class,59.0,1971
+08/06,London,ON,14,Black Shields,World Class,53.35,1971
+08/07,Old Bridge,NJ,1,Young Americans,World Class,74.602,1971
+08/07,Peterborough,ON,1,Opti-Knights,World Class,67.55,1971
+08/07,Newark,NJ,1,Squires,World Class,77.6,1971
+08/07,Waverly,NY,1,Hawthorne Caballeros,World Class,83.0,1971
+08/07,Old Bridge,NJ,2,Bracken Cavaliers,World Class,72.403,1971
+08/07,Peterborough,ON,2,Marching Angels,World Class,61.95,1971
+08/07,Newark,NJ,2,Gauchos,World Class,64.0,1971
+08/07,Waverly,NY,2,Connecticut Hurricanes,World Class,80.95,1971
+08/07,Old Bridge,NJ,3,Sacred Heart Crusaders,World Class,71.304,1971
+08/07,Peterborough,ON,3,Etobicoke Crusaders,World Class,60.3,1971
+08/07,Newark,NJ,3,Barons of Steuben,World Class,63.0,1971
+08/07,Waverly,NY,3,Syracuse Brigadiers,World Class,72.55,1971
+08/07,Old Bridge,NJ,4,Royaleer Mounties,World Class,66.155,1971
+08/07,Peterborough,ON,4,Flying Dutchmen,World Class,55.8,1971
+08/07,Newark,NJ,4,Collegettes,World Class,50.0,1971
+08/07,Waverly,NY,4,Hamburg Kingsmen,World Class,71.7,1971
+08/07,Old Bridge,NJ,5,507 Hornets,World Class,62.206,1971
+08/07,Peterborough,ON,5,Kinsmen Krescendos,World Class,52.45,1971
+08/07,Newark,NJ,5,Alpine Girls,World Class,49.0,1971
+08/07,Waverly,NY,5,Sunrisers,World Class,68.6,1971
+08/07,Old Bridge,NJ,6,Buccaneers-MA,World Class,55.257,1971
+08/07,Peterborough,ON,6,OYB Lampliters,World Class,50.05,1971
+08/07,Waverly,NY,6,Rockets,World Class,59.7,1971
+08/07,Old Bridge,NJ,7,Earls of Buck,World Class,54.058,1971
+08/07,Old Bridge,NJ,8,Shadettes,World Class,46.3,1971
+08/08,Jersey City,NJ,1,27th Lancers,World Class,85.09,1971
+08/08,Baltimore,MD,1,Young Americans,World Class,71.002,1971
+08/08,Leominster,MA,1,Socialites,World Class,64.0,1971
+08/11,Swissvale,PA,1,Blue Rock,World Class,82.9,1971
+08/08,Jersey City,NJ,2,Blue Rock,World Class,85.04,1971
+08/08,Baltimore,MD,2,Chessmen,World Class,68.153,1971
+08/08,Leominster,MA,2,Annunciators,World Class,62.2,1971
+08/11,Swissvale,PA,2,Des Plaines Vanguard,World Class,81.35,1971
+08/08,Jersey City,NJ,3,Boston Crusaders,World Class,83.04,1971
+08/08,Baltimore,MD,3,Belvederes,World Class,66.354,1971
+08/08,Leominster,MA,3,Jeanettes,World Class,52.3,1971
+08/11,Swissvale,PA,3,Imperials of St. Patrick's,World Class,71.9,1971
+08/08,Jersey City,NJ,4,Garfield Cadets,World Class,81.08,1971
+08/08,Baltimore,MD,4,Mello Dears,World Class,66.205,1971
+08/11,Swissvale,PA,4,NY Knickerbockers,World Class,71.5,1971
+08/08,Jersey City,NJ,5,Blessed Sacrament,World Class,81.05,1971
+08/08,Baltimore,MD,5,Grenadiers-NY,World Class,65.106,1971
+08/11,Swissvale,PA,5,Royal Crusaders,World Class,65.15,1971
+08/08,Jersey City,NJ,6,Bridgemen,World Class,73.3,1971
+08/08,Baltimore,MD,6,Metal Orbits,World Class,57.057,1971
+08/08,Baltimore,MD,7,Cadets of Greece,World Class,46.958,1971
+08/08,Jersey City,NJ,1,New York Skyliners,World Class,90.07,1971
+08/08,Baltimore,MD,8,Shadettes,World Class,36.5,1971
+08/08,Jersey City,NJ,2,Hawthorne Caballeros,World Class,88.65,1971
+08/08,Jersey City,NJ,3,Connecticut Hurricanes,World Class,87.35,1971
+08/08,Jersey City,NJ,4,Rochester Crusaders,World Class,84.3,1971
+08/08,Jersey City,NJ,5,Les Diplomats,World Class,78.75,1971
+08/13,Marion,OH,1,Vagabonds,Open Class,70.1,1971
+08/13,Marion,OH,1,Blue Rock,Open Class,83.4,1971
+08/13,Marion,OH,1,Vagabonds,Open Class,66.05,1971
+08/14,Marion,OH,1,Blue Rock,Open Class,84.6,1971
+08/13,Marion,OH,2,Mark Twain Cadets,Open Class,69.75,1971
+08/13,Marion,OH,2,Madison Scouts,Open Class,81.9,1971
+08/13,Marion,OH,2,Tri-Town Cadets,Open Class,64.95,1971
+08/14,Marion,OH,2,Madison Scouts,Open Class,83.15,1971
+08/13,Marion,OH,3,Optimist Knights,Open Class,68.85,1971
+08/13,Marion,OH,3,DeLaSalle Oaklands,Open Class,81.4,1971
+08/13,Marion,OH,3,Mark Twain Cadets,Open Class,64.75,1971
+08/14,Marion,OH,3,DeLaSalle Oaklands,Open Class,82.15,1971
+08/13,Marion,OH,4,Tri-Town Cadets,Open Class,68.65,1971
+08/13,Marion,OH,4,Cavaliers,Open Class,81.2,1971
+08/13,Marion,OH,4,Optimist Knights,Open Class,58.0,1971
+08/14,Marion,OH,4,Cavaliers,Open Class,81.55,1971
+08/13,Marion,OH,5,Flint Guardsmen,Open Class,67.7,1971
+08/13,Marion,OH,5,Des Plaines Vanguard,Open Class,77.95,1971
+08/13,Marion,OH,5,Flint Guardsmen,Open Class,56.3,1971
+08/14,Marion,OH,5,Des Plaines Vanguard,Open Class,77.75,1971
+08/13,Marion,OH,6,Royal Crusaders,Open Class,67.15,1971
+08/13,Marion,OH,6,Bridgemen,Open Class,77.55,1971
+08/14,Marion,OH,6,St. Rita's Brassmen,Open Class,77.45,1971
+08/13,Marion,OH,7,Belvederes,Open Class,66.8,1971
+08/13,Marion,OH,6,St. Joseph's of Batavia,Open Class,77.55,1971
+08/13,Marion,OH,1,Audobon Bon Bons,Open Class,71.95,1971
+08/14,Marion,OH,7,St. Joseph's of Batavia,Open Class,75.95,1971
+08/13,Marion,OH,8,Grenadiers,Open Class,65.6,1971
+08/13,Marion,OH,8,St. Rita's Brassmen,Open Class,77.35,1971
+08/13,Marion,OH,2,Mello-Dears,Open Class,65.5,1971
+08/14,Marion,OH,8,Bridgemen,Open Class,73.2,1971
+08/13,Marion,OH,9,Wilmington Crusaders,Open Class,62.75,1971
+08/13,Marion,OH,9,Cardinals,Open Class,77.25,1971
+08/13,Marion,OH,3,St. Ignatius,Open Class,57.9,1971
+08/14,Marion,OH,9,Nisei Ambassadors,Open Class,73.1,1971
+08/13,Marion,OH,10,Glassmen,Open Class,62.3,1971
+08/13,Marion,OH,10,Nisei Ambassadors,Open Class,76.1,1971
+08/13,Marion,OH,4,Norwood Debonaires,Open Class,56.05,1971
+08/14,Marion,OH,10,Cardinals,Open Class,72.95,1971
+08/13,Marion,OH,11,Vanguard,Open Class,60.85,1971
+08/13,Marion,OH,11,Appleknockers,Open Class,73.45,1971
+08/13,Marion,OH,5,Ambassadears,Open Class,48.1,1971
+08/14,Marion,OH,11,Appleknockers,Open Class,70.2,1971
+08/13,Marion,OH,12,Emerald Knights,Open Class,57.95,1971
+08/13,Marion,OH,12,Shoreliners,Open Class,72.8,1971
+08/14,Marion,OH,12,Shoreliners,Open Class,67.85,1971
+08/13,Marion,OH,13,Buckeyes,Open Class,56.35,1971
+08/13,Marion,OH,13,Imperials of St. Patrick's,Open Class,72.35,1971
+08/13,Marion,OH,14,Cadets of Greece,Open Class,54.6,1971
+08/13,Marion,OH,14,CMCC Warriors,Open Class,72.05,1971
+08/13,Marion,OH,15,Windjammers,Open Class,53.75,1971
+08/13,Marion,OH,15,Marion Cadets,Open Class,71.55,1971
+08/13,Marion,OH,16,Barons of Steuben,Open Class,53.45,1971
+08/13,Marion,OH,16,Audubon Bon Bons,Open Class,71.25,1971
+08/13,Marion,OH,17,Black Shields,Open Class,38.9,1971
+08/13,Marion,OH,17,Firefighters,Open Class,70.85,1971
+08/13,Marion,OH,18,Emerald Cadets,Open Class,70.6,1971
+08/13,Marion,OH,1,Audobon Bon Bons,Open Class,74.55,1971
+08/13,Marion,OH,19,Knickerbockers,Open Class,70.35,1971
+08/13,Marion,OH,2,Mello-Dears,Open Class,71.05,1971
+08/13,Marion,OH,20,Magnificent Yankees,Open Class,70.05,1971
+08/13,Marion,OH,3,St. Ignatius,Open Class,67.2,1971
+08/13,Marion,OH,21,Purple Lancers,Open Class,69.75,1971
+08/13,Marion,OH,4,Norwood Debonaires,Open Class,66.15,1971
+08/13,Marion,OH,22,Pembroke Imperials,Open Class,69.25,1971
+08/13,Marion,OH,5,Ambassadears,Open Class,62.3,1971
+08/13,Marion,OH,23,Polish Falcon Cadets,Open Class,69.1,1971
+08/13,Marion,OH,6,CapitolAires,Open Class,58.45,1971
+08/13,Marion,OH,24,Blue Angels,Open Class,68.85,1971
+08/13,Marion,OH,7,Catholic Daughters,Open Class,55.8,1971
+08/13,Marion,OH,25,Brookhaven Crusaders,Open Class,68.1,1971
+08/13,Marion,OH,26,Long Island Kingsmen,Open Class,67.95,1971
+08/13,Marion,OH,27,Sacred Heart Crusaders,Open Class,67.3,1971
+08/13,Marion,OH,28,Chessmen,Open Class,66.9,1971
+08/13,Marion,OH,29,Toppers,Open Class,66.55,1971
+08/13,Marion,OH,30,Syracuse Marauders,Open Class,65.3,1971
+08/13,Marion,OH,31,Midlanders,Open Class,65.15,1971
+08/13,Marion,OH,32,Queen City Cadets,Open Class,64.45,1971
+08/13,Marion,OH,33,Sepectacle City Mariners,Open Class,63.7,1971
+08/13,Marion,OH,34,Dukes of Marlboro,Open Class,62.9,1971
+08/13,Marion,OH,35,St. Ignatius,Open Class,62.7,1971
+08/13,Marion,OH,36,32nd Hussar,Open Class,62.5,1971
+08/13,Marion,OH,38,Les Compagnons,Open Class,61.5,1971
+08/13,Marion,OH,38,Royal Lancer-MI,Open Class,60.45,1971
+08/13,Marion,OH,39,IC Reveries,Open Class,57.3,1971
+08/14,Overland Park,KS,1,Anaheim Kingsmen,Open Class,89.85,1971
+08/14,Guelph,ON,1,Burlington Commanders,Open Class,74.25,1971
+08/14,Scranton,PA,1,New York Skyliners,Open Class,87.1,1971
+08/15,Lindsay,ON,1,Guelph Royalaires,Open Class,70.0,1971
+08/14,Overland Park,KS,2,Vanguard,Open Class,88.75,1971
+08/14,Guelph,ON,2,Guelph Royalaires,Open Class,71.0,1971
+08/14,Scranton,PA,2,Reading Buccaneers,Open Class,85.53,1971
+08/15,Lindsay,ON,2,Kingston Grenadiers,Open Class,60.0,1971
+08/14,Overland Park,KS,3,Troopers,Open Class,87.35,1971
+08/14,Guelph,ON,3,Renegades,Open Class,66.05,1971
+08/14,Scranton,PA,3,Connecticut Hurricanes,Open Class,82.85,1971
+08/15,Lindsay,ON,3,Shoremen,Open Class,55.0,1971
+08/14,Overland Park,KS,4,Blue Stars,Open Class,85.75,1971
+08/14,Guelph,ON,4,Erie Thunderbirds,Open Class,58.9,1971
+08/14,Scranton,PA,4,Rochester Crusaders,Open Class,81.0,1971
+08/15,Lindsay,ON,4,Imperial Knights,Open Class,50.0,1971
+08/14,Overland Park,KS,5,Kilties,Open Class,81.55,1971
+08/14,Guelph,ON,5,Suburban Knights,Open Class,56.6,1971
+08/14,Scranton,PA,5,Hamburg Kingsmen,Open Class,76.3,1971
+08/14,Overland Park,KS,6,Sky Ryders,Open Class,79.85,1971
+08/14,Guelph,ON,6,Patriots,Open Class,55.4,1971
+08/14,Scranton,PA,6,Westshoremen,Open Class,70.45,1971
+08/14,Overland Park,KS,7,St. Paul Scouts,Open Class,77.75,1971
+08/14,Overland Park,KS,8,Racine Scouts,Open Class,76.2,1971
+08/14,Overland Park,KS,9,Stardusters,Open Class,75.4,1971
+08/14,Overland Park,KS,10,Silver Sabers,Open Class,71.8,1971
+08/15,Rockland,MA,1,Sir Thomas More Cadets,Open Class,70.85,1971
+08/15,Springfield,IL,1,Cavaliers,Open Class,82.2,1971
+08/18,Dallas,TX,1,Vanguard,Open Class,91.7,1971
+08/19,Dallas,TX,1,Vanguard,Open Class,89.95,1971
+08/15,Rockland,MA,2,Annunciators,Open Class,62.65,1971
+08/15,Springfield,IL,2,Belleville Black Knights,Open Class,81.55,1971
+08/18,Dallas,TX,2,Blue Rock,Open Class,91.25,1971
+08/19,Dallas,TX,2,Troopers,Open Class,89.0,1971
+08/15,Rockland,MA,3,Jeanettes,Open Class,59.3,1971
+08/15,Springfield,IL,3,Skokie Imperials,Open Class,70.15,1971
+08/18,Dallas,TX,3,Troopers,Open Class,91.1,1971
+08/19,Dallas,TX,3,27th Lancers,Open Class,88.85,1971
+08/15,Springfield,IL,4,Ottawa Imperials,Open Class,55.2,1971
+08/18,Dallas,TX,4,Argonne Rebels,Open Class,90.75,1971
+08/19,Dallas,TX,4,Blue Rock,Open Class,88.2,1971
+08/15,Springfield,IL,5,Viscounts,Open Class,54.05,1971
+08/18,Dallas,TX,5,Anaheim Kingsmen,Open Class,90.2,1971
+08/19,Dallas,TX,5,Anaheim Kingsmen,Open Class,87.75,1971
+08/15,Springfield,IL,6,White Tornados,Open Class,50.6,1971
+08/18,Dallas,TX,6,27th Lancers,Open Class,90.0,1971
+08/19,Dallas,TX,6,Argonne Rebels,Open Class,87.35,1971
+08/15,Springfield,IL,7,Bellettes,Open Class,42.9,1971
+08/18,Dallas,TX,7,Garfield Cadets,Open Class,89.0,1971
+08/19,Dallas,TX,7,Garfield Cadets,Open Class,86.3,1971
+08/15,Springfield,IL,8,Los Amigos,Open Class,40.85,1971
+08/18,Dallas,TX,8,Blue Stars,Open Class,88.95,1971
+08/19,Dallas,TX,8,Boston Crusaders,Open Class,85.85,1971
+08/15,Springfield,IL,9,Capital Chargers,Open Class,38.15,1971
+08/18,Dallas,TX,9,Boston Crusaders,Open Class,88.9,1971
+08/19,Dallas,TX,9,Blue Stars,Open Class,85.25,1971
+08/15,Springfield,IL,10,Falcons,Open Class,34.7,1971
+08/18,Dallas,TX,10,Madison Scouts,Open Class,88.45,1971
+08/19,Dallas,TX,10,Madison Scouts,Open Class,84.85,1971
+08/18,Dallas,TX,11,Belleville Black Knights,Open Class,87.1,1971
+08/19,Dallas,TX,11,St. Paul Scouts,Open Class,77.5,1971
+08/18,Dallas,TX,12,St. Paul Scouts,Open Class,86.55,1971
+08/19,Dallas,TX,12,Belleville Black Knights,Open Class,75.5,1971
+08/18,Dallas,TX,13,Stardusters,Open Class,86.3,1971
+08/18,Dallas,TX,14,Racine Scouts,Open Class,84.2,1971
+08/18,Dallas,TX,15,Sky Ryders,Open Class,82.0,1971
+08/18,Dallas,TX,16,Audobon Bon Bons,Open Class,81.0,1971
+08/18,Dallas,TX,17,Imperials of Pembroke,Open Class,80.65,1971
+08/18,Dallas,TX,18,Kewanee Black Knights,Open Class,79.35,1971
+08/18,Dallas,TX,19,Warriors,Open Class,79.25,1971
+08/18,Dallas,TX,20,Seattle Imperials,Open Class,79.0,1971
+08/18,Dallas,TX,21,Colt .45's,Open Class,78.0,1971
+08/21,Middleboro,MA,1,Sir Thomas More Cadets,Open Class,66.6,1971
+08/21,Hershey,PA,1,Yankee Rebels,Open Class,86.3,1971
+08/21,Hudson,NY,1,Bridgemen,Open Class,71.6,1971
+08/21,Delavan,WI,1,Madison Scouts,Open Class,82.7,1971
+08/21,Middleboro,MA,2,Amvet Brigadiers,Open Class,61.0,1971
+08/21,Hershey,PA,2,Reading Buccaneers,Open Class,85.9,1971
+08/21,Hudson,NY,2,Magnificent Yankees,Open Class,67.15,1971
+08/21,Delavan,WI,2,Cavaliers,Open Class,82.2,1971
+08/21,Middleboro,MA,3,Annunciators,Open Class,55.4,1971
+08/21,Hershey,PA,3,Rochester Crusaders,Open Class,84.3,1971
+08/21,Hudson,NY,3,Shoreliners,Open Class,66.7,1971
+08/21,Delavan,WI,3,St. Paul Scouts,Open Class,76.5,1971
+08/21,Hershey,PA,4,Sunrisers,Open Class,70.3,1971
+08/21,Hudson,NY,4,Appleknockers,Open Class,65.5,1971
+08/21,Delavan,WI,4,Des Plaines Vanguard,Open Class,76.1,1971
+08/21,Hershey,PA,5,Westshoremen,Open Class,70.2,1971
+08/21,Hudson,NY,5,Poughkeepsie Pacers,Open Class,60.85,1971
+08/21,Delavan,WI,5,Kilties,Open Class,74.5,1971
+08/21,Hershey,PA,6,Rockets,Open Class,67.65,1971
+08/21,Delavan,WI,6,Thunderbolts,Open Class,69.4,1971
+08/21,Delavan,WI,7,Marion Cadets,Open Class,68.8,1971
+08/21,Sarnia,ON,1,Dutch Boy Cadets,Open Class,55.5,1971
+08/21,Sarnia,ON,1,St. John's Girls,Open Class,71.7,1971
+08/22,Bridgeport,CT,1,New York Skyliners,Open Class,88.7,1971
+08/22,Ashburnham,MA,1,Sir Thomas More Cadets,Open Class,70.4,1971
+08/21,Sarnia,ON,2,Optimist Cadets,Open Class,53.75,1971
+08/21,Sarnia,ON,2,Marching Angels,Open Class,65.0,1971
+08/22,Bridgeport,CT,2,Yankee Rebels,Open Class,86.5,1971
+08/22,Ashburnham,MA,2,IC Rockettes,Open Class,65.4,1971
+08/21,Sarnia,ON,3,Sparkles,Open Class,48.0,1971
+08/21,Sarnia,ON,3,Collegettes,Open Class,41.2,1971
+08/22,Bridgeport,CT,3,Connecticut Hurricanes,Open Class,85.8,1971
+08/22,Ashburnham,MA,3,Socialites,Open Class,61.75,1971
+08/22,Bridgeport,CT,4,Reading Buccaneers,Open Class,84.95,1971
+08/21,Sarnia,ON,1,Opti-Knights,Open Class,65.2,1971
+08/21,Sarnia,ON,1,Firefighters,Open Class,72.65,1971
+08/22,Bridgeport,CT,5,Les Diplomats,Open Class,80.05,1971
+08/21,Sarnia,ON,2,Etobicoke Crusaders,Open Class,64.05,1971
+08/22,Bridgeport,CT,6,Sunrisers,Open Class,76.9,1971
+08/21,Sarnia,ON,3,Marching Diplomats,Open Class,61.3,1971
+08/21,Sarnia,ON,1,Opti-Knights,Open Class,70.65,1971
+08/22,Bridgeport,CT,7,Syracuse Brigadiers,Open Class,75.1,1971
+08/21,Sarnia,ON,4,Flying Dutchmen,Open Class,59.3,1971
+08/21,Sarnia,ON,2,Etobicoke Crusaders,Open Class,66.9,1971
+08/22,Bridgeport,CT,8,Westshoremen,Open Class,68.0,1971
+08/21,Sarnia,ON,5,Golden Lions,Open Class,44.0,1971
+08/21,Sarnia,ON,3,Marching Diplomats,Open Class,65.1,1971
+08/22,Bridgeport,CT,9,Connecticut Yankees,Open Class,62.8,1971
+08/21,Sarnia,ON,6,Kinsmen Krescendos,Open Class,43.8,1971
+08/21,Sarnia,ON,4,Flying Dutchmen,Open Class,62.8,1971
+08/22,Bridgeport,CT,10,Boston Renegades,Open Class,62.05,1971
+08/21,Sarnia,ON,1,Cardinals of Precious Blood,Open Class,60.975,1971
+08/21,Sarnia,ON,1,Burlington Commanders,Open Class,73.75,1971
+08/21,Sarnia,ON,2,Hanover Girls,Open Class,52.4,1971
+08/21,Sarnia,ON,2,Guelph Royalaires,Open Class,70.8,1971
+08/21,Sarnia,ON,1,Bobcaygeon Villagaires,Open Class,38.166,1971
+08/21,Sarnia,ON,2,Optimist Lancers,Open Class,34.733,1971
+08/21,Sarnia,ON,1,Leamington Townsmen,Open Class,54.233,1971
+08/21,Sarnia,ON,1,Durham Girls,Open Class,55.666,1971
+08/21,Sarnia,ON,1,Sudbury Imperial Knights,Open Class,51.95,1971
+08/21,Sarnia,ON,2,Kingston Grenadiers,Open Class,2.0,1971
+08/22,Windber,PA,1,Blue Rock,Open Class,83.6,1971
+08/28,Erie,PA,1,Rockets,Open Class,71.65,1971
+08/28,Liverpool,NY,1,Squires,Open Class,65.95,1971
+08/28,Liverpool,NY,1,Squires,Open Class,67.4,1971
+08/22,Windber,PA,2,DeLaSalle Oaklands,Open Class,79.1,1971
+08/28,Erie,PA,2,Commanders,Open Class,69.65,1971
+08/28,Liverpool,NY,2,Manchester Black Knights,Open Class,58.58,1971
+08/28,Liverpool,NY,2,Cadets of Greece,Open Class,47.0,1971
+08/22,Windber,PA,3,St. Joseph's of Batavia,Open Class,76.0,1971
+08/28,Erie,PA,3,Guelph Royalaires,Open Class,69.0,1971
+08/28,Liverpool,NY,3,Barons of Steuben,Open Class,57.05,1971
+08/28,Liverpool,NY,3,Barons of Steuben,Open Class,46.95,1971
+08/22,Windber,PA,4,Audobon Bon Bons,Open Class,73.4,1971
+08/28,Erie,PA,4,Matadors,Open Class,59.45,1971
+08/28,Liverpool,NY,4,Gauchos,Open Class,56.24,1971
+08/28,Liverpool,NY,4,Manchester Black Knights,Open Class,42.6,1971
+08/22,Windber,PA,5,Royal Crusaders,Open Class,53.0,1971
+08/28,Erie,PA,5,Emmaus Sentinels,Open Class,51.7,1971
+08/28,Liverpool,NY,5,Cadets of Greece,Open Class,55.29,1971
+08/28,Liverpool,NY,5,Gauchos,Open Class,39.9,1971
+08/22,Windber,PA,6,Catholic Daughters,Open Class,39.5,1971
+08/28,Erie,PA,6,Suburban Knights,Open Class,50.8,1971
+08/28,Liverpool,NY,6,Montrose Ascots,Open Class,45.95,1971
+08/28,Liverpool,NY,6,Montrose Ascots,Open Class,35.65,1971
+08/28,Erie,PA,7,Erie Thunderbirds,Open Class,47.45,1971
+08/28,Liverpool,NY,7,Alpine Girls,Open Class,41.7,1971
+08/28,Erie,PA,8,Gardners Guards,Open Class,47.1,1971
+08/28,Liverpool,NY,8,Canastota Saints,Open Class,35.56,1971
+08/28,Erie,PA,9,Patriots,Open Class,45.2,1971
+08/28,Liverpool,NY,9,Roethals Executives,Open Class,23.95,1971
+08/28,Erie,PA,10,Freestatesmen,Open Class,43.2,1971
+08/28,Erie,PA,11,Hanover Lancers,Open Class,39.8,1971
+08/29,Houston,TX,1,Argonne Rebels,Open Class,84.1,1971
+08/29,Houston,TX,1,Argonne Rebels,Open Class,83.0,1971
+08/29,Schenectady,NY,1,New York Skyliners,Open Class,88.3,1971
+08/29,Houston,TX,2,Cavaliers,Open Class,83.8,1971
+08/29,Houston,TX,2,Cavaliers,Open Class,79.95,1971
+08/29,Schenectady,NY,2,Connecticut Hurricanes,Open Class,87.55,1971
+08/29,Houston,TX,3,Stardusters,Open Class,81.3,1971
+08/29,Houston,TX,3,Stardusters,Open Class,76.65,1971
+08/29,Schenectady,NY,3,Rochester Crusaders,Open Class,83.75,1971
+08/29,Houston,TX,4,Muchachos,Open Class,80.55,1971
+08/29,Houston,TX,4,Muchachos,Open Class,74.3,1971
+08/29,Schenectady,NY,4,Sunrisers,Open Class,75.25,1971
+08/29,Houston,TX,5,Belleville Black Knights,Open Class,76.35,1971
+08/29,Houston,TX,5,Belleville Black Knights,Open Class,67.75,1971
+08/29,Schenectady,NY,5,Hamburg Kingsmen,Open Class,73.8,1971
+08/29,Houston,TX,6,Royales,Open Class,70.35,1971
+08/29,Houston,TX,6,Diplomats,Open Class,58.8,1971
+08/29,Houston,TX,7,Diplomats,Open Class,68.9,1971
+08/29,Houston,TX,7,Royales,Open Class,55.25,1971
+08/29,Houston,TX,8,Charioteers,Open Class,59.25,1971
+08/29,Houston,TX,8,Northernaires,Open Class,43.3,1971
+08/29,Houston,TX,9,Northernaires,Open Class,58.7,1971
+08/29,Houston,TX,9,Miami Vanguard,Open Class,39.85,1971
+08/29,Houston,TX,10,Miami Vanguard,Open Class,56.45,1971
+08/29,Houston,TX,11,Golden Statesmen,Open Class,47.9,1971
+08/29,Houston,TX,1,Yankee Rebels,Open Class,83.35,1971
+08/29,Houston,TX,2,Hawthorne Caballeros,Open Class,81.2,1971
+08/29,Houston,TX,3,Legion of Brass,Open Class,41.25,1971
+09/03,Auburn,NY,1,St. Joseph's of Batavia,World Class,74.5,1971
+09/04,Corning,NY,1,Squires,World Class,72.3,1971
+09/04,Sayre,PA,1,St. Joseph's of Batavia,World Class,81.9,1971
+09/05,Manhoy City,PA,1,Audobon Bon Bons,World Class,82.9,1971
+09/03,Auburn,NY,2,Appleknockers,World Class,69.8,1971
+09/04,Corning,NY,2,Belvederes,World Class,71.95,1971
+09/04,Sayre,PA,2,Appleknockers,World Class,75.3,1971
+09/05,Manhoy City,PA,2,Chessmen,World Class,80.7,1971
+09/03,Auburn,NY,3,Syracuse Marauders,World Class,67.8,1971
+09/04,Corning,NY,3,Cadets of Greece,World Class,56.2,1971
+09/04,Sayre,PA,3,White Knights,World Class,69.95,1971
+09/05,Manhoy City,PA,3,Belvederes,World Class,74.0,1971
+09/03,Auburn,NY,4,Squires,World Class,62.85,1971
+09/04,Corning,NY,4,Montrose Ascots,World Class,45.95,1971
+09/04,Sayre,PA,4,Squires,World Class,69.05,1971
+09/05,Manhoy City,PA,4,York White Roses,World Class,55.5,1971
+09/03,Auburn,NY,5,Mello-Dears,World Class,60.7,1971
+09/04,Corning,NY,5,Alpine Girls,World Class,36.2,1971
+09/04,Sayre,PA,5,Shoreliners,World Class,66.2,1971
+09/05,Rochester,NY,1,New York Skyliners,Open Class,91.4,1971
+09/05,Rochester,NY,1,New York Skyliners,Open Class,91.5,1971
+09/05,Rochester,NY,2,Hawthorne Caballeros,Open Class,89.78,1971
+09/05,Rochester,NY,2,Yankee Rebels,Open Class,90.73,1971
+09/05,Rochester,NY,3,Yankee Rebels,Open Class,89.28,1971
+09/05,Rochester,NY,3,Hawthorne Caballeros,Open Class,90.63,1971
+09/05,Rochester,NY,4,Connecticut Hurricanes,Open Class,88.65,1971
+09/05,Rochester,NY,4,Connecticut Hurricanes,Open Class,87.93,1971
+09/05,Rochester,NY,5,Reading Buccaneers,Open Class,88.55,1971
+09/05,Rochester,NY,5,Rochester Crusaders,Open Class,86.8,1971
+09/05,Rochester,NY,6,Rochester Crusaders,Open Class,87.25,1971
+09/05,Rochester,NY,6,Reading Buccaneers,Open Class,86.43,1971
+09/05,Rochester,NY,7,Les Diplomats,Open Class,85.38,1971
+09/05,Rochester,NY,7,Les Diplomats,Open Class,83.6,1971
+09/05,Rochester,NY,8,Hamburg Kingsmen,Open Class,81.98,1971
+09/05,Rochester,NY,8,Sunrisers,Open Class,79.55,1971
+09/05,Rochester,NY,9,Sunrisers,Open Class,81.28,1971
+09/05,Rochester,NY,9,Hamburg Kingsmen,Open Class,79.38,1971
+09/05,Rochester,NY,10,Syracuse Brigadiers,Open Class,81.0,1971
+09/05,Rochester,NY,10,Syracuse Brigadiers,Open Class,77.55,1971
+09/05,Rochester,NY,11,Canadian Ambassadors,Open Class,74.28,1971
+09/05,Rochester,NY,12,Rockets,Open Class,73.8,1971
+09/05,Rochester,NY,13,Royalaires,Open Class,72.4,1971
+09/05,Rochester,NY,14,Boston Renegades,Open Class,71.8,1971
+09/05,Rochester,NY,15,Westshoremen,Open Class,71.78,1971
+09/05,Rochester,NY,16,Boys of '76,Open Class,71.3,1971
+09/05,Rochester,NY,17,Connecticut Yankees,Open Class,67.95,1971
+09/05,Guelph,ON,1,Opti-Knights,Open Class,76.35,1971
+09/06,Zion,IL,1,Cavaliers,Open Class,82.75,1971
+09/06,Whitewater,WI,1,Blue Stars,Open Class,83.5,1971
+09/11,Somerville,MA,1,Sir Thomas More Cadets,Open Class,73.25,1971
+09/05,Guelph,ON,2,Squires,Open Class,73.75,1971
+09/06,Zion,IL,2,Guardsmen,Open Class,71.0,1971
+09/06,Whitewater,WI,2,Cavaliers,Open Class,80.45,1971
+09/11,Somerville,MA,2,Jeanettes,Open Class,62.6,1971
+09/05,Guelph,ON,3,Flying Dutchmen,Open Class,68.4,1971
+09/06,Zion,IL,3,Nisei Ambassadors,Open Class,70.4,1971
+09/06,Whitewater,WI,3,Madison Scouts,Open Class,80.05,1971
+09/11,Somerville,MA,3,Annunciators,Open Class,60.0,1971
+09/05,Guelph,ON,4,Etobicoke Crusaders,Open Class,67.8,1971
+09/06,Zion,IL,4,Ottawa Crusaders,Open Class,54.75,1971
+09/06,Whitewater,WI,4,Racine Scouts,Open Class,71.0,1971
+09/05,Guelph,ON,4,Marching Diplomats,Open Class,67.8,1971
+09/06,Zion,IL,5,White Tornados,Open Class,49.05,1971
+09/06,Whitewater,WI,5,Thunderbolts,Open Class,68.65,1971
+09/05,Guelph,ON,6,Marching Angels,Open Class,56.5,1971
+09/06,Whitewater,WI,6,Colt .45's,Open Class,68.5,1971
+09/05,Guelph,ON,7,Golden Lancers,Open Class,52.75,1971
+09/05,Guelph,ON,8,Kinsmen Krescendos,Open Class,50.25,1971
+09/11,Ottawa,ON,1,Opti-Knights,Open Class,67.28,1971
+09/11,Ottawa,ON,1,Cadets LaSalle,Open Class,78.625,1971
+09/11,Johnstown,NY,1,27th Lancers,Open Class,84.25,1971
+09/12,Hellertown,PA,1,Chessmen,Open Class,74.85,1971
+09/11,Ottawa,ON,2,Les Ambassadeurs,Open Class,65.2,1971
+09/11,Ottawa,ON,2,Firefighters,Open Class,67.8,1971
+09/11,Johnstown,NY,2,Purple Lancers,Open Class,72.7,1971
+09/12,Hellertown,PA,2,Young Americans,Open Class,72.0,1971
+09/11,Ottawa,ON,3,Etobicoke Crusaders,Open Class,64.95,1971
+09/11,Johnstown,NY,3,Shoreliners,Open Class,72.3,1971
+09/12,Hellertown,PA,3,White Knights,Open Class,71.65,1971
+09/11,Ottawa,ON,4,Marching Saints,Open Class,60.15,1971
+09/11,Ottawa,ON,1,Opti-Knights,Open Class,70.95,1971
+09/11,Johnstown,NY,4,Squires,Open Class,62.95,1971
+09/12,Hellertown,PA,4,Belvederes,Open Class,69.8,1971
+09/11,Ottawa,ON,5,Flying Dutchmen,Open Class,56.73,1971
+09/11,Ottawa,ON,2,Les Ambassadeurs,Open Class,67.85,1971
+09/11,Johnstown,NY,5,Valley Airs,Open Class,42.65,1971
+09/12,Hellertown,PA,5,Sacred Heart Crusaders,Open Class,68.05,1971
+09/11,Ottawa,ON,6,4th Brigade,Open Class,55.2,1971
+09/11,Ottawa,ON,3,Etobicoke Crusaders,Open Class,64.9,1971
+09/12,Hellertown,PA,6,Royleer Mounties,Open Class,64.0,1971
+09/11,Ottawa,ON,7,Kinsmen Krescendos,Open Class,50.22,1971
+09/11,Ottawa,ON,4,Marching Saints,Open Class,61.75,1971
+09/12,Hellertown,PA,7,507 Hornets,Open Class,57.75,1971
+09/11,Ottawa,ON,8,OYB Lampliters,Open Class,50.1,1971
+09/12,Hellertown,PA,8,Earls of Buck,Open Class,50.0,1971
+09/11,Ottawa,ON,1,St. John's Girls,Open Class,73.15,1971
+09/12,Hellertown,PA,9,Skylarks,Open Class,46.65,1971
+09/11,Ottawa,ON,1,Dutch Boy Cadets,Open Class,51.2,1971
+09/11,Ottawa,ON,2,Les Chatelaines,Open Class,70.05,1971
+09/12,Hellertown,PA,10,Magnolia Lancers,Open Class,46.3,1971
+09/11,Ottawa,ON,2,Optimist Cadets,Open Class,41.5,1971
+09/11,Ottawa,ON,3,Les Laurentiennes,Open Class,61.5,1971
+09/12,Hellertown,PA,11,Shadettes,Open Class,39.55,1971
+09/11,Ottawa,ON,4,Les Souveraines,Open Class,59.87,1971
+09/11,Ottawa,ON,1,Durham Girls,Open Class,63.9,1971
+09/11,Ottawa,ON,2,Cardinals of Precious Blood,Open Class,51.65,1971
+09/11,Ottawa,ON,1,Burlington Commanders,Open Class,70.675,1971
+09/11,Ottawa,ON,3,Hanover Girls,Open Class,45.67,1971
+09/11,Ottawa,ON,4,Revelliers,Open Class,37.1,1971
+09/11,Ottawa,ON,1,Sudbury Imperial Knights,Open Class,62.275,1971
+09/11,Ottawa,ON,2,Kingston Grenadiers,Open Class,60.525,1971
+09/11,Ottawa,ON,1,Leamington Townsmen,Open Class,63.2,1971
+09/11,Ottawa,ON,2,Bobcaygeon Villagaires,Open Class,58.6,1971
+09/11,Ottawa,ON,1,Les Mariners,Open Class,61.55,1971
+09/11,Ottawa,ON,2,Les Imperatrices,Open Class,51.65,1971
+09/18,Ottawa,ON,1,Polish Falcon Cadets,Open Class,78.95,1971
+09/19,Ottawa,ON,1,Amvet Brigadiers,Open Class,68.1,1971
+09/18,Ottawa,ON,2,Riversiders,Open Class,73.95,1971
+09/19,Ottawa,ON,2,Sir Thomas More Cadets,Open Class,64.0,1971
+09/18,Ottawa,ON,3,Valley Grenadiers,Open Class,69.45,1971
+09/19,Ottawa,ON,3,Socialites,Open Class,63.93,1971
+09/18,Ottawa,ON,4,Imperial Guardsmen,Open Class,67.85,1971
+09/18,Ottawa,ON,5,Royales,Open Class,66.25,1971
+09/18,Ottawa,ON,6,Monarchs,Open Class,64.15,1971
+09/18,Ottawa,ON,7,Philadelphia PAL,Open Class,62.05,1971
+09/18,Ottawa,ON,8,Dukes of Marlboro,Open Class,60.55,1971
+09/18,Ottawa,ON,9,Epochs,Open Class,55.3,1971
+09/18,Ottawa,ON,10,Patriots,Open Class,52.7,1971
+09/18,Ottawa,ON,11,Saints,Open Class,51.3,1971
+09/18,Ottawa,ON,12,Silver Lancers,Open Class,47.75,1971
+09/18,Ottawa,ON,13,Meadowlarks,Open Class,43.4,1971
+09/18,Ottawa,ON,14,Defenders,Open Class,41.8,1971
+09/18,Ottawa,ON,15,Horizons,Open Class,41.5,1971
+09/18,Ottawa,ON,16,Townsmen,Open Class,40.15,1971

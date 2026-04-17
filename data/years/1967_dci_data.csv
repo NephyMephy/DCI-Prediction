@@ -1,0 +1,223 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/03,New Haven,CT,1,New York Skyliners,World Class,76.45,1967
+06/03,Hamilton,Ontario,1,Reading Buccaneers,World Class,86.683,1967
+06/10,Stratford,CT,1,Connecticut Hurricanes,World Class,79.883,1967
+06/10,Herkimer,NY,1,Reading Buccaneers,World Class,82.2,1967
+06/03,New Haven,CT,2,Sunrisers,World Class,73.18,1967
+06/03,Hamilton,Ontario,2,Rochester Crusaders,World Class,81.916,1967
+06/10,Stratford,CT,2,Hawthorne Caballeros,World Class,79.25,1967
+06/10,Herkimer,NY,2,New York Skyliners,World Class,80.1,1967
+06/03,New Haven,CT,3,Yankee Rebels,World Class,71.95,1967
+06/03,Hamilton,Ontario,3,Syracuse Brigadiers,World Class,81.633,1967
+06/10,Stratford,CT,3,Sunrisers,World Class,73.333,1967
+06/10,Herkimer,NY,3,Syracuse Brigadiers,World Class,79.2,1967
+06/03,New Haven,CT,4,Archer Epler Musketeers,World Class,69.0,1967
+06/03,Hamilton,Ontario,4,Hamburg Kingsmen,World Class,73.566,1967
+06/10,Stratford,CT,4,Yankee Rebels,World Class,72.866,1967
+06/10,Herkimer,NY,4,Rochester Crusaders,World Class,77.35,1967
+06/03,New Haven,CT,5,Connecticut Yankees,World Class,68.81,1967
+06/03,Hamilton,Ontario,5,Les Diplomats,World Class,72.58,1967
+06/10,Stratford,CT,5,Marksmen,World Class,58.433,1967
+06/10,Herkimer,NY,5,Canadian Commanders,World Class,76.35,1967
+06/10,Herkimer,NY,6,Les Diplomats,World Class,74.91,1967
+06/10,Stratford,CT,1,Connecticut Hurricanes,World Class,79.883,1967
+06/14,Boston,MA,1,Connecticut Hurricanes,World Class,80.45,1967
+06/17,Irwin,PA,1,Rockets,World Class,77.6,1967
+06/17,Hershey,PA,1,Reading Buccaneers,World Class,84.6,1967
+06/10,Stratford,CT,2,Hawthorne Caballeros,World Class,79.25,1967
+06/14,Boston,MA,2,Reading Buccaneers,World Class,78.18,1967
+06/17,Irwin,PA,2,Hamburg Kingsmen,World Class,73.983,1967
+06/17,Hershey,PA,2,New York Skyliners,World Class,82.35,1967
+06/10,Stratford,CT,3,Sunrisers,World Class,73.333,1967
+06/14,Boston,MA,3,Hawthorne Caballeros,World Class,77.3,1967
+06/17,Irwin,PA,3,Interstate Ambassadors,World Class,64.4,1967
+06/17,Hershey,PA,3,Syracuse Brigadiers,World Class,78.88,1967
+06/10,Stratford,CT,4,Yankee Rebels,World Class,72.866,1967
+06/14,Boston,MA,4,Sunrisers,World Class,74.81,1967
+06/17,Irwin,PA,4,Erie Thunderbirds,World Class,58.3,1967
+06/17,Hershey,PA,4,Yankee Rebels,World Class,77.51,1967
+06/10,Stratford,CT,5,Marksmen,World Class,58.433,1967
+06/14,Boston,MA,5,Syracuse Brigadiers,World Class,72.51,1967
+06/17,Hershey,PA,5,Westshoremen,World Class,71.86,1967
+06/14,Boston,MA,6,Grey Knight Crusaders,World Class,72.1,1967
+06/14,Boston,MA,7,Archer Epler Musketeers,World Class,63.83,1967
+06/24,Chambersburg,PA,1,New York Skyliners,World Class,82.76,1967
+06/24,Boston,MA,1,Connecticut Hurricanes,World Class,80.45,1967
+06/24,Chambersburg,PA,2,Yankee Rebels,World Class,79.81,1967
+06/24,Boston,MA,2,Reading Buccaneers,World Class,78.18,1967
+06/24,Chambersburg,PA,3,Westshoremen,World Class,74.61,1967
+06/24,Boston,MA,3,Hawthorne Caballeros,World Class,77.3,1967
+06/24,Chambersburg,PA,4,Rockets,World Class,73.6,1967
+06/24,Boston,MA,4,Sunrisers,World Class,74.8,1967
+06/24,Boston,MA,5,Syracuse Brigadiers,World Class,72.51,1967
+06/24,Boston,MA,6,Rochester Crusaders,World Class,72.1,1967
+06/24,Boston,MA,7,Westshoremen,World Class,63.83,1967
+07/01,Bridgeport,CT,1,Connecticut Hurricanes,World Class,76.45,1967
+07/01,Oswego,NY,1,Syracuse Brigadiers,World Class,82.17,1967
+07/02,Rome,NY,1,Syracuse Brigadiers,World Class,85.79,1967
+07/08,Paterson,NJ,1,Connecticut Hurricanes,World Class,80.27,1967
+07/01,Bridgeport,CT,2,Reading Buccaneers,World Class,73.18,1967
+07/01,Oswego,NY,2,Rochester Crusaders,World Class,81.35,1967
+07/02,Rome,NY,2,Rochester Crusaders,World Class,85.37,1967
+07/08,Paterson,NJ,2,Reading Buccaneers,World Class,79.83,1967
+07/01,Bridgeport,CT,3,New York Skyliners,World Class,71.95,1967
+07/01,Oswego,NY,3,Canadian Commanders,World Class,76.68,1967
+07/02,Rome,NY,3,Les Diplomates,World Class,81.0,1967
+07/08,Paterson,NJ,3,New York Skyliners,World Class,76.68,1967
+07/01,Bridgeport,CT,4,Yankee Rebels,World Class,69.0,1967
+07/01,Oswego,NY,4,Westshoremen,World Class,76.0,1967
+07/02,Rome,NY,4,Connecticut Yankees,World Class,75.0,1967
+07/08,Paterson,NJ,4,Yankee Rebels,World Class,76.1,1967
+07/01,Bridgeport,CT,5,Sunrisers,World Class,68.81,1967
+07/01,Oswego,NY,5,Marksmen,World Class,72.96,1967
+07/02,Rome,NY,5,Marksmen,World Class,73.0,1967
+07/08,Paterson,NJ,5,Sunrisers,World Class,75.95,1967
+07/08,Hershey,PA,1,Rockets,World Class,79.883,1967
+07/08,Syracuse,NY,1,Rochester Crusaders,World Class,82.36,1967
+07/14,McKee's Rock,PA,1,Rockets,World Class,80.117,1967
+07/15,Baltimore,MD,1,Connecticut Hurricanes,World Class,83.7,1967
+07/08,Hershey,PA,2,Marksmen,World Class,79.25,1967
+07/08,Syracuse,NY,2,Canadian Commanders,World Class,77.3,1967
+07/14,McKee's Rock,PA,2,Esquires,World Class,73.117,1967
+07/15,Baltimore,MD,2,Reading Buccaneers,World Class,82.26,1967
+07/08,Hershey,PA,3,Westshoremen,World Class,73.333,1967
+07/08,Syracuse,NY,3,Les Diplomats,World Class,75.9,1967
+07/14,McKee's Rock,PA,3,Monarchs,World Class,70.7,1967
+07/15,Baltimore,MD,3,Hawthorne Caballeros,World Class,79.83,1967
+07/08,Hershey,PA,4,Reilly Raiders,World Class,72.866,1967
+07/08,Syracuse,NY,4,Connecticut Yankees,World Class,70.68,1967
+07/14,McKee's Rock,PA,4,Erie Thunderbirds,World Class,68.75,1967
+07/15,Baltimore,MD,4,New York Skyliners,World Class,78.96,1967
+07/08,Hershey,PA,5,Hanover Lancers,World Class,58.433,1967
+07/08,Syracuse,NY,5,Archer Epler Musketeers,World Class,69.86,1967
+07/14,McKee's Rock,PA,5,Shoreliners,World Class,59.15,1967
+07/15,Baltimore,MD,5,Sunrisers,World Class,77.05,1967
+07/15,Baltimore,MD,6,Westshoremen,World Class,70.15,1967
+07/13,Rochester,NY,1,Rochester Crusaders,World Class,79.76,1967
+07/21,North Braddock,PA,1,Rockets,World Class,81.25,1967
+07/22,Reading,PA,1,Connecticut Hurricanes,World Class,86.67,1967
+07/22,Rome,NY,1,Syracuse Brigadiers,World Class,81.91,1967
+07/13,Rochester,NY,2,Syracuse Brigadiers,World Class,78.56,1967
+07/21,North Braddock,PA,2,Reilly Raiders,World Class,72.98,1967
+07/22,Reading,PA,2,New York Skyliners,World Class,86.46,1967
+07/22,Rome,NY,2,Rochester Crusaders,World Class,76.51,1967
+07/13,Rochester,NY,3,Canadian Commanders,World Class,76.56,1967
+07/21,North Braddock,PA,3,Esquires,World Class,72.56,1967
+07/22,Reading,PA,3,Hawthorne Caballeros,World Class,82.97,1967
+07/22,Rome,NY,3,Les Diplomats,World Class,72.61,1967
+07/13,Rochester,NY,4,Hamburg Kingsmen,World Class,73.18,1967
+07/22,Reading,PA,4,Yankee Rebels,World Class,82.47,1967
+07/22,Rome,NY,4,Connecticut Yankees,World Class,70.9,1967
+07/13,Rochester,NY,5,Albion Grenadiers,World Class,64.05,1967
+07/22,Reading,PA,5,Westshoremen,World Class,75.8,1967
+07/22,Rome,NY,5,Marksmen,World Class,64.11,1967
+07/22,Uniontown,PA,1,Rockets,World Class,77.9,1967
+07/29,Buffalo,NY,1,Syracuse Brigadiers,World Class,85.23,1967
+07/29,Scranton,PA,1,Reading Buccaneers,World Class,83.65,1967
+07/22,Uniontown,PA,2,Esquires,World Class,70.65,1967
+07/29,Buffalo,NY,2,Rochester Crusaders,World Class,84.81,1967
+07/29,Scranton,PA,2,New York Skyliners,World Class,80.16,1967
+07/22,Uniontown,PA,3,Reilly Raiders,World Class,69.183,1967
+07/29,Buffalo,NY,3,Sunrisers,World Class,82.83,1967
+07/29,Scranton,PA,3,Rockets,World Class,73.76,1967
+07/22,Uniontown,PA,4,Sentinels,World Class,67.667,1967
+07/29,Buffalo,NY,4,Hamburg Kingsmen,World Class,75.656,1967
+07/29,Scranton,PA,4,Archer Epler Musketeers,World Class,71.45,1967
+07/29,Buffalo,NY,5,Interstate Ambassadors,World Class,64.05,1967
+07/29,Scranton,PA,5,Les Diplomats,World Class,70.21,1967
+08/05,Waverly,NY,1,Reading Buccaneers,World Class,82.25,1967
+08/05,Meadville,PA,1,Rockets,World Class,77.617,1967
+08/12,Lewisburg,PA,1,Reading Buccaneers,World Class,86.01,1967
+08/13,Jersey City,NJ,1,Connecticut Hurricanes,World Class,82.583,1967
+08/05,Waverly,NY,2,Connecticut Hurricanes,World Class,81.55,1967
+08/05,Meadville,PA,2,Esquires,World Class,72.417,1967
+08/12,Lewisburg,PA,2,Rochester Crusaders,World Class,81.7,1967
+08/13,Jersey City,NJ,2,Reading Buccaneers,World Class,82.566,1967
+08/05,Waverly,NY,3,Rochester Crusaders,World Class,79.633,1967
+08/05,Meadville,PA,3,Interstate Ambassadors,World Class,68.2,1967
+08/12,Lewisburg,PA,3,Hawthorne Caballeros,World Class,81.65,1967
+08/13,Jersey City,NJ,3,Hawthorne Caballeros,World Class,81.8,1967
+08/05,Waverly,NY,4,New York Skyliners,World Class,78.066,1967
+08/05,Meadville,PA,4,Alleghany Monarchs,World Class,64.9,1967
+08/12,Lewisburg,PA,4,Sunrisers,World Class,80.81,1967
+08/13,Jersey City,NJ,4,New York Skyliners,World Class,79.616,1967
+08/05,Waverly,NY,5,Archer Epler Musketeers,World Class,66.65,1967
+08/12,Lewisburg,PA,5,Rockets,World Class,79.94,1967
+08/13,Jersey City,NJ,5,Sunrisers,World Class,77.55,1967
+08/12,Lewisburg,PA,6,Reiley Raiders,World Class,72.21,1967
+08/19,Jersey City,NJ,1,Connecticut Hurricanes,World Class,82.583,1967
+08/19,Syracuse,NY,1,Reading Buccaneers,World Class,84.216,1967
+08/20,New York,NY,1,New York Skyliners,World Class,84.65,1967
+08/26,Syracuse,NY,1,Reading Buccaneers,World Class,84.23,1967
+08/19,Jersey City,NJ,2,Reading Buccaneers,World Class,82.566,1967
+08/19,Syracuse,NY,2,Connecticut Hurricanes,World Class,81.583,1967
+08/20,New York,NY,2,Sunrisers,World Class,83.6,1967
+08/26,Syracuse,NY,2,Connecticut Hurricanes,World Class,81.58,1967
+08/19,Jersey City,NJ,3,Hawthorne Caballeros,World Class,81.8,1967
+08/19,Syracuse,NY,3,Rochester Crusaders,World Class,78.416,1967
+08/20,New York,NY,3,Archer Epler Musketeers,World Class,72.62,1967
+08/26,Syracuse,NY,3,Rochester Crusaders,World Class,78.42,1967
+08/19,Jersey City,NJ,4,New York Skyliners,World Class,79.616,1967
+08/19,Syracuse,NY,4,New York Skyliners,World Class,78.033,1967
+08/20,New York,NY,4,Reiley Raiders,World Class,62.16,1967
+08/26,Syracuse,NY,4,New York Skyliners,World Class,78.03,1967
+08/19,Jersey City,NJ,5,Sunrisers,World Class,77.55,1967
+08/19,Syracuse,NY,5,Sunrisers,World Class,73.35,1967
+08/26,Syracuse,NY,5,Sunrisers,World Class,73.35,1967
+08/19,Syracuse,NY,6,Canadian Commanders,World Class,73.3,1967
+08/26,Syracuse,NY,6,Canadian Commanders,World Class,73.3,1967
+08/27,Boston,MA,1,Connecticut Hurricanes,World Class,81.716,1967
+08/27,Boston,MA,1,Connecticut Hurricanes,World Class,85.583,1967
+08/27,Boston,MA,2,Hawthorne Caballeros,World Class,80.216,1967
+08/27,Boston,MA,2,Hawthorne Caballeros,World Class,83.8,1967
+08/27,Boston,MA,3,Reading Buccaneers,World Class,80.05,1967
+08/27,Boston,MA,3,Reading Buccaneers,World Class,82.083,1967
+08/27,Boston,MA,4,Sunrisers,World Class,78.333,1967
+08/27,Boston,MA,4,New York Skyliners,World Class,81.633,1967
+08/27,Boston,MA,5,Syracuse Brigadiers,World Class,77.763,1967
+08/27,Boston,MA,5,Sunrisers,World Class,79.733,1967
+08/27,Boston,MA,6,New York Skyliners,World Class,77.33,1967
+08/27,Boston,MA,6,Syracuse Brigadiers,World Class,77.883,1967
+08/27,Boston,MA,7,Yankee Rebels,World Class,76.783,1967
+08/27,Boston,MA,7,Rochester Crusaders,World Class,77.5,1967
+08/27,Boston,MA,8,Rochester Crusaders,World Class,75.85,1967
+08/27,Boston,MA,8,Archer Epler Musketeers,World Class,76.883,1967
+08/27,Boston,MA,9,Archer Epler Musketeers,World Class,69.053,1967
+08/27,Boston,MA,9,Yankee Rebels,World Class,68.3,1967
+08/27,Boston,MA,10,Westshoremen,World Class,68.833,1967
+09/03,Bridgeport,CT,1,Connecticut Hurricanes,World Class,81.716,1967
+09/03,Bridgeport,CT,1,Connecticut Hurricanes,World Class,85.583,1967
+09/03,Bridgeport,CT,2,Hawthorne Caballeros,World Class,80.216,1967
+09/03,Bridgeport,CT,2,Hawthorne Caballeros,World Class,83.8,1967
+09/03,Bridgeport,CT,3,Reading Buccaneers,World Class,80.05,1967
+09/03,Bridgeport,CT,3,Reading Buccaneers,World Class,82.083,1967
+09/03,Bridgeport,CT,4,Sunrisers,World Class,78.333,1967
+09/03,Bridgeport,CT,4,New York Skyliners,World Class,81.633,1967
+09/03,Bridgeport,CT,5,Syracuse Brigadiers,World Class,77.763,1967
+09/03,Bridgeport,CT,5,Sunrisers,World Class,79.733,1967
+09/03,Bridgeport,CT,6,New York Skyliners,World Class,77.33,1967
+09/03,Bridgeport,CT,6,Syracuse Brigadiers,World Class,77.833,1967
+09/03,Bridgeport,CT,7,Yankee Rebels,World Class,76.783,1967
+09/03,Bridgeport,CT,7,Rochester Crusaders,World Class,77.5,1967
+09/03,Bridgeport,CT,8,Rochester Crusaders,World Class,75.85,1967
+09/03,Bridgeport,CT,8,Yankee Rebels,World Class,76.883,1967
+09/03,Bridgeport,CT,9,Archer Epler Musketeers,World Class,69.053,1967
+09/03,Bridgeport,CT,9,Archer Epler Musketeers,World Class,68.3,1967
+09/03,Bridgeport,CT,10,Westshoremen,World Class,68.833,1967
+09/03,Bridgeport,CT,10,Westshoremen,World Class,62.937,1967
+09/03,Agawam,MA,1,Marksmen,World Class,80.0,1967
+09/03,Agawam,MA,1,Marksmen,World Class,86.7,1967
+09/09,Carlisle,PA,1,Reading Buccaneers,World Class,84.65,1967
+09/03,Agawam,MA,2,Whalers,World Class,77.46,1967
+09/03,Agawam,MA,2,Whalers,World Class,85.78,1967
+09/09,Carlisle,PA,2,Sunrisers,World Class,79.3,1967
+09/03,Agawam,MA,3,Connecticut Yankees,World Class,76.35,1967
+09/03,Agawam,MA,3,Connecticut Yankees,World Class,80.56,1967
+09/09,Carlisle,PA,3,Rockets,World Class,74.05,1967
+09/03,Agawam,MA,4,Fort Edward Vagabonds,World Class,69.36,1967
+09/03,Agawam,MA,4,Sentinels,World Class,78.15,1967
+09/09,Carlisle,PA,4,Emmaus Sentinels,World Class,66.16,1967
+09/03,Agawam,MA,5,Sentinels,World Class,67.56,1967
+09/09,Carlisle,PA,5,Esquires,World Class,63.16,1967
+09/03,Agawam,MA,6,Wanderers,World Class,63.75,1967
+09/03,Agawam,MA,7,Assumption,World Class,56.76,1967

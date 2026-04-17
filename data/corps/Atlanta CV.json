@@ -1,0 +1,52 @@
+{
+ "location": [
+   {
+     "city": "White",
+     "state": "GA", 
+     "year": "1997-Present"
+   }
+ ],
+ "formerNames": [
+   "The Atlanta CorpsVets"
+ ],
+ "championships": [
+   {"circuit": "DCA Class A", "year": 2001, "score": 83.75, "showTitle": "Jones' Best"}
+ ],
+ "captionAwards": [],
+ "website": "https://atlantacv.org",
+ "currentClass": "DCI All-Age Class",
+ "historicClasses": [
+   {"circuit": "DCA", "years": "1999", "className": "Mini Corps"},
+   {"circuit": "DCA", "years": "2000-2001", "className": "Class A"},
+   {"circuit": "DCA", "years": "2002-2023", "className": "Open Class"},
+   {"circuit": "DCI", "years": "2024-present", "className": "All-Age World Class"}
+ ],
+ "shows": [
+   {"year": 1998, "showTitle": "Inaugural Season", "repertoire": "Danny Boy, Armed Forces Medley, Atlanta Constitution March, Conto Del Viento", "placement": "Did not attend DCA", "score": null},
+   {"year": 1999, "showTitle": "North American Suite", "repertoire": "Mr. Pinstripe Suit, Ashokan Farewell, Conto Del Viento", "placement": "Did not attend DCA", "score": null},
+   {"year": 2000, "showTitle": "Hunterman", "repertoire": "Hunter Green Blues, Caravan, In the Stone, One More Time Chuck Corea", "placement": "2nd Place", "score": 71.0},
+   {"year": 2001, "showTitle": "Jones' Best", "repertoire": "She's No Lady She's My Wife, Boogie Down, Taste of Honey, One More Time Chuck Corea", "placement": "1st Place", "score": 83.75},
+   {"year": 2002, "showTitle": "Jazz After Dark", "repertoire": "Night and Day, Round Midnight, Blues in the Night, Tank/reprise Blues, Georgia", "placement": "11th Place", "score": 84.55},
+   {"year": 2003, "showTitle": "Wild Party", "repertoire": "Georgia, Rush, What is it About Her?, Juggernaut, Jackie's Last Dance, Reprise Juggernaut", "placement": "8th Place", "score": 86.275},
+   {"year": 2004, "showTitle": "Heart of Jazz", "repertoire": "When a Man Loves a Woman, Johnny One Note, Big Noise from Winnetka, When a Man Loves a Woman, Johnny, Big Noise", "placement": "10th Place", "score": 83.075},
+   {"year": 2005, "showTitle": "MODE: Music of Don Ellis", "repertoire": "Open Wide by Don Ellis / Strawberry Soup by Don Ellis", "placement": "9th Place", "score": 85.5},
+   {"year": 2006, "showTitle": "A Trip to Vegas", "repertoire": "Luck Be a Lady, Feeling Good, Copacabanna, Everybody Loves Somebody, A Little Less Conversation, Diamonds are a Girls Best Friend, I Can't Help Falling in Love, Viva Las Vegas", "placement": "9th Place", "score": 85.75},
+   {"year": 2007, "showTitle": "Celebration", "repertoire": "Georgia on My Mind, Bacchanalia, LaFiesta, Remembrance", "placement": "9th Place", "score": 88.775},
+   {"year": 2008, "showTitle": "Simple Gifts", "repertoire": "Down in the River to Pray, Appalachian Morning, Inferno, Simple Gifts, Oh Shenandoah", "placement": "9th Place", "score": 86.763},
+   {"year": 2009, "showTitle": "Southern Suite", "repertoire": "Tara's Theme (from Gone With the Wind), I Got Plenty O' Nuttin' (from Porgy and Bess), The First Letter (from The Color Purple), Miss Otis Regrets (She's Unable To Lunch Today), Maybe God Is Tryin' to Tell You Somethin' (from The Color Purple)", "placement": "10th Place", "score": 83.75},
+   {"year": 2010, "showTitle": "360", "repertoire": "We Go On from Millennium Celebration at Epcot, Celebration from Reflections of Earth, The Sage of Time Prologue from Tapestry of Nations, Chaos from Reflections of Earth, Home from Reflections of Earth", "placement": "8th Place", "score": 87.7},
+   {"year": 2011, "showTitle": "Dusk To Dawn", "repertoire": "Shostakovich 10, Providence Unfinished, Ammerland, Ballet Sacra", "placement": "8th Place", "score": 85.0},
+   {"year": 2012, "showTitle": "God Save the Queen", "repertoire": "Festive Overture, Crown Imperial, Bohemian Rhapsody, Who Wants to Live Forever, Nimrod, Fat Bottomed Girls, Bicycle Race, Stone Cold Crazy, Don't Stop Me Now, God Save the Queen", "placement": "8th Place", "score": 87.1},
+   {"year": 2013, "showTitle": "Carpe Caelum: Seize the Heavens", "repertoire": "Interstellar Suite: \"The Ship: Main Theme\", \"Launch: Mission Control and Liftoff / Jumping To The Speed Of Light\", \"Battle: Planning The Attack / Return Fire / The Last Missile\" (Amin Bhatia), On the Backs of Angels (Dream Theater)", "placement": "6th Place", "score": 91.60},
+   {"year": 2014, "showTitle": "HEX", "repertoire": "Garden of Magic/Come Little Children (James Horner), Aquarium (Saint-Saëns), Attacking Brides from Van Helsing (Alan Silvestri), Far From Heaven (Dream Theater), Hell Hounds from Chronicles of Riddick (Graeme Revell), Werewolf Trap from Van Helsing (Alan Silvestri)", "placement": "6th Place", "score": 92.40},
+   {"year": 2015, "showTitle": "EyeConic", "repertoire": "Symphony for Brass and Percussion (Alfred Reed), Nessun Dorma (Giacomo Puccini), Heat of the Day (Pat Metheny), In Your Eyes (Peter Gabriel), My Favorite Things (Rodgers and Hammerstein), Symphony No. 9 in D minor 'Ode to Joy' (Ludwig van Beethoven), Ballet Sacra (David Holsinger)", "placement": "5th Place", "score": 93.83},
+   {"year": 2016, "showTitle": "Rhythmos - Motion of Life", "repertoire": "Movement I - The Rhythm of the Heart: Artistry in Rhythm (Stan Kenton), Libertango (Astor Piazzolla) Movement II - The Rhythm of Breath: Gabriel's Oboe (Ennio Morricone) Movement III - The Rhythm of Motion: Finding and Believing (Pat Metheny) Movement IV - The Rhythm of Life: JoyRide (Michael Markowski)", "placement": "6th Place", "score": 92.35},
+   {"year": 2017, "showTitle": "Through the Glass Looking", "repertoire": "Movement I - Shattered Glass: Children's Hour of Dream by Charles Mingus Movement II - Reflections: Alone in a Crowd (from Pollock) by Jeff Beal / 1000 Airplanes on the Roof by Philip Glass Movement III - Stained Glass: Hymn of Acxiom (Vienna Teng) Movement IV - Prism: Stained Glass by David Gillingham / The Firebird by Igor Stravinsky", "placement": "2nd Place", "score": 96.63},
+   {"year": 2018, "showTitle": "Chaos Theory", "repertoire": "Symphony No. 5 by Ludwig van Beethoven / Master of Puppets by Metallica / Chameleon by Herbie Hancock / Demons by Heartist / Overture from Dancer in the Dark by Bjork / Yes by Don Ellis", "placement": "3rd Place", "score": 95.625},
+   {"year": 2019, "showTitle": "Of Gods and Goddesses", "repertoire": "Movement I - \"Poseidon\" Moving Mountains by Thomas J. Bergson and The Winds of Poseidon by Robert W. Smith Movement II - \"Ares\" Mars: The Bringer of War by Gustav Holst Movement III - \"Aphrodite\" Based on Aphrodite Part II by William Chase Movement IV - \"Zeus\" Ignition by Todd Stalter", "placement": "2nd Place", "score": 96.150},
+   {"year": 2021, "showTitle": "The Elements of Cool", "repertoire": "Third Wind by Pat Metheny / Clarity by Zedd and Foxes / Minuano (Six Eight) by Pat Metheny / Original Music by Chris Romanowski", "placement": "2nd Place", "score": 94.00},
+   {"year": 2022, "showTitle": "Hyde and Seek", "repertoire": "A Kaleidoscope of Mathematics by James Horner / Manners Maketh Man by Mathew Margeson / Hide and Seek by Imogen Heap / Serenade Schizophrenia by Danny Elfman / Sacrificed Sons by Michael Portnoy", "placement": "2nd Place", "score": 87.75},
+   {"year": 2023, "showTitle": "Off With His Head", "repertoire": "Bohemian Rhapsody, One Vision, Flash Gordon, Who Wants To Live Forever, Another One Bites The Dust, The Show Must Go On, Bohemian Rhapsody All by Queen", "placement": "4th Place", "score": 91.25},
+   {"year": 2024, "showTitle": "CiVilization", "repertoire": "Tribal Music by African Drums Collective / The Rhythm of the Heat by Peter Gabriel / Scythian Suite/Ala and Lolly by Sergei Prokofiev / The Bioluminescence of the Night by James Horner / Run Boy Run by Yoann Lemoine / Becoming One of the People by James Horner", "placement": "4th Place", "score": 89.575}
+ ]
+}

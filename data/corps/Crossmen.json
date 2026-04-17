@@ -1,0 +1,86 @@
+{
+  "location": [
+    {
+      "city": "Delaware County",
+      "state": "PA", 
+      "year": "1974-1996"
+    },
+    {
+      "city": "Allentown",
+      "state": "PA", 
+      "year": "1996-2007"
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX", 
+      "year": "2007-Present"
+    }
+  ],
+  "formerNames": [
+    "Keystone Regiment and 507 Hornets (merged to form Crossmen)"
+  ],
+  "championships": [
+    {"circuit": "American Legion", "year": 1977, "score": 81.300, "showTitle": ""},
+    {"circuit": "VFW", "year": 1981, "score": 86.500, "showTitle": ""}
+  ],
+  "captionAwards": [],
+  "website": "crossmen.org",
+  "currentClass": "DCI World Class",
+  "historicClasses": [
+    {"circuit": "DCI", "years": "1975-1991", "className": "Open Class"},
+    {"circuit": "DCI", "years": "1992-2007", "className": "Division I"},
+    {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+  ],
+  "shows": [
+    {"year": 1975, "showTitle": "", "repertoire": "Overture to a New Era by Caesar Giovannini / Spanish Trip (Canarios) by John Williams / Gospel John by Jeffrey Steinberg / Journey to the Center of the Earth by Rick Wakeman", "placement": "24th Place", "score": 68.800},
+    {"year": 1976, "showTitle": "", "repertoire": "Overture to a New Era by Caesar Giovannini / Spanish Trip (Canarios) by John Williams / Let's Hear It For Me (from Funny Lady) by John Kander & Fred Ebb / Journey to the Center of the Earth by Rick Wakeman / Tico Tico by Aloísio de Oliveira & Ervin Drake / Colour My World & Make Me Smile by James Pankow", "placement": "Did not attend DCI", "score": null},
+    {"year": 1977, "showTitle": "", "repertoire": "Marche Slav by Pyotr Ilyich Tchaikovsky / Let's Hear It For Me (from Funny Lady) by John Kander & Fred Ebb / Nadia's Theme & Bless the Beasts and Children by Barry De Vorzon & Perry Botkin Jr. / Russian Christmas Music by Alfred Reed", "placement": "11th Place", "score": 81.300},
+    {"year": 1978, "showTitle": "", "repertoire": "Jazz Rhapsody by Patrick Williams / Something by George Harrison / Great Day by Vincent Youmans, Edward Eliscu & Billy Rose / Let's Hear It For Me (from Funny Lady) by John Kander & Fred Ebb / Tico Tico by Aloísio de Oliveira & Ervin Drake / Russian Christmas Music by Alfred Reed", "placement": "9th Place", "score": 82.450},
+    {"year": 1979, "showTitle": "", "repertoire": "Slavonic Dance No. 1 by Antonín Dvořák / Meeting of the Spirits by John McLaughlin / Tiger of San Pedro by John LaBarbera / Planet Krypton, Main Theme & Can You Read My Mind (from Superman) by John Williams / Theme from Adventures of Superman by Leon Klatzkin", "placement": "13th Place", "score": 81.700},
+    {"year": 1980, "showTitle": "", "repertoire": "Pictures de España by Larry Kerchner / Tiger of San Pedro by John LaBarbera / Spanish Fantasy by Chick Corea / Jack Miraculous by Gino Vannelli / Superman Medley by John Williams", "placement": "8th Place", "score": 81.900},
+    {"year": 1981, "showTitle": "", "repertoire": "Explosion by Matt Catingub / Something by George Harrison / Spanish Fantasy by Chick Corea / Bustling by Ian McDougall / Overture to Rocky II by Bill Conti", "placement": "8th Place", "score": 86.500},
+    {"year": 1982, "showTitle": "", "repertoire": "Artistry in Rhythm by Stan Kenton / Shoshana by Mark Levine / Canto del Viento by Anthony Yaklich / Russian Christmas Music by Alfred Reed", "placement": "7th Place", "score": 88.050},
+    {"year": 1983, "showTitle": "", "repertoire": "Overture to Ruslan and Lyudmila by Mikhail Glinka / Concerto del Rodrigo by Joaquín Rodrigo / Russian Christmas Music by Alfred Reed", "placement": "13th Place", "score": 78.600},
+    {"year": 1984, "showTitle": "", "repertoire": "Overture to Ruslan and Lyudmila by Mikhail Glinka / Shoshana by Cal Tjader / Canto del Viento by Anthony Yaklich / Let Me Try Again by Caravelli, Paul Anka & Sammy Cahn", "placement": "10th Place", "score": 86.300},
+    {"year": 1985, "showTitle": "", "repertoire": "Selections from Man of La Mancha by Mitch Leigh & Joe Darion / El Toro Loca / Ya Trata by Tania Maria / Casals Suite by Larry Kerchner", "placement": "17th Place", "score": 80.400},
+    {"year": 1986, "showTitle": "", "repertoire": "Jazz Rhapsody by Patrick Williams / Not While I'm Around (from Sweeney Todd) by Stephen Sondheim / Street Dancing by Ed Blackwell / Sweeney Todd Suite by Stephen Sondheim", "placement": "21st Place", "score": 73.100},
+    {"year": 1987, "showTitle": "", "repertoire": "Summertime (from Porgy and Bess) by George Gershwin & DuBose Heyward / Dance by Matt Krempasky / Rumble by Chick Corea / Space Shuttle by John LaBarbera", "placement": "16th Place", "score": 81.600},
+    {"year": 1988, "showTitle": "", "repertoire": "Cherokee by Ray Noble / The Waltz by Rob McConnell / Summertime (from Porgy and Bess) by George Gershwin & DuBose Heyward", "placement": "14th Place", "score": 85.600},
+    {"year": 1989, "showTitle": "", "repertoire": "Wind Machine by Sammy Nestico / The Waltz by Rob McConnell / How High the Moon by Morgan Lewis & Nancy Hamilton", "placement": "12th Place", "score": 84.000},
+    {"year": 1990, "showTitle": "", "repertoire": "Baroque Samba by Darmon Meader / 'Round Midnight by Thelonious Monk / Caravan by Juan Tizol / Now or Never by Caprice Fox, Darmon Meader, Kim Nazarian, Peter DeRose, Peter Eldridge & Sara Krieger (New York Voices)", "placement": "7th Place", "score": 89.600},
+    {"year": 1991, "showTitle": "Pat Metheny Suite", "repertoire": "Minuano (Six Eight) by Pat Metheny & Lyle Mays / Dream of the Return by Pat Metheny & Pedro Aznar / Third Wind by Pat Metheny & Lyle Mays", "placement": "8th Place", "score": 89.700},
+    {"year": 1992, "showTitle": "Songs for the Planet Earth", "repertoire": "Begin Sweet World by Bill Douglas / Appalachian Morning by Paul Halley / The Four Elements by Matt Krempasky & Mark Thurston / The Rain Forest by Karl Lundeberg / Under the Sun by John Clark, Paul Halley, Paul McCandless, Glen Velez & Paul Winter", "placement": "6th Place", "score": 92.200},
+    {"year": 1993, "showTitle": "Songs for the Planet Earth, Part II: A Celebration of Humanity", "repertoire": "Fanfare for the Common Man by Aaron Copland / Myth America by Karl Lundeberg / Koto Song by Dave Brubeck / River Music by Eugene Friesen / Freda by Kenny Baker / Anthem for Humanity by Paul Halley", "placement": "8th Place", "score": 89.600},
+    {"year": 1994, "showTitle": "Songs for the Planet Earth, Part III: Suite Children", "repertoire": "Land of Make Believe by Chuck Mangione / Children Will Listen (from Into the Woods) by Stephen Sondheim / Pop Goes the Weasel (Traditional) / Songs for the Planet Earth - Finale by Michael Klesch", "placement": "7th Place", "score": 88.400},
+    {"year": 1995, "showTitle": "", "repertoire": "Overture (from The School for Scandal) by Samuel Barber / Symphony for Brass and Percussion (Mvts. 2 & 3) by Alfred Reed", "placement": "10th Place", "score": 85.100},
+    {"year": 1996, "showTitle": "The Voices of Jazz", "repertoire": "The Sultan Fainted by Darmon Meader & Peter Eldridge (New York Voices) / A Nightingale Sang in Berkeley Square by Manning Sherwin & Eric Maschwitz / Birdland by Josef Zawinul", "placement": "8th Place", "score": 85.500},
+    {"year": 1997, "showTitle": "The Colors of Jazz", "repertoire": "Birdland by Josef Zawinul / You are My Sunshine by Jimmie Davis & Charles Mitchell / Niner Two by Don Ellis", "placement": "6th Place", "score": 93.000},
+    {"year": 1998, "showTitle": "The Music of Pat Metheny", "repertoire": "Third Wind by Pat Metheny & Lyle Mays / Letter From Home by Pat Metheny / The First Circle by Pat Metheny & Lyle Mays", "placement": "7th Place", "score": 91.400},
+    {"year": 1999, "showTitle": "Changing Perspectives: A Silver Celebration", "repertoire": "Blue Shades by Frank Ticheli / When October Goes by Barry Manilow & Johnny Mercer / Appalachian Morning by Paul Halley", "placement": "10th Place", "score": 87.000},
+    {"year": 2000, "showTitle": "Clubbin' with the Crossmen", "repertoire": "In the Mood by Joe Garland, Andy Razaf & Wingy Manone / Caravan by Juan Tizol / Nobody Does Me by Rod Temperton / Birdland by Josef Zawinul", "placement": "9th Place", "score": 88.550},
+    {"year": 2001, "showTitle": "Late Night Jazz", "repertoire": "Harlem Nocturne by Earle Hagen & Dick Rogers / Flying Home by Lionel Hampton, Benny Goodman & Eddie DeLange / Guaguanco by Arturo Sandoval / Fire Dance by Allen Vizzutti", "placement": "7th Place", "score": 91.150},
+    {"year": 2002, "showTitle": "The Signature Series", "repertoire": "The Heat of the Day by Pat Metheny & Lyle Mays / Candle in the Window (from Civil War: Our Story in Song) by Frank Wildhorn / Strawberry Soup by Don Ellis", "placement": "9th Place", "score": 89.100},
+    {"year": 2003, "showTitle": "Colors", "repertoire": "Over the Rainbow (from The Wizard of Oz) by E.Y. Harburg & Harold Arlen / Welcome to the St. James Club by Russ Freeman / Blue Rondo à la Turk by Dave Brubeck / Count Bubba by Gordon Goodwin", "placement": "9th Place", "score": 86.900},
+    {"year": 2004, "showTitle": "Unity: Out of Many, One", "repertoire": "Jubal Step by Wynton Marsalis / Both Sides, Now by Joni Mitchell / Puma by Karl Lundeberg", "placement": "11th Place", "score": 87.425},
+    {"year": 2005, "showTitle": "Crossroads", "repertoire": "Classical Gas by Mason Williams / Radar Love by George Kooymans & Barry Hay / So Far Away by Carole King / Paradise by the Dashboard Light by Jim Steinman", "placement": "14th Place", "score": 84.050},
+    {"year": 2006, "showTitle": "Changing Lanes", "repertoire": "Prelude to a Drive & Cruisin' by Pat Metheny & Lyle Mays / Caribe (from One More Once) by Michel Camilo / If I Had My Way by Frank Wildhorn & Jack Murphy / Shortcut Home by Keith Emerson & Greg Lake", "placement": "15th Place", "score": 81.250},
+    {"year": 2007, "showTitle": "Metamorphosis", "repertoire": "Russian Christmas Music by Alfred Reed / The First Circle by Pat Metheny & Lyle Mays / Birdland by Josef Zawinul / Symphonic Metamorphosis & Symphony in B-Flat by Paul Hindemith / The Crow by DJ Food / P5 by Aaron Guidry", "placement": "16th Place", "score": 81.600},
+    {"year": 2008, "showTitle": "Planet X", "repertoire": "Jupiter, Mars & Mercury (from The Planets) by Gustav Holst / What a Wonderful World by Bob Thiele & George David Weiss", "placement": "13th Place", "score": 85.950},
+    {"year": 2009, "showTitle": "ForbiddeN", "repertoire": "Dance of Vengeance (from Medea) by Samuel Barber / My Immortal by Amy Lee, Ben Moody & David Hodges (Evanescence) / ForbiddeN by Aaron Guidry", "placement": "16th Place", "score": 81.650},
+    {"year": 2010, "showTitle": "Full Circle", "repertoire": "First Circle & Heat of the Day by Pat Metheny & Lyle Mays / Letter From Home by Pat Metheny / Minuano (Six Eight) by Pat Metheny & Lyle Mays / Full Circle by Aaron Guidry", "placement": "17th Place", "score": 80.900},
+    {"year": 2011, "showTitle": "Renewal", "repertoire": "Episode: Prelude by Nando Lauria / Ursa Major by Chuck Naffier / Spinning Wheel by David Clayton-Thomas / Hallelujah by Leonard Cohen / Back Home by Nando Lauria", "placement": "17th Place", "score": 81.050},
+    {"year": 2012, "showTitle": "FRAGILE", "repertoire": "Earth Song by Michael Jackson / Wailers by Bobby McFerrin / PD7 by Anoushka Shankar / Here Comes the Flood by Peter Gabriel / Finding and Believing by Pat Metheny", "placement": "12th Place", "score": 84.000},
+    {"year": 2013, "showTitle": "Protest", "repertoire": "The Prophet's Song by Brian May / She's Too Good For Me by Gordon Matthew Thomas Sumner (Sting) / \"The Sound of Silence\" by Paul Simon / They Don't Care About Us by Michael Jackson / Some Nights by Jeff Bhasker, Nate Ruess, Andrew Dost & Jack Antonoff (fun.) / We Shall Overcome by Pete Seeger / Goodbye Blue Sky by Pink Floyd / Find the Cost of Freedom by Stephen Stills", "placement": "14th Place", "score": 84.850},
+    {"year": 2014, "showTitle": "Alma Gitana – A Gypsy Soul", "repertoire": "Bulgaria by Peter Erskine / Erghen Diado by Peter Lionder / Emmanuel by Michel Colombier / Zambra by Macaco MonoLoco, Marina Abad & Marina laCanillas (Ojos de Brujo) / Habanera (from Carmen) by Georges Bizet / Caravan by Juan Tizol", "placement": "12th Place", "score": 86.225},
+    {"year": 2015, "showTitle": "Above & Beyond", "repertoire": "Fly to Paradise by Eric Whitacre / Ascent by Andrew Markworth / Jubal Step by Wynton Marsalis / One Day I'll Fly Away (from Moulin Rouge!) by Will Jennings & Joe Sample / Butterfly by Mia Makaroff", "placement": "12th Place", "score": 85.025},
+    {"year": 2016, "showTitle": "Continuum", "repertoire": "Original Music by Andrew Markworth", "placement": "10th Place", "score": 86.975},
+    {"year": 2017, "showTitle": "Enigma", "repertoire": "The Question by Andrew Markworth / Kaleidoscope of Mathematics (from A Beautiful Mind) by James Horner / The Maze by Andrew Markworth / Exit Music by Thom Yorke, Jonny Greenwood, Ed O'Brien, Colin Greenwood & Phil Selway (Radiohead) / The Lightbulb by Andrew Markworth / Piano Concerto No. 1 by Keith Emerson", "placement": "11th Place", "score": 86.825},
+    {"year": 2018, "showTitle": "The In-Between", "repertoire": "Funeral for a Friend by Elton John / Upside Down by Andrew Markworth / Symphony No. 6 by Pyotr Ilyich Tchaikovsky / Sweetness Follows by Michael Stipe, Peter Buck, Mike Mills & Bill Berry (R.E.M.)", "placement": "12th Place", "score": 86.750},
+    {"year": 2019, "showTitle": "Valkyrie", "repertoire": "Immigrant Song by Jimmy Page & Robert Plant (Led Zeppelin) / The Wolf by Andrew Markworth / Hurt by Trent Reznor (Nine Inch Nails) / Ride Into Battle by Andrew Markworth", "placement": "11th Place", "score": 87.550},
+    {"year": 2021, "showTitle": "Your Move", "repertoire": "Minuano (Six Eight) by Pat Metheny / Movement by Andrew Hozier-Byrne / Coronation by Ilan Eshkeri", "placement": "No scored competitions", "score": null},
+    {"year": 2022, "showTitle": "A Möbius Trip", "repertoire": "Symphony No. 2, Mvt. 4 by Gustav Mahler / Equus by Eric Whitacre / Addis Abba by Guillermo Lago / Alfonso Muskedunder by Todd Terje / Re-Entry (from In the Shadow of the Moon) by Philip Sheppard", "placement": "13th Place", "score": 86.925},
+    {"year": 2023, "showTitle": "Meetings at the Edge", "repertoire": "The Long and Winding Road by The Beatles / Meetings Along the Edge by Philip Glass & Ravi Shankar / Letter From Home by Pat Metheny / The Windup by Keith Jarrett / The Yellow Jacket by Shaun Martin", "placement": "13th Place", "score": 86.138},
+    {"year": 2024, "showTitle": "Lush Life", "repertoire": "Lush Life by Billy Strayhorn / My Favorite Things by Rodgers and Hammerstein / So What by Miles Davis / 'Round Midnight by Thelonious Monk / Night in Tunisia by Dizzy Gillespie / Blues in the Night by Harold Arlen & Johnny Mercer / La Création Du Monde by Darius Milhaud / Original Music by Drew Shanefield, Ray Ulibarri & Juan Arreguin", "placement": "15th Place", "score": 84.875},
+    {"year": 2025, "showTitle": "Crosswalking", "repertoire": "Walk on By by Burt Bacharach / The Beginning by Louis Futon / Haitian Fight Song by Charles Mingus / Hoe Down by Oliver Nelson / Unsquare Dance by Dave Brubeck / Symphony No. 2 by Sergei Rachmaninoff / New Birth by The Funky Knuckles", "placement": "19th Place", "score": 82.225}
+  ]
+}

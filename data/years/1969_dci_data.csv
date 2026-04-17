@@ -1,0 +1,122 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/07,Hamden,CT,1,New York Skyliners,World Class,71.13,1969
+06/14,Hershey,PA,1,Reading Buccaneers,World Class,74.15,1969
+06/14,Stratford,CT,1,New York Skyliners,World Class,76.3,1969
+06/21,Syracuse,NY,1,Reading Buccaneers,World Class,73.7,1969
+06/07,Hamden,CT,2,Sunrisers,World Class,70.51,1969
+06/14,Hershey,PA,2,Yankee Rebels,World Class,71.1,1969
+06/14,Stratford,CT,2,Sunrisers,World Class,74.6,1969
+06/21,Syracuse,NY,2,Sunrisers,World Class,72.45,1969
+06/07,Hamden,CT,3,Yankee Rebels,World Class,68.77,1969
+06/14,Hershey,PA,3,Rochester Crusaders,World Class,66.5,1969
+06/14,Stratford,CT,3,Connecticut Hurricanes,World Class,74.35,1969
+06/21,Syracuse,NY,3,New York Skyliners,World Class,71.5,1969
+06/07,Hamden,CT,4,Reading Buccaneers,World Class,68.35,1969
+06/14,Hershey,PA,4,Westshoremen,World Class,60.08,1969
+06/14,Stratford,CT,4,Hawthorne Caballeros,World Class,69.7,1969
+06/21,Syracuse,NY,4,Connecticut Hurricanes,World Class,70.75,1969
+06/07,Hamden,CT,5,Hawthorne Caballeros,World Class,68.32,1969
+06/14,Hershey,PA,5,Syracuse Brigadiers,World Class,58.55,1969
+06/14,Stratford,CT,5,Princemen,World Class,50.1,1969
+06/21,Syracuse,NY,5,Rochester Crusaders,World Class,68.95,1969
+06/21,Irwin,PA,1,Westshoremen,World Class,69.45,1969
+06/28,Boston,MA,1,New York Skyliners,World Class,74.03,1969
+06/21,Irwin,PA,2,Guelph Royalaires,World Class,60.0,1969
+06/28,Boston,MA,2,Sunrisers,World Class,73.15,1969
+06/21,Irwin,PA,3,Rockets,World Class,58.9,1969
+06/28,Boston,MA,3,Connecticut Hurricanes,World Class,71.65,1969
+06/21,Irwin,PA,4,Erie Thunderbirds,World Class,48.85,1969
+06/28,Boston,MA,4,Hawthorne Caballeros,World Class,71.5,1969
+06/28,Boston,MA,5,Yankee Rebels,World Class,68.05,1969
+06/28,Boston,MA,6,Rochester Crusaders,World Class,66.0,1969
+06/28,Boston,MA,7,Brigadiers,World Class,61.7,1969
+06/28,Boston,MA,8,Hamburg Kingsmen,World Class,59.55,1969
+07/05,Bridgeport,CT,1,New York Skyliners,World Class,75.7,1969
+07/05,Hershey,PA,1,Yankee Rebels,World Class,74.65,1969
+07/05,Erie,PA,1,Rockets,World Class,67.35,1969
+07/12,Altoona,PA,1,Connecticut Hurricanes,World Class,77.6,1969
+07/05,Bridgeport,CT,2,Sunrisers,World Class,74.0,1969
+07/05,Hershey,PA,2,Reading Buccaneers,World Class,69.5,1969
+07/05,Erie,PA,2,Guelph Royalaires,World Class,66.6,1969
+07/12,Altoona,PA,2,Yankee Rebels,World Class,76.3,1969
+07/05,Bridgeport,CT,3,Hawthorne Caballeros,World Class,71.7,1969
+07/05,Hershey,PA,3,Rochester Crusaders,World Class,69.24,1969
+07/05,Erie,PA,3,Albion Grenadiers,World Class,62.4,1969
+07/12,Altoona,PA,3,Royalaires,World Class,63.75,1969
+07/05,Bridgeport,CT,4,Connecticut Hurricanes,World Class,71.55,1969
+07/05,Hershey,PA,4,Syracuse Brigadiers,World Class,60.25,1969
+07/05,Erie,PA,4,Sentinels,World Class,52.7,1969
+07/12,Altoona,PA,4,Hamburg Kingsmen,World Class,58.2,1969
+07/05,Hershey,PA,5,Westshoremen,World Class,59.95,1969
+07/05,Erie,PA,5,Esquires,World Class,41.25,1969
+07/12,Altoona,PA,5,Westshoremen,World Class,57.9,1969
+07/05,Erie,PA,6,Patriots,World Class,40.05,1969
+07/12,Rochester,NY,1,Reading Buccaneers,World Class,77.55,1969
+07/19,Reading,PA,1,Yankee Rebels,World Class,76.05,1969
+07/26,Carlisle,PA,1,Connecticut Hurricanes,World Class,79.95,1969
+07/12,Rochester,NY,2,New York Skyliners,World Class,74.84,1969
+07/19,Reading,PA,2,New York Skyliners,World Class,73.4,1969
+07/26,Carlisle,PA,2,Yankee Rebels,World Class,76.4,1969
+07/12,Rochester,NY,3,Hawthorne Caballeros,World Class,71.35,1969
+07/19,Reading,PA,3,Hawthorne Caballeros,World Class,71.5,1969
+07/26,Carlisle,PA,3,Reading Buccaneers,World Class,76.05,1969
+07/12,Rochester,NY,4,Syracuse Brigadiers,World Class,66.25,1969
+07/19,Reading,PA,4,Westshoremen,World Class,60.3,1969
+07/26,Carlisle,PA,4,New York Skyliners,World Class,75.95,1969
+07/12,Rochester,NY,5,Canadian Ambassadors,World Class,57.9,1969
+07/19,Reading,PA,5,Emmaus Sentinels,World Class,45.05,1969
+07/26,Carlisle,PA,5,Whalers,World Class,59.95,1969
+08/09,Waverly,NY,1,Yankee Rebels,World Class,76.35,1969
+08/09,New Bedford,MA,1,Westshoremen,World Class,73.55,1969
+08/10,Jersey City,NJ,1,Connecticut Hurricanes,World Class,77.35,1969
+08/16,Allentown,PA,1,Guelph Royalaires,World Class,73.4,1969
+08/09,Waverly,NY,2,New York Skyliners,World Class,75.15,1969
+08/09,New Bedford,MA,2,Sentinels,World Class,62.1,1969
+08/10,Jersey City,NJ,2,Yankee Rebels,World Class,77.25,1969
+08/16,Allentown,PA,2,Westshoremen,World Class,73.25,1969
+08/09,Waverly,NY,3,Sunrisers,World Class,73.2,1969
+08/09,New Bedford,MA,3,Hanover Lancers,World Class,61.7,1969
+08/10,Jersey City,NJ,3,New York Skyliners,World Class,76.1,1969
+08/16,Allentown,PA,3,Rockets,World Class,66.35,1969
+08/09,Waverly,NY,4,Syracuse Brigadiers,World Class,63.95,1969
+08/09,New Bedford,MA,4,Freestatesmen,World Class,41.1,1969
+08/10,Jersey City,NJ,4,Sunrisers,World Class,72.95,1969
+08/16,Allentown,PA,4,Sentinels,World Class,62.5,1969
+08/09,Waverly,NY,5,Rockets,World Class,54.35,1969
+08/10,Jersey City,NJ,5,Hawthorne Caballeros,World Class,71.3,1969
+08/16,Allentown,PA,5,Erie Thunderbirds,World Class,60.7,1969
+08/16,Allentown,PA,6,Hanover Lancers,World Class,56.35,1969
+08/16,Allentown,PA,7,Esquires,World Class,48.55,1969
+08/16,Allentown,PA,8,Demons,World Class,38.4,1969
+08/16,Allentown,PA,9,Freestatesmen,World Class,33.15,1969
+08/16,Allentown,PA,10,Patriots,World Class,30.9,1969
+08/09,Waverly,NY,1,Reading Buccaneers,World Class,77.45,1969
+08/09,Waverly,NY,2,New York Skyliners,World Class,75.9,1969
+08/09,Waverly,NY,3,Sunrisers,World Class,71.1,1969
+08/09,Waverly,NY,4,Rochester Crusaders,World Class,70.8,1969
+08/09,Waverly,NY,5,Hawthorne Caballeros,World Class,65.95,1969
+08/30,Rochester,NY,1,Connecticut Hurricanes,World Class,80.25,1969
+08/30,Rochester,NY,1,Connecticut Hurricanes,World Class,79.475,1969
+08/30,Rochester,NY,2,New York Skyliners,World Class,79.85,1969
+08/30,Rochester,NY,2,New York Skyliners,World Class,78.275,1969
+08/30,Rochester,NY,3,Reading Buccaneers,World Class,79.725,1969
+08/30,Rochester,NY,3,Yankee Rebels,World Class,77.65,1969
+08/30,Rochester,NY,4,Yankee Rebels,World Class,79.4,1969
+08/30,Rochester,NY,4,Reading Buccaneers,World Class,76.975,1969
+08/30,Rochester,NY,5,Sunrisers,World Class,74.95,1969
+08/30,Rochester,NY,5,Rochester Crusaders,World Class,71.5,1969
+08/30,Rochester,NY,6,Rochester Crusaders,World Class,74.75,1969
+08/30,Rochester,NY,6,Sunrisers,World Class,68.5,1969
+08/30,Rochester,NY,7,Hawthorne Caballeros,World Class,68.625,1969
+08/30,Rochester,NY,7,Hawthorne Caballeros,World Class,67.95,1969
+08/30,Rochester,NY,8,Syracuse Brigadiers,World Class,68.35,1969
+08/30,Rochester,NY,8,Syracuse Brigadiers,World Class,62.975,1969
+08/30,Rochester,NY,9,Hamburg Kingsmen,World Class,67.775,1969
+08/30,Rochester,NY,9,Hamburg Kingsmen,World Class,58.625,1969
+08/30,Rochester,NY,10,Rockets,World Class,64.1,1969
+08/30,Rochester,NY,10,Rockets,World Class,50.275,1969
+08/30,Rochester,NY,11,Guelph Royalaires,World Class,63.65,1969
+08/30,Rochester,NY,12,Westshoremen,World Class,61.85,1969
+08/30,Rochester,NY,13,Canadian Ambassadors,World Class,61.375,1969
+08/30,Rochester,NY,14,Thunderbirds,World Class,45.75,1969
+08/30,Rochester,NY,15,Canadian Lamplighters,World Class,41.8,1969

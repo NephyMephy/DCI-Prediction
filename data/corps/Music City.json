@@ -1,0 +1,36 @@
+{
+ "location": [
+   {
+     "city": "Nashville",
+     "state": "TN",
+     "year": "2009-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2009-2016", "className": "Open Class"},
+   {"circuit": "DCI", "years": "2017-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 2009, "showTitle": "STRIKE IT UP... a celebration!", "repertoire": "Strike Up the Band by George Gershwin & Ira Gershwin / Tennessee Waltz by Pee Wee King & Redd Stewart / Appalachian Morning by Paul Halley", "placement": "13th Place*", "score": 80.400},
+   {"year": 2010, "showTitle": "River Sounds", "repertoire": "Down to the River to Pray (Traditional) / St. Louis Blues by W. C. Handy / Can't Help Falling in Love by Hugo Peretti, Luigi Creatore & George David Weiss / Mississippi Suite by Ferde Grofé / When the Saints Go Marching In (traditional) as performed by Luther G. Presley / Old Man River (from Show Boat) by Jerome Kern and Oscar Hammerstein II", "placement": "6th Place*", "score": 88.500},
+   {"year": 2011, "showTitle": "Let's Dance", "repertoire": "I Could Have Danced All Night by Frederick Loewe & Alan Jay Lerner / Bandstand Boogie by Charles Albertine / Waltz of the Flowers by Pyotr Ilyich Tchaikovsky / Rain Dance by Hunter Stricklin / Singin' in the Rain by Nacio Herb Brown and Arthur Freed / Jai Ho by A. R. Rahman / Tennessee Waltz by Pee Wee King & Redd Stewart / Dancing Machine by Hal Davis, Don Fletcher & Dean Parks / Shake a Tail Feather by Otha Hayes, Verlie Rice & Andre Williams", "placement": "32nd Place", "score": 62.20},
+   {"year": 2012, "showTitle": "Phantoms of the Grand Ole Opera", "repertoire": "Phantom of the Opera, All I Ask of You, The Point of No Return, and Music of the Night (all from The Phantom of the Opera) by Andrew Lloyd Webber, Charles Hart, Richard Stilgoe & Mike Batt / Ring of Fire by June Carter Cash & Merle Kilgore / Walkin' After Midnight by Alan Block & Donn Hecht / Sweet Dreams by Don Gibson / Your Cheatin' Heart by Hank Williams / Stand By Your Man by Tammy Wynette & Billy Sherrill", "placement": "31st Place", "score": 62.85},
+   {"year": 2013, "showTitle": "Postcards from Havana", "repertoire": "El Cumbanchero by Rafael Hernández / Rapsodia Cubana by Ernesto Lecuona / A Mis Abuelos by Arturo Sandoval / La Suerte de Los Tontos (from Cuban Fire Suite) by Johnny Richards", "placement": "25th Place", "score": 72.75},
+   {"year": 2014, "showTitle": "Go West!", "repertoire": "Grand Canyon Suite by Ferde Grofé / Billy the Kid by Aaron Copland / The Red Pony by Aaron Copland", "placement": "27th Place", "score": 71.575},
+   {"year": 2015, "showTitle": "In the Stars", "repertoire": "Mars, Venus, and Jupiter (from The Planets) by Gustav Holst", "placement": "27th Place", "score": 69.625},
+   {"year": 2016, "showTitle": "Coronation", "repertoire": "Coronation Fanfare by Robert W. Smith / The Young Person's Guide to the Orchestra by Benjamin Britten", "placement": "27th Place", "score": 71.725},
+   {"year": 2017, "showTitle": "Tribe", "repertoire": "Pagan Dances by James Barnes / Goddess of Fire by Steven Reineke / Trail of Tears by Michael Daugherty", "placement": "24th Place", "score": 74.275},
+   {"year": 2018, "showTitle": "Hell on Wheels: The Final Journey of Casey Jones", "repertoire": "Crazy Train by Ozzy Osbourne / Hallelujah by Leonard Cohen / Maple Leaf Rag by Scott Joplin / Original Music by Robert W. Smith", "placement": "21st Place", "score": 78.175},
+   {"year": 2019, "showTitle": "Of Mice & Music", "repertoire": "Original Music by Robert W. Smith Concerto for Guitar and Jazz Orchestra by Paul Hart / Imagine by John Lennon", "placement": "23rd Place", "score": 76.650},
+   {"year": 2021, "showTitle": "Circuloso", "repertoire": "Original Music by CJ Barrow, Jeremy Thompson, Matt Penland & Tyler Sammons", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Gasoline Rainbows", "repertoire": "Original Music by Shane Gwaltney & C. J. Barrow", "placement": "17th Place", "score": 81.763},
+   {"year": 2023, "showTitle": "Violent Delights: A Rose and its Thorns", "repertoire": "Paint It Black by Mick Jagger and Keith Richards / Rite Of Spring by Igor Stravinsky / Any Other Name by Thomas Newman / Go, Lovely Rose by Eric Whitacre / Original Music by C. J. Barrow", "placement": "17th Place", "score": 82.875},
+   {"year": 2024, "showTitle": "Leave It At The River", "repertoire": "Wayfaring Stranger by Rhianon Giddens / Down by the Riverside (traditional) as performed by Grandpa Elliott / Fire Water Paper by Elliot Goldenthal / Pyramid Song by Radiohead / Down to the River to Pray by Alison Krauss / Liquid Spirit by Gregory Porter / Original Music by C. J. Barrow", "placement": "17th Place", "score": 82.625},
+   {"year": 2025, "showTitle": "It Tolls for Thee", "repertoire": "", "placement": "16th Place", "score": 83.838}
+ ]
+}

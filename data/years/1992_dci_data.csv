@@ -1,0 +1,1837 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/13,Stony Creek,Ontario,1,Kiwanis Kavaliers,World Class,55.5,1992
+06/13,Appleton,WI,1,Phantom Regiment,World Class,74.6,1992
+06/13,Normal,IL,1,Cavaliers,World Class,70.9,1992
+06/13,Concord,CA,1,Vanguard,World Class,68.8,1992
+06/13,Appleton,WI,2,Glassmen,World Class,62.1,1992
+06/13,Normal,IL,2,Madison Scouts,World Class,67.2,1992
+06/13,Concord,CA,2,Blue Devils,World Class,67.4,1992
+06/13,Stony Creek,Ontario,1,Saint John's,World Class,38.6,1992
+06/13,Appleton,WI,3,Colts,World Class,57.3,1992
+06/13,Normal,IL,3,Bluecoats,World Class,62.1,1992
+06/13,Concord,CA,3,Freelancers,World Class,58.2,1992
+06/13,Stony Creek,Ontario,2,Conqueror II,World Class,33.3,1992
+06/13,Appleton,WI,4,Blue Stars,World Class,43.9,1992
+06/13,Normal,IL,4,Northern Aurora,World Class,47.1,1992
+06/13,Stony Creek,Ontario,3,Ridge Raiders,World Class,26.0,1992
+06/13,Appleton,WI,5,Americanos,World Class,40.4,1992
+06/13,Normal,IL,5,Pioneer,World Class,42.8,1992
+06/13,Concord,CA,1,Vanguard Cadets,World Class,51.7,1992
+06/13,Stony Creek,Ontario,4,Northwind Rebels,World Class,22.3,1992
+06/13,Appleton,WI,6,Phantom Regiment Cadets,World Class,39.4,1992
+06/13,Normal,IL,6,Limited Edition,World Class,39.5,1992
+06/13,Concord,CA,2,Blue Devils B,World Class,49.6,1992
+06/13,Appleton,WI,7,Madison Junior Scouts,World Class,29.4,1992
+06/13,Normal,IL,7,CapitolAires,World Class,39.0,1992
+06/13,Concord,CA,3,Mandarins,World Class,56.5,1992
+06/13,Stony Creek,Ontario,1,Canadian Knights,World Class,51.5,1992
+06/13,Normal,IL,8,Chicago Vanguard,World Class,34.7,1992
+06/13,Jersey City,NJ,1,Bushwackers,World Class,66.6,1992
+06/14,LaPorte,IN,1,Madison Scouts,World Class,70.0,1992
+06/14,Kenosha,WI,1,Cavaliers,World Class,71.1,1992
+06/15,Mansfield,OH,1,Madison Scouts,World Class,68.0,1992
+06/13,Jersey City,NJ,2,Hawthorne Caballeros,World Class,65.3,1992
+06/14,LaPorte,IN,2,Bluecoats,World Class,63.4,1992
+06/14,Kenosha,WI,2,Phantom Regiment,World Class,70.1,1992
+06/15,Mansfield,OH,2,Bluecoats,World Class,62.1,1992
+06/13,Jersey City,NJ,3,Connecticut Hurricanes,World Class,62.4,1992
+06/14,LaPorte,IN,3,Glassmen,World Class,60.4,1992
+06/14,Kenosha,WI,3,Colts,World Class,54.8,1992
+06/15,Mansfield,OH,3,Glassmen,World Class,62.0,1992
+06/13,Jersey City,NJ,4,New York Skyliners,World Class,56.8,1992
+06/14,LaPorte,IN,4,Limited Edition,World Class,46.0,1992
+06/14,Kenosha,WI,4,Pioneer,World Class,47.5,1992
+06/15,Mansfield,OH,4,Colts,World Class,54.6,1992
+06/13,Jersey City,NJ,5,Reading Buccaneers,World Class,54.6,1992
+06/14,LaPorte,IN,5,CapitolAires,World Class,41.6,1992
+06/14,Kenosha,WI,5,Americanos,World Class,37.4,1992
+06/15,Mansfield,OH,5,Limited Edition,World Class,44.2,1992
+06/13,Jersey City,NJ,6,Chieftains,World Class,48.4,1992
+06/14,LaPorte,IN,6,Blue Stars,World Class,35.7,1992
+06/14,Kenosha,WI,6,Phantom Regiment Cadets,World Class,35.4,1992
+06/15,Mansfield,OH,6,Northern Aurora,World Class,43.7,1992
+06/14,Kenosha,WI,7,Madison Junior Scouts,World Class,28.2,1992
+06/15,Mansfield,OH,7,Pioneer,World Class,38.8,1992
+06/16,Wyandotte,MI,1,Cavaliers,World Class,72.0,1992
+06/14,LaPorte,IN,1,Madison Scouts,World Class,70.0,1992
+06/14,Kenosha,WI,1,Cavaliers,World Class,71.1,1992
+06/15,Mansfield,OH,1,Madison Scouts,World Class,68.0,1992
+06/16,Wyandotte,MI,2,Phantom Regiment,World Class,70.7,1992
+06/14,LaPorte,IN,2,Bluecoats,World Class,63.4,1992
+06/14,Kenosha,WI,2,Phantom Regiment,World Class,70.1,1992
+06/15,Mansfield,OH,2,Bluecoats,World Class,62.1,1992
+06/16,Wyandotte,MI,3,Madison Scouts,World Class,69.8,1992
+06/14,LaPorte,IN,3,Glassmen,World Class,60.4,1992
+06/14,Kenosha,WI,3,Colts,World Class,54.8,1992
+06/15,Mansfield,OH,3,Glassmen,World Class,62.0,1992
+06/16,Wyandotte,MI,4,Glassmen,World Class,62.5,1992
+06/14,LaPorte,IN,4,Limited Edition,World Class,46.0,1992
+06/14,Kenosha,WI,4,Pioneer,World Class,47.5,1992
+06/15,Mansfield,OH,4,Colts,World Class,54.6,1992
+06/16,Wyandotte,MI,5,Bluecoats,World Class,61.8,1992
+06/14,LaPorte,IN,5,CapitolAires,World Class,41.6,1992
+06/14,Kenosha,WI,5,Americanos,World Class,37.4,1992
+06/15,Mansfield,OH,5,Limited Edition,World Class,44.2,1992
+06/16,Wyandotte,MI,6,Colts,World Class,52.8,1992
+06/14,LaPorte,IN,6,Blue Stars,World Class,35.7,1992
+06/14,Kenosha,WI,6,Phantom Regiment Cadets,World Class,35.4,1992
+06/15,Mansfield,OH,6,Northern Aurora,World Class,43.7,1992
+06/16,Wyandotte,MI,7,Northern Aurora,World Class,47.5,1992
+06/14,Kenosha,WI,7,Madison Junior Scouts,World Class,28.2,1992
+06/15,Mansfield,OH,7,Pioneer,World Class,38.8,1992
+06/16,Wyandotte,MI,8,Pioneer,World Class,43.6,1992
+06/16,Wyandotte,MI,9,Limited Edition,World Class,41.6,1992
+06/16,Wyandotte,MI,10,Blue Stars,World Class,37.2,1992
+06/16,Wyandotte,MI,1,Cavaliers,World Class,72.0,1992
+06/18,Otsego,MI,1,Cavaliers,World Class,73.8,1992
+06/19,DeKalb,IL,1,Cavaliers,World Class,74.2,1992
+06/19,Clovis,CA,1,Blue Devils,World Class,72.3,1992
+06/16,Wyandotte,MI,2,Phantom Regiment,World Class,70.7,1992
+06/18,Otsego,MI,2,Phantom Regiment,World Class,71.5,1992
+06/19,DeKalb,IL,2,Star of Indiana,World Class,72.8,1992
+06/19,Clovis,CA,2,Vanguard,World Class,72.1,1992
+06/16,Wyandotte,MI,3,Madison Scouts,World Class,69.8,1992
+06/18,Otsego,MI,3,Madison Scouts,World Class,68.8,1992
+06/19,DeKalb,IL,3,Madison Scouts,World Class,68.1,1992
+06/19,Clovis,CA,3,Freelancers,World Class,61.7,1992
+06/16,Wyandotte,MI,4,Glassmen,World Class,62.5,1992
+06/18,Otsego,MI,4,Glassmen,World Class,62.4,1992
+06/19,DeKalb,IL,4,Bluecoats,World Class,60.7,1992
+06/16,Wyandotte,MI,5,Bluecoats,World Class,61.8,1992
+06/18,Otsego,MI,5,Colts,World Class,53.9,1992
+06/19,DeKalb,IL,5,Glassmen,World Class,60.6,1992
+06/19,Clovis,CA,1,Mandarins,World Class,56.9,1992
+06/16,Wyandotte,MI,6,Colts,World Class,52.8,1992
+06/18,Otsego,MI,6,Northern Aurora,World Class,50.0,1992
+06/19,DeKalb,IL,6,Minnesota Brass,World Class,52.6,1992
+06/16,Wyandotte,MI,7,Northern Aurora,World Class,47.5,1992
+06/19,DeKalb,IL,7,Colts,World Class,52.4,1992
+06/16,Wyandotte,MI,8,Pioneer,World Class,43.6,1992
+06/19,DeKalb,IL,8,Troopers,World Class,49.2,1992
+06/16,Wyandotte,MI,9,Limited Edition,World Class,41.6,1992
+06/19,DeKalb,IL,9,Pioneer,World Class,42.5,1992
+06/16,Wyandotte,MI,10,Blue Stars,World Class,37.2,1992
+06/19,DeKalb,IL,10,Limited Edition,World Class,40.3,1992
+06/19,Phoenix,AZ,1,Blue Knights,World Class,66.2,1992
+06/19,Malden,MA,1,Buccaneers,World Class,60.2,1992
+06/20,Burlington,Ontario,1,Empire Statesmen,World Class,78.2,1992
+06/20,Charleston,IL,1,Cavaliers,World Class,75.1,1992
+06/19,Malden,MA,2,Satellites,World Class,47.3,1992
+06/20,Burlington,Ontario,2,Reading Buccaneers,World Class,68.0,1992
+06/20,Charleston,IL,2,Bluecoats,World Class,64.9,1992
+06/19,Phoenix,AZ,1,Vanguard Cadets,World Class,54.3,1992
+06/19,Malden,MA,3,Springfield Ambassadors,World Class,45.5,1992
+06/20,Burlington,Ontario,3,Westshoremen,World Class,65.2,1992
+06/20,Charleston,IL,3,Colts,World Class,54.1,1992
+06/19,Phoenix,AZ,2,Blue Devils B,World Class,50.4,1992
+06/20,Burlington,Ontario,4,Rochester Crusaders,World Class,64.3,1992
+06/20,Charleston,IL,4,Northern Aurora,World Class,50.9,1992
+06/19,Phoenix,AZ,3,Arizona Sun,World Class,48.4,1992
+06/19,Malden,MA,1,Royal Cadets,World Class,54.5,1992
+06/20,Burlington,Ontario,5,Grey Knights,World Class,45.7,1992
+06/20,Charleston,IL,5,Troopers,World Class,47.7,1992
+06/19,Malden,MA,2,Phoenix,World Class,54.4,1992
+06/20,Charleston,IL,6,Limited Edition,World Class,45.8,1992
+06/19,Malden,MA,3,East Coast Jazz,World Class,52.9,1992
+06/20,Charleston,IL,7,Nite Express,World Class,36.9,1992
+06/19,Malden,MA,4,Joanettes,World Class,46.0,1992
+06/20,Charleston,IL,8,Knights,World Class,34.0,1992
+06/19,Malden,MA,1,Citations,World Class,52.0,1992
+06/19,Malden,MA,2,East Coast Cadets,World Class,36.8,1992
+06/20,Milwaukee,WI,1,Star of Indiana,World Class,75.7,1992
+06/20,Riverside,CA,1,Blue Devils,World Class,74.3,1992
+06/20,Waterloo,Ontario,1,Kiwanis Kavaliers,World Class,61.9,1992
+06/20,Rochester,NY,1,Spartans,World Class,59.5,1992
+06/20,Milwaukee,WI,2,Phantom Regiment,World Class,73.5,1992
+06/20,Riverside,CA,2,Vanguard,World Class,73.5,1992
+06/20,Rochester,NY,2,Patriots,World Class,48.4,1992
+06/20,Milwaukee,WI,3,Madison Scouts,World Class,70.7,1992
+06/20,Riverside,CA,3,Blue Knights,World Class,69.9,1992
+06/20,Waterloo,Ontario,1,Saint John's,World Class,48.0,1992
+06/20,Rochester,NY,3,Cardinals,World Class,44.7,1992
+06/20,Milwaukee,WI,4,Glassmen,World Class,66.1,1992
+06/20,Riverside,CA,4,Velvet Knights,World Class,63.1,1992
+06/20,Waterloo,Ontario,2,Conqueror II,World Class,43.7,1992
+06/20,Rochester,NY,4,Royal Columbians,World Class,43.0,1992
+06/20,Milwaukee,WI,5,Minnesota Brass,World Class,55.9,1992
+06/20,Riverside,CA,5,Freelancers,World Class,61.6,1992
+06/20,Waterloo,Ontario,3,Emerald Knights,World Class,39.1,1992
+06/20,Rochester,NY,5,Eagles of Central NY,World Class,24.8,1992
+06/20,Milwaukee,WI,6,Pioneer,World Class,49.3,1992
+06/20,Waterloo,Ontario,4,Northwind Rebels,World Class,33.1,1992
+06/20,Milwaukee,WI,7,Blue Stars,World Class,40.6,1992
+06/20,Riverside,CA,1,Vanguard Cadets,World Class,60.1,1992
+06/20,Waterloo,Ontario,5,Ridge Raiders,World Class,26.9,1992
+06/20,Milwaukee,WI,8,Americanos,World Class,34.2,1992
+06/20,Riverside,CA,2,Blue Devils B,World Class,55.8,1992
+06/20,Riverside,CA,3,Arizona Sun,World Class,54.4,1992
+06/20,Waterloo,Ontario,1,Dutch Boy Cadets,World Class,54.0,1992
+06/20,Riverside,CA,4,Mandarins,World Class,53.3,1992
+06/20,Waterloo,Ontario,2,Canadian Knights,World Class,52.2,1992
+06/20,Billerica,MA,1,Buccaneers,World Class,65.3,1992
+06/21,Green Bay,WI,1,Madison Scouts,World Class,70.9,1992
+06/21,Oswego,IL,1,Phantom Regiment,World Class,75.7,1992
+06/21,Terre Haute,IN,1,Star of Indiana,World Class,75.7,1992
+06/20,Billerica,MA,2,Satellites,World Class,49.3,1992
+06/21,Green Bay,WI,2,Blue Stars,World Class,48.7,1992
+06/21,Oswego,IL,2,Glassmen,World Class,65.6,1992
+06/21,Terre Haute,IN,2,Colts,World Class,56.6,1992
+06/21,Green Bay,WI,3,Americanos,World Class,41.8,1992
+06/21,Oswego,IL,3,Pioneer,World Class,51.1,1992
+06/21,Terre Haute,IN,3,Northern Aurora,World Class,53.2,1992
+06/20,Billerica,MA,1,East Coast Jazz,World Class,58.6,1992
+06/21,Green Bay,WI,4,Madison Junior Scouts,World Class,33.4,1992
+06/21,Oswego,IL,4,CapitolAires,World Class,47.8,1992
+06/21,Terre Haute,IN,4,Limited Edition,World Class,47.2,1992
+06/20,Billerica,MA,2,Phoenix,World Class,56.6,1992
+06/21,Green Bay,WI,5,Racine Scouts,World Class,14.9,1992
+06/21,Oswego,IL,5,Chicago Vanguard,World Class,42.7,1992
+06/21,Terre Haute,IN,5,Royalaires,World Class,33.0,1992
+06/20,Billerica,MA,3,Royal Cadets,World Class,55.6,1992
+06/21,Oswego,IL,6,Phantom Regiment Cadets,World Class,37.9,1992
+06/21,Terre Haute,IN,6,Knights,World Class,32.1,1992
+06/20,Billerica,MA,4,Joanettes,World Class,48.5,1992
+06/21,Oswego,IL,7,Rapid City Express,World Class,21.6,1992
+06/20,Billerica,MA,1,Citations,World Class,53.4,1992
+06/20,Billerica,MA,2,East Coast Cadets,World Class,38.8,1992
+06/20,Billerica,MA,3,Braintree Braves,World Class,13.8,1992
+06/21,Scarborough,Ontario,1,Kiwanis Kavaliers,World Class,65.0,1992
+06/21,Costa Mesa,CA,1,Blue Devils,World Class,76.4,1992
+06/22,Canton,MI,1,Cavaliers,World Class,78.2,1992
+06/24,Modesto,CA,1,Blue Knights,World Class,77.1,1992
+06/21,Scarborough,Ontario,2,Saint John's,World Class,51.5,1992
+06/21,Costa Mesa,CA,2,Vanguard,World Class,75.0,1992
+06/22,Canton,MI,2,Bluecoats,World Class,68.2,1992
+06/24,Modesto,CA,2,Velvet Knights,World Class,69.2,1992
+06/21,Scarborough,Ontario,3,Patriots,World Class,50.8,1992
+06/21,Costa Mesa,CA,3,Blue Knights,World Class,72.4,1992
+06/22,Canton,MI,3,Northern Aurora,World Class,58.2,1992
+06/21,Scarborough,Ontario,4,Cardinals,World Class,45.9,1992
+06/21,Costa Mesa,CA,4,Velvet Knights,World Class,64.2,1992
+06/22,Canton,MI,4,Kiwanis Kavaliers,World Class,48.9,1992
+06/24,Modesto,CA,1,Vanguard Cadets,World Class,68.5,1992
+06/21,Scarborough,Ontario,5,Royal Columbians,World Class,39.9,1992
+06/21,Costa Mesa,CA,5,Freelancers,World Class,59.3,1992
+06/22,Canton,MI,5,Bandettes,World Class,33.7,1992
+06/24,Modesto,CA,2,Mandarins,World Class,62.0,1992
+06/21,Scarborough,Ontario,6,New York Lancers,World Class,36.9,1992
+06/22,Canton,MI,6,12th Command,World Class,25.2,1992
+06/24,Modesto,CA,3,Arizona Sun,World Class,60.9,1992
+06/21,Scarborough,Ontario,7,Ridge Raiders,World Class,32.0,1992
+06/21,Costa Mesa,CA,1,Vanguard Cadets,World Class,63.7,1992
+06/21,Scarborough,Ontario,8,Eagles of Central NY,World Class,29.1,1992
+06/21,Costa Mesa,CA,2,Blue Devils B,World Class,58.6,1992
+06/21,Costa Mesa,CA,3,Arizona Sun,World Class,56.8,1992
+06/21,Costa Mesa,CA,4,Mandarins,World Class,55.0,1992
+06/24,Biddeford,MA,1,Academie Musicale,World Class,75.0,1992
+06/25,Pittsburgh,PA,1,Cadets,World Class,71.6,1992
+06/25,Streator,IL,1,Cavaliers,World Class,75.7,1992
+06/26,Clearwater,FL,1,Spirit of Atlanta,World Class,61.1,1992
+06/24,Biddeford,MA,2,Southern Knights,World Class,63.8,1992
+06/25,Pittsburgh,PA,2,Crossmen,World Class,70.0,1992
+06/25,Streator,IL,2,Phantom Regiment,World Class,74.3,1992
+06/26,Clearwater,FL,2,Sky Ryders,World Class,54.6,1992
+06/24,Biddeford,MA,3,Empire Loyalists,World Class,59.9,1992
+06/25,Pittsburgh,PA,3,Bluecoats,World Class,65.5,1992
+06/25,Streator,IL,3,Colts,World Class,57.8,1992
+06/26,Clearwater,FL,3,Magic of Orlando,World Class,51.7,1992
+06/24,Biddeford,MA,4,Satellites,World Class,55.7,1992
+06/25,Pittsburgh,PA,4,Glassmen,World Class,62.8,1992
+06/25,Streator,IL,4,Kiwanis Kavaliers,World Class,53.2,1992
+06/24,Biddeford,MA,5,Springfield Ambassadors,World Class,52.5,1992
+06/25,Pittsburgh,PA,5,Dutch Boy,World Class,57.6,1992
+06/25,Streator,IL,5,Troopers,World Class,53.1,1992
+06/26,Clearwater,FL,1,Southwind,World Class,68.9,1992
+06/25,Pittsburgh,PA,6,Cardinals,World Class,48.4,1992
+06/25,Streator,IL,6,Railmen,World Class,42.4,1992
+06/26,Clearwater,FL,2,Carolina Crown,World Class,59.3,1992
+06/25,Pittsburgh,PA,7,Golden Lancers,World Class,39.5,1992
+06/25,Streator,IL,7,Knights,World Class,40.2,1992
+06/26,Clearwater,FL,3,Florida Guardsmen,World Class,46.6,1992
+06/25,Streator,IL,8,Bandettes,World Class,35.2,1992
+06/26,Clearwater,FL,4,Suncoast Sound,World Class,43.7,1992
+06/25,Streator,IL,9,Rapid City Express,World Class,20.4,1992
+06/26,Clearwater,FL,5,Delta Brigade,World Class,27.6,1992
+06/26,Newark,DE,1,Crossmen,World Class,70.2,1992
+06/26,Indianapolis,IN,1,Cavaliers,World Class,77.5,1992
+06/26,LaCrosse,WI,1,Madison Scouts,World Class,77.2,1992
+06/26,Monmouth,IL,1,Phantom Regiment,World Class,74.9,1992
+06/26,Newark,DE,2,Cadets,World Class,68.8,1992
+06/26,Indianapolis,IN,2,Star of Indiana,World Class,75.8,1992
+06/26,LaCrosse,WI,2,Colts,World Class,63.0,1992
+06/26,Monmouth,IL,2,Troopers,World Class,56.9,1992
+06/26,Newark,DE,3,Boston Crusaders,World Class,55.6,1992
+06/26,Indianapolis,IN,3,Glassmen,World Class,65.9,1992
+06/26,LaCrosse,WI,3,Pioneer,World Class,53.9,1992
+06/26,Monmouth,IL,3,Phantom Regiment Cadets,World Class,42.5,1992
+06/26,Newark,DE,4,Dutch Boy,World Class,53.1,1992
+06/26,Indianapolis,IN,4,Bluecoats,World Class,65.5,1992
+06/26,LaCrosse,WI,4,CapitolAires,World Class,46.2,1992
+06/26,Monmouth,IL,4,Knights,World Class,42.0,1992
+06/26,Indianapolis,IN,5,Northern Aurora,World Class,51.0,1992
+06/26,LaCrosse,WI,5,Americanos,World Class,40.6,1992
+06/26,Monmouth,IL,5,Railmen,World Class,41.1,1992
+06/26,Newark,DE,1,Cardinals,World Class,51.7,1992
+06/26,Indianapolis,IN,6,Kiwanis Kavaliers,World Class,48.1,1992
+06/26,LaCrosse,WI,6,Bandettes,World Class,39.5,1992
+06/26,Monmouth,IL,6,Royalaires,World Class,34.5,1992
+06/26,Newark,DE,2,Jersey Surf,World Class,42.1,1992
+06/26,Indianapolis,IN,7,Limited Edition,World Class,44.1,1992
+06/26,LaCrosse,WI,7,Colt Cadets,World Class,19.0,1992
+06/26,Monmouth,IL,7,Rapid City Express,World Class,20.2,1992
+06/26,Indianapolis,IN,8,Golden Lancers,World Class,24.4,1992
+06/26,Sacramento,CA,1,Blue Devils,World Class,78.9,1992
+06/27,East Rutherford,NJ,1,Crossmen,World Class,71.8,1992
+06/27,Melbourne,FL,1,Spirit of Atlanta,World Class,64.8,1992
+06/27,Alexandria,MN,1,Madison Scouts,World Class,75.7,1992
+06/26,Sacramento,CA,2,Vanguard,World Class,76.4,1992
+06/27,East Rutherford,NJ,2,Cadets,World Class,71.5,1992
+06/27,Melbourne,FL,2,Sky Ryders,World Class,59.1,1992
+06/27,Alexandria,MN,2,Minnesota Brass,World Class,59.2,1992
+06/26,Sacramento,CA,3,Blue Knights,World Class,76.3,1992
+06/27,East Rutherford,NJ,3,Boston Crusaders,World Class,57.4,1992
+06/27,Melbourne,FL,3,Magic of Orlando,World Class,54.8,1992
+06/27,Alexandria,MN,3,Pioneer,World Class,50.9,1992
+06/26,Sacramento,CA,4,Velvet Knights,World Class,68.9,1992
+06/27,East Rutherford,NJ,4,Dutch Boy,World Class,55.9,1992
+06/27,Alexandria,MN,4,CapitolAires,World Class,42.2,1992
+06/26,Sacramento,CA,5,Freelancers,World Class,62.0,1992
+06/27,Melbourne,FL,1,Southwind,World Class,64.2,1992
+06/27,Alexandria,MN,5,Americanos,World Class,36.4,1992
+06/26,Sacramento,CA,6,Marauders,World Class,57.6,1992
+06/27,East Rutherford,NJ,1,Spartans,World Class,60.9,1992
+06/27,Melbourne,FL,2,Carolina Crown,World Class,54.1,1992
+06/27,Alexandria,MN,6,Bandettes,World Class,35.9,1992
+06/27,East Rutherford,NJ,2,Cardinals,World Class,52.0,1992
+06/27,Melbourne,FL,3,Florida Guardsmen,World Class,43.7,1992
+06/26,Sacramento,CA,1,Vanguard Cadets,World Class,64.2,1992
+06/27,East Rutherford,NJ,3,Raiders,World Class,38.0,1992
+06/27,Melbourne,FL,4,Suncoast Sound,World Class,41.7,1992
+06/26,Sacramento,CA,2,Mandarins,World Class,63.1,1992
+06/27,Melbourne,FL,5,Delta Brigade,World Class,20.7,1992
+06/26,Sacramento,CA,3,Blue Devils B,World Class,60.9,1992
+06/26,Sacramento,CA,4,Arizona Sun,World Class,59.7,1992
+06/27,Cedar Rapids,IA,1,Phantom Regiment,World Class,75.3,1992
+06/27,Massillon,OH,1,Cavaliers,World Class,77.6,1992
+06/27,Hayward,CA,1,Blue Devils,World Class,79.3,1992
+06/27,Rosemont,IL,1,Kiwanis Kavaliers,World Class,53.6,1992
+06/27,Cedar Rapids,IA,2,Troopers,World Class,58.9,1992
+06/27,Massillon,OH,2,Star of Indiana,World Class,75.5,1992
+06/27,Hayward,CA,2,Vanguard,World Class,77.9,1992
+06/27,Rosemont,IL,2,Chicago Vanguard,World Class,45.1,1992
+06/27,Cedar Rapids,IA,3,Railmen,World Class,45.1,1992
+06/27,Massillon,OH,3,Bluecoats,World Class,66.0,1992
+06/27,Hayward,CA,3,Blue Knights,World Class,75.8,1992
+06/27,Rosemont,IL,3,Madison Junior Scouts,World Class,31.5,1992
+06/27,Cedar Rapids,IA,4,Phantom Regiment Cadets,World Class,43.8,1992
+06/27,Massillon,OH,4,Glassmen,World Class,64.9,1992
+06/27,Hayward,CA,4,Velvet Knights,World Class,69.6,1992
+06/27,Rosemont,IL,4,12th Command,World Class,30.3,1992
+06/27,Cedar Rapids,IA,5,Knights,World Class,42.7,1992
+06/27,Massillon,OH,5,Northern Aurora,World Class,53.0,1992
+06/27,Hayward,CA,5,Freelancers,World Class,63.5,1992
+06/27,Rosemont,IL,5,Prince Hall Lancers,World Class,27.8,1992
+06/27,Cedar Rapids,IA,6,Blue Stars,World Class,41.4,1992
+06/27,Massillon,OH,6,Limited Edition,World Class,47.6,1992
+06/27,Hayward,CA,6,Marauders,World Class,59.6,1992
+06/27,Rosemont,IL,6,Joliet Kingsmen,World Class,20.9,1992
+06/27,Cedar Rapids,IA,7,Nite Express,World Class,41.1,1992
+06/27,Massillon,OH,7,Golden Lancers,World Class,27.4,1992
+06/27,Rosemont,IL,7,New Day,World Class,19.9,1992
+06/27,Cedar Rapids,IA,8,Rapid City Express,World Class,25.6,1992
+06/27,Hayward,CA,1,Vanguard Cadets,World Class,67.9,1992
+06/27,Rosemont,IL,8,Patriots-IL,World Class,14.7,1992
+06/27,Hayward,CA,2,Blue Devils B,World Class,65.5,1992
+06/27,Rosemont,IL,9,Boy Scout Troop #63,World Class,13.2,1992
+06/27,Hayward,CA,3,Mandarins,World Class,64.3,1992
+06/27,Hayward,CA,4,Arizona Sun,World Class,60.1,1992
+06/27,Randolph,MA,1,Buccaneers,DCA Class A,58.1,1992
+06/27,Brantford,Ontario,1,Saint John's,DCA Class A,56.8,1992
+06/27,Antioch,IL,1,Chicago Vanguard,DCA Class A,42.0,1992
+06/27,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,75.3,1992
+06/27,Randolph,MA,2,Satellites,DCA Class A,46.9,1992
+06/27,Brantford,Ontario,2,Conqueror II,DCA Class A,51.2,1992
+06/27,Antioch,IL,2,Royalaires,DCA Class A,36.9,1992
+06/27,Bridgeport,CT,2,Bushwackers,Open Class,73.5,1992
+06/27,Randolph,MA,3,Springfield Ambassadors,DCA Class A,43.4,1992
+06/27,Brantford,Ontario,3,Emerald Knights,DCA Class A,46.2,1992
+06/27,Antioch,IL,3,Marquis,DCA Class A,36.0,1992
+06/27,Bridgeport,CT,3,Connecticut Hurricanes,Open Class,70.2,1992
+06/27,Brantford,Ontario,4,Northwind Rebels,DCA Class A,37.2,1992
+06/27,Antioch,IL,4,Madison Junior Scouts,DCA Class A,29.3,1992
+06/27,Bridgeport,CT,4,New York Skyliners,Open Class,68.8,1992
+06/27,Randolph,MA,1,East Coast Jazz,DCA Class A,63.7,1992
+06/27,Brantford,Ontario,5,Blue Saints,DCA Class A,36.4,1992
+06/27,Antioch,IL,5,Guardsmen Cadets,DCA Class A,20.5,1992
+06/27,Bridgeport,CT,5,Rochester Crusaders,Open Class,64.1,1992
+06/27,Randolph,MA,2,Phoenix,DCA Class A,63.3,1992
+06/27,Brantford,Ontario,6,Ridge Raiders,DCA Class A,34.8,1992
+06/27,Antioch,IL,6,Racine Scouts,DCA Class A,11.7,1992
+06/27,Bridgeport,CT,6,Sunrisers,Open Class,61.8,1992
+06/27,Randolph,MA,3,Royal Cadets,DCA Class A,55.5,1992
+06/27,Bridgeport,CT,7,Capitol Brass Ensemble,Open Class,51.0,1992
+06/27,Randolph,MA,4,Joanettes,DCA Class A,54.3,1992
+06/27,Brantford,Ontario,1,Canadian Knights,DCA Class A,58.4,1992
+06/27,Brantford,Ontario,2,Dutch Boy Cadets,DCA Class A,56.0,1992
+06/27,Randolph,MA,1,Citations,DCA Class A,53.1,1992
+06/27,Randolph,MA,2,East Coast Cadets,DCA Class A,45.0,1992
+06/27,Randolph,MA,3,Braintree Braves,DCA Class A,3.6,1992
+06/27,Randolph,MA,1,Reading Buccaneers,DCA Class A,71.4,1992
+06/28,Rochester,MN,1,Phantom Regiment,DCA Class A,79.5,1992
+06/28,Dayton,FL,1,Spirit of Atlanta,DCA Class A,66.3,1992
+06/28,Waltham,MA,1,Cadets,Open Class,72.8,1992
+06/27,Randolph,MA,2,Chieftains,DCA Class A,53.1,1992
+06/28,Rochester,MN,2,Madison Scouts,DCA Class A,78.7,1992
+06/28,Dayton,FL,2,Sky Ryders,DCA Class A,59.4,1992
+06/28,Waltham,MA,2,Boston Crusaders,Open Class,60.5,1992
+06/27,Randolph,MA,3,Grey Knights,DCA Class A,50.7,1992
+06/28,Rochester,MN,3,Colts,DCA Class A,64.4,1992
+06/28,Dayton,FL,3,Magic of Orlando,DCA Class A,55.7,1992
+06/28,Waltham,MA,3,Dutch Boy,Open Class,57.5,1992
+06/28,Rochester,MN,4,Minnesota Brass,DCA Class A,62.9,1992
+06/28,Rochester,MN,5,Troopers,DCA Class A,61.1,1992
+06/28,Dayton,FL,1,Southwind,DCA Class A,70.8,1992
+06/28,Waltham,MA,1,Spartans,Open Class,65.2,1992
+06/28,Rochester,MN,6,Pioneer,DCA Class A,49.6,1992
+06/28,Dayton,FL,2,Carolina Crown,DCA Class A,58.5,1992
+06/28,Waltham,MA,2,Cardinals,Open Class,50.5,1992
+06/28,Rochester,MN,7,CapitolAires,DCA Class A,49.6,1992
+06/28,Dayton,FL,3,Florida Guardsmen,DCA Class A,47.2,1992
+06/28,Waltham,MA,3,Royal Columbians,Open Class,46.6,1992
+06/28,Rochester,MN,8,Blue Stars,DCA Class A,43.1,1992
+06/28,Dayton,FL,4,Suncoast Sound,DCA Class A,44.6,1992
+06/28,Rochester,MN,9,Americanos,DCA Class A,42.3,1992
+06/28,Dayton,FL,5,Delta Brigade,DCA Class A,27.6,1992
+06/28,Rochester,MN,10,Phantom Regiment Cadets,DCA Class A,37.6,1992
+06/28,Port Clinton,OH,1,Cavaliers,DCA Class A,78.8,1992
+06/28,Rochester,MN,1,Saint John's,DCA Class A,64.7,1992
+06/28,Burlington,MA,1,Buccaneers,DCA Class A,62.1,1992
+06/29,Montreal,Quebec,1,Cadets,Open Class,76.7,1992
+06/28,Port Clinton,OH,2,Star of Indiana,DCA Class A,78.6,1992
+06/28,Rochester,MN,2,Conqueror II,DCA Class A,54.8,1992
+06/28,Burlington,MA,2,Satellites,DCA Class A,50.2,1992
+06/29,Montreal,Quebec,2,Crossmen,Open Class,75.8,1992
+06/28,Port Clinton,OH,3,Glassmen,DCA Class A,67.1,1992
+06/28,Rochester,MN,3,Emerald Knights,DCA Class A,49.1,1992
+06/29,Montreal,Quebec,3,Dutch Boy,Open Class,60.5,1992
+06/28,Port Clinton,OH,4,Northern Aurora,DCA Class A,56.6,1992
+06/28,Rochester,MN,4,Northwind Rebels,DCA Class A,42.7,1992
+06/28,Burlington,MA,1,East Coast Jazz,DCA Class A,63.4,1992
+06/28,Port Clinton,OH,5,Kiwanis Kavaliers,DCA Class A,50.4,1992
+06/28,Rochester,MN,5,Blue Saints,DCA Class A,39.5,1992
+06/28,Burlington,MA,2,Phoenix,DCA Class A,60.6,1992
+06/29,Montreal,Quebec,1,Cardinals,Open Class,49.5,1992
+06/28,Port Clinton,OH,6,Limited Edition,DCA Class A,49.1,1992
+06/28,Rochester,MN,6,Ridge Raiders,DCA Class A,38.6,1992
+06/28,Burlington,MA,3,Royal Cadets,DCA Class A,59.4,1992
+06/29,Montreal,Quebec,2,Academie Musicale,Open Class,46.7,1992
+06/28,Port Clinton,OH,7,Golden Lancers,DCA Class A,27.0,1992
+06/28,Burlington,MA,4,Joanettes,DCA Class A,54.7,1992
+06/29,Montreal,Quebec,3,Dimension,Open Class,44.5,1992
+06/28,Rochester,MN,1,Canadian Knights,DCA Class A,61.4,1992
+06/28,Burlington,MA,1,Citations,DCA Class A,54.2,1992
+06/28,Burlington,MA,2,East Coast Cadets,DCA Class A,41.4,1992
+06/28,Burlington,MA,3,Braintree Braves,DCA Class A,8.2,1992
+06/28,Port Clinton,OH,1,Cavaliers,DCA Class A,77.1,1992
+06/28,Port Clinton,OH,2,Star of Indiana,DCA Class A,76.4,1992
+06/28,Port Clinton,OH,3,Glassmen,DCA Class A,67.7,1992
+06/28,Port Clinton,OH,4,Bluecoats,DCA Class A,65.9,1992
+06/28,Port Clinton,OH,5,Northern Aurora,DCA Class A,55.0,1992
+06/28,Port Clinton,OH,6,Kiwanis Kavaliers,DCA Class A,48.9,1992
+06/28,Port Clinton,OH,7,Limited Edition,DCA Class A,46.2,1992
+07/01,Bridgeport,CT,1,Cadets,World Class,74.4,1992
+07/01,Oshkosh,WI,1,Cavaliers,World Class,79.7,1992
+07/01,Woodburn,OR,1,Freelancers,World Class,68.2,1992
+07/02,Belvidere,IL,1,Cavaliers,World Class,80.2,1992
+07/01,Bridgeport,CT,2,Crossmen,World Class,73.8,1992
+07/01,Oshkosh,WI,2,Phantom Regiment,World Class,78.6,1992
+07/01,Woodburn,OR,2,Marauders,World Class,61.6,1992
+07/02,Belvidere,IL,2,Phantom Regiment,World Class,78.5,1992
+07/01,Bridgeport,CT,3,Sky Ryders,World Class,58.5,1992
+07/01,Oshkosh,WI,3,Glassmen,World Class,69.2,1992
+07/02,Belvidere,IL,3,Glassmen,World Class,69.2,1992
+07/01,Bridgeport,CT,4,Dutch Boy,World Class,53.8,1992
+07/01,Oshkosh,WI,4,Colts,World Class,62.5,1992
+07/01,Woodburn,OR,1,Vanguard Cadets,World Class,69.7,1992
+07/02,Belvidere,IL,4,Limited Edition,World Class,55.9,1992
+07/01,Oshkosh,WI,5,Limited Edition,World Class,51.7,1992
+07/01,Woodburn,OR,2,Blue Devils B,World Class,64.3,1992
+07/02,Belvidere,IL,5,Kiwanis Kavaliers,World Class,55.6,1992
+07/01,Bridgeport,CT,1,Cardinals,World Class,47.3,1992
+07/01,Oshkosh,WI,6,Phantom Regiment Cadets,World Class,41.7,1992
+07/01,Woodburn,OR,3,Seattle Cascades,World Class,49.7,1992
+07/02,Belvidere,IL,6,Phantom Regiment Cadets,World Class,39.8,1992
+07/01,Bridgeport,CT,2,Academie Musicale,World Class,47.6,1992
+07/01,Oshkosh,WI,7,Americanos,World Class,39.6,1992
+07/02,Belvidere,IL,7,Rapid City Express,World Class,24.4,1992
+07/01,Bridgeport,CT,3,New York Lancers,World Class,39.6,1992
+07/01,Oshkosh,WI,8,Madison Junior Scouts,World Class,33.9,1992
+07/02,Cottage Grove,MN,1,Madison Scouts,World Class,72.3,1992
+07/03,Bristol,RI,1,Cadets,World Class,76.6,1992
+07/03,Austin,MN,1,Vanguard,World Class,75.2,1992
+07/03,Mount Prospect,IL,1,Cavaliers,World Class,80.0,1992
+07/02,Cottage Grove,MN,2,Minnesota Brass,World Class,58.5,1992
+07/03,Bristol,RI,2,Crossmen,World Class,74.8,1992
+07/03,Austin,MN,2,Troopers,World Class,59.7,1992
+07/03,Mount Prospect,IL,2,Phantom Regiment,World Class,78.8,1992
+07/02,Cottage Grove,MN,3,Troopers,World Class,57.3,1992
+07/03,Bristol,RI,3,Boston Crusaders,World Class,58.6,1992
+07/03,Austin,MN,3,Pioneer,World Class,55.2,1992
+07/03,Mount Prospect,IL,3,Kiwanis Kavaliers,World Class,57.2,1992
+07/02,Cottage Grove,MN,4,Pioneer,World Class,55.4,1992
+07/03,Bristol,RI,4,Sky Ryders,World Class,57.9,1992
+07/03,Austin,MN,4,CapitolAires,World Class,52.5,1992
+07/03,Mount Prospect,IL,4,Nite Express,World Class,44.5,1992
+07/02,Cottage Grove,MN,5,CapitolAires,World Class,49.7,1992
+07/03,Bristol,RI,5,Dutch Boy,World Class,54.0,1992
+07/03,Austin,MN,5,Blue Stars,World Class,50.6,1992
+07/03,Mount Prospect,IL,5,Rapid City Express,World Class,30.1,1992
+07/02,Cottage Grove,MN,6,Bandettes,World Class,48.2,1992
+07/03,Austin,MN,6,Bandettes,World Class,47.5,1992
+07/03,Mount Prospect,IL,6,Colt Cadets,World Class,25.5,1992
+07/02,Cottage Grove,MN,7,Blue Stars,World Class,47.2,1992
+07/03,Bristol,RI,1,Academie Musicale,World Class,54.6,1992
+07/03,Austin,MN,7,Govenaires,World Class,40.1,1992
+07/03,Mount Prospect,IL,7,Guardsmen Cadets,World Class,21.1,1992
+07/02,Cottage Grove,MN,8,Govenaires,World Class,35.2,1992
+07/03,Bristol,RI,2,Patriots,World Class,51.7,1992
+07/03,Bristol,RI,3,Cardinals,World Class,48.9,1992
+07/03,Racine,WI,1,Glassmen,World Class,68.7,1992
+07/03,Longview,WA,1,Blue Devils,World Class,82.2,1992
+07/03,Highland Park,IL,1,Conqueror II,World Class,72.0,1992
+07/03,New Berlin,WI,1,Knights,World Class,51.3,1992
+07/03,Racine,WI,2,Colts,World Class,64.9,1992
+07/03,Longview,WA,2,Freelancers,World Class,67.4,1992
+07/03,Highland Park,IL,2,Royalaires,World Class,71.6,1992
+07/03,New Berlin,WI,2,Saint John's,World Class,49.0,1992
+07/03,Racine,WI,3,Northern Aurora,World Class,61.5,1992
+07/03,Longview,WA,3,Marauders,World Class,61.6,1992
+07/03,Highland Park,IL,3,Madison Junior Scouts,World Class,65.3,1992
+07/03,New Berlin,WI,3,Phantom Regiment Cadets,World Class,45.2,1992
+07/03,Racine,WI,4,Limited Edition,World Class,56.1,1992
+07/03,Highland Park,IL,4,Prince Hall Lancers,World Class,61.7,1992
+07/03,New Berlin,WI,4,Marquis,World Class,38.1,1992
+07/03,Racine,WI,5,Americanos,World Class,45.3,1992
+07/03,Longview,WA,1,Vanguard Cadets,World Class,73.4,1992
+07/03,Highland Park,IL,5,Joliet Kingsmen,World Class,54.2,1992
+07/03,New Berlin,WI,5,Ridge Raiders,World Class,31.0,1992
+07/03,Longview,WA,2,Blue Devils B,World Class,69.4,1992
+07/03,Highland Park,IL,6,New Day,World Class,53.3,1992
+07/03,Longview,WA,3,Mandarins,World Class,68.1,1992
+07/03,Longview,WA,4,Seattle Cascades,World Class,50.5,1992
+07/04,Wakefield,MA,1,Cadets,World Class,77.1,1992
+07/04,Saint Peter,MN,1,Madison Scouts,World Class,76.3,1992
+07/05,Beverly,MA,1,Star of Indiana,World Class,81.7,1992
+07/05,East Troy,WI,1,Northern Aurora,World Class,59.9,1992
+07/04,Wakefield,MA,2,Crossmen,World Class,76.6,1992
+07/04,Saint Peter,MN,2,Minnesota Brass,World Class,63.0,1992
+07/05,Beverly,MA,2,Crossmen,World Class,76.3,1992
+07/05,East Troy,WI,2,Nite Express,World Class,49.1,1992
+07/04,Wakefield,MA,3,Sky Ryders,World Class,61.7,1992
+07/04,Saint Peter,MN,3,Troopers,World Class,60.9,1992
+07/05,Beverly,MA,3,Sky Ryders,World Class,61.0,1992
+07/05,East Troy,WI,3,Americanos,World Class,48.0,1992
+07/04,Wakefield,MA,4,Boston Crusaders,World Class,60.1,1992
+07/04,Saint Peter,MN,4,Pioneer,World Class,52.8,1992
+07/05,Beverly,MA,4,Boston Crusaders,World Class,59.3,1992
+07/05,East Troy,WI,4,Marquis,World Class,31.6,1992
+07/04,Wakefield,MA,5,Dutch Boy,World Class,57.9,1992
+07/04,Saint Peter,MN,5,Blue Stars,World Class,50.0,1992
+07/05,East Troy,WI,5,Colt Cadets,World Class,27.2,1992
+07/04,Saint Peter,MN,6,CapitolAires,World Class,49.3,1992
+07/05,Beverly,MA,1,Spartans,World Class,57.8,1992
+07/05,East Troy,WI,6,Guardsmen Cadets,World Class,25.0,1992
+07/04,Saint Peter,MN,7,Bandettes,World Class,46.0,1992
+07/05,Beverly,MA,2,Patriots,World Class,56.5,1992
+07/04,Saint Peter,MN,8,Govenaires,World Class,40.7,1992
+07/05,Beverly,MA,3,Royal Columbians,World Class,46.6,1992
+07/05,Dixon,IL,1,Phantom Regiment,World Class,79.9,1992
+07/05,Mankato,MN,1,Madison Scouts,World Class,77.9,1992
+07/05,Edmonds,WA,1,Blue Devils,World Class,82.9,1992
+07/05,Oswego,NY,1,Academie Musicale,World Class,59.8,1992
+07/05,Dixon,IL,2,Cavaliers,World Class,79.3,1992
+07/05,Mankato,MN,2,Vanguard,World Class,77.1,1992
+07/05,Edmonds,WA,2,Freelancers,World Class,69.6,1992
+07/05,Oswego,NY,2,Cardinals,World Class,58.2,1992
+07/05,Dixon,IL,3,Colts,World Class,58.8,1992
+07/05,Mankato,MN,3,Minnesota Brass,World Class,61.8,1992
+07/05,Edmonds,WA,3,Marauders,World Class,61.6,1992
+07/05,Oswego,NY,3,New York Lancers,World Class,39.8,1992
+07/05,Dixon,IL,4,Knights,World Class,48.7,1992
+07/05,Mankato,MN,4,Troopers,World Class,61.1,1992
+07/05,Oswego,NY,4,Contemporary Youth Ens,World Class,39.0,1992
+07/05,Dixon,IL,5,Phantom Regiment Cadets,World Class,44.6,1992
+07/05,Mankato,MN,5,Pioneer,World Class,55.9,1992
+07/05,Edmonds,WA,1,Vanguard Cadets,World Class,75.3,1992
+07/05,Oswego,NY,5,Spectrum,World Class,37.6,1992
+07/05,Dixon,IL,6,Chicago Vanguard,World Class,40.4,1992
+07/05,Mankato,MN,6,CapitolAires,World Class,52.0,1992
+07/05,Edmonds,WA,2,Mandarins,World Class,74.6,1992
+07/05,Oswego,NY,6,Eagles of Central NY,World Class,37.2,1992
+07/05,Dixon,IL,7,Royalaires,World Class,34.9,1992
+07/05,Mankato,MN,7,Blue Stars,World Class,49.1,1992
+07/05,Edmonds,WA,3,Blue Devils B,World Class,71.6,1992
+07/05,Oswego,NY,7,Dutch Boy Cadets,World Class,34.3,1992
+07/05,Mankato,MN,8,Bandettes,World Class,46.9,1992
+07/05,Edmonds,WA,4,Seattle Cascades,World Class,53.0,1992
+07/05,Mankato,MN,9,Govenaires,World Class,42.1,1992
+07/05,Sharon Hills,PA,1,Jersey Surf,World Class,67.0,1992
+07/06,Queens,NY,1,Cadets,World Class,78.0,1992
+07/06,Madison,WI,1,Phantom Regiment,World Class,79.8,1992
+07/07,Kingston,NY,1,Cadets,World Class,76.2,1992
+07/05,Sharon Hills,PA,2,Southern Knights,World Class,66.3,1992
+07/06,Queens,NY,2,Sky Ryders,World Class,61.6,1992
+07/06,Madison,WI,2,Madison Scouts,World Class,78.0,1992
+07/07,Kingston,NY,2,Crossmen,World Class,75.2,1992
+07/05,Sharon Hills,PA,3,Raiders,World Class,61.4,1992
+07/06,Queens,NY,3,Dutch Boy,World Class,57.3,1992
+07/06,Madison,WI,3,Vanguard,World Class,76.9,1992
+07/07,Kingston,NY,3,Dutch Boy,World Class,61.1,1992
+07/05,Sharon Hills,PA,4,Spectra,World Class,57.1,1992
+07/06,Madison,WI,4,Colts,World Class,63.3,1992
+07/05,Sharon Hills,PA,5,Quest,World Class,55.3,1992
+07/06,Queens,NY,1,Ventures,World Class,59.7,1992
+07/06,Madison,WI,5,Northern Aurora,World Class,58.4,1992
+07/07,Kingston,NY,1,Ventures,World Class,60.7,1992
+07/06,Queens,NY,2,Raiders,World Class,41.6,1992
+07/06,Madison,WI,6,CapitolAires,World Class,51.2,1992
+07/07,Kingston,NY,2,Springfield Ambassadors,World Class,33.9,1992
+07/05,Sharon Hills,PA,1,Junior Musketeers,World Class,52.8,1992
+07/07,Kingston,NY,3,Quest,World Class,30.1,1992
+07/05,Sharon Hills,PA,1,Marching 100,World Class,35.0,1992
+07/10,Philadelphia,PA,1,Cadets,World Class,80.8,1992
+07/10,Prattville,AL,1,Spirit of Atlanta,World Class,66.2,1992
+07/10,Bettendorf,IA,1,Phantom Regiment,World Class,83.5,1992
+07/10,Grand Rapids,MI,1,Cavaliers,World Class,79.6,1992
+07/10,Philadelphia,PA,2,Crossmen,World Class,80.3,1992
+07/10,Prattville,AL,2,Magic of Orlando,World Class,55.1,1992
+07/10,Bettendorf,IA,2,Velvet Knights,World Class,76.9,1992
+07/10,Grand Rapids,MI,2,Glassmen,World Class,68.3,1992
+07/10,Philadelphia,PA,3,Sky Ryders,World Class,68.8,1992
+07/10,Bettendorf,IA,3,Colts,World Class,66.9,1992
+07/10,Grand Rapids,MI,3,Northern Aurora,World Class,57.4,1992
+07/10,Philadelphia,PA,4,Boston Crusaders,World Class,66.1,1992
+07/10,Prattville,AL,1,Southwind,World Class,71.8,1992
+07/10,Bettendorf,IA,4,Pioneer,World Class,57.5,1992
+07/10,Grand Rapids,MI,4,Limited Edition,World Class,53.4,1992
+07/10,Philadelphia,PA,5,Golden Lancers,World Class,50.8,1992
+07/10,Prattville,AL,2,Carolina Crown,World Class,65.5,1992
+07/10,Bettendorf,IA,5,Railmen,World Class,52.4,1992
+07/10,Grand Rapids,MI,5,CapitolAires,World Class,47.2,1992
+07/10,Philadelphia,PA,6,Jersey Surf,World Class,49.8,1992
+07/10,Prattville,AL,3,Suncoast Sound,World Class,52.2,1992
+07/10,Bettendorf,IA,6,Blue Stars,World Class,51.9,1992
+07/10,Grand Rapids,MI,6,12th Command,World Class,31.3,1992
+07/10,Philadelphia,PA,7,Raiders,World Class,48.5,1992
+07/10,Prattville,AL,4,Florida Guardsmen,World Class,52.1,1992
+07/10,Bettendorf,IA,7,Knights,World Class,49.8,1992
+07/10,Grand Rapids,MI,7,Rapid City Express,World Class,30.9,1992
+07/10,Prattville,AL,5,Delta Brigade,World Class,26.9,1992
+07/10,Bettendorf,IA,8,Nite Express,World Class,45.6,1992
+07/10,Stockton,CA,1,Blue Devils,World Class,83.1,1992
+07/11,Atlanta,GA,1,Spirit of Atlanta,World Class,68.1,1992
+07/11,Hershey,PA,1,Star of Indiana,World Class,82.2,1992
+07/11,Dubuque,IA,1,Phantom Regiment,World Class,84.1,1992
+07/10,Stockton,CA,2,Vanguard,World Class,79.0,1992
+07/11,Atlanta,GA,2,Magic of Orlando,World Class,58.7,1992
+07/11,Hershey,PA,2,Cadets,World Class,79.2,1992
+07/11,Dubuque,IA,2,Madison Scouts,World Class,82.9,1992
+07/10,Stockton,CA,3,Freelancers,World Class,70.0,1992
+07/11,Hershey,PA,3,Crossmen,World Class,78.6,1992
+07/11,Dubuque,IA,3,Velvet Knights,World Class,78.9,1992
+07/11,Atlanta,GA,1,Southwind,World Class,75.7,1992
+07/11,Hershey,PA,4,Bluecoats,World Class,69.0,1992
+07/11,Dubuque,IA,4,Colts,World Class,70.1,1992
+07/10,Stockton,CA,1,Blue Devils B,World Class,71.9,1992
+07/11,Atlanta,GA,2,Carolina Crown,World Class,73.1,1992
+07/11,Hershey,PA,5,Sky Ryders,World Class,64.6,1992
+07/11,Dubuque,IA,5,Pioneer,World Class,59.2,1992
+07/10,Stockton,CA,2,Vanguard Cadets,World Class,71.1,1992
+07/11,Atlanta,GA,3,Florida Guardsmen,World Class,60.1,1992
+07/11,Hershey,PA,6,Boston Crusaders,World Class,61.5,1992
+07/11,Dubuque,IA,6,Railmen,World Class,53.4,1992
+07/10,Stockton,CA,3,Mandarins,World Class,70.5,1992
+07/11,Atlanta,GA,4,Suncoast Sound,World Class,58.9,1992
+07/11,Dubuque,IA,7,Blue Stars,World Class,51.4,1992
+07/10,Stockton,CA,4,Seattle Cascades,World Class,53.8,1992
+07/11,Atlanta,GA,5,Delta Brigade,World Class,31.3,1992
+07/11,Dubuque,IA,8,Americanos,World Class,43.6,1992
+07/11,Dubuque,IA,9,Colt Cadets,World Class,27.7,1992
+07/11,Michigan City,IN,1,Glassmen,World Class,68.6,1992
+07/11,Pleasant Hill,CA,1,Blue Devils,Open Class,86.3,1992
+07/11,Hershey,PA,1,Hawthorne Caballeros,Open Class,75.2,1992
+07/11,Herkimer,NY,1,Empire Statesmen,Open Class,80.5,1992
+07/11,Michigan City,IN,2,Northern Aurora,World Class,59.9,1992
+07/11,Pleasant Hill,CA,2,Vanguard,Open Class,81.5,1992
+07/11,Hershey,PA,2,Westshoremen,Open Class,69.8,1992
+07/11,Herkimer,NY,2,Bushwackers,Open Class,77.1,1992
+07/11,Michigan City,IN,3,Limited Edition,World Class,56.3,1992
+07/11,Pleasant Hill,CA,3,Freelancers,Open Class,72.0,1992
+07/11,Hershey,PA,3,Buccaneers,Open Class,66.2,1992
+07/11,Herkimer,NY,3,Connecticut Hurricanes,Open Class,73.0,1992
+07/11,Michigan City,IN,4,CapitolAires,World Class,44.4,1992
+07/11,Hershey,PA,4,New York Skyliners,Open Class,64.5,1992
+07/11,Herkimer,NY,4,Rochester Crusaders,Open Class,66.2,1992
+07/11,Michigan City,IN,5,Phantom Regiment Cadets,World Class,44.2,1992
+07/11,Pleasant Hill,CA,1,Blue Devils B,Open Class,75.3,1992
+07/11,Hershey,PA,5,Chieftains,Open Class,58.3,1992
+07/11,Herkimer,NY,5,Syracuse Brigadiers,Open Class,64.6,1992
+07/11,Michigan City,IN,6,Bandettes,World Class,38.7,1992
+07/11,Pleasant Hill,CA,2,Mandarins,Open Class,75.0,1992
+07/11,Herkimer,NY,6,Sunrisers,Open Class,61.3,1992
+07/11,Michigan City,IN,7,Rapid City Express,World Class,32.5,1992
+07/11,Pleasant Hill,CA,3,Vanguard Cadets,Open Class,74.6,1992
+07/11,Herkimer,NY,7,Capitol Brass Ensemble,Open Class,58.5,1992
+07/11,Pleasant Hill,CA,4,Seattle Cascades,Open Class,54.6,1992
+07/11,Sherbrooke,Quebec,1,Spartans,World Class,67.6,1992
+07/11,Sherbrooke,Quebec,1,Spartans,Open Class,66.1,1992
+07/11,Kitchner,Ontario,1,Dutch Boy,Open Class,67.2,1992
+07/11,Leominster,MA,1,Buccaneers,Open Class,72.1,1992
+07/11,Sherbrooke,Quebec,2,Dimension,World Class,65.3,1992
+07/11,Sherbrooke,Quebec,2,Dimension,Open Class,61.3,1992
+07/11,Leominster,MA,2,Satellites,Open Class,60.1,1992
+07/11,Sherbrooke,Quebec,3,Academie Musicale,World Class,53.6,1992
+07/11,Sherbrooke,Quebec,4,Cardinals,Open Class,54.7,1992
+07/11,Kitchner,Ontario,1,Kiwanis Kavaliers,Open Class,80.7,1992
+07/11,Sherbrooke,Quebec,4,Cardinals,World Class,50.3,1992
+07/11,Sherbrooke,Quebec,5,Academie Musicale,Open Class,54.4,1992
+07/11,Kitchner,Ontario,2,Ventures,Open Class,63.2,1992
+07/11,Leominster,MA,1,Phoenix,Open Class,70.1,1992
+07/11,Sherbrooke,Quebec,5,Royal Columbians,World Class,44.6,1992
+07/11,Sherbrooke,Quebec,6,"Les Senateurs--AL, QUE",Open Class,51.4,1992
+07/11,Leominster,MA,2,Joanettes,Open Class,65.3,1992
+07/11,Sherbrooke,Quebec,6,"Les Senateurs--AL, QUE",World Class,40.0,1992
+07/11,Sherbrooke,Quebec,7,Royal Columbians,Open Class,49.1,1992
+07/11,Kitchner,Ontario,1,Saint John's,Open Class,64.6,1992
+07/11,Leominster,MA,3,Royal Cadets,Open Class,63.4,1992
+07/11,Sherbrooke,Quebec,7,East Coast Jazz,World Class,36.6,1992
+07/11,Sherbrooke,Quebec,8,East Coast Jazz,Open Class,39.9,1992
+07/11,Kitchner,Ontario,2,Conqueror II,Open Class,58.0,1992
+07/11,Sherbrooke,Quebec,8,Les Senateurs--QUE,World Class,33.4,1992
+07/11,Sherbrooke,Quebec,9,Les Senateurs-QUE,Open Class,34.5,1992
+07/11,Kitchner,Ontario,3,Emerald Knights,Open Class,55.4,1992
+07/11,Leominster,MA,1,Citations,Open Class,63.8,1992
+07/11,Sherbrooke,Quebec,9,Les Etoiles,World Class,31.8,1992
+07/11,Kitchner,Ontario,4,Ridge Raiders,Open Class,45.1,1992
+07/11,Leominster,MA,2,East Coast Cadets,Open Class,52.4,1992
+07/11,Sherbrooke,Quebec,10,Musketeers,World Class,28.1,1992
+07/11,Leominster,MA,3,Braintree Braves,Open Class,21.2,1992
+07/11,Sherbrooke,Quebec,11,Springfield Ambassadors,World Class,27.8,1992
+07/11,Kitchner,Ontario,1,Dutch Boy Cadets,Open Class,63.9,1992
+07/11,Oakland,NJ,1,Southern Knights,World Class,64.2,1992
+07/12,Augusta,GA,1,Spirit of Atlanta,Open Class,67.7,1992
+07/12,Charleston,WV,1,Star of Indiana,Open Class,82.4,1992
+07/12,Fon du Lac,WI,1,Colts,Open Class,69.6,1992
+07/11,Oakland,NJ,2,Spectra,World Class,55.5,1992
+07/12,Augusta,GA,2,Magic of Orlando,Open Class,58.8,1992
+07/12,Charleston,WV,2,Cadets,Open Class,80.3,1992
+07/12,Fon du Lac,WI,2,Blue Stars,Open Class,57.1,1992
+07/11,Oakland,NJ,3,Crimson Kings,World Class,54.4,1992
+07/12,Charleston,WV,3,Crossmen,Open Class,78.6,1992
+07/12,Fon du Lac,WI,3,Americanos,Open Class,49.4,1992
+07/11,Oakland,NJ,4,Quest,World Class,50.0,1992
+07/12,Augusta,GA,1,Southwind,Open Class,74.2,1992
+07/12,Charleston,WV,4,Sky Ryders,Open Class,69.0,1992
+07/12,Fon du Lac,WI,4,Bandettes,Open Class,45.3,1992
+07/12,Augusta,GA,2,Carolina Crown,Open Class,73.3,1992
+07/12,Fon du Lac,WI,5,Nite Express,Open Class,44.6,1992
+07/11,Oakland,NJ,1,Marching 100,World Class,39.3,1992
+07/12,Augusta,GA,3,Florida Guardsmen,Open Class,55.9,1992
+07/12,Charleston,WV,1,Golden Lancers,Open Class,43.0,1992
+07/11,Oakland,NJ,2,Oakland Rangers,World Class,33.5,1992
+07/12,Augusta,GA,4,Suncoast Sound,Open Class,55.7,1992
+07/12,Augusta,GA,5,Delta Brigade,Open Class,30.7,1992
+07/12,Tyngsboro,MA,1,Buccaneers,World Class,68.2,1992
+07/12,Belleville,Ontario,1,Kiwanis Kavaliers,Open Class,80.3,1992
+07/12,Belleville,Ontario,1,Dutch Boy,Open Class,68.5,1992
+07/12,Rockford,IL,1,Cavaliers,Open Class,84.7,1992
+07/12,Tyngsboro,MA,2,Satellites,World Class,56.9,1992
+07/12,Belleville,Ontario,2,Cardinals,Open Class,68.2,1992
+07/12,Rockford,IL,2,Phantom Regiment,Open Class,84.5,1992
+07/12,Belleville,Ontario,3,Ventures,Open Class,66.1,1992
+07/12,Belleville,Ontario,1,Kiwanis Kavaliers,Open Class,82.2,1992
+07/12,Rockford,IL,3,Madison Scouts,Open Class,83.5,1992
+07/12,Tyngsboro,MA,1,Phoenix,World Class,66.0,1992
+07/12,Belleville,Ontario,2,Cardinals,Open Class,67.4,1992
+07/12,Rockford,IL,4,Velvet Knights,Open Class,78.7,1992
+07/12,Tyngsboro,MA,2,Joanettes,World Class,63.2,1992
+07/12,Belleville,Ontario,1,Saint John's,Open Class,67.9,1992
+07/12,Rockford,IL,5,Glassmen,Open Class,74.4,1992
+07/12,Tyngsboro,MA,3,Royal Cadets,World Class,62.4,1992
+07/12,Belleville,Ontario,2,Conqueror II,Open Class,59.2,1992
+07/12,Belleville,Ontario,1,Saint John's,Open Class,67.1,1992
+07/12,Rockford,IL,6,Limited Edition,Open Class,57.5,1992
+07/12,Tyngsboro,MA,4,Junior Musketeers,World Class,59.6,1992
+07/12,Belleville,Ontario,3,Emerald Knights,Open Class,56.7,1992
+07/12,Belleville,Ontario,2,Conqueror II,Open Class,60.0,1992
+07/12,Rockford,IL,7,Railmen,Open Class,53.5,1992
+07/12,Belleville,Ontario,4,Ridge Raiders,Open Class,43.5,1992
+07/12,Belleville,Ontario,3,Emerald Knights,Open Class,55.7,1992
+07/12,Rockford,IL,8,CapitolAires,Open Class,48.8,1992
+07/12,Tyngsboro,MA,1,Citations,World Class,55.9,1992
+07/12,Belleville,Ontario,5,Northwind Rebels,Open Class,42.4,1992
+07/12,Rockford,IL,9,Phantom Regiment Cadets,Open Class,44.3,1992
+07/12,Tyngsboro,MA,2,Braintree Braves,World Class,8.8,1992
+07/12,Belleville,Ontario,1,Canadian Knights,Open Class,66.6,1992
+07/12,Belleville,Ontario,1,Canadian Knights,Open Class,62.1,1992
+07/12,Belleville,Ontario,2,Dutch Boy Cadets,Open Class,65.6,1992
+07/12,Belleville,Ontario,2,Dutch Boy Cadets,Open Class,61.5,1992
+07/12,Belleville,Ontario,3,Contemporary Youth Ens,Open Class,58.0,1992
+07/12,Belleville,Ontario,4,Empire Loyalists,Open Class,57.7,1992
+07/12,Newark,NJ,1,Jersey Surf,World Class,65.6,1992
+07/13,Kannapolis,NC,1,Spirit of Atlanta,Open Class,71.0,1992
+07/13,Belleville,Ontario,1,Star of Indiana,Open Class,84.5,1992
+07/14,Richmond,VA,1,Spirit of Atlanta,Open Class,70.3,1992
+07/12,Newark,NJ,2,Southern Knights,World Class,63.1,1992
+07/13,Kannapolis,NC,2,Bluecoats,Open Class,69.3,1992
+07/13,Belleville,Ontario,2,Crossmen,Open Class,79.6,1992
+07/14,Richmond,VA,2,Bluecoats,Open Class,68.5,1992
+07/12,Newark,NJ,3,Raiders,World Class,62.3,1992
+07/13,Kannapolis,NC,3,Magic of Orlando,Open Class,65.7,1992
+07/13,Belleville,Ontario,3,Sky Ryders,Open Class,69.5,1992
+07/14,Richmond,VA,3,Magic of Orlando,Open Class,63.4,1992
+07/12,Newark,NJ,4,Spectra,World Class,56.7,1992
+07/12,Newark,NJ,5,Crimson Kings,World Class,55.4,1992
+07/13,Kannapolis,NC,1,Southwind,Open Class,75.3,1992
+07/13,Belleville,Ontario,1,Cardinals,Open Class,53.9,1992
+07/14,Richmond,VA,1,Southwind,Open Class,75.8,1992
+07/12,Newark,NJ,6,Quest,World Class,52.2,1992
+07/13,Kannapolis,NC,2,Carolina Crown,Open Class,75.0,1992
+07/13,Belleville,Ontario,2,Golden Lancers,Open Class,41.2,1992
+07/14,Richmond,VA,2,Carolina Crown,Open Class,74.7,1992
+07/13,Kannapolis,NC,3,Suncoast Sound,Open Class,60.3,1992
+07/14,Richmond,VA,3,Suncoast Sound,Open Class,65.2,1992
+07/12,Newark,NJ,1,Marching 100,World Class,37.5,1992
+07/13,Kannapolis,NC,4,Florida Guardsmen,Open Class,58.4,1992
+07/14,Richmond,VA,4,Florida Guardsmen,Open Class,50.4,1992
+07/13,Kannapolis,NC,5,Delta Brigade,Open Class,34.9,1992
+07/15,Ogden,UT,1,Blue Devils,World Class,83.9,1992
+07/15,Albuquerque,NM,1,Blue Knights,Open Class,82.8,1992
+07/16,Bensalem,PA,1,Crossmen,Open Class,83.6,1992
+07/16,Cheyenne,WY,1,Vanguard,Open Class,81.7,1992
+07/15,Ogden,UT,2,Vanguard,World Class,79.7,1992
+07/15,Albuquerque,NM,2,Black Gold,Open Class,65.6,1992
+07/16,Bensalem,PA,2,Spirit of Atlanta,Open Class,73.8,1992
+07/16,Cheyenne,WY,2,Freelancers,Open Class,73.0,1992
+07/15,Ogden,UT,3,Freelancers,World Class,71.8,1992
+07/15,Albuquerque,NM,3,Troopers,Open Class,63.3,1992
+07/16,Bensalem,PA,3,Sky Ryders,Open Class,70.8,1992
+07/16,Cheyenne,WY,3,Marauders,Open Class,67.9,1992
+07/15,Ogden,UT,4,Marauders,World Class,56.3,1992
+07/16,Bensalem,PA,4,Carolina Crown,Open Class,67.4,1992
+07/16,Cheyenne,WY,4,Troopers,Open Class,63.4,1992
+07/15,Albuquerque,NM,1,Arizona Sun,Open Class,69.8,1992
+07/16,Bensalem,PA,5,Jersey Surf,Open Class,50.4,1992
+07/16,Cheyenne,WY,5,Black Gold,Open Class,59.4,1992
+07/15,Ogden,UT,1,Vanguard Cadets,World Class,75.0,1992
+07/16,Bensalem,PA,6,Musketeers,Open Class,31.3,1992
+07/15,Ogden,UT,2,Blue Devils B,World Class,70.1,1992
+07/16,Cheyenne,WY,1,Vanguard Cadets,Open Class,77.2,1992
+07/15,Ogden,UT,3,Allegiance Elite,World Class,65.3,1992
+07/16,Cheyenne,WY,2,Blue Devils B,Open Class,74.9,1992
+07/16,Cheyenne,WY,3,Arizona Sun,Open Class,71.9,1992
+07/16,Cheyenne,WY,4,Allegiance Elite,Open Class,66.8,1992
+07/16,College Park,MD,1,Cadets,World Class,83.0,1992
+07/17,Marlborough,MA,1,Crossmen,Open Class,84.4,1992
+07/17,Bayonne,NJ,1,Cadets,Open Class,81.5,1992
+07/17,Denver,CO,1,Blue Devils,Open Class,86.7,1992
+07/16,College Park,MD,2,Velvet Knights,World Class,76.9,1992
+07/17,Marlborough,MA,2,Spirit of Atlanta,Open Class,75.0,1992
+07/17,Bayonne,NJ,2,Velvet Knights,Open Class,75.1,1992
+07/17,Denver,CO,2,Vanguard,Open Class,84.4,1992
+07/16,College Park,MD,3,Magic of Orlando,World Class,66.1,1992
+07/17,Marlborough,MA,3,Magic of Orlando,Open Class,65.8,1992
+07/17,Bayonne,NJ,3,Dutch Boy,Open Class,66.4,1992
+07/17,Denver,CO,3,Blue Knights,Open Class,82.6,1992
+07/17,Marlborough,MA,3,Boston Crusaders,Open Class,65.8,1992
+07/17,Denver,CO,4,Freelancers,Open Class,74.3,1992
+07/16,College Park,MD,1,Southwind,World Class,76.4,1992
+07/17,Bayonne,NJ,1,Southwind,Open Class,73.1,1992
+07/17,Denver,CO,5,Marauders,Open Class,70.3,1992
+07/16,College Park,MD,2,Florida Guardsmen,World Class,58.6,1992
+07/17,Marlborough,MA,1,Carolina Crown,Open Class,75.4,1992
+07/17,Bayonne,NJ,2,Florida Guardsmen,Open Class,59.4,1992
+07/17,Denver,CO,6,Troopers,Open Class,66.7,1992
+07/16,College Park,MD,3,Suncoast Sound,World Class,57.9,1992
+07/17,Marlborough,MA,2,Spartans,Open Class,71.6,1992
+07/17,Bayonne,NJ,3,Raiders,Open Class,48.0,1992
+07/17,Denver,CO,7,Black Gold,Open Class,60.1,1992
+07/17,Bayonne,NJ,4,Quest,Open Class,34.6,1992
+07/17,Denver,CO,1,Vanguard Cadets,Open Class,80.1,1992
+07/17,Denver,CO,2,Blue Devils B,Open Class,76.0,1992
+07/17,Denver,CO,3,Arizona Sun,Open Class,66.7,1992
+07/17,Denver,CO,4,Allegiance Elite,Open Class,65.9,1992
+07/17,Toledo,OH,1,Star of Indiana,World Class,85.6,1992
+07/18,Toledo,OH,1,Pioneer,Open Class,61.8,1992
+07/18,Toledo,OH,1,Star of Indiana,Open Class,85.3,1992
+07/18,Cobourg,ONT,1,Conqueror II,Open Class,57.1,1992
+07/17,Toledo,OH,2,Cavaliers,World Class,84.2,1992
+07/18,Toledo,OH,2,Blue Stars,Open Class,57.8,1992
+07/18,Toledo,OH,2,Cavaliers,Open Class,84.4,1992
+07/18,Cobourg,ONT,2,Emerald Knights,Open Class,53.4,1992
+07/17,Toledo,OH,3,Phantom Regiment,World Class,83.3,1992
+07/18,Toledo,OH,3,CapitolAires,Open Class,57.2,1992
+07/18,Toledo,OH,3,Madison Scouts,Open Class,83.5,1992
+07/18,Cobourg,ONT,3,Northwind Rebels,Open Class,45.4,1992
+07/17,Toledo,OH,4,Madison Scouts,World Class,82.3,1992
+07/18,Toledo,OH,4,Railmen,Open Class,52.5,1992
+07/18,Toledo,OH,4,Phantom Regiment,Open Class,81.8,1992
+07/18,Cobourg,ONT,4,Ridge Raiders,Open Class,36.9,1992
+07/17,Toledo,OH,5,Glassmen,World Class,75.2,1992
+07/18,Toledo,OH,5,Quad City Knights,Open Class,51.3,1992
+07/18,Toledo,OH,5,Glassmen,Open Class,75.2,1992
+07/17,Toledo,OH,6,Bluecoats,World Class,73.8,1992
+07/18,Toledo,OH,6,Nite Express,Open Class,50.1,1992
+07/18,Toledo,OH,6,Bluecoats,Open Class,73.5,1992
+07/18,Cobourg,ONT,1,Empire Loyalists,Open Class,36.9,1992
+07/17,Toledo,OH,7,Colts,World Class,67.0,1992
+07/18,Toledo,OH,7,Americanos,Open Class,48.2,1992
+07/18,Cobourg,ONT,2,Canadian Knights,Open Class,58.7,1992
+07/18,Toledo,OH,8,Bandettes,Open Class,46.4,1992
+07/18,Toledo,OH,1,Limited Edition,Open Class,58.1,1992
+07/17,Toledo,OH,1,Northern Aurora,World Class,61.6,1992
+07/18,Toledo,OH,9,Phantom Regiment Cadets,Open Class,44.6,1992
+07/18,Toledo,OH,2,Northern Aurora,Open Class,52.9,1992
+07/17,Toledo,OH,2,Limited Edition,World Class,56.5,1992
+07/18,Toledo,OH,10,Royalaires,Open Class,43.4,1992
+07/18,Toledo,OH,11,Madison Junior Scouts,Open Class,39.2,1992
+07/18,Toledo,OH,1,Pioneer,Open Class,56.6,1992
+07/18,Toledo,OH,12,12th Command,Open Class,38.8,1992
+07/18,Toledo,OH,2,CapitolAires,Open Class,52.9,1992
+07/18,Toledo,OH,13,Marquis,Open Class,36.8,1992
+07/18,Toledo,OH,3,Blue Stars,Open Class,52.1,1992
+07/18,Toledo,OH,14,Colt Cadets,Open Class,34.3,1992
+07/18,Toledo,OH,4,Railmen,Open Class,45.8,1992
+07/18,Toledo,OH,15,Rapid City Express,Open Class,30.9,1992
+07/18,Toledo,OH,16,Prince Hall Lancers,Open Class,30.1,1992
+07/18,Toledo,OH,1,Minnesota Brass,Open Class,62.3,1992
+07/18,Toledo,OH,17,Guardsmen Cadets,Open Class,27.8,1992
+07/18,Toledo,OH,2,Chicago Vanguard,Open Class,47.7,1992
+07/18,Toledo,OH,18,Racine Scouts,Open Class,17.0,1992
+07/18,Toledo,OH,1,Minnesota Brass,Open Class,62.3,1992
+07/18,Toledo,OH,2,Chicago Vanguard,Open Class,47.7,1992
+07/18,Toledo,OH,3,Govenaires,Open Class,44.0,1992
+07/18,Toledo,OH,4,Bluegrass Brass,Open Class,39.5,1992
+07/18,Boston,MA,1,Southwind,World Class,85.3,1992
+07/18,Boston,MA,1,Cadets,Open Class,85.3,1992
+07/18,Allentown,PA,1,Bushwackers,Open Class,84.7,1992
+07/18,Rochester,NY,1,Empire Statesmen,Open Class,86.2,1992
+07/18,Boston,MA,2,Carolina Crown,World Class,84.1,1992
+07/18,Boston,MA,2,Crossmen,Open Class,84.2,1992
+07/18,Allentown,PA,2,Connecticut Hurricanes,Open Class,82.2,1992
+07/18,Rochester,NY,2,Hawthorne Caballeros,Open Class,83.6,1992
+07/18,Boston,MA,3,Spartans,World Class,81.3,1992
+07/18,Boston,MA,3,Velvet Knights,Open Class,77.5,1992
+07/18,Allentown,PA,3,Westshoremen,Open Class,80.0,1992
+07/18,Rochester,NY,3,Les Metropolitans,Open Class,74.0,1992
+07/18,Boston,MA,4,Academie Musicale,World Class,75.2,1992
+07/18,Boston,MA,4,Spirit of Atlanta,Open Class,74.6,1992
+07/18,Allentown,PA,4,Reading Buccaneers,Open Class,73.6,1992
+07/18,Rochester,NY,4,Rochester Crusaders,Open Class,71.1,1992
+07/18,Boston,MA,5,Ventures,World Class,73.2,1992
+07/18,Boston,MA,5,Sky Ryders,Open Class,70.2,1992
+07/18,Allentown,PA,5,New York Skyliners,Open Class,72.3,1992
+07/18,Rochester,NY,5,Syracuse Brigadiers,Open Class,69.7,1992
+07/18,Boston,MA,6,Patriots,World Class,72.8,1992
+07/18,Boston,MA,6,Boston Crusaders,Open Class,69.1,1992
+07/18,Allentown,PA,6,Sunrisers,Open Class,67.5,1992
+07/18,Rochester,NY,6,Capitol Brass Ensemble,Open Class,60.3,1992
+07/18,Boston,MA,7,Florida Guardsmen,World Class,71.0,1992
+07/18,Boston,MA,7,Dutch Boy,Open Class,68.9,1992
+07/18,Allentown,PA,7,Chieftains,Open Class,60.5,1992
+07/18,Boston,MA,8,Dimension,World Class,70.2,1992
+07/18,Boston,MA,8,Southwind,Open Class,66.3,1992
+07/18,Boston,MA,9,Buccaneers,World Class,60.2,1992
+07/18,Boston,MA,9,Magic of Orlando,Open Class,64.7,1992
+07/18,Boston,MA,10,New York Lancers,World Class,58.2,1992
+07/18,Boston,MA,10,Carolina Crown,Open Class,61.8,1992
+07/18,Boston,MA,11,Royal Columbians,World Class,55.8,1992
+07/18,Boston,MA,11,Spartans,Open Class,55.2,1992
+07/18,Boston,MA,12,Raiders,World Class,51.7,1992
+07/18,Boston,MA,12,Academie Musicale,Open Class,48.6,1992
+07/18,Boston,MA,13,Contemporary Youth Ens,World Class,49.1,1992
+07/18,Boston,MA,13,Ventures,Open Class,46.3,1992
+07/18,Boston,MA,14,Springfield Ambassadors,World Class,43.6,1992
+07/18,Boston,MA,15,Royal Cadets,World Class,40.9,1992
+07/18,Boston,MA,16,Phoenix,World Class,39.9,1992
+07/18,Boston,MA,17,East Coast Jazz,World Class,39.6,1992
+07/19,Buffalo,NY,1,Cavaliers,World Class,85.9,1992
+07/19,Gardner,MA,1,Boston Crusaders,Open Class,71.0,1992
+07/19,Gardner,MA,1,Buccaneers,Open Class,73.0,1992
+07/19,Rochester,NY,1,Cardinals,Open Class,68.4,1992
+07/19,Buffalo,NY,2,Phantom Regiment,World Class,84.2,1992
+07/19,Gardner,MA,2,Satellites,Open Class,62.5,1992
+07/19,Buffalo,NY,3,Cadets,World Class,83.9,1992
+07/19,Gardner,MA,1,Southwind,Open Class,85.3,1992
+07/19,Rochester,NY,1,Conqueror II,Open Class,61.1,1992
+07/19,Buffalo,NY,4,Crossmen,World Class,82.5,1992
+07/19,Gardner,MA,2,Spartans,Open Class,77.5,1992
+07/19,Gardner,MA,1,East Coast Jazz,Open Class,71.6,1992
+07/19,Rochester,NY,2,Emerald Knights,Open Class,58.9,1992
+07/19,Buffalo,NY,5,Velvet Knights,World Class,77.7,1992
+07/19,Gardner,MA,3,Ventures,Open Class,72.0,1992
+07/19,Gardner,MA,2,Phoenix,Open Class,67.1,1992
+07/19,Rochester,NY,3,Ridge Raiders,Open Class,48.7,1992
+07/19,Buffalo,NY,6,Glassmen,World Class,77.7,1992
+07/19,Gardner,MA,4,Patriots,Open Class,70.4,1992
+07/19,Gardner,MA,3,Royal Cadets,Open Class,63.1,1992
+07/19,Rochester,NY,4,Northwind Rebels,Open Class,46.4,1992
+07/19,Buffalo,NY,7,Spirit of Atlanta,World Class,75.3,1992
+07/19,Gardner,MA,5,Academie Musicale,Open Class,69.7,1992
+07/19,Gardner,MA,4,Joanettes,Open Class,62.6,1992
+07/19,Buffalo,NY,8,Bluecoats,World Class,72.7,1992
+07/19,Gardner,MA,6,Buccaneers,Open Class,60.5,1992
+07/19,Rochester,NY,1,Empire Loyalists,Open Class,64.0,1992
+07/19,Buffalo,NY,9,Sky Ryders,World Class,69.0,1992
+07/19,Gardner,MA,7,Royal Columbians,Open Class,55.0,1992
+07/19,Gardner,MA,1,Citations,Open Class,62.1,1992
+07/19,Rochester,NY,1,Canadian Knights,Open Class,64.0,1992
+07/19,Buffalo,NY,10,Dutch Boy,World Class,65.9,1992
+07/19,Gardner,MA,8,Raiders,Open Class,51.2,1992
+07/19,Gardner,MA,2,East Coast Cadets,Open Class,43.6,1992
+07/19,Buffalo,NY,11,Magic of Orlando,World Class,63.0,1992
+07/19,Gardner,MA,9,Satellites,Open Class,43.1,1992
+07/19,Gardner,MA,3,Braves,Open Class,30.1,1992
+07/19,Gardner,MA,10,East Coast Jazz,Open Class,41.9,1992
+07/19,Gardner,MA,11,Springfield Ambassadors,Open Class,38.8,1992
+07/19,Gardner,MA,12,Phoenix,Open Class,38.4,1992
+07/19,Gardner,MA,13,Royal Cadets,Open Class,37.7,1992
+07/19,Gardner,MA,14,Quest,Open Class,33.0,1992
+07/19,Delaware County,PA,1,Florida Guardsmen,World Class,73.4,1992
+07/20,Omaha,NE,1,Blue Devils,Open Class,87.0,1992
+07/21,Bellevue,OH,1,Cavaliers,Open Class,87.8,1992
+07/21,Ankeny,IA,1,Blue Devils,Open Class,87.0,1992
+07/19,Delaware County,PA,2,Jersey Surf,World Class,69.5,1992
+07/20,Omaha,NE,2,Vanguard,Open Class,83.3,1992
+07/21,Bellevue,OH,2,Crossmen,Open Class,81.4,1992
+07/21,Ankeny,IA,2,Star of Indiana,Open Class,84.6,1992
+07/19,Delaware County,PA,3,Southern Knights,World Class,66.8,1992
+07/20,Omaha,NE,3,Blue Knights,Open Class,82.2,1992
+07/21,Bellevue,OH,3,Glassmen,Open Class,73.2,1992
+07/21,Ankeny,IA,3,Freelancers,Open Class,73.9,1992
+07/19,Delaware County,PA,4,New York Lancers,World Class,65.4,1992
+07/20,Omaha,NE,4,Marauders,Open Class,70.4,1992
+07/21,Bellevue,OH,4,Velvet Knights,Open Class,72.7,1992
+07/21,Ankeny,IA,4,Marauders,Open Class,67.7,1992
+07/19,Delaware County,PA,5,Spectrum,World Class,65.0,1992
+07/20,Omaha,NE,5,Troopers,Open Class,66.6,1992
+07/21,Bellevue,OH,5,Bluecoats,Open Class,71.2,1992
+07/21,Ankeny,IA,5,Black Gold,Open Class,61.3,1992
+07/19,Delaware County,PA,6,Spectra,World Class,55.0,1992
+07/20,Omaha,NE,6,Black Gold,Open Class,65.7,1992
+07/21,Bellevue,OH,6,Dutch Boy,Open Class,60.9,1992
+07/21,Ankeny,IA,6,Nite Express,Open Class,50.5,1992
+07/19,Delaware County,PA,7,Musketeers,World Class,51.8,1992
+07/21,Bellevue,OH,7,Limited Edition,Open Class,46.6,1992
+07/19,Delaware County,PA,8,Firebirds,World Class,51.0,1992
+07/20,Omaha,NE,1,Allegiance Elite,Open Class,62.9,1992
+07/19,Delaware County,PA,9,Marching 100,World Class,38.7,1992
+07/20,Omaha,NE,2,Railmen,Open Class,60.8,1992
+07/21,Burlington,IA,1,Madison Scouts,World Class,86.4,1992
+07/21,Pittsburgh,PA,1,Phantom Regiment,Open Class,86.7,1992
+07/22,Alton,IL,1,Star of Indiana,Open Class,86.4,1992
+07/22,Centerville,OH,1,Cavaliers,Open Class,85.5,1992
+07/21,Burlington,IA,2,Vanguard,World Class,83.0,1992
+07/21,Pittsburgh,PA,1,Cadets,Open Class,86.7,1992
+07/22,Alton,IL,2,Blue Devils,Open Class,85.2,1992
+07/22,Centerville,OH,2,Crossmen,Open Class,81.3,1992
+07/21,Burlington,IA,3,Blue Knights,World Class,81.8,1992
+07/21,Pittsburgh,PA,3,Spirit of Atlanta,Open Class,74.5,1992
+07/22,Alton,IL,3,Freelancers,Open Class,76.0,1992
+07/22,Centerville,OH,3,Glassmen,Open Class,76.0,1992
+07/21,Burlington,IA,4,Colts,World Class,68.1,1992
+07/21,Pittsburgh,PA,4,Sky Ryders,Open Class,73.5,1992
+07/22,Alton,IL,4,Marauders,Open Class,67.3,1992
+07/22,Centerville,OH,4,Velvet Knights,Open Class,75.0,1992
+07/21,Burlington,IA,5,Troopers,World Class,64.9,1992
+07/21,Pittsburgh,PA,5,Southwind,Open Class,65.1,1992
+07/22,Alton,IL,5,Black Gold,Open Class,63.1,1992
+07/22,Centerville,OH,5,Bluecoats,Open Class,71.5,1992
+07/21,Burlington,IA,6,Allegiance Elite,World Class,54.9,1992
+07/21,Pittsburgh,PA,6,Magic of Orlando,Open Class,61.3,1992
+07/22,Alton,IL,6,Knights,Open Class,59.3,1992
+07/22,Centerville,OH,6,Dutch Boy,Open Class,66.7,1992
+07/21,Burlington,IA,7,Knights,World Class,49.9,1992
+07/22,Alton,IL,7,Nite Express,Open Class,50.1,1992
+07/22,Centerville,OH,7,Limited Edition,Open Class,55.4,1992
+07/22,Evansville,IN,1,Madison Scouts,World Class,86.0,1992
+07/22,Huntington,WV,1,Phantom Regiment,Open Class,85.4,1992
+07/23,Ishpeming,MI,1,Northern Aurora,Open Class,65.1,1992
+07/24,Morrisville,NY,1,Patriots,Open Class,71.0,1992
+07/22,Evansville,IN,2,Vanguard,World Class,83.5,1992
+07/22,Huntington,WV,2,Cadets,Open Class,84.9,1992
+07/23,Ishpeming,MI,2,Pioneer,Open Class,60.1,1992
+07/24,Morrisville,NY,2,New York Lancers,Open Class,68.4,1992
+07/22,Evansville,IN,3,Blue Knights,World Class,79.6,1992
+07/22,Huntington,WV,3,Spirit of Atlanta,Open Class,74.1,1992
+07/23,Ishpeming,MI,3,Limited Edition,Open Class,59.8,1992
+07/24,Morrisville,NY,3,Springfield Ambassadors,Open Class,56.7,1992
+07/22,Evansville,IN,4,Troopers,World Class,64.2,1992
+07/22,Huntington,WV,4,Sky Ryders,Open Class,68.3,1992
+07/23,Ishpeming,MI,4,Bandettes,Open Class,49.0,1992
+07/22,Evansville,IN,5,Colts,World Class,63.4,1992
+07/22,Huntington,WV,5,Southwind,Open Class,64.3,1992
+07/23,Ishpeming,MI,5,Saint John's,Open Class,44.0,1992
+07/24,Morrisville,NY,1,Empire Loyalists,Open Class,74.0,1992
+07/22,Evansville,IN,6,Allegiance Elite,World Class,48.8,1992
+07/22,Huntington,WV,6,Magic of Orlando,Open Class,61.3,1992
+07/23,Ishpeming,MI,6,Blue Saints,Open Class,33.9,1992
+07/24,Morrisville,NY,2,Contemporary Youth Ens,Open Class,73.3,1992
+07/24,Morrisville,NY,3,Firebirds,Open Class,65.0,1992
+07/24,Morrisville,NY,4,Oakland Crusaders,Open Class,64.1,1992
+07/24,Charlevoix,MI,1,Northern Aurora,World Class,67.5,1992
+07/24,Sudbury,Ontario,1,Kiwanis Kavaliers,Open Class,81.2,1992
+07/24,Cumberland,MD,1,Empire Statesmen,Open Class,85.9,1992
+07/24,Schenectady,NY,1,Connecticut Hurricanes,Open Class,81.4,1992
+07/24,Charlevoix,MI,2,Kiwanis Kavaliers,World Class,66.5,1992
+07/24,Sudbury,Ontario,2,Limited Edition,Open Class,79.0,1992
+07/24,Cumberland,MD,2,Bushwackers,Open Class,85.4,1992
+07/24,Schenectady,NY,2,Rochester Crusaders,Open Class,74.8,1992
+07/24,Charlevoix,MI,3,Pioneer,World Class,62.9,1992
+07/24,Cumberland,MD,3,Hawthorne Caballeros,Open Class,82.7,1992
+07/24,Schenectady,NY,3,New York Skyliners,Open Class,74.2,1992
+07/24,Charlevoix,MI,4,Limited Edition,World Class,59.8,1992
+07/24,Sudbury,Ontario,1,Pioneer,Open Class,78.8,1992
+07/24,Cumberland,MD,4,Westshoremen,Open Class,78.9,1992
+07/24,Schenectady,NY,4,Les Metropolitans,Open Class,72.2,1992
+07/24,Charlevoix,MI,5,Saint John's,World Class,52.6,1992
+07/24,Sudbury,Ontario,2,Saint John's,Open Class,66.1,1992
+07/24,Cumberland,MD,5,Reading Buccaneers,Open Class,74.6,1992
+07/24,Schenectady,NY,5,Sunrisers,Open Class,69.1,1992
+07/24,Charlevoix,MI,6,Bandettes,World Class,49.9,1992
+07/24,Sudbury,Ontario,3,Bandettes,Open Class,64.2,1992
+07/24,Cumberland,MD,6,Steel City Ambassadors,Open Class,63.6,1992
+07/24,Schenectady,NY,6,Capitol Brass Ensemble,Open Class,65.9,1992
+07/24,Charlevoix,MI,7,Blue Saints,World Class,32.4,1992
+07/24,Sudbury,Ontario,4,Emerald Knights,Open Class,49.7,1992
+07/24,Sudbury,Ontario,5,Northwind Rebels,Open Class,39.2,1992
+07/24,Sudbury,Ontario,6,Blue Saints,Open Class,37.9,1992
+07/24,Nashville,TN,1,Star of Indiana,World Class,91.9,1992
+07/25,Nashville,TN,1,Star of Indiana,Open Class,91.8,1992
+07/25,Liverpool,NY,1,Patriots,Open Class,88.1,1992
+07/25,River Grove,IL,1,CapitolAires,Open Class,60.2,1992
+07/24,Nashville,TN,2,Blue Devils,World Class,89.7,1992
+07/25,Nashville,TN,2,Blue Devils,Open Class,90.9,1992
+07/25,Liverpool,NY,2,Ventures,Open Class,85.3,1992
+07/25,River Grove,IL,2,Chicago Vanguard,Open Class,57.6,1992
+07/24,Nashville,TN,3,Cavaliers,World Class,89.2,1992
+07/25,Nashville,TN,3,Cavaliers,Open Class,89.7,1992
+07/25,Liverpool,NY,3,Royal Columbians,Open Class,63.2,1992
+07/25,River Grove,IL,3,Blue Stars,Open Class,57.5,1992
+07/24,Nashville,TN,4,Madison Scouts,World Class,88.5,1992
+07/25,Nashville,TN,4,Madison Scouts,Open Class,88.7,1992
+07/25,Liverpool,NY,4,Spectrum,Open Class,54.4,1992
+07/25,River Grove,IL,4,Govenaires,Open Class,56.8,1992
+07/24,Nashville,TN,5,Phantom Regiment,World Class,88.1,1992
+07/25,Nashville,TN,5,Cadets,Open Class,88.6,1992
+07/25,Liverpool,NY,5,Springfield Ambassadors,Open Class,52.6,1992
+07/25,River Grove,IL,5,Phantom Regiment Cadets,Open Class,50.1,1992
+07/24,Nashville,TN,6,Cadets,World Class,88.0,1992
+07/25,Nashville,TN,6,Phantom Regiment,Open Class,87.3,1992
+07/25,River Grove,IL,6,Bluegrass Brass,Open Class,46.1,1992
+07/24,Nashville,TN,7,Vanguard,World Class,86.2,1992
+07/25,Nashville,TN,7,Vanguard,Open Class,84.9,1992
+07/25,River Grove,IL,7,Guardsmen Cadets,Open Class,30.6,1992
+07/24,Nashville,TN,8,Blue Knights,World Class,85.8,1992
+07/25,Nashville,TN,8,Blue Knights,Open Class,84.0,1992
+07/24,Nashville,TN,9,Crossmen,World Class,85.3,1992
+07/25,Nashville,TN,9,Crossmen,Open Class,83.7,1992
+07/24,Nashville,TN,10,Velvet Knights,World Class,81.8,1992
+07/25,Nashville,TN,10,Velvet Knights,Open Class,79.4,1992
+07/24,Nashville,TN,11,Bluecoats,World Class,78.0,1992
+07/25,Nashville,TN,11,Freelancers,Open Class,76.8,1992
+07/24,Nashville,TN,12,Freelancers,World Class,77.6,1992
+07/25,Nashville,TN,12,Bluecoats,Open Class,76.0,1992
+07/24,Nashville,TN,13,Glassmen,World Class,76.6,1992
+07/24,Nashville,TN,14,Spirit of Atlanta,World Class,74.2,1992
+07/24,Nashville,TN,15,Sky Ryders,World Class,72.8,1992
+07/24,Nashville,TN,16,Boston Crusaders,World Class,72.7,1992
+07/24,Nashville,TN,17,Marauders,World Class,71.1,1992
+07/24,Nashville,TN,18,Dutch Boy,World Class,68.7,1992
+07/24,Nashville,TN,19,Troopers,World Class,66.9,1992
+07/24,Nashville,TN,20,Magic of Orlando,World Class,66.1,1992
+07/24,Nashville,TN,21,Southwind,World Class,65.1,1992
+07/24,Nashville,TN,22,Carolina Crown,World Class,64.7,1992
+07/24,Nashville,TN,23,Colts,World Class,62.2,1992
+07/24,Nashville,TN,24,Black Gold,World Class,60.4,1992
+07/25,Leominster,MA,1,Buccaneers,World Class,71.9,1992
+07/25,South Jersey,NJ,1,Southern Knights,Open Class,73.4,1992
+07/26,Verona,NY,1,Ventures,Open Class,72.4,1992
+07/26,Alexandria,MN,1,Cadets,Open Class,88.8,1992
+07/25,Leominster,MA,2,Satellites,World Class,55.1,1992
+07/25,South Jersey,NJ,2,Raiders,Open Class,70.8,1992
+07/26,Verona,NY,2,Patriots,Open Class,69.3,1992
+07/26,Alexandria,MN,2,Blue Knights,Open Class,83.0,1992
+07/25,South Jersey,NJ,3,Spectra,Open Class,65.7,1992
+07/26,Verona,NY,3,New York Lancers,Open Class,54.0,1992
+07/26,Alexandria,MN,3,Bluecoats,Open Class,77.1,1992
+07/25,Leominster,MA,1,East Coast Jazz,World Class,78.1,1992
+07/26,Verona,NY,4,Contemporary Youth Ens,Open Class,53.4,1992
+07/26,Alexandria,MN,4,Spirit of Atlanta,Open Class,72.9,1992
+07/25,Leominster,MA,2,Phoenix,World Class,71.9,1992
+07/25,South Jersey,NJ,1,Musketeers,Open Class,58.0,1992
+07/26,Verona,NY,5,Royal Columbians,Open Class,51.9,1992
+07/25,Leominster,MA,2,Joanettes,World Class,71.9,1992
+07/26,Verona,NY,6,Spectrum,Open Class,43.4,1992
+07/26,Alexandria,MN,1,Allegiance Elite,Open Class,72.1,1992
+07/25,Leominster,MA,4,Royal Cadets,World Class,67.9,1992
+07/25,South Jersey,NJ,1,Marching 100,Open Class,40.4,1992
+07/26,Verona,NY,7,Springfield Ambassadors,Open Class,34.4,1992
+07/26,Alexandria,MN,2,Knights,Open Class,60.4,1992
+07/26,Verona,NY,8,Quest,Open Class,32.8,1992
+07/25,Leominster,MA,1,Citations,World Class,69.1,1992
+07/25,Leominster,MA,2,East Coast Cadets,World Class,54.6,1992
+07/25,Leominster,MA,3,Braintree Braves,World Class,33.3,1992
+07/26,Little Rock,AR,1,Cavaliers,World Class,88.4,1992
+07/26,Winchester,KY,1,Vanguard,Open Class,86.9,1992
+07/26,Dunellen,NJ,1,Jersey Surf,Open Class,77.3,1992
+07/27,Charlotte,NC,1,Blue Devils,Open Class,90.7,1992
+07/26,Little Rock,AR,2,Phantom Regiment,World Class,84.6,1992
+07/26,Winchester,KY,2,Velvet Knights,Open Class,82.1,1992
+07/26,Dunellen,NJ,2,Southern Knights,Open Class,74.6,1992
+07/27,Charlotte,NC,2,Madison Scouts,Open Class,88.1,1992
+07/26,Little Rock,AR,3,Sky Ryders,World Class,73.0,1992
+07/26,Winchester,KY,3,Marauders,Open Class,72.1,1992
+07/26,Dunellen,NJ,3,Raiders,Open Class,74.3,1992
+07/27,Charlotte,NC,3,Freelancers,Open Class,74.2,1992
+07/26,Little Rock,AR,4,Colts,World Class,65.2,1992
+07/26,Winchester,KY,4,Boston Crusaders,Open Class,71.6,1992
+07/26,Dunellen,NJ,4,Crimson Kings,Open Class,70.0,1992
+07/27,Charlotte,NC,4,Dutch Boy,Open Class,67.6,1992
+07/26,Little Rock,AR,5,Black Gold,World Class,62.7,1992
+07/26,Winchester,KY,5,Magic of Orlando,Open Class,64.5,1992
+07/26,Dunellen,NJ,5,Spectra,Open Class,69.8,1992
+07/27,Charlotte,NC,5,Troopers,Open Class,66.0,1992
+07/26,Little Rock,AR,6,Delta Brigade,World Class,44.7,1992
+07/27,Charlotte,NC,6,Nite Express,Open Class,50.5,1992
+07/26,Dunellen,NJ,1,Musketeers,Open Class,63.0,1992
+07/26,Dunellen,NJ,1,Marching 100,Open Class,41.4,1992
+07/28,Canton,OH,1,Madison Scouts,World Class,89.0,1992
+07/28,Sevierville,TN,1,Blue Devils,Open Class,90.9,1992
+07/28,Wichita Falls,TX,1,Cavaliers,Open Class,89.1,1992
+07/29,Winston-Salem,NC,1,Star of Indiana,Open Class,91.7,1992
+07/28,Canton,OH,2,Cadets,World Class,88.0,1992
+07/28,Sevierville,TN,2,Crossmen,Open Class,86.7,1992
+07/28,Wichita Falls,TX,2,Phantom Regiment,Open Class,85.9,1992
+07/29,Winston-Salem,NC,2,Vanguard,Open Class,87.1,1992
+07/28,Canton,OH,3,Bluecoats,World Class,79.9,1992
+07/28,Sevierville,TN,3,Velvet Knights,Open Class,83.1,1992
+07/28,Wichita Falls,TX,3,Glassmen,Open Class,72.8,1992
+07/29,Winston-Salem,NC,3,Crossmen,Open Class,86.5,1992
+07/28,Canton,OH,4,Boston Crusaders,World Class,73.9,1992
+07/28,Sevierville,TN,4,Spirit of Atlanta,Open Class,75.0,1992
+07/28,Wichita Falls,TX,4,Sky Ryders,Open Class,72.3,1992
+07/29,Winston-Salem,NC,4,Blue Knights,Open Class,85.8,1992
+07/28,Canton,OH,5,Magic of Orlando,World Class,68.1,1992
+07/28,Sevierville,TN,5,Marauders,Open Class,71.5,1992
+07/28,Wichita Falls,TX,5,Colts,Open Class,64.1,1992
+07/29,Winston-Salem,NC,5,Velvet Knights,Open Class,81.6,1992
+07/28,Canton,OH,6,Limited Edition,World Class,63.9,1992
+07/28,Sevierville,TN,6,Dutch Boy,Open Class,69.3,1992
+07/28,Wichita Falls,TX,6,Black Gold,Open Class,62.1,1992
+07/29,Winston-Salem,NC,6,Spirit of Atlanta,Open Class,75.7,1992
+07/28,Canton,OH,7,Pioneer,World Class,59.8,1992
+07/29,Winston-Salem,NC,7,Marauders,Open Class,71.1,1992
+07/28,Canton,OH,8,Allegiance Elite,World Class,55.8,1992
+07/29,Winston-Salem,NC,8,Carolina Crown,Open Class,61.4,1992
+07/29,Endicott,NY,1,Cadets,World Class,90.6,1992
+07/29,Dallas,TX,1,Cavaliers,Open Class,89.7,1992
+07/30,Atlanta,GA,1,Blue Devils,Open Class,92.7,1992
+07/30,East Rutherford,NJ,1,Star of Indiana,Open Class,91.4,1992
+07/29,Endicott,NY,2,Madison Scouts,World Class,90.2,1992
+07/29,Dallas,TX,2,Phantom Regiment,Open Class,87.4,1992
+07/30,Atlanta,GA,2,Blue Knights,Open Class,86.0,1992
+07/30,East Rutherford,NJ,2,Madison Scouts,Open Class,90.3,1992
+07/29,Endicott,NY,3,Bluecoats,World Class,80.0,1992
+07/29,Dallas,TX,3,Glassmen,Open Class,76.2,1992
+07/30,Atlanta,GA,3,Velvet Knights,Open Class,84.3,1992
+07/30,East Rutherford,NJ,3,Cadets,Open Class,89.3,1992
+07/29,Endicott,NY,4,Boston Crusaders,World Class,76.4,1992
+07/29,Dallas,TX,4,Sky Ryders,Open Class,73.0,1992
+07/30,Atlanta,GA,4,Spirit of Atlanta,Open Class,79.0,1992
+07/30,East Rutherford,NJ,4,Crossmen,Open Class,88.1,1992
+07/29,Endicott,NY,5,Magic of Orlando,World Class,66.9,1992
+07/29,Dallas,TX,5,Colts,Open Class,66.6,1992
+07/30,Atlanta,GA,5,Southwind,Open Class,69.1,1992
+07/30,East Rutherford,NJ,5,Bluecoats,Open Class,81.0,1992
+07/29,Dallas,TX,6,Black Gold,Open Class,63.0,1992
+07/30,Atlanta,GA,6,Carolina Crown,Open Class,63.8,1992
+07/30,East Rutherford,NJ,6,Boston Crusaders,Open Class,77.1,1992
+07/29,Endicott,NY,1,Patriots,World Class,65.5,1992
+07/29,Dallas,TX,7,Delta Brigade,Open Class,43.2,1992
+07/30,East Rutherford,NJ,7,Magic of Orlando,Open Class,69.2,1992
+07/30,Houston,TX,1,Cavaliers,World Class,89.3,1992
+07/31,Grand Haven,MI,1,Northern Aurora,Open Class,90.1,1992
+07/30,Houston,TX,2,Phantom Regiment,World Class,86.9,1992
+07/31,Grand Haven,MI,2,Limited Edition,Open Class,81.8,1992
+07/30,Houston,TX,3,Glassmen,World Class,77.2,1992
+07/31,Grand Haven,MI,3,Arizona Sun,Open Class,81.0,1992
+07/30,Houston,TX,4,Sky Ryders,World Class,75.1,1992
+07/31,Grand Haven,MI,4,Allegiance Elite,Open Class,69.1,1992
+07/30,Houston,TX,5,Colts,World Class,65.2,1992
+07/30,Houston,TX,6,Black Gold,World Class,64.9,1992
+07/31,Grand Haven,MI,1,Pioneer,Open Class,86.4,1992
+07/30,Houston,TX,7,Delta Brigade,World Class,43.5,1992
+07/31,Grand Haven,MI,2,Mandarins,Open Class,81.0,1992
+07/31,Grand Haven,MI,3,Blue Stars,Open Class,77.7,1992
+07/31,Grand Haven,MI,4,CapitolAires,Open Class,75.6,1992
+07/31,Grand Haven,MI,5,Suncoast Sound,Open Class,74.2,1992
+07/31,Grand Haven,MI,6,Bandettes,Open Class,68.9,1992
+07/31,Grand Haven,MI,7,Americanos,Open Class,65.9,1992
+07/31,Grand Haven,MI,8,Phantom Regiment Cadets,Open Class,52.9,1992
+07/31,Grand Haven,MI,9,12th Command,Open Class,44.9,1992
+07/31,Grand Haven,MI,9,Golden Lancers,Open Class,44.9,1992
+07/31,Grand Haven,MI,11,Rapid City Express,Open Class,40.6,1992
+08/01,Allentown,PA,1,Star of Indiana,World Class,91.0,1992
+08/01,Allentown,PA,1,Star of Indiana,World Class,92.7,1992
+08/01,Jackson,MS,1,Cavaliers,World Class,92.7,1992
+08/01,Jackson,MS,1,Cavaliers,World Class,92.5,1992
+08/01,Allentown,PA,2,Cadets,World Class,89.9,1992
+08/01,Allentown,PA,2,Madison Scouts,World Class,90.8,1992
+08/01,Jackson,MS,2,Blue Devils,World Class,92.6,1992
+08/01,Jackson,MS,2,Blue Devils,World Class,92.4,1992
+08/01,Allentown,PA,3,Madison Scouts,World Class,88.7,1992
+08/01,Allentown,PA,3,Cadets,World Class,90.7,1992
+08/01,Jackson,MS,3,Phantom Regiment,World Class,90.1,1992
+08/01,Jackson,MS,3,Phantom Regiment,World Class,89.3,1992
+08/01,Allentown,PA,4,Vanguard,World Class,88.2,1992
+08/01,Allentown,PA,4,Vanguard,World Class,88.9,1992
+08/01,Jackson,MS,4,Blue Knights,World Class,88.0,1992
+08/01,Jackson,MS,4,Blue Knights,World Class,88.1,1992
+08/01,Allentown,PA,5,Crossmen,World Class,85.5,1992
+08/01,Allentown,PA,5,Crossmen,World Class,88.5,1992
+08/01,Jackson,MS,5,Velvet Knights,World Class,84.3,1992
+08/01,Jackson,MS,5,Velvet Knights,World Class,84.8,1992
+08/01,Allentown,PA,6,Bluecoats,World Class,79.1,1992
+08/01,Allentown,PA,6,Bluecoats,World Class,80.6,1992
+08/01,Jackson,MS,6,Glassmen,World Class,81.7,1992
+08/01,Jackson,MS,6,Glassmen,World Class,81.4,1992
+08/01,Allentown,PA,7,Freelancers,World Class,78.7,1992
+08/01,Allentown,PA,7,Freelancers,World Class,80.0,1992
+08/01,Jackson,MS,7,Sky Ryders,World Class,78.3,1992
+08/01,Jackson,MS,7,Sky Ryders,World Class,78.5,1992
+08/01,Allentown,PA,8,Marauders,World Class,74.1,1992
+08/01,Allentown,PA,8,Boston Crusaders,World Class,77.6,1992
+08/01,Jackson,MS,8,Spirit of Atlanta,World Class,78.2,1992
+08/01,Jackson,MS,8,Spirit of Atlanta,World Class,78.2,1992
+08/01,Allentown,PA,9,Boston Crusaders,World Class,73.8,1992
+08/01,Allentown,PA,9,Marauders,World Class,75.8,1992
+08/01,Jackson,MS,9,Colts,World Class,72.9,1992
+08/01,Jackson,MS,9,Colts,World Class,72.7,1992
+08/01,Allentown,PA,10,Dutch Boy,World Class,70.4,1992
+08/01,Allentown,PA,10,Dutch Boy,World Class,70.9,1992
+08/01,Jackson,MS,10,Southwind,World Class,72.7,1992
+08/01,Jackson,MS,10,Southwind,World Class,72.6,1992
+08/01,Allentown,PA,11,Magic of Orlando,World Class,66.3,1992
+08/01,Jackson,MS,11,Black Gold,World Class,67.5,1992
+08/01,Jackson,MS,11,Black Gold,World Class,65.9,1992
+08/01,Allentown,PA,12,Troopers,World Class,66.0,1992
+08/01,Rochester,NY,1,Patriots,Open Class,87.6,1992
+08/01,Kingston,NY,1,Hawthorne Caballeros,Open Class,84.5,1992
+08/01,Syracuse,NY,1,Empire Statesmen,Open Class,87.6,1992
+08/02,Horseheads,NY,1,Contemporary Youth Ens,Open Class,79.0,1992
+08/01,Kingston,NY,2,Bushwackers,Open Class,84.0,1992
+08/01,Syracuse,NY,2,Rochester Crusaders,Open Class,77.7,1992
+08/02,Horseheads,NY,2,Empire Loyalists,Open Class,74.7,1992
+08/01,Rochester,NY,1,Contemporary Youth Ens,Open Class,80.2,1992
+08/01,Kingston,NY,3,Connecticut Hurricanes,Open Class,80.7,1992
+08/01,Syracuse,NY,3,Les Metropolitans,Open Class,75.5,1992
+08/02,Horseheads,NY,3,Firebirds,Open Class,61.6,1992
+08/01,Rochester,NY,2,Empire Loyalists,Open Class,80.0,1992
+08/01,Kingston,NY,4,Sunrisers,Open Class,74.4,1992
+08/01,Syracuse,NY,4,Syracuse Brigadiers,Open Class,72.4,1992
+08/02,Horseheads,NY,4,Quest,Open Class,61.1,1992
+08/01,Rochester,NY,3,Oakland Crusaders,Open Class,73.9,1992
+08/01,Kingston,NY,5,Capitol Brass Ensemble,Open Class,63.6,1992
+08/01,Syracuse,NY,5,Reading Buccaneers,Open Class,71.2,1992
+08/01,Rochester,NY,4,Firebirds,Open Class,72.6,1992
+08/02,Kitchner,Ontario,1,Northern Aurora,Open Class,87.8,1992
+08/02,Kitchner,Ontario,1,Northern Aurora,Open Class,90.4,1992
+08/02,Natchitoches,LA,1,Phantom Regiment,Open Class,90.4,1992
+08/02,Lynn,MA,1,Crossmen,Open Class,89.7,1992
+08/02,Kitchner,Ontario,2,Kiwanis Kavaliers,Open Class,84.9,1992
+08/02,Kitchner,Ontario,2,Kiwanis Kavaliers,Open Class,87.9,1992
+08/02,Natchitoches,LA,2,Blue Knights,Open Class,88.0,1992
+08/02,Lynn,MA,2,Vanguard,Open Class,88.7,1992
+08/02,Kitchner,Ontario,3,Arizona Sun,Open Class,81.2,1992
+08/02,Kitchner,Ontario,3,Arizona Sun,Open Class,83.0,1992
+08/02,Natchitoches,LA,3,Spirit of Atlanta,Open Class,79.0,1992
+08/02,Lynn,MA,3,Freelancers,Open Class,77.9,1992
+08/02,Kitchner,Ontario,4,Allegiance Elite,Open Class,80.3,1992
+08/02,Kitchner,Ontario,4,Limited Edition,Open Class,82.5,1992
+08/02,Natchitoches,LA,4,Colts,Open Class,71.8,1992
+08/02,Lynn,MA,3,Boston Crusaders,Open Class,77.9,1992
+08/02,Kitchner,Ontario,5,Limited Edition,Open Class,79.7,1992
+08/02,Kitchner,Ontario,5,Allegiance Elite,Open Class,78.5,1992
+08/02,Natchitoches,LA,5,Black Gold,Open Class,69.3,1992
+08/02,Lynn,MA,5,Troopers,Open Class,69.3,1992
+08/02,Kitchner,Ontario,6,Spartans,Open Class,77.5,1992
+08/02,Natchitoches,LA,6,Delta Brigade,Open Class,53.6,1992
+08/02,Kitchner,Ontario,7,Ventures,Open Class,73.0,1992
+08/02,Kitchner,Ontario,1,Pioneer,Open Class,83.6,1992
+08/02,Kitchner,Ontario,8,Cardinals,Open Class,71.1,1992
+08/02,Kitchner,Ontario,2,Mandarins,Open Class,79.8,1992
+08/02,Kitchner,Ontario,3,Suncoast Sound,Open Class,77.1,1992
+08/02,Kitchner,Ontario,1,Pioneer,Open Class,82.6,1992
+08/02,Kitchner,Ontario,4,Academie Musicale,Open Class,72.5,1992
+08/02,Kitchner,Ontario,2,Suncoast Sound,Open Class,80.4,1992
+08/02,Kitchner,Ontario,5,CapitolAires,Open Class,70.1,1992
+08/02,Kitchner,Ontario,3,Mandarins,Open Class,77.2,1992
+08/02,Kitchner,Ontario,4,Academie Musicale,Open Class,76.9,1992
+08/02,Kitchner,Ontario,5,CapitolAires,Open Class,75.4,1992
+08/02,Kitchner,Ontario,6,Blue Stars,Open Class,74.5,1992
+08/02,Kitchner,Ontario,7,Saint John's,Open Class,72.2,1992
+08/02,Kitchner,Ontario,8,Americanos,Open Class,71.4,1992
+08/02,Kitchner,Ontario,9,Nite Express,Open Class,71.1,1992
+08/02,Kitchner,Ontario,10,Bandettes,Open Class,68.3,1992
+08/02,Kitchner,Ontario,11,Conqueror II,Open Class,62.0,1992
+08/02,Kitchner,Ontario,12,Royal Columbians,Open Class,59.4,1992
+08/02,Kitchner,Ontario,13,Emerald Knights,Open Class,53.4,1992
+08/02,Kitchner,Ontario,14,Ridge Raiders,Open Class,51.8,1992
+08/02,Kitchner,Ontario,15,Northwind Rebels,Open Class,49.8,1992
+08/02,Kitchner,Ontario,16,Rapid City Express,Open Class,48.1,1992
+08/02,Kitchner,Ontario,17,Cadets of Dutch Boy,Open Class,45.4,1992
+08/02,Kitchner,Ontario,18,Springfield Ambassadors,Open Class,44.2,1992
+08/02,Kitchner,Ontario,19,East Coast Jazz,Open Class,43.1,1992
+08/02,Kitchner,Ontario,20,Canadian Knights,Open Class,42.5,1992
+08/02,Kitchner,Ontario,21,Oakland Crusaders,Open Class,29.5,1992
+08/02,Ottawa,IL,1,Phantom Regiment Cadets,Open Class,57.4,1992
+08/03,Pittsfield,MA,1,Cadets,Open Class,90.3,1992
+08/04,Fairfield,OH,1,Cavaliers,Open Class,92.6,1992
+08/04,Hornell,NY,1,Cadets,Open Class,91.6,1992
+08/02,Ottawa,IL,2,Chicago Vanguard,Open Class,55.6,1992
+08/03,Pittsfield,MA,2,Crossmen,Open Class,88.8,1992
+08/04,Fairfield,OH,2,Blue Devils,Open Class,92.3,1992
+08/04,Hornell,NY,2,Freelancers,Open Class,82.8,1992
+08/02,Ottawa,IL,3,Marquis,Open Class,45.6,1992
+08/03,Pittsfield,MA,3,Boston Crusaders,Open Class,78.5,1992
+08/04,Fairfield,OH,3,Velvet Knights,Open Class,85.7,1992
+08/04,Hornell,NY,3,Boston Crusaders,Open Class,78.1,1992
+08/02,Ottawa,IL,4,Madison Junior Scouts,Open Class,45.1,1992
+08/03,Pittsfield,MA,4,Marauders,Open Class,74.4,1992
+08/04,Fairfield,OH,4,Glassmen,Open Class,81.8,1992
+08/04,Hornell,NY,4,Marauders,Open Class,77.1,1992
+08/02,Ottawa,IL,5,Prince Hall Lancers,Open Class,35.2,1992
+08/03,Pittsfield,MA,5,Magic of Orlando,Open Class,71.3,1992
+08/04,Fairfield,OH,5,Sky Ryders,Open Class,79.5,1992
+08/04,Hornell,NY,5,Magic of Orlando,Open Class,72.8,1992
+08/02,Ottawa,IL,6,Guardsmen Cadets,Open Class,33.7,1992
+08/03,Pittsfield,MA,6,Troopers,Open Class,70.7,1992
+08/04,Fairfield,OH,6,Southwind,Open Class,72.4,1992
+08/04,Hornell,NY,6,Nite Express,Open Class,54.4,1992
+08/03,Pittsfield,MA,7,Knights,Open Class,57.9,1992
+08/04,Fairfield,OH,7,Carolina Crown,Open Class,69.2,1992
+08/04,Hornell,NY,7,Knights,Open Class,52.1,1992
+08/04,Fairfield,OH,8,Seattle Cascades,Open Class,61.8,1992
+08/04,Montreal,Quebec,1,Star of Indiana,Open Class,92.1,1992
+08/04,Tulsa,OK,1,Phantom Regiment,Open Class,91.1,1992
+08/05,Columbus,OH,1,Cavaliers,Open Class,92.9,1992
+08/05,Erie,PA,1,Crossmen,Open Class,90.8,1992
+08/04,Montreal,Quebec,2,Madison Scouts,Open Class,89.8,1992
+08/04,Tulsa,OK,2,Blue Knights,Open Class,86.6,1992
+08/05,Columbus,OH,2,Blue Devils,Open Class,92.5,1992
+08/05,Erie,PA,2,Vanguard,Open Class,90.3,1992
+08/04,Montreal,Quebec,3,Vanguard,Open Class,87.5,1992
+08/04,Tulsa,OK,3,Spirit of Atlanta,Open Class,80.3,1992
+08/05,Columbus,OH,3,Cadets,Open Class,91.7,1992
+08/05,Erie,PA,3,Velvet Knights,Open Class,86.5,1992
+08/04,Montreal,Quebec,4,Bluecoats,Open Class,79.7,1992
+08/04,Tulsa,OK,4,Colts,Open Class,74.1,1992
+08/05,Columbus,OH,4,Glassmen,Open Class,77.7,1992
+08/05,Erie,PA,4,Freelancers,Open Class,83.7,1992
+08/04,Montreal,Quebec,5,Dutch Boy,Open Class,72.1,1992
+08/04,Tulsa,OK,5,Black Gold,Open Class,71.7,1992
+08/05,Columbus,OH,5,Sky Ryders,Open Class,75.0,1992
+08/05,Erie,PA,5,Boston Crusaders,Open Class,80.1,1992
+08/04,Tulsa,OK,6,Delta Brigade,Open Class,52.2,1992
+08/05,Columbus,OH,6,Limited Edition,Open Class,69.7,1992
+08/05,Erie,PA,6,Troopers,Open Class,74.4,1992
+08/05,Erie,PA,7,Knights,Open Class,56.0,1992
+08/05,Rome,NY,1,Star of Indiana,Open Class,93.2,1992
+08/05,Marion,OH,1,Southwind,Open Class,87.8,1992
+08/05,Marion,OH,1,Southwind,Open Class,90.1,1992
+08/06,Marion,OH,1,Blue Devils,Open Class,93.7,1992
+08/05,Rome,NY,2,Madison Scouts,Open Class,92.1,1992
+08/05,Marion,OH,2,Northern Aurora,Open Class,87.7,1992
+08/05,Marion,OH,2,Northern Aurora,Open Class,88.6,1992
+08/06,Marion,OH,2,Cadets,Open Class,93.5,1992
+08/05,Rome,NY,3,Bluecoats,Open Class,83.8,1992
+08/05,Marion,OH,3,Carolina Crown,Open Class,85.2,1992
+08/05,Marion,OH,3,Carolina Crown,Open Class,87.0,1992
+08/06,Marion,OH,3,Crossmen,Open Class,90.3,1992
+08/05,Rome,NY,4,Marauders,Open Class,78.2,1992
+08/05,Marion,OH,4,Kiwanis Kavaliers,Open Class,82.8,1992
+08/05,Marion,OH,4,Kiwanis Kavaliers,Open Class,82.1,1992
+08/06,Marion,OH,4,Sky Ryders,Open Class,82.2,1992
+08/05,Rome,NY,5,Northern Aurora,Open Class,73.8,1992
+08/05,Marion,OH,4,Spartans,Open Class,82.8,1992
+08/05,Marion,OH,5,Spartans,Open Class,80.2,1992
+08/06,Marion,OH,5,Boston Crusaders,Open Class,81.3,1992
+08/05,Marion,OH,6,Limited Edition,Open Class,78.4,1992
+08/06,Marion,OH,6,Carolina Crown,Open Class,69.6,1992
+08/05,Rome,NY,1,Patriots,Open Class,75.6,1992
+08/05,Marion,OH,7,Allegiance Elite,Open Class,74.8,1992
+08/05,Marion,OH,1,Pioneer,Open Class,87.7,1992
+08/06,Marion,OH,7,Pioneer,Open Class,69.2,1992
+08/05,Rome,NY,2,Nite Express,Open Class,72.2,1992
+08/05,Marion,OH,8,Arizona Sun,Open Class,74.6,1992
+08/05,Marion,OH,2,Mandarins,Open Class,86.0,1992
+08/06,Marion,OH,8,Kiwanis Kavaliers,Open Class,66.2,1992
+08/05,Marion,OH,9,Ventures,Open Class,70.4,1992
+08/05,Marion,OH,3,Academie Musicale,Open Class,76.6,1992
+08/06,Marion,OH,9,Limited Edition,Open Class,62.4,1992
+08/05,Marion,OH,10,Seattle Cascades,Open Class,64.1,1992
+08/05,Marion,OH,4,Blue Stars,Open Class,74.4,1992
+08/06,Marion,OH,10,Suncoast Sound,Open Class,58.8,1992
+08/05,Marion,OH,5,Suncoast Sound,Open Class,73.2,1992
+08/05,Marion,OH,1,Pioneer,Open Class,86.4,1992
+08/05,Marion,OH,2,Mandarins,Open Class,82.7,1992
+08/05,Marion,OH,3,Academie Musicale,Open Class,80.8,1992
+08/05,Marion,OH,4,Blue Stars,Open Class,77.3,1992
+08/05,Marion,OH,5,Suncoast Sound,Open Class,75.9,1992
+08/05,Marion,OH,6,CapitolAires,Open Class,75.2,1992
+08/05,Marion,OH,7,Americanos,Open Class,69.1,1992
+08/05,Marion,OH,8,Bandettes,Open Class,66.0,1992
+08/05,Marion,OH,9,Saint John's,Open Class,65.0,1992
+08/05,Marion,OH,10,12th Command,Open Class,59.0,1992
+08/05,Marion,OH,11,Royal Columbians,Open Class,56.1,1992
+08/05,Marion,OH,12,Ridge Raiders,Open Class,52.8,1992
+08/05,Marion,OH,13,Rapid City Express,Open Class,52.0,1992
+08/05,Marion,OH,14,Raiders,Open Class,51.4,1992
+08/05,Marion,OH,15,Edmonton Strutters,Open Class,44.4,1992
+08/05,Marion,OH,16,Cadets of Dutch Boy,Open Class,36.4,1992
+08/05,Marion,OH,16,East Coast Jazz,Open Class,36.4,1992
+08/05,Marion,OH,18,Spectra,Open Class,34.3,1992
+08/05,Marion,OH,19,Racine Scouts,Open Class,30.6,1992
+08/06,Port Huron,MI,1,Vanguard,Open Class,89.1,1992
+08/06,Cleveland,OH,1,Star of Indiana,Open Class,93.6,1992
+08/06,Springfield,MO,1,Phantom Regiment,Open Class,92.3,1992
+08/07,Sioux City,IA,1,Phantom Regiment,Open Class,91.8,1992
+08/06,Port Huron,MI,2,Freelancers,Open Class,83.1,1992
+08/06,Cleveland,OH,2,Madison Scouts,Open Class,90.9,1992
+08/06,Springfield,MO,2,Blue Knights,Open Class,88.6,1992
+08/07,Sioux City,IA,2,Blue Knights,Open Class,88.1,1992
+08/06,Port Huron,MI,3,Glassmen,Open Class,81.0,1992
+08/06,Cleveland,OH,3,Velvet Knights,Open Class,87.2,1992
+08/06,Springfield,MO,3,Spirit of Atlanta,Open Class,81.1,1992
+08/07,Sioux City,IA,3,Spirit of Atlanta,Open Class,82.9,1992
+08/06,Port Huron,MI,4,Dutch Boy,Open Class,76.4,1992
+08/06,Cleveland,OH,4,Bluecoats,Open Class,83.2,1992
+08/06,Springfield,MO,4,Colts,Open Class,75.3,1992
+08/07,Sioux City,IA,4,Colts,Open Class,73.9,1992
+08/06,Port Huron,MI,5,Southwind,Open Class,73.7,1992
+08/06,Cleveland,OH,5,Magic of Orlando,Open Class,73.4,1992
+08/06,Springfield,MO,5,Black Gold,Open Class,72.2,1992
+08/07,Sioux City,IA,5,Black Gold,Open Class,72.7,1992
+08/06,Port Huron,MI,6,Troopers,Open Class,70.8,1992
+08/07,Sioux City,IA,6,Railmen,Open Class,57.5,1992
+08/06,Port Huron,MI,7,Northern Aurora,Open Class,68.8,1992
+08/06,Cleveland,OH,1,Academie Musicale,Open Class,71.3,1992
+08/06,Cleveland,OH,2,Nite Express,Open Class,66.5,1992
+08/07,Port Huron,MI,1,Carolina Crown,Open Class,89.4,1992
+08/08,Saint Paul,MN,1,Cadets,Open Class,93.2,1992
+08/08,Bloomington,IN,1,Star of Indiana,Open Class,95.0,1992
+08/08,Greenville,MI,1,Kiwanis Kavaliers,Open Class,87.3,1992
+08/07,Port Huron,MI,2,Spartans,Open Class,86.6,1992
+08/08,Saint Paul,MN,2,Phantom Regiment,Open Class,92.6,1992
+08/08,Bloomington,IN,2,Cavaliers,Open Class,93.9,1992
+08/08,Greenville,MI,2,Allegiance Elite,Open Class,82.1,1992
+08/07,Port Huron,MI,3,Florida Guardsmen,Open Class,76.7,1992
+08/08,Saint Paul,MN,3,Blue Knights,Open Class,90.3,1992
+08/08,Bloomington,IN,3,Blue Devils,Open Class,93.4,1992
+08/08,Greenville,MI,3,Ventures,Open Class,76.6,1992
+08/08,Saint Paul,MN,4,Spirit of Atlanta,Open Class,84.0,1992
+08/08,Bloomington,IN,4,Madison Scouts,Open Class,92.4,1992
+08/08,Greenville,MI,4,Patriots,Open Class,74.6,1992
+08/07,Port Huron,MI,1,Saint John's,Open Class,75.2,1992
+08/08,Saint Paul,MN,5,Colts,Open Class,76.0,1992
+08/08,Bloomington,IN,5,Vanguard,Open Class,91.0,1992
+08/08,Greenville,MI,5,Seattle Cascades,Open Class,70.9,1992
+08/07,Port Huron,MI,2,CapitolAires,Open Class,73.8,1992
+08/08,Saint Paul,MN,6,Black Gold,Open Class,73.9,1992
+08/08,Bloomington,IN,6,Velvet Knights,Open Class,83.9,1992
+08/07,Port Huron,MI,3,Bandettes,Open Class,73.7,1992
+08/08,Bloomington,IN,7,Bluecoats,Open Class,80.7,1992
+08/08,Greenville,MI,1,Mandarins,Open Class,87.1,1992
+08/07,Port Huron,MI,4,Knights,Open Class,70.7,1992
+08/08,Saint Paul,MN,1,Arizona Sun,Open Class,74.6,1992
+08/08,Bloomington,IN,8,Glassmen,Open Class,79.8,1992
+08/08,Greenville,MI,2,Blue Stars,Open Class,82.6,1992
+08/07,Port Huron,MI,5,Edmonton Strutters,Open Class,51.6,1992
+08/08,Bloomington,IN,9,Boston Crusaders,Open Class,79.7,1992
+08/08,Greenville,MI,3,Americanos,Open Class,76.1,1992
+08/07,Port Huron,MI,6,Delta Brigade,Open Class,47.4,1992
+08/08,Bloomington,IN,10,Troopers,Open Class,75.1,1992
+08/08,Greenville,MI,4,Rapid City Express,Open Class,62.7,1992
+08/08,Bloomington,IN,11,Magic of Orlando,Open Class,73.5,1992
+08/08,Greenville,MI,5,East Coast Jazz,Open Class,52.7,1992
+08/08,Bloomington,IN,12,Carolina Crown,Open Class,70.1,1992
+08/08,Bloomington,IN,13,Limited Edition,Open Class,64.4,1992
+08/08,Port Huron,MI,1,Railmen,Open Class,71.6,1992
+08/08,Scranton,PA,1,Empire Statesmen,Open Class,90.3,1992
+08/08,Sheffield,PA,1,Syracuse Brigadiers,Open Class,75.0,1992
+08/09,Levittown,PA,1,Bushwackers,Open Class,89.8,1992
+08/08,Scranton,PA,2,Bushwackers,Open Class,88.5,1992
+08/08,Sheffield,PA,2,Capitol Brass Ensemble,Open Class,65.4,1992
+08/09,Levittown,PA,2,New York Skyliners,Open Class,82.8,1992
+08/08,Port Huron,MI,1,Suncoast Sound,Open Class,76.5,1992
+08/08,Scranton,PA,3,Hawthorne Caballeros,Open Class,87.3,1992
+08/08,Sheffield,PA,3,Steel City Ambassadors,Open Class,63.5,1992
+08/09,Levittown,PA,3,Reading Buccaneers,Open Class,78.2,1992
+08/08,Port Huron,MI,2,Nite Express,Open Class,75.3,1992
+08/08,Scranton,PA,4,Connecticut Hurricanes,Open Class,85.1,1992
+08/08,Sheffield,PA,4,Chieftains,Open Class,61.3,1992
+08/09,Levittown,PA,4,Capitol Brass Ensemble,Open Class,65.5,1992
+08/08,Port Huron,MI,3,Madison Junior Scouts,Open Class,57.4,1992
+08/08,Scranton,PA,5,Westshoremen,Open Class,83.2,1992
+08/09,Levittown,PA,5,Chieftains,Open Class,63.8,1992
+08/08,Port Huron,MI,4,Raiders,Open Class,53.7,1992
+08/08,Scranton,PA,6,Rochester Crusaders,Open Class,78.5,1992
+08/08,Port Huron,MI,5,Ridge Raiders,Open Class,50.7,1992
+08/08,Scranton,PA,7,New York Skyliners,Open Class,78.1,1992
+08/08,Port Huron,MI,6,Colt Cadets,Open Class,42.7,1992
+08/08,Scranton,PA,8,Reading Buccaneers,Open Class,74.6,1992
+08/09,South Milwaukee,WI,1,Madison Scouts,Open Class,93.4,1992
+08/09,Blaine,MN,1,Phantom Regiment,Open Class,93.7,1992
+08/09,Ypsilanti,MI,1,Blue Devils,Open Class,93.4,1992
+08/10,Fort Wayne,IN,1,Star of Indiana,Open Class,95.1,1992
+08/09,South Milwaukee,WI,2,Blue Knights,Open Class,88.9,1992
+08/09,Blaine,MN,2,Cadets,Open Class,93.1,1992
+08/09,Ypsilanti,MI,2,Cavaliers,Open Class,93.3,1992
+08/10,Fort Wayne,IN,2,Vanguard,Open Class,92.1,1992
+08/09,South Milwaukee,WI,3,Bluecoats,Open Class,85.7,1992
+08/09,Blaine,MN,3,Crossmen,Open Class,90.0,1992
+08/09,Ypsilanti,MI,3,Glassmen,Open Class,83.0,1992
+08/10,Fort Wayne,IN,3,Velvet Knights,Open Class,87.4,1992
+08/09,South Milwaukee,WI,4,Spirit of Atlanta,Open Class,84.7,1992
+08/09,Blaine,MN,4,Freelancers,Open Class,81.0,1992
+08/09,Ypsilanti,MI,4,Boston Crusaders,Open Class,81.1,1992
+08/10,Fort Wayne,IN,4,Glassmen,Open Class,83.8,1992
+08/09,South Milwaukee,WI,5,Troopers,Open Class,79.3,1992
+08/09,Blaine,MN,5,Sky Ryders,Open Class,80.9,1992
+08/09,Ypsilanti,MI,5,Magic of Orlando,Open Class,78.2,1992
+08/10,Fort Wayne,IN,5,Boston Crusaders,Open Class,81.2,1992
+08/09,Blaine,MN,6,Colts,Open Class,75.4,1992
+08/10,Fort Wayne,IN,6,Magic of Orlando,Open Class,76.3,1992
+08/09,South Milwaukee,WI,1,Southwind,Open Class,87.8,1992
+08/09,Blaine,MN,7,Dutch Boy,Open Class,75.1,1992
+08/09,Ypsilanti,MI,1,Northern Aurora,Open Class,87.7,1992
+08/09,South Milwaukee,WI,2,Allegiance Elite,Open Class,79.3,1992
+08/09,Ypsilanti,MI,2,Spartans,Open Class,77.3,1992
+08/09,South Milwaukee,WI,3,Seattle Cascades,Open Class,64.1,1992
+08/09,Ypsilanti,MI,3,Cardinals,Open Class,65.9,1992
+08/09,Ypsilanti,MI,4,Patriots,Open Class,65.6,1992
+08/09,South Milwaukee,WI,1,Cadets,Open Class,94.0,1992
+08/09,South Milwaukee,WI,2,Madison Scouts,Open Class,93.3,1992
+08/09,South Milwaukee,WI,3,Crossmen,Open Class,90.9,1992
+08/09,South Milwaukee,WI,4,Sky Ryders,Open Class,80.2,1992
+08/09,South Milwaukee,WI,5,Dutch Boy,Open Class,78.0,1992
+08/09,South Milwaukee,WI,6,Black Gold,Open Class,70.3,1992
+08/09,South Milwaukee,WI,7,Arizona Sun,Open Class,63.1,1992
+08/10,Madison,WI,1,Mandarins,Open Class,89.5,1992
+08/11,Madison,WI,1,Northern Aurora,Open Class,91.2,1992
+08/11,Madison,WI,1,Southwind,Open Class,92.9,1992
+08/11,Madison,WI,1,Mandarins,Open Class,90.0,1992
+08/10,Madison,WI,2,Pioneer,Open Class,88.9,1992
+08/11,Madison,WI,2,Carolina Crown,Open Class,90.9,1992
+08/11,Madison,WI,2,Northern Aurora,Open Class,91.9,1992
+08/11,Madison,WI,2,Pioneer,Open Class,88.7,1992
+08/10,Madison,WI,3,Academie Musicale,Open Class,84.9,1992
+08/11,Madison,WI,3,Southwind,Open Class,90.4,1992
+08/11,Madison,WI,3,Carolina Crown,Open Class,90.5,1992
+08/11,Madison,WI,3,Blue Stars,Open Class,82.4,1992
+08/10,Madison,WI,4,Blue Stars,Open Class,84.2,1992
+08/11,Madison,WI,4,Kiwanis Kavaliers,Open Class,86.2,1992
+08/11,Madison,WI,4,Kiwanis Kavaliers,Open Class,87.3,1992
+08/11,Madison,WI,4,Academie Musicale,Open Class,81.8,1992
+08/10,Madison,WI,5,Suncoast Sound,Open Class,82.0,1992
+08/11,Madison,WI,5,Spartans,Open Class,85.6,1992
+08/11,Madison,WI,5,Spartans,Open Class,84.0,1992
+08/11,Madison,WI,5,Suncoast Sound,Open Class,80.2,1992
+08/10,Madison,WI,6,CapitolAires,Open Class,81.6,1992
+08/11,Madison,WI,6,Limited Edition,Open Class,83.8,1992
+08/11,Madison,WI,6,CapitolAires,Open Class,77.8,1992
+08/10,Madison,WI,7,Saint John's,Open Class,78.6,1992
+08/11,Madison,WI,7,Arizona Sun,Open Class,82.7,1992
+08/11,Madison,WI,7,Saint John's,Open Class,74.8,1992
+08/10,Madison,WI,8,Americanos,Open Class,76.7,1992
+08/11,Madison,WI,8,Allegiance Elite,Open Class,81.9,1992
+08/10,Madison,WI,9,Bandettes,Open Class,76.5,1992
+08/11,Madison,WI,9,SGI Fuji,Open Class,79.9,1992
+08/10,Madison,WI,10,Quad City Knights,Open Class,73.0,1992
+08/11,Madison,WI,10,Ventures,Open Class,79.0,1992
+08/10,Madison,WI,11,Nite Express,Open Class,72.2,1992
+08/11,Madison,WI,11,Patriots,Open Class,75.2,1992
+08/10,Madison,WI,12,Conqueror II,Open Class,68.7,1992
+08/11,Madison,WI,12,Railmen,Open Class,72.5,1992
+08/10,Madison,WI,13,Phantom Regiment Cadets,Open Class,64.3,1992
+08/11,Madison,WI,13,Florida Guardsmen,Open Class,72.1,1992
+08/10,Madison,WI,14,Royal Columbians,Open Class,62.8,1992
+08/11,Madison,WI,14,Cardinals,Open Class,68.7,1992
+08/10,Madison,WI,15,12th Command,Open Class,59.4,1992
+08/11,Madison,WI,15,New York Lancers,Open Class,68.1,1992
+08/10,Madison,WI,16,Buccaneers,Open Class,59.2,1992
+08/11,Madison,WI,16,Seattle Cascades,Open Class,64.2,1992
+08/10,Madison,WI,17,Madison Junior Scouts,Open Class,58.1,1992
+08/11,Madison,WI,17,Golden Lancers,Open Class,57.0,1992
+08/10,Madison,WI,18,Ridge Raiders,Open Class,55.6,1992
+08/11,Madison,WI,18,Northwind Rebels,Open Class,53.4,1992
+08/10,Madison,WI,19,Raiders,Open Class,54.7,1992
+08/10,Madison,WI,20,Spectrum,Open Class,53.2,1992
+08/10,Madison,WI,21,Emerald Knights,Open Class,53.1,1992
+08/10,Madison,WI,22,Edmonton Strutters,Open Class,50.3,1992
+08/10,Madison,WI,23,Rapid City Express,Open Class,50.0,1992
+08/10,Madison,WI,24,Colt Cadets,Open Class,48.6,1992
+08/10,Madison,WI,25,Guardsmen Cadets,Open Class,48.1,1992
+08/10,Madison,WI,26,Cadets of Dutch Boy,Open Class,47.1,1992
+08/10,Madison,WI,27,Delta Brigade,Open Class,43.9,1992
+08/10,Madison,WI,28,Blue Saints,Open Class,43.0,1992
+08/10,Madison,WI,29,Racine Explorers,Open Class,34.7,1992
+08/13,Madison,WI,1,Star of Indiana,Open Class,96.4,1992
+08/14,Madison,WI,1,Cavaliers,Open Class,97.1,1992
+08/15,Madison,WI,1,Cavaliers,Open Class,97.5,1992
+08/13,Madison,WI,2,Cavaliers,Open Class,95.7,1992
+08/14,Madison,WI,2,Star of Indiana,Open Class,96.9,1992
+08/15,Madison,WI,2,Cadets,Open Class,97.0,1992
+08/13,Madison,WI,3,Blue Devils,Open Class,95.3,1992
+08/14,Madison,WI,3,Cadets,Open Class,96.2,1992
+08/15,Madison,WI,3,Star of Indiana,Open Class,96.7,1992
+08/13,Madison,WI,3,Cadets,Open Class,95.3,1992
+08/14,Madison,WI,4,Blue Devils,Open Class,95.7,1992
+08/15,Madison,WI,4,Blue Devils,Open Class,95.4,1992
+08/13,Madison,WI,5,Madison Scouts,Open Class,93.3,1992
+08/14,Madison,WI,5,Madison Scouts,Open Class,94.3,1992
+08/15,Madison,WI,5,Madison Scouts,Open Class,93.7,1992
+08/13,Madison,WI,6,Phantom Regiment,Open Class,92.1,1992
+08/14,Madison,WI,6,Phantom Regiment,Open Class,92.8,1992
+08/15,Madison,WI,6,Crossmen,Open Class,92.2,1992
+08/13,Madison,WI,7,Crossmen,Open Class,91.5,1992
+08/14,Madison,WI,7,Crossmen,Open Class,92.0,1992
+08/15,Madison,WI,7,Vanguard,Open Class,91.8,1992
+08/13,Madison,WI,8,Vanguard,Open Class,90.9,1992
+08/14,Madison,WI,8,Vanguard,Open Class,91.9,1992
+08/15,Madison,WI,8,Phantom Regiment,Open Class,91.5,1992
+08/13,Madison,WI,9,Blue Knights,Open Class,90.3,1992
+08/14,Madison,WI,9,Blue Knights,Open Class,91.1,1992
+08/15,Madison,WI,9,Blue Knights,Open Class,90.0,1992
+08/13,Madison,WI,10,Velvet Knights,Open Class,87.7,1992
+08/14,Madison,WI,10,Velvet Knights,Open Class,87.5,1992
+08/15,Madison,WI,10,Velvet Knights,Open Class,86.6,1992
+08/13,Madison,WI,11,Bluecoats,Open Class,85.6,1992
+08/14,Madison,WI,11,Bluecoats,Open Class,85.5,1992
+08/15,Madison,WI,11,Bluecoats,Open Class,84.6,1992
+08/13,Madison,WI,12,Freelancers,Open Class,84.1,1992
+08/14,Madison,WI,12,Freelancers,Open Class,84.0,1992
+08/15,Madison,WI,12,Freelancers,Open Class,83.1,1992
+08/13,Madison,WI,13,Glassmen,Open Class,84.0,1992
+08/14,Madison,WI,13,Glassmen,Open Class,83.9,1992
+08/13,Madison,WI,14,Sky Ryders,Open Class,82.8,1992
+08/14,Madison,WI,14,Boston Crusaders,Open Class,82.2,1992
+08/13,Madison,WI,15,Boston Crusaders,Open Class,82.4,1992
+08/14,Madison,WI,15,Sky Ryders,Open Class,82.1,1992
+08/13,Madison,WI,16,Spirit of Atlanta,Open Class,82.0,1992
+08/14,Madison,WI,16,Spirit of Atlanta,Open Class,78.8,1992
+08/13,Madison,WI,17,Marauders,Open Class,80.0,1992
+08/14,Madison,WI,17,Marauders,Open Class,76.7,1992
+08/13,Madison,WI,18,Dutch Boy,Open Class,77.5,1992
+08/13,Madison,WI,19,Troopers,Open Class,76.1,1992
+08/13,Madison,WI,20,Colts,Open Class,75.5,1992
+08/13,Madison,WI,21,Magic of Orlando,Open Class,74.1,1992
+08/13,Madison,WI,22,Southwind,Open Class,73.6,1992
+08/13,Madison,WI,23,Black Gold,Open Class,72.9,1992
+08/13,Madison,WI,24,Northern Aurora,Open Class,71.1,1992
+08/13,Madison,WI,25,Carolina Crown,Open Class,69.7,1992
+08/13,Madison,WI,26,Mandarins,Open Class,67.8,1992
+08/13,Madison,WI,27,Kiwanis Kavaliers,Open Class,65.4,1992
+08/22,Reading,PA,1,Bushwackers,Open Class,93.1,1992
+08/22,Clifton,NJ,1,Hawthorne Caballeros,Open Class,89.0,1992
+08/22,Oshawa,Ontario,1,Kiwanis Kavaliers,DCA Class A,91.5,1992
+08/22,Montreal,Quebec,1,Academie Musicale,Open Class,83.9,1992
+08/22,Reading,PA,2,Empire Statesmen,Open Class,92.3,1992
+08/22,Clifton,NJ,2,Empire Statesmen,Open Class,86.8,1992
+08/22,Oshawa,Ontario,2,Ventures,DCA Class A,81.0,1992
+08/22,Reading,PA,3,Connecticut Hurricanes,Open Class,88.0,1992
+08/22,Clifton,NJ,3,Connecticut Hurricanes,Open Class,84.4,1992
+08/22,Oshawa,Ontario,3,Cardinals,DCA Class A,80.4,1992
+08/22,Montreal,Quebec,1,Dimension,Open Class,88.7,1992
+08/22,Reading,PA,4,Westshoremen,Open Class,87.4,1992
+08/22,Clifton,NJ,4,Westshoremen,Open Class,81.5,1992
+08/22,Montreal,Quebec,2,Senateurs-Anc. Lorette,Open Class,83.7,1992
+08/22,Reading,PA,5,Reading Buccaneers,Open Class,82.9,1992
+08/22,Clifton,NJ,5,Reading Buccaneers,Open Class,78.3,1992
+08/22,Oshawa,Ontario,1,Saint John's,DCA Class A,80.8,1992
+08/22,Montreal,Quebec,3,Mousquetaires,Open Class,67.9,1992
+08/22,Reading,PA,6,Steel City Ambassadors,Open Class,72.8,1992
+08/22,Clifton,NJ,6,Syracuse Brigadiers,Open Class,77.1,1992
+08/22,Oshawa,Ontario,2,Conqueror II,DCA Class A,72.9,1992
+08/22,Reading,PA,7,Chieftains,Open Class,68.6,1992
+08/22,Clifton,NJ,7,Capitol Brass Ensemble,Open Class,70.8,1992
+08/22,Oshawa,Ontario,3,Emerald Knights,DCA Class A,69.9,1992
+08/22,Montreal,Quebec,1,Senateurs-Joliette,Open Class,86.0,1992
+08/22,Oshawa,Ontario,4,Ridge Raiders,DCA Class A,60.7,1992
+08/22,Montreal,Quebec,2,Decibels,Open Class,85.975,1992
+08/22,Oshawa,Ontario,5,Northwind Rebels,DCA Class A,57.2,1992
+08/22,Montreal,Quebec,3,Etoiles,Open Class,84.9,1992
+08/22,Oshawa,Ontario,6,Blue Saints,DCA Class A,54.0,1992
+08/22,Montreal,Quebec,4,Baladins,Open Class,82.6,1992
+08/22,Oshawa,Ontario,7,Oakland Crusaders,DCA Class A,48.0,1992
+08/22,Montreal,Quebec,5,Releve Musicale,Open Class,79.075,1992
+08/22,Montreal,Quebec,6,Cougars,Open Class,62.55,1992
+08/22,Oshawa,Ontario,1,Contemporary Youth Ens,DCA Class A,79.1,1992
+08/22,Oshawa,Ontario,2,Empire Loyalists,DCA Class A,74.1,1992
+08/22,Montreal,Quebec,1,Perc Clairs,Open Class,78.225,1992
+08/22,Oshawa,Ontario,3,Canadian Knights,DCA Class A,73.9,1992
+08/22,Montreal,Quebec,2,Princesses,Open Class,74.15,1992
+08/22,Oshawa,Ontario,4,Cadets of Dutch Boy,DCA Class A,72.6,1992
+08/22,Montreal,Quebec,3,Majestic,Open Class,69.0,1992
+08/22,Montreal,Quebec,4,Feux Follets,Open Class,63.4,1992
+08/22,Oshawa,Ontario,1,Phoenix-ONT,DCA Class A,62.5,1992
+08/22,Montreal,Quebec,5,Moussaillons,Open Class,61.45,1992
+08/22,Montreal,Quebec,6,Arc En Ciel,Open Class,60.275,1992
+08/22,Montreal,Quebec,7,Melogammes,Open Class,56.925,1992
+08/23,Hagerstown,MD,1,Bushwackers,Open Class,91.9,1992
+08/29,Millersville,PA,1,Bushwackers,Open Class,94.9,1992
+08/29,Ansonia,CT,1,Empire Statesmen,Open Class,93.6,1992
+08/23,Hagerstown,MD,2,Westshoremen,Open Class,87.3,1992
+08/29,Millersville,PA,2,Westshoremen,Open Class,89.9,1992
+08/29,Ansonia,CT,2,Hawthorne Caballeros,Open Class,91.5,1992
+08/23,Hagerstown,MD,3,Reading Buccaneers,Open Class,82.1,1992
+08/29,Millersville,PA,3,Rochester Crusaders,Open Class,85.6,1992
+08/29,Ansonia,CT,3,Connecticut Hurricanes,Open Class,90.0,1992
+08/23,Hagerstown,MD,4,Steel City Ambassadors,Open Class,72.0,1992
+08/29,Millersville,PA,4,Reading Buccaneers,Open Class,84.6,1992
+08/29,Ansonia,CT,4,New York Skyliners,Open Class,86.9,1992
+08/23,Hagerstown,MD,5,Chieftains,Open Class,65.7,1992
+08/29,Millersville,PA,5,Steel City Ambassadors,Open Class,76.5,1992
+08/29,Ansonia,CT,5,Sunrisers,Open Class,81.4,1992
+08/29,Millersville,PA,6,Chieftains,Open Class,69.7,1992
+08/29,Ansonia,CT,6,Syracuse Brigadiers,Open Class,79.6,1992
+08/29,Ansonia,CT,7,Capitol Brass Ensemble,Open Class,74.0,1992
+09/02,Allentown,PA,1,Bushwackers,Open Class,96.9,1992
+09/02,Allentown,PA,1,Bushwackers,Open Class,96.7,1992
+09/02,Allentown,PA,2,Empire Statesmen,Open Class,95.5,1992
+09/02,Allentown,PA,2,Empire Statesmen,Open Class,96.3,1992
+09/02,Allentown,PA,3,Hawthorne Caballeros,Open Class,93.5,1992
+09/02,Allentown,PA,3,Hawthorne Caballeros,Open Class,94.2,1992
+09/02,Allentown,PA,4,Connecticut Hurricanes,Open Class,93.3,1992
+09/02,Allentown,PA,4,Connecticut Hurricanes,Open Class,93.3,1992
+09/02,Allentown,PA,5,Westshoremen,Open Class,93.2,1992
+09/02,Allentown,PA,5,Les Metropolitans,Open Class,92.7,1992
+09/02,Allentown,PA,6,Les Metropolitans,Open Class,92.7,1992
+09/02,Allentown,PA,6,Westshoremen,Open Class,91.8,1992
+09/02,Allentown,PA,7,New York Skyliners,Open Class,89.4,1992
+09/02,Allentown,PA,7,New York Skyliners,Open Class,88.6,1992
+09/02,Allentown,PA,7,Rochester Crusaders,Open Class,89.4,1992
+09/02,Allentown,PA,8,Rochester Crusaders,Open Class,87.4,1992
+09/02,Allentown,PA,9,Reading Buccaneers,Open Class,88.5,1992
+09/02,Allentown,PA,9,Reading Buccaneers,Open Class,86.6,1992
+09/02,Allentown,PA,10,Minnesota Brass,Open Class,87.6,1992
+09/02,Allentown,PA,10,Minnesota Brass,Open Class,84.5,1992
+09/02,Allentown,PA,11,Sunrisers,Open Class,86.1,1992
+09/02,Allentown,PA,11,Syracuse Brigadiers,Open Class,81.5,1992
+09/02,Allentown,PA,12,Syracuse Brigadiers,Open Class,83.8,1992
+09/02,Allentown,PA,12,Sunrisers,Open Class,80.8,1992
+09/02,Allentown,PA,13,Capitol Brass Ensemble,Open Class,79.6,1992
+09/02,Allentown,PA,14,Steel City Ambassadors,Open Class,77.9,1992
+09/02,Allentown,PA,15,Chieftains,Open Class,75.7,1992
+09/02,Allentown,PA,16,Chicago Vanguard,Open Class,75.2,1992

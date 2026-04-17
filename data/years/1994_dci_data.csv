@@ -1,0 +1,1658 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/10,Malden,MA,1,East Coast Jazz,World Class,45.3,1994
+06/11,Menasha,WI,1,Madison Scouts,World Class,66.0,1994
+06/12,Madison,WI,1,Madison Scouts,World Class,68.4,1994
+06/17,Whitewater,WI,1,Cavaliers,World Class,70.2,1994
+06/11,Menasha,WI,2,Pioneer,World Class,47.5,1994
+06/12,Madison,WI,2,Colts,World Class,59.2,1994
+06/17,Whitewater,WI,2,Phantom Regiment,World Class,68.4,1994
+06/10,Malden,MA,1,Royal Cadets,World Class,57.2,1994
+06/11,Menasha,WI,3,Blue Stars,World Class,32.7,1994
+06/12,Madison,WI,3,Pioneer,World Class,48.7,1994
+06/17,Whitewater,WI,3,Colts,World Class,57.2,1994
+06/10,Malden,MA,2,Citations,World Class,54.7,1994
+06/11,Menasha,WI,4,CapitolAires,World Class,32.0,1994
+06/12,Madison,WI,4,Blue Stars,World Class,34.0,1994
+06/17,Whitewater,WI,4,Pioneer,World Class,49.6,1994
+06/10,Malden,MA,3,J's,World Class,51.3,1994
+06/11,Menasha,WI,5,Marquis,World Class,28.0,1994
+06/12,Madison,WI,5,CapitolAires,World Class,33.0,1994
+06/17,Whitewater,WI,5,Minnesota Brass,World Class,43.1,1994
+06/10,Malden,MA,4,Phoenix-MA,World Class,48.2,1994
+06/11,Menasha,WI,6,Phantom Regiment Cadets,World Class,26.1,1994
+06/12,Madison,WI,6,Phantom Regiment Cadets,World Class,22.7,1994
+06/17,Whitewater,WI,6,Nite Express,World Class,38.5,1994
+06/11,Menasha,WI,7,Kilties,World Class,23.1,1994
+06/12,Madison,WI,7,Madison Junior Scouts,World Class,20.2,1994
+06/17,Whitewater,WI,6,Northern Aurora,World Class,38.5,1994
+06/10,Malden,MA,1,Fitchburg Kingsmen,World Class,41.8,1994
+06/17,Whitewater,WI,8,Blue Stars,World Class,35.6,1994
+06/17,Whitewater,WI,9,Quad City Knights,World Class,33.7,1994
+06/17,Whitewater,WI,10,Marquis,World Class,26.7,1994
+06/17,Phoenix,AZ,1,Madison Scouts,World Class,66.5,1994
+06/18,Oshkosh,WI,1,Cavaliers,World Class,71.3,1994
+06/18,Scarborough,Ontario,1,Cardinals,World Class,60.3,1994
+06/18,Westminster,MA,1,Buccaneers,World Class,58.7,1994
+06/17,Phoenix,AZ,2,Blue Knights,World Class,64.0,1994
+06/18,Oshkosh,WI,2,Phantom Regiment,World Class,68.5,1994
+06/18,Scarborough,Ontario,2,Kiwanis Kavaliers,World Class,58.7,1994
+06/17,Phoenix,AZ,3,Troopers,World Class,55.5,1994
+06/18,Oshkosh,WI,3,Glassmen,World Class,60.1,1994
+06/18,Scarborough,Ontario,3,Patriots,World Class,56.3,1994
+06/18,Westminster,MA,2,Citations,World Class,54.3,1994
+06/18,Oshkosh,WI,4,Colts,World Class,56.8,1994
+06/18,Scarborough,Ontario,4,Saint John's,World Class,55.9,1994
+06/18,Westminster,MA,3,Royal Cadets,World Class,54.2,1994
+06/17,Phoenix,AZ,1,Vanguard Cadets,World Class,64.8,1994
+06/18,Oshkosh,WI,5,Pioneer,World Class,49.0,1994
+06/18,Scarborough,Ontario,5,East Coast Jazz,World Class,54.9,1994
+06/18,Westminster,MA,4,J's,World Class,50.2,1994
+06/17,Phoenix,AZ,2,Trooper Cadets,World Class,54.0,1994
+06/18,Oshkosh,WI,6,Minnesota Brass,World Class,42.8,1994
+06/18,Scarborough,Ontario,6,Spartans,World Class,54.6,1994
+06/18,Westminster,MA,5,Phoenix-MA,World Class,49.0,1994
+06/18,Oshkosh,WI,7,Nite Express,World Class,38.3,1994
+06/18,Scarborough,Ontario,7,Canadian Knights,World Class,49.0,1994
+06/18,Oshkosh,WI,8,Northern Aurora,World Class,32.8,1994
+06/18,Scarborough,Ontario,8,Ventures,World Class,47.1,1994
+06/18,Westminster,MA,1,Fitchburg Kingsmen,World Class,41.9,1994
+06/18,Scarborough,Ontario,9,Dutch Boy Cadets,World Class,42.2,1994
+06/18,Westminster,MA,2,Braintree Braves,World Class,24.3,1994
+06/18,Riverside,CA,1,Madison Scouts,World Class,71.2,1994
+06/19,Oswego,IL,1,Cavaliers,World Class,70.5,1994
+06/19,Monterey Park,CA,1,Madison Scouts,World Class,73.9,1994
+06/19,Waltham,MA,1,East Coast Jazz,World Class,62.2,1994
+06/18,Riverside,CA,2,Blue Knights,World Class,65.6,1994
+06/19,Oswego,IL,2,Northern Aurora,World Class,49.9,1994
+06/19,Monterey Park,CA,2,Blue Knights,World Class,68.4,1994
+06/19,Waltham,MA,2,Buccaneers,World Class,54.7,1994
+06/18,Riverside,CA,3,Velvet Knights,World Class,59.0,1994
+06/19,Oswego,IL,3,CapitolAires,World Class,45.3,1994
+06/19,Monterey Park,CA,3,Velvet Knights,World Class,60.5,1994
+06/18,Riverside,CA,4,Troopers,World Class,56.0,1994
+06/19,Oswego,IL,4,Quad City Knights,World Class,40.1,1994
+06/19,Monterey Park,CA,4,Troopers,World Class,57.5,1994
+06/19,Waltham,MA,1,Royal Cadets,World Class,61.4,1994
+06/19,Oswego,IL,5,Chicago Vanguard,World Class,36.1,1994
+06/19,Waltham,MA,2,Citations,World Class,58.7,1994
+06/18,Riverside,CA,1,Vanguard Cadets,World Class,67.5,1994
+06/19,Oswego,IL,6,Guardsmen,World Class,27.4,1994
+06/19,Monterey Park,CA,1,Vanguard Cadets,World Class,71.6,1994
+06/19,Waltham,MA,3,J's,World Class,52.5,1994
+06/18,Riverside,CA,2,Pacific Crest,World Class,58.3,1994
+06/19,Oswego,IL,7,Madison Junior Scouts,World Class,22.6,1994
+06/19,Monterey Park,CA,2,Pacific Crest,World Class,61.1,1994
+06/19,Waltham,MA,4,Phoenix-MA,World Class,50.6,1994
+06/18,Riverside,CA,3,Trooper Cadets,World Class,55.1,1994
+06/19,Monterey Park,CA,3,Trooper Cadets,World Class,54.4,1994
+06/19,Waltham,MA,1,Fitchburg Kingsmen,World Class,54.6,1994
+06/19,Waltham,MA,2,Braintree Braves,World Class,30.9,1994
+06/19,Kitchener,Ontario,1,Kiwanis Kavaliers,World Class,65.4,1994
+06/21,Otsego,MI,1,Cavaliers,World Class,70.9,1994
+06/22,Merrillville,IN,1,Phantom Regiment,World Class,72.4,1994
+06/23,Beavercreek,OH,1,Cavaliers,World Class,73.7,1994
+06/21,Otsego,MI,2,Phantom Regiment,World Class,68.9,1994
+06/22,Merrillville,IN,2,Colts,World Class,64.0,1994
+06/23,Beavercreek,OH,2,Glassmen,World Class,63.6,1994
+06/19,Kitchener,Ontario,1,Saint John's,World Class,56.6,1994
+06/21,Otsego,MI,3,Colts,World Class,59.6,1994
+06/22,Merrillville,IN,3,Pioneer,World Class,53.2,1994
+06/23,Beavercreek,OH,3,Bluecoats,World Class,62.1,1994
+06/19,Kitchener,Ontario,2,Ventures,World Class,53.5,1994
+06/21,Otsego,MI,4,Bluecoats,World Class,59.0,1994
+06/22,Merrillville,IN,4,Northern Aurora,World Class,50.3,1994
+06/23,Beavercreek,OH,4,Kiwanis Kavaliers,World Class,44.1,1994
+06/19,Kitchener,Ontario,3,Ridge Raiders,World Class,48.6,1994
+06/21,Otsego,MI,5,Pioneer,World Class,51.2,1994
+06/22,Merrillville,IN,5,CapitolAires,World Class,42.2,1994
+06/23,Beavercreek,OH,5,CapitolAires,World Class,42.7,1994
+06/19,Kitchener,Ontario,4,Canadian Knights,World Class,47.8,1994
+06/21,Otsego,MI,6,Northern Aurora,World Class,43.2,1994
+06/22,Merrillville,IN,6,Golden Lancers,World Class,34.0,1994
+06/23,Beavercreek,OH,6,Knights,World Class,39.2,1994
+06/19,Kitchener,Ontario,5,Dutch Boy Cadets,World Class,44.2,1994
+06/21,Otsego,MI,7,Phantom Regiment Cadets,World Class,30.9,1994
+06/22,Merrillville,IN,7,Phantom Regiment Cadets,World Class,32.9,1994
+06/23,Beavercreek,OH,7,Marion Cadets,World Class,25.7,1994
+06/21,Otsego,MI,8,Coachmen,World Class,27.4,1994
+06/21,Otsego,MI,9,12th Command,World Class,26.0,1994
+06/24,Gilroy,CA,1,Vanguard,World Class,73.0,1994
+06/24,Winchester,KY,1,Cavaliers,World Class,74.0,1994
+06/24,Manteca,CA,1,Blue Devils,World Class,75.5,1994
+06/25,Bayonne,NJ,1,Cadets,World Class,69.9,1994
+06/24,Gilroy,CA,2,Madison Scouts,World Class,72.9,1994
+06/24,Winchester,KY,2,Glassmen,World Class,64.4,1994
+06/24,Manteca,CA,2,Freelancers,World Class,61.0,1994
+06/25,Bayonne,NJ,2,Boston Crusaders,World Class,58.7,1994
+06/24,Gilroy,CA,3,Blue Knights,World Class,67.7,1994
+06/24,Winchester,KY,3,Bluecoats,World Class,62.4,1994
+06/24,Manteca,CA,3,Velvet Knights,World Class,59.1,1994
+06/24,Gilroy,CA,4,Troopers,World Class,58.1,1994
+06/24,Winchester,KY,4,Kiwanis Kavaliers,World Class,46.9,1994
+06/25,Bayonne,NJ,1,Raiders,World Class,56.6,1994
+06/24,Winchester,KY,5,CapitolAires,World Class,42.9,1994
+06/24,Manteca,CA,1,Blue Devils B,World Class,63.0,1994
+06/25,Bayonne,NJ,2,Spartans,World Class,56.2,1994
+06/24,Gilroy,CA,1,Vanguard Cadets,World Class,67.6,1994
+06/24,Winchester,KY,6,Marion Cadets,World Class,31.1,1994
+06/24,Manteca,CA,2,Pacific Crest,World Class,57.3,1994
+06/25,Bayonne,NJ,3,Jersey Surf,World Class,53.9,1994
+06/24,Gilroy,CA,2,Trooper Cadets,World Class,52.9,1994
+06/24,Winchester,KY,7,12th Command,World Class,26.9,1994
+06/24,Manteca,CA,3,Mandarins,World Class,56.9,1994
+06/25,Bayonne,NJ,4,Firebirds,World Class,21.9,1994
+06/24,Winchester,KY,8,Bluegrass Brass,World Class,23.7,1994
+06/25,Bayonne,NJ,1,Bushwackers,World Class,60.6,1994
+06/25,Bayonne,NJ,2,New York Skyliners,World Class,55.3,1994
+06/25,Bayonne,NJ,3,Chieftains,World Class,40.2,1994
+06/25,Muskegon,MI,1,Pioneer,World Class,57.2,1994
+06/25,Alexandria,MN,1,Phantom Regiment,World Class,72.6,1994
+06/25,Mansfield,OH,1,Cavaliers,World Class,75.7,1994
+06/25,Concord,CA,1,Blue Devils,World Class,77.6,1994
+06/25,Muskegon,MI,2,Northern Aurora,World Class,52.6,1994
+06/25,Alexandria,MN,2,Minnesota Brass,World Class,49.9,1994
+06/25,Mansfield,OH,2,Glassmen,World Class,65.4,1994
+06/25,Concord,CA,2,Vanguard,World Class,73.9,1994
+06/25,Muskegon,MI,3,Coachmen,World Class,35.3,1994
+06/25,Alexandria,MN,3,Nite Express,World Class,48.7,1994
+06/25,Mansfield,OH,3,Kiwanis Kavaliers,World Class,50.4,1994
+06/25,Concord,CA,3,Madison Scouts,World Class,73.8,1994
+06/25,Muskegon,MI,4,Guardsmen,World Class,27.0,1994
+06/25,Alexandria,MN,4,Blue Stars,World Class,44.7,1994
+06/25,Mansfield,OH,4,CapitolAires,World Class,44.6,1994
+06/25,Concord,CA,4,Blue Knights,World Class,66.1,1994
+06/25,Muskegon,MI,5,Bandettes,World Class,25.7,1994
+06/25,Alexandria,MN,5,Americanos,World Class,39.7,1994
+06/25,Mansfield,OH,5,Golden Lancers,World Class,39.3,1994
+06/25,Concord,CA,5,Freelancers,World Class,61.4,1994
+06/25,Muskegon,MI,6,Racine Scouts,World Class,18.5,1994
+06/25,Alexandria,MN,6,Marquis,World Class,34.6,1994
+06/25,Mansfield,OH,6,Bluegrass Brass,World Class,30.1,1994
+06/25,Concord,CA,6,Velvet Knights,World Class,60.8,1994
+06/25,Alexandria,MN,7,Govenaires,World Class,32.5,1994
+06/25,Mansfield,OH,7,Marion Cadets,World Class,27.5,1994
+06/25,Concord,CA,7,Troopers,World Class,56.7,1994
+06/25,Mansfield,OH,8,12th Command,World Class,26.6,1994
+06/25,Concord,CA,1,Vanguard Cadets,World Class,68.1,1994
+06/25,Concord,CA,2,Blue Devils B,World Class,64.5,1994
+06/25,Concord,CA,3,Pacific Crest,World Class,58.4,1994
+06/25,Concord,CA,4,Mandarins,World Class,56.3,1994
+06/25,Concord,CA,5,Trooper Cadets,World Class,54.3,1994
+06/25,Ottawa,Ontario,1,Academie Musicale,DCA Class A,53.2,1994
+06/25,Hamilton,Ontario,1,Cardinals,DCA Class A,70.3,1994
+06/26,Rochester,MN,1,Phantom Regiment,DCA Class A,74.5,1994
+06/26,Woodstock,IL,1,Kiwanis Kavaliers,DCA Class A,52.9,1994
+06/25,Ottawa,Ontario,2,East Coast Jazz,DCA Class A,53.1,1994
+06/26,Rochester,MN,2,Colts,DCA Class A,64.2,1994
+06/26,Woodstock,IL,2,Quad City Knights,DCA Class A,47.4,1994
+06/25,Ottawa,Ontario,3,Royal Columbians,DCA Class A,51.9,1994
+06/25,Hamilton,Ontario,1,Saint John's,DCA Class A,62.0,1994
+06/26,Rochester,MN,3,Nite Express,DCA Class A,55.0,1994
+06/26,Woodstock,IL,3,Chicago Vanguard,DCA Class A,37.1,1994
+06/25,Ottawa,Ontario,4,Les Etoiles,DCA Class A,50.9,1994
+06/25,Hamilton,Ontario,2,Ridge Raiders,DCA Class A,57.5,1994
+06/26,Rochester,MN,4,Minnesota Brass,DCA Class A,51.9,1994
+06/26,Woodstock,IL,4,Phantom Regiment Cadets,DCA Class A,35.3,1994
+06/25,Ottawa,Ontario,5,Ventures,DCA Class A,45.3,1994
+06/25,Hamilton,Ontario,3,Canadian Knights,DCA Class A,57.0,1994
+06/26,Rochester,MN,5,Blue Stars,DCA Class A,49.2,1994
+06/26,Woodstock,IL,5,Kilties,DCA Class A,31.4,1994
+06/25,Ottawa,Ontario,6,Contemporary Youth Ens.,DCA Class A,44.7,1994
+06/26,Rochester,MN,6,Americanos,DCA Class A,44.1,1994
+06/26,Woodstock,IL,6,Colt Cadets,DCA Class A,31.2,1994
+06/25,Hamilton,Ontario,1,Empire Loyalists,DCA Class A,69.5,1994
+06/26,Rochester,MN,7,Govenaires,DCA Class A,34.4,1994
+06/26,Woodstock,IL,7,Guardsmen,DCA Class A,28.0,1994
+06/25,Hamilton,Ontario,2,Emerald Knights,DCA Class A,56.7,1994
+06/26,Woodstock,IL,8,Madison Junior Scouts,DCA Class A,24.6,1994
+06/27,Buffalo,NY,1,Cadets,DCA Class A,72.8,1994
+06/27,Salt Lake City,UT,1,Vanguard,DCA Class A,76.7,1994
+06/28,Pittsburgh,PA,1,Cadets,DCA Class A,73.0,1994
+06/28,Eden Prairie,MN,1,Phantom Regiment,DCA Class A,75.4,1994
+06/27,Buffalo,NY,2,Glassmen,DCA Class A,61.0,1994
+06/27,Salt Lake City,UT,2,Madison Scouts,DCA Class A,75.4,1994
+06/28,Pittsburgh,PA,2,Glassmen,DCA Class A,63.6,1994
+06/28,Eden Prairie,MN,2,Colts,DCA Class A,67.3,1994
+06/27,Salt Lake City,UT,3,Blue Knights,DCA Class A,69.1,1994
+06/28,Pittsburgh,PA,3,Bluecoats,DCA Class A,60.8,1994
+06/28,Eden Prairie,MN,3,Nite Express,DCA Class A,54.6,1994
+06/27,Buffalo,NY,1,Cardinals,DCA Class A,62.6,1994
+06/27,Salt Lake City,UT,4,Troopers,DCA Class A,60.1,1994
+06/28,Eden Prairie,MN,4,Minnesota Brass,DCA Class A,51.6,1994
+06/27,Buffalo,NY,2,Patriots,DCA Class A,56.2,1994
+06/28,Pittsburgh,PA,1,Cardinals,DCA Class A,66.2,1994
+06/28,Eden Prairie,MN,5,Blue Stars,DCA Class A,49.4,1994
+06/27,Buffalo,NY,3,Firebirds,DCA Class A,24.4,1994
+06/27,Salt Lake City,UT,1,Vanguard Cadets,DCA Class A,71.1,1994
+06/28,Pittsburgh,PA,2,L'Insolite,DCA Class A,55.9,1994
+06/28,Eden Prairie,MN,6,Americanos,DCA Class A,47.3,1994
+06/27,Salt Lake City,UT,2,Blue Devils B,DCA Class A,66.7,1994
+06/28,Pittsburgh,PA,3,Golden Lancers,DCA Class A,54.2,1994
+06/28,Eden Prairie,MN,7,North Force,DCA Class A,34.6,1994
+06/27,Salt Lake City,UT,3,Trooper Cadets,DCA Class A,56.8,1994
+06/28,Pittsburgh,PA,4,"General Butler
+  Vagabonds",DCA Class A,34.1,1994
+06/29,Charleston,WV,1,Cadets,DCA Class A,72.9,1994
+06/29,Charles City,IA,1,Phantom Regiment,DCA Class A,77.0,1994
+06/29,Wyandotte,MI,1,Cavaliers,DCA Class A,78.8,1994
+06/30,Woodburn,OR,1,Velvet Knights,DCA Class A,64.5,1994
+06/29,Charleston,WV,2,Glassmen,DCA Class A,63.0,1994
+06/29,Charles City,IA,2,Colts,DCA Class A,68.0,1994
+06/29,Wyandotte,MI,2,Pioneer,DCA Class A,58.1,1994
+06/30,Woodburn,OR,1,Freelancers,DCA Class A,64.5,1994
+06/29,Charleston,WV,3,Bluecoats,DCA Class A,62.6,1994
+06/29,Charles City,IA,3,Nite Express,DCA Class A,57.6,1994
+06/29,Wyandotte,MI,3,Northern Aurora,DCA Class A,54.7,1994
+06/30,Woodburn,OR,3,Marauders,DCA Class A,62.4,1994
+06/29,Charles City,IA,4,Blue Stars,DCA Class A,49.8,1994
+06/29,Wyandotte,MI,4,CapitolAires,DCA Class A,49.2,1994
+06/29,Charleston,WV,1,Cardinals,DCA Class A,64.5,1994
+06/29,Charles City,IA,5,Americanos,DCA Class A,48.9,1994
+06/29,Wyandotte,MI,5,Coachmen,DCA Class A,34.2,1994
+06/30,Woodburn,OR,1,Mandarins,DCA Class A,54.3,1994
+06/29,Charleston,WV,2,L'Insolite,DCA Class A,56.8,1994
+06/29,Charles City,IA,6,Colt Cadets,DCA Class A,33.6,1994
+06/29,Wyandotte,MI,6,12th Command,DCA Class A,28.9,1994
+06/30,Woodburn,OR,2,Seattle Cascades,DCA Class A,51.9,1994
+06/29,Charleston,WV,3,"General Butler
+  Vagabonds",DCA Class A,38.2,1994
+06/29,Charles City,IA,7,Northmen,DCA Class A,19.8,1994
+06/29,Wyandotte,MI,7,Bandettes,DCA Class A,26.4,1994
+06/30,Woodburn,OR,3,Allegiance Elite,DCA Class A,49.9,1994
+06/29,Charleston,WV,1,Cavaliers,DCA Class A,78.9,1994
+06/29,Charleston,WV,2,Colts,DCA Class A,69.9,1994
+06/29,Charleston,WV,3,Pioneer,DCA Class A,58.4,1994
+06/29,Charleston,WV,4,Kiwanis Kavaliers,DCA Class A,49.6,1994
+06/29,Charleston,WV,5,CapitolAires,DCA Class A,45.3,1994
+06/29,Charleston,WV,6,Phantom Regiment Cadets,DCA Class A,35.3,1994
+06/29,Charleston,WV,7,12th Command,DCA Class A,29.2,1994
+06/29,Charleston,WV,8,Bandettes,DCA Class A,22.8,1994
+07/01,Bensalem,PA,1,Blue Devils,World Class,77.9,1994
+07/01,Streator,IL,1,Cavaliers,World Class,78.2,1994
+07/01,Cary,NC,1,Glassmen,World Class,66.4,1994
+07/01,Cheyenne,WY,1,Madison Scouts,World Class,74.8,1994
+07/01,Bensalem,PA,2,Cadets,World Class,76.8,1994
+07/01,Streator,IL,2,Phantom Regiment,World Class,76.1,1994
+07/01,Cary,NC,2,Magic of Orlando,World Class,62.3,1994
+07/01,Cheyenne,WY,2,Vanguard,World Class,74.0,1994
+07/01,Bensalem,PA,3,Crossmen,World Class,66.2,1994
+07/01,Streator,IL,3,Colts,World Class,67.6,1994
+07/01,Cary,NC,3,Carolina Crown,World Class,54.3,1994
+07/01,Cheyenne,WY,3,Blue Knights,World Class,66.1,1994
+07/01,Bensalem,PA,4,Boston Crusaders,World Class,62.2,1994
+07/01,Streator,IL,4,Pioneer,World Class,58.7,1994
+07/01,Cary,NC,4,Southwind,World Class,51.9,1994
+07/01,Cheyenne,WY,4,Troopers,World Class,60.2,1994
+07/01,Streator,IL,5,CapitolAires,World Class,46.1,1994
+07/01,Cary,NC,5,Suncoast Sound,World Class,43.2,1994
+07/01,Bensalem,PA,1,L'Insolite,World Class,62.5,1994
+07/01,Streator,IL,6,Saint John's,World Class,36.6,1994
+07/01,Cheyenne,WY,1,Vanguard Cadets,World Class,71.7,1994
+07/01,Bensalem,PA,2,Raiders,World Class,55.1,1994
+07/01,Streator,IL,7,Phantom Regiment Cadets,World Class,35.0,1994
+07/01,Cheyenne,WY,2,Blue Devils B,World Class,59.1,1994
+07/01,Bensalem,PA,3,Jersey Surf,World Class,52.0,1994
+07/01,Streator,IL,8,12th Command,World Class,32.8,1994
+07/01,Cheyenne,WY,3,Knights,World Class,54.2,1994
+07/01,Streator,IL,9,Bayou City Blues,World Class,28.0,1994
+07/01,Cheyenne,WY,4,Trooper Cadets,World Class,45.8,1994
+07/01,Fon du Lac,WI,1,Kiwanis Kavaliers,World Class,56.8,1994
+07/01,Kelso,WA,1,Freelancers,World Class,66.9,1994
+07/01,Leominster,MA,1,East Coast Jazz,World Class,69.3,1994
+07/02,Clifton,NJ,1,Blue Devils,World Class,78.8,1994
+07/01,Fon du Lac,WI,2,Marquis,World Class,46.1,1994
+07/01,Kelso,WA,2,Velvet Knights,World Class,64.5,1994
+07/01,Leominster,MA,2,Buccaneers,World Class,63.6,1994
+07/02,Clifton,NJ,2,Cadets,World Class,76.3,1994
+07/01,Fon du Lac,WI,3,Colt Cadets,World Class,36.3,1994
+07/01,Kelso,WA,3,Marauders,World Class,52.0,1994
+07/02,Clifton,NJ,3,Crossmen,World Class,67.6,1994
+07/01,Fon du Lac,WI,4,Madison Junior Scouts,World Class,29.7,1994
+07/01,Leominster,MA,1,Royal Cadets,World Class,64.6,1994
+07/02,Clifton,NJ,4,Bluecoats,World Class,67.0,1994
+07/01,Fon du Lac,WI,5,Bandettes,World Class,28.1,1994
+07/01,Kelso,WA,1,Mandarins,World Class,59.9,1994
+07/01,Leominster,MA,2,Citations,World Class,58.8,1994
+07/02,Clifton,NJ,5,Boston Crusaders,World Class,61.7,1994
+07/01,Fon du Lac,WI,6,Northmen,World Class,26.2,1994
+07/01,Kelso,WA,2,Seattle Cascades,World Class,54.8,1994
+07/01,Leominster,MA,3,J's,World Class,57.9,1994
+07/02,Clifton,NJ,6,Cardinals,World Class,48.1,1994
+07/01,Fon du Lac,WI,7,Prince Hall Lancers,World Class,25.7,1994
+07/01,Kelso,WA,3,Allegiance Elite,World Class,52.0,1994
+07/02,Clifton,NJ,7,Dimension,World Class,47.4,1994
+07/01,Leominster,MA,1,Fitchburg Kingsmen,World Class,45.4,1994
+07/01,Leominster,MA,2,Braintree Braves,World Class,26.1,1994
+07/02,Clifton,NJ,1,Dimension,World Class,64.7,1994
+07/02,Clifton,NJ,2,Cardinals,World Class,63.4,1994
+07/02,Clifton,NJ,3,L'Insolite,World Class,62.4,1994
+07/02,Clifton,NJ,4,Raiders,World Class,58.1,1994
+07/02,Clifton,NJ,5,Academie Musicale,World Class,57.5,1994
+07/02,Clifton,NJ,6,Les Etoiles,World Class,55.5,1994
+07/02,Clifton,NJ,7,Royal Columbians,World Class,53.2,1994
+07/02,Clifton,NJ,8,Jersey Surf,World Class,49.1,1994
+07/02,Clifton,NJ,9,Southern Knights,World Class,40.6,1994
+07/02,Clifton,NJ,10,Illusion,World Class,32.2,1994
+07/02,Clifton,NJ,11,Firebirds,World Class,18.4,1994
+07/02,Denver,CO,1,Vanguard,World Class,76.3,1994
+07/02,LaPorte,IN,1,Cavaliers,World Class,79.9,1994
+07/02,Cedar Rapids,IA,1,Colts,World Class,68.2,1994
+07/02,Columbia,SC,1,Glassmen,World Class,67.1,1994
+07/02,Denver,CO,2,Madison Scouts,World Class,74.9,1994
+07/02,LaPorte,IN,2,Phantom Regiment,World Class,76.3,1994
+07/02,Cedar Rapids,IA,2,Nite Express,World Class,56.9,1994
+07/02,Columbia,SC,2,Magic of Orlando,World Class,63.5,1994
+07/02,Denver,CO,3,Blue Knights,World Class,69.4,1994
+07/02,LaPorte,IN,3,Pioneer,World Class,62.5,1994
+07/02,Cedar Rapids,IA,3,Minnesota Brass,World Class,56.8,1994
+07/02,Columbia,SC,3,Carolina Crown,World Class,57.4,1994
+07/02,Denver,CO,4,Troopers,World Class,59.5,1994
+07/02,LaPorte,IN,4,Northern Aurora,World Class,50.1,1994
+07/02,Cedar Rapids,IA,4,Kiwanis Kavaliers,World Class,53.0,1994
+07/02,Columbia,SC,4,Southwind,World Class,53.5,1994
+07/02,Denver,CO,5,Vanguard Cadets,World Class,51.8,1994
+07/02,LaPorte,IN,5,Saint John's,World Class,36.6,1994
+07/02,Cedar Rapids,IA,5,CapitolAires,World Class,47.0,1994
+07/02,Columbia,SC,5,Suncoast Sound,World Class,43.3,1994
+07/02,Denver,CO,6,Blue Devils B,World Class,46.6,1994
+07/02,LaPorte,IN,6,12th Command,World Class,31.9,1994
+07/02,Cedar Rapids,IA,6,Americanos,World Class,46.9,1994
+07/02,Denver,CO,7,Blue Stars,World Class,40.8,1994
+07/02,LaPorte,IN,7,Chicago Vanguard,World Class,31.4,1994
+07/02,Cedar Rapids,IA,7,Bayou City Blues,World Class,34.8,1994
+07/02,Denver,CO,8,Knights,World Class,37.2,1994
+07/02,LaPorte,IN,8,Guardsmen,World Class,25.9,1994
+07/02,Cedar Rapids,IA,8,Colt Cadets,World Class,32.1,1994
+07/02,Kent,WA,1,Freelancers,Open Class,67.6,1994
+07/02,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,62.3,1994
+07/03,Bristol,RI,1,Blue Devils,Open Class,80.7,1994
+07/03,Oswego,NY,1,Empire Statesmen,Open Class,67.6,1994
+07/02,Kent,WA,2,Velvet Knights,Open Class,66.5,1994
+07/02,Bridgeport,CT,2,Bushwackers,Open Class,61.9,1994
+07/03,Bristol,RI,2,Cadets,Open Class,78.3,1994
+07/03,Oswego,NY,2,Rochester Crusaders,Open Class,63.8,1994
+07/02,Kent,WA,3,Marauders,Open Class,55.5,1994
+07/02,Bridgeport,CT,3,New York Skyliners,Open Class,57.4,1994
+07/03,Bristol,RI,3,Crossmen,Open Class,67.3,1994
+07/03,Oswego,NY,3,Chieftains,Open Class,45.7,1994
+07/02,Bridgeport,CT,4,Connecticut Hurricanes,Open Class,56.7,1994
+07/03,Bristol,RI,4,Bluecoats,Open Class,66.8,1994
+07/03,Oswego,NY,4,Mainliners,Open Class,31.9,1994
+07/02,Kent,WA,1,Mandarins,Open Class,59.6,1994
+07/02,Bridgeport,CT,5,Westshoremen,Open Class,45.5,1994
+07/03,Bristol,RI,5,Boston Crusaders,Open Class,60.7,1994
+07/02,Kent,WA,2,Seattle Cascades,Open Class,55.8,1994
+07/02,Bridgeport,CT,6,Syracuse Brigadiers,Open Class,43.9,1994
+07/02,Kent,WA,3,Allegiance Elite,Open Class,53.6,1994
+07/02,Bridgeport,CT,7,Reading Buccaneers,Open Class,32.8,1994
+07/03,Bristol,RI,1,L'Insolite,Open Class,61.6,1994
+07/03,Bristol,RI,2,Cardinals,Open Class,57.9,1994
+07/03,Austin,MN,1,Colts,Open Class,72.0,1994
+07/03,Bellevue,NE,1,Madison Scouts,Open Class,78.8,1994
+07/03,Hoffman Estates,IL,1,Phantom Regiment,Open Class,78.9,1994
+07/03,Mount Prospect,IL,1,Cavaliers,Open Class,79.1,1994
+07/03,Austin,MN,2,Minnesota Brass,Open Class,61.6,1994
+07/03,Bellevue,NE,2,Nite Express,Open Class,56.5,1994
+07/03,Hoffman Estates,IL,2,Northern Aurora,Open Class,56.7,1994
+07/03,Mount Prospect,IL,2,Phantom Regiment,Open Class,77.9,1994
+07/03,Austin,MN,3,Americanos,Open Class,50.1,1994
+07/03,Bellevue,NE,3,Vanguard Cadets,Open Class,55.6,1994
+07/03,Hoffman Estates,IL,3,Colt Cadets,Open Class,36.0,1994
+07/03,Mount Prospect,IL,3,Pioneer,Open Class,61.7,1994
+07/03,Austin,MN,4,CapitolAires,Open Class,48.1,1994
+07/03,Bellevue,NE,4,Kiwanis Kavaliers,Open Class,54.3,1994
+07/03,Hoffman Estates,IL,4,Madison Junior Scouts,Open Class,35.6,1994
+07/03,Mount Prospect,IL,4,Northern Aurora,Open Class,53.7,1994
+07/03,Austin,MN,5,Govenaires,Open Class,42.7,1994
+07/03,Bellevue,NE,5,Blue Stars,Open Class,51.2,1994
+07/03,Hoffman Estates,IL,5,Guardsmen,Open Class,30.2,1994
+07/03,Mount Prospect,IL,5,Phantom Regiment Cadets,Open Class,41.3,1994
+07/03,Austin,MN,6,North Force,Open Class,30.9,1994
+07/03,Bellevue,NE,6,Knights,Open Class,43.8,1994
+07/03,Hoffman Estates,IL,6,Bandettes,Open Class,29.4,1994
+07/03,Mount Prospect,IL,6,Chicago Vanguard,Open Class,40.2,1994
+07/03,Everett,WA,1,Velvet Knights,Open Class,69.4,1994
+07/03,Chelmsford,MA,1,Dimension,Open Class,63.6,1994
+07/03,East Troy,WI,1,Coachmen,Open Class,41.6,1994
+07/04,Wakefield,MA,1,Blue Devils,Open Class,82.4,1994
+07/03,Everett,WA,2,Freelancers,Open Class,68.8,1994
+07/03,Chelmsford,MA,2,East Coast Jazz,Open Class,60.0,1994
+07/03,East Troy,WI,2,Marquis,Open Class,41.2,1994
+07/04,Wakefield,MA,2,Cadets,Open Class,78.6,1994
+07/03,Everett,WA,3,Marauders,Open Class,59.1,1994
+07/03,Chelmsford,MA,3,Spartans,Open Class,59.7,1994
+07/03,East Troy,WI,3,Saint John's,Open Class,39.9,1994
+07/04,Wakefield,MA,3,Bluecoats,Open Class,68.5,1994
+07/03,Chelmsford,MA,4,Academie Musicale,Open Class,59.2,1994
+07/03,East Troy,WI,4,Marion Cadets,Open Class,27.7,1994
+07/04,Wakefield,MA,4,Boston Crusaders,Open Class,60.2,1994
+07/03,Everett,WA,1,Mandarins,Open Class,68.6,1994
+07/03,Chelmsford,MA,5,Les Etoiles,Open Class,56.3,1994
+07/03,East Troy,WI,5,Royalaires,Open Class,27.1,1994
+07/04,Wakefield,MA,5,Cardinals,Open Class,45.3,1994
+07/03,Everett,WA,2,Seattle Cascades,Open Class,62.6,1994
+07/03,Chelmsford,MA,6,Patriots,Open Class,56.0,1994
+07/03,East Troy,WI,6,Racine Scouts,Open Class,25.8,1994
+07/03,Everett,WA,3,Allegiance Elite,Open Class,60.3,1994
+07/03,Chelmsford,MA,7,Ventures,Open Class,55.1,1994
+07/03,Chelmsford,MA,8,Royal Columbians,Open Class,54.0,1994
+07/03,Chelmsford,MA,9,Buccaneers,Open Class,53.3,1994
+07/03,Chelmsford,MA,10,Contemporary Youth Ens.,Open Class,53.0,1994
+07/03,Chelmsford,MA,11,Royal Cadets,Open Class,36.4,1994
+07/04,Gowrie,IA,1,Madison Scouts,Open Class,77.8,1994
+07/04,Saint Peter,MN,1,Colts,Open Class,73.0,1994
+07/05,Mankato,MN,1,Madison Scouts,Open Class,79.0,1994
+07/05,Oak Ridge,TN,1,Glassmen,Open Class,66.5,1994
+07/04,Gowrie,IA,2,Nite Express,Open Class,59.0,1994
+07/04,Saint Peter,MN,2,Minnesota Brass,Open Class,63.1,1994
+07/05,Mankato,MN,2,Colts,Open Class,72.8,1994
+07/05,Oak Ridge,TN,2,Magic of Orlando,Open Class,61.5,1994
+07/04,Gowrie,IA,3,Kiwanis Kavaliers,Open Class,55.7,1994
+07/04,Saint Peter,MN,3,CapitolAires,Open Class,48.5,1994
+07/05,Mankato,MN,3,Nite Express,Open Class,57.4,1994
+07/05,Oak Ridge,TN,3,Carolina Crown,Open Class,54.7,1994
+07/04,Gowrie,IA,4,Blue Stars,Open Class,50.0,1994
+07/04,Saint Peter,MN,4,Americanos,Open Class,47.1,1994
+07/05,Mankato,MN,4,Blue Stars,Open Class,53.5,1994
+07/05,Oak Ridge,TN,4,Southwind,Open Class,53.6,1994
+07/04,Gowrie,IA,5,Quad City Knights,Open Class,48.5,1994
+07/04,Saint Peter,MN,5,Govenaires,Open Class,44.0,1994
+07/05,Mankato,MN,5,CapitolAires,Open Class,50.8,1994
+07/04,Gowrie,IA,6,Railmen,Open Class,39.0,1994
+07/04,Saint Peter,MN,6,North Force,Open Class,29.6,1994
+07/05,Mankato,MN,6,Americanos,Open Class,49.9,1994
+07/05,Oak Ridge,TN,1,Suncoast Sound,Open Class,60.3,1994
+07/05,Mankato,MN,7,Govenaires,Open Class,43.1,1994
+07/05,Oak Ridge,TN,2,Delta Brigade,Open Class,50.0,1994
+07/07,Syracuse,NY,1,Cadets,Open Class,83.3,1994
+07/07,Madison,WI,1,Cavaliers,Open Class,78.2,1994
+07/07,Chattanooga,TN,1,Glassmen,Open Class,67.7,1994
+07/08,Kingston,NY,1,Blue Devils,Open Class,83.5,1994
+07/07,Syracuse,NY,2,Bluecoats,Open Class,75.8,1994
+07/07,Madison,WI,2,Madison Scouts,Open Class,77.5,1994
+07/07,Chattanooga,TN,2,Magic of Orlando,Open Class,62.3,1994
+07/08,Kingston,NY,2,Cadets,Open Class,79.3,1994
+07/07,Syracuse,NY,3,Crossmen,Open Class,74.1,1994
+07/07,Madison,WI,3,Phantom Regiment,Open Class,76.9,1994
+07/07,Chattanooga,TN,3,Carolina Crown,Open Class,56.1,1994
+07/08,Kingston,NY,3,Crossmen,Open Class,66.6,1994
+07/07,Madison,WI,4,Pioneer,Open Class,61.8,1994
+07/07,Chattanooga,TN,4,Southwind,Open Class,53.2,1994
+07/08,Kingston,NY,4,Bluecoats,Open Class,65.4,1994
+07/07,Syracuse,NY,1,Kiwanis Kavaliers,Open Class,69.5,1994
+07/07,Madison,WI,5,CapitolAires,Open Class,50.6,1994
+07/08,Kingston,NY,5,Boston Crusaders,Open Class,60.9,1994
+07/07,Syracuse,NY,2,Cardinals,Open Class,68.7,1994
+07/07,Madison,WI,6,Blue Stars,Open Class,50.2,1994
+07/07,Chattanooga,TN,1,Suncoast Sound,Open Class,62.6,1994
+07/07,Syracuse,NY,3,L'Insolite,Open Class,65.1,1994
+07/07,Chattanooga,TN,2,Lone Star,Open Class,55.6,1994
+07/07,Syracuse,NY,4,Patriots,Open Class,63.0,1994
+07/07,Chattanooga,TN,3,Delta Brigade,Open Class,52.3,1994
+07/07,Syracuse,NY,5,Academie Musicale,Open Class,60.8,1994
+07/07,Syracuse,NY,6,Ventures,Open Class,47.4,1994
+07/08,Racine,WI,1,Phantom Regiment,Open Class,80.2,1994
+07/08,Gadsden,AL,1,Magic of Orlando,Open Class,64.5,1994
+07/09,Traverse City,MI,1,Cavaliers,Open Class,84.1,1994
+07/09,Stockton,CA,1,Vanguard,Open Class,82.9,1994
+07/08,Racine,WI,2,Madison Scouts,Open Class,79.3,1994
+07/08,Gadsden,AL,2,Carolina Crown,Open Class,57.1,1994
+07/09,Traverse City,MI,2,Northern Aurora,Open Class,64.3,1994
+07/09,Stockton,CA,2,Freelancers,Open Class,70.2,1994
+07/08,Racine,WI,3,Colts,Open Class,71.5,1994
+07/08,Gadsden,AL,3,Southwind,Open Class,55.0,1994
+07/09,Traverse City,MI,3,Golden Lancers,Open Class,51.4,1994
+07/09,Stockton,CA,3,Velvet Knights,Open Class,68.7,1994
+07/08,Racine,WI,4,Pioneer,Open Class,62.0,1994
+07/09,Traverse City,MI,4,Marquis,Open Class,47.1,1994
+07/09,Stockton,CA,4,Marauders,Open Class,57.7,1994
+07/08,Racine,WI,5,Americanos,Open Class,53.0,1994
+07/08,Gadsden,AL,1,Suncoast Sound,Open Class,62.6,1994
+07/09,Traverse City,MI,5,12th Command,Open Class,44.0,1994
+07/08,Racine,WI,6,Knights,Open Class,50.5,1994
+07/08,Gadsden,AL,2,Lone Star,Open Class,55.6,1994
+07/09,Traverse City,MI,5,Coachmen,Open Class,44.0,1994
+07/09,Stockton,CA,1,Vanguard Cadets,Open Class,74.2,1994
+07/08,Racine,WI,7,Phantom Regiment Cadets,Open Class,42.3,1994
+07/08,Gadsden,AL,3,Delta Brigade,Open Class,52.3,1994
+07/09,Traverse City,MI,7,Bluegrass Brass,Open Class,43.0,1994
+07/09,Stockton,CA,2,Blue Devils B,Open Class,70.7,1994
+07/09,Stockton,CA,3,Mandarins,Open Class,66.0,1994
+07/09,Rockford,IL,1,Phantom Regiment,Open Class,79.9,1994
+07/09,Reading,PA,1,Bushwackers,Open Class,65.4,1994
+07/09,Belleville,Ontario,1,Empire Statesmen,Open Class,74.9,1994
+07/09,Carrolton,GA,1,Suncoast Sound,Open Class,62.0,1994
+07/09,Rockford,IL,2,Madison Scouts,Open Class,78.6,1994
+07/09,Reading,PA,2,Hawthorne Caballeros,Open Class,65.2,1994
+07/09,Belleville,Ontario,2,Rochester Crusaders,Open Class,69.1,1994
+07/09,Carrolton,GA,2,Lone Star,Open Class,54.6,1994
+07/09,Rockford,IL,3,Colts,Open Class,70.8,1994
+07/09,Reading,PA,3,Connecticut Hurricanes,Open Class,61.8,1994
+07/09,Belleville,Ontario,3,Les Metropolitains,Open Class,63.6,1994
+07/09,Carrolton,GA,3,Delta Brigade,Open Class,53.3,1994
+07/09,Rockford,IL,4,Pioneer,Open Class,62.6,1994
+07/09,Reading,PA,4,New York Skyliners,Open Class,61.0,1994
+07/09,Belleville,Ontario,4,Syracuse Brigadiers,Open Class,55.8,1994
+07/09,Rockford,IL,5,Nite Express,Open Class,57.6,1994
+07/09,Reading,PA,5,Reading Buccaneers,Open Class,51.1,1994
+07/09,Rockford,IL,6,Blue Stars,Open Class,51.3,1994
+07/09,Reading,PA,6,Westshoremen,Open Class,49.7,1994
+07/09,Rockford,IL,7,Knights,Open Class,47.7,1994
+07/09,Reading,PA,7,Chieftains,Open Class,45.4,1994
+07/09,Rockford,IL,8,Phantom Regiment Cadets,Open Class,40.6,1994
+07/09,Shelton,CT,1,Cardinals,Open Class,76.2,1994
+07/09,Boston,MA,1,Blue Devils,Open Class,83.4,1994
+07/09,Braintree,MA,1,Buccaneers,Open Class,69.1,1994
+07/10,Beverly,MA,1,Cadets,Open Class,82.7,1994
+07/09,Shelton,CT,2,Kiwanis Kavaliers,Open Class,75.0,1994
+07/09,Boston,MA,2,Cadets,Open Class,79.4,1994
+07/10,Beverly,MA,2,Crossmen,Open Class,70.7,1994
+07/09,Shelton,CT,3,L'Insolite,Open Class,72.4,1994
+07/09,Boston,MA,3,Crossmen,Open Class,68.6,1994
+07/09,Braintree,MA,1,Royal Cadets,Open Class,67.0,1994
+07/10,Beverly,MA,3,Boston Crusaders,Open Class,62.5,1994
+07/09,Shelton,CT,4,Dimension,Open Class,72.1,1994
+07/09,Boston,MA,4,Bluecoats,Open Class,68.4,1994
+07/09,Braintree,MA,2,J's,Open Class,59.1,1994
+07/09,Shelton,CT,5,Spartans,Open Class,71.1,1994
+07/09,Boston,MA,5,Boston Crusaders,Open Class,62.3,1994
+07/09,Braintree,MA,3,Phoenix-MA,Open Class,56.7,1994
+07/10,Beverly,MA,1,L'Insolite,Open Class,70.9,1994
+07/09,Shelton,CT,6,Patriots,Open Class,68.3,1994
+07/09,Boston,MA,6,Kiwanis Kavaliers,Open Class,48.5,1994
+07/10,Beverly,MA,2,Cardinals,Open Class,69.4,1994
+07/09,Shelton,CT,7,Raiders,Open Class,62.7,1994
+07/09,Boston,MA,7,Cardinals,Open Class,47.6,1994
+07/09,Braintree,MA,1,Fitchburg Kingsmen,Open Class,48.0,1994
+07/10,Beverly,MA,3,Spartans,Open Class,62.5,1994
+07/09,Shelton,CT,8,Academie Musicale,Open Class,60.7,1994
+07/09,Boston,MA,8,L'Insolite,Open Class,45.0,1994
+07/09,Braintree,MA,2,Braintree Braves,Open Class,30.1,1994
+07/10,Beverly,MA,4,Patriots,Open Class,60.5,1994
+07/09,Shelton,CT,9,Les Etoiles,Open Class,58.0,1994
+07/09,Boston,MA,9,Spartans,Open Class,41.4,1994
+07/09,Shelton,CT,10,Jersey Surf,Open Class,56.3,1994
+07/09,Boston,MA,10,Saint John's,Open Class,34.0,1994
+07/10,Dubuque,IA,1,Phantom Regiment,Open Class,80.9,1994
+07/10,Augusta,GA,1,Magic of Orlando,Open Class,69.2,1994
+07/10,San Jose,CA,1,Vanguard,Open Class,84.1,1994
+07/10,Newark,NJ,1,Marching 100,Open Class,55.4,1994
+07/10,Dubuque,IA,2,Madison Scouts,Open Class,79.6,1994
+07/10,Augusta,GA,2,Carolina Crown,Open Class,60.2,1994
+07/10,San Jose,CA,2,Velvet Knights,Open Class,73.1,1994
+07/10,Dubuque,IA,3,Colts,Open Class,72.3,1994
+07/10,Augusta,GA,3,Southwind,Open Class,58.9,1994
+07/10,San Jose,CA,3,Marauders,Open Class,61.1,1994
+07/10,Newark,NJ,1,Kips Bay Knight Club,Open Class,63.9,1994
+07/10,Dubuque,IA,4,Nite Express,Open Class,61.5,1994
+07/10,Newark,NJ,2,Ambassadors,Open Class,61.4,1994
+07/10,Dubuque,IA,5,Americanos,Open Class,52.8,1994
+07/10,Augusta,GA,1,Suncoast Sound,Open Class,64.1,1994
+07/10,San Jose,CA,1,Vanguard Cadets,Open Class,75.6,1994
+07/10,Newark,NJ,3,Spectrum,Open Class,60.0,1994
+07/10,Dubuque,IA,6,Knights,Open Class,48.7,1994
+07/10,Augusta,GA,2,Lone Star,Open Class,52.9,1994
+07/10,San Jose,CA,2,Blue Devils B,Open Class,72.3,1994
+07/10,Newark,NJ,4,Illusion,Open Class,48.8,1994
+07/10,Dubuque,IA,7,Phantom Regiment Cadets,Open Class,43.2,1994
+07/10,Augusta,GA,3,Delta Brigade,Open Class,51.4,1994
+07/10,San Jose,CA,3,Mandarins,Open Class,71.3,1994
+07/10,Newark,NJ,5,Phoenix-NJ,Open Class,47.1,1994
+07/10,Dubuque,IA,8,Colt Cadets,Open Class,36.4,1994
+07/10,Newark,NJ,6,William G. Lucas,Open Class,44.3,1994
+07/11,Warner Robins,GA,1,Magic of Orlando,Open Class,69.2,1994
+07/12,Montreal,Quebec,1,Cadets,Open Class,84.5,1994
+07/14,Saginaw,MI,1,Glassmen,Open Class,74.5,1994
+07/14,Fulton,NY,1,Cadets,Open Class,84.9,1994
+07/11,Warner Robins,GA,2,Carolina Crown,Open Class,62.2,1994
+07/14,Saginaw,MI,2,Colts,Open Class,73.1,1994
+07/14,Fulton,NY,2,Crossmen,Open Class,77.7,1994
+07/11,Warner Robins,GA,3,Southwind,Open Class,60.2,1994
+07/12,Montreal,Quebec,1,Cardinals,Open Class,79.8,1994
+07/14,Saginaw,MI,3,Pioneer,Open Class,64.0,1994
+07/12,Montreal,Quebec,2,L'Insolite,Open Class,77.4,1994
+07/14,Saginaw,MI,4,Nite Express,Open Class,61.7,1994
+07/14,Fulton,NY,1,Cardinals,Open Class,74.7,1994
+07/11,Warner Robins,GA,1,Suncoast Sound,Open Class,65.5,1994
+07/12,Montreal,Quebec,3,Kiwanis Kavaliers,Open Class,76.6,1994
+07/14,Saginaw,MI,5,Northern Aurora,Open Class,58.8,1994
+07/14,Fulton,NY,2,Kiwanis Kavaliers,Open Class,74.3,1994
+07/11,Warner Robins,GA,2,Delta Brigade,Open Class,54.6,1994
+07/12,Montreal,Quebec,4,Dimension,Open Class,70.2,1994
+07/14,Saginaw,MI,6,Golden Lancers,Open Class,42.0,1994
+07/14,Fulton,NY,3,Patriots,Open Class,67.2,1994
+07/11,Warner Robins,GA,3,Lone Star,Open Class,53.9,1994
+07/12,Montreal,Quebec,5,Academie Musicale,Open Class,65.6,1994
+07/14,Saginaw,MI,7,12th Command,Open Class,36.8,1994
+07/14,Fulton,NY,4,Academie Musicale,Open Class,65.1,1994
+07/12,Montreal,Quebec,6,Les Etoiles,Open Class,62.0,1994
+07/14,Fulton,NY,5,Firebirds,Open Class,21.0,1994
+07/15,Clovis,CA,1,Blue Devils,Open Class,87.1,1994
+07/15,Toledo,OH,1,Cavaliers,Open Class,82.3,1994
+07/16,Toledo,OH,1,Americanos,Open Class,55.5,1994
+07/16,Toledo,OH,1,Cavaliers,Open Class,83.0,1994
+07/15,Clovis,CA,2,Vanguard,Open Class,84.5,1994
+07/15,Toledo,OH,2,Phantom Regiment,Open Class,81.6,1994
+07/16,Toledo,OH,2,Blue Stars,Open Class,54.1,1994
+07/16,Toledo,OH,2,Phantom Regiment,Open Class,82.8,1994
+07/15,Clovis,CA,3,Freelancers,Open Class,73.2,1994
+07/15,Toledo,OH,3,Madison Scouts,Open Class,80.8,1994
+07/16,Toledo,OH,3,Knights,Open Class,51.6,1994
+07/16,Toledo,OH,3,Madison Scouts,Open Class,81.5,1994
+07/15,Clovis,CA,4,Marauders,Open Class,62.5,1994
+07/15,Toledo,OH,4,Glassmen,Open Class,73.8,1994
+07/16,Toledo,OH,4,CapitolAires,Open Class,51.3,1994
+07/16,Toledo,OH,4,Glassmen,Open Class,73.0,1994
+07/15,Toledo,OH,5,Colts,Open Class,73.0,1994
+07/16,Toledo,OH,5,Marquis,Open Class,43.5,1994
+07/16,Toledo,OH,5,Colts,Open Class,72.6,1994
+07/15,Clovis,CA,1,Vanguard Cadets,Open Class,78.8,1994
+07/16,Toledo,OH,6,Golden Lancers,Open Class,43.4,1994
+07/15,Clovis,CA,2,Blue Devils B,Open Class,76.1,1994
+07/15,Toledo,OH,1,Pioneer,Open Class,64.8,1994
+07/16,Toledo,OH,7,Phantom Regiment Cadets,Open Class,43.0,1994
+07/16,Toledo,OH,1,Americanos,Open Class,55.2,1994
+07/15,Clovis,CA,3,Mandarins,Open Class,72.6,1994
+07/15,Toledo,OH,2,Nite Express,Open Class,59.9,1994
+07/16,Toledo,OH,8,12th Command,Open Class,41.6,1994
+07/16,Toledo,OH,2,Blue Stars,Open Class,53.1,1994
+07/15,Toledo,OH,3,Northern Aurora,Open Class,55.4,1994
+07/16,Toledo,OH,9,Colt Cadets,Open Class,39.1,1994
+07/16,Toledo,OH,3,CapitolAires,Open Class,48.7,1994
+07/16,Toledo,OH,10,Coachmen,Open Class,36.6,1994
+07/16,Toledo,OH,4,Knights,Open Class,47.8,1994
+07/16,Toledo,OH,11,Madison Junior Scouts,Open Class,35.7,1994
+07/16,Toledo,OH,12,North Force,Open Class,33.8,1994
+07/16,Toledo,OH,1,Minnesota Brass,Open Class,55.0,1994
+07/16,Toledo,OH,13,Bandettes,Open Class,33.3,1994
+07/16,Toledo,OH,2,Railmen Senior,Open Class,47.4,1994
+07/16,Toledo,OH,14,Guardsmen,Open Class,31.2,1994
+07/16,Toledo,OH,15,Marion Cadets,Open Class,27.6,1994
+07/16,Toledo,OH,15,Racine Scouts,Open Class,27.6,1994
+07/16,Toledo,OH,17,Northmen,Open Class,26.1,1994
+07/16,Toledo,OH,18,Royalaires,Open Class,25.4,1994
+07/16,Toledo,OH,19,Prince Hall Lancers,Open Class,23.2,1994
+07/16,Toledo,OH,20,New American Woodmen,Open Class,10.3,1994
+07/16,Toledo,OH,1,Minnesota Brass,Open Class,57.5,1994
+07/16,Toledo,OH,2,Railmen Senior,Open Class,47.9,1994
+07/16,Toledo,OH,3,Govenaires,Open Class,47.3,1994
+07/16,Toledo,OH,4,Kilties,Open Class,45.6,1994
+07/16,Toledo,OH,5,Chicago Vanguard,Open Class,43.0,1994
+07/16,Toledo,OH,6,Bluegrass Brass,Open Class,35.5,1994
+07/16,Hershey,PA,1,Cadets,Open Class,79.7,1994
+07/16,Long Beach,CA,1,Vanguard,Open Class,83.7,1994
+07/16,Brantford,Ontario,1,Kiwanis Kavaliers,Open Class,82.1,1994
+07/16,Bayonne,NJ,1,Raiders,Open Class,79.9,1994
+07/16,Hershey,PA,2,Bluecoats,Open Class,71.0,1994
+07/16,Long Beach,CA,2,Velvet Knights,Open Class,71.4,1994
+07/16,Brantford,Ontario,2,Oakland Crusaders,Open Class,62.3,1994
+07/16,Bayonne,NJ,2,Marching 100,Open Class,59.0,1994
+07/16,Hershey,PA,3,Crossmen,Open Class,69.5,1994
+07/16,Long Beach,CA,3,Freelancers,Open Class,70.6,1994
+07/16,Hershey,PA,4,Boston Crusaders,Open Class,67.0,1994
+07/16,Long Beach,CA,4,Marauders,Open Class,59.2,1994
+07/16,Brantford,Ontario,1,Saint John's,Open Class,75.1,1994
+07/16,Bayonne,NJ,1,Kips Bay Knight Club,Open Class,71.1,1994
+07/16,Hershey,PA,5,Cardinals,Open Class,56.1,1994
+07/16,Brantford,Ontario,2,Canadian Knights,Open Class,67.6,1994
+07/16,Bayonne,NJ,2,Ambassadors,Open Class,61.2,1994
+07/16,Long Beach,CA,1,Blue Devils B,Open Class,72.7,1994
+07/16,Brantford,Ontario,3,Ridge Raiders,Open Class,63.6,1994
+07/16,Bayonne,NJ,3,Southern Knights,Open Class,59.6,1994
+07/16,Long Beach,CA,2,Mandarins,Open Class,71.0,1994
+07/16,Brantford,Ontario,4,Ventures,Open Class,62.3,1994
+07/16,Bayonne,NJ,4,Illusion,Open Class,50.4,1994
+07/16,Long Beach,CA,3,Pacific Crest,Open Class,58.7,1994
+07/16,Brantford,Ontario,5,Dutch Boy Cadets,Open Class,54.3,1994
+07/16,Bayonne,NJ,5,Quest,Open Class,45.6,1994
+07/16,Brantford,Ontario,1,Emerald Knights-ONT,Open Class,61.9,1994
+07/16,Hershey,PA,1,Hawthorne Caballeros,Open Class,76.5,1994
+07/16,Little Falls,NY,1,Empire Statesmen,Open Class,74.0,1994
+07/16,Chelmsford,MA,1,Buccaneers,Open Class,75.2,1994
+07/17,Queens,NY,1,Raiders,Open Class,77.3,1994
+07/16,Hershey,PA,2,Bushwackers,Open Class,74.6,1994
+07/16,Little Falls,NY,2,Rochester Crusaders,Open Class,66.6,1994
+07/16,Hershey,PA,3,New York Skyliners,Open Class,72.9,1994
+07/16,Little Falls,NY,3,Connecticut Hurricanes,Open Class,66.0,1994
+07/16,Chelmsford,MA,1,Citations,Open Class,66.4,1994
+07/17,Queens,NY,1,Kips Bay Knight Club,Open Class,69.6,1994
+07/16,Hershey,PA,4,Reading Buccaneers,Open Class,61.3,1994
+07/16,Little Falls,NY,4,Les Metropolitains,Open Class,63.1,1994
+07/16,Chelmsford,MA,2,Royal Cadets,Open Class,65.4,1994
+07/17,Queens,NY,2,Ambassadors,Open Class,65.0,1994
+07/16,Hershey,PA,5,Westshoremen,Open Class,58.9,1994
+07/16,Little Falls,NY,5,Syracuse Brigadiers,Open Class,54.1,1994
+07/16,Chelmsford,MA,3,J's,Open Class,61.2,1994
+07/17,Queens,NY,3,Marching 100,Open Class,61.1,1994
+07/16,Little Falls,NY,6,Sunrisers,Open Class,46.4,1994
+07/16,Chelmsford,MA,4,Phoenix-MA,Open Class,59.6,1994
+07/17,Queens,NY,1,Illusion,Open Class,53.7,1994
+07/16,Chelmsford,MA,1,Fitchburg Kingsmen,Open Class,57.7,1994
+07/17,Queens,NY,2,Quest,Open Class,52.4,1994
+07/16,Chelmsford,MA,2,Braintree Braves,Open Class,18.7,1994
+07/17,Queens,NY,3,Phoenix-NJ,Open Class,47.3,1994
+07/17,Queens,NY,4,William G. Lucas,Open Class,43.9,1994
+07/17,Peterborough,Ontario,1,Cardinals,Open Class,81.7,1994
+07/17,Norwich,NY,1,Spartans,Open Class,73.4,1994
+07/17,Columbus,OH,1,Cadets,Open Class,83.9,1994
+07/17,Santa Barbara,CA,1,Vanguard,Open Class,84.5,1994
+07/17,Peterborough,Ontario,2,Oakland Crusaders,Open Class,58.2,1994
+07/17,Norwich,NY,2,Patriots,Open Class,72.6,1994
+07/17,Columbus,OH,2,Crossmen,Open Class,73.0,1994
+07/17,Santa Barbara,CA,2,Freelancers,Open Class,73.0,1994
+07/17,Norwich,NY,3,Academie Musicale,Open Class,72.0,1994
+07/17,Columbus,OH,3,Colts,Open Class,72.0,1994
+07/17,Santa Barbara,CA,3,Velvet Knights,Open Class,71.5,1994
+07/17,Peterborough,Ontario,1,Canadian Knights,Open Class,74.2,1994
+07/17,Norwich,NY,4,East Coast Jazz,Open Class,68.9,1994
+07/17,Columbus,OH,4,Bluecoats,Open Class,71.4,1994
+07/17,Santa Barbara,CA,4,Marauders,Open Class,58.4,1994
+07/17,Peterborough,Ontario,2,Ridge Raiders,Open Class,62.5,1994
+07/17,Norwich,NY,5,Saint John's,Open Class,65.9,1994
+07/17,Columbus,OH,5,Glassmen,Open Class,71.2,1994
+07/17,Peterborough,Ontario,3,Ventures,Open Class,58.0,1994
+07/17,Norwich,NY,6,Royal Columbians,Open Class,63.9,1994
+07/17,Columbus,OH,6,Northern Aurora,Open Class,56.1,1994
+07/17,Santa Barbara,CA,1,Mandarins,Open Class,71.2,1994
+07/17,Peterborough,Ontario,4,Marion Cadets,Open Class,51.6,1994
+07/17,Norwich,NY,7,Contemporary Youth Ens.,Open Class,59.1,1994
+07/17,Santa Barbara,CA,2,Blue Devils B,Open Class,70.9,1994
+07/17,Peterborough,Ontario,5,Dutch Boy Cadets,Open Class,50.6,1994
+07/17,Norwich,NY,8,Spectrum,Open Class,57.7,1994
+07/17,Santa Barbara,CA,3,Pacific Crest,Open Class,61.5,1994
+07/17,Norwich,NY,9,Royal Cadets,Open Class,51.0,1994
+07/17,Peterborough,Ontario,1,Empire Loyalists,Open Class,69.0,1994
+07/17,Norwich,NY,10,Firebirds,Open Class,26.4,1994
+07/17,Peterborough,Ontario,2,Emerald Knights-ONT,Open Class,62.7,1994
+07/19,Evansville,IN,1,Cavaliers,Open Class,84.8,1994
+07/21,Fairfield,OH,1,Glassmen,Open Class,75.4,1994
+07/21,Dallas,TX,1,Cadets,Open Class,83.6,1994
+07/22,Bettendorf,IA,1,Madison Scouts,Open Class,83.4,1994
+07/19,Evansville,IN,2,Cadets,Open Class,84.3,1994
+07/21,Fairfield,OH,2,Crossmen,Open Class,75.1,1994
+07/21,Dallas,TX,2,Cavaliers,Open Class,83.4,1994
+07/22,Bettendorf,IA,2,Colts,Open Class,77.7,1994
+07/19,Evansville,IN,3,Phantom Regiment,Open Class,82.2,1994
+07/21,Fairfield,OH,3,Bluecoats,Open Class,74.8,1994
+07/21,Dallas,TX,3,Phantom Regiment,Open Class,82.1,1994
+07/22,Bettendorf,IA,3,Pioneer,Open Class,69.1,1994
+07/19,Evansville,IN,4,Crossmen,Open Class,73.6,1994
+07/21,Fairfield,OH,4,Boston Crusaders,Open Class,67.4,1994
+07/21,Dallas,TX,4,Troopers,Open Class,69.4,1994
+07/22,Bettendorf,IA,4,Nite Express,Open Class,66.8,1994
+07/19,Evansville,IN,5,Bluecoats,Open Class,71.4,1994
+07/21,Fairfield,OH,5,Northern Aurora,Open Class,55.5,1994
+07/22,Bettendorf,IA,5,Blue Stars,Open Class,58.0,1994
+07/19,Evansville,IN,6,Pioneer,Open Class,57.7,1994
+07/21,Fairfield,OH,6,Golden Lancers,Open Class,42.5,1994
+07/21,Dallas,TX,1,Suncoast Sound,Open Class,69.5,1994
+07/22,Bettendorf,IA,6,Knights,Open Class,55.1,1994
+07/19,Evansville,IN,7,Knights,Open Class,45.4,1994
+07/21,Dallas,TX,2,Delta Brigade,Open Class,62.7,1994
+07/22,Bettendorf,IA,7,Prince Hall Lancers,Open Class,28.8,1994
+07/21,Dallas,TX,3,Lone Star,Open Class,62.1,1994
+07/22,Killeen,TX,1,Cavaliers,Open Class,84.5,1994
+07/22,Sevierville,TN,1,Crossmen,Open Class,78.7,1994
+07/22,Sacramento,CA,1,Blue Devils,Open Class,88.7,1994
+07/22,Charlevoix,MI,1,Kiwanis Kavaliers,Open Class,61.1,1994
+07/22,Killeen,TX,2,Cadets,Open Class,84.4,1994
+07/22,Sevierville,TN,2,Bluecoats,Open Class,76.8,1994
+07/22,Sacramento,CA,2,Velvet Knights,Open Class,74.5,1994
+07/22,Charlevoix,MI,2,Coachmen,Open Class,42.6,1994
+07/22,Killeen,TX,3,Phantom Regiment,Open Class,82.7,1994
+07/22,Sevierville,TN,3,Glassmen,Open Class,76.6,1994
+07/22,Sacramento,CA,3,Freelancers,Open Class,73.7,1994
+07/22,Charlevoix,MI,3,12th Command,Open Class,42.0,1994
+07/22,Killeen,TX,4,Troopers,Open Class,70.1,1994
+07/22,Sevierville,TN,4,Magic of Orlando,Open Class,74.4,1994
+07/22,Sacramento,CA,4,Marauders,Open Class,64.2,1994
+07/22,Charlevoix,MI,4,Northmen,Open Class,34.8,1994
+07/22,Killeen,TX,5,Suncoast Sound,Open Class,51.9,1994
+07/22,Sevierville,TN,5,Southwind,Open Class,62.3,1994
+07/22,Charlevoix,MI,5,Madison Junior Scouts,Open Class,32.6,1994
+07/22,Killeen,TX,6,Lone Star,Open Class,44.8,1994
+07/22,Sevierville,TN,6,Carolina Crown,Open Class,61.9,1994
+07/22,Sacramento,CA,1,Vanguard Cadets,Open Class,75.2,1994
+07/22,Charlevoix,MI,6,Bandettes,Open Class,32.4,1994
+07/22,Sacramento,CA,2,Mandarins,Open Class,73.8,1994
+07/22,Charlevoix,MI,7,Racine Scouts,Open Class,29.2,1994
+07/22,Sacramento,CA,3,Blue Devils B,Open Class,72.8,1994
+07/22,Sacramento,CA,4,Pacific Crest,Open Class,66.8,1994
+07/23,Mount Vernon,NY,1,Kips Bay Knight Club,Open Class,64.4,1994
+07/23,Houston,TX,1,Cavaliers,Open Class,84.9,1994
+07/23,Clifton,NJ,1,Hawthorne Caballeros,Open Class,80.4,1994
+07/23,Rochester,NY,1,Empire Statesmen,Open Class,79.4,1994
+07/23,Mount Vernon,NY,2,Marching 100,Open Class,61.5,1994
+07/23,Houston,TX,2,Cadets,Open Class,84.4,1994
+07/23,Clifton,NJ,2,Bushwackers,Open Class,76.9,1994
+07/23,Rochester,NY,2,Les Metropolitains,Open Class,71.9,1994
+07/23,Mount Vernon,NY,3,Ambassadors,Open Class,60.1,1994
+07/23,Houston,TX,3,Phantom Regiment,Open Class,82.5,1994
+07/23,Clifton,NJ,3,New York Skyliners,Open Class,77.2,1994
+07/23,Rochester,NY,3,Rochester Crusaders,Open Class,71.5,1994
+07/23,Houston,TX,4,Troopers,Open Class,68.3,1994
+07/23,Clifton,NJ,4,Connecticut Hurricanes,Open Class,73.2,1994
+07/23,Rochester,NY,4,Syracuse Brigadiers,Open Class,60.9,1994
+07/23,Mount Vernon,NY,1,Quest,Open Class,52.0,1994
+07/23,Houston,TX,5,Lone Star,Open Class,43.7,1994
+07/23,Clifton,NJ,5,Reading Buccaneers,Open Class,64.0,1994
+07/23,Mount Vernon,NY,2,William G. Lucas,Open Class,49.4,1994
+07/23,Houston,TX,6,Delta Brigade,Open Class,42.2,1994
+07/23,Clifton,NJ,6,Chieftains,Open Class,58.0,1994
+07/23,Nashville,TN,1,Crossmen,Open Class,76.8,1994
+07/23,Santa Clara,CA,1,Blue Devils,Open Class,87.1,1994
+07/23,Oak Creek,WI,1,Madison Scouts,Open Class,84.3,1994
+07/24,Waltham,MA,1,East Coast Jazz,Open Class,77.3,1994
+07/23,Nashville,TN,2,Glassmen,Open Class,76.0,1994
+07/23,Santa Clara,CA,2,Vanguard,Open Class,84.4,1994
+07/23,Oak Creek,WI,2,Colts,Open Class,76.7,1994
+07/24,Waltham,MA,2,Spartans,Open Class,77.2,1994
+07/23,Nashville,TN,3,Magic of Orlando,Open Class,75.4,1994
+07/23,Santa Clara,CA,3,Velvet Knights,Open Class,75.2,1994
+07/23,Oak Creek,WI,3,Pioneer,Open Class,68.6,1994
+07/24,Waltham,MA,3,Academie Musicale,Open Class,76.3,1994
+07/23,Nashville,TN,4,Bluecoats,Open Class,74.6,1994
+07/23,Santa Clara,CA,4,Freelancers,Open Class,72.0,1994
+07/23,Oak Creek,WI,4,Blue Stars,Open Class,54.8,1994
+07/24,Waltham,MA,4,Royal Columbians,Open Class,71.8,1994
+07/23,Nashville,TN,5,Boston Crusaders,Open Class,72.5,1994
+07/23,Santa Clara,CA,5,Marauders,Open Class,64.6,1994
+07/23,Oak Creek,WI,5,Knights,Open Class,53.7,1994
+07/24,Waltham,MA,5,Buccaneers,Open Class,70.3,1994
+07/23,Nashville,TN,6,Carolina Crown,Open Class,64.7,1994
+07/23,Oak Creek,WI,6,Kilties,Open Class,47.4,1994
+07/24,Waltham,MA,6,Royal Cadets,Open Class,50.6,1994
+07/23,Nashville,TN,7,Southwind,Open Class,59.0,1994
+07/23,Santa Clara,CA,1,Vanguard Cadets,Open Class,79.6,1994
+07/23,Oak Creek,WI,7,Chicago Vanguard,Open Class,45.7,1994
+07/23,Nashville,TN,8,Northern Aurora,Open Class,56.8,1994
+07/23,Santa Clara,CA,2,Mandarins,Open Class,77.7,1994
+07/23,Oak Creek,WI,8,Marquis,Open Class,45.4,1994
+07/23,Santa Clara,CA,3,Blue Devils B,Open Class,75.7,1994
+07/23,Santa Clara,CA,4,Pacific Crest,Open Class,71.0,1994
+07/24,Bronx,NY,1,Kips Bay Knight Club,Open Class,72.6,1994
+07/24,Elmira,NY,1,Spectrum,Open Class,68.7,1994
+07/24,LaCrosse,WI,1,Madison Scouts,Open Class,87.0,1994
+07/24,Wichita Falls,TX,1,Cadets,Open Class,86.1,1994
+07/24,Bronx,NY,2,Marching 100,Open Class,65.1,1994
+07/24,LaCrosse,WI,2,Colts,Open Class,78.7,1994
+07/24,Wichita Falls,TX,2,Phantom Regiment,Open Class,83.4,1994
+07/24,Bronx,NY,3,Ambassadors,Open Class,63.3,1994
+07/24,Elmira,NY,1,Emerald Knights-ONT,Open Class,74.0,1994
+07/24,LaCrosse,WI,3,Nite Express,Open Class,69.0,1994
+07/24,Wichita Falls,TX,3,Troopers,Open Class,69.9,1994
+07/24,Elmira,NY,2,Firebirds,Open Class,68.1,1994
+07/24,LaCrosse,WI,4,Blue Stars,Open Class,60.2,1994
+07/24,Wichita Falls,TX,4,Suncoast Sound,Open Class,51.9,1994
+07/24,Bronx,NY,1,Quest,Open Class,52.8,1994
+07/24,LaCrosse,WI,5,Americanos,Open Class,58.7,1994
+07/24,Wichita Falls,TX,5,Delta Brigade,Open Class,43.4,1994
+07/24,Bronx,NY,2,William G. Lucas,Open Class,43.7,1994
+07/24,LaCrosse,WI,6,Knights,Open Class,58.0,1994
+07/24,LaCrosse,WI,7,CapitolAires,Open Class,53.7,1994
+07/24,LaCrosse,WI,8,Colt Cadets,Open Class,41.6,1994
+07/24,LaCrosse,WI,9,Guardsmen,Open Class,36.3,1994
+07/25,Ogden,UT,1,Blue Devils,Open Class,86.4,1994
+07/26,Blaine,MN,1,Madison Scouts,Open Class,81.9,1994
+07/27,Alton,IL,1,Cavaliers,Open Class,86.8,1994
+07/27,Hibbing,MN,1,Madison Scouts,Open Class,85.4,1994
+07/25,Ogden,UT,2,Vanguard,Open Class,83.1,1994
+07/26,Blaine,MN,2,Crossmen,Open Class,75.9,1994
+07/27,Alton,IL,2,Cadets,Open Class,86.5,1994
+07/27,Hibbing,MN,2,Glassmen,Open Class,76.8,1994
+07/25,Ogden,UT,3,Velvet Knights,Open Class,73.4,1994
+07/26,Blaine,MN,3,Glassmen,Open Class,74.5,1994
+07/27,Alton,IL,3,Phantom Regiment,Open Class,84.1,1994
+07/27,Hibbing,MN,3,Crossmen,Open Class,74.6,1994
+07/25,Ogden,UT,4,Freelancers,Open Class,71.5,1994
+07/26,Blaine,MN,4,Boston Crusaders,Open Class,69.3,1994
+07/27,Alton,IL,4,Magic of Orlando,Open Class,76.3,1994
+07/27,Hibbing,MN,4,Boston Crusaders,Open Class,70.9,1994
+07/25,Ogden,UT,5,Marauders,Open Class,63.6,1994
+07/26,Blaine,MN,5,Carolina Crown,Open Class,66.3,1994
+07/27,Alton,IL,5,Troopers,Open Class,66.3,1994
+07/27,Hibbing,MN,5,Carolina Crown,Open Class,64.5,1994
+07/25,Ogden,UT,6,Seattle Cascades,Open Class,44.7,1994
+07/26,Blaine,MN,6,Southwind,Open Class,61.3,1994
+07/27,Alton,IL,6,Southwind,Open Class,61.3,1994
+07/27,Hibbing,MN,6,Southwind,Open Class,61.7,1994
+07/26,Blaine,MN,7,Americanos,Open Class,50.4,1994
+07/27,Alton,IL,7,Suncoast Sound,Open Class,52.1,1994
+07/27,Hibbing,MN,7,Americanos,Open Class,51.0,1994
+07/26,Blaine,MN,8,CapitolAires,Open Class,48.0,1994
+07/27,Hibbing,MN,8,Blue Stars,Open Class,49.4,1994
+07/27,Sioux City,IA,1,Blue Devils,Open Class,87.3,1994
+07/27,Ishpeming,MI,1,Pioneer,Open Class,70.1,1994
+07/28,Stillwater,MN,1,Vanguard,Open Class,85.3,1994
+07/28,Kaukauna,WI,1,Americanos,Open Class,79.0,1994
+07/27,Sioux City,IA,2,Blue Knights,Open Class,77.1,1994
+07/27,Ishpeming,MI,2,Marquis,Open Class,56.9,1994
+07/28,Stillwater,MN,2,Madison Scouts,Open Class,84.2,1994
+07/28,Kaukauna,WI,2,Suncoast Sound,Open Class,77.9,1994
+07/27,Sioux City,IA,3,Velvet Knights,Open Class,73.0,1994
+07/27,Ishpeming,MI,3,Northmen,Open Class,49.9,1994
+07/28,Stillwater,MN,3,Blue Knights,Open Class,78.8,1994
+07/28,Kaukauna,WI,3,Seattle Cascades,Open Class,72.6,1994
+07/27,Sioux City,IA,4,Colts,Open Class,71.8,1994
+07/27,Ishpeming,MI,4,Madison Junior Scouts,Open Class,46.5,1994
+07/28,Stillwater,MN,4,Colts,Open Class,75.7,1994
+07/28,Kaukauna,WI,4,Marquis,Open Class,63.0,1994
+07/27,Sioux City,IA,5,Nite Express,Open Class,55.8,1994
+07/27,Ishpeming,MI,5,Bandettes,Open Class,43.6,1994
+07/28,Stillwater,MN,5,Boston Crusaders,Open Class,72.7,1994
+07/28,Kaukauna,WI,5,Northmen,Open Class,56.9,1994
+07/27,Sioux City,IA,6,Northern Aurora,Open Class,54.3,1994
+07/27,Ishpeming,MI,6,Marion Cadets,Open Class,39.9,1994
+07/28,Stillwater,MN,6,Carolina Crown,Open Class,69.9,1994
+07/28,Kaukauna,WI,6,Bandettes,Open Class,53.7,1994
+07/28,Kaukauna,WI,7,Marion Cadets,Open Class,49.9,1994
+07/29,Madison,WI,1,Blue Devils,Open Class,90.8,1994
+07/30,Madison,WI,1,Blue Devils,Open Class,91.4,1994
+07/30,Saint Louis,MO,1,Knights,Open Class,65.2,1994
+07/30,Cumberland,MD,1,Hawthorne Caballeros,Open Class,82.6,1994
+07/29,Madison,WI,2,Cavaliers,Open Class,88.6,1994
+07/30,Madison,WI,2,Cavaliers,Open Class,89.2,1994
+07/30,Saint Louis,MO,2,Phantom Regiment Cadets,Open Class,54.8,1994
+07/30,Cumberland,MD,2,Bushwackers,Open Class,80.4,1994
+07/29,Madison,WI,3,Cadets,Open Class,87.2,1994
+07/30,Madison,WI,3,Cadets,Open Class,87.9,1994
+07/30,Saint Louis,MO,3,Mirage,Open Class,42.3,1994
+07/30,Cumberland,MD,3,Connecticut Hurricanes,Open Class,74.6,1994
+07/29,Madison,WI,4,Vanguard,Open Class,86.1,1994
+07/30,Madison,WI,4,Vanguard,Open Class,86.2,1994
+07/30,Saint Louis,MO,4,Prince Hall Lancers,Open Class,41.2,1994
+07/30,Cumberland,MD,4,New York Skyliners,Open Class,72.7,1994
+07/29,Madison,WI,5,Phantom Regiment,Open Class,85.5,1994
+07/30,Madison,WI,5,Phantom Regiment,Open Class,85.6,1994
+07/30,Saint Louis,MO,5,Royalaires,Open Class,39.8,1994
+07/30,Cumberland,MD,5,Rochester Crusaders,Open Class,72.3,1994
+07/29,Madison,WI,6,Madison Scouts,Open Class,85.4,1994
+07/30,Madison,WI,6,Madison Scouts,Open Class,84.6,1994
+07/30,Saint Louis,MO,6,Racine Scouts,Open Class,39.4,1994
+07/30,Cumberland,MD,6,Syracuse Brigadiers,Open Class,70.0,1994
+07/29,Madison,WI,7,Blue Knights,Open Class,78.9,1994
+07/30,Madison,WI,7,Blue Knights,Open Class,81.6,1994
+07/30,Cumberland,MD,7,Westshoremen,Open Class,63.3,1994
+07/29,Madison,WI,8,Crossmen,Open Class,78.2,1994
+07/30,Madison,WI,8,Crossmen,Open Class,78.8,1994
+07/30,Cumberland,MD,8,Reading Buccaneers,Open Class,63.0,1994
+07/29,Madison,WI,9,Bluecoats,Open Class,77.7,1994
+07/30,Madison,WI,9,Bluecoats,Open Class,77.5,1994
+07/29,Madison,WI,10,Glassmen,Open Class,77.0,1994
+07/30,Madison,WI,10,Glassmen,Open Class,75.9,1994
+07/29,Madison,WI,11,Colts,Open Class,73.5,1994
+07/30,Madison,WI,11,Magic of Orlando,Open Class,72.2,1994
+07/29,Madison,WI,11,Magic of Orlando,Open Class,73.5,1994
+07/30,Madison,WI,12,Colts,Open Class,72.1,1994
+07/29,Madison,WI,13,Freelancers,Open Class,71.8,1994
+07/29,Madison,WI,14,Troopers,Open Class,69.8,1994
+07/29,Madison,WI,15,Boston Crusaders,Open Class,69.3,1994
+07/29,Madison,WI,16,Velvet Knights,Open Class,67.9,1994
+07/29,Madison,WI,17,Carolina Crown,Open Class,66.0,1994
+07/29,Madison,WI,18,Marauders,Open Class,58.6,1994
+07/29,Madison,WI,19,Southwind,Open Class,56.3,1994
+07/29,Madison,WI,20,Northern Aurora,Open Class,52.6,1994
+07/30,Leominster,MA,1,East Coast Jazz,Open Class,76.9,1994
+07/30,Sharon Hill,PA,1,Spartans,Open Class,90.6,1994
+07/30,Oshawa,Ontario,1,Kiwanis Kavaliers,DCA Class A,86.4,1994
+07/30,Dorion,Quebec,1,L'Insolite,Open Class,84.7,1994
+07/30,Leominster,MA,2,Buccaneers,Open Class,71.9,1994
+07/30,Sharon Hill,PA,2,Raiders,Open Class,88.5,1994
+07/30,Oshawa,Ontario,2,Oakland Crusaders,DCA Class A,70.1,1994
+07/30,Dorion,Quebec,1,Dimension,Open Class,81.3,1994
+07/30,Leominster,MA,1,Royal Cadets,Open Class,73.9,1994
+07/30,Sharon Hill,PA,1,Spectrum,Open Class,82.5,1994
+07/30,Oshawa,Ontario,1,Contemporary Youth Ens.,DCA Class A,71.5,1994
+07/30,Dorion,Quebec,2,Les Etoiles,Open Class,74.1,1994
+07/30,Leominster,MA,2,Citations,Open Class,72.4,1994
+07/30,Sharon Hill,PA,2,Kips Bay Knight Club,Open Class,80.1,1994
+07/30,Oshawa,Ontario,2,Canadian Knights,DCA Class A,68.7,1994
+07/30,Dorion,Quebec,,FAMQ Class B,Open Class,68.1,1994
+07/30,Leominster,MA,3,Phoenix-MA,Open Class,69.4,1994
+07/30,Sharon Hill,PA,3,Southern Knights,Open Class,77.1,1994
+07/30,Dorion,Quebec,1,Senateurs,Open Class,57.6,1994
+07/30,Leominster,MA,4,J's,Open Class,68.4,1994
+07/30,Sharon Hill,PA,4,Marching 100,Open Class,73.3,1994
+07/30,Oshawa,Ontario,1,Empire Loyalists,DCA Class A,71.5,1994
+07/30,Dorion,Quebec,2,Pers Clairs,Open Class,46.3,1994
+07/30,Sharon Hill,PA,5,Ambassadors,Open Class,73.2,1994
+07/30,Oshawa,Ontario,2,Emerald Knights-ONT,DCA Class A,65.6,1994
+07/30,Dorion,Quebec,3,3rd Regiment,Open Class,,1994
+07/30,Leominster,MA,5,Fitchburg Kingsmen,Open Class,56.2,1994
+07/30,Leominster,MA,6,Braintree Braves,Open Class,18.8,1994
+07/30,Sharon Hill,PA,1,Illusion,Open Class,65.1,1994
+07/30,Dorion,Quebec,1,Multi-Vision,Open Class,72.4,1994
+07/30,Sharon Hill,PA,2,Quest,Open Class,62.5,1994
+07/30,Dorion,Quebec,2,Sentinelles,Open Class,67.4,1994
+07/30,Sharon Hill,PA,3,Phoenix-NJ,Open Class,62.3,1994
+07/30,Dorion,Quebec,3,Decibels,Open Class,65.5,1994
+07/31,Mississauga,Ontario,1,L'Insolite,Open Class,88.1,1994
+07/31,Des Plaines,IL,1,Blue Devils,Open Class,89.7,1994
+07/31,Mississauga,Ontario,2,Kiwanis Kavaliers,Open Class,86.5,1994
+07/31,Des Plaines,IL,2,Cavaliers,Open Class,88.7,1994
+07/31,Mississauga,Ontario,3,Cardinals,Open Class,84.3,1994
+07/31,Des Plaines,IL,3,Cadets,Open Class,87.0,1994
+07/31,Mississauga,Ontario,4,Academie Musicale,Open Class,81.2,1994
+07/31,Des Plaines,IL,4,Crossmen,Open Class,77.5,1994
+07/31,Mississauga,Ontario,5,Oakland Crusaders,Open Class,63.2,1994
+07/31,Des Plaines,IL,5,Boston Crusaders,Open Class,72.6,1994
+07/31,Des Plaines,IL,6,Carolina Crown,Open Class,68.1,1994
+07/31,Mississauga,Ontario,1,Canadian Knights,Open Class,68.8,1994
+07/31,Des Plaines,IL,7,Southwind,Open Class,60.1,1994
+07/31,Mississauga,Ontario,2,Ridge Raiders,Open Class,63.1,1994
+07/31,Mississauga,Ontario,1,Empire Loyalists,Open Class,73.3,1994
+07/31,Mississauga,Ontario,2,Emerald Knights-ONT,Open Class,66.7,1994
+08/01,Ankeny,IA,1,Madison Scouts,World Class,85.3,1994
+08/01,Fort Wayne,IN,1,Cadets,World Class,89.5,1994
+08/01,Etobicoke,Ontario,1,L'Insolite,World Class,88.7,1994
+08/02,Burlington,IA,1,Blue Devils,World Class,90.9,1994
+08/01,Ankeny,IA,2,Crossmen,World Class,79.4,1994
+08/01,Fort Wayne,IN,2,Blue Knights,World Class,81.7,1994
+08/01,Etobicoke,Ontario,2,Cardinals,World Class,85.9,1994
+08/02,Burlington,IA,2,Madison Scouts,World Class,87.0,1994
+08/01,Ankeny,IA,3,Colts,World Class,73.9,1994
+08/01,Fort Wayne,IN,3,Glassmen,World Class,77.2,1994
+08/01,Etobicoke,Ontario,3,Academie Musicale,World Class,84.6,1994
+08/02,Burlington,IA,3,Crossmen,World Class,83.4,1994
+08/01,Ankeny,IA,4,Freelancers,World Class,71.0,1994
+08/01,Fort Wayne,IN,4,Magic of Orlando,World Class,76.2,1994
+08/01,Etobicoke,Ontario,4,Oakland Crusaders,World Class,70.0,1994
+08/02,Burlington,IA,4,Colts,World Class,77.9,1994
+08/01,Ankeny,IA,5,Velvet Knights,World Class,70.9,1994
+08/01,Fort Wayne,IN,5,Troopers,World Class,70.3,1994
+08/02,Burlington,IA,5,Velvet Knights,World Class,75.6,1994
+08/01,Ankeny,IA,6,Nite Express,World Class,58.7,1994
+08/01,Fort Wayne,IN,6,Kiwanis Kavaliers,World Class,56.6,1994
+08/01,Etobicoke,Ontario,1,Saint John's,World Class,74.7,1994
+08/02,Burlington,IA,6,Nite Express,World Class,61.8,1994
+08/01,Etobicoke,Ontario,2,Ridge Raiders,World Class,71.9,1994
+08/02,Burlington,IA,7,Knights,World Class,51.4,1994
+08/01,Etobicoke,Ontario,3,Canadian Knights,World Class,71.0,1994
+08/01,Etobicoke,Ontario,4,Dutch Boy Cadets,World Class,69.0,1994
+08/01,Etobicoke,Ontario,1,Empire Loyalists,World Class,77.0,1994
+08/01,Etobicoke,Ontario,2,Emerald Knights-ONT,World Class,68.5,1994
+08/01,Etobicoke,Ontario,3,Racine Scouts,World Class,52.1,1994
+08/02,Ypsilanti,MI,1,Cadets,World Class,89.8,1994
+08/03,Centerville,OH,1,Cadets,World Class,90.5,1994
+08/03,Butler,PA,1,L'Insolite,World Class,87.0,1994
+08/04,Port Huron,MI,1,Blue Devils,World Class,91.5,1994
+08/02,Ypsilanti,MI,2,Phantom Regiment,World Class,88.4,1994
+08/03,Centerville,OH,2,Cavaliers,World Class,90.1,1994
+08/03,Butler,PA,2,Spartans,World Class,81.3,1994
+08/04,Port Huron,MI,2,Madison Scouts,World Class,87.3,1994
+08/02,Ypsilanti,MI,3,Bluecoats,World Class,79.0,1994
+08/03,Centerville,OH,3,Vanguard,World Class,87.5,1994
+08/03,Butler,PA,3,Academie Musicale,World Class,77.6,1994
+08/04,Port Huron,MI,3,Crossmen,World Class,81.0,1994
+08/02,Ypsilanti,MI,4,Glassmen,World Class,78.8,1994
+08/03,Centerville,OH,4,Blue Knights,World Class,82.3,1994
+08/03,Butler,PA,4,Patriots,World Class,74.4,1994
+08/04,Port Huron,MI,4,Glassmen,World Class,78.6,1994
+08/02,Ypsilanti,MI,5,Magic of Orlando,World Class,75.3,1994
+08/03,Centerville,OH,5,Bluecoats,World Class,80.3,1994
+08/04,Port Huron,MI,5,Boston Crusaders,World Class,75.9,1994
+08/02,Ypsilanti,MI,6,Troopers,World Class,70.2,1994
+08/03,Centerville,OH,6,Boston Crusaders,World Class,73.9,1994
+08/03,Butler,PA,1,Royal Columbians,World Class,72.3,1994
+08/04,Port Huron,MI,6,Velvet Knights,World Class,74.7,1994
+08/02,Ypsilanti,MI,7,Northern Aurora,World Class,57.1,1994
+08/03,Centerville,OH,7,Carolina Crown,World Class,63.9,1994
+08/03,Butler,PA,2,Golden Lancers,World Class,67.8,1994
+08/04,Port Huron,MI,7,Freelancers,World Class,73.6,1994
+08/02,Ypsilanti,MI,8,12th Command,World Class,40.9,1994
+08/03,Centerville,OH,8,Kiwanis Kavaliers,World Class,58.4,1994
+08/03,Butler,PA,3,Kips Bay Knight Club,World Class,58.7,1994
+08/04,Port Huron,MI,8,Southwind,World Class,61.9,1994
+08/03,Butler,PA,4,Ridge Raiders,World Class,58.3,1994
+08/04,Batavia,NY,1,East Coast Jazz,World Class,76.7,1994
+08/05,Pittsburgh,PA,1,Blue Devils,World Class,92.3,1994
+08/05,Menasha,WI,1,Cardinals,World Class,82.3,1994
+08/05,Grand Haven,MI,1,East Coast Jazz,World Class,71.0,1994
+08/04,Batavia,NY,2,Saint John's,World Class,74.9,1994
+08/05,Pittsburgh,PA,2,Phantom Regiment,World Class,88.1,1994
+08/05,Menasha,WI,2,Nite Express,World Class,81.6,1994
+08/05,Grand Haven,MI,2,Royal Columbians,World Class,70.7,1994
+08/04,Batavia,NY,3,Kips Bay Knight Club,World Class,66.7,1994
+08/05,Pittsburgh,PA,3,Glassmen,World Class,80.5,1994
+08/05,Menasha,WI,3,Academie Musicale,World Class,79.8,1994
+08/05,Grand Haven,MI,3,Pride of Bristol,World Class,67.7,1994
+08/04,Batavia,NY,4,Empire Loyalists,World Class,60.8,1994
+08/05,Pittsburgh,PA,4,Magic of Orlando,World Class,78.5,1994
+08/05,Menasha,WI,4,Allegiance Elite,World Class,79.7,1994
+08/05,Grand Haven,MI,4,Coachmen,World Class,64.0,1994
+08/04,Batavia,NY,5,Firebirds,World Class,30.8,1994
+08/05,Pittsburgh,PA,5,Freelancers,World Class,76.9,1994
+08/05,Grand Haven,MI,5,Guardsmen,World Class,52.1,1994
+08/05,Pittsburgh,PA,6,Northern Aurora,World Class,59.3,1994
+08/05,Menasha,WI,1,Americanos,World Class,78.7,1994
+08/05,Grand Haven,MI,6,Marion Cadets,World Class,51.7,1994
+08/05,Pittsburgh,PA,7,Golden Lancers,World Class,50.0,1994
+08/05,Menasha,WI,2,CapitolAires,World Class,73.1,1994
+08/05,Menasha,WI,3,Northmen,World Class,59.4,1994
+08/05,Menasha,WI,4,Bandettes,World Class,57.0,1994
+08/06,Champaign,IL,1,Cadets,World Class,90.7,1994
+08/06,Canton,OH,1,Blue Devils,World Class,92.5,1994
+08/06,Bayonne,NJ,1,Raiders,World Class,90.6,1994
+08/06,Scranton,PA,1,Empire Statesmen,World Class,87.4,1994
+08/06,Champaign,IL,2,Cavaliers,World Class,90.6,1994
+08/06,Canton,OH,2,Vanguard,World Class,88.4,1994
+08/06,Scranton,PA,2,Hawthorne Caballeros,World Class,86.1,1994
+08/06,Champaign,IL,3,Madison Scouts,World Class,87.2,1994
+08/06,Canton,OH,3,Phantom Regiment,World Class,88.2,1994
+08/06,Bayonne,NJ,1,Kips Bay Knight Club,World Class,82.7,1994
+08/06,Scranton,PA,3,Bushwackers,World Class,84.1,1994
+08/06,Champaign,IL,4,Crossmen,World Class,81.0,1994
+08/06,Canton,OH,4,Blue Knights,World Class,82.8,1994
+08/06,Bayonne,NJ,2,Spectrum,World Class,81.8,1994
+08/06,Scranton,PA,4,Connecticut Hurricanes,World Class,78.6,1994
+08/06,Champaign,IL,5,Colts,World Class,75.9,1994
+08/06,Canton,OH,5,Bluecoats,World Class,80.2,1994
+08/06,Bayonne,NJ,3,Southern Knights,World Class,76.2,1994
+08/06,Scranton,PA,5,New York Skyliners,World Class,78.4,1994
+08/06,Champaign,IL,6,Velvet Knights,World Class,73.5,1994
+08/06,Canton,OH,5,Glassmen,World Class,80.2,1994
+08/06,Bayonne,NJ,4,Marching 100,World Class,73.9,1994
+08/06,Scranton,PA,6,Rochester Crusaders,World Class,76.1,1994
+08/06,Champaign,IL,7,Boston Crusaders,World Class,72.6,1994
+08/06,Canton,OH,7,Magic of Orlando,World Class,78.7,1994
+08/06,Bayonne,NJ,5,Ambassadors,World Class,70.6,1994
+08/06,Scranton,PA,7,Westshoremen,World Class,67.4,1994
+08/06,Champaign,IL,8,Carolina Crown,World Class,69.7,1994
+08/06,Canton,OH,8,Freelancers,World Class,74.0,1994
+08/06,Champaign,IL,9,Southwind,World Class,64.5,1994
+08/06,Canton,OH,9,Troopers,World Class,72.7,1994
+08/06,Bayonne,NJ,1,Illusion,World Class,64.3,1994
+08/06,Canton,OH,10,Marauders,World Class,60.3,1994
+08/06,Bayonne,NJ,2,Quest,World Class,62.0,1994
+08/06,Canton,OH,11,Northern Aurora,World Class,57.6,1994
+08/06,Bayonne,NJ,3,Phoenix-NJ,World Class,59.2,1994
+08/06,Bayonne,NJ,4,William G. Lucas,World Class,53.9,1994
+08/07,West Chester,PA,1,Bushwackers,World Class,85.0,1994
+08/07,DeKalb,IL,1,Pioneer,World Class,88.0,1994
+08/07,DeKalb,IL,1,Pioneer,World Class,87.1,1994
+08/08,Atlanta,GA,1,Cadets,World Class,91.9,1994
+08/07,West Chester,PA,2,New York Skyliners,World Class,83.2,1994
+08/07,DeKalb,IL,2,L'Insolite,World Class,87.4,1994
+08/07,DeKalb,IL,2,L'Insolite,World Class,86.3,1994
+08/08,Atlanta,GA,2,Blue Knights,World Class,85.4,1994
+08/07,West Chester,PA,3,Reading Buccaneers,World Class,71.2,1994
+08/07,DeKalb,IL,3,Kiwanis Kavaliers,World Class,85.0,1994
+08/07,DeKalb,IL,3,Kiwanis Kavaliers,World Class,83.7,1994
+08/08,Atlanta,GA,3,Glassmen,World Class,82.3,1994
+08/07,West Chester,PA,4,Westshoremen,World Class,70.7,1994
+08/07,DeKalb,IL,4,Nite Express,World Class,84.9,1994
+08/07,DeKalb,IL,4,Nite Express,World Class,82.1,1994
+08/08,Atlanta,GA,4,Freelancers,World Class,78.1,1994
+08/07,West Chester,PA,5,Sunrisers,World Class,66.3,1994
+08/07,DeKalb,IL,5,Cardinals,World Class,83.4,1994
+08/07,DeKalb,IL,5,Cardinals,World Class,77.9,1994
+08/08,Atlanta,GA,5,Southwind,World Class,69.4,1994
+08/07,West Chester,PA,6,Chieftains,World Class,65.1,1994
+08/07,DeKalb,IL,6,Allegiance Elite,World Class,80.2,1994
+08/08,Atlanta,GA,6,Suncoast Sound,World Class,62.1,1994
+08/07,DeKalb,IL,7,Academie Musicale,World Class,79.3,1994
+08/07,DeKalb,IL,1,Blue Stars,World Class,79.1,1994
+08/07,DeKalb,IL,8,Patriots,World Class,78.1,1994
+08/07,DeKalb,IL,2,Americanos,World Class,77.0,1994
+08/07,DeKalb,IL,9,Seattle Cascades,World Class,77.1,1994
+08/07,DeKalb,IL,3,Royal Columbians,World Class,71.6,1994
+08/07,DeKalb,IL,10,Phantom Regiment Cadets,World Class,68.2,1994
+08/07,DeKalb,IL,4,Knights,World Class,70.4,1994
+08/07,DeKalb,IL,5,CapitolAires,World Class,69.7,1994
+08/07,DeKalb,IL,1,Blue Stars,World Class,81.5,1994
+08/07,DeKalb,IL,2,Americanos,World Class,79.6,1994
+08/07,DeKalb,IL,3,CapitolAires,World Class,75.2,1994
+08/07,DeKalb,IL,4,Knights,World Class,74.9,1994
+08/07,DeKalb,IL,5,Royal Columbians,World Class,72.7,1994
+08/07,DeKalb,IL,6,Lone Star,World Class,72.1,1994
+08/07,DeKalb,IL,7,Golden Lancers,World Class,70.7,1994
+08/07,DeKalb,IL,8,Saint John's,World Class,70.6,1994
+08/07,DeKalb,IL,9,East Coast Jazz,World Class,69.7,1994
+08/07,DeKalb,IL,10,Contemporary Youth Ens.,World Class,68.1,1994
+08/07,DeKalb,IL,11,Marquis,World Class,64.8,1994
+08/07,DeKalb,IL,12,Delta Brigade,World Class,63.8,1994
+08/07,DeKalb,IL,13,Pride of Bristol,World Class,63.4,1994
+08/07,DeKalb,IL,14,Coachmen,World Class,63.1,1994
+08/07,DeKalb,IL,15,Bandettes,World Class,57.2,1994
+08/07,DeKalb,IL,16,Northmen,World Class,54.6,1994
+08/07,DeKalb,IL,17,Madison Junior Scouts,World Class,50.7,1994
+08/07,DeKalb,IL,18,Marion Cadets,World Class,49.8,1994
+08/07,DeKalb,IL,19,Racine Scouts,World Class,48.8,1994
+08/07,DeKalb,IL,20,Guardsmen,World Class,48.1,1994
+08/07,DeKalb,IL,21,Edmonton Strutters,World Class,45.7,1994
+08/07,DeKalb,IL,22,Firebirds,World Class,31.5,1994
+08/08,Huntington,WV,1,Blue Devils,World Class,92.3,1994
+08/09,Salem,VA,1,Phantom Regiment,World Class,90.2,1994
+08/09,Kitchener,Ontario,1,L'Insolite,World Class,89.7,1994
+08/09,Kitchener,Ontario,1,L'Insolite,World Class,86.8,1994
+08/08,Huntington,WV,2,Cavaliers,World Class,91.8,1994
+08/09,Salem,VA,2,Vanguard,World Class,89.6,1994
+08/09,Kitchener,Ontario,2,Northern Aurora,World Class,85.7,1994
+08/09,Kitchener,Ontario,2,Kiwanis Kavaliers,World Class,85.1,1994
+08/08,Huntington,WV,3,Madison Scouts,World Class,87.9,1994
+08/09,Salem,VA,3,Colts,World Class,80.6,1994
+08/09,Kitchener,Ontario,3,Kiwanis Kavaliers,World Class,84.9,1994
+08/09,Kitchener,Ontario,3,Northern Aurora,World Class,84.0,1994
+08/08,Huntington,WV,4,Crossmen,World Class,80.8,1994
+08/09,Salem,VA,4,Troopers,World Class,78.2,1994
+08/09,Kitchener,Ontario,4,Cardinals,World Class,83.8,1994
+08/09,Kitchener,Ontario,4,Cardinals,World Class,83.8,1994
+08/08,Huntington,WV,5,Bluecoats,World Class,79.7,1994
+08/09,Salem,VA,5,Boston Crusaders,World Class,76.8,1994
+08/09,Kitchener,Ontario,5,Allegiance Elite,World Class,81.9,1994
+08/09,Kitchener,Ontario,5,Allegiance Elite,World Class,78.9,1994
+08/08,Huntington,WV,6,Magic of Orlando,World Class,78.4,1994
+08/09,Salem,VA,6,Marauders,World Class,67.3,1994
+08/09,Kitchener,Ontario,6,Patriots,World Class,80.3,1994
+08/08,Huntington,WV,7,Colts,World Class,76.4,1994
+08/09,Salem,VA,7,Knights,World Class,48.3,1994
+08/09,Kitchener,Ontario,6,Spartans,World Class,80.3,1994
+08/09,Kitchener,Ontario,1,Blue Stars,World Class,79.6,1994
+08/08,Huntington,WV,8,Velvet Knights,World Class,74.6,1994
+08/09,Kitchener,Ontario,8,Raiders,World Class,76.8,1994
+08/09,Kitchener,Ontario,2,Royal Columbians,World Class,75.8,1994
+08/09,Kitchener,Ontario,9,Seattle Cascades,World Class,74.7,1994
+08/09,Kitchener,Ontario,3,East Coast Jazz,World Class,74.8,1994
+08/09,Kitchener,Ontario,10,Oakland Crusaders,World Class,74.2,1994
+08/09,Kitchener,Ontario,4,Saint John's,World Class,71.7,1994
+08/09,Kitchener,Ontario,5,Contemporary Youth Ens.,World Class,71.4,1994
+08/09,Kitchener,Ontario,1,Blue Stars,World Class,81.9,1994
+08/09,Kitchener,Ontario,2,Royal Columbians,World Class,76.6,1994
+08/09,Kitchener,Ontario,3,East Coast Jazz,World Class,76.0,1994
+08/09,Kitchener,Ontario,4,Contemporary Youth Ens.,World Class,74.1,1994
+08/09,Kitchener,Ontario,5,Saint John's,World Class,72.0,1994
+08/09,Kitchener,Ontario,6,Delta Brigade,World Class,71.6,1994
+08/09,Kitchener,Ontario,7,Ventures,World Class,68.9,1994
+08/09,Kitchener,Ontario,8,Buccaneers,World Class,67.4,1994
+08/09,Kitchener,Ontario,9,Pride of Bristol,World Class,67.0,1994
+08/09,Kitchener,Ontario,10,Canadian Knights,World Class,63.0,1994
+08/09,Kitchener,Ontario,10,Ridge Raiders,World Class,63.0,1994
+08/09,Kitchener,Ontario,12,Kips Bay Knight Club,World Class,61.2,1994
+08/09,Kitchener,Ontario,13,Racine Scouts,World Class,51.6,1994
+08/09,Kitchener,Ontario,14,Dutch Boy Cadets,World Class,45.4,1994
+08/09,Kitchener,Ontario,15,Edmonton Strutters,World Class,44.5,1994
+08/09,Kitchener,Ontario,16,Joliet Kingsmen,World Class,41.1,1994
+08/09,Kitchener,Ontario,17,Emerald Knights,World Class,40.1,1994
+08/09,Kitchener,Ontario,18,Firebirds,World Class,33.6,1994
+08/09,Charlotte,NC,1,Cadets,World Class,92.8,1994
+08/10,Bellevue,OH,1,Glassmen,World Class,84.4,1994
+08/10,Hornell,NY,1,Blue Devils,World Class,93.1,1994
+08/10,Winston-Salem,NC,1,Cadets,World Class,92.8,1994
+08/09,Charlotte,NC,2,Madison Scouts,World Class,88.9,1994
+08/10,Bellevue,OH,2,Magic of Orlando,World Class,83.4,1994
+08/10,Hornell,NY,2,Cavaliers,World Class,91.8,1994
+08/10,Winston-Salem,NC,2,Madison Scouts,World Class,90.0,1994
+08/09,Charlotte,NC,3,Blue Knights,World Class,85.9,1994
+08/10,Bellevue,OH,3,Bluecoats,World Class,80.6,1994
+08/10,Hornell,NY,3,Crossmen,World Class,82.3,1994
+08/10,Winston-Salem,NC,3,Blue Knights,World Class,87.5,1994
+08/09,Charlotte,NC,4,Freelancers,World Class,77.3,1994
+08/10,Bellevue,OH,4,Velvet Knights,World Class,78.2,1994
+08/10,Hornell,NY,4,Marauders,World Class,66.4,1994
+08/10,Winston-Salem,NC,4,Freelancers,World Class,78.0,1994
+08/09,Charlotte,NC,5,Carolina Crown,World Class,75.0,1994
+08/10,Bellevue,OH,5,Troopers,World Class,77.5,1994
+08/10,Hornell,NY,5,Northern Aurora,World Class,59.9,1994
+08/10,Winston-Salem,NC,5,Carolina Crown,World Class,72.7,1994
+08/09,Charlotte,NC,6,Southwind,World Class,67.5,1994
+08/10,Bellevue,OH,6,Mandarins,World Class,59.9,1994
+08/10,Hornell,NY,6,Spartans,World Class,55.4,1994
+08/10,Winston-Salem,NC,6,Southwind,World Class,68.0,1994
+08/09,Charlotte,NC,7,Suncoast Sound,World Class,60.9,1994
+08/10,Hornell,NY,7,Patriots,World Class,51.7,1994
+08/10,Winston-Salem,NC,7,Suncoast Sound,World Class,66.8,1994
+08/10,Winston-Salem,NC,8,Knights,World Class,53.8,1994
+08/11,Glens Falls,NY,1,Blue Devils,World Class,93.2,1994
+08/11,Hampton,VA,1,Phantom Regiment,World Class,90.9,1994
+08/11,Kingston,Ontario,1,Kiwanis Kavaliers,World Class,94.2,1994
+08/11,Marion,OH,1,Pioneer,World Class,91.0,1994
+08/11,Glens Falls,NY,2,Cavaliers,World Class,92.0,1994
+08/11,Hampton,VA,2,Blue Knights,World Class,86.6,1994
+08/11,Kingston,Ontario,2,Allegiance Elite,World Class,91.3,1994
+08/11,Marion,OH,2,Nite Express,World Class,88.7,1994
+08/11,Glens Falls,NY,3,Crossmen,World Class,85.2,1994
+08/11,Hampton,VA,3,Colts,World Class,80.8,1994
+08/11,Kingston,Ontario,3,Oakland Crusaders,World Class,83.6,1994
+08/11,Marion,OH,3,Cardinals,World Class,87.7,1994
+08/11,Glens Falls,NY,4,Bluecoats,World Class,83.0,1994
+08/11,Hampton,VA,4,Carolina Crown,World Class,72.0,1994
+08/11,Marion,OH,4,Academie Musicale,World Class,84.4,1994
+08/11,Glens Falls,NY,5,Marauders,World Class,68.3,1994
+08/11,Hampton,VA,5,Southwind,World Class,69.4,1994
+08/11,Kingston,Ontario,1,Delta Brigade,World Class,89.2,1994
+08/11,Marion,OH,5,Spartans,World Class,83.3,1994
+08/11,Glens Falls,NY,6,L'Insolite,World Class,66.5,1994
+08/11,Hampton,VA,6,Suncoast Sound,World Class,62.8,1994
+08/11,Kingston,Ontario,2,Ventures,World Class,86.2,1994
+08/11,Marion,OH,6,Patriots,World Class,82.5,1994
+08/11,Glens Falls,NY,7,Northern Aurora,World Class,61.1,1994
+08/11,Hampton,VA,7,Quad City Knights,World Class,51.7,1994
+08/11,Kingston,Ontario,3,Contemporary Youth Ens.,World Class,85.8,1994
+08/11,Marion,OH,7,Raiders,World Class,79.9,1994
+08/11,Glens Falls,NY,8,Blue Stars,World Class,56.0,1994
+08/11,Kingston,Ontario,4,Coachmen,World Class,82.5,1994
+08/11,Marion,OH,8,Seattle Cascades,World Class,77.2,1994
+08/11,Kingston,Ontario,5,Pride of Bristol,World Class,79.9,1994
+08/11,Marion,OH,9,Phantom Regiment Cadets,World Class,73.2,1994
+08/11,Kingston,Ontario,6,Dutch Boy Cadets,World Class,72.3,1994
+08/11,Kingston,Ontario,7,Edmonton Strutters,World Class,68.6,1994
+08/11,Marion,OH,1,Mandarins,World Class,87.4,1994
+08/11,Marion,OH,2,Americanos,World Class,85.1,1994
+08/11,Kingston,Ontario,1,Empire Loyalists,World Class,89.4,1994
+08/11,Marion,OH,3,Royal Columbians,World Class,79.3,1994
+08/11,Kingston,Ontario,2,Emerald Knights-ONT,World Class,84.4,1994
+08/11,Marion,OH,4,CapitolAires,World Class,77.2,1994
+08/11,Marion,OH,1,Glassmen,World Class,84.9,1994
+08/12,Upper Saint Claire,PA,1,Cardinals;,World Class,89.8,1994
+08/12,Montreal,Quebec,1,Blue Devils,World Class,95.3,1994
+08/12,Allentown,PA,1,Americanos,World Class,82.6,1994
+08/11,Marion,OH,2,Magic of Orlando,World Class,83.4,1994
+08/12,Upper Saint Claire,PA,2,Patriots,World Class,81.8,1994
+08/12,Montreal,Quebec,2,Cavaliers,World Class,92.8,1994
+08/12,Allentown,PA,2,Royal Columbians,World Class,79.5,1994
+08/11,Marion,OH,3,Velvet Knights,World Class,78.4,1994
+08/12,Upper Saint Claire,PA,3,Seattle Cascades,World Class,79.7,1994
+08/12,Montreal,Quebec,3,Bluecoats,World Class,82.9,1994
+08/12,Allentown,PA,3,Knights,World Class,75.6,1994
+08/11,Marion,OH,4,Troopers,World Class,77.3,1994
+08/12,Upper Saint Claire,PA,4,Raiders,World Class,74.6,1994
+08/12,Montreal,Quebec,4,Marauders,World Class,65.8,1994
+08/12,Allentown,PA,4,Saint John's,World Class,68.1,1994
+08/12,Montreal,Quebec,5,L'Insolite,World Class,64.0,1994
+08/12,Allentown,PA,5,Kips Bay Knight Club,World Class,64.6,1994
+08/11,Marion,OH,1,Pioneer,World Class,89.2,1994
+08/12,Upper Saint Claire,PA,1,Mandarins,World Class,84.8,1994
+08/12,Montreal,Quebec,6,Northern Aurora,World Class,59.6,1994
+08/12,Allentown,PA,6,Buccaneers,World Class,63.6,1994
+08/11,Marion,OH,2,Nite Express,World Class,88.6,1994
+08/12,Upper Saint Claire,PA,2,CapitolAires,World Class,75.8,1994
+08/12,Montreal,Quebec,7,Blue Stars,World Class,58.5,1994
+08/12,Allentown,PA,7,Ridge Raiders,World Class,61.8,1994
+08/11,Marion,OH,3,Cardinals;,World Class,85.5,1994
+08/12,Upper Saint Claire,PA,3,Golden Lancers,World Class,75.0,1994
+08/12,Allentown,PA,8,Canadian Knights,World Class,61.4,1994
+08/11,Marion,OH,4,Academie Musicale,World Class,81.5,1994
+08/12,Upper Saint Claire,PA,4,Northmen,World Class,59.0,1994
+08/12,Allentown,PA,9,Bandettes,World Class,57.6,1994
+08/12,Allentown,PA,10,Spectrum,World Class,55.0,1994
+08/11,Marion,OH,1,Mandarins,World Class,87.4,1994
+08/12,Allentown,PA,11,Southern Knights,World Class,49.8,1994
+08/11,Marion,OH,2,Americanos,World Class,85.1,1994
+08/12,Allentown,PA,12,Phoenix-NJ,World Class,38.8,1994
+08/11,Marion,OH,3,Royal Columbians,World Class,79.3,1994
+08/12,Allentown,PA,13,Firebirds,World Class,31.7,1994
+08/11,Marion,OH,4,CapitolAires,World Class,77.2,1994
+08/13,Allentown,PA,1,Cadets,World Class,92.2,1994
+08/13,Allentown,PA,1,Cadets,Open Class,93.5,1994
+08/13,East Providence,RI,1,Hawthorne Caballeros,Open Class,89.8,1994
+08/13,Gloversville,NY,1,Empire Statesmen,Open Class,86.8,1994
+08/13,Allentown,PA,2,Phantom Regiment,World Class,91.9,1994
+08/13,Allentown,PA,2,Phantom Regiment,Open Class,92.5,1994
+08/13,East Providence,RI,2,Bushwackers,Open Class,88.1,1994
+08/13,Gloversville,NY,2,Rochester Crusaders,Open Class,80.9,1994
+08/13,Allentown,PA,3,Vanguard,World Class,91.4,1994
+08/13,Allentown,PA,3,Vanguard,Open Class,90.8,1994
+08/13,East Providence,RI,3,Connecticut Hurricanes,Open Class,84.2,1994
+08/13,Gloversville,NY,3,Syracuse Brigadiers,Open Class,74.9,1994
+08/13,Allentown,PA,4,Madison Scouts,World Class,89.9,1994
+08/13,Allentown,PA,4,Madison Scouts,Open Class,90.0,1994
+08/13,East Providence,RI,4,New York Skyliners,Open Class,82.8,1994
+08/13,Gloversville,NY,4,Sunrisers,Open Class,65.3,1994
+08/13,Allentown,PA,5,Blue Knights,World Class,86.9,1994
+08/13,Allentown,PA,5,Blue Knights,Open Class,86.0,1994
+08/13,East Providence,RI,5,Les Metropolitains,Open Class,78.2,1994
+08/13,Allentown,PA,6,Crossmen,World Class,85.0,1994
+08/13,Allentown,PA,6,Crossmen,Open Class,85.0,1994
+08/13,Allentown,PA,7,Glassmen,World Class,81.9,1994
+08/13,Allentown,PA,7,Glassmen,Open Class,81.5,1994
+08/13,Allentown,PA,8,Colts,World Class,81.2,1994
+08/13,Allentown,PA,8,Colts,Open Class,80.4,1994
+08/13,Allentown,PA,9,Magic of Orlando,World Class,80.9,1994
+08/13,Allentown,PA,9,Magic of Orlando,Open Class,79.6,1994
+08/13,Allentown,PA,10,Boston Crusaders,World Class,79.3,1994
+08/13,Allentown,PA,10,Boston Crusaders,Open Class,77.5,1994
+08/13,Allentown,PA,11,Freelancers,World Class,77.9,1994
+08/13,Allentown,PA,12,Velvet Knights,World Class,77.5,1994
+08/13,Allentown,PA,13,Carolina Crown,World Class,74.1,1994
+08/13,Allentown,PA,14,Southwind,World Class,68.6,1994
+08/13,Allentown,PA,1,Nite Express,World Class,86.0,1994
+08/13,Allentown,PA,2,Northern Aurora,World Class,83.3,1994
+08/13,Allentown,PA,2,Suncoast Sound,World Class,83.3,1994
+08/13,Allentown,PA,4,Spartans,World Class,78.3,1994
+08/13,Allentown,PA,5,Raiders,World Class,74.8,1994
+08/13,Allentown,PA,6,Jersey Surf,World Class,74.4,1994
+08/13,Allentown,PA,7,Phantom Regiment Cadets,World Class,67.7,1994
+08/13,Ottawa,Ontario,1,Kiwanis Kavaliers,World Class,89.8,1994
+08/14,Lynn,MA,1,Blue Devils,Open Class,95.8,1994
+08/14,Clifton,NJ,1,Cadets,Open Class,95.1,1994
+08/14,Endicott,NY,1,Cavaliers,Open Class,93.0,1994
+08/13,Ottawa,Ontario,2,L'Insolite,World Class,89.6,1994
+08/14,Lynn,MA,2,Phantom Regiment,Open Class,93.2,1994
+08/14,Clifton,NJ,2,Vanguard,Open Class,93.7,1994
+08/14,Endicott,NY,2,Colts,Open Class,81.4,1994
+08/13,Ottawa,Ontario,3,Academie Musicale,World Class,83.9,1994
+08/14,Lynn,MA,3,Blue Knights,Open Class,88.0,1994
+08/14,Clifton,NJ,3,Madison Scouts,Open Class,92.5,1994
+08/14,Endicott,NY,3,Magic of Orlando,Open Class,79.1,1994
+08/13,Ottawa,Ontario,4,Allegiance Elite,World Class,82.8,1994
+08/14,Lynn,MA,4,Velvet Knights,Open Class,82.0,1994
+08/14,Clifton,NJ,4,Crossmen,Open Class,88.1,1994
+08/14,Endicott,NY,4,Freelancers,Open Class,78.7,1994
+08/14,Lynn,MA,5,Boston Crusaders,Open Class,80.3,1994
+08/14,Clifton,NJ,5,Glassmen,Open Class,86.0,1994
+08/14,Endicott,NY,5,Troopers,Open Class,74.9,1994
+08/13,Ottawa,Ontario,1,Blue Stars,World Class,85.5,1994
+08/14,Lynn,MA,6,Marauders,Open Class,71.6,1994
+08/14,Clifton,NJ,6,Carolina Crown,Open Class,76.6,1994
+08/14,Endicott,NY,6,Southwind,Open Class,67.5,1994
+08/13,Ottawa,Ontario,2,Contemporary Youth Ens.,World Class,77.5,1994
+08/14,Lynn,MA,7,Spartans,Open Class,64.5,1994
+08/14,Clifton,NJ,7,Nite Express,Open Class,68.0,1994
+08/13,Ottawa,Ontario,3,Delta Brigade,World Class,75.4,1994
+08/14,Lynn,MA,8,Royal Columbians,Open Class,52.3,1994
+08/14,Clifton,NJ,8,Jersey Surf,Open Class,59.3,1994
+08/13,Ottawa,Ontario,4,East Coast Jazz,World Class,71.3,1994
+08/14,Clifton,NJ,9,Raiders,Open Class,58.9,1994
+08/13,Ottawa,Ontario,5,Coachmen,World Class,66.5,1994
+08/13,Ottawa,Ontario,6,Pride of Bristol,World Class,64.0,1994
+08/13,Ottawa,Ontario,7,Racine Scouts,World Class,55.6,1994
+08/13,Ottawa,Ontario,8,Edmonton Strutters,World Class,53.1,1994
+08/13,Ottawa,Ontario,9,Dutch Boy Cadets,World Class,50.4,1994
+08/13,Ottawa,Ontario,10,Emerald Knights,World Class,45.4,1994
+08/14,Springfield,MO,1,Marquis,World Class,67.6,1994
+08/15,Pittsfield,MA,1,Phantom Regiment,Open Class,93.5,1994
+08/15,Rome,NY,1,Cadets,Open Class,95.2,1994
+08/14,Springfield,MO,2,Prince Hall Lancers,World Class,54.6,1994
+08/15,Pittsfield,MA,2,Madison Scouts,Open Class,92.7,1994
+08/15,Rome,NY,2,Vanguard,Open Class,92.8,1994
+08/14,Springfield,MO,3,"General Butler
+  Vagabonds",World Class,50.4,1994
+08/15,Pittsfield,MA,3,Velvet Knights,Open Class,81.7,1994
+08/15,Rome,NY,3,Crossmen,Open Class,88.3,1994
+08/14,Springfield,MO,4,Joliet Kingsmen,World Class,47.2,1994
+08/15,Pittsfield,MA,4,Troopers,Open Class,78.1,1994
+08/15,Rome,NY,4,Glassmen,Open Class,86.9,1994
+08/14,Springfield,MO,5,Mirage,World Class,46.5,1994
+08/15,Pittsfield,MA,5,Carolina Crown,Open Class,70.7,1994
+08/15,Rome,NY,5,Bluecoats,Open Class,83.9,1994
+08/14,Springfield,MO,6,New Day,World Class,29.6,1994
+08/15,Pittsfield,MA,6,Southwind,Open Class,69.6,1994
+08/15,Rome,NY,6,Colts,Open Class,83.1,1994
+08/14,Springfield,MO,7,American Woodmen,World Class,27.8,1994
+08/15,Pittsfield,MA,7,Cardinals,Open Class,60.5,1994
+08/15,Rome,NY,7,Magic of Orlando,Open Class,82.9,1994
+08/15,Rome,NY,8,Patriots,Open Class,57.5,1994
+08/14,Springfield,MO,1,Chicago Vanguard,World Class,72.9,1994
+08/15,Lowell,MA,1,Blue Stars,World Class,93.5,1994
+08/16,Lowell,MA,1,Pioneer,Open Class,94.4,1994
+08/16,Lowell,MA,1,Pioneer,Open Class,96.0,1994
+08/16,Lowell,MA,1,Americanos,Open Class,91.9,1994
+08/15,Lowell,MA,2,Mandarins,World Class,93.3,1994
+08/16,Lowell,MA,2,L'Insolite,Open Class,92.4,1994
+08/16,Lowell,MA,2,Nite Express,Open Class,93.6,1994
+08/16,Lowell,MA,2,Blue Stars,Open Class,91.8,1994
+08/15,Lowell,MA,3,Americanos,World Class,93.0,1994
+08/16,Lowell,MA,3,Nite Express,Open Class,90.5,1994
+08/16,Lowell,MA,3,L'Insolite,Open Class,92.2,1994
+08/16,Lowell,MA,3,Mandarins,Open Class,90.8,1994
+08/15,Lowell,MA,4,Royal Columbians,World Class,89.2,1994
+08/16,Lowell,MA,3,Kiwanis Kavaliers,Open Class,90.4,1994
+08/16,Lowell,MA,4,Kiwanis Kavaliers,Open Class,90.3,1994
+08/16,Lowell,MA,4,Royal Columbians,Open Class,88.8,1994
+08/15,Lowell,MA,5,Lone Star,World Class,85.6,1994
+08/16,Lowell,MA,5,Suncoast Sound,Open Class,88.3,1994
+08/16,Lowell,MA,5,Suncoast Sound,Open Class,87.9,1994
+08/16,Lowell,MA,5,Lone Star,Open Class,84.8,1994
+08/15,Lowell,MA,6,CapitolAires,World Class,83.8,1994
+08/16,Lowell,MA,6,Cardinals,Open Class,88.1,1994
+08/16,Lowell,MA,6,CapitolAires,Open Class,83.0,1994
+08/15,Lowell,MA,7,Saint John's,World Class,83.7,1994
+08/16,Lowell,MA,7,Dimension,Open Class,87.0,1994
+08/16,Lowell,MA,7,Saint John's,Open Class,81.4,1994
+08/15,Lowell,MA,8,East Coast Jazz,World Class,82.2,1994
+08/16,Lowell,MA,8,Northern Aurora,Open Class,85.9,1994
+08/15,Lowell,MA,8,Ventures,World Class,82.2,1994
+08/16,Lowell,MA,9,Spartans,Open Class,82.6,1994
+08/15,Lowell,MA,10,Contemporary Youth Ens.,World Class,81.5,1994
+08/16,Lowell,MA,10,Allegiance Elite,Open Class,82.2,1994
+08/15,Lowell,MA,11,Quad City Knights,World Class,80.6,1994
+08/16,Lowell,MA,11,Academie Musicale,Open Class,81.6,1994
+08/15,Lowell,MA,12,Golden Lancers,World Class,79.4,1994
+08/16,Lowell,MA,12,Les Etoiles,Open Class,77.1,1994
+08/15,Lowell,MA,13,Delta Brigade,World Class,78.5,1994
+08/16,Lowell,MA,13,Patriots,Open Class,75.7,1994
+08/15,Lowell,MA,14,Kips Bay Knight Club,World Class,77.8,1994
+08/16,Lowell,MA,14,Raiders,Open Class,74.4,1994
+08/15,Lowell,MA,15,Pride of Bristol,World Class,71.9,1994
+08/16,Lowell,MA,15,Jersey Surf,Open Class,74.2,1994
+08/15,Lowell,MA,16,Canadian Knights,World Class,70.9,1994
+08/16,Lowell,MA,16,Oakland Crusaders,Open Class,72.4,1994
+08/15,Lowell,MA,17,Buccaneers,World Class,70.7,1994
+08/16,Lowell,MA,17,Seattle Cascades,Open Class,71.8,1994
+08/15,Lowell,MA,18,Coachmen,World Class,70.5,1994
+08/16,Lowell,MA,18,Phantom Regiment Cadets,Open Class,68.0,1994
+08/15,Lowell,MA,19,Ridge Raiders,World Class,69.8,1994
+08/15,Lowell,MA,20,12th Command,World Class,68.5,1994
+08/15,Lowell,MA,21,Spectrum,World Class,65.1,1994
+08/15,Lowell,MA,22,Bandettes,World Class,62.0,1994
+08/15,Lowell,MA,23,Northmen,World Class,60.1,1994
+08/15,Lowell,MA,24,Dutch Boy Cadets,World Class,56.2,1994
+08/15,Lowell,MA,25,Racine Scouts,World Class,54.9,1994
+08/15,Lowell,MA,26,Guardsmen,World Class,54.0,1994
+08/15,Lowell,MA,27,Southern Knights,World Class,52.3,1994
+08/15,Lowell,MA,28,Edmonton Strutters,World Class,51.0,1994
+08/15,Lowell,MA,29,Royal Cadets,World Class,49.9,1994
+08/15,Lowell,MA,30,Emerald Knights,World Class,49.6,1994
+08/15,Lowell,MA,31,Ambassadors,World Class,47.7,1994
+08/15,Lowell,MA,32,Marion Cadets,World Class,44.7,1994
+08/15,Lowell,MA,33,Illusion,World Class,42.2,1994
+08/15,Lowell,MA,34,Phoenix,World Class,41.8,1994
+08/15,Lowell,MA,35,Quest,World Class,41.6,1994
+08/15,Lowell,MA,36,Firebirds,World Class,35.3,1994
+08/18,Foxboro,MA,1,Glassmen,World Class,84.8,1994
+08/19,Foxboro,MA,1,Blue Devils,Open Class,97.7,1994
+08/20,Foxboro,MA,1,Blue Devils,Open Class,98.4,1994
+08/18,Foxboro,MA,2,Bluecoats,World Class,84.1,1994
+08/19,Foxboro,MA,2,Cadets,Open Class,96.7,1994
+08/20,Foxboro,MA,2,Cadets,Open Class,97.7,1994
+08/18,Foxboro,MA,2,Magic of Orlando,World Class,84.1,1994
+08/19,Foxboro,MA,3,Phantom Regiment,Open Class,95.7,1994
+08/20,Foxboro,MA,3,Phantom Regiment,Open Class,96.2,1994
+08/18,Foxboro,MA,4,Boston Crusaders,World Class,83.0,1994
+08/19,Foxboro,MA,4,Cavaliers,Open Class,95.6,1994
+08/20,Foxboro,MA,4,Cavaliers,Open Class,95.7,1994
+08/18,Foxboro,MA,5,Colts,World Class,82.4,1994
+08/19,Foxboro,MA,5,Vanguard,Open Class,93.6,1994
+08/20,Foxboro,MA,5,Vanguard,Open Class,92.3,1994
+08/18,Foxboro,MA,6,Troopers,World Class,81.3,1994
+08/19,Foxboro,MA,6,Madison Scouts,Open Class,93.2,1994
+08/20,Foxboro,MA,6,Madison Scouts,Open Class,92.2,1994
+08/18,Foxboro,MA,7,Velvet Knights,World Class,79.2,1994
+08/19,Foxboro,MA,7,Blue Knights,Open Class,89.0,1994
+08/20,Foxboro,MA,7,Blue Knights,Open Class,88.4,1994
+08/18,Foxboro,MA,8,Freelancers,World Class,78.5,1994
+08/19,Foxboro,MA,8,Crossmen,Open Class,87.6,1994
+08/20,Foxboro,MA,7,Crossmen,Open Class,88.4,1994
+08/18,Foxboro,MA,9,Carolina Crown,World Class,75.3,1994
+08/19,Foxboro,MA,9,Glassmen,Open Class,84.6,1994
+08/20,Foxboro,MA,9,Bluecoats,Open Class,84.3,1994
+08/18,Foxboro,MA,10,Pioneer,World Class,69.6,1994
+08/19,Foxboro,MA,10,Bluecoats,Open Class,84.1,1994
+08/20,Foxboro,MA,10,Glassmen,Open Class,83.9,1994
+08/18,Foxboro,MA,11,Southwind,World Class,69.1,1994
+08/19,Foxboro,MA,11,Magic of Orlando,Open Class,84.0,1994
+08/20,Foxboro,MA,11,Magic of Orlando,Open Class,81.5,1994
+08/18,Foxboro,MA,12,Marauders,World Class,67.2,1994
+08/19,Foxboro,MA,12,Colts,Open Class,83.0,1994
+08/20,Foxboro,MA,12,Colts,Open Class,80.1,1994
+08/18,Foxboro,MA,13,Nite Express,World Class,65.7,1994
+08/19,Foxboro,MA,13,Boston Crusaders,Open Class,82.6,1994
+08/18,Foxboro,MA,14,L'Insolite,World Class,65.6,1994
+08/19,Foxboro,MA,14,Troopers,Open Class,81.6,1994
+08/18,Foxboro,MA,15,Americanos,World Class,64.1,1994
+08/19,Foxboro,MA,15,Velvet Knights,Open Class,80.2,1994
+08/18,Foxboro,MA,16,Blue Stars,World Class,61.8,1994
+08/19,Foxboro,MA,16,Freelancers,Open Class,79.0,1994
+08/19,Foxboro,MA,17,Carolina Crown,Open Class,75.1,1994
+08/20,Toronto,Ontario,1,Kiwanis Kavaliers,Open Class,92.9,1994
+08/27,Lachine,Quebec,1,L'Insolite,Open Class,95.7,1994
+08/27,Ansonia,CT,1,Hawthorne Caballeros,Open Class,90.3,1994
+08/27,Syracuse,NY,1,Empire Statesmen,Open Class,92.0,1994
+08/20,Toronto,Ontario,2,Cardinals,Open Class,89.5,1994
+08/27,Ansonia,CT,2,Bushwackers,Open Class,89.6,1994
+08/27,Syracuse,NY,2,Les Metropolitains,Open Class,87.1,1994
+08/20,Toronto,Ontario,3,Allegiance Elite,Open Class,85.5,1994
+08/27,Lachine,Quebec,1,Dimension,Open Class,92.1,1994
+08/27,Ansonia,CT,3,Connecticut Hurricanes,Open Class,86.7,1994
+08/27,Syracuse,NY,3,Rochester Crusaders,Open Class,85.0,1994
+08/20,Toronto,Ontario,4,Oakland Crusaders,Open Class,82.5,1994
+08/27,Lachine,Quebec,2,Les Etoiles,Open Class,85.8,1994
+08/27,Ansonia,CT,4,New York Skyliners,Open Class,85.7,1994
+08/27,Syracuse,NY,4,Syracuse Brigadiers,Open Class,80.8,1994
+08/27,Ansonia,CT,5,Westshoremen,Open Class,77.8,1994
+08/27,Syracuse,NY,5,Reading Buccaneers,Open Class,76.9,1994
+08/20,Toronto,Ontario,1,Saint John's,Open Class,84.2,1994
+08/27,Lachine,Quebec,1,Senateurs,Open Class,77.4,1994
+08/27,Ansonia,CT,6,Sunrisers,Open Class,68.7,1994
+08/20,Toronto,Ontario,2,Ridge Raiders,Open Class,81.9,1994
+08/27,Lachine,Quebec,2,Pers Clairs,Open Class,70.3,1994
+08/27,Ansonia,CT,7,Chieftains,Open Class,64.1,1994
+08/20,Toronto,Ontario,3,Ventures,Open Class,80.7,1994
+08/27,Lachine,Quebec,3,Les Stentors,Open Class,65.8,1994
+08/20,Toronto,Ontario,4,Canadian Knights,Open Class,72.7,1994
+08/27,Lachine,Quebec,4,3rd Regiment,Open Class,61.8,1994
+08/20,Toronto,Ontario,5,Dutch Boy Cadets,Open Class,59.6,1994
+08/27,Lachine,Quebec,1,L'Impact,Open Class,81.7,1994
+08/20,Toronto,Ontario,1,Empire Loyalists,Open Class,79.8,1994
+08/27,Lachine,Quebec,2,Multi-Vision,Open Class,81.4,1994
+08/20,Toronto,Ontario,2,Emerald Knights,Open Class,75.8,1994
+08/27,Lachine,Quebec,3,Decibels,Open Class,79.2,1994
+08/27,Lachine,Quebec,4,Les Chevaliers,Open Class,78.8,1994
+08/20,Toronto,Ontario,1,Blue Saints,Open Class,74.0,1994
+08/27,Lachine,Quebec,5,Voltigeurs,Open Class,75.0,1994
+08/27,Lachine,Quebec,6,Sentinelles,Open Class,74.5,1994
+08/27,Lachine,Quebec,7,Majestic,Open Class,70.6,1994
+09/03,Scranton,PA,1,Empire Statesmen,Open Class,96.0,1994
+09/04,Scranton,PA,1,Empire Statesmen,Open Class,96.0,1994
+09/03,Scranton,PA,2,Hawthorne Caballeros,Open Class,93.7,1994
+09/04,Scranton,PA,2,Hawthorne Caballeros,Open Class,95.4,1994
+09/03,Scranton,PA,3,Bushwackers,Open Class,92.9,1994
+09/04,Scranton,PA,3,Bushwackers,Open Class,94.2,1994
+09/03,Scranton,PA,4,Les Metropolitains,Open Class,89.6,1994
+09/04,Scranton,PA,4,Les Metropolitains,Open Class,92.7,1994
+09/03,Scranton,PA,5,Connecticut Hurricanes,Open Class,88.8,1994
+09/04,Scranton,PA,5,Connecticut Hurricanes,Open Class,89.9,1994
+09/03,Scranton,PA,6,New York Skyliners,Open Class,88.7,1994
+09/04,Scranton,PA,6,New York Skyliners,Open Class,89.7,1994
+09/03,Scranton,PA,7,Rochester Crusaders,Open Class,87.0,1994
+09/04,Scranton,PA,7,Rochester Crusaders,Open Class,88.8,1994
+09/03,Scranton,PA,8,Syracuse Brigadiers,Open Class,83.3,1994
+09/04,Scranton,PA,8,Minnesota Brass,Open Class,86.7,1994
+09/03,Scranton,PA,9,Minnesota Brass,Open Class,83.2,1994
+09/04,Scranton,PA,9,Syracuse Brigadiers,Open Class,83.7,1994
+09/03,Scranton,PA,10,Westshoremen,Open Class,81.4,1994
+09/04,Scranton,PA,10,Westshoremen,Open Class,81.5,1994
+09/03,Scranton,PA,11,Reading Buccaneers,Open Class,79.6,1994
+09/03,Scranton,PA,12,Sunrisers,Open Class,79.4,1994
+09/03,Scranton,PA,13,Chieftains,Open Class,74.3,1994
+09/03,Scranton,PA,14,Les Dynamiques,Open Class,66.5,1994

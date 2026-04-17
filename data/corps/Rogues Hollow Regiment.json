@@ -1,0 +1,31 @@
+{
+"location": [
+  {
+    "city": "Doylestown",
+    "state": "OH", 
+    "year": "2015-Present"
+  }
+],
+"formerNames": [],
+"championships": [
+  {"circuit": "DCA A Class", "year": 2021, "score": 77.950, "showTitle": "Hollow Soul"},
+  {"circuit": "DCA Open Class", "year": 2023, "score": 83.200, "showTitle": "Groovin'"}
+],
+"captionAwards": [],
+"website": "https://rhrdbc.org",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "2021", "className": "A Class"},
+  {"circuit": "DCA", "years": "2022-2023", "className": "Open Class"},
+  {"circuit": "DCI", "years": "2024-present", "className": "All-Age Open Class"}
+],
+"shows": [
+  {"year": 2015, "showTitle": "Back in the swing of things", "repertoire": "It Don't Mean a Thing If It Ain't Got That Swing by Duke Ellington / Cinnamon Girl by Neil Young", "placement": "Did not attend DCA", "score": null},
+  {"year": 2016, "showTitle": "Jazz from the hollow", "repertoire": "Hey Pachuco by Royal Crown Revue / Birdland by Josef Zawinul / Oh, Those Martian Blues", "placement": "Did not attend DCA", "score": null},
+  {"year": 2021, "showTitle": "Hollow Soul", "repertoire": "Ballad of the Eagle Claw / Our Truth / Down to the River to Pray (Traditional) / Devil Went Down to Georgia by Charlie Daniels", "placement": "1st Place", "score": 77.950},
+  {"year": 2022, "showTitle": "En-Trance", "repertoire": "Peace Frog by The Doors / Rooster by Alice in Chains / White Rabbit by Jefferson Airplane", "placement": "4th Place", "score": 81.475},
+  {"year": 2023, "showTitle": "Groovin'", "repertoire": "Got To Get You Into My Life by The Beatles / Uptown Funk by Mark Ronson / How Deep is Your Love? by Bee Gees", "placement": "1st Place", "score": 83.200},
+  {"year": 2024, "showTitle": "27", "repertoire": "Voodoo Child (Slight Return) by Jimi Hendrix / Back to Black by Amy Winehouse / Summertime by George Gershwin / Break On Through by The Doors / Riders on the Storm by The Doors", "placement": "3rd Place", "score": 82.625},
+  {"year": 2025, "showTitle": "ToXic", "repertoire": "Toxic by Britney Spears / Hurt by Nine Inch Nails / Head Like A Hole by Nine Inch Nails / Beautiful People by Marilyn Manson / Tainted Love by Soft Cell", "placement": "8th Place", "score": 85.925}
+]
+}

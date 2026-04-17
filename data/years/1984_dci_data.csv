@@ -1,0 +1,1388 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/02,Bloomfield,NJ,1,Garfield Cadets,World Class,73.2,1984
+06/02,Harvard,IL,1,Phantom Regiment,World Class,70.5,1984
+06/03,Middletown,NY,1,27th Lancers,World Class,60.0,1984
+06/03,Manitowoc,WI,1,Phantom Regiment,World Class,68.6,1984
+06/02,Bloomfield,NJ,2,27th Lancers,World Class,59.0,1984
+06/02,Harvard,IL,2,Cavaliers,World Class,60.3,1984
+06/03,Middletown,NY,2,Bridgemen,World Class,51.1,1984
+06/03,Manitowoc,WI,2,Madison Scouts,World Class,61.6,1984
+06/02,Bloomfield,NJ,3,Les Eclipses,World Class,47.8,1984
+06/02,Harvard,IL,3,Knights,World Class,44.9,1984
+06/03,Middletown,NY,3,Les Eclipses,World Class,43.8,1984
+06/03,Manitowoc,WI,3,Pioneer,World Class,38.6,1984
+06/02,Bloomfield,NJ,4,Diplomats,World Class,43.1,1984
+06/02,Harvard,IL,4,Pioneer,World Class,35.2,1984
+06/03,Middletown,NY,4,Diplomats,World Class,43.5,1984
+06/03,Manitowoc,WI,4,Rivermen,World Class,16.2,1984
+06/02,Bloomfield,NJ,5,Valley Aires,World Class,34.8,1984
+06/02,Harvard,IL,5,Spirit of '76,World Class,26.2,1984
+06/03,Middletown,NY,5,Valley Aires,World Class,31.5,1984
+06/03,Manitowoc,WI,5,Marquis,World Class,11.3,1984
+06/09,Bridgeport,CT,1,Hawthorne Caballeros,World Class,65.55,1984
+06/09,Lynn,MA,1,Garfield Cadets,World Class,79.4,1984
+06/09,Appleton,WI,1,Madison Scouts,World Class,68.7,1984
+06/09,Des Plaines,IL,1,Phantom Regiment,World Class,78.2,1984
+06/09,Bridgeport,CT,2,Reading Buccaneers,World Class,58.45,1984
+06/09,Lynn,MA,2,27th Lancers,World Class,64.5,1984
+06/09,Appleton,WI,2,Pioneer,World Class,44.3,1984
+06/09,Des Plaines,IL,2,Knights,World Class,59.3,1984
+06/09,Bridgeport,CT,3,Connecticut Hurricanes,World Class,56.65,1984
+06/09,Lynn,MA,3,Bridgemen,World Class,59.8,1984
+06/09,Appleton,WI,3,Northmen-WI,World Class,22.3,1984
+06/09,Des Plaines,IL,3,Emerald Knights,World Class,44.1,1984
+06/09,Bridgeport,CT,4,New York Skyliners,World Class,54.8,1984
+06/09,Lynn,MA,4,Diplomats,World Class,45.2,1984
+06/09,Appleton,WI,4,Sundowners,World Class,16.3,1984
+06/09,Des Plaines,IL,4,Royal Grenadiers,World Class,38.5,1984
+06/09,Bridgeport,CT,5,Sunrisers,World Class,50.35,1984
+06/09,Lynn,MA,5,Valley Aires,World Class,33.7,1984
+06/09,Appleton,WI,5,Marquis,World Class,14.7,1984
+06/09,Des Plaines,IL,5,Spirit of '76,World Class,36.1,1984
+06/09,Appleton,WI,6,CapitolAires,World Class,14.3,1984
+06/10,Madison,WI,1,Phantom Regiment,World Class,75.5,1984
+06/15,Toledo,OH,1,Phantom Regiment,World Class,80.3,1984
+06/16,Hershey,PA,1,Hawthorne Caballeros,World Class,74.3,1984
+06/16,Saratoga Springs,NY,1,Diplomats,World Class,56.6,1984
+06/10,Madison,WI,2,Madison Scouts,World Class,69.3,1984
+06/15,Toledo,OH,2,Cavaliers,World Class,71.8,1984
+06/16,Hershey,PA,2,Reading Buccaneers,World Class,67.2,1984
+06/16,Saratoga Springs,NY,2,Northmen-NY,World Class,48.4,1984
+06/10,Madison,WI,3,Cavaliers,World Class,68.0,1984
+06/15,Toledo,OH,3,Pioneer,World Class,41.8,1984
+06/16,Hershey,PA,3,New York Skyliners,World Class,62.2,1984
+06/16,Saratoga Springs,NY,3,Les Crescendos,World Class,45.6,1984
+06/10,Madison,WI,4,Emerald Knights,World Class,37.5,1984
+06/15,Toledo,OH,4,Royal Grenadiers,World Class,24.3,1984
+06/16,Hershey,PA,4,Bushwackers,World Class,54.65,1984
+06/16,Saratoga Springs,NY,4,Valley Aires,World Class,37.2,1984
+06/10,Madison,WI,5,Royal Grenadiers,World Class,34.1,1984
+06/15,Toledo,OH,5,Caballaros,World Class,15.0,1984
+06/16,Hershey,PA,5,Archer Epler Musketeers,World Class,46.9,1984
+06/16,Saratoga Springs,NY,5,Horizon,World Class,27.4,1984
+06/15,Toledo,OH,6,Saginaires,World Class,14.1,1984
+06/16,Saginaw,MI,1,Phantom Regiment,World Class,80.2,1984
+06/16,Concord,CA,1,Vanguard,World Class,78.7,1984
+06/17,Geneseo,IL,1,Madison Scouts,World Class,73.6,1984
+06/17,Grand Rapids,MI,1,Phantom Regiment,World Class,81.1,1984
+06/16,Saginaw,MI,2,Cavaliers,World Class,69.0,1984
+06/16,Concord,CA,2,Blue Devils,World Class,77.6,1984
+06/17,Geneseo,IL,2,Knights,World Class,51.2,1984
+06/17,Grand Rapids,MI,2,Cavaliers,World Class,73.4,1984
+06/16,Saginaw,MI,3,Pioneer,World Class,40.3,1984
+06/16,Concord,CA,3,California Dons,World Class,42.0,1984
+06/17,Geneseo,IL,3,Colts,World Class,49.4,1984
+06/17,Grand Rapids,MI,3,Pioneer,World Class,41.2,1984
+06/16,Saginaw,MI,4,Bandettes,World Class,33.3,1984
+06/16,Concord,CA,4,Blue Devils B,World Class,35.3,1984
+06/17,Geneseo,IL,4,Emerald Knights,World Class,43.0,1984
+06/17,Grand Rapids,MI,4,Glassmen,World Class,32.1,1984
+06/16,Concord,CA,5,Conquistadors,World Class,22.3,1984
+06/17,Geneseo,IL,5,Illiana Lancers,World Class,31.7,1984
+06/17,Grand Rapids,MI,5,Royal Grenadiers,World Class,26.0,1984
+06/16,Concord,CA,6,Mandarins,World Class,18.2,1984
+06/17,Geneseo,IL,6,CapitolAires,World Class,16.6,1984
+06/17,Grand Rapids,MI,6,Saginaires,World Class,17.0,1984
+06/19,Montgomery,AL,1,Spirit of Atlanta,World Class,72.2,1984
+06/20,Itta Bena,MS,1,Suncoast Sound,World Class,75.2,1984
+06/22,Cape Girardeau,MO,1,Suncoast Sound,World Class,73.7,1984
+06/22,Riverside,CA,1,Vanguard,World Class,81.6,1984
+06/19,Montgomery,AL,2,Suncoast Sound,World Class,70.2,1984
+06/20,Itta Bena,MS,2,Sky Ryders,World Class,60.5,1984
+06/22,Cape Girardeau,MO,2,Sky Ryders,World Class,58.6,1984
+06/22,Riverside,CA,2,Blue Devils,World Class,80.8,1984
+06/19,Montgomery,AL,3,Florida Wave,World Class,49.5,1984
+06/20,Itta Bena,MS,3,Florida Wave,World Class,52.6,1984
+06/22,Cape Girardeau,MO,3,Florida Wave,World Class,51.3,1984
+06/22,Riverside,CA,3,Freelancers,World Class,68.0,1984
+06/19,Montgomery,AL,4,Pride of Cincinnati,World Class,42.6,1984
+06/20,Itta Bena,MS,4,Pride of Cincinnati,World Class,44.8,1984
+06/22,Cape Girardeau,MO,4,Pride of Cincinnati,World Class,45.0,1984
+06/22,Riverside,CA,4,Velvet Knights,World Class,64.8,1984
+06/19,Montgomery,AL,5,Black Knights,World Class,39.1,1984
+06/20,Itta Bena,MS,5,Black Knights,World Class,42.5,1984
+06/22,Cape Girardeau,MO,5,Black Knights,World Class,40.3,1984
+06/22,Riverside,CA,5,Valley Fever,World Class,58.9,1984
+06/19,Montgomery,AL,6,Nighthawks,World Class,35.7,1984
+06/20,Itta Bena,MS,6,Nighthawks,World Class,37.0,1984
+06/22,Cape Girardeau,MO,6,Nighthawks,World Class,39.2,1984
+06/22,Riverside,CA,6,Blue Knights,World Class,53.0,1984
+06/22,Riverside,CA,7,Sunset Regiment,World Class,42.3,1984
+06/22,Riverside,CA,8,California Dons,World Class,41.9,1984
+06/22,Riverside,CA,9,Blue Devils B,World Class,29.3,1984
+06/22,Riverside,CA,10,Anaheim Kingsmen,World Class,28.7,1984
+06/22,Riverside,CA,11,Conquistadors,World Class,23.0,1984
+06/23,Providence,RI,1,Hawthorne Caballeros,World Class,73.05,1984
+06/23,Berea,OH,1,Garfield Cadets,World Class,84.3,1984
+06/23,South Milwaukee,WI,1,Cavaliers,World Class,76.5,1984
+06/23,Los Angeles,CA,1,Vanguard,World Class,82.0,1984
+06/23,Providence,RI,2,Bushwackers,World Class,61.05,1984
+06/23,Berea,OH,2,Dutch Boy,World Class,51.2,1984
+06/23,South Milwaukee,WI,2,Knights,World Class,61.2,1984
+06/23,Los Angeles,CA,2,Blue Devils,World Class,81.1,1984
+06/23,Providence,RI,3,Connecticut Hurricanes,World Class,60.85,1984
+06/23,Berea,OH,3,Glassmen,World Class,46.6,1984
+06/23,South Milwaukee,WI,3,Emerald Knights,World Class,54.1,1984
+06/23,Los Angeles,CA,3,Freelancers,World Class,68.0,1984
+06/23,Providence,RI,4,Sunrisers,World Class,59.95,1984
+06/23,Berea,OH,4,Bluecoats,World Class,44.5,1984
+06/23,South Milwaukee,WI,4,Spirit of '76,World Class,38.8,1984
+06/23,Los Angeles,CA,4,Velvet Knights,World Class,59.4,1984
+06/23,Berea,OH,5,Marion Cadets,World Class,27.3,1984
+06/23,Los Angeles,CA,5,Blue Knights,World Class,53.9,1984
+06/23,Los Angeles,CA,6,Valley Fever,World Class,52.1,1984
+06/23,Los Angeles,CA,7,Sunset Regiment,World Class,47.1,1984
+06/23,Los Angeles,CA,8,California Dons,World Class,45.9,1984
+06/23,Los Angeles,CA,9,Anaheim Kingsmen,World Class,25.9,1984
+06/23,Saint Charles,MS,1,Suncoast Sound,World Class,75.8,1984
+06/23,Peoria,IL,1,Royal Grenadiers,World Class,53.3,1984
+06/24,Marion,OH,1,Dutch Boy,World Class,51.3,1984
+06/24,Normal,IL,1,Phantom Regiment,World Class,82.3,1984
+06/23,Saint Charles,MS,2,Spirit of Atlanta,World Class,75.3,1984
+06/23,Peoria,IL,2,Illiana Lancers,World Class,48.6,1984
+06/24,Marion,OH,2,Bandettes,World Class,42.5,1984
+06/24,Normal,IL,2,Spirit of Atlanta,World Class,77.7,1984
+06/23,Saint Charles,MS,3,Florida Wave,World Class,52.8,1984
+06/24,Marion,OH,3,Bluecoats,World Class,40.0,1984
+06/24,Normal,IL,3,Colts,World Class,51.0,1984
+06/23,Saint Charles,MS,4,Pride of Cincinnati,World Class,45.5,1984
+06/24,Marion,OH,4,Caballaros,World Class,27.6,1984
+06/24,Normal,IL,4,Glassmen,World Class,46.1,1984
+06/23,Saint Charles,MS,5,Nighthawks,World Class,38.5,1984
+06/24,Marion,OH,5,Saginaires,World Class,26.6,1984
+06/24,Normal,IL,5,Pride of Cincinnati,World Class,43.4,1984
+06/23,Saint Charles,MS,6,Black Knights,World Class,37.8,1984
+06/24,Normal,IL,6,Royal Grenadiers,World Class,33.5,1984
+06/24,Naperville,IL,1,Garfield Cadets,World Class,81.9,1984
+06/25,Fountain Valley,CA,1,Vanguard,World Class,84.4,1984
+06/25,Lexington,KY,1,Phantom Regiment,World Class,80.2,1984
+06/26,Huntington,WV,1,Garfield Cadets,World Class,83.6,1984
+06/24,Naperville,IL,2,Madison Scouts,World Class,74.2,1984
+06/25,Fountain Valley,CA,2,Blue Devils,World Class,83.9,1984
+06/25,Lexington,KY,2,Spirit of Atlanta,World Class,74.1,1984
+06/26,Huntington,WV,2,Suncoast Sound,World Class,78.9,1984
+06/24,Naperville,IL,3,Cavaliers,World Class,70.9,1984
+06/25,Fountain Valley,CA,3,Freelancers,World Class,69.0,1984
+06/25,Lexington,KY,3,Madison Scouts,World Class,73.8,1984
+06/26,Huntington,WV,3,Madison Scouts,World Class,78.4,1984
+06/24,Naperville,IL,4,27th Lancers,World Class,61.4,1984
+06/25,Fountain Valley,CA,4,Velvet Knights,World Class,59.2,1984
+06/25,Lexington,KY,4,27th Lancers,World Class,67.9,1984
+06/26,Huntington,WV,4,27th Lancers,World Class,65.0,1984
+06/24,Naperville,IL,5,Sky Ryders,World Class,55.0,1984
+06/25,Fountain Valley,CA,5,Blue Knights,World Class,51.1,1984
+06/25,Lexington,KY,5,Pride of Cincinnati,World Class,47.4,1984
+06/26,Huntington,WV,5,Sky Ryders,World Class,58.0,1984
+06/24,Naperville,IL,6,Knights,World Class,50.6,1984
+06/25,Fountain Valley,CA,6,Valley Fever,World Class,50.1,1984
+06/25,Lexington,KY,6,Colts,World Class,44.7,1984
+06/26,Huntington,WV,6,Crossmen,World Class,54.2,1984
+06/25,Fountain Valley,CA,7,Sunset Regiment,World Class,45.3,1984
+06/25,Lexington,KY,7,Glassmen,World Class,38.9,1984
+06/25,Fountain Valley,CA,8,Anaheim Kingsmen,World Class,28.6,1984
+06/26,Fresno,CA,1,Blue Devils,World Class,86.6,1984
+06/27,Columbus,OH,1,Phantom Regiment,World Class,80.5,1984
+06/28,Canton,OH,1,Garfield Cadets,World Class,84.8,1984
+06/29,Bakersfield,CA,1,Blue Devils,World Class,87.7,1984
+06/26,Fresno,CA,2,Troopers,World Class,58.2,1984
+06/27,Columbus,OH,2,Spirit of Atlanta,World Class,78.2,1984
+06/28,Canton,OH,2,Spirit of Atlanta,World Class,80.5,1984
+06/29,Bakersfield,CA,2,Freelancers,World Class,73.2,1984
+06/26,Fresno,CA,3,Valley Fever,World Class,53.0,1984
+06/27,Columbus,OH,3,Madison Scouts,World Class,77.9,1984
+06/28,Canton,OH,3,Suncoast Sound,World Class,79.1,1984
+06/29,Bakersfield,CA,3,Velvet Knights,World Class,66.8,1984
+06/26,Fresno,CA,4,Blue Knights,World Class,52.7,1984
+06/27,Columbus,OH,4,27th Lancers,World Class,65.6,1984
+06/28,Canton,OH,4,27th Lancers,World Class,67.6,1984
+06/29,Bakersfield,CA,4,Troopers,World Class,61.2,1984
+06/26,Fresno,CA,5,Sunset Regiment,World Class,48.4,1984
+06/27,Columbus,OH,5,Sky Ryders,World Class,57.9,1984
+06/28,Canton,OH,5,Crossmen,World Class,62.2,1984
+06/29,Bakersfield,CA,5,Blue Knights,World Class,52.7,1984
+06/26,Fresno,CA,6,California Dons,World Class,44.7,1984
+06/27,Columbus,OH,6,Crossmen,World Class,55.3,1984
+06/28,Canton,OH,6,Colts,World Class,46.1,1984
+06/29,Bakersfield,CA,6,California Dons,World Class,49.5,1984
+06/26,Fresno,CA,7,Blue Devils B,World Class,29.2,1984
+06/28,Canton,OH,7,Bluecoats,World Class,38.8,1984
+06/29,Bakersfield,CA,7,Sunset Regiment,World Class,46.5,1984
+06/29,Bakersfield,CA,8,Argonauts,World Class,38.1,1984
+06/29,Bakersfield,CA,9,Anaheim Kingsmen,World Class,33.3,1984
+06/29,Altoona,PA,1,Suncoast Sound,World Class,82.0,1984
+06/29,Ypsilanti,MI,1,Garfield Cadets,World Class,84.8,1984
+06/30,Superior,WI,1,Emerald Knights,World Class,69.8,1984
+06/30,Hudson,WI,1,Pioneer,World Class,50.1,1984
+06/29,Altoona,PA,2,Madison Scouts,World Class,81.2,1984
+06/29,Ypsilanti,MI,2,Phantom Regiment,World Class,83.4,1984
+06/30,Superior,WI,2,Madison Junior Scouts,World Class,56.0,1984
+06/30,Hudson,WI,2,Northmen-WI,World Class,35.0,1984
+06/29,Altoona,PA,3,Knights,World Class,58.3,1984
+06/29,Ypsilanti,MI,3,Spirit of Atlanta,World Class,77.8,1984
+06/30,Superior,WI,3,CapitolAires,World Class,52.9,1984
+06/30,Hudson,WI,3,Rivermen,World Class,33.0,1984
+06/29,Altoona,PA,4,Pride of Cincinnati,World Class,50.2,1984
+06/29,Ypsilanti,MI,4,Cavaliers,World Class,72.6,1984
+06/30,Superior,WI,4,Marquis,World Class,50.9,1984
+06/29,Altoona,PA,5,Colts,World Class,48.2,1984
+06/29,Ypsilanti,MI,5,27th Lancers,World Class,69.2,1984
+06/30,Superior,WI,5,Sundowners,World Class,49.1,1984
+06/29,Altoona,PA,6,Avant Garde,World Class,43.0,1984
+06/29,Ypsilanti,MI,6,Crossmen,World Class,67.1,1984
+06/29,Ypsilanti,MI,7,Bridgemen,World Class,62.9,1984
+06/29,Ypsilanti,MI,8,Sky Ryders,World Class,62.8,1984
+06/29,Ypsilanti,MI,9,Glassmen,World Class,41.7,1984
+06/29,Ypsilanti,MI,10,Saginaires,World Class,28.3,1984
+06/30,Hamilton,Ontario,1,Phantom Regiment,World Class,85.6,1984
+06/30,Hamilton,Ontario,1,Phantom Regiment,World Class,86.3,1984
+06/30,Stockton,CA,1,Velvet Knights,World Class,64.9,1984
+06/30,Stockton,CA,1,Blue Devils,World Class,87.6,1984
+06/30,Hamilton,Ontario,2,Garfield Cadets,World Class,85.2,1984
+06/30,Hamilton,Ontario,2,Garfield Cadets,World Class,85.3,1984
+06/30,Stockton,CA,2,Troopers,World Class,62.7,1984
+06/30,Stockton,CA,2,Vanguard,World Class,86.6,1984
+06/30,Hamilton,Ontario,3,Suncoast Sound,World Class,81.7,1984
+06/30,Hamilton,Ontario,3,Suncoast Sound,World Class,79.4,1984
+06/30,Stockton,CA,3,Blue Knights,World Class,56.8,1984
+06/30,Stockton,CA,3,Freelancers,World Class,73.2,1984
+06/30,Hamilton,Ontario,4,Madison Scouts,World Class,79.9,1984
+06/30,Hamilton,Ontario,3,Madison Scouts,World Class,79.4,1984
+06/30,Stockton,CA,4,Valley Fever,World Class,54.7,1984
+06/30,Stockton,CA,4,Velvet Knights,World Class,67.9,1984
+06/30,Hamilton,Ontario,5,Spirit of Atlanta,World Class,75.0,1984
+06/30,Hamilton,Ontario,5,Spirit of Atlanta,World Class,77.3,1984
+06/30,Stockton,CA,5,California Dons,World Class,49.6,1984
+06/30,Stockton,CA,5,Troopers,World Class,64.5,1984
+06/30,Hamilton,Ontario,6,Cavaliers,World Class,74.6,1984
+06/30,Hamilton,Ontario,6,Cavaliers,World Class,74.2,1984
+06/30,Stockton,CA,6,Argonauts,World Class,40.9,1984
+06/30,Stockton,CA,6,Blue Knights,World Class,56.5,1984
+06/30,Hamilton,Ontario,7,27th Lancers,World Class,70.3,1984
+06/30,Hamilton,Ontario,7,27th Lancers,World Class,68.7,1984
+06/30,Stockton,CA,7,Anaheim Kingsmen,World Class,34.6,1984
+06/30,Stockton,CA,7,Valley Fever,World Class,53.0,1984
+06/30,Hamilton,Ontario,8,Crossmen,World Class,66.9,1984
+06/30,Hamilton,Ontario,8,Crossmen,World Class,67.5,1984
+06/30,Stockton,CA,8,California Dons,World Class,50.1,1984
+06/30,Hamilton,Ontario,9,Bridgemen,World Class,65.3,1984
+06/30,Hamilton,Ontario,9,Sky Ryders,World Class,62.7,1984
+06/30,Hamilton,Ontario,10,Sky Ryders,World Class,64.8,1984
+06/30,Hamilton,Ontario,10,Bridgemen,World Class,62.4,1984
+06/30,Hamilton,Ontario,11,Les Eclipses,World Class,60.0,1984
+06/30,Hamilton,Ontario,12,Knights,World Class,59.9,1984
+06/30,Hamilton,Ontario,13,Boston Crusaders,World Class,57.0,1984
+06/30,Hamilton,Ontario,14,Colts,World Class,54.4,1984
+06/30,Hamilton,Ontario,15,Pride of Cincinnati,World Class,52.7,1984
+06/30,Hamilton,Ontario,16,Dutch Boy,World Class,50.0,1984
+06/30,Hamilton,Ontario,17,Canadian Knights,World Class,47.6,1984
+06/30,Hamilton,Ontario,18,Les Crescendos,World Class,45.7,1984
+06/30,Hamilton,Ontario,19,Long Island Kingsmen,World Class,30.4,1984
+06/30,Hamilton,Ontario,20,Eagles of Central NY,World Class,28.6,1984
+06/30,Hamilton,Ontario,21,Royalists,World Class,28.4,1984
+06/30,Hamilton,Ontario,22,Kiwanis Kavaliers,World Class,27.4,1984
+06/30,Hamilton,Ontario,23,Saint John's,World Class,23.5,1984
+07/01,Rome,NY,1,Garfield Cadets,World Class,85.6,1984
+07/01,Dixon,IL,1,Phantom Regiment,World Class,82.4,1984
+07/01,Salinas,CA,1,Vanguard,World Class,87.1,1984
+07/01,East Troy,WI,1,Pioneer,World Class,54.1,1984
+07/01,Rome,NY,2,Suncoast Sound,World Class,80.3,1984
+07/01,Dixon,IL,2,Colts,World Class,58.8,1984
+07/01,Salinas,CA,2,Velvet Knights,World Class,69.4,1984
+07/01,East Troy,WI,2,Emerald Knights,World Class,52.0,1984
+07/01,Rome,NY,3,Sky Ryders,World Class,68.4,1984
+07/01,Dixon,IL,3,Royal Grenadiers,World Class,46.2,1984
+07/01,Salinas,CA,3,Troopers,World Class,66.1,1984
+07/01,East Troy,WI,3,Northmen-WI,World Class,34.1,1984
+07/01,Rome,NY,4,Boston Crusaders,World Class,60.3,1984
+07/01,Dixon,IL,4,Railmen,World Class,38.0,1984
+07/01,Salinas,CA,4,Blue Knights,World Class,58.9,1984
+07/01,East Troy,WI,4,Marquis,World Class,29.5,1984
+07/01,Rome,NY,5,Avant Garde,World Class,52.9,1984
+07/01,Dixon,IL,5,Rivermen,World Class,33.9,1984
+07/01,Salinas,CA,5,Argonauts,World Class,43.4,1984
+07/01,East Troy,WI,5,CapitolAires,World Class,22.7,1984
+07/01,Rome,NY,6,Pride of Cincinnati,World Class,46.7,1984
+07/01,Salinas,CA,6,Anaheim Kingsmen,World Class,35.3,1984
+07/02,Montreal,Quebec,1,Madison Scouts,World Class,79.5,1984
+07/02,Fort Edward,NY,1,Garfield Cadets,World Class,88.4,1984
+07/03,Wheaton,IL,1,Royal Grenadiers,World Class,51.4,1984
+07/03,Racine,WI,1,Colts,World Class,59.2,1984
+07/02,Montreal,Quebec,2,Spirit of Atlanta,World Class,76.3,1984
+07/02,Fort Edward,NY,2,Sky Ryders,World Class,69.3,1984
+07/03,Wheaton,IL,2,Phantom Regiment Cadets,World Class,50.8,1984
+07/03,Racine,WI,2,Emerald Knights,World Class,56.6,1984
+07/02,Montreal,Quebec,3,Cavaliers,World Class,73.7,1984
+07/02,Fort Edward,NY,3,Knights,World Class,60.0,1984
+07/03,Wheaton,IL,3,Bluecoats,World Class,49.5,1984
+07/03,Racine,WI,3,Pioneer,World Class,53.1,1984
+07/02,Montreal,Quebec,4,27th Lancers,World Class,70.7,1984
+07/02,Fort Edward,NY,4,Boston Crusaders,World Class,57.1,1984
+07/03,Wheaton,IL,4,Saginaires,World Class,47.3,1984
+07/03,Racine,WI,4,Northmen-WI,World Class,33.2,1984
+07/02,Montreal,Quebec,5,Crossmen,World Class,68.4,1984
+07/02,Fort Edward,NY,5,Avant Garde,World Class,54.0,1984
+07/03,Wheaton,IL,5,Railmen,World Class,40.1,1984
+07/03,Racine,WI,5,Marquis,World Class,24.9,1984
+07/02,Montreal,Quebec,6,Bridgemen,World Class,67.8,1984
+07/02,Fort Edward,NY,6,Connexion Quebec,World Class,38.2,1984
+07/03,Wheaton,IL,6,Illiana Lancers,World Class,37.3,1984
+07/03,Racine,WI,6,Sundowners,World Class,17.5,1984
+07/02,Montreal,Quebec,7,Les Eclipses,World Class,61.3,1984
+07/02,Fort Edward,NY,7,Ventures,World Class,35.1,1984
+07/03,Wheaton,IL,7,Rivermen,World Class,30.3,1984
+07/02,Fort Edward,NY,8,Long Island Grenadiers,World Class,32.0,1984
+07/03,Lynn,MA,1,Garfield Cadets,World Class,84.8,1984
+07/03,Ogdensburg,NY,1,Spirit of Atlanta,World Class,78.5,1984
+07/04,New Berlin,WI,1,Colts,World Class,61.2,1984
+07/04,Champaign,IL,1,Bluecoats,World Class,52.4,1984
+07/03,Lynn,MA,2,Madison Scouts,World Class,78.2,1984
+07/03,Ogdensburg,NY,2,Crossmen,World Class,72.9,1984
+07/04,New Berlin,WI,2,Pioneer,World Class,55.7,1984
+07/04,Champaign,IL,2,Railmen,World Class,45.8,1984
+07/03,Lynn,MA,3,Suncoast Sound,World Class,72.9,1984
+07/03,Ogdensburg,NY,3,Les Eclipses,World Class,59.1,1984
+07/04,New Berlin,WI,3,Emerald Knights,World Class,55.4,1984
+07/04,Champaign,IL,3,Saginaires,World Class,45.5,1984
+07/03,Lynn,MA,4,Cavaliers,World Class,71.7,1984
+07/03,Ogdensburg,NY,4,Knights,World Class,57.7,1984
+07/04,New Berlin,WI,4,Royal Grenadiers,World Class,38.2,1984
+07/04,Champaign,IL,4,Madison Junior Scouts,World Class,38.7,1984
+07/03,Lynn,MA,5,27th Lancers,World Class,69.7,1984
+07/03,Ogdensburg,NY,5,Dutch Boy,World Class,45.4,1984
+07/04,New Berlin,WI,5,Spirit of '76,World Class,37.2,1984
+07/03,Lynn,MA,6,Bridgemen,World Class,62.2,1984
+07/03,Ogdensburg,NY,6,Glassmen,World Class,42.0,1984
+07/04,New Berlin,WI,6,Rivermen,World Class,24.7,1984
+07/04,Pittsfield,MA,1,Suncoast Sound,World Class,80.0,1984
+07/05,Boston,MA,1,Garfield Cadets,World Class,89.1,1984
+07/06,Concord,CA,1,Blue Devils,World Class,87.6,1984
+07/06,Green Bay,WI,1,Phantom Regiment,World Class,85.4,1984
+07/04,Pittsfield,MA,2,Spirit of Atlanta,World Class,79.9,1984
+07/05,Boston,MA,2,Madison Scouts,World Class,81.8,1984
+07/06,Concord,CA,2,Vanguard,World Class,86.4,1984
+07/06,Green Bay,WI,2,Colts,World Class,63.5,1984
+07/04,Pittsfield,MA,3,Crossmen,World Class,69.8,1984
+07/05,Boston,MA,3,Suncoast Sound,World Class,80.3,1984
+07/06,Concord,CA,3,Freelancers,World Class,74.6,1984
+07/06,Green Bay,WI,3,Emerald Knights,World Class,53.9,1984
+07/04,Pittsfield,MA,4,Knights,World Class,61.1,1984
+07/05,Boston,MA,4,Cavaliers,World Class,76.4,1984
+07/06,Concord,CA,4,Troopers,World Class,66.9,1984
+07/06,Green Bay,WI,4,Saginaires,World Class,46.7,1984
+07/04,Pittsfield,MA,5,Les Eclipses,World Class,56.2,1984
+07/05,Boston,MA,5,27th Lancers,World Class,73.3,1984
+07/06,Concord,CA,5,Valley Fever,World Class,57.7,1984
+07/06,Green Bay,WI,5,Royal Grenadiers,World Class,45.2,1984
+07/04,Pittsfield,MA,6,Avant Garde,World Class,53.8,1984
+07/05,Boston,MA,6,Crossmen,World Class,69.1,1984
+07/06,Concord,CA,6,California Dons,World Class,47.8,1984
+07/06,Green Bay,WI,6,Sundowners,World Class,16.5,1984
+07/04,Pittsfield,MA,7,Pride of Cincinnati,World Class,51.0,1984
+07/05,Boston,MA,7,Sky Ryders,World Class,64.6,1984
+07/06,Concord,CA,7,Anaheim Kingsmen,World Class,38.3,1984
+07/04,Pittsfield,MA,8,Glassmen,World Class,48.0,1984
+07/05,Boston,MA,8,Bridgemen,World Class,63.7,1984
+07/04,Pittsfield,MA,9,Long Island Grenadiers,World Class,41.9,1984
+07/05,Boston,MA,9,Knights,World Class,61.4,1984
+07/06,Bayonne,NJ,1,Garfield Cadets,World Class,87.5,1984
+07/07,Hempstead,NY,1,Hawthorne Caballeros,World Class,81.1,1984
+07/07,Allentown,PA,1,Garfield Cadets,World Class,88.6,1984
+07/07,Allentown,PA,1,Garfield Cadets,World Class,88.0,1984
+07/06,Bayonne,NJ,2,Suncoast Sound,World Class,80.6,1984
+07/07,Hempstead,NY,2,Bushwackers,World Class,74.7,1984
+07/07,Allentown,PA,2,Madison Scouts,World Class,84.3,1984
+07/07,Allentown,PA,2,Madison Scouts,World Class,83.9,1984
+07/06,Bayonne,NJ,3,Spirit of Atlanta,World Class,80.4,1984
+07/07,Hempstead,NY,3,New York Skyliners,World Class,72.35,1984
+07/07,Allentown,PA,3,Spirit of Atlanta,World Class,83.9,1984
+07/07,Allentown,PA,3,Spirit of Atlanta,World Class,83.3,1984
+07/06,Bayonne,NJ,4,27th Lancers,World Class,74.2,1984
+07/07,Hempstead,NY,4,Connecticut Hurricanes,World Class,69.6,1984
+07/07,Allentown,PA,4,Suncoast Sound,World Class,81.2,1984
+07/07,Allentown,PA,4,Suncoast Sound,World Class,82.0,1984
+07/06,Bayonne,NJ,5,Bridgemen,World Class,69.1,1984
+07/07,Hempstead,NY,5,Sunrisers,World Class,68.45,1984
+07/07,Allentown,PA,5,Cavaliers,World Class,78.0,1984
+07/07,Allentown,PA,5,Cavaliers,World Class,78.5,1984
+07/06,Bayonne,NJ,6,Sky Ryders,World Class,63.5,1984
+07/07,Allentown,PA,6,27th Lancers,World Class,75.7,1984
+07/07,Allentown,PA,6,27th Lancers,World Class,74.8,1984
+07/07,Allentown,PA,7,Crossmen,World Class,74.1,1984
+07/07,Allentown,PA,7,Crossmen,World Class,73.8,1984
+07/07,Allentown,PA,8,Bridgemen,World Class,69.7,1984
+07/07,Allentown,PA,8,Bridgemen,World Class,70.6,1984
+07/07,Allentown,PA,9,Sky Ryders,World Class,68.1,1984
+07/07,Allentown,PA,9,Sky Ryders,World Class,65.5,1984
+07/07,Allentown,PA,10,Les Eclipses,World Class,65.9,1984
+07/07,Allentown,PA,10,Les Eclipses,World Class,61.4,1984
+07/07,Allentown,PA,10,Knights,World Class,65.9,1984
+07/07,Allentown,PA,12,Boston Crusaders,World Class,60.6,1984
+07/07,Allentown,PA,13,Avant Garde,World Class,57.4,1984
+07/07,Allentown,PA,14,Dutch Boy,World Class,53.1,1984
+07/07,Allentown,PA,15,Pride of Cincinnati,World Class,49.4,1984
+07/07,Allentown,PA,16,Glassmen,World Class,46.5,1984
+07/07,Allentown,PA,17,Long Island Kingsmen,World Class,33.5,1984
+07/07,Tacoma,WA,1,Spartans-WA,World Class,57.5,1984
+07/07,Santa Clara,CA,1,Vanguard,World Class,88.4,1984
+07/08,Jamestown,NY,1,Garfield Cadets,World Class,91.1,1984
+07/08,Joliet,IL,1,Phantom Regiment,World Class,89.1,1984
+07/07,Tacoma,WA,2,Marauders,World Class,54.9,1984
+07/07,Santa Clara,CA,2,Blue Devils,World Class,88.1,1984
+07/08,Jamestown,NY,2,Cavaliers,World Class,80.3,1984
+07/08,Joliet,IL,2,Colts,World Class,61.6,1984
+07/07,Tacoma,WA,3,Argonne Rebels,World Class,43.9,1984
+07/07,Santa Clara,CA,3,Freelancers,World Class,76.7,1984
+07/08,Jamestown,NY,3,Boston Crusaders,World Class,59.4,1984
+07/08,Joliet,IL,3,Emerald Knights,World Class,56.2,1984
+07/07,Tacoma,WA,4,Seattle Cascades,World Class,39.6,1984
+07/07,Santa Clara,CA,4,Velvet Knights,World Class,70.5,1984
+07/08,Jamestown,NY,4,Avant Garde,World Class,56.7,1984
+07/08,Joliet,IL,4,Pioneer,World Class,54.2,1984
+07/07,Santa Clara,CA,5,Troopers,World Class,68.1,1984
+07/08,Jamestown,NY,5,Glassmen,World Class,47.7,1984
+07/08,Joliet,IL,5,Saginaires,World Class,43.6,1984
+07/07,Tacoma,WA,1,Pierce Rivermen,World Class,60.0,1984
+07/07,Santa Clara,CA,6,Valley Fever,World Class,58.4,1984
+07/08,Jamestown,NY,6,Canadian Knights,World Class,42.0,1984
+07/08,Joliet,IL,6,Northmen-WI,World Class,37.6,1984
+07/07,Tacoma,WA,2,Pacific Blue,World Class,55.0,1984
+07/07,Santa Clara,CA,7,Blue Knights,World Class,56.9,1984
+07/07,Tacoma,WA,3,Olympians,World Class,46.0,1984
+07/07,Santa Clara,CA,8,California Dons,World Class,55.1,1984
+07/07,Santa Clara,CA,9,Argonauts,World Class,48.3,1984
+07/08,Monterey,CA,1,Vanguard,World Class,86.9,1984
+07/08,Bronx,NY,1,New York Lancers,World Class,64.8,1984
+07/13,New Cumberland,PA,1,Garfield Cadets,World Class,90.4,1984
+07/13,Eau Claire,WI,1,Colts,World Class,63.9,1984
+07/08,Monterey,CA,2,Velvet Knights,World Class,74.0,1984
+07/08,Bronx,NY,2,Black Watch-NJ,World Class,58.8,1984
+07/13,New Cumberland,PA,2,Cavaliers,World Class,79.9,1984
+07/13,Eau Claire,WI,2,Emerald Knights,World Class,57.8,1984
+07/08,Monterey,CA,3,Troopers,World Class,72.1,1984
+07/08,Bronx,NY,3,New Image,World Class,56.4,1984
+07/13,New Cumberland,PA,3,Crossmen,World Class,73.6,1984
+07/13,Eau Claire,WI,3,Royal Grenadiers,World Class,44.1,1984
+07/08,Monterey,CA,4,Blue Knights,World Class,61.2,1984
+07/08,Bronx,NY,4,PAL/Windjammers,World Class,50.8,1984
+07/13,New Cumberland,PA,4,Black Watch,World Class,37.3,1984
+07/13,Eau Claire,WI,4,Rivermen,World Class,36.3,1984
+07/08,Monterey,CA,5,California Dons,World Class,55.3,1984
+07/08,Bronx,NY,5,Stormy Knights,World Class,34.2,1984
+07/13,New Cumberland,PA,5,Vagabonds,World Class,36.7,1984
+07/13,Eau Claire,WI,5,Marquis,World Class,20.5,1984
+07/08,Monterey,CA,6,Argonauts,World Class,48.1,1984
+07/08,Monterey,CA,7,Anaheim Kingsmen,World Class,43.2,1984
+07/08,Monterey,CA,8,Conquistadors,World Class,32.0,1984
+07/14,Sacramento,CA,1,Blue Devils,World Class,88.3,1984
+07/14,East Rutherford,NJ,1,Cavaliers,World Class,75.6,1984
+07/14,Saint Paul,MN,1,Colts,World Class,62.9,1984
+07/14,Kent,WA,1,Marauders,World Class,61.5,1984
+07/14,Sacramento,CA,2,Vanguard,World Class,88.0,1984
+07/14,East Rutherford,NJ,2,27th Lancers,World Class,73.8,1984
+07/14,Saint Paul,MN,2,Emerald Knights,World Class,58.4,1984
+07/14,Kent,WA,2,Spartans,World Class,56.4,1984
+07/14,Sacramento,CA,3,Freelancers,World Class,78.2,1984
+07/14,East Rutherford,NJ,2,Crossmen,World Class,73.8,1984
+07/14,Saint Paul,MN,3,Royal Grenadiers,World Class,48.2,1984
+07/14,Kent,WA,3,Seattle Cascades,World Class,42.3,1984
+07/14,Sacramento,CA,4,Velvet Knights,World Class,75.4,1984
+07/14,East Rutherford,NJ,4,Bridgemen,World Class,71.6,1984
+07/14,Saint Paul,MN,4,Rivermen,World Class,33.0,1984
+07/14,Sacramento,CA,5,Valley Fever,World Class,62.6,1984
+07/14,East Rutherford,NJ,5,Ventures,World Class,45.3,1984
+07/14,Saint Paul,MN,5,Sundowners,World Class,15.6,1984
+07/14,Kent,WA,1,Pierce Rivermen,World Class,65.2,1984
+07/14,Sacramento,CA,6,California Dons,World Class,55.7,1984
+07/14,Kent,WA,2,Olympians,World Class,63.0,1984
+07/14,Sacramento,CA,7,Argonauts,World Class,53.8,1984
+07/14,East Rutherford,NJ,1,Reading Buccaneers,World Class,76.8,1984
+07/14,Kent,WA,3,1st Canadian Regiment,World Class,28.8,1984
+07/14,Sacramento,CA,8,Anaheim Kingsmen,World Class,47.1,1984
+07/14,East Rutherford,NJ,2,New York Skyliners,World Class,74.95,1984
+07/14,East Rutherford,NJ,3,Connecticut Hurricanes,World Class,74.35,1984
+07/14,Kent,WA,1,Brassmen,World Class,51.3,1984
+07/14,East Rutherford,NJ,4,Sunrisers,World Class,70.6,1984
+07/14,East Rutherford,NJ,5,L 'Odyssey,World Class,48.55,1984
+07/15,Corning,NY,1,Crossmen,World Class,83.0,1984
+07/15,Waterbury,CT,1,Bridgemen,World Class,73.6,1984
+07/15,Livermore,CA,1,Vanguard,World Class,87.5,1984
+07/15,Stillwater,MN,1,Colts,World Class,65.1,1984
+07/15,Corning,NY,2,Cavaliers,World Class,80.2,1984
+07/15,Waterbury,CT,2,27th Lancers,World Class,73.1,1984
+07/15,Livermore,CA,2,Velvet Knights,World Class,74.7,1984
+07/15,Stillwater,MN,2,Emerald Knights,World Class,62.0,1984
+07/15,Corning,NY,3,Les Eclipses,World Class,70.5,1984
+07/15,Waterbury,CT,3,Les Crescendos,World Class,51.7,1984
+07/15,Livermore,CA,3,Valley Fever,World Class,63.6,1984
+07/15,Stillwater,MN,3,Royal Grenadiers,World Class,50.8,1984
+07/15,Corning,NY,4,Avant Garde,World Class,61.7,1984
+07/15,Waterbury,CT,4,Ventures,World Class,43.9,1984
+07/15,Livermore,CA,4,California Dons,World Class,58.0,1984
+07/15,Stillwater,MN,4,Minnesota Brass,World Class,49.0,1984
+07/15,Corning,NY,5,Valley Airs,World Class,44.6,1984
+07/15,Livermore,CA,5,Argonauts,World Class,56.1,1984
+07/15,Stillwater,MN,5,Rivermen,World Class,37.4,1984
+07/15,Livermore,CA,6,Anaheim Kingsmen,World Class,47.4,1984
+07/15,Stillwater,MN,6,Sundowners,World Class,21.1,1984
+07/15,Medford,NY,1,New York Lancers,World Class,68.1,1984
+07/19,Easton,PA,1,Garfield Cadets,World Class,91.2,1984
+07/20,Madison,WI,1,Madison Scouts,World Class,86.7,1984
+07/20,Vancouver,WA,1,Marauders,World Class,57.7,1984
+07/15,Medford,NY,2,Black Watch-NJ,World Class,66.9,1984
+07/19,Easton,PA,2,Crossmen,World Class,78.2,1984
+07/20,Madison,WI,2,Colts,World Class,65.9,1984
+07/20,Vancouver,WA,2,Spartans,World Class,55.4,1984
+07/15,Medford,NY,3,New Image,World Class,65.2,1984
+07/19,Easton,PA,3,Dutch Boy,World Class,64.5,1984
+07/20,Madison,WI,3,Emerald Knights,World Class,56.5,1984
+07/20,Vancouver,WA,3,Seattle Cascades,World Class,42.9,1984
+07/15,Medford,NY,4,PAL/Windjammers,World Class,55.2,1984
+07/19,Easton,PA,4,"General Butler
+  Vagabonds",World Class,46.2,1984
+07/20,Madison,WI,4,Pioneer,World Class,56.0,1984
+07/15,Medford,NY,5,CMCC Warriors,World Class,46.3,1984
+07/19,Easton,PA,5,Black Watch,World Class,44.0,1984
+07/20,Madison,WI,5,Saginaires,World Class,49.0,1984
+07/20,Vancouver,WA,1,Olympians,World Class,58.6,1984
+07/15,Medford,NY,6,Stormy Knights,World Class,31.3,1984
+07/20,Madison,WI,6,Marion Cadets,World Class,34.2,1984
+07/20,Vancouver,WA,1,Brassmen,World Class,51.3,1984
+07/21,Carlisle,PA,1,Hawthorne Caballeros,World Class,85.35,1984
+07/21,Modesto,CA,1,Blue Devils,World Class,92.6,1984
+07/22,Spokane,WA,1,Marauders,World Class,52.2,1984
+07/21,DeKalb,IL,1,Phantom Regiment,World Class,91.2,1984
+07/21,Carlisle,PA,2,Reading Buccaneers,World Class,77.35,1984
+07/21,Modesto,CA,2,Vanguard,World Class,90.6,1984
+07/22,Spokane,WA,2,Calgary Cavaliers,World Class,46.9,1984
+07/21,DeKalb,IL,2,Madison Scouts,World Class,87.6,1984
+07/21,Carlisle,PA,3,Bushwackers,World Class,74.45,1984
+07/21,Modesto,CA,3,Freelancers,World Class,79.8,1984
+07/22,Spokane,WA,3,Seattle Cascades,World Class,45.5,1984
+07/21,DeKalb,IL,3,Cavaliers,World Class,82.0,1984
+07/21,Carlisle,PA,4,Connecticut Hurricanes,World Class,70.35,1984
+07/21,Modesto,CA,4,Valley Fever,World Class,69.7,1984
+07/21,DeKalb,IL,4,Knights,World Class,71.1,1984
+07/21,Carlisle,PA,5,New York Skyliners,World Class,68.8,1984
+07/21,Modesto,CA,5,California Dons,World Class,66.7,1984
+07/22,Spokane,WA,1,Pierce Rivermen,World Class,31.0,1984
+07/21,DeKalb,IL,5,Colts,World Class,65.4,1984
+07/21,Carlisle,PA,6,Steel City Ambassadors,World Class,63.1,1984
+07/21,Modesto,CA,6,Anaheim Kingsmen,World Class,55.4,1984
+07/22,Spokane,WA,2,Olympians,World Class,27.2,1984
+07/21,DeKalb,IL,6,Emerald Knights,World Class,62.5,1984
+07/21,Carlisle,PA,7,Archer Epler Musketeers,World Class,59.75,1984
+07/22,Spokane,WA,3,Pacific Blue,World Class,25.2,1984
+07/21,DeKalb,IL,7,Pioneer,World Class,59.6,1984
+07/21,DeKalb,IL,8,Glassmen,World Class,57.9,1984
+07/21,DeKalb,IL,9,Royal Grenadiers,World Class,52.5,1984
+07/21,DeKalb,IL,10,Saginaires,World Class,51.0,1984
+07/21,DeKalb,IL,11,Northmen-WI,World Class,49.3,1984
+07/21,DeKalb,IL,12,Bandettes,World Class,42.3,1984
+07/21,DeKalb,IL,13,Rivermen,World Class,40.9,1984
+07/21,DeKalb,IL,14,Illiana Lancers,World Class,38.3,1984
+07/21,DeKalb,IL,15,CapitolAires,World Class,30.4,1984
+07/21,DeKalb,IL,16,Sundowners,World Class,27.2,1984
+07/21,DeKalb,IL,17,Marquis,World Class,24.9,1984
+07/21,DeKalb,IL,18,Royal Knights,World Class,18.3,1984
+07/21,DeKalb,IL,1,Phantom Regiment,World Class,89.4,1984
+07/21,Lynn,MA,1,Garfield Cadets,World Class,93.2,1984
+07/21,Lynn,MA,1,Garfield Cadets,World Class,90.3,1984
+07/22,Horicon,WI,1,Phantom Regiment,World Class,90.7,1984
+07/21,DeKalb,IL,2,Madison Scouts,World Class,85.7,1984
+07/21,Lynn,MA,2,Crossmen,World Class,85.1,1984
+07/21,Lynn,MA,2,Crossmen,World Class,80.2,1984
+07/22,Horicon,WI,2,Madison Scouts,World Class,89.6,1984
+07/21,DeKalb,IL,3,Cavaliers,World Class,82.4,1984
+07/21,Lynn,MA,3,27th Lancers,World Class,83.7,1984
+07/21,Lynn,MA,3,27th Lancers,World Class,77.7,1984
+07/22,Horicon,WI,3,Colts,World Class,64.7,1984
+07/21,DeKalb,IL,4,Knights,World Class,69.3,1984
+07/21,Lynn,MA,4,Bridgemen,World Class,79.1,1984
+07/21,Lynn,MA,4,Bridgemen,World Class,73.6,1984
+07/22,Horicon,WI,4,Pioneer,World Class,57.4,1984
+07/21,DeKalb,IL,5,Colts,World Class,62.2,1984
+07/21,Lynn,MA,5,Boston Crusaders,World Class,76.7,1984
+07/21,Lynn,MA,5,Boston Crusaders,World Class,69.3,1984
+07/22,Horicon,WI,5,Northmen-WI,World Class,44.1,1984
+07/21,DeKalb,IL,6,Emerald Knights,World Class,57.1,1984
+07/21,Lynn,MA,6,Les Eclipses,World Class,73.9,1984
+07/21,Lynn,MA,6,Les Eclipses,World Class,66.7,1984
+07/22,Horicon,WI,6,Spirit of '76,World Class,34.2,1984
+07/21,DeKalb,IL,7,Glassmen,World Class,55.7,1984
+07/21,Lynn,MA,7,Avant Garde,World Class,71.6,1984
+07/21,Lynn,MA,7,Avant Garde,World Class,65.9,1984
+07/22,Horicon,WI,7,Sundowners,World Class,23.9,1984
+07/21,DeKalb,IL,8,Pioneer,World Class,52.4,1984
+07/21,Lynn,MA,8,Les Crescendos,World Class,61.8,1984
+07/21,Lynn,MA,8,Les Crescendos,World Class,53.9,1984
+07/22,Horicon,WI,8,Marquis,World Class,23.0,1984
+07/21,DeKalb,IL,9,Royal Grenadiers,World Class,48.5,1984
+07/21,Lynn,MA,9,Dutch Boy,World Class,58.1,1984
+07/21,Lynn,MA,9,Dutch Boy,World Class,53.4,1984
+07/21,DeKalb,IL,10,Saginaires,World Class,48.2,1984
+07/21,Lynn,MA,10,Connexion Quebec,World Class,57.8,1984
+07/21,Lynn,MA,10,Connexion Quebec,World Class,46.7,1984
+07/22,Holyoke,MA,1,27th Lancers,World Class,82.1,1984
+07/22,Syracuse,NY,1,Garfield Cadets,World Class,92.4,1984
+07/22,Dolton,IL,1,Cavaliers,World Class,85.4,1984
+07/24,Ogden,UT,1,Vanguard,World Class,89.3,1984
+07/22,Holyoke,MA,2,Bridgemen,World Class,77.0,1984
+07/22,Syracuse,NY,2,Crossmen,World Class,85.0,1984
+07/22,Dolton,IL,2,Knights,World Class,67.7,1984
+07/24,Ogden,UT,2,Blue Devils,World Class,88.6,1984
+07/22,Holyoke,MA,3,Boston Crusaders,World Class,73.3,1984
+07/22,Syracuse,NY,3,Avant Garde,World Class,73.2,1984
+07/22,Dolton,IL,3,Glassmen,World Class,58.0,1984
+07/24,Ogden,UT,3,Freelancers,World Class,78.4,1984
+07/22,Holyoke,MA,4,Les Eclipses,World Class,67.4,1984
+07/22,Syracuse,NY,4,Connexion Quebec,World Class,55.5,1984
+07/22,Dolton,IL,4,Royal Grenadiers,World Class,48.4,1984
+07/24,Ogden,UT,4,Velvet Knights,World Class,70.6,1984
+07/22,Holyoke,MA,5,Valley Airs,World Class,49.4,1984
+07/22,Syracuse,NY,5,Northmen-NY,World Class,48.4,1984
+07/22,Dolton,IL,5,Illiana Lancers,World Class,40.0,1984
+07/24,Ogden,UT,5,Troopers,World Class,65.9,1984
+07/22,Syracuse,NY,6,Ventures,World Class,35.2,1984
+07/22,Dolton,IL,6,Marion Cadets,World Class,34.9,1984
+07/24,Spartanburg,SC,1,Garfield Cadets,World Class,87.4,1984
+07/25,Grand Junction,CO,1,Vanguard,World Class,90.9,1984
+07/25,Statesboro,GA,1,Spirit of Atlanta,World Class,85.8,1984
+07/26,Kansas City,KS,1,Phantom Regiment,World Class,89.3,1984
+07/24,Spartanburg,SC,2,Spirit of Atlanta,World Class,84.5,1984
+07/25,Grand Junction,CO,2,Blue Devils,World Class,90.1,1984
+07/25,Statesboro,GA,2,Suncoast Sound,World Class,84.0,1984
+07/26,Kansas City,KS,2,Madison Scouts,World Class,87.8,1984
+07/24,Spartanburg,SC,3,Suncoast Sound,World Class,82.6,1984
+07/25,Grand Junction,CO,3,Velvet Knights,World Class,72.6,1984
+07/25,Statesboro,GA,3,Pride of Cincinnati,World Class,59.1,1984
+07/26,Kansas City,KS,3,Sky Ryders,World Class,72.7,1984
+07/24,Spartanburg,SC,4,Pride of Cincinnati,World Class,60.2,1984
+07/25,Grand Junction,CO,4,Troopers,World Class,68.7,1984
+07/25,Statesboro,GA,4,Black Knights,World Class,48.1,1984
+07/26,Kansas City,KS,4,Colts,World Class,61.5,1984
+07/24,Spartanburg,SC,5,Black Knights,World Class,49.6,1984
+07/25,Grand Junction,CO,5,Blue Knights,World Class,62.3,1984
+07/25,Statesboro,GA,5,Nighthawks,World Class,42.0,1984
+07/26,Kansas City,KS,5,Railmen,World Class,43.1,1984
+07/24,Spartanburg,SC,6,Nighthawks,World Class,41.8,1984
+07/25,Grand Junction,CO,6,Anaheim Kingsmen,World Class,44.5,1984
+07/26,Kansas City,KS,6,Argonne Rebels,World Class,34.5,1984
+07/26,Clearwater,FL,1,Garfield Cadets,World Class,91.6,1984
+07/28,Sheffield,PA,1,Dutch Boy,World Class,74.0,1984
+07/28,Lewisburg,PA,1,Hawthorne Caballeros,World Class,85.55,1984
+07/28,Torrington,CT,1,New York Skyliners,World Class,77.35,1984
+07/26,Clearwater,FL,2,Spirit of Atlanta,World Class,87.1,1984
+07/28,Sheffield,PA,2,Bluecoats,World Class,69.2,1984
+07/28,Lewisburg,PA,2,Reading Buccaneers,World Class,81.15,1984
+07/28,Torrington,CT,2,Bushwackers,World Class,77.15,1984
+07/26,Clearwater,FL,3,Suncoast Sound,World Class,84.7,1984
+07/28,Sheffield,PA,3,Long Island Kingsmen,World Class,60.4,1984
+07/28,Lewisburg,PA,3,Steel City Ambassadors,World Class,65.3,1984
+07/28,Torrington,CT,3,Connecticut Hurricanes,World Class,76.35,1984
+07/26,Clearwater,FL,4,Florida Wave,World Class,63.9,1984
+07/28,Sheffield,PA,4,Vagabonds,World Class,52.8,1984
+07/28,Lewisburg,PA,4,Archer Epler Musketeers,World Class,61.85,1984
+07/28,Torrington,CT,4,Sunrisers,World Class,73.1,1984
+07/26,Clearwater,FL,5,Pride of Cincinnati,World Class,58.8,1984
+07/28,Sheffield,PA,5,Marion Cadets,World Class,43.6,1984
+07/28,Lewisburg,PA,5,Empire Statesmen,World Class,58.5,1984
+07/28,Torrington,CT,5,Matadors,World Class,59.65,1984
+07/26,Clearwater,FL,6,Black Knights,World Class,44.8,1984
+07/28,Sheffield,PA,6,Caballaros,World Class,40.2,1984
+07/28,Torrington,CT,6,L 'Odyssee,World Class,51.8,1984
+07/26,Clearwater,FL,7,Nighthawks,World Class,41.7,1984
+07/28,Clearwater,FL,1,New York Lancers,World Class,74.1,1984
+07/28,Denver,CO,1,Vanguard,World Class,91.9,1984
+07/28,Birmingham,AL,1,Spirit of Atlanta,World Class,88.7,1984
+07/29,Bronx,NY,1,Long Island Grenadiers,World Class,83.4,1984
+07/28,Clearwater,FL,2,New Image,World Class,72.8,1984
+07/28,Denver,CO,2,Blue Devils,World Class,91.7,1984
+07/28,Birmingham,AL,2,Suncoast Sound,World Class,87.4,1984
+07/29,Bronx,NY,2,New Image,World Class,76.8,1984
+07/28,Clearwater,FL,3,PAL/Windjammers,World Class,59.9,1984
+07/28,Denver,CO,3,Phantom Regiment,World Class,90.0,1984
+07/28,Birmingham,AL,3,Florida Wave,World Class,66.3,1984
+07/29,Bronx,NY,3,Black Watch-NJ,World Class,74.0,1984
+07/28,Clearwater,FL,4,CMCC Warriors,World Class,55.0,1984
+07/28,Denver,CO,4,Madison Scouts,World Class,87.3,1984
+07/28,Birmingham,AL,4,Pride of Cincinnati,World Class,61.9,1984
+07/29,Bronx,NY,4,PAL/Windjammers,World Class,64.2,1984
+07/28,Clearwater,FL,5,Stormy Knights,World Class,41.6,1984
+07/28,Denver,CO,5,Freelancers,World Class,84.6,1984
+07/28,Birmingham,AL,5,Black Knights,World Class,49.6,1984
+07/29,Bronx,NY,4,CMCC Warriors,World Class,64.2,1984
+07/28,Denver,CO,6,Velvet Knights,World Class,77.5,1984
+07/28,Birmingham,AL,6,Nighthawks,World Class,44.0,1984
+07/29,Bronx,NY,6,Stormy Knights,World Class,57.9,1984
+07/28,Denver,CO,7,Sky Ryders,World Class,70.8,1984
+07/28,Denver,CO,8,Troopers,World Class,70.7,1984
+07/28,Denver,CO,9,Valley Fever,World Class,63.1,1984
+07/28,Denver,CO,10,Blue Knights,World Class,60.1,1984
+07/28,Denver,CO,11,Colts,World Class,59.7,1984
+07/29,Cheyenne,WY,1,Blue Devils,World Class,91.4,1984
+07/29,Great Bend,KS,1,Vanguard,World Class,91.8,1984
+07/29,Nashville,TN,1,Garfield Cadets,World Class,93.8,1984
+07/29,Pittsburgh,PA,1,Crossmen,World Class,82.1,1984
+07/29,Cheyenne,WY,2,Phantom Regiment,World Class,90.4,1984
+07/29,Great Bend,KS,2,Sky Ryders,World Class,70.0,1984
+07/29,Nashville,TN,2,Suncoast Sound,World Class,88.2,1984
+07/29,Pittsburgh,PA,2,27th Lancers,World Class,81.9,1984
+07/29,Cheyenne,WY,3,Madison Scouts,World Class,88.2,1984
+07/29,Great Bend,KS,3,Valley Fever,World Class,65.4,1984
+07/29,Nashville,TN,3,Florida Wave,World Class,66.5,1984
+07/29,Pittsburgh,PA,3,Bridgemen,World Class,72.7,1984
+07/29,Cheyenne,WY,4,Velvet Knights,World Class,76.5,1984
+07/29,Great Bend,KS,4,Colts,World Class,62.9,1984
+07/29,Nashville,TN,4,Pride of Cincinnati,World Class,61.8,1984
+07/29,Pittsburgh,PA,4,Les Eclipses,World Class,66.4,1984
+07/29,Cheyenne,WY,5,Troopers,World Class,74.1,1984
+07/29,Great Bend,KS,5,Anaheim Kingsmen,World Class,48.7,1984
+07/29,Nashville,TN,5,Black Knights,World Class,49.3,1984
+07/29,Pittsburgh,PA,5,Avant Garde,World Class,65.6,1984
+07/29,Cheyenne,WY,6,Blue Knights,World Class,61.3,1984
+07/29,Great Bend,KS,6,Argonne Rebels,World Class,31.6,1984
+07/29,Nashville,TN,6,Nighthawks,World Class,43.6,1984
+07/29,Pittsburgh,PA,6,Vagabonds,World Class,42.7,1984
+07/29,Cheyenne,WY,7,Railmen,World Class,43.8,1984
+07/29,Cheyenne,WY,8,Calgary Cavaliers,World Class,34.5,1984
+07/29,Newton,IL,1,Emerald Knights,World Class,66.4,1984
+07/30,London,KY,1,Garfield Cadets,World Class,94.4,1984
+07/30,Rapid City,SD,1,Velvet Knights,World Class,78.2,1984
+07/31,Sioux City,IA,1,Madison Scouts,World Class,89.0,1984
+07/29,Newton,IL,2,Pioneer,World Class,57.5,1984
+07/30,London,KY,2,Suncoast Sound,World Class,89.0,1984
+07/30,Rapid City,SD,2,Marauders,World Class,65.8,1984
+07/31,Sioux City,IA,2,Phantom Regiment,World Class,88.6,1984
+07/29,Newton,IL,3,Royal Grenadiers,World Class,57.0,1984
+07/30,London,KY,3,Florida Wave,World Class,67.7,1984
+07/30,Rapid City,SD,3,Spartans,World Class,55.7,1984
+07/31,Sioux City,IA,3,Spirit of Atlanta,World Class,87.0,1984
+07/30,London,KY,4,Pride of Cincinnati,World Class,62.9,1984
+07/30,Rapid City,SD,4,Calgary Cavaliers,World Class,49.3,1984
+07/31,Sioux City,IA,4,Valley Fever,World Class,65.7,1984
+07/30,London,KY,5,Black Knights,World Class,50.7,1984
+07/30,Rapid City,SD,5,Seattle Cascades,World Class,45.7,1984
+07/31,Sioux City,IA,5,Knights,World Class,63.0,1984
+07/30,London,KY,6,Nighthawks,World Class,45.7,1984
+07/31,Sioux City,IA,6,Railmen,World Class,42.0,1984
+07/30,Rapid City,SD,1,Pierce Rivermen,World Class,59.8,1984
+07/30,Rapid City,SD,2,Pacific Blue,World Class,58.6,1984
+07/31,Parkersburg,WV,1,Garfield Cadets,World Class,94.3,1984
+07/31,Pasco,WA,1,Marauders,World Class,60.1,1984
+07/31,Parkersburg,WV,2,Crossmen,World Class,86.0,1984
+07/31,Pasco,WA,2,Spartans,World Class,57.5,1984
+07/31,Parkersburg,WV,3,Bridgemen,World Class,80.5,1984
+07/31,Pasco,WA,3,Seattle Cascades,World Class,45.0,1984
+07/31,Parkersburg,WV,4,Les Eclipses,World Class,74.2,1984
+07/31,Pasco,WA,4,Calgary Cavaliers,World Class,44.3,1984
+07/31,Parkersburg,WV,5,Avant Garde,World Class,68.8,1984
+07/31,Parkersburg,WV,6,Pride of Cincinnati,World Class,57.9,1984
+07/31,Pasco,WA,1,Pierce Rivermen,World Class,64.0,1984
+07/31,Pasco,WA,2,Olympians,World Class,61.8,1984
+08/01,Omaha,NE,1,Vanguard,World Class,91.8,1984
+08/01,Minneapolis,MN,1,Blue Devils,World Class,93.0,1984
+08/01,Dayton,OH,1,Garfield Cadets,World Class,93.2,1984
+08/02,Ankeny,IA,1,Phantom Regiment,World Class,91.6,1984
+08/01,Omaha,NE,2,Phantom Regiment,World Class,89.3,1984
+08/01,Minneapolis,MN,2,Madison Scouts,World Class,89.7,1984
+08/01,Dayton,OH,2,Crossmen,World Class,84.0,1984
+08/02,Ankeny,IA,1,Vanguard,World Class,91.6,1984
+08/01,Omaha,NE,3,Troopers,World Class,76.1,1984
+08/01,Minneapolis,MN,3,Spirit of Atlanta,World Class,88.5,1984
+08/01,Dayton,OH,3,27th Lancers,World Class,81.9,1984
+08/02,Ankeny,IA,3,Velvet Knights,World Class,79.0,1984
+08/01,Omaha,NE,4,Sky Ryders,World Class,73.7,1984
+08/01,Minneapolis,MN,4,Suncoast Sound,World Class,84.6,1984
+08/01,Dayton,OH,4,Bridgemen,World Class,79.4,1984
+08/02,Ankeny,IA,4,Troopers,World Class,71.9,1984
+08/01,Omaha,NE,5,Valley Fever,World Class,67.0,1984
+08/01,Minneapolis,MN,5,Freelancers,World Class,82.2,1984
+08/01,Dayton,OH,5,Avant Garde,World Class,68.8,1984
+08/02,Ankeny,IA,5,Knights,World Class,70.9,1984
+08/01,Omaha,NE,6,Colts,World Class,62.1,1984
+08/01,Minneapolis,MN,6,Cavaliers,World Class,81.6,1984
+08/01,Dayton,OH,6,Pride of Cincinnati,World Class,53.8,1984
+08/02,Ankeny,IA,6,Colts,World Class,59.6,1984
+08/01,Omaha,NE,7,California Dons,World Class,56.3,1984
+08/01,Omaha,NE,8,Railmen,World Class,44.9,1984
+08/02,Indianapolis,IN,1,Garfield Cadets,World Class,92.7,1984
+08/02,Stillwater,MN,1,Blue Devils,World Class,93.6,1984
+08/03,Rockford,IL,1,Phantom Regiment,World Class,93.5,1984
+08/03,Dubuque,IA,1,Troopers,World Class,80.0,1984
+08/02,Indianapolis,IN,2,Crossmen,World Class,84.7,1984
+08/02,Stillwater,MN,2,Madison Scouts,World Class,89.8,1984
+08/03,Rockford,IL,2,Spirit of Atlanta,World Class,90.1,1984
+08/03,Dubuque,IA,2,Knights,World Class,75.6,1984
+08/02,Indianapolis,IN,3,27th Lancers,World Class,81.4,1984
+08/02,Stillwater,MN,3,Spirit of Atlanta,World Class,87.3,1984
+08/03,Rockford,IL,3,Suncoast Sound,World Class,88.2,1984
+08/03,Dubuque,IA,3,Glassmen,World Class,68.8,1984
+08/02,Indianapolis,IN,4,Bridgemen,World Class,78.8,1984
+08/02,Stillwater,MN,4,Suncoast Sound,World Class,86.2,1984
+08/03,Rockford,IL,4,Crossmen,World Class,85.4,1984
+08/03,Dubuque,IA,4,Colts,World Class,68.4,1984
+08/02,Indianapolis,IN,5,Les Eclipses,World Class,72.2,1984
+08/02,Stillwater,MN,5,Freelancers,World Class,82.7,1984
+08/03,Rockford,IL,5,27th Lancers,World Class,83.0,1984
+08/03,Dubuque,IA,5,Emerald Knights,World Class,58.6,1984
+08/02,Indianapolis,IN,6,Avant Garde,World Class,67.1,1984
+08/02,Stillwater,MN,6,Cavaliers,World Class,82.6,1984
+08/03,Rockford,IL,6,Cavaliers,World Class,82.6,1984
+08/03,Dubuque,IA,6,Royal Grenadiers,World Class,48.2,1984
+08/02,Indianapolis,IN,7,Glassmen,World Class,61.4,1984
+08/03,Rockford,IL,7,Bridgemen,World Class,80.8,1984
+08/03,Rockford,IL,8,Sky Ryders,World Class,73.1,1984
+08/03,Grand Haven,MI,1,Pioneer,World Class,59.2,1984
+08/04,Scranton,PA,1,Hawthorne Caballeros,World Class,83.95,1984
+08/04,Whitewater,WI,1,Garfield Cadets,World Class,94.8,1984
+08/04,Whitewater,WI,1,Vanguard,World Class,95.2,1984
+08/03,Grand Haven,MI,2,Saginaires,World Class,56.3,1984
+08/04,Scranton,PA,2,Reading Buccaneers,World Class,82.65,1984
+08/04,Whitewater,WI,2,Vanguard,World Class,94.5,1984
+08/04,Whitewater,WI,2,Garfield Cadets,World Class,94.6,1984
+08/03,Grand Haven,MI,3,Marion Cadets,World Class,40.8,1984
+08/04,Scranton,PA,3,Bushwackers,World Class,74.0,1984
+08/04,Whitewater,WI,3,Blue Devils,World Class,93.5,1984
+08/04,Whitewater,WI,3,Blue Devils,World Class,93.7,1984
+08/03,Grand Haven,MI,4,Cavalier Cadets,World Class,37.4,1984
+08/04,Scranton,PA,4,New York Skyliners,World Class,73.75,1984
+08/04,Whitewater,WI,4,Phantom Regiment,World Class,91.2,1984
+08/04,Whitewater,WI,4,Phantom Regiment,World Class,93.3,1984
+08/03,Grand Haven,MI,5,Caballaros,World Class,34.2,1984
+08/04,Scranton,PA,5,Connecticut Hurricanes,World Class,71.85,1984
+08/04,Whitewater,WI,5,Madison Scouts,World Class,90.7,1984
+08/04,Whitewater,WI,5,Madison Scouts,World Class,91.7,1984
+08/03,Grand Haven,MI,6,Royal Knights,World Class,28.8,1984
+08/04,Scranton,PA,6,Sunrisers,World Class,71.7,1984
+08/04,Whitewater,WI,6,Spirit of Atlanta,World Class,90.2,1984
+08/04,Whitewater,WI,6,Spirit of Atlanta,World Class,89.5,1984
+08/04,Scranton,PA,7,Archer Epler Musketeers,World Class,59.7,1984
+08/04,Whitewater,WI,7,Suncoast Sound,World Class,88.2,1984
+08/04,Whitewater,WI,7,Suncoast Sound,World Class,88.4,1984
+08/04,Scranton,PA,8,Steel City Ambassadors,World Class,59.05,1984
+08/04,Whitewater,WI,8,Freelancers,World Class,85.9,1984
+08/04,Whitewater,WI,8,Cavaliers,World Class,85.2,1984
+08/04,Scranton,PA,9,L 'Odyssey,World Class,55.15,1984
+08/04,Whitewater,WI,9,Cavaliers,World Class,85.3,1984
+08/04,Whitewater,WI,9,Freelancers,World Class,83.1,1984
+08/04,Whitewater,WI,10,Crossmen,World Class,84.6,1984
+08/04,Whitewater,WI,10,Crossmen,World Class,81.8,1984
+08/04,Whitewater,WI,11,27th Lancers,World Class,83.3,1984
+08/04,Whitewater,WI,11,27th Lancers,World Class,81.0,1984
+08/04,Whitewater,WI,12,Velvet Knights,World Class,81.6,1984
+08/04,Whitewater,WI,12,Velvet Knights,World Class,74.9,1984
+08/04,Whitewater,WI,13,Bridgemen,World Class,80.9,1984
+08/04,Whitewater,WI,14,Troopers,World Class,79.7,1984
+08/04,Whitewater,WI,15,Sky Ryders,World Class,78.1,1984
+08/04,Whitewater,WI,16,Les Eclipses,World Class,75.3,1984
+08/04,Whitewater,WI,17,Avant Garde,World Class,71.1,1984
+08/04,Whitewater,WI,18,Boston Crusaders,World Class,70.6,1984
+08/04,Whitewater,WI,18,Valley Fever,World Class,70.6,1984
+08/04,Whitewater,WI,20,Blue Knights,World Class,68.2,1984
+08/04,Whitewater,WI,21,Florida Wave,World Class,65.6,1984
+08/04,Whitewater,WI,22,Colts,World Class,63.7,1984
+08/04,Whitewater,WI,23,Pride of Cincinnati,World Class,62.2,1984
+08/04,Whitewater,WI,24,Argonauts,World Class,62.1,1984
+08/04,Whitewater,WI,25,Glassmen,World Class,59.1,1984
+08/04,Whitewater,WI,26,Black Knights,World Class,58.4,1984
+08/04,Whitewater,WI,27,Dutch Boy,World Class,57.1,1984
+08/04,Whitewater,WI,28,Valley Airs,World Class,56.2,1984
+08/04,Whitewater,WI,29,Anaheim Kingsmen,World Class,55.5,1984
+08/04,Whitewater,WI,30,Royal Grenadiers,World Class,49.9,1984
+08/04,Whitewater,WI,31,Long Island Kingsmen,World Class,42.5,1984
+08/04,Fort Edward,NY,1,Matadors,World Class,76.8,1984
+08/04,Sherbrooke,Quebec,1,Royalaires,World Class,57.6,1984
+08/05,Ottawa,IL,1,Glassmen,World Class,68.8,1984
+08/05,Madison,WI,1,Garfield Cadets,World Class,94.2,1984
+08/04,Fort Edward,NY,2,Empire Statesmen,World Class,76.0,1984
+08/04,Sherbrooke,Quebec,2,Troubadors,World Class,50.9,1984
+08/05,Ottawa,IL,1,Colts,World Class,68.8,1984
+08/05,Madison,WI,2,Madison Scouts,World Class,91.9,1984
+08/04,Fort Edward,NY,3,Guelph Royalaires,World Class,67.6,1984
+08/04,Sherbrooke,Quebec,3,Horizon,World Class,43.6,1984
+08/05,Ottawa,IL,3,Argonauts,World Class,62.5,1984
+08/05,Madison,WI,3,Spirit of Atlanta,World Class,89.6,1984
+08/04,Fort Edward,NY,4,Ft. Edward Vagabonds,World Class,58.7,1984
+08/05,Ottawa,IL,4,Pioneer,World Class,56.3,1984
+08/05,Madison,WI,4,Crossmen,World Class,84.5,1984
+08/04,Sherbrooke,Quebec,1,Adventuriers,World Class,58.7,1984
+08/05,Ottawa,IL,5,Royal Grenadiers,World Class,51.7,1984
+08/05,Madison,WI,5,27th Lancers,World Class,82.4,1984
+08/04,Sherbrooke,Quebec,2,Academie Musicale,World Class,54.5,1984
+08/05,Ottawa,IL,6,Sundowners,World Class,23.2,1984
+08/05,Madison,WI,6,Bridgemen,World Class,78.4,1984
+08/04,Sherbrooke,Quebec,3,Renaissance,World Class,49.3,1984
+08/04,Sherbrooke,Quebec,4,Pioneers,World Class,29.3,1984
+08/05,Michigan City,IN,1,Vanguard,World Class,93.4,1984
+08/06,Alton,IL,1,Spirit of Atlanta,World Class,89.2,1984
+08/07,Montreal,Quebec,1,Garfield Cadets,World Class,94.6,1984
+08/07,Springfield,MO,1,Suncoast Sound,World Class,88.5,1984
+08/05,Michigan City,IN,2,Cavaliers,World Class,85.2,1984
+08/06,Alton,IL,2,Suncoast Sound,World Class,88.5,1984
+08/07,Montreal,Quebec,2,Blue Devils,World Class,92.8,1984
+08/07,Springfield,MO,2,Cavaliers,World Class,84.9,1984
+08/05,Michigan City,IN,3,Velvet Knights,World Class,79.2,1984
+08/06,Alton,IL,3,Troopers,World Class,76.5,1984
+08/07,Montreal,Quebec,3,Freelancers,World Class,86.1,1984
+08/07,Springfield,MO,3,Sky Ryders,World Class,76.3,1984
+08/05,Michigan City,IN,4,Sky Ryders,World Class,74.3,1984
+08/06,Alton,IL,4,Knights,World Class,67.3,1984
+08/07,Montreal,Quebec,4,Velvet Knights,World Class,79.7,1984
+08/07,Springfield,MO,4,Troopers,World Class,75.6,1984
+08/05,Michigan City,IN,5,Boston Crusaders,World Class,70.5,1984
+08/06,Alton,IL,5,Colts,World Class,64.7,1984
+08/07,Montreal,Quebec,5,Les Etoiles,World Class,39.9,1984
+08/07,Springfield,MO,5,California Dons,World Class,62.7,1984
+08/05,Michigan City,IN,6,Knights,World Class,70.3,1984
+08/06,Alton,IL,6,Dutch Boy,World Class,60.7,1984
+08/07,Springfield,MO,6,Connexion Quebec,World Class,60.2,1984
+08/05,Michigan City,IN,7,Avant Garde,World Class,69.9,1984
+08/07,Springfield,MO,7,Argonauts,World Class,56.7,1984
+08/05,Michigan City,IN,8,Valley Fever,World Class,67.1,1984
+08/07,Toledo,OH,1,Vanguard,World Class,95.1,1984
+08/07,Toledo,OH,1,Vanguard,World Class,96.3,1984
+08/07,Butler,PA,1,Crossmen,World Class,87.0,1984
+08/07,Butler,PA,1,Crossmen,World Class,88.5,1984
+08/07,Toledo,OH,2,Phantom Regiment,World Class,92.9,1984
+08/07,Toledo,OH,2,Phantom Regiment,World Class,93.1,1984
+08/07,Butler,PA,2,Valley Fever,World Class,72.3,1984
+08/07,Butler,PA,2,Boston Crusaders,World Class,76.1,1984
+08/07,Toledo,OH,3,Madison Scouts,World Class,92.6,1984
+08/07,Toledo,OH,3,Madison Scouts,World Class,92.4,1984
+08/07,Butler,PA,3,Avant Garde,World Class,72.0,1984
+08/07,Butler,PA,3,Avant Garde,World Class,76.0,1984
+08/07,Toledo,OH,4,Crossmen,World Class,86.8,1984
+08/07,Toledo,OH,4,Crossmen,World Class,86.7,1984
+08/07,Butler,PA,4,Florida Wave,World Class,71.8,1984
+08/07,Butler,PA,4,Florida Wave,World Class,72.2,1984
+08/07,Toledo,OH,5,Bridgemen,World Class,82.9,1984
+08/07,Toledo,OH,5,Bridgemen,World Class,83.5,1984
+08/07,Butler,PA,5,Blue Knights,World Class,71.0,1984
+08/07,Butler,PA,4,Blue Knights,World Class,72.2,1984
+08/07,Toledo,OH,6,Les Eclipses,World Class,78.1,1984
+08/07,Toledo,OH,6,Les Eclipses,World Class,79.6,1984
+08/07,Butler,PA,6,Boston Crusaders,World Class,70.7,1984
+08/07,Butler,PA,6,Valley Fever,World Class,71.7,1984
+08/07,Toledo,OH,7,Avant Garde,World Class,76.7,1984
+08/07,Toledo,OH,7,Avant Garde,World Class,76.7,1984
+08/07,Butler,PA,7,Glassmen,World Class,60.8,1984
+08/07,Butler,PA,7,Glassmen,World Class,59.7,1984
+08/07,Toledo,OH,8,Boston Crusaders,World Class,75.1,1984
+08/07,Toledo,OH,8,Boston Crusaders,World Class,73.6,1984
+08/07,Butler,PA,8,Les Crescendos,World Class,60.6,1984
+08/07,Butler,PA,8,Les Crescendos,World Class,58.6,1984
+08/07,Toledo,OH,9,Valley Fever,World Class,71.9,1984
+08/07,Toledo,OH,9,Valley Fever,World Class,70.5,1984
+08/07,Butler,PA,9,Anaheim Kingsmen,World Class,59.5,1984
+08/07,Butler,PA,9,Anaheim Kingsmen,World Class,58.4,1984
+08/07,Toledo,OH,10,Blue Knights,World Class,70.0,1984
+08/07,Toledo,OH,10,Blue Knights,World Class,69.3,1984
+08/07,Butler,PA,10,Pride of Cincinnati,World Class,59.0,1984
+08/07,Butler,PA,10,Pride of Cincinnati,World Class,56.8,1984
+08/07,Toledo,OH,11,Glassmen,World Class,66.8,1984
+08/07,Butler,PA,11,Valley Airs,World Class,56.2,1984
+08/07,Toledo,OH,12,Pride of Cincinnati,World Class,63.2,1984
+08/07,Butler,PA,12,Bluecoats,World Class,52.4,1984
+08/07,Butler,PA,1,Canadian Knights,World Class,82.6,1984
+08/07,Toledo,OH,13,Valley Airs,World Class,57.8,1984
+08/07,Butler,PA,13,Marauders,World Class,50.7,1984
+08/07,Butler,PA,2,Northmen-NY,World Class,81.8,1984
+08/07,Toledo,OH,14,Anaheim Kingsmen,World Class,56.8,1984
+08/07,Butler,PA,14,Saginaires,World Class,48.3,1984
+08/07,Butler,PA,3,Phantom Reg. Cadets,World Class,77.7,1984
+08/07,Toledo,OH,14,Bluecoats,World Class,56.8,1984
+08/07,Butler,PA,15,Long Island Kingsmen,World Class,39.7,1984
+08/07,Butler,PA,4,New York Lancers,World Class,74.5,1984
+08/07,Toledo,OH,16,Long Island Kingsmen,World Class,41.4,1984
+08/07,Butler,PA,16,CMCC Warriors,World Class,27.3,1984
+08/07,Butler,PA,5,Ambassadors,World Class,70.8,1984
+08/07,Butler,PA,6,Patriots,World Class,65.4,1984
+08/07,Butler,PA,1,Canadian Knights,World Class,82.6,1984
+08/07,Butler,PA,7,Black Watch-NJ,World Class,64.1,1984
+08/07,Butler,PA,2,Phantom Reg. Cadets,World Class,77.5,1984
+08/07,Butler,PA,8,"General Butler
+  Vagabonds",World Class,63.7,1984
+08/07,Butler,PA,3,Northmen-NY,World Class,75.3,1984
+08/07,Butler,PA,9,Citations,World Class,60.1,1984
+08/07,Butler,PA,4,New York Lancers,World Class,71.6,1984
+08/07,Butler,PA,10,Fitchburg Kingsmen,World Class,57.6,1984
+08/07,Butler,PA,5,Patriots,World Class,68.9,1984
+08/07,Butler,PA,6,Ambassadors,World Class,66.9,1984
+08/07,Butler,PA,7,"General Butler
+  Vagabonds",World Class,66.6,1984
+08/07,Butler,PA,8,Black Watch-NJ,World Class,66.0,1984
+08/07,Butler,PA,9,Fitchburg Kingsmen,World Class,56.8,1984
+08/07,Butler,PA,9,Citations,World Class,56.8,1984
+08/07,Butler,PA,11,"Buckeye State
+  Caballaros",World Class,55.4,1984
+08/07,Butler,PA,11,Marion Cadets,World Class,55.4,1984
+08/07,Butler,PA,13,CMCC Warriors,World Class,49.1,1984
+08/07,Butler,PA,14,Sundowners,World Class,39.8,1984
+08/07,Butler,PA,15,Cadets of Dutch Boy,World Class,36.6,1984
+08/09,Bloomington,IN,1,Vanguard,World Class,95.8,1984
+08/09,Lynn,MA,1,Garfield Cadets,World Class,95.6,1984
+08/09,Norman,OK,1,Suncoast Sound,World Class,89.6,1984
+08/09,West Chester,PA,1,Crossmen,World Class,87.9,1984
+08/09,Bloomington,IN,2,Phantom Regiment,World Class,93.6,1984
+08/09,Lynn,MA,2,Blue Devils,World Class,94.9,1984
+08/09,Norman,OK,2,Cavaliers,World Class,84.6,1984
+08/09,West Chester,PA,2,Boston Crusaders,World Class,75.5,1984
+08/09,Bloomington,IN,3,Madison Scouts,World Class,91.4,1984
+08/09,Lynn,MA,3,Freelancers,World Class,86.6,1984
+08/09,Norman,OK,3,Troopers,World Class,78.6,1984
+08/09,West Chester,PA,3,Black Watch,World Class,45.1,1984
+08/09,Bloomington,IN,4,Spirit of Atlanta,World Class,90.0,1984
+08/09,Lynn,MA,4,27th Lancers,World Class,85.4,1984
+08/09,Norman,OK,4,Sky Ryders,World Class,76.0,1984
+08/09,Bloomington,IN,5,Bridgemen,World Class,81.6,1984
+08/09,Lynn,MA,5,Velvet Knights,World Class,79.2,1984
+08/09,Norman,OK,4,Connexion Quebec,World Class,61.0,1984
+08/09,Bloomington,IN,6,Colts,World Class,66.5,1984
+08/09,Norman,OK,6,California Dons,World Class,60.1,1984
+08/09,Bloomington,IN,7,Dutch Boy,World Class,63.5,1984
+08/09,Norman,OK,7,Argonauts,World Class,58.8,1984
+08/09,Norman,OK,8,Argonne Rebels,World Class,30.8,1984
+08/09,Alliance,OH,1,Empire Statesmen,World Class,76.2,1984
+08/10,Garfield,NJ,1,Garfield Cadets,World Class,96.3,1984
+08/10,Dallas,TX,1,Suncoast Sound,World Class,91.2,1984
+08/11,Alliance,OH,1,Les Crescendos,World Class,66.7,1984
+08/09,Alliance,OH,2,Guelph Royalaires,World Class,65.8,1984
+08/10,Garfield,NJ,2,Blue Devils,World Class,95.1,1984
+08/10,Dallas,TX,2,Cavaliers,World Class,87.0,1984
+08/11,Alliance,OH,2,Diplomats,World Class,64.7,1984
+08/09,Alliance,OH,3,Erie Thunderbirds,World Class,49.9,1984
+08/10,Garfield,NJ,3,Freelancers,World Class,85.9,1984
+08/10,Dallas,TX,3,Troopers,World Class,80.4,1984
+08/11,Alliance,OH,3,Bluecoats,World Class,60.4,1984
+08/10,Garfield,NJ,4,Crossmen,World Class,84.2,1984
+08/10,Dallas,TX,4,Sky Ryders,World Class,77.1,1984
+08/11,Alliance,OH,4,Emerald Knights,World Class,55.5,1984
+08/10,Garfield,NJ,5,27th Lancers,World Class,83.7,1984
+08/10,Dallas,TX,5,Argonauts,World Class,62.8,1984
+08/11,Alliance,OH,5,Valley Airs,World Class,55.1,1984
+08/10,Garfield,NJ,6,Valley Fever,World Class,72.0,1984
+08/10,Dallas,TX,6,Connexion Quebec,World Class,62.6,1984
+08/11,Alliance,OH,6,Phantom Reg. Cadets,World Class,48.4,1984
+08/10,Dallas,TX,7,Nighthawks,World Class,46.5,1984
+08/11,Momence,IL,1,Royal Grenadiers,World Class,61.7,1984
+08/11,Wakefield,MA,1,Muchachos,World Class,68.9,1984
+08/11,Ste. Brigade,Quebec,1,Sonner,World Class,47.3,1984
+08/11,Quebec City,Quebec,1,Royalaires,World Class,61.4,1984
+08/11,Momence,IL,2,Northmen-NY,World Class,57.1,1984
+08/11,Wakefield,MA,2,Royal Cadets,World Class,55.2,1984
+08/11,Ste. Brigade,Quebec,2,Horizon,World Class,47.1,1984
+08/11,Quebec City,Quebec,2,Troubadors,World Class,49.0,1984
+08/11,Momence,IL,3,Illiana Lancers,World Class,52.1,1984
+08/11,Ste. Brigade,Quebec,3,Incorruptibles,World Class,37.7,1984
+08/11,Quebec City,Quebec,3,Senateurs/Olympians,World Class,40.8,1984
+08/11,Momence,IL,4,Spirit of '76,World Class,48.3,1984
+08/11,Wakefield,MA,1,St. Joseph,World Class,82.2,1984
+08/11,Momence,IL,5,Cavalier Cadets,World Class,38.9,1984
+08/11,Wakefield,MA,2,Saint Ann,World Class,80.5,1984
+08/11,Ste. Brigade,Quebec,1,Brigade,World Class,54.9,1984
+08/11,Quebec City,Quebec,1,Adventuriers,World Class,53.3,1984
+08/11,Momence,IL,6,Sundowners,World Class,35.4,1984
+08/11,Wakefield,MA,3,Hudson CYO,World Class,78.8,1984
+08/11,Ste. Brigade,Quebec,2,Academie Musicale,World Class,49.8,1984
+08/11,Quebec City,Quebec,2,Mousquetaires,World Class,51.4,1984
+08/11,Momence,IL,7,Royal Knights,World Class,27.1,1984
+08/11,Ste. Brigade,Quebec,3,L'Insolite,World Class,45.4,1984
+08/11,Quebec City,Quebec,3,Renassiance,World Class,40.4,1984
+08/11,Wakefield,MA,1,St. Anthony,World Class,76.8,1984
+08/11,Ste. Brigade,Quebec,4,L'layde,World Class,43.7,1984
+08/11,Quebec City,Quebec,4,Abenski,World Class,37.1,1984
+08/11,Ste. Brigade,Quebec,5,Pioneers,World Class,22.2,1984
+08/11,Quebec City,Quebec,5,Avant Gardistes,World Class,29.3,1984
+08/11,Wakefield,MA,1,St. Joseph,World Class,61.8,1984
+08/11,Wakefield,MA,2,St. Agnes,World Class,58.1,1984
+08/11,Louisville,KY,1,Madison Scouts,World Class,92.3,1984
+08/11,Austin,TX,1,Suncoast Sound,World Class,88.0,1984
+08/11,Lansdale,PA,1,Blue Devils,World Class,95.9,1984
+08/12,Abingdon,WV,1,Phantom Regiment,World Class,95.2,1984
+08/11,Louisville,KY,2,Spirit of Atlanta,World Class,90.9,1984
+08/11,Austin,TX,2,Cavaliers,World Class,85.0,1984
+08/11,Lansdale,PA,2,Garfield Cadets,World Class,95.3,1984
+08/12,Abingdon,WV,2,Madison Scouts,World Class,93.1,1984
+08/11,Louisville,KY,3,Bridgemen,World Class,81.3,1984
+08/11,Austin,TX,3,Troopers,World Class,77.5,1984
+08/11,Lansdale,PA,3,Crossmen,World Class,86.9,1984
+08/12,Abingdon,WV,3,Freelancers,World Class,87.7,1984
+08/11,Louisville,KY,4,Knights,World Class,79.3,1984
+08/11,Austin,TX,4,Sky Ryders,World Class,74.9,1984
+08/11,Lansdale,PA,4,27th Lancers,World Class,83.2,1984
+08/12,Abingdon,WV,4,Knights,World Class,75.1,1984
+08/11,Louisville,KY,5,Avant Garde,World Class,77.5,1984
+08/11,Austin,TX,5,Connexion Quebec,World Class,55.5,1984
+08/11,Lansdale,PA,5,Velvet Knights,World Class,81.3,1984
+08/12,Abingdon,WV,5,Glassmen,World Class,67.5,1984
+08/11,Louisville,KY,6,Boston Crusaders,World Class,73.6,1984
+08/11,Austin,TX,6,Nighthawks,World Class,47.8,1984
+08/11,Lansdale,PA,6,Valley Fever,World Class,72.0,1984
+08/11,Louisville,KY,7,Pride of Cincinnati,World Class,63.8,1984
+08/12,Cary,NC,1,Vanguard,World Class,95.8,1984
+08/12,Houston,TX,1,Suncoast Sound,World Class,89.4,1984
+08/12,Victoriaville,Quebec,1,Royalaires,World Class,56.7,1984
+08/13,Columbia,SC,1,Garfield Cadets,World Class,96.2,1984
+08/12,Cary,NC,2,Crossmen,World Class,86.4,1984
+08/12,Houston,TX,2,Cavaliers,World Class,86.5,1984
+08/12,Victoriaville,Quebec,2,Troubadours,World Class,47.2,1984
+08/13,Columbia,SC,2,Vanguard,World Class,94.7,1984
+08/12,Cary,NC,3,27th Lancers,World Class,84.9,1984
+08/12,Houston,TX,3,Troopers,World Class,75.8,1984
+08/12,Victoriaville,Quebec,3,Sonner,World Class,42.7,1984
+08/13,Columbia,SC,3,Freelancers,World Class,89.0,1984
+08/12,Cary,NC,4,Velvet Knights,World Class,81.8,1984
+08/12,Houston,TX,4,Sky Ryders,World Class,75.6,1984
+08/12,Victoriaville,Quebec,4,Senateurs/Olympians,World Class,38.5,1984
+08/13,Columbia,SC,4,Crossmen,World Class,88.1,1984
+08/12,Cary,NC,5,Boston Crusaders,World Class,75.4,1984
+08/12,Houston,TX,5,Connexion Quebec,World Class,54.3,1984
+08/13,Columbia,SC,5,27th Lancers,World Class,85.5,1984
+08/12,Cary,NC,6,Valley Fever,World Class,75.3,1984
+08/12,Houston,TX,6,Nighthawks,World Class,45.6,1984
+08/12,Victoriaville,Quebec,1,Adventuriers,World Class,54.3,1984
+08/13,Columbia,SC,6,Boston Crusaders,World Class,74.3,1984
+08/12,Cary,NC,7,Colts,World Class,72.2,1984
+08/12,Victoriaville,Quebec,2,Academie Musicale,World Class,48.3,1984
+08/12,Cary,NC,8,Dutch Boy,World Class,65.7,1984
+08/12,Victoriaville,Quebec,3,Renaissance,World Class,46.9,1984
+08/12,Victoriaville,Quebec,4,Abenski,World Class,35.9,1984
+08/12,Victoriaville,Quebec,5,Voltigeurs,World Class,28.1,1984
+08/12,Victoriaville,Quebec,6,Avant Gardistes,World Class,26.4,1984
+08/13,Sevierville,TN,1,Madison Scouts,World Class,93.0,1984
+08/13,Shreveport,LA,1,Suncoast Sound,World Class,91.2,1984
+08/13,Sevierville,TN,2,Spirit of Atlanta,World Class,92.2,1984
+08/13,Shreveport,LA,2,Cavaliers,World Class,87.2,1984
+08/13,Sevierville,TN,3,Bridgemen,World Class,85.3,1984
+08/13,Shreveport,LA,3,Sky Ryders,World Class,78.0,1984
+08/13,Sevierville,TN,4,Avant Garde,World Class,78.5,1984
+08/13,Shreveport,LA,4,Argonauts,World Class,64.9,1984
+08/13,Sevierville,TN,5,Knights,World Class,76.5,1984
+08/13,Shreveport,LA,5,Connexion Quebec,World Class,56.2,1984
+08/13,Sevierville,TN,6,Les Eclipses,World Class,76.1,1984
+08/13,Sevierville,TN,7,Pride of Cincinnati,World Class,65.7,1984
+08/13,Atlanta,GA,1,Florida Wave,World Class,87.6,1984
+08/14,Atlanta,GA,1,Florida Wave,World Class,94.0,1984
+08/13,Atlanta,GA,2,Canadian Knights,World Class,80.1,1984
+08/14,Atlanta,GA,2,Canadian Knights,World Class,85.1,1984
+08/13,Atlanta,GA,3,Diplomats,World Class,79.0,1984
+08/14,Atlanta,GA,3,Diplomats,World Class,85.0,1984
+08/13,Atlanta,GA,4,Northmen-NY,World Class,78.8,1984
+08/14,Atlanta,GA,4,California Dons,World Class,83.8,1984
+08/13,Atlanta,GA,5,California Dons,World Class,75.8,1984
+08/14,Atlanta,GA,5,Northmen-NY,World Class,79.7,1984
+08/13,Atlanta,GA,6,Emerald Knights,World Class,74.4,1984
+08/14,Atlanta,GA,6,Ventures,World Class,75.2,1984
+08/13,Atlanta,GA,7,Anaheim Kingsmen,World Class,73.8,1984
+08/14,Atlanta,GA,7,Emerald Knights,World Class,74.3,1984
+08/13,Atlanta,GA,8,Ventures,World Class,72.7,1984
+08/14,Atlanta,GA,8,Anaheim Kingsmen,World Class,72.8,1984
+08/13,Atlanta,GA,9,Eagles of Central NY,World Class,71.2,1984
+08/13,Atlanta,GA,10,Long Island Grenadiers,World Class,70.0,1984
+08/13,Atlanta,GA,11,New York Lancers,World Class,69.4,1984
+08/13,Atlanta,GA,12,Spartans-WA,World Class,68.4,1984
+08/13,Atlanta,GA,13,Black Knights,World Class,67.6,1984
+08/13,Atlanta,GA,14,Marauders,World Class,65.3,1984
+08/13,Atlanta,GA,15,Pioneer,World Class,64.7,1984
+08/13,Atlanta,GA,16,PAL Windjammers,World Class,54.5,1984
+08/13,Atlanta,GA,17,Bandettes,World Class,54.0,1984
+08/13,Atlanta,GA,18,Fitchburg Kingsmen,World Class,53.7,1984
+08/13,Atlanta,GA,19,Argonne Rebels,World Class,51.0,1984
+08/13,Atlanta,GA,20,CMCC Warriors,World Class,50.1,1984
+08/13,Atlanta,GA,21,Marion Cadets,World Class,48.6,1984
+08/13,Atlanta,GA,22,CapitolAires,World Class,42.5,1984
+08/13,Atlanta,GA,23,Caballaros,World Class,42.0,1984
+08/13,Atlanta,GA,24,Buccaneers,World Class,41.0,1984
+08/13,Atlanta,GA,25,Conquistadors,World Class,39.8,1984
+08/15,Atlanta,GA,1,Florida Wave,Open Class,76.5,1984
+08/16,Atlanta,GA,1,Velvet Knights,Open Class,87.0,1984
+08/17,Atlanta,GA,1,Garfield Cadets,Open Class,97.5,1984
+08/18,Atlanta,GA,1,Garfield Cadets,Open Class,98.0,1984
+08/15,Atlanta,GA,2,Blue Knights,Open Class,72.0,1984
+08/16,Atlanta,GA,2,Troopers,Open Class,86.2,1984
+08/17,Atlanta,GA,2,Blue Devils,Open Class,96.8,1984
+08/18,Atlanta,GA,2,Blue Devils,Open Class,97.9,1984
+08/15,Atlanta,GA,3,Argonauts,Open Class,70.0,1984
+08/16,Atlanta,GA,3,Les Eclipses,Open Class,83.0,1984
+08/17,Atlanta,GA,3,Phantom Regiment,Open Class,95.0,1984
+08/18,Atlanta,GA,3,Vanguard,Open Class,97.4,1984
+08/15,Atlanta,GA,4,Les Crescendos,Open Class,66.9,1984
+08/16,Atlanta,GA,4,Avant Garde,Open Class,80.1,1984
+08/17,Atlanta,GA,4,Vanguard,Open Class,93.5,1984
+08/18,Atlanta,GA,4,Phantom Regiment,Open Class,95.6,1984
+08/15,Atlanta,GA,5,Bluecoats,Open Class,65.9,1984
+08/16,Atlanta,GA,5,Knights,Open Class,79.8,1984
+08/17,Atlanta,GA,5,Madison Scouts,Open Class,92.6,1984
+08/18,Atlanta,GA,5,Madison Scouts,Open Class,94.6,1984
+08/15,Atlanta,GA,6,Diplomats,Open Class,64.6,1984
+08/16,Atlanta,GA,6,Valley Fever,Open Class,78.8,1984
+08/17,Atlanta,GA,6,Spirit of Atlanta,Open Class,92.2,1984
+08/18,Atlanta,GA,6,Spirit of Atlanta,Open Class,93.1,1984
+08/15,Atlanta,GA,7,California Dons,Open Class,64.1,1984
+08/16,Atlanta,GA,7,Boston Crusaders,Open Class,78.6,1984
+08/17,Atlanta,GA,7,Suncoast Sound,Open Class,91.7,1984
+08/18,Atlanta,GA,7,Suncoast Sound,Open Class,92.0,1984
+08/15,Atlanta,GA,8,Valley Airs,Open Class,64.0,1984
+08/16,Atlanta,GA,8,Colts,Open Class,77.6,1984
+08/17,Atlanta,GA,8,Freelancers,Open Class,87.9,1984
+08/18,Atlanta,GA,8,Cavaliers,Open Class,89.7,1984
+08/15,Atlanta,GA,9,Anaheim Kingsmen,Open Class,62.0,1984
+08/16,Atlanta,GA,9,Florida Wave,Open Class,75.5,1984
+08/17,Atlanta,GA,9,Cavaliers,Open Class,87.1,1984
+08/18,Atlanta,GA,9,Freelancers,Open Class,88.8,1984
+08/15,Atlanta,GA,10,Connexion Quebec,Open Class,61.1,1984
+08/16,Atlanta,GA,10,Blue Knights,Open Class,73.5,1984
+08/17,Atlanta,GA,10,Crossmen,Open Class,86.6,1984
+08/18,Atlanta,GA,10,Crossmen,Open Class,86.3,1984
+08/15,Atlanta,GA,11,Northmen-NY,Open Class,60.6,1984
+08/16,Atlanta,GA,11,Dutch Boy,Open Class,70.6,1984
+08/17,Atlanta,GA,11,27th Lancers,Open Class,86.0,1984
+08/18,Atlanta,GA,11,27th Lancers,Open Class,85.6,1984
+08/15,Atlanta,GA,12,Emerald Knights,Open Class,60.4,1984
+08/16,Atlanta,GA,12,Pride of Cincinnati,Open Class,70.1,1984
+08/17,Atlanta,GA,12,Velvet Knights,Open Class,85.9,1984
+08/18,Atlanta,GA,12,Velvet Knights,Open Class,83.2,1984
+08/15,Atlanta,GA,13,New York Lancers,Open Class,59.6,1984
+08/16,Atlanta,GA,13,Argonauts,Open Class,69.9,1984
+08/17,Atlanta,GA,13,Troopers,Open Class,85.2,1984
+08/15,Atlanta,GA,14,Canadian Knights,Open Class,58.0,1984
+08/16,Atlanta,GA,13,California Dons,Open Class,69.9,1984
+08/17,Atlanta,GA,14,Bridgemen,Open Class,84.8,1984
+08/15,Atlanta,GA,15,Pioneer,Open Class,56.2,1984
+08/16,Atlanta,GA,15,Glassmen,Open Class,68.9,1984
+08/17,Atlanta,GA,15,Les Eclipses,Open Class,81.1,1984
+08/15,Atlanta,GA,16,Ventures,Open Class,54.6,1984
+08/16,Atlanta,GA,16,Bluecoats,Open Class,66.6,1984
+08/17,Atlanta,GA,16,Avant Garde,Open Class,80.9,1984
+08/15,Atlanta,GA,17,Saginaires,Open Class,54.4,1984
+08/16,Atlanta,GA,17,Diplomats,Open Class,66.5,1984
+08/17,Atlanta,GA,17,Sky Ryders,Open Class,80.7,1984
+08/15,Atlanta,GA,18,Eagles of Central NY,Open Class,54.1,1984
+08/16,Atlanta,GA,18,Les Crescendos,Open Class,65.7,1984
+08/17,Atlanta,GA,18,Knights,Open Class,76.6,1984
+08/15,Atlanta,GA,19,Marauders,Open Class,53.9,1984
+08/16,Atlanta,GA,19,Connexion Quebec,Open Class,65.1,1984
+08/17,Atlanta,GA,19,Boston Crusaders,Open Class,76.2,1984
+08/15,Atlanta,GA,20,Long Island Grenadiers,Open Class,51.6,1984
+08/16,Atlanta,GA,20,Valley Airs,Open Class,63.9,1984
+08/17,Atlanta,GA,20,Florida Wave,Open Class,74.5,1984
+08/15,Atlanta,GA,21,Black Knights,Open Class,50.4,1984
+08/16,Atlanta,GA,21,Emerald Knights,Open Class,62.2,1984
+08/17,Atlanta,GA,21,Valley Fever,Open Class,71.1,1984
+08/15,Atlanta,GA,22,Marion Cadets,Open Class,47.7,1984
+08/16,Atlanta,GA,22,Northmen-NY,Open Class,61.5,1984
+08/17,Atlanta,GA,22,Blue Knights,Open Class,70.7,1984
+08/15,Atlanta,GA,23,PAL Windjammers,Open Class,46.0,1984
+08/16,Atlanta,GA,23,Canadian Knights,Open Class,57.2,1984
+08/17,Atlanta,GA,23,Colts,Open Class,70.4,1984
+08/15,Atlanta,GA,24,Royal Grenadiers,Open Class,44.2,1984
+08/16,Atlanta,GA,24,Anaheim Kingsmen,Open Class,55.8,1984
+08/17,Atlanta,GA,24,Dutch Boy,Open Class,68.8,1984
+08/15,Atlanta,GA,25,CMCC Warriors,Open Class,43.0,1984
+08/16,Atlanta,GA,25,New York Lancers,Open Class,54.9,1984
+08/17,Atlanta,GA,25,Pride of Cincinnati,Open Class,66.4,1984
+08/15,Atlanta,GA,26,Caballaros,Open Class,33.6,1984
+08/15,Atlanta,GA,27,CapitolAires,Open Class,31.2,1984
+08/18,Westminster,MD,1,Hawthorne Caballeros,Open Class,88.9,1984
+08/18,Montreal,Quebec,1,Les Etoiles,Open Class,67.4,1984
+08/19,Queens,NY,1,Long Island Grenadiers,Open Class,78.6,1984
+08/24,Montreal,Quebec,1,Éclipses,Open Class,84.7,1984
+08/18,Westminster,MD,2,Connecticut Hurricanes,Open Class,83.2,1984
+08/18,Montreal,Quebec,2,Avo-En-Ciel,Open Class,60.1,1984
+08/19,Queens,NY,2,New Image,Open Class,73.8,1984
+08/24,Montreal,Quebec,2,Connexion Quebec,Open Class,71.8,1984
+08/18,Westminster,MD,3,Sunrisers,Open Class,79.95,1984
+08/18,Montreal,Quebec,3,Troubadours,Open Class,53.4,1984
+08/19,Queens,NY,3,Stormy Knights,Open Class,49.3,1984
+08/18,Westminster,MD,4,Archer Epler Musketeers,Open Class,69.6,1984
+08/18,Montreal,Quebec,4,Horizon,Open Class,44.8,1984
+08/24,Montreal,Quebec,1,Crescendos,Open Class,72.1,1984
+08/18,Westminster,MD,5,Steel City Ambassadors,Open Class,69.55,1984
+08/18,Montreal,Quebec,5,Incorruptibles,Open Class,38.8,1984
+08/24,Montreal,Quebec,2,Étoiles d’Or,Open Class,65.2,1984
+08/24,Montreal,Quebec,3,Royalistes,Open Class,59.7,1984
+08/18,Montreal,Quebec,1,Brigade,Open Class,56.4,1984
+08/24,Montreal,Quebec,4,Arc En Ciel,Open Class,57.8,1984
+08/18,Montreal,Quebec,2,Aventuries,Open Class,55.2,1984
+08/24,Montreal,Quebec,5,Troubadours,Open Class,49.7,1984
+08/18,Montreal,Quebec,3,L'Insolite,Open Class,48.4,1984
+08/24,Montreal,Quebec,6,Sonnor,Open Class,48.6,1984
+08/18,Montreal,Quebec,4,L'lyade,Open Class,45.6,1984
+08/24,Montreal,Quebec,7,Horizon,Open Class,45.7,1984
+08/24,Montreal,Quebec,8,Sénateurs Dynamiques,Open Class,44.4,1984
+08/24,Montreal,Quebec,9,Incorruptibles,Open Class,41.1,1984
+08/24,Montreal,Quebec,1,Académie Musicale,Open Class,66.1,1984
+08/24,Montreal,Quebec,2,Brigade,Open Class,58.8,1984
+08/24,Montreal,Quebec,3,Mousquetaires,Open Class,58.6,1984
+08/24,Montreal,Quebec,4,Aventuriers,Open Class,55.1,1984
+08/24,Montreal,Quebec,5,Insolite,Open Class,53.6,1984
+08/24,Montreal,Quebec,6,Renaissance,Open Class,53.3,1984
+08/24,Montreal,Quebec,7,Ilyade,Open Class,46.3,1984
+08/24,Montreal,Quebec,8,Abénakis,Open Class,38.3,1984
+08/24,Montreal,Quebec,9,Avant Gardistes,Open Class,34.1,1984
+08/24,Montreal,Quebec,10,Moussaillons,Open Class,30.7,1984
+08/24,Montreal,Quebec,11,Chapdelaines,Open Class,29.5,1984
+08/24,Montreal,Quebec,12,Voltigeurs,Open Class,29.1,1984
+08/24,Montreal,Quebec,13,Pionniers,Open Class,21.9,1984
+08/24,Montreal,Quebec,14,Mariniers,Open Class,20.3,1984
+08/25,Montreal,Quebec,1,Éclipses,Open Class,85.6,1984
+08/25,Mount Vernon,NY,1,New York Lancers,Open Class,85.7,1984
+08/25,Waterloo,Ontario,1,Canadian Knights,Open Class,93.7,1984
+08/25,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,90.6,1984
+08/25,Montreal,Quebec,2,Connexion Quebec,Open Class,71.4,1984
+08/25,Mount Vernon,NY,2,Long Island Grenadiers,Open Class,82.6,1984
+08/25,Waterloo,Ontario,2,Ontario Ambassadors,Open Class,86.9,1984
+08/25,Bridgeport,CT,2,Reading Buccaneers,Open Class,88.3,1984
+08/25,Mount Vernon,NY,3,Black Watch-NJ,Open Class,75.8,1984
+08/25,Waterloo,Ontario,3,Ventures,Open Class,85.8,1984
+08/25,Bridgeport,CT,3,Bushwackers,Open Class,84.65,1984
+08/25,Montreal,Quebec,1,Crescendos,Open Class,73.4,1984
+08/25,Mount Vernon,NY,4,New Image,Open Class,75.5,1984
+08/25,Waterloo,Ontario,4,Kiwanis Kavaliers,Open Class,75.1,1984
+08/25,Bridgeport,CT,4,Connecticut Hurricanes,Open Class,82.8,1984
+08/25,Montreal,Quebec,2,Étoiles d’Or,Open Class,66.7,1984
+08/25,Mount Vernon,NY,5,CMCC Warriors,Open Class,70.7,1984
+08/25,Bridgeport,CT,5,New York Skyliners,Open Class,82.75,1984
+08/25,Montreal,Quebec,3,Royalistes,Open Class,59.5,1984
+08/25,Mount Vernon,NY,6,PAL/Windjammers,Open Class,65.6,1984
+08/25,Waterloo,Ontario,1,Conqueror II,Open Class,49.5,1984
+08/25,Bridgeport,CT,6,Sunrisers,Open Class,82.65,1984
+08/25,Montreal,Quebec,4,Arc En Ciel,Open Class,59.0,1984
+08/25,Mount Vernon,NY,7,Stormy Knights,Open Class,52.1,1984
+08/25,Waterloo,Ontario,2,Saint Andrews,Open Class,45.6,1984
+08/25,Montreal,Quebec,5,Troubadours,Open Class,49.2,1984
+08/25,Waterloo,Ontario,3,Bluewater Buccaneers,Open Class,35.3,1984
+08/25,Waterloo,Ontario,4,Ridge Raiders,Open Class,33.6,1984
+08/25,Montreal,Quebec,1,Académie Musicale,Open Class,63.4,1984
+08/25,Montreal,Quebec,2,Brigade,Open Class,56.6,1984
+08/25,Montreal,Quebec,3,Mousquetaires,Open Class,51.6,1984
+08/25,Montreal,Quebec,4,Aventuriers,Open Class,48.6,1984
+09/02,Allentown,PA,1,Hawthorne Caballeros,Open Class,91.2,1984
+09/02,Allentown,PA,1,Hawthorne Caballeros,Open Class,92.4,1984
+09/02,Allentown,PA,1,Reading Buccaneers,Open Class,91.2,1984
+09/02,Allentown,PA,2,Reading Buccaneers,Open Class,91.95,1984
+09/02,Allentown,PA,3,Bushwackers,Open Class,88.55,1984
+09/02,Allentown,PA,3,Bushwackers,Open Class,89.0,1984
+09/02,Allentown,PA,4,Sunrisers,Open Class,84.7,1984
+09/02,Allentown,PA,4,Sunrisers,Open Class,86.45,1984
+09/02,Allentown,PA,5,New York Skyliners,Open Class,83.7,1984
+09/02,Allentown,PA,5,New York Skyliners,Open Class,84.05,1984
+09/02,Allentown,PA,6,Connecticut Hurricanes,Open Class,83.0,1984
+09/02,Allentown,PA,6,Connecticut Hurricanes,Open Class,83.25,1984
+09/02,Allentown,PA,7,Steel City Ambassadors,Open Class,75.35,1984
+09/02,Allentown,PA,7,Steel City Ambassadors,Open Class,74.2,1984
+09/02,Allentown,PA,8,Les Cascadeurs,Open Class,75.3,1984
+09/02,Allentown,PA,7,Les Cascadeurs,Open Class,74.2,1984
+09/02,Allentown,PA,9,Matadors,Open Class,72.55,1984
+09/02,Allentown,PA,9,Archer Epler Musketeers,Open Class,69.8,1984
+09/02,Allentown,PA,10,Archer Epler Musketeers,Open Class,70.6,1984
+09/02,Allentown,PA,10,Matadors,Open Class,69.35,1984
+09/02,Allentown,PA,11,Empire Statesmen,Open Class,69.65,1984
+09/02,Allentown,PA,12,Rochester Crusaders,Open Class,66.7,1984
+09/02,Allentown,PA,13,L 'Odyssee,Open Class,65.95,1984
+09/02,Allentown,PA,14,Royalaires,Open Class,64.2,1984
+09/02,Allentown,PA,15,Westshoremen,Open Class,61.6,1984
+09/02,Allentown,PA,16,Fort Edward Vagabonds,Open Class,58.0,1984
+09/02,Allentown,PA,17,Spirit of '76,Open Class,53.95,1984
+09/02,Allentown,PA,18,Thunderbirds,Open Class,52.9,1984
+09/02,Allentown,PA,19,Keystoners,Open Class,42.55,1984

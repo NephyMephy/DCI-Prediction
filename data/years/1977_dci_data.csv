@@ -1,0 +1,1571 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/15,Macomb,IL,1,Phantom Regiment,World Class,71.3,1977
+05/28,New London,CT,1,Boston Crusaders,World Class,65.65,1977
+05/29,Bridgeport,CT,1,Garfield Cadets,World Class,64.6,1977
+05/29,New Brunswick,NJ,1,Hawthorne Caballeros,World Class,78.45,1977
+05/15,Macomb,IL,2,Pioneer,World Class,52.1,1977
+05/28,New London,CT,2,27th Lancers,World Class,65.4,1977
+05/29,Bridgeport,CT,2,Crossmen,World Class,64.05,1977
+05/29,New Brunswick,NJ,2,Sunrisers,World Class,76.55,1977
+05/15,Macomb,IL,3,Flying Dutchmen,World Class,40.7,1977
+05/28,New London,CT,3,Garfield Cadets,World Class,62.25,1977
+05/29,Bridgeport,CT,3,North Star,World Class,62.6,1977
+05/29,New Brunswick,NJ,3,Reading Buccaneers,World Class,70.3,1977
+05/15,Macomb,IL,4,Statesmen,World Class,32.0,1977
+05/28,New London,CT,4,North Star,World Class,61.95,1977
+05/29,Bridgeport,CT,4,27th Lancers,World Class,62.75,1977
+05/29,New Brunswick,NJ,4,New York Skyliners,World Class,66.35,1977
+05/15,Macomb,IL,5,Nee-Hi's,World Class,30.0,1977
+05/28,New London,CT,5,Pembroke Imperials,World Class,52.55,1977
+05/29,Bridgeport,CT,5,Saint Ignatius,World Class,50.55,1977
+05/29,New Brunswick,NJ,5,Matadors,World Class,64.8,1977
+05/28,New London,CT,6,Saint Ignatius,World Class,52.1,1977
+05/28,New London,CT,7,Fitchburg Kingsmen,World Class,47.6,1977
+05/15,Macomb,IL,1,Hawthorne Caballeros,World Class,80.4,1977
+05/15,Macomb,IL,1,Sunrisers,World Class,80.4,1977
+05/15,Macomb,IL,3,New York Skyliners,World Class,71.5,1977
+05/15,Macomb,IL,4,Matadors,World Class,64.8,1977
+05/15,Macomb,IL,5,Westshoremen,World Class,55.15,1977
+06/03,Toronto,Ontario,1,Seneca Optimists,World Class,64.85,1977
+06/04,Bayonne,NJ,1,Crossmen,World Class,67.0,1977
+06/04,"Cedar
+  Rapids",IA,1,"Phantom
+  Regiment",World Class,64.65,1977
+06/04,Kingston,NY,1,Royal Brigade,World Class,65.2,1977
+06/03,Toronto,Ontario,2,Northstars,World Class,55.65,1977
+06/04,Bayonne,NJ,2,27th Lancers,World Class,66.85,1977
+06/04,"Cedar
+  Rapids",IA,2,"Emerald
+  Knights",World Class,54.3,1977
+06/04,Kingston,NY,2,Long Island Kingsmen,World Class,58.65,1977
+06/03,Toronto,Ontario,3,Cardinals,World Class,51.85,1977
+06/04,Bayonne,NJ,3,Garfield Cadets,World Class,65.85,1977
+06/04,"Cedar
+  Rapids",IA,3,"Fox
+  Valley Raiders",World Class,53.1,1977
+06/04,Kingston,NY,3,Patriots,World Class,48.2,1977
+06/03,Toronto,Ontario,4,Greece Cadets,World Class,51.0,1977
+06/04,"Cedar
+  Rapids",IA,4,Pioneer,World Class,49.85,1977
+06/04,Kingston,NY,4,Kings Regiment,World Class,41.6,1977
+06/03,Toronto,Ontario,5,Saint John's,World Class,42.7,1977
+06/04,Kingston,NY,5,Falcon Ridgemen,World Class,39.75,1977
+06/03,Toronto,Ontario,6,Rose City Guardsmen,World Class,34.95,1977
+06/04,Kingston,NY,6,Royales,World Class,31.15,1977
+06/03,Toronto,Ontario,7,Ventures,World Class,34.05,1977
+06/04,Hamden,CT,1,Hawthorne Caballeros,World Class,80.5,1977
+06/04,Lewistown,PA,1,Reading Buccaneers,World Class,76.5,1977
+06/05,Bergenfield,NJ,1,Bridgemen,World Class,66.5,1977
+06/05,East Moline,IA,1,Phantom Regiment,World Class,68.45,1977
+06/04,Hamden,CT,2,Sunrisers,World Class,80.35,1977
+06/04,Lewistown,PA,2,Rochester Crusaders,World Class,71.75,1977
+06/05,Bergenfield,NJ,2,"Garfield
+  Cadets",World Class,65.25,1977
+06/05,East Moline,IA,2,Emerald Knights,World Class,58.05,1977
+06/04,Hamden,CT,3,Matadors,World Class,71.8,1977
+06/04,Lewistown,PA,3,Thunderbirds,World Class,57.3,1977
+06/05,Bergenfield,NJ,3,"Long
+  Island Kingsmen",World Class,51.85,1977
+06/05,East Moline,IA,3,Fox Valley Raiders,World Class,57.9,1977
+06/04,Hamden,CT,4,New York Skyliners,World Class,71.35,1977
+06/04,Lewistown,PA,4,Westshoremen,World Class,54.6,1977
+06/05,Bergenfield,NJ,4,Saints,World Class,50.9,1977
+06/05,East Moline,IA,4,Pioneer,World Class,52.95,1977
+06/04,Lewistown,PA,5,Yankee Rebels,World Class,51.85,1977
+06/05,Bergenfield,NJ,5,"Saint
+  Ignatius",World Class,50.45,1977
+06/05,East Moline,IA,5,Flying Dutchmen,World Class,42.9,1977
+06/05,East Moline,IA,6,Statesmen,World Class,38.3,1977
+06/11,Nutley,NJ,1,Bridgemen,World Class,72.0,1977
+06/11,Appleton,WI,1,Madison Scouts,World Class,66.55,1977
+06/11,Johnsonburg,PA,1,"Hawthorne
+  Caballeros",World Class,75.6,1977
+06/11,Canton,IL,1,Phantom Regiment,World Class,70.25,1977
+06/11,Nutley,NJ,2,Garfield Cadets,World Class,67.65,1977
+06/11,Appleton,WI,2,Kilties,World Class,66.15,1977
+06/11,Johnsonburg,PA,2,Sunrisers,World Class,72.9,1977
+06/11,Canton,IL,2,Colts,World Class,59.15,1977
+06/11,Nutley,NJ,3,Saint Ignatius,World Class,53.55,1977
+06/11,Appleton,WI,3,Blue Stars,World Class,60.2,1977
+06/11,Johnsonburg,PA,3,Matadors,World Class,66.6,1977
+06/11,Canton,IL,3,Fox Valley Raiders,World Class,56.8,1977
+06/11,Nutley,NJ,4,Bengal Lancers,World Class,52.65,1977
+06/11,Appleton,WI,4,Marquis,World Class,58.45,1977
+06/11,Johnsonburg,PA,4,"Rochester
+  Crusaders",World Class,62.5,1977
+06/11,Canton,IL,4,Silver Sabres,World Class,49.35,1977
+06/11,Nutley,NJ,5,Royal Brigade,World Class,50.75,1977
+06/11,Appleton,WI,5,Wausau Story,World Class,56.55,1977
+06/11,Johnsonburg,PA,5,"Connecticut
+  Hurricanes",World Class,53.6,1977
+06/11,Canton,IL,5,Knights,World Class,44.35,1977
+06/11,Appleton,WI,6,Marion Cadets,World Class,44.8,1977
+06/11,Waterloo,Ontario,1,Seneca Optimists,World Class,71.15,1977
+06/12,Janesville,WI,1,Madison Scouts,World Class,62.0,1977
+06/12,Geneseo,IL,1,"Phantom
+  Regiment",World Class,65.2,1977
+06/12,Fulton,NY,1,Squires,World Class,67.85,1977
+06/11,Waterloo,Ontario,2,Northstars,World Class,63.8,1977
+06/12,Janesville,WI,2,Blue Stars,World Class,58.9,1977
+06/12,Geneseo,IL,2,"Fox
+  Valley Raiders",World Class,54.95,1977
+06/12,Fulton,NY,2,Cardinals,World Class,56.25,1977
+06/11,Waterloo,Ontario,3,Cardinals,World Class,52.65,1977
+06/12,Janesville,WI,3,Cavaliers,World Class,58.25,1977
+06/12,Geneseo,IL,3,"Emerald
+  Knights",World Class,53.55,1977
+06/12,Fulton,NY,3,Cadets of Greece,World Class,55.85,1977
+06/11,Waterloo,Ontario,4,Saint John's,World Class,46.6,1977
+06/12,Janesville,WI,4,Marquis,World Class,54.9,1977
+06/12,Geneseo,IL,4,Colts,World Class,51.0,1977
+06/12,Fulton,NY,4,76er's,World Class,45.25,1977
+06/11,Waterloo,Ontario,5,Ventures,World Class,36.65,1977
+06/12,Geneseo,IL,5,"Silver
+  Sabres",World Class,45.95,1977
+06/12,Fulton,NY,5,Mighty Liberators,World Class,44.25,1977
+06/11,Waterloo,Ontario,1,Golden Lions,World Class,62.6,1977
+06/11,Waterloo,Ontario,2,Kiwanis Kavaliers,World Class,42.8,1977
+06/11,Waterloo,Ontario,3,Ambassadors-ONT,World Class,37.6,1977
+06/17,Hasbrouck Heights,NJ,1,Bridgemen,World Class,71.25,1977
+06/17,Belvidere,IL,1,Madison Scouts,World Class,66.65,1977
+06/18,"Prairie
+  du Chien",WI,1,Marquis,World Class,63.75,1977
+06/18,Ajax,Ontario,1,Hyliters,World Class,45.0,1977
+06/17,Hasbrouck Heights,NJ,2,Garfield Cadets,World Class,63.95,1977
+06/17,Belvidere,IL,2,Blue Stars,World Class,64.1,1977
+06/18,"Prairie
+  du Chien",WI,2,"Wausau
+  Story",World Class,61.85,1977
+06/18,Ajax,Ontario,2,Coachmen (ONT),World Class,21.7,1977
+06/17,Hasbrouck Heights,NJ,3,Edison Saints,World Class,50.7,1977
+06/17,Belvidere,IL,3,Cavaliers,World Class,60.55,1977
+06/18,"Prairie
+  du Chien",WI,3,Colts,World Class,58.4,1977
+06/17,Hasbrouck Heights,NJ,4,Royal Brigade,World Class,48.2,1977
+06/17,Belvidere,IL,4,Guardsmen,World Class,57.65,1977
+06/18,"Prairie
+  du Chien",WI,4,Pioneer,World Class,56.35,1977
+06/18,Ajax,Ontario,1,Northstars,World Class,62.55,1977
+06/17,Hasbrouck Heights,NJ,5,Saint Ignatius,World Class,44.75,1977
+06/17,Belvidere,IL,5,Kilties,World Class,56.65,1977
+06/18,"Prairie
+  du Chien",WI,5,"Marion
+  Cadets",World Class,49.8,1977
+06/18,Ajax,Ontario,2,Krescendos,World Class,41.0,1977
+06/17,Belvidere,IL,6,Argonne Rebels,World Class,31.45,1977
+06/18,"Prairie
+  du Chien",WI,6,"Argonne
+  Rebels",World Class,34.75,1977
+06/18,Ajax,Ontario,3,Lions of London,World Class,34.65,1977
+06/18,Chicago,IL,1,Madison Scouts,World Class,72.0,1977
+06/18,Rochester,NY,1,Garfield Cadets,World Class,69.55,1977
+06/18,Lynn,MA,1,Bridgemen,World Class,74.5,1977
+06/18,Hershey,PA,1,Hawthorne Caballeros,World Class,80.4,1977
+06/18,Chicago,IL,2,Phantom Regiment,World Class,71.2,1977
+06/18,Rochester,NY,2,Seneca Optimists,World Class,67.95,1977
+06/18,Lynn,MA,2,North Star,World Class,70.1,1977
+06/18,Hershey,PA,2,Sunrisers,World Class,78.5,1977
+06/18,Chicago,IL,3,Blue Stars,World Class,68.15,1977
+06/18,Rochester,NY,3,Squires,World Class,65.65,1977
+06/18,Lynn,MA,3,"Boston
+  Crusaders",World Class,67.15,1977
+06/18,Hershey,PA,3,Reading Buccaneers,World Class,76.75,1977
+06/18,Chicago,IL,4,Cavaliers,World Class,65.9,1977
+06/18,Rochester,NY,4,Oakland Crusaders,World Class,55.7,1977
+06/18,Lynn,MA,4,"Pembroke
+  Imperials",World Class,56.35,1977
+06/18,Hershey,PA,4,Rochester Crusaders,World Class,70.75,1977
+06/18,Chicago,IL,5,Kilties,World Class,59.7,1977
+06/18,Rochester,NY,5,Gauchos,World Class,53.85,1977
+06/18,Lynn,MA,5,Defenders,World Class,55.55,1977
+06/18,Hershey,PA,5,Matadors,World Class,70.35,1977
+06/18,Chicago,IL,6,Troopers,World Class,58.15,1977
+06/18,Lynn,MA,6,"Fitchburg
+  Kingsmen",World Class,50.45,1977
+06/18,Hershey,PA,6,New York Skyliners,World Class,65.2,1977
+06/18,Chicago,IL,7,Fox Valley Raiders,World Class,49.1,1977
+06/18,Lynn,MA,7,Jeanettes,World Class,42.9,1977
+06/18,Hershey,PA,7,Yankee Rebels,World Class,53.05,1977
+06/18,Lynn,MA,8,"Saint
+  Francis Sancians",World Class,40.0,1977
+06/19,Waterton,WI,1,Phantom Regiment,World Class,72.85,1977
+06/19,Waverly,NY,1,Garfield Cadets,World Class,70.7,1977
+06/19,Aurora,IL,1,Guardsmen,World Class,66.05,1977
+06/19,Platteville,WI,1,Madison Scouts,World Class,69.05,1977
+06/19,Waterton,WI,2,Marquis,World Class,65.9,1977
+06/19,Waverly,NY,2,Seneca Optimists,World Class,68.1,1977
+06/19,Aurora,IL,2,Cavaliers,World Class,63.65,1977
+06/19,Platteville,WI,2,Blue Stars,World Class,65.65,1977
+06/19,Waterton,WI,3,Wausau Story,World Class,62.1,1977
+06/19,Waverly,NY,3,Crossmen,World Class,66.3,1977
+06/19,Aurora,IL,3,Kilties,World Class,61.65,1977
+06/19,Platteville,WI,3,Troopers,World Class,57.5,1977
+06/19,Waterton,WI,4,Pioneer,World Class,52.35,1977
+06/19,Waverly,NY,4,Squires,World Class,65.25,1977
+06/19,Aurora,IL,4,"Emerald
+  Knights",World Class,56.5,1977
+06/19,Platteville,WI,4,Colts,World Class,50.05,1977
+06/19,Waterton,WI,5,Marion Cadets,World Class,48.2,1977
+06/19,Waverly,NY,5,Gauchos,World Class,53.25,1977
+06/19,Aurora,IL,5,Knights,World Class,42.25,1977
+06/19,Aurora,IL,6,"Argonne
+  Rebels",World Class,40.0,1977
+06/23,Stillwater,MN,1,Blue Devils,World Class,78.9,1977
+06/24,LaCrosse,WI,1,Blue Devils,World Class,79.75,1977
+06/24,New York,NY,1,Sunrisers,World Class,85.55,1977
+06/25,Welland,Ontario,1,Seneca Optimists,World Class,74.3,1977
+06/23,Stillwater,MN,2,Vanguard,World Class,74.15,1977
+06/24,LaCrosse,WI,2,Vanguard,World Class,75.5,1977
+06/24,New York,NY,2,"Hawthorne
+  Caballeros",World Class,84.7,1977
+06/25,Welland,Ontario,2,Oakland Crusaders,World Class,68.15,1977
+06/23,Stillwater,MN,3,Madison Scouts,World Class,71.95,1977
+06/24,LaCrosse,WI,3,Madison Scouts,World Class,71.0,1977
+06/24,New York,NY,3,Matadors,World Class,81.2,1977
+06/25,Welland,Ontario,3,Northstars,World Class,65.85,1977
+06/23,Stillwater,MN,4,Blue Stars,World Class,69.65,1977
+06/24,LaCrosse,WI,4,Blue Stars,World Class,69.9,1977
+06/24,New York,NY,4,"Reading
+  Buccaneers",World Class,81.1,1977
+06/25,Welland,Ontario,4,Saint John's,World Class,47.55,1977
+06/23,Stillwater,MN,5,Freelancers,World Class,63.65,1977
+06/24,LaCrosse,WI,5,Troopers,World Class,60.4,1977
+06/24,New York,NY,5,"New York
+  Skyliners",World Class,79.0,1977
+06/25,Welland,Ontario,5,Lions of London,World Class,39.15,1977
+06/23,Stillwater,MN,6,Troopers,World Class,58.55,1977
+06/24,New York,NY,6,"Connecticut
+  Hurricanes",World Class,73.5,1977
+06/25,Welland,Ontario,1,Hyliters,World Class,66.2,1977
+06/25,Welland,Ontario,2,Golden Lions,World Class,65.3,1977
+06/25,Welland,Ontario,3,Kiwanis Kavaliers,World Class,44.4,1977
+06/25,Madison,WI,1,Blue Devils,World Class,78.75,1977
+06/25,Elk Grove Village,IL,1,Guardsmen,World Class,74.6,1977
+06/25,Rochester,NY,1,"Hawthorne
+  Caballeros",World Class,77.85,1977
+06/26,Cedarburg,WI,1,Marquis,World Class,71.95,1977
+06/25,Madison,WI,2,Vanguard,World Class,73.9,1977
+06/25,Elk Grove Village,IL,2,Cavaliers,World Class,74.45,1977
+06/25,Rochester,NY,2,"Reading
+  Buccaneers",World Class,72.85,1977
+06/26,Cedarburg,WI,2,Wausau Story,World Class,71.2,1977
+06/25,Madison,WI,3,Kilties,World Class,66.2,1977
+06/25,Elk Grove Village,IL,3,Fox Valley Raiders,World Class,61.95,1977
+06/25,Rochester,NY,3,"Rochester
+  Crusaders",World Class,68.8,1977
+06/26,Cedarburg,WI,3,Pioneer,World Class,64.5,1977
+06/25,Madison,WI,4,Freelancers,World Class,64.45,1977
+06/25,Elk Grove Village,IL,4,Knights,World Class,51.3,1977
+06/25,Rochester,NY,4,Matadors,World Class,68.7,1977
+06/26,Cedarburg,WI,4,Blue Knights,World Class,51.8,1977
+06/25,Madison,WI,5,Troopers,World Class,57.1,1977
+06/25,Elk Grove Village,IL,5,Vaqueros,World Class,50.4,1977
+06/25,Rochester,NY,5,"New York
+  Skyliners",World Class,68.25,1977
+06/26,Cedarburg,WI,5,West Bend Patriots,World Class,39.9,1977
+06/25,Elk Grove Village,IL,6,Flying Dutchmen,World Class,49.35,1977
+06/25,Rochester,NY,6,Thunderbirds,World Class,58.55,1977
+06/25,Elk Grove Village,IL,7,Imperials,World Class,44.05,1977
+06/25,Elk Grove Village,IL,8,Crusaders,World Class,39.05,1977
+06/26,London,Ontario,1,Northstars,World Class,71.8,1977
+06/26,Wheeling,IL,1,Blue Devils,World Class,79.35,1977
+06/26,Westwood,NJ,1,Bridgemen,World Class,79.75,1977
+06/27,Indianapolis,IN,1,Madison Scouts,World Class,75.05,1977
+06/26,London,Ontario,2,Saint John's,World Class,56.7,1977
+06/26,Wheeling,IL,2,Phantom Regiment,World Class,74.9,1977
+06/26,Westwood,NJ,2,"Garfield
+  Cadets",World Class,75.7,1977
+06/27,Indianapolis,IN,2,Blue Stars,World Class,70.25,1977
+06/26,London,Ontario,3,Krescendos,World Class,51.0,1977
+06/26,Wheeling,IL,3,Cavaliers,World Class,69.2,1977
+06/26,Westwood,NJ,3,North Star,World Class,67.65,1977
+06/27,Indianapolis,IN,3,Anaheim Kingsmen,World Class,59.3,1977
+06/26,London,Ontario,4,Rose City Guardsmen,World Class,49.0,1977
+06/26,Wheeling,IL,4,Guardsmen,World Class,66.15,1977
+06/27,Indianapolis,IN,4,Oakland Crusaders,World Class,58.65,1977
+06/26,London,Ontario,5,Lions of London,World Class,43.2,1977
+06/26,Wheeling,IL,5,Kilties,World Class,65.8,1977
+06/27,Indianapolis,IN,5,Spirit of Atlanta,World Class,57.6,1977
+06/26,London,Ontario,6,Coachmen-ONT,World Class,35.35,1977
+06/26,Wheeling,IL,6,Freelancers,World Class,63.0,1977
+06/27,Indianapolis,IN,6,Argonne Rebels,World Class,57.05,1977
+06/26,London,Ontario,7,General Putnam's Men,World Class,28.15,1977
+06/26,Wheeling,IL,7,Spirit of Atlanta,World Class,56.65,1977
+06/26,Wheeling,IL,8,Colts,World Class,55.7,1977
+06/26,Oshkosh,WI,1,Vanguard,World Class,76.7,1977
+06/29,Sevierville,TN,1,Blue Devils,World Class,79.65,1977
+06/29,Milwaukee,WI,1,Vanguard,World Class,76.85,1977
+06/30,Gadsden,GA,1,Blue Devils,World Class,82.15,1977
+06/26,Oshkosh,WI,2,Madison Scouts,World Class,72.65,1977
+06/29,Sevierville,TN,2,Madison Scouts,World Class,73.75,1977
+06/29,Milwaukee,WI,2,Cavaliers,World Class,73.4,1977
+06/30,Gadsden,GA,2,Madison Scouts,World Class,75.0,1977
+06/26,Oshkosh,WI,3,Blue Stars,World Class,70.7,1977
+06/29,Sevierville,TN,3,27th Lancers,World Class,64.9,1977
+06/29,Milwaukee,WI,3,Guardsmen,World Class,71.85,1977
+06/30,Gadsden,GA,3,27th Lancers,World Class,71.55,1977
+06/26,Oshkosh,WI,4,Marquis,World Class,64.1,1977
+06/29,Sevierville,TN,4,Crossmen,World Class,62.5,1977
+06/29,Milwaukee,WI,4,Blue Stars,World Class,71.8,1977
+06/30,Gadsden,GA,4,Crossmen,World Class,67.0,1977
+06/26,Oshkosh,WI,5,Troopers,World Class,56.35,1977
+06/29,Sevierville,TN,5,Argonne Rebels,World Class,61.05,1977
+06/29,Milwaukee,WI,5,Kilties,World Class,68.9,1977
+06/30,Gadsden,GA,5,Spirit of Atlanta,World Class,60.55,1977
+06/29,Sevierville,TN,6,Anaheim Kingsmen,World Class,57.45,1977
+06/29,Milwaukee,WI,6,Freelancers,World Class,65.85,1977
+06/30,Gadsden,GA,6,Anaheim Kingsmen,World Class,59.65,1977
+06/29,Sevierville,TN,7,Oakland Crusaders,World Class,56.85,1977
+06/29,Milwaukee,WI,7,Marquis,World Class,63.1,1977
+06/30,Gadsden,GA,7,Argonne Rebels,World Class,59.6,1977
+06/29,Sevierville,TN,8,Spirit of Atlanta,World Class,56.25,1977
+06/29,Milwaukee,WI,8,Troopers,World Class,59.4,1977
+06/30,Gadsden,GA,8,Oakland Crusaders,World Class,54.35,1977
+06/29,Milwaukee,WI,9,Pioneer,World Class,51.55,1977
+07/01,Arlington Heights,IL,1,Vanguard,World Class,78.55,1977
+07/01,Maryville,WI,1,Blue Stars,World Class,76.2,1977
+07/02,Marionette,WI,1,Marquis,World Class,67.45,1977
+07/02,Atlanta,GA,1,Blue Devils,World Class,80.95,1977
+07/01,Arlington Heights,IL,2,Phantom Regiment,World Class,75.8,1977
+07/01,Maryville,WI,2,Kilties,World Class,73.6,1977
+07/02,Marionette,WI,2,"Wausau
+  Story",World Class,66.8,1977
+07/02,Atlanta,GA,2,27th Lancers,World Class,75.95,1977
+07/01,Arlington Heights,IL,3,Freelancers,World Class,68.9,1977
+07/01,Maryville,WI,3,Marquis,World Class,68.7,1977
+07/02,Marionette,WI,3,Pioneer,World Class,56.5,1977
+07/02,Atlanta,GA,3,Madison Scouts,World Class,75.15,1977
+07/01,Arlington Heights,IL,4,Troopers,World Class,68.3,1977
+07/01,Maryville,WI,4,Pioneer,World Class,56.7,1977
+07/02,Marionette,WI,4,"Marion
+  Cadets",World Class,55.2,1977
+07/02,Atlanta,GA,4,Crossmen,World Class,69.4,1977
+07/01,Arlington Heights,IL,5,Fox Valley Raiders,World Class,54.7,1977
+07/01,Maryville,WI,5,CapitolAires,World Class,42.55,1977
+07/02,Marionette,WI,5,Caballaros,World Class,53.25,1977
+07/02,Atlanta,GA,5,Spirit of Atlanta,World Class,63.55,1977
+07/02,Marionette,WI,6,"Saint
+  John's Girls",World Class,45.6,1977
+07/02,Atlanta,GA,6,Anaheim Kingsmen,World Class,62.75,1977
+07/02,Atlanta,GA,7,Argonne Rebels,World Class,60.55,1977
+07/02,Atlanta,GA,8,Oakland Crusaders,World Class,56.0,1977
+07/02,Michigan City,IN,1,Vanguard,World Class,78.05,1977
+07/02,Herkimer,NY,1,Squires,World Class,68.45,1977
+07/02,Bridgeport,CT,1,"Hawthorne
+  Caballeros",World Class,89.0,1977
+07/03,Wheaton,IL,1,Blue Stars,World Class,72.95,1977
+07/02,Michigan City,IN,2,Phantom Regiment,World Class,77.7,1977
+07/02,Herkimer,NY,2,Gauchos,World Class,59.9,1977
+07/02,Bridgeport,CT,2,Sunrisers,World Class,84.0,1977
+07/03,Wheaton,IL,2,Fox Valley Raiders,World Class,59.45,1977
+07/02,Michigan City,IN,3,Cavaliers,World Class,72.9,1977
+07/02,Herkimer,NY,3,Avant Garde,World Class,58.7,1977
+07/02,Bridgeport,CT,3,"Reading
+  Buccaneers",World Class,81.0,1977
+07/03,Wheaton,IL,3,Knights,World Class,52.7,1977
+07/02,Michigan City,IN,3,Guardsmen,World Class,72.9,1977
+07/02,Herkimer,NY,4,Shoreliners,World Class,56.6,1977
+07/02,Bridgeport,CT,4,"New York
+  Skyliners",World Class,75.0,1977
+07/03,Wheaton,IL,4,Sky Ryders,World Class,51.15,1977
+07/02,Michigan City,IN,5,Blue Stars,World Class,71.8,1977
+07/02,Herkimer,NY,5,Greece Cadets,World Class,54.25,1977
+07/02,Bridgeport,CT,5,Matadors,World Class,74.0,1977
+07/03,Wheaton,IL,5,Vaqueros,World Class,45.4,1977
+07/02,Michigan City,IN,6,Kilties,World Class,69.45,1977
+07/02,Bridgeport,CT,6,"Connecticut
+  Hurricanes",World Class,72.0,1977
+07/03,Wheaton,IL,6,Skokie Imperials,World Class,36.95,1977
+07/02,Michigan City,IN,7,Freelancers,World Class,68.9,1977
+07/02,Michigan City,IN,8,Troopers,World Class,63.0,1977
+07/03,Rockford,IL,1,Vanguard,World Class,78.45,1977
+07/03,Oswego,NY,1,Squires,World Class,74.2,1977
+07/04,Columbia,SC,1,"Madison
+  Scouts",World Class,76.2,1977
+07/04,Columbus,WI,1,Phantom Regiment,World Class,79.2,1977
+07/03,Rockford,IL,2,Phantom Regiment,World Class,76.65,1977
+07/03,Oswego,NY,2,Gauchos,World Class,66.75,1977
+07/04,Columbia,SC,2,"27th
+  Lancers",World Class,75.5,1977
+07/04,Columbus,WI,2,Marquis,World Class,66.9,1977
+07/03,Rockford,IL,3,Guardsmen,World Class,73.8,1977
+07/03,Oswego,NY,3,Cadets of Greece,World Class,63.3,1977
+07/04,Columbia,SC,3,Crossmen,World Class,70.4,1977
+07/04,Columbus,WI,3,Wausau Story,World Class,65.65,1977
+07/03,Rockford,IL,4,Cavaliers,World Class,70.35,1977
+07/03,Oswego,NY,4,76er's,World Class,50.45,1977
+07/04,Columbia,SC,4,"Anaheim
+  Kingsmen",World Class,64.7,1977
+07/04,Columbus,WI,4,Silver Sabres,World Class,55.15,1977
+07/03,Rockford,IL,5,Freelancers,World Class,68.95,1977
+07/03,Oswego,NY,5,Mighty Liberators,World Class,50.0,1977
+07/04,Columbia,SC,5,"Oakland
+  Crusaders",World Class,57.45,1977
+07/04,Columbus,WI,5,Vagabonds,World Class,53.9,1977
+07/03,Rockford,IL,6,Troopers,World Class,61.2,1977
+07/03,Oswego,NY,6,Les Compagnons,World Class,46.75,1977
+07/04,Columbus,WI,6,CapitolAires,World Class,50.95,1977
+07/03,Oswego,NY,7,Les Boucliers,World Class,45.25,1977
+07/03,Oswego,NY,8,Mello-Dears,World Class,44.1,1977
+07/03,Oswego,NY,9,Krescendos,World Class,43.95,1977
+07/04,Sheboygan,WI,1,Blue Stars,World Class,76.65,1977
+07/04,Warren,PA,1,Squires,World Class,72.65,1977
+07/05,Winston-Salem,NC,1,"27th
+  Lancers",World Class,78.6,1977
+07/06,Virginia Beach,SC,1,Madison Scouts,World Class,78.6,1977
+07/04,Sheboygan,WI,2,Freelancers,World Class,75.8,1977
+07/04,Warren,PA,2,Gauchos,World Class,69.75,1977
+07/05,Winston-Salem,NC,2,"Madison
+  Scouts",World Class,78.35,1977
+07/06,Virginia Beach,SC,2,27th Lancers,World Class,77.75,1977
+07/04,Sheboygan,WI,3,Kilties,World Class,71.8,1977
+07/04,Warren,PA,3,Mighty Liberators,World Class,56.4,1977
+07/05,Winston-Salem,NC,3,Crossmen,World Class,73.45,1977
+07/06,Virginia Beach,SC,3,Crossmen,World Class,73.2,1977
+07/04,Sheboygan,WI,4,Pioneer,World Class,57.05,1977
+07/04,Warren,PA,4,C.D. of A,World Class,51.25,1977
+07/05,Winston-Salem,NC,4,"Anaheim
+  Kingsmen",World Class,70.85,1977
+07/06,Virginia Beach,SC,4,Anaheim Kingsmen,World Class,70.0,1977
+07/04,Sheboygan,WI,5,Marion Cadets,World Class,50.8,1977
+07/05,Winston-Salem,NC,5,"Oakland
+  Crusaders",World Class,64.35,1977
+07/06,Virginia Beach,SC,5,Oakland Crusaders,World Class,59.2,1977
+07/04,Sheboygan,WI,6,Saint John's Girls,World Class,41.85,1977
+07/08,Fort Wayne,IN,1,Guardsmen,World Class,75.35,1977
+07/08,Ramsey,NJ,1,Phantom Regiment,World Class,78.5,1977
+07/05,Allentown,PA,1,Bridgemen,World Class,78.7,1977
+07/09,Allentown,PA,1,Bridgemen,World Class,83.3,1977
+07/08,Fort Wayne,IN,2,Cavaliers,World Class,73.45,1977
+07/08,Ramsey,NJ,2,Madison Scouts,World Class,76.8,1977
+07/05,Allentown,PA,2,"Madison
+  Scouts",World Class,78.1,1977
+07/09,Allentown,PA,2,Phantom Regiment,World Class,79.6,1977
+07/08,Fort Wayne,IN,3,Kilties,World Class,70.9,1977
+07/08,Ramsey,NJ,3,Seneca Optimists,World Class,75.4,1977
+07/05,Allentown,PA,3,"Phantom
+  Regiment",World Class,77.25,1977
+07/09,Allentown,PA,3,Madison Scouts,World Class,79.55,1977
+07/08,Fort Wayne,IN,4,Marquis,World Class,60.05,1977
+07/08,Ramsey,NJ,4,Garfield Cadets,World Class,74.05,1977
+07/05,Allentown,PA,4,"27th
+  Lancers",World Class,75.8,1977
+07/09,Allentown,PA,4,27th Lancers,World Class,78.3,1977
+07/08,Fort Wayne,IN,5,Pioneer,World Class,55.15,1977
+07/05,Allentown,PA,5,Crossmen,World Class,74.0,1977
+07/09,Allentown,PA,5,Crossmen,World Class,75.95,1977
+07/05,Allentown,PA,6,"Seneca
+  Optimists",World Class,71.45,1977
+07/09,Allentown,PA,6,Seneca Optimists,World Class,74.4,1977
+07/05,Allentown,PA,7,North Star,World Class,70.85,1977
+07/09,Allentown,PA,7,North Star,World Class,72.45,1977
+07/05,Allentown,PA,8,Squires,World Class,70.4,1977
+07/09,Allentown,PA,8,Squires,World Class,71.95,1977
+07/05,Allentown,PA,9,"Garfield
+  Cadets",World Class,69.95,1977
+07/09,Allentown,PA,9,Garfield Cadets,World Class,70.8,1977
+07/05,Allentown,PA,10,"Anaheim
+  Kingsmen",World Class,68.4,1977
+07/09,Allentown,PA,10,Anaheim Kingsmen,World Class,67.0,1977
+07/05,Allentown,PA,11,"Boston
+  Crusaders",World Class,67.9,1977
+07/05,Allentown,PA,12,"Royal
+  Crusaders",World Class,67.45,1977
+07/05,Allentown,PA,13,"Oakland
+  Crusaders",World Class,63.25,1977
+07/05,Allentown,PA,14,"Bengal
+  Lancers",World Class,61.1,1977
+07/05,Allentown,PA,15,"Edison
+  Saints",World Class,58.9,1977
+07/05,Allentown,PA,16,Avant Garde,World Class,58.8,1977
+07/05,Allentown,PA,17,"Pembroke
+  Imperials",World Class,57.4,1977
+07/05,Allentown,PA,18,"Royal
+  Brigade",World Class,56.35,1977
+07/05,Allentown,PA,19,Gauchos,World Class,56.0,1977
+07/05,Allentown,PA,20,"Velvet
+  Knights",World Class,53.9,1977
+07/05,Allentown,PA,21,Vagabonds,World Class,51.8,1977
+07/05,Allentown,PA,22,"Black
+  Diamond",World Class,46.15,1977
+07/05,Allentown,PA,23,"Les
+  Boucliers",World Class,46.0,1977
+07/05,Allentown,PA,24,"Black
+  Watch-NJ",World Class,45.05,1977
+07/05,Allentown,PA,25,"New York
+  Lancers",World Class,44.5,1977
+07/05,Allentown,PA,26,"Audubon Bon
+  Bons",World Class,42.25,1977
+07/05,Allentown,PA,27,"Cranford
+  Patriots",World Class,38.85,1977
+07/05,Allentown,PA,28,Warriors,World Class,36.45,1977
+07/09,Lafayette,IN,1,Guardsmen,World Class,78.2,1977
+07/09,Clifton,NJ,1,Sunrisers,World Class,82.5,1977
+07/10,Boston,MA,1,"27th
+  Lancers",World Class,81.9,1977
+07/10,Cambridge,Ontario,1,Golden Lions,World Class,63.2,1977
+07/09,Lafayette,IN,2,Kilties,World Class,76.5,1977
+07/09,Clifton,NJ,2,Reading Buccaneers,World Class,78.5,1977
+07/10,Boston,MA,2,Bridgemen,World Class,81.5,1977
+07/10,Cambridge,Ontario,2,Hyliters,World Class,49.9,1977
+07/09,Lafayette,IN,3,Cavaliers,World Class,75.2,1977
+07/09,Clifton,NJ,3,New York Skyliners,World Class,78.35,1977
+07/10,Boston,MA,3,"Phantom
+  Regiment",World Class,80.75,1977
+07/10,Cambridge,Ontario,3,Kiwanis Kavaliers,World Class,38.3,1977
+07/09,Lafayette,IN,4,Marquis,World Class,67.4,1977
+07/09,Clifton,NJ,4,Rochester Crusaders,World Class,77.4,1977
+07/10,Boston,MA,4,"Madison
+  Scouts",World Class,80.3,1977
+07/10,Cambridge,Ontario,4,Saint Andrew's,World Class,36.3,1977
+07/09,Lafayette,IN,5,Pioneer,World Class,61.7,1977
+07/09,Clifton,NJ,5,Connecticut Hurricanes,World Class,62.8,1977
+07/10,Boston,MA,5,Crossmen,World Class,77.2,1977
+07/10,Cambridge,Ontario,5,"Percussion-naut
+  Patriots",World Class,36.2,1977
+07/09,Clifton,NJ,6,Yankee Rebels,World Class,57.8,1977
+07/10,Boston,MA,6,"Seneca
+  Optimists",World Class,74.35,1977
+07/10,Cambridge,Ontario,6,Ambassadors-ONT,World Class,34.3,1977
+07/10,Boston,MA,7,"Garfield
+  Cadets",World Class,73.75,1977
+07/10,Cambridge,Ontario,7,Coachmen-ONT,World Class,33.4,1977
+07/10,Boston,MA,8,North Star,World Class,73.45,1977
+07/10,Boston,MA,9,"Anaheim
+  Kingsmen",World Class,71.9,1977
+07/10,Boston,MA,10,"Oakland
+  Crusaders",World Class,64.35,1977
+07/10,Boston,MA,11,Muchachos,World Class,62.8,1977
+07/10,Boston,MA,12,Defenders,World Class,54.5,1977
+07/10,Kalamazoo,MI,1,Guardsmen,World Class,78.8,1977
+07/11,Montreal,Quebec,1,Madison Scouts,World Class,80.8,1977
+07/13,Rochester,NY,1,"Phantom
+  Regiment",World Class,78.95,1977
+07/15,Toronto,Ontario,1,Madison Scouts,World Class,81.3,1977
+07/10,Kalamazoo,MI,2,Kilties,World Class,76.15,1977
+07/11,Montreal,Quebec,2,Phantom Regiment,World Class,80.3,1977
+07/13,Rochester,NY,2,"Madison
+  Scouts",World Class,77.0,1977
+07/15,Toronto,Ontario,2,Phantom Regiment,World Class,80.6,1977
+07/10,Kalamazoo,MI,3,Cavaliers,World Class,75.55,1977
+07/11,Montreal,Quebec,3,Seneca Optimists,World Class,78.1,1977
+07/13,Rochester,NY,3,"Anaheim
+  Kingsmen",World Class,73.1,1977
+07/15,Toronto,Ontario,3,Anaheim Kingsmen,World Class,70.85,1977
+07/10,Kalamazoo,MI,4,Marquis,World Class,69.0,1977
+07/11,Montreal,Quebec,4,Anaheim Kingsmen,World Class,69.6,1977
+07/13,Rochester,NY,4,Squires,World Class,72.95,1977
+07/15,Toronto,Ontario,4,Oakland Crusaders,World Class,67.55,1977
+07/10,Kalamazoo,MI,5,Pioneer,World Class,64.1,1977
+07/11,Montreal,Quebec,5,Oakland Crusaders,World Class,66.15,1977
+07/13,Rochester,NY,5,"Royal
+  Crusaders",World Class,64.6,1977
+07/15,Toronto,Ontario,5,Royal Crusaders,World Class,63.75,1977
+07/11,Montreal,Quebec,6,Royal Crusaders,World Class,65.05,1977
+07/13,Rochester,NY,6,"Velvet
+  Knights",World Class,52.05,1977
+07/15,Toronto,Ontario,6,Velvet Knights,World Class,58.9,1977
+07/11,Montreal,Quebec,7,Velvet Knights,World Class,52.05,1977
+07/15,Spokane,WA,1,Troopers,World Class,69.8,1977
+07/16,Scarborough,Ontario,1,Northstars,World Class,70.15,1977
+07/16,Wausau,WI,1,Blue Stars,World Class,84.25,1977
+07/16,Binghamton,NY,1,Squires,World Class,80.0,1977
+07/15,Spokane,WA,2,Renaissance,World Class,69.0,1977
+07/16,Scarborough,Ontario,2,Cardinals,World Class,66.15,1977
+07/16,Wausau,WI,2,Marquis,World Class,78.2,1977
+07/16,Binghamton,NY,2,Gauchos,World Class,67.1,1977
+07/15,Spokane,WA,3,Seattle Imperials,World Class,67.8,1977
+07/16,Scarborough,Ontario,3,Bluecoats,World Class,65.5,1977
+07/16,Wausau,WI,3,"Wausau
+  Story",World Class,75.9,1977
+07/16,Binghamton,NY,3,Avant Garde,World Class,66.35,1977
+07/15,Spokane,WA,4,Knight Raiders,World Class,63.25,1977
+07/16,Scarborough,Ontario,4,Cleveland Caballeros,World Class,56.85,1977
+07/16,Wausau,WI,4,CapitolAires,World Class,64.8,1977
+07/16,Binghamton,NY,4,Cadets of Greece,World Class,65.55,1977
+07/15,Spokane,WA,5,Conquistadors,World Class,57.05,1977
+07/16,Scarborough,Ontario,5,Rose City Guardsmen,World Class,52.5,1977
+07/16,Wausau,WI,5,New Day,World Class,31.65,1977
+07/16,Binghamton,NY,5,76er's,World Class,59.15,1977
+07/15,Spokane,WA,6,Black Watch,World Class,52.55,1977
+07/16,Scarborough,Ontario,6,Saint John's Girls,World Class,49.45,1977
+07/16,Binghamton,NY,6,Imperial Regiment,World Class,57.9,1977
+07/15,Spokane,WA,7,Cascades,World Class,52.25,1977
+07/16,Scarborough,Ontario,7,Ventures,World Class,41.65,1977
+07/16,Binghamton,NY,7,Mello Dears,World Class,49.8,1977
+07/15,Spokane,WA,8,3rd Regiment,World Class,50.6,1977
+07/16,Binghamton,NY,8,King's Regiment,World Class,46.9,1977
+07/15,Spokane,WA,9,Titans,World Class,46.25,1977
+07/16,Binghamton,NY,9,Mark Twain Cadets,World Class,38.8,1977
+07/15,Spokane,WA,10,Wranglers,World Class,46.1,1977
+07/16,Binghamton,NY,10,Barons of Steuben,World Class,30.75,1977
+07/15,Spokane,WA,11,Canadian Royalaires,World Class,43.7,1977
+07/16,Binghamton,NY,11,Grey Ghosts,World Class,20.15,1977
+07/15,Spokane,WA,12,Highland Regiment,World Class,26.95,1977
+07/15,Spokane,WA,13,Skyliners,World Class,24.1,1977
+07/16,Providence,RI,1,Hawthorne Caballeros,World Class,87.35,1977
+07/19,Edmonton,Alberta,1,Calgary Cavaliers,World Class,83.8,1977
+07/19,Pasco,WA,1,Argonauts,World Class,70.15,1977
+07/19,Pasco,WA,1,Argonauts,World Class,71.65,1977
+07/16,Providence,RI,2,Sunrisers,World Class,84.75,1977
+07/19,Edmonton,Alberta,2,"Percussion-naut
+  Patriots",World Class,78.25,1977
+07/19,Pasco,WA,2,Troopers,World Class,67.6,1977
+07/19,Pasco,WA,2,Troopers,World Class,70.1,1977
+07/16,Providence,RI,3,Reading Buccaneers,World Class,80.85,1977
+07/19,Edmonton,Alberta,3,Edmonton All-Girls,World Class,74.9,1977
+07/19,Pasco,WA,3,"Knight
+  Raiders",World Class,64.65,1977
+07/19,Pasco,WA,3,Seattle Imperials,World Class,67.55,1977
+07/16,Providence,RI,4,New York Skyliners,World Class,78.35,1977
+07/19,Edmonton,Alberta,4,Ambassadors-ONT,World Class,74.55,1977
+07/19,Pasco,WA,4,Celebration,World Class,63.25,1977
+07/19,Pasco,WA,4,Knight Raiders,World Class,66.4,1977
+07/16,Providence,RI,5,Connecticut Hurricanes,World Class,70.85,1977
+07/19,Edmonton,Alberta,5,Ogden,World Class,55.65,1977
+07/19,Pasco,WA,5,Renaissance,World Class,61.25,1977
+07/19,Pasco,WA,5,Renaissance,World Class,62.15,1977
+07/19,Edmonton,Alberta,6,Oregon Crusaders,World Class,55.6,1977
+07/19,Pasco,WA,6,"Velvet
+  Knights",World Class,57.45,1977
+07/19,Pasco,WA,6,Velvet Knights,World Class,58.2,1977
+07/19,Pasco,WA,7,Conquistadors,World Class,55.0,1977
+07/19,Pasco,WA,6,Conquistadors,World Class,58.2,1977
+07/19,Pasco,WA,8,Cascades,World Class,46.85,1977
+07/19,Pasco,WA,8,Cascades,World Class,51.8,1977
+07/19,Pasco,WA,9,Titans,World Class,44.25,1977
+07/19,Pasco,WA,9,3rd Regiment,World Class,45.9,1977
+07/19,Pasco,WA,10,"3rd
+  Regiment",World Class,43.5,1977
+07/19,Pasco,WA,10,Titans,World Class,44.55,1977
+07/19,Pasco,WA,11,Black Watch,World Class,43.05,1977
+07/19,Pasco,WA,12,Wranglers,World Class,40.9,1977
+07/19,Pasco,WA,13,"Canadian
+  Royalaires",World Class,31.95,1977
+07/19,Pasco,WA,14,Guardsmen,World Class,20.7,1977
+07/20,Toronto,Ontario,1,Madison Junior Scouts,World Class,71.5,1977
+07/22,Wenatchee,WA,1,Seattle Imperials,World Class,68.25,1977
+07/23,"Port
+  Washington",WI,1,Kilties,World Class,76.95,1977
+07/23,Ottawa,Ontario,1,Seneca Optimists,World Class,81.75,1977
+07/20,Toronto,Ontario,2,Hyliters,World Class,70.7,1977
+07/22,Wenatchee,WA,2,Renaissance,World Class,61.6,1977
+07/23,"Port
+  Washington",WI,2,Blue Stars,World Class,75.25,1977
+07/23,Ottawa,Ontario,2,Oakland Crusaders,World Class,76.85,1977
+07/20,Toronto,Ontario,3,Golden Lions-ONT,World Class,63.5,1977
+07/22,Wenatchee,WA,3,Cascades,World Class,51.05,1977
+07/23,"Port
+  Washington",WI,3,"Wausau
+  Story",World Class,65.75,1977
+07/23,Ottawa,Ontario,3,Northstars,World Class,71.75,1977
+07/20,Toronto,Ontario,4,Kiltie Kadets,World Class,63.4,1977
+07/22,Wenatchee,WA,4,Black Watch,World Class,47.35,1977
+07/23,"Port
+  Washington",WI,4,"Fox
+  Valley Raiders",World Class,61.7,1977
+07/23,Ottawa,Ontario,4,Cardinals,World Class,68.1,1977
+07/20,Toronto,Ontario,5,Calgary Cavaliers,World Class,52.3,1977
+07/22,Wenatchee,WA,5,3rd Regiment,World Class,44.25,1977
+07/23,"Port
+  Washington",WI,5,"Cleveland
+  Caballeros",World Class,55.8,1977
+07/23,Ottawa,Ontario,5,Les Conpagons,World Class,57.3,1977
+07/20,Toronto,Ontario,6,Rose City Guardsmen,World Class,52.2,1977
+07/22,Wenatchee,WA,6,Titans,World Class,43.1,1977
+07/23,Ottawa,Ontario,6,Saint John's,World Class,55.5,1977
+07/20,Toronto,Ontario,7,General Putnam's Men,World Class,50.2,1977
+07/22,Wenatchee,WA,7,Canadian Royalaires,World Class,36.7,1977
+07/23,Ottawa,Ontario,7,Ventures,World Class,53.1,1977
+07/20,Toronto,Ontario,7,Kiwanis Kavaliers,World Class,50.2,1977
+07/22,Wenatchee,WA,8,Spartans,World Class,31.45,1977
+07/23,Ottawa,Ontario,8,Krescendos,World Class,47.8,1977
+07/20,Toronto,Ontario,9,Ambassadors-ONT,World Class,39.7,1977
+07/22,Wenatchee,WA,9,Guardsmen,World Class,26.4,1977
+07/23,Ottawa,Ontario,9,Lions of London,World Class,45.2,1977
+07/22,Wenatchee,WA,10,Highland Regiment,World Class,22.7,1977
+07/23,Ottawa,Ontario,1,Golden Lions,World Class,69.4,1977
+07/23,Ottawa,Ontario,2,Hyliters,World Class,66.8,1977
+07/23,Ottawa,Ontario,3,Kiwanis Kavaliers,World Class,60.6,1977
+07/23,Ottawa,Ontario,4,Ambassadors-ONT,World Class,41.1,1977
+07/23,Ottawa,Ontario,5,Coachmen-ONT,World Class,40.0,1977
+07/23,Carlisle,PA,1,Hawthorne Caballeros,World Class,83.85,1977
+07/23,Rochester,NY,1,Squires,World Class,73.65,1977
+07/23,Hamden,CT,1,Sunrisers,World Class,88.25,1977
+07/24,Fon du Lac,WI,1,Phantom Regiment,World Class,80.25,1977
+07/23,Carlisle,PA,2,Reading Buccaneers,World Class,81.15,1977
+07/23,Rochester,NY,2,Gauchos,World Class,61.95,1977
+07/23,Hamden,CT,2,"New York
+  Skyliners",World Class,83.3,1977
+07/24,Fon du Lac,WI,2,Blue Stars,World Class,77.65,1977
+07/23,Carlisle,PA,3,Rochester Crusaders,World Class,77.95,1977
+07/23,Rochester,NY,3,76er's,World Class,51.4,1977
+07/23,Hamden,CT,3,Matadors,World Class,82.45,1977
+07/24,Fon du Lac,WI,3,Kilties,World Class,75.3,1977
+07/23,Carlisle,PA,4,Thunderbirds,World Class,64.1,1977
+07/23,Rochester,NY,4,Niagara Frontiersmen,World Class,37.5,1977
+07/23,Hamden,CT,4,"Connecticut
+  Hurricanes",World Class,73.5,1977
+07/24,Fon du Lac,WI,4,Wausau Story,World Class,68.5,1977
+07/23,Carlisle,PA,5,Yankee Rebels,World Class,58.1,1977
+07/23,Hamden,CT,5,"Les
+  Ambassadors",World Class,68.95,1977
+07/24,Fon du Lac,WI,5,Caballaros,World Class,53.2,1977
+07/24,Kingston,Ontario,1,Seneca Optimists,World Class,82.0,1977
+07/24,Oshawa,Ontario,1,Hyliters,World Class,73.2,1977
+07/24,Kingston,Ontario,1,"Seneca
+  Optimists",World Class,82.0,1977
+07/24,Chenango Bridge,NY,1,Bridgemen,World Class,83.35,1977
+07/24,Kingston,Ontario,2,Oakland Crusaders,World Class,78.85,1977
+07/24,Oshawa,Ontario,2,Golden Lions,World Class,67.4,1977
+07/24,Kingston,Ontario,2,"Oakland
+  Crusaders",World Class,78.85,1977
+07/24,Chenango Bridge,NY,2,Squires,World Class,76.7,1977
+07/24,Kingston,Ontario,3,Northstars,World Class,74.15,1977
+07/24,Oshawa,Ontario,3,Kiltie Kadets,World Class,67.2,1977
+07/24,Kingston,Ontario,3,Northstars,World Class,74.15,1977
+07/24,Chenango Bridge,NY,3,Boston Crusaders,World Class,72.75,1977
+07/24,Kingston,Ontario,4,Cardinals,World Class,65.8,1977
+07/24,Oshawa,Ontario,4,Kiwanis Kavaliers,World Class,59.9,1977
+07/24,Kingston,Ontario,4,Cardinals,World Class,65.8,1977
+07/24,Chenango Bridge,NY,4,Avant Garde,World Class,60.25,1977
+07/24,Kingston,Ontario,5,Saint John's,World Class,57.0,1977
+07/24,Oshawa,Ontario,5,Rose City Guardsmen,World Class,50.0,1977
+07/24,Kingston,Ontario,5,"Saint
+  John's",World Class,57.0,1977
+07/24,Chenango Bridge,NY,5,Gauchos,World Class,58.1,1977
+07/24,Kingston,Ontario,6,Ventures,World Class,50.6,1977
+07/24,Oshawa,Ontario,6,Ambassadors-ONT,World Class,41.3,1977
+07/24,Kingston,Ontario,6,Ventures,World Class,50.6,1977
+07/24,Chenango Bridge,NY,6,Mark Twain Cadets,World Class,28.2,1977
+07/24,Kingston,Ontario,7,Krescendos,World Class,46.8,1977
+07/24,Oshawa,Ontario,7,Coachmen-ONT,World Class,34.1,1977
+07/24,Kingston,Ontario,7,Krescendos,World Class,46.8,1977
+07/29,Lynn,MA,1,Shoreliners,World Class,76.3,1977
+07/29,Lynn,MA,1,Shoreliners,Open Class,66.45,1977
+07/30,Lynn,MA,1,Bridgemen,Open Class,82.5,1977
+07/30,Lynn,MA,1,Bridgemen,Open Class,83.7,1977
+07/29,Lynn,MA,2,Mighty Liberators,World Class,69.35,1977
+07/29,Lynn,MA,2,Mighty Liberators,Open Class,58.65,1977
+07/30,Lynn,MA,2,"27th
+  Lancers",Open Class,82.3,1977
+07/30,Lynn,MA,2,27th Lancers,Open Class,80.7,1977
+07/29,Lynn,MA,3,Black Watch,World Class,69.05,1977
+07/29,Lynn,MA,3,Black Watch,Open Class,57.55,1977
+07/30,Lynn,MA,3,"Boston
+  Crusaders",Open Class,77.7,1977
+07/30,Lynn,MA,3,North Star,Open Class,77.5,1977
+07/29,Lynn,MA,4,Centurions,World Class,66.1,1977
+07/29,Lynn,MA,4,Centurions,Open Class,54.7,1977
+07/30,Lynn,MA,4,"Garfield
+  Cadets",Open Class,76.8,1977
+07/30,Lynn,MA,4,Garfield Cadets,Open Class,76.55,1977
+07/29,Lynn,MA,5,Valley-Airs,World Class,64.95,1977
+07/29,Lynn,MA,5,Les Compagnons,Open Class,52.15,1977
+07/30,Lynn,MA,5,Crossmen,Open Class,76.7,1977
+07/30,Lynn,MA,5,Crossmen,Open Class,75.85,1977
+07/29,Lynn,MA,6,Arbella,World Class,64.75,1977
+07/29,Lynn,MA,6,Valley-Airs,Open Class,49.6,1977
+07/30,Lynn,MA,6,Squires,Open Class,76.0,1977
+07/30,Lynn,MA,6,Boston Crusaders,Open Class,75.8,1977
+07/29,Lynn,MA,7,Les Compagnons,World Class,64.4,1977
+07/29,Lynn,MA,7,Arbella,Open Class,44.55,1977
+07/30,Lynn,MA,7,North Star,Open Class,75.55,1977
+07/30,Lynn,MA,7,Squires,Open Class,71.15,1977
+07/29,Lynn,MA,8,Heightsmen,World Class,63.05,1977
+07/30,Lynn,MA,8,"Offensive
+  Lions",Open Class,68.0,1977
+07/30,Lynn,MA,8,Bengal Lancers,Open Class,65.05,1977
+07/29,Lynn,MA,9,Renaissance,World Class,61.9,1977
+07/30,Lynn,MA,9,"Bengal
+  Lancers",Open Class,66.5,1977
+07/30,Lynn,MA,9,Offensive Lions,Open Class,63.7,1977
+07/29,Lynn,MA,10,Les Troubadores,World Class,60.6,1977
+07/30,Lynn,MA,10,Defenders,Open Class,66.15,1977
+07/30,Lynn,MA,10,Defenders,Open Class,62.95,1977
+07/29,Lynn,MA,11,Connecticut Classics,World Class,60.25,1977
+07/30,Lynn,MA,11,Avant Garde,Open Class,64.75,1977
+07/29,Lynn,MA,11,Dynamics,World Class,60.25,1977
+07/30,Lynn,MA,12,"Cadets of
+  Greece",Open Class,63.7,1977
+07/29,Lynn,MA,13,Crusading Militiamen,World Class,59.25,1977
+07/30,Lynn,MA,13,"Royal
+  Brigade",Open Class,63.45,1977
+07/29,Lynn,MA,14,Royales,World Class,59.0,1977
+07/30,Lynn,MA,14,"Saint
+  Ignatius",Open Class,63.0,1977
+07/29,Lynn,MA,15,Cranford Patriots,World Class,57.85,1977
+07/30,Lynn,MA,14,"Pembroke
+  Imperials",Open Class,63.0,1977
+07/29,Lynn,MA,16,Les Rancheros,World Class,57.7,1977
+07/30,Lynn,MA,16,"Fitchburg
+  Kingsmen",Open Class,55.9,1977
+07/29,Lynn,MA,17,King's Regiment,World Class,56.9,1977
+07/30,Lynn,MA,17,"Sword
+  Excalibur",Open Class,51.9,1977
+07/29,Lynn,MA,18,Sacred Heart Crusaders,World Class,56.45,1977
+07/30,Lynn,MA,18,"21st
+  Lancers",Open Class,50.9,1977
+07/29,Lynn,MA,19,Annunciators,World Class,53.05,1977
+07/30,Lynn,MA,19,"Saint
+  Francis Sancians",Open Class,50.3,1977
+07/29,Lynn,MA,20,Rhode Island Picadors,World Class,52.65,1977
+07/30,Lynn,MA,20,"CMCC
+  Warriors",Open Class,47.15,1977
+07/29,Lynn,MA,21,Barons of Steuben,World Class,49.95,1977
+07/30,Lynn,MA,21,"Amvet
+  Brigadiers",Open Class,46.05,1977
+07/29,Lynn,MA,22,Malden Ambassadors,World Class,49.45,1977
+07/30,Lynn,MA,22,"Falcon
+  Ridgemen",Open Class,44.55,1977
+07/29,Lynn,MA,23,Poughkeepsie Pacers,World Class,48.1,1977
+07/30,Lynn,MA,23,"Simplex
+  Ridgemen",Open Class,43.65,1977
+07/29,Lynn,MA,24,Imperial Knights,World Class,43.85,1977
+07/30,Lynn,MA,24,PAL Cadets,Open Class,39.6,1977
+07/29,Lynn,MA,25,Golden Buccaneers,World Class,42.0,1977
+07/29,Lynn,MA,26,Cadets of Saint Mary's,World Class,34.8,1977
+07/30,Longview,WA,1,Argonauts,World Class,74.3,1977
+07/30,Manitowoc,WI,1,Phantom Regiment,Open Class,81.8,1977
+07/30,Scranton,PA,1,"Reading
+  Buccaneers",Open Class,83.95,1977
+07/30,Spring Valley,NY,1,Sunrisers,Open Class,87.55,1977
+07/30,Longview,WA,2,Seattle Imperials,World Class,69.25,1977
+07/30,Manitowoc,WI,2,Guardsmen,Open Class,75.6,1977
+07/30,Scranton,PA,2,"Rochester
+  Crusaders",Open Class,80.25,1977
+07/30,Spring Valley,NY,2,Hawthorne Caballeros,Open Class,86.75,1977
+07/30,Longview,WA,3,Renaissance,World Class,63.15,1977
+07/30,Manitowoc,WI,3,Wausau Story,Open Class,71.15,1977
+07/30,Scranton,PA,3,"New York
+  Skyliners",Open Class,77.35,1977
+07/30,Spring Valley,NY,3,Matadors,Open Class,79.55,1977
+07/30,Longview,WA,4,Black Watch-WA,World Class,52.4,1977
+07/30,Manitowoc,WI,4,Marquis,Open Class,69.95,1977
+07/30,Scranton,PA,4,"Connecticut
+  Hurricanes",Open Class,71.25,1977
+07/30,Spring Valley,NY,4,Thunderbirds,Open Class,68.4,1977
+07/30,Longview,WA,5,Blue Knights,World Class,49.9,1977
+07/30,Manitowoc,WI,5,Colts,Open Class,66.6,1977
+07/30,Scranton,PA,5,"Yankee
+  Rebels",Open Class,65.65,1977
+07/30,Spring Valley,NY,5,Royalaires,Open Class,54.75,1977
+07/30,Longview,WA,6,Titans,World Class,46.2,1977
+07/30,Manitowoc,WI,6,Fox Valley Raiders,Open Class,62.45,1977
+07/30,Longview,WA,7,Canadian Royalaires,World Class,37.65,1977
+07/30,Manitowoc,WI,7,Vagabonds,Open Class,61.8,1977
+07/30,Manitowoc,WI,8,Pioneer,Open Class,61.15,1977
+07/30,Manitowoc,WI,9,Marion Cadets,Open Class,54.5,1977
+07/31,Jersey City,NJ,1,Hawthorne Caballeros,World Class,90.85,1977
+07/31,Ottawa,IL,1,Cavaliers,Open Class,74.45,1977
+07/31,Jersey City,NJ,2,Sunrisers,World Class,90.2,1977
+07/31,Ottawa,IL,2,Colts,Open Class,67.95,1977
+07/31,Jersey City,NJ,3,New York Skyliners,World Class,84.95,1977
+07/31,Ottawa,IL,3,Emerald Knights,Open Class,65.3,1977
+07/31,Jersey City,NJ,4,Matadors,World Class,83.75,1977
+07/31,Ottawa,IL,4,Knights,Open Class,58.1,1977
+07/31,Jersey City,NJ,5,Connecticut Hurricanes,World Class,74.95,1977
+07/31,Ottawa,IL,5,Vaqueros,Open Class,57.35,1977
+07/31,Ottawa,IL,6,CapitolAires,Open Class,53.25,1977
+07/31,Jersey City,NJ,1,Bridgemen,World Class,85.75,1977
+07/31,Jersey City,NJ,2,Crossmen,World Class,82.1,1977
+07/31,Jersey City,NJ,3,Garfield Cadets,World Class,78.95,1977
+07/31,Jersey City,NJ,4,Edison Saints,World Class,69.95,1977
+07/31,Jersey City,NJ,5,Muchachos,World Class,65.8,1977
+08/01,North Tonawanda,NY,1,Seneca Optimists,World Class,82.95,1977
+08/01,Simcoe,Ontario,1,Seneca Optimists,World Class,82.3,1977
+08/02,Great Bend,KS,1,Blue Stars,World Class,80.7,1977
+08/03,Bellefontaine,OH,1,Royal Crusaders,World Class,78.3,1977
+08/01,North Tonawanda,NY,2,North Star,World Class,75.85,1977
+08/01,Simcoe,Ontario,2,Oakland Crusaders,World Class,76.9,1977
+08/02,Great Bend,KS,2,Sky Ryders,World Class,68.7,1977
+08/03,Bellefontaine,OH,2,Cardinals,World Class,74.7,1977
+08/01,North Tonawanda,NY,3,Cadets of Greece,World Class,73.3,1977
+08/01,Simcoe,Ontario,3,Northstars,World Class,73.9,1977
+08/02,Great Bend,KS,3,Silver Sabres,World Class,66.3,1977
+08/03,Bellefontaine,OH,3,Bluecoats,World Class,68.7,1977
+08/01,North Tonawanda,NY,4,Avant Garde,World Class,69.5,1977
+08/01,Simcoe,Ontario,4,Cadets of Greece,World Class,67.6,1977
+08/02,Great Bend,KS,4,Argonne Rebels,World Class,56.8,1977
+08/01,North Tonawanda,NY,5,Bluecoats,World Class,65.05,1977
+08/01,Simcoe,Ontario,5,Bluecoats,World Class,66.25,1977
+08/02,Great Bend,KS,5,Valiant Knights,World Class,52.35,1977
+08/01,North Tonawanda,NY,6,Fitchburg Kingsmen,World Class,61.35,1977
+08/01,Simcoe,Ontario,6,Devils Dogs,World Class,43.05,1977
+08/02,Great Bend,KS,6,Continental Ambassadors,World Class,45.75,1977
+08/01,Simcoe,Ontario,7,Niagara Frontiersmen,World Class,39.55,1977
+08/01,Simcoe,Ontario,1,Golden Lions,World Class,71.4,1977
+08/01,Simcoe,Ontario,2,Kiwanis Kavaliers,World Class,52.3,1977
+08/01,Simcoe,Ontario,3,Durham Girls,World Class,43.2,1977
+08/03,Newark,NJ,1,Toppers,World Class,68.85,1977
+08/04,Ypsilanti,MI,1,Phantom Regiment,World Class,81.05,1977
+08/04,Ypsilanti,MI,1,Phantom Regiment,World Class,83.0,1977
+08/05,Phoenix,AZ,1,Blue Devils,World Class,87.35,1977
+08/03,Newark,NJ,2,Falcon Cadets,World Class,68.7,1977
+08/04,Ypsilanti,MI,2,27th Lancers,World Class,80.0,1977
+08/04,Ypsilanti,MI,2,27th Lancers,World Class,82.1,1977
+08/05,Phoenix,AZ,2,Vanguard,World Class,85.4,1977
+08/03,Newark,NJ,3,Legionnaires,World Class,56.85,1977
+08/04,Ypsilanti,MI,3,Seneca Optimists,World Class,77.3,1977
+08/04,Ypsilanti,MI,3,Seneca Optimists,World Class,79.3,1977
+08/05,Phoenix,AZ,3,Blue Stars,World Class,80.8,1977
+08/03,Newark,NJ,4,Blue Angels,World Class,51.35,1977
+08/04,Ypsilanti,MI,4,Guardsmen,World Class,75.55,1977
+08/04,Ypsilanti,MI,4,Guardsmen,World Class,75.75,1977
+08/05,Phoenix,AZ,4,Freelancers,World Class,79.6,1977
+08/03,Newark,NJ,5,Monarchs,World Class,51.15,1977
+08/04,Ypsilanti,MI,5,Oakland Crusaders,World Class,73.8,1977
+08/04,Ypsilanti,MI,5,Oakland Crusaders,World Class,70.75,1977
+08/05,Phoenix,AZ,5,Argonauts,World Class,72.6,1977
+08/03,Newark,NJ,6,Regimentals,World Class,49.9,1977
+08/04,Ypsilanti,MI,6,Royal Crusaders,World Class,71.8,1977
+08/04,Ypsilanti,MI,6,Royal Crusaders,World Class,68.3,1977
+08/05,Phoenix,AZ,6,Velvet Knights,World Class,59.25,1977
+08/03,Newark,NJ,7,Lindennaires,World Class,22.15,1977
+08/04,Ypsilanti,MI,7,Emerald Knights,World Class,68.0,1977
+08/04,Ypsilanti,MI,7,Northstars,World Class,65.5,1977
+08/04,Ypsilanti,MI,8,Northstars,World Class,67.45,1977
+08/04,Ypsilanti,MI,8,Emerald Knights,World Class,61.6,1977
+08/04,Ypsilanti,MI,9,Vagabonds,World Class,65.05,1977
+08/04,Ypsilanti,MI,10,Avant Garde,World Class,63.6,1977
+08/04,Ypsilanti,MI,11,Silver Sabres,World Class,61.7,1977
+08/04,Ypsilanti,MI,12,Caballaros,World Class,57.6,1977
+08/04,Ypsilanti,MI,13,Imperial Regiment,World Class,57.2,1977
+08/04,Ypsilanti,MI,14,Black Watch-NJ,World Class,53.35,1977
+08/04,Ypsilanti,MI,15,Miami Vanguard,World Class,53.2,1977
+08/04,Ypsilanti,MI,16,Golden Knights,World Class,46.7,1977
+08/04,Ypsilanti,MI,17,Imperials,World Class,41.7,1977
+08/05,Marion,Ohio,1,"Precious Blood
+  Cardinals",World Class,72.85,1977
+08/04,Whitewater,WI,1,Phantom Regiment,World Class,84.35,1977
+08/06,Whitewater,WI,1,Phantom Regiment,World Class,85.15,1977
+08/06,Los Angeles,CA,1,Blue Devils,World Class,89.45,1977
+08/05,Marion,Ohio,2,Bluecoats,World Class,70.7,1977
+08/04,Whitewater,WI,2,Bridgemen,World Class,81.45,1977
+08/06,Whitewater,WI,2,Bridgemen,World Class,84.4,1977
+08/06,Los Angeles,CA,2,Vanguard,World Class,84.6,1977
+08/05,Marion,Ohio,3,Shoreliners,World Class,67.7,1977
+08/04,Whitewater,WI,3,27th Lancers,World Class,80.3,1977
+08/06,Whitewater,WI,3,27th Lancers,World Class,84.25,1977
+08/06,Los Angeles,CA,3,Blue Stars,World Class,81.25,1977
+08/05,Marion,Ohio,4,Fire-ettes,World Class,64.55,1977
+08/04,Whitewater,WI,4,Madison Scouts,World Class,78.4,1977
+08/06,Whitewater,WI,4,Madison Scouts,World Class,81.5,1977
+08/06,Los Angeles,CA,4,Freelancers,World Class,79.05,1977
+08/05,Marion,Ohio,5,Les Chatelaines,World Class,62.25,1977
+08/04,Whitewater,WI,5,Guardsmen,World Class,76.9,1977
+08/06,Whitewater,WI,5,Kilties,World Class,80.65,1977
+08/06,Los Angeles,CA,5,Anaheim Kingsmen,World Class,77.15,1977
+08/05,Marion,Ohio,6,Saginaires,World Class,62.15,1977
+08/04,Whitewater,WI,6,Kilties,World Class,76.2,1977
+08/06,Whitewater,WI,6,Garfield Cadets,World Class,77.9,1977
+08/06,Los Angeles,CA,6,Argonauts,World Class,74.2,1977
+08/05,Marion,Ohio,7,Black Watch-NJ,World Class,60.0,1977
+08/04,Whitewater,WI,7,Cavaliers,World Class,74.2,1977
+08/06,Whitewater,WI,7,Cavaliers,World Class,77.05,1977
+08/06,Los Angeles,CA,7,Velvet Knights,World Class,64.8,1977
+08/05,Marion,Ohio,8,Windsor Guardsmen-ONT,World Class,58.6,1977
+08/04,Whitewater,WI,8,Garfield Cadets,World Class,73.0,1977
+08/06,Whitewater,WI,8,Guardsmen,World Class,76.35,1977
+08/06,Los Angeles,CA,8,Knight Raiders,World Class,62.5,1977
+08/05,Marion,Ohio,9,Fitchburg Kingsmen,World Class,57.45,1977
+08/04,Whitewater,WI,9,Colts,World Class,69.55,1977
+08/06,Whitewater,WI,9,Colts,World Class,67.4,1977
+08/06,Los Angeles,CA,9,Mandarins,World Class,33.5,1977
+08/05,Marion,Ohio,10,Ventures,World Class,57.35,1977
+08/04,Whitewater,WI,10,Emerald Knights,World Class,69.25,1977
+08/06,Whitewater,WI,10,Emerald Knights,World Class,63.3,1977
+08/05,Marion,Ohio,11,Mighty Liberators,World Class,51.75,1977
+08/04,Whitewater,WI,11,Fox Valley Raiders,World Class,67.7,1977
+08/05,Marion,Ohio,12,Connecticut Classics,World Class,50.3,1977
+08/04,Whitewater,WI,12,Spirit of Atlanta,World Class,66.2,1977
+08/04,Whitewater,WI,13,Marquis,World Class,66.0,1977
+08/04,Whitewater,WI,14,Wausau Story,World Class,64.55,1977
+08/04,Whitewater,WI,15,Pioneer,World Class,59.7,1977
+08/04,Whitewater,WI,16,Silver Sabres,World Class,59.2,1977
+08/04,Whitewater,WI,17,Knights,World Class,56.55,1977
+08/04,Whitewater,WI,18,Black Knights,World Class,56.0,1977
+08/04,Whitewater,WI,19,Blue Knights,World Class,55.8,1977
+08/04,Whitewater,WI,20,Imperial Regiment,World Class,54.0,1977
+08/04,Whitewater,WI,21,Miami Vanguard,World Class,53.15,1977
+08/04,Whitewater,WI,22,Argonne Rebels,World Class,48.55,1977
+08/04,Whitewater,WI,23,Vaqueros,World Class,48.2,1977
+08/04,Whitewater,WI,24,Midshipmen,World Class,43.4,1977
+08/04,Whitewater,WI,25,Flying Dutchmen,World Class,39.2,1977
+08/04,Whitewater,WI,26,"LaSalle County
+  Crusaders",World Class,34.85,1977
+08/04,Whitewater,WI,27,Mounties,World Class,30.25,1977
+08/04,Whitewater,WI,28,Saint Paul Scouts,World Class,25.1,1977
+08/06,Marion,OH,1,Seneca Optimists,World Class,81.95,1977
+08/06,Marion,OH,1,Seneca Optimists,World Class,85.05,1977
+08/06,Lewisburg,PA,1,Hawthorne Caballeros,World Class,83.95,1977
+08/06,Bramalea,Ontario,1,Hyliters,World Class,79.8,1977
+08/06,Marion,OH,2,Crossmen,World Class,81.9,1977
+08/06,Marion,OH,2,Crossmen,World Class,84.85,1977
+08/06,Lewisburg,PA,2,Reading Buccaneers,World Class,80.8,1977
+08/06,Bramalea,Ontario,2,Golden Lions,World Class,73.4,1977
+08/06,Marion,OH,3,Squires,World Class,78.9,1977
+08/06,Marion,OH,3,Squires,World Class,81.45,1977
+08/06,Lewisburg,PA,3,Rochester Crusaders,World Class,79.75,1977
+08/06,Bramalea,Ontario,3,Kiwanis Kavaliers,World Class,57.9,1977
+08/06,Marion,OH,4,Oakland Crusaders,World Class,77.9,1977
+08/06,Marion,OH,4,Oakland Crusaders,World Class,79.9,1977
+08/06,Lewisburg,PA,4,Thunderbirds,World Class,67.4,1977
+08/06,Bramalea,Ontario,4,Ambassadors-ONT,World Class,53.7,1977
+08/06,Marion,OH,5,Royal Crusaders,World Class,74.4,1977
+08/06,Marion,OH,5,Royal Crusaders,World Class,74.35,1977
+08/06,Lewisburg,PA,5,Westshoremen,World Class,62.6,1977
+08/06,Marion,OH,6,Avant Garde,World Class,73.05,1977
+08/06,Marion,OH,6,Avant Garde,World Class,73.85,1977
+08/06,Lewisburg,PA,6,Yankee Rebels,World Class,59.25,1977
+08/06,Marion,OH,7,Northstars,World Class,70.35,1977
+08/06,Marion,OH,7,Northstars,World Class,71.15,1977
+08/06,Marion,OH,8,Royal Brigade,World Class,70.15,1977
+08/06,Marion,OH,8,Offensive Lions,World Class,70.9,1977
+08/06,Marion,OH,9,Edison Saints,World Class,70.1,1977
+08/06,Marion,OH,9,Royal Brigade,World Class,69.05,1977
+08/06,Marion,OH,10,Offensive Lions,World Class,69.7,1977
+08/06,Marion,OH,10,Edison Saints,World Class,68.95,1977
+08/06,Marion,OH,11,Defenders,World Class,68.4,1977
+08/06,Marion,OH,12,Vagabonds,World Class,65.55,1977
+08/06,Marion,OH,13,Marion Cadets,World Class,64.3,1977
+08/06,Marion,OH,14,Caballaros,World Class,63.75,1977
+08/06,Marion,OH,15,Gauchos,World Class,63.15,1977
+08/06,Marion,OH,16,Golden Knights,World Class,57.85,1977
+08/06,Marion,OH,17,Belvederes,World Class,56.85,1977
+08/06,Marion,OH,18,PAL Cadets,World Class,46.55,1977
+08/07,West Chicago,IL,1,Fox Valley Raiders,World Class,69.2,1977
+08/07,Belleville,IL,1,Crossmen,World Class,78.25,1977
+08/07,Racine,WI,1,Phantom Regiment,World Class,87.5,1977
+08/07,Long Beach,CA,1,Blue Stars,World Class,79.3,1977
+08/07,West Chicago,IL,2,Emerald Knights,World Class,67.05,1977
+08/07,Belleville,IL,2,Squires,World Class,73.75,1977
+08/07,Racine,WI,2,Bridgemen,World Class,86.45,1977
+08/07,Long Beach,CA,2,Freelancers,World Class,78.3,1977
+08/07,West Chicago,IL,3,Silver Sabres,World Class,66.2,1977
+08/07,Belleville,IL,3,Garfield Cadets,World Class,72.3,1977
+08/07,Racine,WI,3,Madison Scouts,World Class,84.3,1977
+08/07,Long Beach,CA,3,Argonauts,World Class,76.15,1977
+08/07,West Chicago,IL,4,Pioneer,World Class,64.95,1977
+08/07,Belleville,IL,4,Spirit of Atlanta,World Class,68.65,1977
+08/07,Racine,WI,4,Guardsmen,World Class,80.3,1977
+08/07,Long Beach,CA,4,Anaheim Kingsmen,World Class,74.7,1977
+08/07,West Chicago,IL,5,Knights,World Class,63.45,1977
+08/07,Belleville,IL,5,Royal Crusaders,World Class,68.2,1977
+08/07,Racine,WI,5,Cavaliers,World Class,79.45,1977
+08/07,Long Beach,CA,5,Knight Raiders,World Class,64.8,1977
+08/07,West Chicago,IL,6,Skokie Imperials,World Class,52.65,1977
+08/07,Belleville,IL,6,Black Knights,World Class,52.55,1977
+08/07,West Chicago,IL,7,Chicago Hornets,World Class,40.8,1977
+08/07,Belleville,IL,7,Sword Excalibur,World Class,48.1,1977
+08/07,Wisconsin Rapids,WI,1,Imperial Regiment,World Class,64.35,1977
+08/07,Brantford,Ontario,1,Saint Ignatius,World Class,70.6,1977
+08/07,Durham,Ontario,1,Golden Lions,World Class,79.6,1977
+08/08,Alton,IL,1,Phantom Regiment,World Class,85.65,1977
+08/07,Wisconsin Rapids,WI,2,Vaqueros,World Class,53.85,1977
+08/07,Brantford,Ontario,2,Fire-ettes,World Class,68.45,1977
+08/07,Durham,Ontario,2,Hyliters,World Class,75.6,1977
+08/08,Alton,IL,2,27th Lancers,World Class,82.05,1977
+08/07,Wisconsin Rapids,WI,3,Midshipmen (MI),World Class,48.9,1977
+08/07,Brantford,Ontario,3,Les Chatelaines,World Class,67.4,1977
+08/07,Durham,Ontario,3,Saint Andrew's,World Class,57.7,1977
+08/08,Alton,IL,3,Seneca Optimists,World Class,79.2,1977
+08/07,Wisconsin Rapids,WI,4,West Bend Patriots,World Class,46.15,1977
+08/07,Brantford,Ontario,4,Jeanettes,World Class,62.95,1977
+08/07,Durham,Ontario,4,Durham Girls,World Class,57.1,1977
+08/08,Alton,IL,4,Kilties,World Class,78.75,1977
+08/07,Wisconsin Rapids,WI,5,Mounties,World Class,37.6,1977
+08/07,Brantford,Ontario,5,Saint John's,World Class,60.05,1977
+08/07,Durham,Ontario,4,Kiwanis Kavaliers,World Class,57.1,1977
+08/08,Alton,IL,5,Guardsmen,World Class,76.7,1977
+08/07,Wisconsin Rapids,WI,6,Wranglers,World Class,34.9,1977
+08/07,Brantford,Ontario,6,Mello-Dears,World Class,57.85,1977
+08/07,Durham,Ontario,6,Ambassadors-ONT,World Class,50.9,1977
+08/08,Alton,IL,6,Garfield Cadets,World Class,75.5,1977
+08/07,Brantford,Ontario,6,Ventures,World Class,57.85,1977
+08/07,Durham,Ontario,7,Coachmen-ONT,World Class,40.3,1977
+08/08,Alton,IL,7,Oakland Crusaders,World Class,74.65,1977
+08/07,Brantford,Ontario,8,Socialites,World Class,46.85,1977
+08/08,Alton,IL,8,Squires,World Class,73.3,1977
+08/07,Brantford,Ontario,9,Praesidium,World Class,38.5,1977
+08/07,Durham,Ontario,1,Belles of Saint John,World Class,66.3,1977
+08/07,Brantford,Ontario,10,Suburbanettes,World Class,27.9,1977
+08/07,Durham,Ontario,2,Optimist Lancers,World Class,53.5,1977
+08/08,Dubuque,IA,1,Bridgemen,World Class,85.35,1977
+08/08,San Jose,CA,1,Blue Devils,World Class,86.5,1977
+08/09,Fort Madison,IA,1,Squires,World Class,76.55,1977
+08/09,Martin,TN,1,Kilties,World Class,81.05,1977
+08/08,Dubuque,IA,2,Madison Scouts,World Class,83.35,1977
+08/08,San Jose,CA,2,Vanguard,World Class,84.5,1977
+08/09,Fort Madison,IA,2,Royal Crusaders,World Class,72.35,1977
+08/09,Martin,TN,2,Garfield Cadets,World Class,79.7,1977
+08/08,Dubuque,IA,3,Cavaliers,World Class,79.8,1977
+08/08,San Jose,CA,3,Blue Stars,World Class,81.35,1977
+08/09,Fort Madison,IA,3,Marquis,World Class,68.85,1977
+08/09,Martin,TN,3,Guardsmen,World Class,79.45,1977
+08/08,Dubuque,IA,4,Marquis,World Class,72.45,1977
+08/08,San Jose,CA,4,Freelancers,World Class,79.1,1977
+08/09,Fort Madison,IA,4,Colts,World Class,68.4,1977
+08/09,Martin,TN,4,Crossmen,World Class,78.55,1977
+08/08,Dubuque,IA,5,Pioneer,World Class,62.2,1977
+08/08,San Jose,CA,5,Anaheim Kingsmen,World Class,75.35,1977
+08/09,Fort Madison,IA,5,Spirit of Atlanta,World Class,67.6,1977
+08/09,Martin,TN,5,CapitolAires,World Class,54.3,1977
+08/08,Dubuque,IA,6,Argonne Rebels,World Class,58.65,1977
+08/08,San Jose,CA,6,Argonauts,World Class,74.55,1977
+08/09,Fort Madison,IA,6,Emerald Knights,World Class,67.25,1977
+08/09,Martin,TN,6,Sword Excalibur,World Class,50.8,1977
+08/08,San Jose,CA,7,Velvet Knights,World Class,65.05,1977
+08/10,Wichita,KS,1,Phantom Regiment,World Class,84.2,1977
+08/10,Little Rock,AR,1,Kilties,World Class,80.8,1977
+08/10,Omaha,NE,1,Bridgemen,World Class,86.6,1977
+08/10,Butler,PA,1,North Star,World Class,82.7,1977
+08/10,Wichita,KS,2,27th Lancers,World Class,81.8,1977
+08/10,Little Rock,AR,2,Guardsmen,World Class,79.5,1977
+08/10,Omaha,NE,2,Cavaliers,World Class,79.15,1977
+08/10,Butler,PA,2,Royal Brigade,World Class,75.25,1977
+08/10,Wichita,KS,3,Seneca Optimists,World Class,78.75,1977
+08/10,Little Rock,AR,3,Crossmen,World Class,79.05,1977
+08/10,Omaha,NE,3,Marquis,World Class,76.3,1977
+08/10,Butler,PA,3,Avant Garde,World Class,74.05,1977
+08/10,Wichita,KS,4,Oakland Crusaders,World Class,75.05,1977
+08/10,Little Rock,AR,4,Garfield Cadets,World Class,78.95,1977
+08/10,Omaha,NE,4,Troopers,World Class,74.55,1977
+08/10,Butler,PA,4,Northstars,World Class,73.6,1977
+08/10,Wichita,KS,5,Silver Sabres,World Class,61.05,1977
+08/10,Little Rock,AR,5,Spirit of Atlanta,World Class,69.05,1977
+08/10,Omaha,NE,5,Wausau Story,World Class,69.85,1977
+08/10,Butler,PA,5,Cardinals,World Class,72.5,1977
+08/10,Wichita,KS,6,Sky Ryders,World Class,59.45,1977
+08/10,Little Rock,AR,6,CapitolAires,World Class,56.85,1977
+08/10,Omaha,NE,6,Colts,World Class,69.25,1977
+08/10,Butler,PA,6,Gauchos,World Class,70.55,1977
+08/10,Wichita,KS,7,Continental Ambassadors,World Class,41.85,1977
+08/10,Little Rock,AR,7,Sword Excalibur,World Class,55.05,1977
+08/10,Omaha,NE,7,Argonne Rebels,World Class,58.25,1977
+08/10,Butler,PA,7,Muchachos,World Class,69.4,1977
+08/10,Butler,PA,8,Offensive Lions,World Class,68.4,1977
+08/10,Butler,PA,9,Cadets of Greece,World Class,66.25,1977
+08/10,Butler,PA,10,Bluecoats,World Class,65.2,1977
+08/10,Butler,PA,11,Vagabonds,World Class,61.1,1977
+08/10,Butler,PA,12,Caballaros,World Class,60.5,1977
+08/11,Boise,ID,1,Vanguard,World Class,87.75,1977
+08/11,Boise,ID,1,Blue Devils,World Class,90.05,1977
+08/11,North Platte,NE,1,Bridgemen,World Class,86.5,1977
+08/12,Salina,KS,1,Phantom Regiment,World Class,86.65,1977
+08/11,Boise,ID,2,Blue Devils,World Class,86.7,1977
+08/11,Boise,ID,2,Vanguard,World Class,87.9,1977
+08/11,North Platte,NE,2,Cavaliers,World Class,79.9,1977
+08/12,Salina,KS,2,27th Lancers,World Class,84.4,1977
+08/11,Boise,ID,3,Blue Stars,World Class,83.65,1977
+08/11,Boise,ID,3,Blue Stars,World Class,83.9,1977
+08/11,North Platte,NE,3,Troopers,World Class,74.6,1977
+08/12,Salina,KS,3,Seneca Optimists,World Class,79.9,1977
+08/11,Boise,ID,4,Freelancers,World Class,82.45,1977
+08/11,Boise,ID,4,Freelancers,World Class,82.3,1977
+08/11,North Platte,NE,3,Marquis,World Class,74.6,1977
+08/12,Salina,KS,4,Royal Crusaders,World Class,73.25,1977
+08/11,Boise,ID,5,Anaheim Kingsmen,World Class,79.75,1977
+08/11,Boise,ID,5,Anaheim Kingsmen,World Class,78.95,1977
+08/11,North Platte,NE,5,Colts,World Class,70.9,1977
+08/12,Salina,KS,5,Wausau Story,World Class,70.1,1977
+08/11,Boise,ID,6,Argonauts,World Class,76.0,1977
+08/11,Boise,ID,6,Argonauts,World Class,73.0,1977
+08/11,North Platte,NE,6,Wausau Story,World Class,70.0,1977
+08/12,Salina,KS,6,Silver Sabres,World Class,63.7,1977
+08/11,Boise,ID,7,Velvet Knights,World Class,70.4,1977
+08/11,Boise,ID,7,Velvet Knights,World Class,72.65,1977
+08/12,Salina,KS,7,Knights,World Class,59.0,1977
+08/11,Boise,ID,8,Renaissance,World Class,67.2,1977
+08/11,Boise,ID,8,Renaissance,World Class,67.7,1977
+08/12,Salina,KS,8,Pioneer,World Class,55.1,1977
+08/11,Boise,ID,9,Seattle Imperials,World Class,67.05,1977
+08/11,Boise,ID,10,Knight Raiders,World Class,65.1,1977
+08/11,Boise,ID,11,Seattle Cascades,World Class,58.9,1977
+08/11,Boise,ID,12,Blue Knights,World Class,58.2,1977
+08/11,Boise,ID,13,Conquistadors,World Class,58.0,1977
+08/11,Boise,ID,14,3rd Regiment,World Class,48.35,1977
+08/11,Boise,ID,15,1st Canadian Regiment,World Class,46.9,1977
+08/11,Boise,ID,16,Imperial Dragons,World Class,40.65,1977
+08/11,Boise,ID,17,Drifters,World Class,29.7,1977
+08/13,Oklahoma City,OK,1,Kilties,World Class,83.1,1977
+08/13,Scotts Bluff,NE,1,Bridgemen,World Class,86.35,1977
+08/13,Lander,WY,1,Blue Devils,World Class,86.45,1977
+08/13,Ramsey,NJ,1,Hawthorne Caballeros,World Class,81.0,1977
+08/13,Oklahoma City,OK,2,Guardsmen,World Class,82.1,1977
+08/13,Scotts Bluff,NE,2,Madison Scouts,World Class,82.2,1977
+08/13,Lander,WY,2,Blue Stars,World Class,82.6,1977
+08/13,Ramsey,NJ,2,Matadors,World Class,80.0,1977
+08/13,Oklahoma City,OK,3,Garfield Cadets,World Class,80.05,1977
+08/13,Scotts Bluff,NE,3,Cavaliers,World Class,79.5,1977
+08/13,Lander,WY,3,Freelancers,World Class,80.6,1977
+08/13,Ramsey,NJ,3,Connecticut Hurricanes,World Class,79.0,1977
+08/13,Oklahoma City,OK,4,Crossmen,World Class,78.5,1977
+08/13,Scotts Bluff,NE,4,Troopers,World Class,72.25,1977
+08/13,Lander,WY,4,Anaheim Kingsmen,World Class,74.85,1977
+08/13,Ramsey,NJ,4,New York Skyliners,World Class,78.0,1977
+08/13,Oklahoma City,OK,5,CapitolAires,World Class,56.8,1977
+08/13,Scotts Bluff,NE,5,Wausau Story,World Class,70.05,1977
+08/13,Lander,WY,5,Argonauts,World Class,72.55,1977
+08/13,Ramsey,NJ,5,Connecticut Hurricanes,World Class,69.0,1977
+08/13,Oklahoma City,OK,6,Valiant Knights,World Class,49.0,1977
+08/13,Scotts Bluff,NE,6,Northstars,World Class,68.15,1977
+08/13,Lander,WY,6,Knight Raiders,World Class,61.1,1977
+08/13,Scotts Bluff,NE,7,Velvet Knights,World Class,63.1,1977
+08/13,Scotts Bluff,NE,8,Argonne Rebels,World Class,50.6,1977
+08/13,Norfolk,NE,1,Imperial Regiment,World Class,57.75,1977
+08/14,Greeley,CO,1,Madison Scouts,World Class,86.4,1977
+08/15,Casper,WY,1,Blue Devils,World Class,88.85,1977
+08/15,Fort Collins,CO,1,Phantom Regiment,World Class,88.65,1977
+08/13,Norfolk,NE,2,Mighty Liberators,World Class,55.7,1977
+08/14,Greeley,CO,2,27th Lancers,World Class,85.7,1977
+08/15,Casper,WY,2,Blue Stars,World Class,83.65,1977
+08/15,Fort Collins,CO,2,Bridgemen,World Class,88.35,1977
+08/13,Norfolk,NE,3,76er's,World Class,54.35,1977
+08/14,Greeley,CO,3,Seneca Optimists,World Class,83.2,1977
+08/15,Casper,WY,3,Cavaliers,World Class,82.65,1977
+08/15,Fort Collins,CO,3,Madison Scouts,World Class,88.1,1977
+08/13,Norfolk,NE,4,Flying Dutchmen,World Class,48.55,1977
+08/14,Greeley,CO,4,Anaheim Kingsmen,World Class,81.4,1977
+08/15,Casper,WY,4,Troopers,World Class,77.85,1977
+08/15,Fort Collins,CO,4,Freelancers,World Class,85.5,1977
+08/13,Norfolk,NE,5,Eye Openers,World Class,34.15,1977
+08/14,Greeley,CO,5,Oakland Crusaders,World Class,81.1,1977
+08/15,Casper,WY,5,Knight Raiders,World Class,64.7,1977
+08/15,Fort Collins,CO,5,Guardsmen,World Class,77.95,1977
+08/14,Greeley,CO,6,Royal Crusaders,World Class,75.85,1977
+08/15,Casper,WY,6,Argonauts,World Class,54.95,1977
+08/14,Greeley,CO,7,Argonauts,World Class,75.4,1977
+08/15,Casper,WY,7,Conquistadors,World Class,52.25,1977
+08/14,Greeley,CO,8,Colts,World Class,70.25,1977
+08/14,Greeley,CO,9,Knight Raiders,World Class,63.45,1977
+08/13,Norfolk,NE,1,Vanguard,World Class,87.95,1977
+08/13,Norfolk,NE,2,27th Lancers,World Class,86.1,1977
+08/13,Norfolk,NE,3,Kilties,World Class,83.35,1977
+08/13,Norfolk,NE,4,Seneca Optimists,World Class,82.6,1977
+08/13,Norfolk,NE,5,North Star,World Class,80.85,1977
+08/13,Norfolk,NE,6,Spirit of Atlanta,World Class,71.55,1977
+08/13,Norfolk,NE,7,Los Angeles Chinese,World Class,47.1,1977
+08/16,Denver,CO,1,Saint Ignatius,World Class,65.75,1977
+08/16,Denver,CO,1,Saint Ignatius,Open Class,69.45,1977
+08/15,Denver,CO,1,Blue Devils,Open Class,91.05,1977
+08/19,Denver,CO,1,Blue Devils,Open Class,92.05,1977
+08/16,Denver,CO,2,Fire-ettes,World Class,62.6,1977
+08/16,Denver,CO,2,Fire-ettes,Open Class,66.45,1977
+08/15,Denver,CO,2,Phantom Regiment,Open Class,90.7,1977
+08/19,Denver,CO,2,Phantom Regiment,Open Class,90.3,1977
+08/16,Denver,CO,3,Jeanettes,World Class,57.75,1977
+08/16,Denver,CO,3,Jeanettes,Open Class,57.6,1977
+08/15,Denver,CO,3,Bridgemen,Open Class,90.0,1977
+08/19,Denver,CO,3,Vanguard,Open Class,89.85,1977
+08/16,Denver,CO,4,CapitolAires,World Class,56.45,1977
+08/15,Denver,CO,4,Vanguard,Open Class,89.85,1977
+08/19,Denver,CO,4,Bridgemen,Open Class,87.85,1977
+08/16,Denver,CO,5,Ventures,World Class,54.75,1977
+08/16,Denver,CO,1,Bengal Lancers,Open Class,74.2,1977
+08/15,Denver,CO,5,27th Lancers,Open Class,88.65,1977
+08/19,Denver,CO,5,27th Lancers,Open Class,87.45,1977
+08/16,Denver,CO,6,Mello-Dears,World Class,50.65,1977
+08/16,Denver,CO,2,Renaissance,Open Class,71.05,1977
+08/15,Denver,CO,6,Madison Scouts,Open Class,86.65,1977
+08/19,Denver,CO,6,Madison Scouts,Open Class,87.3,1977
+08/16,Denver,CO,7,Nee-Hi's,World Class,37.8,1977
+08/16,Denver,CO,3,Sky Ryders,Open Class,66.35,1977
+08/15,Denver,CO,7,Blue Stars,Open Class,85.85,1977
+08/19,Denver,CO,7,Blue Stars,Open Class,84.3,1977
+08/16,Denver,CO,4,Imperial Regiment,Open Class,65.4,1977
+08/15,Denver,CO,8,Cavaliers,Open Class,85.45,1977
+08/19,Denver,CO,8,Cavaliers,Open Class,83.0,1977
+08/16,Denver,CO,1,Bengal Lancers,World Class,70.85,1977
+08/16,Denver,CO,5,Saginaires,Open Class,63.55,1977
+08/15,Denver,CO,9,Seneca Optimists,Open Class,85.0,1977
+08/19,Denver,CO,9,Seneca Optimists,Open Class,82.4,1977
+08/16,Denver,CO,2,Renaissance,World Class,67.0,1977
+08/16,Denver,CO,6,Mighty Liberators,Open Class,59.65,1977
+08/15,Denver,CO,10,Crossmen,Open Class,84.85,1977
+08/19,Denver,CO,9,Freelancers,Open Class,82.4,1977
+08/16,Denver,CO,3,Imperial Regiment,World Class,64.5,1977
+08/16,Denver,CO,7,Black Watch-WA,Open Class,54.4,1977
+08/15,Denver,CO,11,Freelancers,Open Class,84.5,1977
+08/19,Denver,CO,11,Kilties,Open Class,81.8,1977
+08/16,Denver,CO,4,Sky Ryders,World Class,63.45,1977
+08/15,Denver,CO,12,Garfield Cadets,Open Class,84.45,1977
+08/19,Denver,CO,12,Crossmen,Open Class,81.3,1977
+08/16,Denver,CO,5,Saginaires,World Class,61.6,1977
+08/15,Denver,CO,12,Kilties,Open Class,84.45,1977
+08/19,Denver,CO,13,Garfield Cadets,Open Class,78.15,1977
+08/16,Denver,CO,6,Mighty Liberators,World Class,58.15,1977
+08/15,Denver,CO,14,Anaheim Kingsmen,Open Class,83.6,1977
+08/16,Denver,CO,7,Black Watch-WA,World Class,57.25,1977
+08/15,Denver,CO,15,Oakland Crusaders,Open Class,82.9,1977
+08/16,Denver,CO,8,Conquistadors,World Class,56.5,1977
+08/15,Denver,CO,16,Guardsmen,Open Class,82.8,1977
+08/16,Denver,CO,9,1st Canadian Regiment,World Class,56.45,1977
+08/15,Denver,CO,17,Boston Crusaders,Open Class,81.15,1977
+08/16,Denver,CO,10,76er's,World Class,55.25,1977
+08/15,Denver,CO,18,North Star,Open Class,80.6,1977
+08/16,Denver,CO,11,Blue Knights-MN,World Class,55.2,1977
+08/15,Denver,CO,19,Squires,Open Class,79.75,1977
+08/16,Denver,CO,12,Vaqueros,World Class,53.25,1977
+08/15,Denver,CO,20,Troopers,Open Class,78.8,1977
+08/16,Denver,CO,13,Valiant Knights,World Class,52.2,1977
+08/15,Denver,CO,21,Royal Crusaders,Open Class,78.55,1977
+08/16,Denver,CO,14,Flying Dutchmen,World Class,51.4,1977
+08/15,Denver,CO,22,Argonauts,Open Class,78.5,1977
+08/16,Denver,CO,15,Falcon Ridgemen,World Class,50.9,1977
+08/15,Denver,CO,23,Spirit of Atlanta,Open Class,76.35,1977
+08/16,Denver,CO,16,3rd Regiment,World Class,45.25,1977
+08/15,Denver,CO,24,Wausau Story,Open Class,74.35,1977
+08/16,Denver,CO,17,Imperial Dragons,World Class,43.1,1977
+08/15,Denver,CO,25,Velvet Knights,Open Class,74.25,1977
+08/16,Denver,CO,18,Titans,World Class,40.5,1977
+08/15,Denver,CO,26,Colts,Open Class,73.1,1977
+08/16,Denver,CO,19,Blue Devils B,World Class,39.05,1977
+08/15,Denver,CO,27,Marquis,Open Class,72.6,1977
+08/16,Denver,CO,20,Crimson Cadets,World Class,37.25,1977
+08/15,Denver,CO,28,Northstars,Open Class,70.9,1977
+08/16,Denver,CO,21,Continental Ambassadors,World Class,37.0,1977
+08/15,Denver,CO,29,Fox Valley Raiders,Open Class,70.3,1977
+08/16,Denver,CO,22,LC Crusaders,World Class,33.9,1977
+08/15,Denver,CO,30,Emerald Knights,Open Class,70.15,1977
+08/16,Denver,CO,23,Eye Openers,World Class,33.05,1977
+08/15,Denver,CO,31,Gauchos,Open Class,68.55,1977
+08/16,Denver,CO,24,Saint Paul Saints,World Class,32.0,1977
+08/15,Denver,CO,32,Seattle Imperials,Open Class,67.25,1977
+08/16,Denver,CO,25,Spartans-WA,World Class,31.5,1977
+08/15,Denver,CO,33,"General Butler
+  Vagabonds",Open Class,66.85,1977
+08/16,Denver,CO,26,Drifters,World Class,27.05,1977
+08/15,Denver,CO,34,Pioneer,Open Class,65.95,1977
+08/15,Denver,CO,35,Bluecoats,Open Class,65.5,1977
+08/15,Denver,CO,36,Saints,Open Class,65.25,1977
+08/15,Denver,CO,37,Silver Sabres,Open Class,63.95,1977
+08/15,Denver,CO,38,Knight Raiders,Open Class,63.6,1977
+08/15,Denver,CO,39,Knights,Open Class,60.0,1977
+08/15,Denver,CO,40,Black Knights,Open Class,59.7,1977
+08/15,Denver,CO,41,Blue Knights,Open Class,57.9,1977
+08/15,Denver,CO,42,Argonne Rebels,Open Class,56.55,1977
+08/15,Denver,CO,43,Saint Francis Sancians,Open Class,55.95,1977
+08/15,Denver,CO,44,Sword Excalibur,Open Class,53.25,1977
+08/15,Denver,CO,45,Seattle Cascades,Open Class,52.3,1977
+08/20,Denver,CO,1,Garfield Cadets,World Class,89.3,1977
+08/20,Denver,CO,1,Crossmen,Open Class,88.95,1977
+08/20,Denver,CO,1,Offensive Lions,Open Class,76.8,1977
+08/20,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,90.2,1977
+08/20,Denver,CO,2,Crossmen,World Class,87.0,1977
+08/20,Denver,CO,2,Garfield Cadets,Open Class,85.95,1977
+08/20,Denver,CO,2,Châtelaines,Open Class,68.4,1977
+08/20,Bridgeport,CT,2,Sunrisers,Open Class,87.8,1977
+08/20,Denver,CO,3,Emerald Knights,World Class,83.8,1977
+08/20,Denver,CO,3,Boston Crusaders,Open Class,85.8,1977
+08/20,Denver,CO,3,Boucliers,Open Class,56.6,1977
+08/20,Bridgeport,CT,3,Matadors,Open Class,85.55,1977
+08/20,Denver,CO,4,Boston Crusaders,World Class,83.6,1977
+08/20,Denver,CO,4,Wausau Story,Open Class,80.7,1977
+08/20,Denver,CO,4,Matadors,Open Class,49.4,1977
+08/20,Bridgeport,CT,4,New York Skyliners,Open Class,83.55,1977
+08/20,Denver,CO,5,Wausau Story,World Class,82.8,1977
+08/20,Denver,CO,5,Emerald Knights,Open Class,77.5,1977
+08/20,Denver,CO,5,Marionettes,Open Class,46.65,1977
+08/20,Bridgeport,CT,5,Connecticut Hurricanes,Open Class,80.8,1977
+08/20,Denver,CO,6,Marquis,World Class,80.95,1977
+08/20,Denver,CO,6,Marquis,Open Class,76.8,1977
+08/20,Denver,CO,6,Métropolitains,Open Class,42.5,1977
+08/20,Bridgeport,CT,6,Les Ambassadors,Open Class,64.75,1977
+08/20,Denver,CO,7,Saints,World Class,80.95,1977
+08/20,Denver,CO,7,Velvet Knights,Open Class,76.1,1977
+08/20,Denver,CO,7,Mariniers,Open Class,41.65,1977
+08/20,Bridgeport,CT,7,Yankee Rebels,Open Class,63.8,1977
+08/20,Denver,CO,8,Fox Valley Raiders,World Class,78.25,1977
+08/20,Denver,CO,8,Fox Valley Raiders,Open Class,74.15,1977
+08/20,Denver,CO,8,Renaissance,Open Class,35.35,1977
+08/20,Denver,CO,9,"General Butler
+  Vagabonds",World Class,76.7,1977
+08/20,Denver,CO,9,Saints,Open Class,71.75,1977
+08/20,Denver,CO,9,Abénakis,Open Class,34.45,1977
+08/20,Denver,CO,10,Sky Ryders,World Class,75.1,1977
+08/20,Denver,CO,10,"General Butler
+  Vagabonds",Open Class,70.55,1977
+08/20,Denver,CO,10,Étoiles,Open Class,30.8,1977
+08/20,Denver,CO,11,Colts,World Class,74.95,1977
+08/20,Denver,CO,11,Sky Ryders,Open Class,70.2,1977
+08/20,Denver,CO,12,Seattle Cascades,World Class,73.8,1977
+08/20,Denver,CO,13,Silver Sabers,World Class,73.65,1977
+08/20,Denver,CO,14,76er's,World Class,71.6,1977
+08/20,Denver,CO,15,San Jose Raiders,World Class,70.95,1977
+08/20,Denver,CO,16,Vaqueros,World Class,70.8,1977
+08/20,Denver,CO,17,Seattle Imperials,World Class,69.05,1977
+08/20,Denver,CO,18,Bluecoats,World Class,67.7,1977
+08/20,Denver,CO,19,Knights,World Class,67.5,1977
+08/20,Denver,CO,20,Black Watch,World Class,66.9,1977
+08/20,Denver,CO,21,Mello Dears,World Class,65.2,1977
+08/20,Denver,CO,22,Argonne Rebels,World Class,63.9,1977
+08/20,Denver,CO,23,Blue Knights,World Class,63.2,1977
+08/20,Denver,CO,24,Flying Dutchmen,World Class,63.0,1977
+08/20,Denver,CO,25,Black Knights,World Class,61.45,1977
+08/20,Denver,CO,26,3rd Regiment-Portland,World Class,56.8,1977
+08/20,Denver,CO,27,Sundowners,World Class,56.55,1977
+08/20,Denver,CO,28,Saint Paul Scouts,World Class,56.05,1977
+08/20,Denver,CO,29,Continental Ambassadors,World Class,56.0,1977
+08/20,Denver,CO,30,Crimson Cadets,World Class,54.35,1977
+08/20,Denver,CO,31,Nee-Hi's,World Class,51.2,1977
+08/20,Denver,CO,32,Eye Openers,World Class,41.55,1977
+08/20,Denver,CO,33,Golden Skyliners,World Class,35.95,1977
+08/21,Kingston,NY,1,Sunrisers,World Class,92.1,1977
+08/23,Minneapolis,MN,1,Cavaliers,Open Class,81.4,1977
+08/24,Minneapolis,MN,1,Blue Stars,Open Class,82.15,1977
+08/26,Scarborough,Ontario,1,Saint John's Girls,Open Class,65.8,1977
+08/21,Kingston,NY,2,Hawthorne Caballeros,World Class,92.0,1977
+08/23,Minneapolis,MN,2,Blue Stars,Open Class,80.2,1977
+08/24,Minneapolis,MN,2,Cavaliers,Open Class,81.6,1977
+08/26,Scarborough,Ontario,2,Ventures,Open Class,61.45,1977
+08/21,Kingston,NY,3,Matadors,World Class,86.55,1977
+08/23,Minneapolis,MN,3,Garfield Cadets,Open Class,79.9,1977
+08/24,Minneapolis,MN,3,Garfield Cadets,Open Class,79.35,1977
+08/21,Kingston,NY,4,New York Skyliners,World Class,86.4,1977
+08/23,Minneapolis,MN,4,Marquis,Open Class,73.7,1977
+08/24,Minneapolis,MN,4,Marquis,Open Class,72.35,1977
+08/26,Scarborough,Ontario,1,Seneca Optimists,Open Class,85.8,1977
+08/21,Kingston,NY,5,Connecticut Hurricanes,World Class,80.55,1977
+08/23,Minneapolis,MN,5,Emerald Knights,Open Class,69.1,1977
+08/24,Minneapolis,MN,5,Fox Valley Raiders,Open Class,67.2,1977
+08/26,Scarborough,Ontario,2,Oakland Crusaders,Open Class,82.9,1977
+08/21,Kingston,NY,6,Les Ambassadors,World Class,74.05,1977
+08/23,Minneapolis,MN,6,Fox Valley Raiders,Open Class,68.0,1977
+08/24,Minneapolis,MN,6,"General Butler
+  Vagabonds",Open Class,66.6,1977
+08/26,Scarborough,Ontario,3,Northstars,Open Class,76.2,1977
+08/23,Minneapolis,MN,7,"General Butler
+  Vagabonds",Open Class,66.55,1977
+08/24,Minneapolis,MN,7,Emerald Knights,Open Class,66.35,1977
+08/26,Scarborough,Ontario,4,Cardinals,Open Class,75.65,1977
+08/23,Minneapolis,MN,8,Saginaires,Open Class,59.3,1977
+08/24,Minneapolis,MN,8,Saginaires,Open Class,57.3,1977
+08/26,Scarborough,Ontario,5,Les Krescendos,Open Class,56.35,1977
+08/23,Minneapolis,MN,9,Saint Francis Sancians,Open Class,56.9,1977
+08/24,Minneapolis,MN,9,Blue Knights,Open Class,57.05,1977
+08/23,Minneapolis,MN,10,Blue Knights,Open Class,55.1,1977
+08/24,Minneapolis,MN,10,Saint Francis Sancians,Open Class,54.95,1977
+08/26,Scarborough,Ontario,1,Les Companions,Open Class,64.55,1977
+08/23,Minneapolis,MN,11,Marion Cadets,Open Class,54.7,1977
+08/24,Minneapolis,MN,11,Marion Cadets,Open Class,53.5,1977
+08/26,Scarborough,Ontario,2,Guardsmen (ONT),Open Class,63.65,1977
+08/23,Minneapolis,MN,12,West Bend Patriots,Open Class,46.6,1977
+08/24,Minneapolis,MN,12,West Bend Patriots,Open Class,45.25,1977
+08/26,Scarborough,Ontario,3,Lions of London,Open Class,50.95,1977
+08/23,Minneapolis,MN,13,Sundowners,Open Class,42.7,1977
+08/23,Minneapolis,MN,14,Bellettes,Open Class,34.95,1977
+08/26,Scarborough,Ontario,1,Golden Lions,Open Class,78.8,1977
+08/23,Minneapolis,MN,15,Thunderbolts,Open Class,28.45,1977
+08/26,Scarborough,Ontario,2,Hyliters,Open Class,72.2,1977
+08/23,Minneapolis,MN,16,Mounties,Open Class,28.3,1977
+08/26,Scarborough,Ontario,3,Kiwanis Kavaliers,Open Class,70.7,1977
+08/23,Minneapolis,MN,17,Racine Scouts,Open Class,18.4,1977
+08/26,Scarborough,Ontario,4,Durham Girls,Open Class,60.8,1977
+08/26,Scarborough,Ontario,5,Saint Andrew's,Open Class,59.4,1977
+08/26,Scarborough,Ontario,6,Ambassadors (ONT),Open Class,54.4,1977
+08/26,Scarborough,Ontario,7,Coachmen (ONT),Open Class,46.8,1977
+08/26,Scarborough,Ontario,1,Blue Saints,Open Class,81.6,1977
+08/26,Scarborough,Ontario,2,Belles of Saint John's,Open Class,71.3,1977
+08/26,Scarborough,Ontario,1,Dutch Boy Cadets,Open Class,77.4,1977
+08/26,Scarborough,Ontario,2,Etobicoke Knights,Open Class,69.47,1977
+08/26,Scarborough,Ontario,3,Cardinal Cadets,Open Class,64.3,1977
+08/26,Scarborough,Ontario,4,Georgian Lancers,Open Class,62.5,1977
+08/26,Scarborough,Ontario,1,Guelph Royalaires,Open Class,51.3,1977
+08/26,Scarborough,Ontario,2,Niagara Regionnaires,Open Class,43.9,1977
+08/27,Jamestown,NY,1,Hanover Lancers,World Class,79.45,1977
+08/27,Montreal,Quebec,1,Offensive Lions,Open Class,73.2,1977
+08/27,Montreal,Quebec,1,Offensive Lions,Open Class,81.7,1977
+08/27,Bridgeport,CT,1,Bridgemen,Open Class,88.15,1977
+08/27,Jamestown,NY,2,Guelph Royalaires,World Class,79.1,1977
+08/27,Montreal,Quebec,2,Boucliers,Open Class,57.65,1977
+08/27,Montreal,Quebec,2,Métropolitains,Open Class,75.0,1977
+08/27,Bridgeport,CT,2,Crossmen,Open Class,84.45,1977
+08/27,Jamestown,NY,3,Diplomats,World Class,75.17,1977
+08/27,Montreal,Quebec,3,Métropolitains,Open Class,54.1,1977
+08/27,Montreal,Quebec,3,Boucliers,Open Class,63.1,1977
+08/27,Bridgeport,CT,3,Garfield Cadets,Open Class,82.75,1977
+08/27,Jamestown,NY,4,Hamburg Kingsmen,World Class,71.75,1977
+08/27,Montreal,Quebec,4,Ranchéros,Open Class,45.7,1977
+08/27,Bridgeport,CT,4,Boston Crusaders,Open Class,81.3,1977
+08/27,Jamestown,NY,5,Patriots,World Class,70.12,1977
+08/27,Montreal,Quebec,1,Troubadours,Open Class,62.2,1977
+08/27,Bridgeport,CT,5,Royal Brigade,Open Class,74.45,1977
+08/27,Jamestown,NY,6,Rockets,World Class,55.98,1977
+08/27,Montreal,Quebec,1,Matadors,Open Class,53.2,1977
+08/27,Montreal,Quebec,2,Matadors,Open Class,59.6,1977
+08/27,Bridgeport,CT,6,Bengal Lancers,Open Class,73.0,1977
+08/27,Jamestown,NY,7,White Sabers,World Class,42.2,1977
+08/27,Montreal,Quebec,2,Troubadours,Open Class,51.25,1977
+08/27,Montreal,Quebec,3,Renaissance (QC),Open Class,50.0,1977
+08/27,Bridgeport,CT,7,Long Island Kingsmen,Open Class,72.65,1977
+08/27,Montreal,Quebec,3,Renaissance (QC),Open Class,46.45,1977
+08/27,Bridgeport,CT,8,Shoreliners,Open Class,70.25,1977
+08/27,Montreal,Quebec,4,Étoiles,Open Class,40.0,1977
+08/27,Montreal,Quebec,1,Hirondelles,Open Class,61.7,1977
+08/27,Bridgeport,CT,9,Saints,Open Class,68.25,1977
+08/27,Montreal,Quebec,5,Abénakis,Open Class,35.85,1977
+08/27,Montreal,Quebec,2,Relève Offensive,Open Class,40.2,1977
+08/27,Bridgeport,CT,10,Muchachos,Open Class,67.1,1977
+08/27,Montreal,Quebec,6,Kascadeurs,Open Class,27.15,1977
+08/27,Montreal,Quebec,3,Cadets Impérial,Open Class,13.2,1977
+08/27,Montreal,Quebec,7,Arc En Ciel,Open Class,26.75,1977
+08/27,Bayonne,NJ,1,Hawthorne Caballeros,World Class,92.0,1977
+08/27,Corning,NY,1,Sunrisers,Open Class,94.2,1977
+08/31,Kingston,NY,1,Sunrisers,Open Class,92.1,1977
+08/27,Bayonne,NJ,2,Matadors,World Class,86.6,1977
+08/27,Corning,NY,2,Rochester Crusaders,Open Class,90.6,1977
+08/31,Kingston,NY,2,Hawthorne Caballeros,Open Class,92.0,1977
+08/27,Bayonne,NJ,3,New York Skyliners,World Class,86.0,1977
+08/27,Corning,NY,3,Reading Buccaneers,Open Class,89.3,1977
+08/31,Kingston,NY,3,Matadors,Open Class,86.55,1977
+08/27,Bayonne,NJ,4,Connecticut Hurricanes,World Class,83.25,1977
+08/27,Corning,NY,4,Thunderbirds,Open Class,82.5,1977
+08/31,Kingston,NY,4,New York Skyliners,Open Class,86.4,1977
+08/27,Bayonne,NJ,5,Westshoremen,World Class,65.0,1977
+08/27,Corning,NY,5,Yankee Rebels,Open Class,73.35,1977
+08/31,Kingston,NY,5,Connecticut Hurricanes,Open Class,80.55,1977
+08/31,Kingston,NY,6,Les Ambassadors,Open Class,74.03,1977
+09/04,Allentown,PA,1,Sunrisers,Open Class,95.35,1977
+09/04,Allentown,PA,1,Sunrisers,Open Class,94.15,1977
+09/04,Allentown,PA,2,Hawthorne Caballeros,Open Class,92.35,1977
+09/04,Allentown,PA,2,Hawthorne Caballeros,Open Class,94.1,1977
+09/04,Allentown,PA,3,Reading Buccaneers,Open Class,90.85,1977
+09/04,Allentown,PA,3,Reading Buccaneers,Open Class,91.55,1977
+09/04,Allentown,PA,4,Matadors,Open Class,90.1,1977
+09/04,Allentown,PA,4,Matadors,Open Class,87.8,1977
+09/04,Allentown,PA,5,Rochester Crusaders,Open Class,86.4,1977
+09/04,Allentown,PA,5,Rochester Crusaders,Open Class,87.65,1977
+09/04,Allentown,PA,6,New York Skyliners,Open Class,85.5,1977
+09/04,Allentown,PA,6,New York Skyliners,Open Class,86.05,1977
+09/04,Allentown,PA,7,Les Ambassadors,Open Class,82.15,1977
+09/04,Allentown,PA,7,Les Ambassadors,Open Class,82.9,1977
+09/04,Allentown,PA,8,Connecticut Hurricanes,Open Class,81.15,1977
+09/04,Allentown,PA,8,Connecticut Hurricanes,Open Class,78.6,1977
+09/04,Allentown,PA,9,Westshoremen,Open Class,75.65,1977
+09/04,Allentown,PA,9,Westshoremen,Open Class,75.75,1977
+09/04,Allentown,PA,10,Thunderbirds,Open Class,73.65,1977
+09/04,Allentown,PA,10,Thunderbirds,Open Class,72.8,1977
+09/04,Allentown,PA,11,Chicago Connection,Open Class,71.05,1977
+09/04,Allentown,PA,12,Minnesota Brass,Open Class,70.7,1977
+09/04,Allentown,PA,13,Royalaires,Open Class,70.0,1977
+09/04,Allentown,PA,14,Yankee Rebels,Open Class,68.35,1977
+09/04,Allentown,PA,15,Hanover Lancers,Open Class,65.0,1977
+09/04,Allentown,PA,16,Dunkirk Patriots,Open Class,57.8,1977
+09/03,Malden,MA,1,Boston Crusaders,Open Class,83.05,1977
+09/05,Merrill,WI,1,Marquis,Open Class,76.45,1977
+09/03,Malden,MA,2,27th Lancers,Open Class,82.95,1977
+09/05,Merrill,WI,2,Wausau Story,Open Class,76.1,1977
+09/03,Malden,MA,3,North Star,Open Class,82.7,1977
+09/05,Merrill,WI,3,Blue Knights-MN,Open Class,66.1,1977
+09/03,Malden,MA,4,Squires,Open Class,75.5,1977
+09/05,Merrill,WI,4,West Bed Patriots,Open Class,55.45,1977
+09/03,Malden,MA,5,Defenders,Open Class,71.85,1977
+09/05,Merrill,WI,5,Sundowners,Open Class,54.75,1977
+09/03,Malden,MA,6,Pembroke Imperials,Open Class,66.7,1977
+09/03,Malden,MA,7,Jeanettes,Open Class,65.8,1977
+09/03,Malden,MA,8,Fitchburg Kingsmen,Open Class,62.6,1977
+09/03,Malden,MA,9,St. Francis Sancians,Open Class,62.5,1977
+09/03,Malden,MA,10,Socialites,Open Class,53.45,1977
+09/03,Malden,MA,11,Valley-Airs,Open Class,52.4,1977
+09/03,Malden,MA,12,Spartans,Open Class,43.5,1977

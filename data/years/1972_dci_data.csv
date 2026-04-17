@@ -1,0 +1,1411 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/20,Macomb,IL,1,"Belleville Black
+  Knights",World Class,69.2,1972
+05/21,Macomb,IL,1,"Belleville Black
+  Knights",World Class,69.6,1972
+05/21,Orange,CA,1,Velvet Knights,World Class,58.8,1972
+05/25,Lynwood,CA,1,Imperial Dragons,World Class,65.5,1972
+05/20,Macomb,IL,2,Chevaliers-IA,World Class,59.5,1972
+05/21,Macomb,IL,2,Chevaliers-IA,World Class,59.5,1972
+05/21,Orange,CA,2,Lynwood Diplomats,World Class,56.0,1972
+05/25,Lynwood,CA,2,Velvet Knights,World Class,65.35,1972
+05/20,Macomb,IL,3,Colt 45's,World Class,57.0,1972
+05/21,Macomb,IL,3,Colt 45's,World Class,58.4,1972
+05/21,Orange,CA,3,Carson Crusaders,World Class,54.6,1972
+05/25,Lynwood,CA,3,Lynwood Diplomats,World Class,60.3,1972
+05/20,Macomb,IL,4,Nee-Hi's,World Class,49.1,1972
+05/21,Macomb,IL,4,Nee-Hi's,World Class,43.2,1972
+05/25,Lynwood,CA,4,Carson Crusaders,World Class,56.65,1972
+05/20,Macomb,IL,5,Windjammers,World Class,45.4,1972
+05/21,Macomb,IL,5,Northernaires,World Class,42.2,1972
+05/21,Orange,CA,1,VK Squires,World Class,54.2,1972
+05/20,Macomb,IL,6,Northernaires,World Class,41.1,1972
+05/21,Macomb,IL,6,Capitol Chargers,World Class,33.4,1972
+05/21,Orange,CA,2,Monterey Park Girls,World Class,43.75,1972
+05/25,Lynwood,CA,1,VK Squires,World Class,54.2,1972
+05/25,Lynwood,CA,2,Monterey Park Girls,World Class,50.6,1972
+05/26,Bridgeport,CT,1,27th Lancers,World Class,79.65,1972
+05/27,Kenosha,WI,1,Blue Stars,World Class,75.1,1972
+05/27,Lancaster,PA,1,Blue Rock,World Class,77.6,1972
+05/27,Kitchner,Ontario,1,Opti-Knights,World Class,75.9,1972
+05/26,Bridgeport,CT,2,Garfield Cadets,World Class,77.3,1972
+05/27,Kenosha,WI,2,Cavaliers,World Class,72.9,1972
+05/27,Lancaster,PA,2,Chessmen,World Class,66.7,1972
+05/27,Kitchner,Ontario,2,Etobicoke Crusaders,World Class,70.15,1972
+05/26,Bridgeport,CT,3,Boston Crusaders,World Class,69.75,1972
+05/27,Kenosha,WI,3,Kilties,World Class,68.7,1972
+05/27,Lancaster,PA,3,Belvederes,World Class,56.55,1972
+05/27,Kitchner,Ontario,3,Flying Dutchmen,World Class,61.9,1972
+05/26,Bridgeport,CT,4,Blessed Sacrament,World Class,66.15,1972
+05/27,Kenosha,WI,4,Madison Scouts,World Class,67.15,1972
+05/27,Lancaster,PA,4,Sacred Heart Crusaders,World Class,49.3,1972
+05/27,Kitchner,Ontario,4,Kinsmen Krescendos,World Class,60.75,1972
+05/26,Bridgeport,CT,5,Beverly Cardinals,World Class,55.2,1972
+05/27,Kenosha,WI,5,Des Plaines Vanguard,World Class,65.8,1972
+05/27,Lancaster,PA,5,Royaleer Mounties,World Class,48.2,1972
+05/27,Kitchner,Ontario,5,Marching Angels (CAN),World Class,52.6,1972
+05/26,Bridgeport,CT,6,Valley Grenadiers,World Class,44.8,1972
+05/27,Kenosha,WI,6,Racine Scouts,World Class,63.45,1972
+05/27,Lancaster,PA,6,VIP's,World Class,43.4,1972
+05/27,Kitchner,Ontario,6,Cardinals of PB,World Class,37.9,1972
+05/27,Kenosha,WI,7,Phantom Regiment,World Class,53.75,1972
+05/27,Kitchner,Ontario,7,Golden Lions,World Class,37.8,1972
+05/27,Cudahy,WI,1,Black Knights,World Class,65.8,1972
+05/28,Milwaukee,WI,1,Kilties,World Class,68.35,1972
+05/28,Belvedere,IL,1,Blue Stars,World Class,76.15,1972
+05/28,San Bernardino,CA,1,Velvet Knights,World Class,65.55,1972
+05/27,Cudahy,WI,2,Saint Paul Scouts,World Class,54.7,1972
+05/28,Milwaukee,WI,2,Des Plaines Vanguard,World Class,67.4,1972
+05/28,Belvedere,IL,2,Cavaliers,World Class,73.8,1972
+05/28,San Bernardino,CA,2,Commodores,World Class,64.6,1972
+05/27,Cudahy,WI,3,Guardsmen,World Class,53.5,1972
+05/28,Milwaukee,WI,3,"Belleville Black
+  Knights",World Class,65.05,1972
+05/28,Belvedere,IL,3,Phantom Regiment,World Class,58.35,1972
+05/28,San Bernardino,CA,3,Imperial Dragons,World Class,63.0,1972
+05/27,Cudahy,WI,4,Saint Matthias Cadets,World Class,53.2,1972
+05/28,Milwaukee,WI,4,Racine Scouts,World Class,64.8,1972
+05/28,Belvedere,IL,4,Ottawa Crusaders,World Class,50.35,1972
+05/28,San Bernardino,CA,4,Lynwood Diplomats,World Class,56.15,1972
+05/27,Cudahy,WI,5,Spectacle City Mariners,World Class,47.3,1972
+05/28,Milwaukee,WI,5,"Imperials of St.
+  Patrick's",World Class,64.4,1972
+05/28,Belvedere,IL,5,CapitolAires,World Class,43.9,1972
+05/28,San Bernardino,CA,5,Carson Crusaders,World Class,48.55,1972
+05/27,Cudahy,WI,6,Windjammers,World Class,37.5,1972
+05/28,Milwaukee,WI,6,Saint Paul Scouts,World Class,62.05,1972
+05/28,Belvedere,IL,6,Falcon Cadets,World Class,31.5,1972
+05/28,San Bernardino,CA,6,Monterey Park Girls,World Class,42.15,1972
+05/28,Milwaukee,WI,7,Guardsmen,World Class,57.55,1972
+05/28,Milwaukee,WI,8,Mariners,World Class,56.1,1972
+05/28,Weymouth,MA,1,27th Lancers,World Class,82.6,1972
+05/28,Kingston,NY,1,OLPH Ridgemen,World Class,67.5,1972
+05/29,Kenosha,WI,1,Racine Scouts,World Class,61.5,1972
+05/28,Weymouth,MA,2,Boston Crusaders,World Class,74.75,1972
+05/28,Kingston,NY,2,Magnificent Yankees,World Class,62.9,1972
+05/29,Kenosha,WI,2,Saint Matthias Cadets,World Class,57.5,1972
+05/28,Weymouth,MA,3,Pembroke Imperials,World Class,68.5,1972
+05/28,Kingston,NY,3,Emerald Cadets,World Class,62.75,1972
+05/29,Kenosha,WI,3,Oshkosh Warriors,World Class,56.5,1972
+05/28,Weymouth,MA,4,CMCC Warriors,World Class,68.25,1972
+05/28,Kingston,NY,4,NY Knickerbockers,World Class,58.95,1972
+05/29,Kenosha,WI,4,Mariners,World Class,52.1,1972
+05/28,Weymouth,MA,5,Blue Angels,World Class,64.25,1972
+05/28,Kingston,NY,5,New London Surfers,World Class,58.65,1972
+05/29,Kenosha,WI,5,CapitolAires,World Class,43.5,1972
+05/28,Weymouth,MA,6,Beverly Cardinals,World Class,62.95,1972
+05/28,Kingston,NY,6,Olympians,World Class,51.5,1972
+05/28,Weymouth,MA,7,IC Reveries,World Class,57.05,1972
+05/28,Kingston,NY,7,Wayne Monarchs,World Class,50.5,1972
+06/03,Greendale,WI,1,Cavaliers,World Class,75.7,1972
+06/03,Hamden,CT,1,Skyliners,World Class,82.3,1972
+06/03,Auburn,NY,1,Magnificent Yankees,World Class,66.85,1972
+06/03,Newtown,PA,1,Chessmen,World Class,69.5,1972
+06/03,Greendale,WI,2,Des Plaines Vanguard,World Class,73.35,1972
+06/03,Hamden,CT,2,Yankee Rebels,World Class,82.1,1972
+06/03,Auburn,NY,2,Squires,World Class,59.2,1972
+06/03,Newtown,PA,2,Belvederes,World Class,65.55,1972
+06/03,Greendale,WI,3,Kilties,World Class,72.95,1972
+06/03,Hamden,CT,3,Buccaneers,World Class,81.4,1972
+06/03,Auburn,NY,3,Cambria Cadets,World Class,54.15,1972
+06/03,Newtown,PA,3,Valley Grenadiers,World Class,65.3,1972
+06/03,Greendale,WI,4,Madison Scouts,World Class,69.45,1972
+06/03,Hamden,CT,4,Caballeros,World Class,78.95,1972
+06/03,Auburn,NY,4,Spiegalaires,World Class,46.05,1972
+06/03,Newtown,PA,4,Monarchs,World Class,61.4,1972
+06/03,Greendale,WI,5,"Imperials of St.
+  Patrick's",World Class,66.5,1972
+06/03,Hamden,CT,5,Les Diplomats,World Class,75.0,1972
+06/03,Auburn,NY,5,Appalachian Grenadiers,World Class,44.45,1972
+06/03,Newtown,PA,5,Royaleer Mounties,World Class,52.4,1972
+06/03,Greendale,WI,6,Racine Scouts,World Class,62.4,1972
+06/03,Newtown,PA,6,Earls of Buck,World Class,41.0,1972
+06/03,Scarborough,Ontario,1,DeLaSalle Oaklands,World Class,76.85,1972
+06/04,New Castle,DE,1,Garfield Cadets,World Class,74.75,1972
+06/04,Bedford,MA,1,Annunciators,World Class,63.55,1972
+06/04,Sardinia,Ontario,1,Opti-Knights,World Class,67.6,1972
+06/03,Scarborough,Ontario,2,Toronto Optimists,World Class,76.5,1972
+06/04,New Castle,DE,2,Boston Crusaders,World Class,70.95,1972
+06/04,Bedford,MA,2,Princemen,World Class,61.6,1972
+06/04,Sardinia,Ontario,2,Etobicoke Crusaders,World Class,67.3,1972
+06/03,Scarborough,Ontario,3,LaSalle Cadets,World Class,73.15,1972
+06/04,New Castle,DE,3,Saint Andrew's Bridgemen,World Class,69.85,1972
+06/04,Bedford,MA,3,Socialites,World Class,59.45,1972
+06/04,Sardinia,Ontario,3,Krescendos,World Class,52.7,1972
+06/03,Scarborough,Ontario,4,Princemen (CAN),World Class,61.75,1972
+06/04,New Castle,DE,4,Blessed Sacrament,World Class,65.55,1972
+06/04,Sardinia,Ontario,4,Flying Dutchmen,World Class,52.1,1972
+06/03,Scarborough,Ontario,5,Opti-Knights,World Class,61.4,1972
+06/04,New Castle,DE,5,Audobon Bon Bons,World Class,58.05,1972
+06/04,Sardinia,Ontario,5,Marching Angels (CAN),World Class,50.2,1972
+06/03,Scarborough,Ontario,6,Etobicoke Crusaders,World Class,58.65,1972
+06/04,New Castle,DE,6,Chessmen,World Class,52.95,1972
+06/04,Sardinia,Ontario,6,Cardinals of PB,World Class,39.35,1972
+06/03,Scarborough,Ontario,7,Saint John's Girls,World Class,56.85,1972
+06/04,New Castle,DE,7,Kingston Indians,World Class,43.25,1972
+06/04,Sardinia,Ontario,7,Golden Lions,World Class,34.3,1972
+06/03,Scarborough,Ontario,8,Flying Dutchmen,World Class,45.25,1972
+06/10,Lynn,MA,1,Blue Rock,World Class,72.1,1972
+06/10,Hershey,PA,1,Yankee Rebels,World Class,78.55,1972
+06/10,Stratford,CT,1,Skyliners,World Class,86.75,1972
+06/10,Binghamton,NY,1,Purple Lancers,World Class,74.53,1972
+06/10,Lynn,MA,2,Garfield Cadets,World Class,70.5,1972
+06/10,Hershey,PA,2,Crusaders,World Class,77.1,1972
+06/10,Stratford,CT,2,Caballeros,World Class,83.75,1972
+06/10,Binghamton,NY,2,Chessmen,World Class,67.95,1972
+06/10,Lynn,MA,3,Blessed Sacrament,World Class,68.2,1972
+06/10,Hershey,PA,3,Buccaneers,World Class,75.2,1972
+06/10,Stratford,CT,3,Sunrisers,World Class,66.1,1972
+06/10,Binghamton,NY,3,Belvederes,World Class,66.4,1972
+06/10,Lynn,MA,4,Boston Crusaders,World Class,67.5,1972
+06/10,Hershey,PA,4,Les Diplomats,World Class,68.0,1972
+06/10,Stratford,CT,4,Hamburg Kingsmen,World Class,65.8,1972
+06/10,Binghamton,NY,4,Syracuse Marauders,World Class,60.95,1972
+06/10,Lynn,MA,5,Pembroke Imperials,World Class,60.5,1972
+06/10,Hershey,PA,5,Rockets,World Class,65.8,1972
+06/10,Stratford,CT,5,Whalers,World Class,43.35,1972
+06/10,Binghamton,NY,5,White Knights,World Class,57.65,1972
+06/10,Lynn,MA,6,Beverly Cardinals,World Class,58.0,1972
+06/10,Binghamton,NY,6,507 Hornets,World Class,54.1,1972
+06/10,Binghamton,NY,7,York White Roses,World Class,46.75,1972
+06/10,Fulton,NY,1,Squires,World Class,61.5,1972
+06/11,Norwich,NY,1,Crusaders,World Class,80.5,1972
+06/11,Melrose,MA,1,27th Lancers,World Class,76.5,1972
+06/11,Cedar Falls,IA,1,Phantom Regiment,World Class,75.85,1972
+06/10,Fulton,NY,2,Mark Twain Cadets,World Class,53.7,1972
+06/11,Norwich,NY,2,Les Diplomats,World Class,75.15,1972
+06/11,Melrose,MA,2,Blue Rock,World Class,75.85,1972
+06/11,Cedar Falls,IA,2,Colt 45's,World Class,74.5,1972
+06/10,Fulton,NY,3,Les Compagnons,World Class,46.2,1972
+06/11,Norwich,NY,3,Hamburg Kingsmen,World Class,66.1,1972
+06/11,Melrose,MA,3,Garfield Cadets,World Class,73.8,1972
+06/11,Cedar Falls,IA,3,Chevaliers-IA,World Class,73.25,1972
+06/10,Fulton,NY,4,Black Knights (NY),World Class,37.5,1972
+06/11,Norwich,NY,4,Royalaires,World Class,59.6,1972
+06/11,Melrose,MA,4,Blessed Sacrament,World Class,70.3,1972
+06/11,Cedar Falls,IA,4,North Park Imperials,World Class,71.3,1972
+06/10,Fulton,NY,5,Greece Cadets,World Class,32.3,1972
+06/11,Norwich,NY,5,Bonnie Scots,World Class,58.8,1972
+06/11,Melrose,MA,5,Boston Crusaders,World Class,68.25,1972
+06/11,Cedar Falls,IA,5,Nee-Hi's,World Class,59.7,1972
+06/10,Fulton,NY,6,Ambassadors,World Class,31.8,1972
+06/11,Melrose,MA,6,Pembroke Imperials,World Class,63.8,1972
+06/11,Cedar Falls,IA,6,Emerald Knights,World Class,48.4,1972
+06/11,Melrose,MA,7,Beverly Cardinals,World Class,61.85,1972
+06/15,Milwaukee,WI,1,Madison Scouts,World Class,72.8,1972
+06/16,Lynn,MA,1,Annunciators,World Class,69.85,1972
+06/17,Syracuse,NY,1,Crusaders,World Class,83.9,1972
+06/17,Hempstead,NY,1,Skyliners,World Class,87.81,1972
+06/15,Milwaukee,WI,2,Black Knights,World Class,71.35,1972
+06/16,Lynn,MA,2,Princemen,World Class,61.1,1972
+06/17,Syracuse,NY,2,Caballeros,World Class,80.05,1972
+06/17,Hempstead,NY,2,Hurricanes,World Class,81.4,1972
+06/15,Milwaukee,WI,3,Kilties,World Class,69.55,1972
+06/16,Lynn,MA,3,Defenders,World Class,60.2,1972
+06/17,Syracuse,NY,3,Buccaneers,World Class,79.2,1972
+06/17,Hempstead,NY,2,Yankee Rebels,World Class,80.05,1972
+06/15,Milwaukee,WI,4,Racine Scouts,World Class,54.1,1972
+06/17,Syracuse,NY,4,Hamburg Kingsmen,World Class,68.1,1972
+06/17,Hempstead,NY,4,Les Diplomats,World Class,72.05,1972
+06/15,Milwaukee,WI,5,Americanos,World Class,49.15,1972
+06/17,Syracuse,NY,5,Royalaires,World Class,62.15,1972
+06/17,Hempstead,NY,5,Rockets,World Class,64.75,1972
+06/17,Milwaukee,WI,1,27th Lancers,World Class,81.5,1972
+06/17,Wilson,NC,1,Monarchs,World Class,60.3,1972
+06/17,State Center,IA,1,Chevaliers (IA),World Class,66.7,1972
+06/17,Johnsonburg,PA,1,Erie Thunderbirds,World Class,69.3,1972
+06/17,Milwaukee,WI,2,Blue Stars,World Class,78.5,1972
+06/17,Wilson,NC,2,Young Americans,World Class,59.65,1972
+06/17,State Center,IA,2,Colt .45's,World Class,62.85,1972
+06/17,Johnsonburg,PA,2,Suburban Knights,World Class,60.4,1972
+06/17,Milwaukee,WI,3,Blue Rock,World Class,77.3,1972
+06/17,Wilson,NC,3,PAL Cadets,World Class,54.35,1972
+06/17,State Center,IA,3,Royals,World Class,58.9,1972
+06/17,Johnsonburg,PA,3,Freestatesmen,World Class,60.1,1972
+06/17,Milwaukee,WI,4,Kilties,World Class,76.1,1972
+06/17,Wilson,NC,4,Royalaires Mounties,World Class,53.05,1972
+06/17,State Center,IA,4,Precisionnaires,World Class,51.65,1972
+06/17,Johnsonburg,PA,4,Patriots,World Class,59.6,1972
+06/17,Milwaukee,WI,5,Garfield Cadets,World Class,75.5,1972
+06/17,Wilson,NC,5,York White Roses,World Class,48.05,1972
+06/17,State Center,IA,5,Nee-Hi's,World Class,47.85,1972
+06/17,Johnsonburg,PA,5,Karwartha Kavaliers,World Class,58.65,1972
+06/17,Milwaukee,WI,6,DeLaSalle Oaklands,World Class,74.65,1972
+06/17,Wilson,NC,6,Golden Knights,World Class,42.85,1972
+06/17,State Center,IA,6,Emerald Knights,World Class,40.85,1972
+06/17,Milwaukee,WI,7,CMCC Warriors,World Class,73.7,1972
+06/17,Wilson,NC,7,Magnolia Lancers,World Class,41.05,1972
+06/17,State Center,IA,7,Eye Openers,World Class,12.3,1972
+06/17,Milwaukee,WI,8,Toronto Optimists,World Class,68.75,1972
+06/17,Stockton,CA,1,Vanguard,World Class,76.0,1972
+06/17,Grand Rapids,MI,1,Marauders (MI),World Class,75.35,1972
+06/17,Geneva,NY,1,Purple Lancers,World Class,65.95,1972
+06/17,Bowling Green,OH,1,Des Plaines Vanguard,World Class,69.0,1972
+06/17,Stockton,CA,2,Velvet Knights,World Class,47.45,1972
+06/17,Grand Rapids,MI,2,Flint Guardsmen,World Class,69.5,1972
+06/17,Geneva,NY,2,Magnificent Yankees,World Class,65.6,1972
+06/17,Bowling Green,OH,2,Black Knights,World Class,68.55,1972
+06/17,Stockton,CA,3,Blue Devils,World Class,42.6,1972
+06/17,Grand Rapids,MI,3,Vanguard Rockets,World Class,67.25,1972
+06/17,Geneva,NY,3,LaSalle Cadets,World Class,65.2,1972
+06/17,Bowling Green,OH,3,Marion Cadets Jets,World Class,57.9,1972
+06/17,Grand Rapids,MI,4,Blue Notes,World Class,64.65,1972
+06/17,Geneva,NY,4,Mello Dears,World Class,47.65,1972
+06/17,Bowling Green,OH,4,Phantom Regiment,World Class,54.55,1972
+06/17,Grand Rapids,MI,5,Northernaires,World Class,58.65,1972
+06/17,Geneva,NY,5,Cleveland Buckeyes,World Class,41.75,1972
+06/17,Bowling Green,OH,5,Princemen (ONT),World Class,48.9,1972
+06/17,Grand Rapids,MI,6,Blue Knights (MI),World Class,55.25,1972
+06/17,Grand Rapids,MI,7,Praesidium,World Class,53.55,1972
+06/17,Grand Rapids,MI,8,Saginaires,World Class,50.8,1972
+06/18,Watertown,WI,1,"Imperials of St.
+  Patrick's",World Class,70.3,1972
+06/18,Grand Rapids,MI,1,Imperials,World Class,70.55,1972
+06/18,Anaheim,CA,1,Anaheim Kingsmen,World Class,76.5,1972
+06/21,Revere,MA,1,Princemen,World Class,64.25,1972
+06/18,Watertown,WI,2,Chevaliers-IA,World Class,60.7,1972
+06/18,Grand Rapids,MI,2,Percussion-naut Pats,World Class,69.05,1972
+06/18,Anaheim,CA,2,Velvet Knights,World Class,70.9,1972
+06/21,Revere,MA,2,Annunciators,World Class,63.6,1972
+06/18,Watertown,WI,3,Racine Scouts,World Class,60.6,1972
+06/18,Grand Rapids,MI,3,Tri-City Columbians,World Class,60.85,1972
+06/18,Anaheim,CA,3,Diplomats,World Class,66.7,1972
+06/21,Revere,MA,3,Sharpshooters,World Class,62.7,1972
+06/18,Watertown,WI,4,Guardsmen,World Class,57.4,1972
+06/18,Grand Rapids,MI,4,Sentinels,World Class,59.8,1972
+06/18,Anaheim,CA,4,LA Chinese,World Class,62.6,1972
+06/18,Watertown,WI,5,Saint Mathias Cadets,World Class,55.4,1972
+06/18,Grand Rapids,MI,5,Titans,World Class,56.65,1972
+06/18,Anaheim,CA,5,California Crusaders,World Class,59.95,1972
+06/18,Watertown,WI,6,Thunderbolts,World Class,52.3,1972
+06/18,Grand Rapids,MI,6,Shamrocks,World Class,52.4,1972
+06/18,Watertown,WI,7,Americanos,World Class,45.5,1972
+06/18,Grand Rapids,MI,7,Seattle Cascades,World Class,45.0,1972
+06/18,Anaheim,CA,1,VK Squires,World Class,67.8,1972
+06/18,Grand Rapids,MI,8,Black Watch,World Class,37.8,1972
+06/18,Anaheim,CA,2,Kings Lancers,World Class,63.7,1972
+06/24,Lynn,MA,1,Skyliners,World Class,87.05,1972
+06/24,Salina,KS,1,Argonne Rebels,World Class,76.0,1972
+06/24,Frankenmuth,MI,1,Mariners,World Class,69.35,1972
+06/24,Revere,MA,1,"Imperials of St.
+  Patrick's",World Class,75.1,1972
+06/24,Lynn,MA,2,Hurricanes,World Class,84.45,1972
+06/24,Salina,KS,2,Sky Ryders,World Class,61.15,1972
+06/24,Frankenmuth,MI,2,Iron Brigade,World Class,67.2,1972
+06/24,Revere,MA,2,Chevaliers-IA,World Class,69.5,1972
+06/24,Lynn,MA,3,Caballeros,World Class,83.1,1972
+06/24,Salina,KS,3,Silver Sabres,World Class,59.3,1972
+06/24,Frankenmuth,MI,3,Vanguard Rockets,World Class,56.7,1972
+06/24,Revere,MA,3,Blue Notes,World Class,60.15,1972
+06/24,Lynn,MA,4,Les Diplomats,World Class,76.6,1972
+06/24,Salina,KS,4,Con Ambassadors,World Class,51.85,1972
+06/24,Frankenmuth,MI,4,Saginaires,World Class,47.7,1972
+06/24,Revere,MA,4,Northernaires,World Class,57.5,1972
+06/24,Lynn,MA,5,Sunrisers,World Class,70.45,1972
+06/24,Salina,KS,5,Frontiersmen,World Class,45.55,1972
+06/24,Frankenmuth,MI,5,Lionettes,World Class,47.2,1972
+06/24,Revere,MA,5,Blue Knights-MI,World Class,50.8,1972
+06/24,Salina,KS,6,Eldoradans,World Class,39.1,1972
+06/24,Frankenmuth,MI,6,Dutch Boy Cadets,World Class,41.6,1972
+06/24,Salina,KS,7,Valiant Knights,World Class,35.9,1972
+06/24,Salina,KS,8,Blue Knights-CO,World Class,33.3,1972
+06/24,Salina,KS,9,Plainsmen,World Class,29.75,1972
+06/24,Salina,KS,10,Young Admirals,World Class,18.35,1972
+06/24,Salina,KS,11,Crimson Cadets,World Class,15.65,1972
+06/24,Appleton,WI,1,Blue Stars,World Class,83.3,1972
+06/24,San Jose,CA,1,Vanguard,World Class,78.5,1972
+06/24,Braintree,MA,1,Annunciators,World Class,64.9,1972
+06/24,Peterborough,Ontario,1,Etobicoke Crusaders,World Class,73.05,1972
+06/24,Appleton,WI,2,Kilties,World Class,80.15,1972
+06/24,San Jose,CA,2,Stockton Commodores,World Class,60.15,1972
+06/24,Braintree,MA,2,Defenders,World Class,62.95,1972
+06/24,Peterborough,Ontario,2,Opti-Knights,World Class,73.0,1972
+06/24,Appleton,WI,3,Racine Scouts,World Class,68.55,1972
+06/24,San Jose,CA,3,Velvet Knights,World Class,56.0,1972
+06/24,Braintree,MA,3,Fitchburg Kingsmen,World Class,58.45,1972
+06/24,Peterborough,Ontario,3,Flying Dutchmen,World Class,58.6,1972
+06/24,Appleton,WI,4,Warriors,World Class,66.75,1972
+06/24,San Jose,CA,4,LA Chinese,World Class,51.95,1972
+06/24,Peterborough,Ontario,4,Marching Angels (CAN),World Class,56.15,1972
+06/24,Appleton,WI,5,Saint Mathias Cadets,World Class,65.35,1972
+06/24,San Jose,CA,5,Royalaires (CA),World Class,47.75,1972
+06/24,Peterborough,Ontario,5,Kinsmen Krescendos,World Class,53.95,1972
+06/24,Appleton,WI,6,Thunderbolts,World Class,64.25,1972
+06/24,Peterborough,Ontario,6,OYB Lampliters,World Class,52.05,1972
+06/24,Appleton,WI,7,Marquis,World Class,63.0,1972
+06/24,Peterborough,Ontario,7,Golden Lions,World Class,43.75,1972
+06/24,Appleton,WI,8,Mariners,World Class,60.25,1972
+06/24,Peterborough,Ontario,8,Cardinals of PB,World Class,41.45,1972
+06/24,Appleton,WI,9,Americanos,World Class,51.05,1972
+06/24,Peterborough,Ontario,9,Dutch Boy Cadets,World Class,38.45,1972
+06/24,Appleton,WI,10,Sundowners,World Class,45.8,1972
+06/24,Appleton,WI,11,32nd Hussar,World Class,32.7,1972
+06/25,Wichita,KS,1,Argonne Rebels,World Class,74.35,1972
+06/25,Mayville,WI,1,Kilties,World Class,77.1,1972
+06/25,Cedarburg,WI,1,Blue Stars,World Class,80.25,1972
+06/25,Frankenmuth,MI,1,Mariners,World Class,69.35,1972
+06/25,Wichita,KS,2,Sky Ryders,World Class,61.4,1972
+06/25,Mayville,WI,2,Madison Scouts,World Class,69.5,1972
+06/25,Cedarburg,WI,2,"Imperials of St.
+  Patrick's",World Class,72.4,1972
+06/25,Frankenmuth,MI,2,Marauders (MI),World Class,67.2,1972
+06/25,Wichita,KS,3,Silver Sabres,World Class,57.2,1972
+06/25,Mayville,WI,3,Phantom Regiment,World Class,66.9,1972
+06/25,Cedarburg,WI,3,Colt 45's,World Class,68.45,1972
+06/25,Frankenmuth,MI,3,Vanguard Rockets,World Class,56.7,1972
+06/25,Wichita,KS,4,Con Ambassadors,World Class,51.3,1972
+06/25,Mayville,WI,4,Racine Scouts,World Class,64.8,1972
+06/25,Cedarburg,WI,4,Americanos,World Class,56.75,1972
+06/25,Frankenmuth,MI,4,Saginaires,World Class,47.7,1972
+06/25,Wichita,KS,5,Frontiersmen,World Class,47.5,1972
+06/25,Mayville,WI,5,Warriors,World Class,63.6,1972
+06/25,Cedarburg,WI,5,Northernaires,World Class,54.9,1972
+06/25,Frankenmuth,MI,5,Lionettes,World Class,47.2,1972
+06/25,Wichita,KS,6,Eldoradans,World Class,39.65,1972
+06/25,Mayville,WI,6,Chevaliers-IA,World Class,61.8,1972
+06/25,Cedarburg,WI,6,Argonne Rebels,World Class,46.3,1972
+06/25,Frankenmuth,MI,6,Dutch Boy Cadets,World Class,41.6,1972
+06/25,Wichita,KS,7,Blue Knights-CO,World Class,32.1,1972
+06/25,Mayville,WI,7,Saint Mathias Cadets,World Class,60.1,1972
+06/25,Cedarburg,WI,7,32nd Hussar,World Class,45.45,1972
+06/25,Wichita,KS,8,Plainsmen,World Class,28.25,1972
+06/25,Mayville,WI,8,Marquis,World Class,56.3,1972
+06/25,Cedarburg,WI,8,Sundowners,World Class,44.4,1972
+06/25,Wichita,KS,9,Valiant Knights,World Class,27.6,1972
+06/25,Mayville,WI,9,CapitolAires,World Class,45.8,1972
+06/25,Cedarburg,WI,9,Blue Knights-MI,World Class,42.85,1972
+06/25,Wichita,KS,10,Young Admirals,World Class,15.65,1972
+06/25,Mayville,WI,10,Mounties,World Class,35.4,1972
+06/25,Wichita,KS,11,Crimson Cadets,World Class,13.25,1972
+06/30,Weymouth,MA,1,Annunciators,World Class,66.2,1972
+06/30,Norristown,PA,1,Belvederes,World Class,72.45,1972
+06/30,Weymouth,MA,2,Sharpshooters,World Class,64.0,1972
+06/30,Norristown,PA,2,507 Hornets,World Class,62.85,1972
+06/30,Weymouth,MA,3,Defenders,World Class,63.2,1972
+06/30,Norristown,PA,3,Earls of Buck,World Class,44.9,1972
+06/30,Norristown,PA,4,Black Watch (NJ),World Class,38.35,1972
+06/30,Norristown,PA,5,Belles of St. Mary's (NJ),World Class,31.75,1972
+07/01,Bridgeport,CT,1,Skyliners,World Class,85.65,1972
+07/01,Clinton,IA,1,Guardsmen-IL,World Class,72.3,1972
+07/01,Fon du Lac,WI,1,Kilties,World Class,76.75,1972
+07/01,Placentia,CA,1,Velvet Knights,World Class,68.65,1972
+07/01,Bridgeport,CT,2,Hurricanes,World Class,81.65,1972
+07/01,Clinton,IA,2,Guardsmen-MI,World Class,68.45,1972
+07/01,Fon du Lac,WI,2,Racine Scouts,World Class,66.0,1972
+07/01,Placentia,CA,2,Imperial Dragons,World Class,68.15,1972
+07/01,Bridgeport,CT,3,Yankee Rebels,World Class,81.55,1972
+07/01,Clinton,IA,3,Royales,World Class,66.5,1972
+07/01,Fon du Lac,WI,3,Warriors,World Class,61.05,1972
+07/01,Placentia,CA,3,Diplomats,World Class,63.85,1972
+07/01,Bridgeport,CT,4,Caballeros,World Class,78.9,1972
+07/01,Clinton,IA,4,Falcon Cadets,World Class,48.5,1972
+07/01,Fon du Lac,WI,4,Silver Sabres,World Class,61.0,1972
+07/01,Placentia,CA,4,Crusaders,World Class,58.45,1972
+07/01,Bridgeport,CT,5,Les Diplomats,World Class,73.55,1972
+07/01,Clinton,IA,5,Emerald Knights,World Class,45.4,1972
+07/01,Fon du Lac,WI,5,Thunderbolts,World Class,60.75,1972
+07/01,Placentia,CA,5,VK Squires,World Class,57.25,1972
+07/01,Clinton,IA,6,Sabres Edge,World Class,41.05,1972
+07/01,Fon du Lac,WI,6,Saint John's Girls,World Class,57.85,1972
+07/01,Placentia,CA,6,Monterey Park Girls,World Class,53.4,1972
+07/01,Fon du Lac,WI,7,Americanos,World Class,51.65,1972
+07/01,Pembroke,PA,1,Princemen,World Class,63.3,1972
+07/01,Downingtown,PA,1,Keystone Regiment,World Class,66.4,1972
+07/02,East Troy,WI,1,Racine Scouts,World Class,68.8,1972
+07/02,Hamburg,PA,1,Squires,World Class,72.15,1972
+07/01,Pembroke,PA,2,Defenders,World Class,61.5,1972
+07/01,Downingtown,PA,2,Belvederes,World Class,63.05,1972
+07/02,East Troy,WI,2,Saint Mathias Cadets,World Class,64.35,1972
+07/02,Hamburg,PA,2,Mark Twain Cadets,World Class,66.15,1972
+07/01,Pembroke,PA,3,Annunciators,World Class,59.25,1972
+07/01,Downingtown,PA,3,507 Hornets,World Class,59.5,1972
+07/02,East Troy,WI,3,Thunderbolts,World Class,63.05,1972
+07/02,Hamburg,PA,3,Greece Cadets,World Class,48.85,1972
+07/01,Downingtown,PA,4,Quasar,World Class,51.6,1972
+07/02,East Troy,WI,4,Chevaliers-IA,World Class,62.15,1972
+07/02,Hamburg,PA,4,Royal Coachmen,World Class,45.05,1972
+07/01,Downingtown,PA,5,Leathernecks,World Class,36.05,1972
+07/02,East Troy,WI,5,Saint John's Girls,World Class,59.55,1972
+07/02,Mundelein,IL,1,Guardsmen,World Class,70.95,1972
+07/03,Bellevue,WA,1,Blue Devils,World Class,69.35,1972
+07/03,Racine,WI,1,Kilties,World Class,78.2,1972
+07/04,Hamburg,PA,1,Blue Devils,World Class,71.8,1972
+07/02,Mundelein,IL,2,Flint Guardsmen,World Class,64.75,1972
+07/03,Bellevue,WA,2,Percussion-naut Pats,World Class,67.8,1972
+07/03,Racine,WI,2,Des Plaines Vanguard,World Class,77.25,1972
+07/04,Hamburg,PA,2,Capitalaires-CA,World Class,69.15,1972
+07/02,Mundelein,IL,3,Precisionnaires,World Class,60.7,1972
+07/03,Bellevue,WA,3,Flamingos,World Class,61.15,1972
+07/03,Racine,WI,3,Black Knights,World Class,72.25,1972
+07/04,Hamburg,PA,3,Hawks,World Class,61.8,1972
+07/02,Mundelein,IL,4,Nee-Hi's,World Class,50.35,1972
+07/03,Bellevue,WA,4,CapitolAires-CA,World Class,60.3,1972
+07/03,Racine,WI,4,Racine Scouts,World Class,69.7,1972
+07/04,Hamburg,PA,4,Sentinels,World Class,61.3,1972
+07/02,Mundelein,IL,5,Viscounts,World Class,48.35,1972
+07/03,Bellevue,WA,5,Columbians,World Class,60.1,1972
+07/03,Racine,WI,5,Bleu Raeders,World Class,69.45,1972
+07/04,Hamburg,PA,5,Columbians,World Class,60.25,1972
+07/03,Bellevue,WA,6,Sentinels,World Class,59.15,1972
+07/03,Racine,WI,6,Saint Paul Scouts,World Class,54.7,1972
+07/04,Hamburg,PA,6,Flamingos,World Class,57.6,1972
+07/03,Bellevue,WA,7,Hawks,World Class,55.15,1972
+07/03,Racine,WI,7,Saint John's Girls,World Class,53.7,1972
+07/03,Bellevue,WA,1,Royalaires-CA,World Class,64.4,1972
+07/03,Bellevue,WA,2,Shamrocks,World Class,50.25,1972
+07/03,Bellevue,WA,3,Sunsetters,World Class,49.75,1972
+07/03,Bellevue,WA,4,Seattle Cascades,World Class,43.3,1972
+07/03,Bellevue,WA,5,Rocky Mountain Rangers,World Class,41.5,1972
+07/03,Bellevue,WA,6,Golden Skyliners,World Class,38.1,1972
+07/03,Bellevue,WA,1,Edmonton Strutters,World Class,45.0,1972
+07/03,Bellevue,WA,2,Black Watch-WA,World Class,44.4,1972
+07/04,Easton,PA,1,Belvederes,World Class,73.25,1972
+07/04,Midland,PA,1,Rockets,World Class,72.9,1972
+07/08,Altoona,PA,1,Skyliners,World Class,84.2,1972
+07/08,Los Angeles,CA,1,Velvet Knights,World Class,68.65,1972
+07/04,Easton,PA,2,Bracken Cavaliers,World Class,66.8,1972
+07/04,Midland,PA,2,Suburban Knights,World Class,58.5,1972
+07/08,Altoona,PA,2,Yankee Rebels,World Class,84.1,1972
+07/08,Los Angeles,CA,2,LA Chinese,World Class,68.15,1972
+07/04,Easton,PA,3,Polish Falcon Cadets,World Class,64.95,1972
+07/04,Midland,PA,3,Patriots,World Class,51.85,1972
+07/08,Altoona,PA,3,Buccaneers,World Class,77.85,1972
+07/08,Los Angeles,CA,3,Diplomats,World Class,64.7,1972
+07/04,Easton,PA,4,Vanguards,World Class,63.09,1972
+07/04,Midland,PA,4,Freestatesmen,World Class,49.9,1972
+07/08,Altoona,PA,4,Les Diplomats,World Class,72.9,1972
+07/08,Los Angeles,CA,4,Crusaders,World Class,58.45,1972
+07/04,Easton,PA,5,VIP's,World Class,61.35,1972
+07/04,Midland,PA,5,Esquires,World Class,40.9,1972
+07/08,Altoona,PA,5,Sunrisers,World Class,68.7,1972
+07/04,Easton,PA,6,Grenadiers,World Class,61.02,1972
+07/08,Los Angeles,CA,1,VK Squires,World Class,58.5,1972
+07/04,Easton,PA,7,Black Watch-NJ,World Class,45.0,1972
+07/08,Los Angeles,CA,2,Kings Lancers,World Class,56.95,1972
+07/08,Los Angeles,CA,3,Monterey Park Girls,World Class,55.4,1972
+07/04,Nashua,NH,1,Annunciators,World Class,61.1,1972
+07/08,Ocean City,NJ,1,Belvederes,World Class,66.15,1972
+07/08,Etobicoke,Ontario,1,Etobicoke Crusaders,World Class,76.65,1972
+07/08,Milwaukee,Wisconsin,1,Vanguard,World Class,87.4,1972
+07/04,Nashua,NH,2,Princemen,World Class,60.95,1972
+07/08,Ocean City,NJ,2,507 Hornets,World Class,62.0,1972
+07/08,Etobicoke,Ontario,2,Opti-Knights,World Class,73.1,1972
+07/08,Milwaukee,Wisconsin,2,Blue Stars,World Class,85.4,1972
+07/04,Nashua,NH,3,Orbiteers,World Class,46.4,1972
+07/08,Ocean City,NJ,3,Grenadiers,World Class,60.3,1972
+07/08,Etobicoke,Ontario,3,Flying Dutchmen,World Class,60.4,1972
+07/08,Milwaukee,Wisconsin,3,Cavaliers,World Class,82.45,1972
+07/08,Ocean City,NJ,4,Royaleer Mounties,World Class,53.4,1972
+07/08,Etobicoke,Ontario,4,Kinsmen Krescendos,World Class,57.3,1972
+07/08,Milwaukee,Wisconsin,4,Des Plaines Vanguard,World Class,81.75,1972
+07/08,Ocean City,NJ,5,Young Americans,World Class,52.9,1972
+07/08,Etobicoke,Ontario,5,Cardinals of PB,World Class,56.9,1972
+07/08,Milwaukee,Wisconsin,5,Kilties,World Class,81.55,1972
+07/08,Etobicoke,Ontario,6,Marching Angels (CAN),World Class,41.9,1972
+07/08,Milwaukee,Wisconsin,6,De LaSalle Oaklands,World Class,79.2,1972
+07/08,Etobicoke,Ontario,7,Golden Lions,World Class,41.3,1972
+07/08,Milwaukee,Wisconsin,7,Madison Scouts,World Class,78.05,1972
+07/08,Etobicoke,Ontario,8,Dutch Boy Cadets,World Class,33.8,1972
+07/08,Milwaukee,Wisconsin,8,Black Knights,World Class,75.3,1972
+07/08,Milwaukee,Wisconsin,9,Bleu Raeders,World Class,74.65,1972
+07/08,Milwaukee,Wisconsin,10,"Imperials of St.
+  Patrick's",World Class,71.55,1972
+07/09,Stoneham,MA,1,Princemen,World Class,63.7,1972
+07/09,Hamburg,NY,1,Squires,World Class,72.15,1972
+07/09,Woodstock,IL,1,Bleu Raeders,World Class,76.7,1972
+07/14,Wenatchee,WA,1,Seattle Imperials,World Class,63.0,1972
+07/09,Stoneham,MA,2,Annunciators,World Class,61.0,1972
+07/09,Hamburg,NY,2,Mark Twain Cadets,World Class,66.15,1972
+07/09,Woodstock,IL,2,Black Knights,World Class,74.3,1972
+07/14,Wenatchee,WA,2,Percussion-naut Pats,World Class,59.85,1972
+07/09,Stoneham,MA,3,Defenders,World Class,57.7,1972
+07/09,Hamburg,NY,3,Cadets of Greece,World Class,48.85,1972
+07/09,Woodstock,IL,3,"Imperials of St.
+  Patrick's",World Class,73.75,1972
+07/14,Wenatchee,WA,3,Hawks,World Class,51.8,1972
+07/09,Hamburg,NY,4,Royal Coachmen,World Class,45.05,1972
+07/09,Woodstock,IL,4,Saint Paul Scouts,World Class,68.8,1972
+07/14,Wenatchee,WA,4,Sentinels,World Class,51.35,1972
+07/09,Woodstock,IL,5,Phantom Regiment,World Class,67.3,1972
+07/14,Wenatchee,WA,5,Shamrocks,World Class,45.4,1972
+07/09,Woodstock,IL,6,Skokie Imperials,World Class,64.15,1972
+07/14,Wenatchee,WA,6,Titans,World Class,44.05,1972
+07/09,Woodstock,IL,7,Spectacle City Mariners,World Class,62.1,1972
+07/14,Wenatchee,WA,7,Seattle Cascades,World Class,36.7,1972
+07/14,Wenatchee,WA,8,Black Watch-WA,World Class,35.95,1972
+07/14,Norwood,MA,1,Annunciators,World Class,61.8,1972
+07/14,Hamburg,NY,1,Chessmen,World Class,78.05,1972
+07/15,Clifton,NJ,1,Skyliners,World Class,85.55,1972
+07/15,Pasco,WA,1,Velvet Knights,World Class,69.5,1972
+07/14,Norwood,MA,2,Princemen,World Class,60.95,1972
+07/14,Hamburg,NY,2,Bracken Cavaliers,World Class,69.95,1972
+07/15,Clifton,NJ,2,Crusaders,World Class,85.3,1972
+07/15,Pasco,WA,2,Percussion-naut Pats,World Class,66.9,1972
+07/14,Norwood,MA,3,Defenders,World Class,60.05,1972
+07/14,Hamburg,NY,3,Keystone Regiment,World Class,66.25,1972
+07/15,Clifton,NJ,3,Hurricanes,World Class,84.5,1972
+07/15,Pasco,WA,3,Flamingos,World Class,60.5,1972
+07/14,Hamburg,NY,4,507 Hornets,World Class,66.05,1972
+07/15,Clifton,NJ,4,Les Diplomats,World Class,74.55,1972
+07/15,Pasco,WA,4,Columbians,World Class,57.9,1972
+07/14,Hamburg,NY,5,Belvederes,World Class,63.75,1972
+07/15,Clifton,NJ,5,Sunrisers,World Class,72.35,1972
+07/15,Pasco,WA,5,Hawks,World Class,57.5,1972
+07/14,Hamburg,NY,6,Sacred Heart Crusaders,World Class,59.6,1972
+07/15,Pasco,WA,6,Royal Lancers,World Class,56.55,1972
+07/14,Hamburg,NY,7,Emerald Lancers,World Class,43.1,1972
+07/15,Pasco,WA,7,Sentinels,World Class,55.7,1972
+07/15,Pasco,WA,8,Carson Crusaders,World Class,54.85,1972
+07/15,Pasco,WA,9,Titans,World Class,51.2,1972
+07/15,Pasco,WA,1,Knight Raiders,World Class,56.95,1972
+07/15,Pasco,WA,2,Shamrocks,World Class,47.45,1972
+07/15,Pasco,WA,3,Seattle Cascades,World Class,39.5,1972
+07/15,Pasco,WA,4,Spartans-WA,World Class,37.3,1972
+07/15,Pasco,WA,5,Rocky Mountain Rangers,World Class,35.85,1972
+07/15,Pasco,WA,6,Sunsetters,World Class,35.25,1972
+07/15,Pasco,WA,1,Black Watch-WA,World Class,37.95,1972
+07/15,Pasco,WA,2,Edmonton Strutters,World Class,37.75,1972
+07/15,Pasco,WA,3,Oregon Crusaders,World Class,31.35,1972
+07/15,Newton Square,PA,1,Belvederes,World Class,74.7,1972
+07/15,Oneonta,NY,1,Purple Lancers,World Class,68.75,1972
+07/15,Sayre,PA,1,Squires,World Class,62.35,1972
+07/15,Hawthorne,NY,1,Skyliners,World Class,85.55,1972
+07/15,Newton Square,PA,2,Bracken Cavaliers,World Class,68.9,1972
+07/15,Oneonta,NY,2,Magnificent Yankees,World Class,66.85,1972
+07/15,Sayre,PA,2,Appleknockers,World Class,53.5,1972
+07/15,Hawthorne,NY,2,Crusaders,World Class,85.3,1972
+07/15,Newton Square,PA,3,507 Hornets,World Class,66.35,1972
+07/15,Oneonta,NY,3,Syracuse Marauders,World Class,62.05,1972
+07/15,Sayre,PA,3,Spiegalaires,World Class,54.9,1972
+07/15,Hawthorne,NY,3,Hurricanes,World Class,84.5,1972
+07/15,Newton Square,PA,4,Sacred Hearts Crusaders,World Class,61.05,1972
+07/15,Oneonta,NY,4,Mark Twain Cadets,World Class,55.25,1972
+07/15,Sayre,PA,4,White Knights,World Class,48.85,1972
+07/15,Hawthorne,NY,4,Les Diplomats,World Class,74.55,1972
+07/15,Newton Square,PA,5,Royaleer Mounties,World Class,59.35,1972
+07/15,Oneonta,NY,5,Appalachian Grenadiers,World Class,52.75,1972
+07/15,Sayre,PA,5,Black Knights (NY),World Class,44.0,1972
+07/15,Hawthorne,NY,5,Sunrisers,World Class,72.35,1972
+07/16,Bridgeport,CT,1,Skyliners,World Class,89.1,1972
+07/16,Pendleton,OR,1,Velvet Knights,World Class,71.0,1972
+07/19,Edmonton,Alberta,1,Velvet Knights,World Class,70.8,1972
+07/21,Santa Clara,CA,1,Vanguard,World Class,83.35,1972
+07/16,Bridgeport,CT,2,Hurricanes,World Class,86.15,1972
+07/16,Pendleton,OR,2,Percussion-naut Pats,World Class,69.3,1972
+07/19,Edmonton,Alberta,2,Knight Raiders,World Class,67.3,1972
+07/21,Santa Clara,CA,2,Blue Stars,World Class,82.6,1972
+07/16,Bridgeport,CT,3,Sunrisers,World Class,76.15,1972
+07/16,Pendleton,OR,3,Tri-City Columbians,World Class,60.95,1972
+07/19,Edmonton,Alberta,3,Royal Lancers,World Class,59.95,1972
+07/21,Santa Clara,CA,3,Anaheim Kingsmen,World Class,78.65,1972
+07/16,Bridgeport,CT,4,Les Diplomats,World Class,71.1,1972
+07/16,Pendleton,OR,4,Portland Hawks,World Class,60.15,1972
+07/19,Edmonton,Alberta,4,Flamingos,World Class,58.35,1972
+07/21,Santa Clara,CA,4,Troopers,World Class,77.6,1972
+07/16,Bridgeport,CT,5,Canadian Commanders,World Class,61.7,1972
+07/16,Pendleton,OR,5,Flamingos,World Class,59.35,1972
+07/19,Edmonton,Alberta,5,Tri-City Columbians,World Class,57.9,1972
+07/21,Santa Clara,CA,5,Madison Scouts,World Class,72.55,1972
+07/19,Edmonton,Alberta,6,Titans (WA),World Class,56.05,1972
+07/21,Santa Clara,CA,6,Commodores,World Class,68.1,1972
+07/19,Edmonton,Alberta,7,California Crusaders,World Class,55.05,1972
+07/21,Santa Clara,CA,7,Capitalaires-CA,World Class,58.45,1972
+07/21,Franklin,MA,1,Fitchburg Kingsmen,World Class,63.7,1972
+07/22,Baltimore,MD,1,Skyliners,World Class,89.1,1972
+07/22,Garfield,NJ,1,27th Lancers,World Class,84.3,1972
+07/22,Milwaukee,WI,1,Kilties,World Class,79.15,1972
+07/21,Franklin,MA,2,Socialites,World Class,61.0,1972
+07/22,Baltimore,MD,2,Hurricanes,World Class,84.2,1972
+07/22,Garfield,NJ,2,Cavaliers,World Class,80.75,1972
+07/22,Milwaukee,WI,2,Des Plaines Vanguard,World Class,79.0,1972
+07/21,Franklin,MA,3,Annunciators,World Class,57.8,1972
+07/22,Baltimore,MD,3,Caballeros,World Class,83.7,1972
+07/22,Garfield,NJ,3,Blue Rock,World Class,79.4,1972
+07/22,Milwaukee,WI,3,Kewaunee Knights,World Class,70.75,1972
+07/22,Baltimore,MD,4,Buccaneers,World Class,81.35,1972
+07/22,Garfield,NJ,4,Blessed Sacrament,World Class,77.65,1972
+07/22,Milwaukee,WI,4,Warriors,World Class,66.7,1972
+07/22,Baltimore,MD,5,Les Diplomats,World Class,72.45,1972
+07/22,Garfield,NJ,5,Boston Crusaders,World Class,75.4,1972
+07/22,Milwaukee,WI,5,Americanos,World Class,60.65,1972
+07/22,Garfield,NJ,6,"Belleville Black
+  Knights",World Class,71.5,1972
+07/22,Milwaukee,WI,6,Northernaires,World Class,53.75,1972
+07/22,Milwaukee,WI,7,Memorial Lancers,World Class,43.05,1972
+07/22,Milwaukee,WI,8,Scorpions,World Class,26.0,1972
+07/22,Newport News,VA,1,Bracken Cavaliers,World Class,72.6,1972
+07/22,Unknown,IA,1,Colt 45's,World Class,66.7,1972
+07/22,Syracuse,NY,1,Purple Lancers,World Class,74.7,1972
+07/22,Syracuse,NY,1,Magnificent Yankees,World Class,78.2,1972
+07/22,Newport News,VA,2,Falcon Cadets,World Class,69.95,1972
+07/22,Unknown,IA,2,Chevaliers-IA,World Class,66.35,1972
+07/22,Syracuse,NY,2,Squires,World Class,72.4,1972
+07/22,Syracuse,NY,2,Purple Lancers,World Class,76.9,1972
+07/22,Newport News,VA,3,Knickerbockers,World Class,67.15,1972
+07/22,Unknown,IA,3,Precisionaires,World Class,56.7,1972
+07/22,Syracuse,NY,3,Magnificent Yankees,World Class,72.3,1972
+07/22,Syracuse,NY,3,Watkins Glen Squires,World Class,72.6,1972
+07/22,Newport News,VA,4,507 Hornets,World Class,67.11,1972
+07/22,Unknown,IA,4,Royales,World Class,55.8,1972
+07/22,Syracuse,NY,4,Syracuse Marauders,World Class,69.9,1972
+07/22,Syracuse,NY,4,Syracuse Marauders,World Class,70.25,1972
+07/22,Newport News,VA,5,VIP's,World Class,60.76,1972
+07/22,Unknown,IA,5,Nee-Hi's,World Class,46.0,1972
+07/22,Syracuse,NY,5,Appleknockers,World Class,62.0,1972
+07/22,Syracuse,NY,5,Mark Twain Cadets,World Class,67.3,1972
+07/22,Newport News,VA,6,Royalaires Mounties,World Class,58.37,1972
+07/22,Unknown,IA,6,Emerald Knights,World Class,37.0,1972
+07/22,Syracuse,NY,6,Mello-Dears,World Class,59.45,1972
+07/22,Syracuse,NY,6,Appleknockers,World Class,66.65,1972
+07/22,Newport News,VA,7,Wilson Patriots,World Class,34.0,1972
+07/22,Unknown,IA,7,Eye Openers,World Class,17.1,1972
+07/22,Syracuse,NY,7,Mark Twain Cadets,World Class,53.5,1972
+07/22,Syracuse,NY,7,Mello-Dears,World Class,64.35,1972
+07/22,Syracuse,NY,8,Tri-Town Cadets,World Class,50.6,1972
+07/22,Syracuse,NY,8,Tri-Town Cadets,World Class,56.3,1972
+07/22,Syracuse,NY,9,Greece Cadets,World Class,43.35,1972
+07/22,Syracuse,NY,10,Lakeview Shoreliners,World Class,35.0,1972
+07/22,Syracuse,NY,11,Trinity Cadets,World Class,29.05,1972
+07/22,Syracuse,NY,12,Alpine Girls,World Class,25.0,1972
+07/22,Syracuse,NY,13,Greenwood Lake,World Class,10.7,1972
+07/22,Syracuse,NY,14,Queensmen,World Class,8.35,1972
+07/22,Detroit,MI,1,Guardsmen,World Class,69.65,1972
+07/22,Everett,MA,1,Annunciators,World Class,69.95,1972
+07/22,Hazelton,PA,1,Chessmen,World Class,76.2,1972
+07/23,New Brunswick,NJ,1,Skyliners,World Class,85.1,1972
+07/22,Detroit,MI,2,Blue Notes,World Class,68.7,1972
+07/22,Everett,MA,2,Sharpshooters,World Class,56.75,1972
+07/22,Hazelton,PA,2,Belvederes,World Class,73.55,1972
+07/23,New Brunswick,NJ,2,Hurricanes,World Class,83.3,1972
+07/22,Detroit,MI,3,MH Marauders,World Class,67.5,1972
+07/22,Everett,MA,3,Orbiteers,World Class,44.9,1972
+07/22,Hazelton,PA,3,Keystone Regiment,World Class,71.85,1972
+07/23,New Brunswick,NJ,3,Caballeros,World Class,81.6,1972
+07/22,Hazelton,PA,4,Grenadiers,World Class,68.0,1972
+07/23,New Brunswick,NJ,4,Les Diplomats,World Class,74.6,1972
+07/22,Hazelton,PA,5,Sacred Heart Crusaders,World Class,66.15,1972
+07/22,Hazelton,PA,6,White Knights,World Class,62.05,1972
+07/23,Queens,NY,1,Belvederes,World Class,75.15,1972
+07/23,Garfield,NJ,1,27th Lancers,World Class,84.25,1972
+07/25,Green Bay,WI,1,Warriors,World Class,71.05,1972
+07/25,Detroit,MI,1,Guardsmen,World Class,69.69,1972
+07/23,Queens,NY,2,White Knights,World Class,66.55,1972
+07/23,Garfield,NJ,2,Cavaliers,World Class,81.15,1972
+07/25,Green Bay,WI,2,Saint Mathias Cadets,World Class,67.4,1972
+07/25,Detroit,MI,2,Blue Notes,World Class,68.7,1972
+07/23,Queens,NY,3,Our Lady of Blue Angels,World Class,48.4,1972
+07/23,Garfield,NJ,3,Bridgemen,World Class,76.35,1972
+07/25,Green Bay,WI,3,Thunderbolts,World Class,66.1,1972
+07/25,Detroit,MI,3,Marauders (MI),World Class,67.5,1972
+07/23,Queens,NY,4,Oceanside Legionnaires,World Class,45.55,1972
+07/23,Garfield,NJ,4,Boston Crusaders,World Class,73.45,1972
+07/25,Green Bay,WI,4,Americanos,World Class,63.1,1972
+07/23,Queens,NY,5,Knights of Huntington,World Class,44.45,1972
+07/23,Garfield,NJ,5,Black Knights,World Class,72.4,1972
+07/25,Green Bay,WI,5,Mariners,World Class,62.3,1972
+07/23,Queens,NY,6,Queensmen,World Class,43.0,1972
+07/23,Garfield,NJ,6,Audobon Bon Bons,World Class,71.15,1972
+07/23,Queens,NY,7,New York Lancers,World Class,39.65,1972
+07/23,Garfield,NJ,7,Beverly Cardinals,World Class,67.0,1972
+07/28,White Bear Lake,MN,1,Saint Paul Scouts,World Class,74.1,1972
+07/29,Stillwater,MN,1,Chevaliers-IA,World Class,74.8,1972
+07/29,Boston,MA,1,Anaheim Kingsmen,World Class,83.0,1972
+07/29,Stillwater,MN,1,Chevaliers-IA,World Class,74.8,1972
+07/28,White Bear Lake,MN,2,Chevaliers-IA,World Class,71.7,1972
+07/29,Stillwater,MN,2,Americanos,World Class,70.4,1972
+07/29,Boston,MA,2,27th Lancers,World Class,80.3,1972
+07/29,Stillwater,MN,2,Americanos,World Class,70.4,1972
+07/28,White Bear Lake,MN,3,Belles of Saint Mary's,World Class,61.9,1972
+07/29,Stillwater,MN,3,Royales,World Class,64.8,1972
+07/29,Boston,MA,3,Cavaliers,World Class,78.4,1972
+07/29,Stillwater,MN,3,Royales,World Class,64.8,1972
+07/28,White Bear Lake,MN,4,Blue Knights-MI,World Class,59.9,1972
+07/29,Stillwater,MN,4,Blue Knights-MI,World Class,53.9,1972
+07/29,Boston,MA,4,Blue Rock,World Class,77.55,1972
+07/29,Stillwater,MN,4,Blue Knights-MI,World Class,53.9,1972
+07/29,Stillwater,MN,5,Belles of Saint Mary's,World Class,52.9,1972
+07/29,Boston,MA,5,Saint Rita's Brassmen,World Class,76.5,1972
+07/29,Stillwater,MN,5,Belles of Saint Mary's,World Class,52.9,1972
+07/29,Boston,MA,6,Garfield Cadets,World Class,73.9,1972
+07/29,Boston,MA,7,Blessed Sacrament,World Class,73.85,1972
+07/29,Boston,MA,8,CMCC Warriors,World Class,73.8,1972
+07/29,Boston,MA,9,Boston Crusaders,World Class,73.55,1972
+07/29,Boston,MA,10,Bridgemen,World Class,72.1,1972
+07/29,Boston,MA,11,Pembroke Imperials,World Class,68.3,1972
+07/29,Boston,MA,12,Saint Francis Sancians,World Class,56.75,1972
+07/29,Boston,MA,13,IC Reveries,World Class,55.65,1972
+07/29,Carlisle,PA,1,Skyliners,World Class,85.65,1972
+07/29,Emmaus,PA,1,Rockets,World Class,72.15,1972
+07/29,York,PA,1,Belvederes,World Class,71.75,1972
+07/29,Ogdensburg,PA,1,Magnificent Yankees,World Class,78.0,1972
+07/29,Carlisle,PA,2,Hurricanes,World Class,84.3,1972
+07/29,Emmaus,PA,2,Matadors,World Class,62.8,1972
+07/29,York,PA,2,Grenadiers,World Class,67.75,1972
+07/29,Ogdensburg,PA,2,Toronto Optimists,World Class,77.1,1972
+07/29,Carlisle,PA,3,Caballeros,World Class,83.45,1972
+07/29,Emmaus,PA,3,Whalers,World Class,61.05,1972
+07/29,York,PA,3,White Knights,World Class,66.6,1972
+07/29,Ogdensburg,PA,3,Syracuse Marauders,World Class,69.75,1972
+07/29,Carlisle,PA,4,Les Diplomats,World Class,81.85,1972
+07/29,Emmaus,PA,4,Hanover Lancers,World Class,56.55,1972
+07/29,York,PA,4,Earls of Buck,World Class,57.65,1972
+07/29,Ogdensburg,PA,4,Les Compagnons,World Class,59.55,1972
+07/29,Emmaus,PA,5,Freestatesmen,World Class,54.7,1972
+07/29,York,PA,5,Derry Patriots,World Class,45.95,1972
+07/29,Ogdensburg,PA,5,Les Chatelaines,World Class,57.25,1972
+07/30,Kingston,NY,1,Anaheim Kingsmen,World Class,83.6,1972
+07/30,Rochester,NY,1,Squires,World Class,75.05,1972
+07/30,Kingston,NY,2,Blue Rock,World Class,81.85,1972
+07/30,Rochester,NY,2,Saint John's Girls,World Class,64.05,1972
+07/30,Kingston,NY,3,Blessed Sacrament,World Class,79.9,1972
+07/30,Rochester,NY,3,Tri-Town Cadets,World Class,59.85,1972
+07/30,Kingston,NY,4,CMCC Warriors,World Class,74.35,1972
+07/30,Rochester,NY,4,Lakeview Shoreliners,World Class,52.9,1972
+07/30,Kingston,NY,5,Toronto Optimists,World Class,71.2,1972
+07/30,Rochester,NY,5,Buckeyes,World Class,51.55,1972
+07/30,Kingston,NY,6,OLPH Ridgemen,World Class,70.9,1972
+07/30,Rochester,NY,6,Royal Coachmen,World Class,47.45,1972
+07/30,Kingston,NY,7,Magnificent Yankees,World Class,70.3,1972
+07/30,Kingston,NY,8,LaSalle Cadets,World Class,69.95,1972
+07/30,Rochester,NY,1,Gauchos,World Class,57.1,1972
+07/30,Rochester,NY,2,Black Knights (NY),World Class,56.8,1972
+07/30,Rochester,NY,3,Ambassadors (ONT),World Class,38.6,1972
+07/30,Rochester,NY,4,Alpine Girls,World Class,30.15,1972
+08/04,Lynn,MA,1,Muchachos,World Class,81.5,1972
+08/04,Lynn,MA,1,Squires,World Class,68.25,1972
+08/05,Lynn,MA,1,Kilties,World Class,81.1,1972
+08/05,Reading,PA,1,Skyliners,World Class,86.5,1972
+08/04,Lynn,MA,2,Saint Rita's Brassmen,World Class,81.25,1972
+08/04,Lynn,MA,2,Royales,World Class,67.1,1972
+08/05,Lynn,MA,2,Saint Rita's Brassmen,World Class,77.7,1972
+08/05,Reading,PA,2,Buccaneers,World Class,81.85,1972
+08/04,Lynn,MA,3,Kilties,World Class,81.1,1972
+08/04,Lynn,MA,3,Keystone Regiment,World Class,65.6,1972
+08/05,Lynn,MA,3,Muchachos,World Class,77.35,1972
+08/05,Reading,PA,3,Yankee Rebels,World Class,80.75,1972
+08/04,Lynn,MA,4,Bleu Raeders,World Class,80.5,1972
+08/04,Lynn,MA,4,Vagabonds-NY,World Class,62.9,1972
+08/05,Lynn,MA,4,Des Plaines Vanguard,World Class,75.25,1972
+08/05,Reading,PA,4,Sunrisers,World Class,70.55,1972
+08/04,Lynn,MA,5,CMCC Warriors,World Class,78.25,1972
+08/04,Lynn,MA,5,Kingston Indians,World Class,62.3,1972
+08/05,Lynn,MA,5,Bridgemen,World Class,74.15,1972
+08/05,Reading,PA,5,Canadian Commanders,World Class,64.45,1972
+08/04,Lynn,MA,6,Bridgemen,World Class,77.3,1972
+08/04,Lynn,MA,6,Stateliners,World Class,60.0,1972
+08/05,Lynn,MA,6,Bleu Raeders,World Class,71.95,1972
+08/04,Lynn,MA,7,Des Plaines Vanguard,World Class,76.5,1972
+08/04,Lynn,MA,7,Monarchs,World Class,58.15,1972
+08/05,Lynn,MA,7,Pembroke Imperials,World Class,70.75,1972
+08/04,Lynn,MA,8,Pembroke Imperials,World Class,74.6,1972
+08/04,Lynn,MA,8,PAL Cadets,World Class,55.8,1972
+08/05,Lynn,MA,8,CMCC Warriors,World Class,69.65,1972
+08/04,Lynn,MA,9,Cadets of LaSalle,World Class,74.5,1972
+08/04,Lynn,MA,9,Golden Crusaders,World Class,55.5,1972
+08/05,Lynn,MA,9,Cadets of LaSalle,World Class,68.55,1972
+08/04,Lynn,MA,10,Emerald Cadets,World Class,73.6,1972
+08/04,Lynn,MA,10,DIG's,World Class,55.15,1972
+08/05,Lynn,MA,10,Emerald Cadets,World Class,67.95,1972
+08/04,Lynn,MA,11,OLPH Ridgemen,World Class,72.45,1972
+08/04,Lynn,MA,10,Gauchos,World Class,55.15,1972
+08/04,Lynn,MA,12,Beverly Cardinals,World Class,71.6,1972
+08/04,Lynn,MA,12,Epoch,World Class,53.05,1972
+08/05,Lynn,MA,1,Squires,World Class,70.6,1972
+08/04,Lynn,MA,13,New London Surfers,World Class,69.65,1972
+08/04,Lynn,MA,13,Thomas More Cadets,World Class,48.95,1972
+08/05,Lynn,MA,2,Royales,World Class,68.75,1972
+08/04,Lynn,MA,14,Shoreliners,World Class,69.2,1972
+08/04,Lynn,MA,14,Stormy Knights,World Class,48.6,1972
+08/05,Lynn,MA,3,Keystone Regiment,World Class,64.55,1972
+08/04,Lynn,MA,15,Bracken Cavaliers,World Class,69.1,1972
+08/04,Lynn,MA,15,York White Roses,World Class,48.4,1972
+08/05,Lynn,MA,4,Vagabonds-NY,World Class,63.45,1972
+08/04,Lynn,MA,16,IC Reveries,World Class,68.0,1972
+08/04,Lynn,MA,16,Earls of Buck,World Class,45.25,1972
+08/05,Lynn,MA,5,Kingston Indians,World Class,55.85,1972
+08/04,Lynn,MA,17,Falcon Cadets,World Class,67.2,1972
+08/04,Lynn,MA,17,Socialites,World Class,44.4,1972
+08/04,Lynn,MA,18,Saint Francis Sancians,World Class,66.15,1972
+08/04,Lynn,MA,18,21st Lancers,World Class,42.2,1972
+08/05,Lynn,MA,1,Mello-Dears,World Class,61.25,1972
+08/04,Lynn,MA,19,Spiegalaires,World Class,65.05,1972
+08/04,Lynn,MA,19,Manchester Muchachos,World Class,41.05,1972
+08/05,Lynn,MA,2,Chatelaines De Laval,World Class,59.45,1972
+08/04,Lynn,MA,20,Olympians,World Class,64.9,1972
+08/04,Lynn,MA,20,Regal Crownsmen,World Class,40.7,1972
+08/05,Lynn,MA,3,Saint Ignatius,World Class,58.9,1972
+08/04,Lynn,MA,21,Blue Angels,World Class,64.1,1972
+08/04,Lynn,MA,21,Defenders,World Class,39.55,1972
+08/05,Lynn,MA,4,CapitolAires,World Class,50.1,1972
+08/04,Lynn,MA,22,Knickerbockers,World Class,62.6,1972
+08/04,Lynn,MA,22,Imperial Guardsmen-NY,World Class,36.9,1972
+08/05,Lynn,MA,5,Debonaires,World Class,48.55,1972
+08/04,Lynn,MA,23,Chatelaines De Laval,World Class,62.55,1972
+08/04,Lynn,MA,23,Black Knights-NH,World Class,26.8,1972
+08/04,Lynn,MA,24,Sacred Heart Crusaders,World Class,62.5,1972
+08/04,Lynn,MA,24,Continentals,World Class,26.75,1972
+08/04,Lynn,MA,25,Dukes of Marlboro,World Class,60.35,1972
+08/04,Lynn,MA,26,Trumbull Cadets,World Class,60.25,1972
+08/04,Lynn,MA,27,32nd Hussar,World Class,57.75,1972
+08/04,Lynn,MA,28,Royal Mounties,World Class,55.55,1972
+08/04,Lynn,MA,29,5th Maine Regiment,World Class,55.5,1972
+08/04,Lynn,MA,30,Golden Rays,World Class,55.2,1972
+08/04,Lynn,MA,31,Souveraines,World Class,53.45,1972
+08/04,Lynn,MA,32,Centurions,World Class,51.4,1972
+08/05,North Hills,PA,1,Rockets,World Class,76.7,1972
+08/05,Millersville,PA,1,Chessmen,World Class,73.9,1972
+08/05,Orange,CA,1,Velvet Knights,World Class,69.5,1972
+08/05,Newark,NJ,1,Purple Lancers,World Class,75.9,1972
+08/05,North Hills,PA,2,Thunderbirds,World Class,61.55,1972
+08/05,Millersville,PA,2,Belvederes,World Class,71.35,1972
+08/05,Orange,CA,2,LA Chinese,World Class,68.8,1972
+08/05,Newark,NJ,2,Magnificent Yankees,World Class,75.0,1972
+08/05,North Hills,PA,3,Hanover Lancers,World Class,60.05,1972
+08/05,Millersville,PA,3,Grenadiers,World Class,68.1,1972
+08/05,Orange,CA,3,Lynwood Diplomats,World Class,63.7,1972
+08/05,Newark,NJ,3,Syracuse Marauders,World Class,65.5,1972
+08/05,North Hills,PA,4,Sentinels,World Class,57.6,1972
+08/05,Millersville,PA,4,Miraculous Medal Orbits,World Class,58.95,1972
+08/05,Orange,CA,4,California Crusaders,World Class,57.2,1972
+08/05,Newark,NJ,4,Appleknockers,World Class,61.45,1972
+08/05,North Hills,PA,5,Freestatesmen,World Class,54.9,1972
+08/05,Millersville,PA,5,Cadets of Greece,World Class,51.8,1972
+08/05,Newark,NJ,5,Mark Twain Cadets,World Class,56.75,1972
+08/05,Orange,CA,1,Kings Lancers,World Class,60.2,1972
+08/05,Orange,CA,2,VK Squires,World Class,57.6,1972
+08/05,Orange,CA,3,Monterey Park Girls,World Class,56.3,1972
+08/06,Randolph,MA,1,Sharpshooters,World Class,65.15,1972
+08/06,Boston,MA,1,Kilties,World Class,83.25,1972
+08/06,Baltimore,MD,1,Chessmen,World Class,78.5,1972
+08/06,Simcoe,Ontario,1,Etobicoke Crusaders,World Class,78.0,1972
+08/06,Randolph,MA,2,Princemen,World Class,61.3,1972
+08/06,Boston,MA,2,Saint Rita's Brassmen,World Class,81.9,1972
+08/06,Baltimore,MD,2,Belvederes,World Class,77.0,1972
+08/06,Simcoe,Ontario,2,Opti-Knights,World Class,77.0,1972
+08/06,Randolph,MA,3,Jeanettes,World Class,61.25,1972
+08/06,Boston,MA,3,Muchachos,World Class,81.15,1972
+08/06,Baltimore,MD,3,Grenadiers,World Class,66.0,1972
+08/06,Simcoe,Ontario,3,Flying Dutchmen,World Class,63.55,1972
+08/06,Boston,MA,4,Bridgemen,World Class,79.2,1972
+08/06,Baltimore,MD,4,CapitolAires,World Class,63.8,1972
+08/06,Simcoe,Ontario,4,Marching Angels,World Class,57.4,1972
+08/06,Boston,MA,5,CMCC Warriors,World Class,76.95,1972
+08/06,Baltimore,MD,5,Cadets of Greece,World Class,56.7,1972
+08/06,Simcoe,Ontario,5,Krescendos,World Class,57.3,1972
+08/06,Boston,MA,6,Emerald Cadets,World Class,74.9,1972
+08/06,Baltimore,MD,6,Miraculous Medal Orbits,World Class,56.5,1972
+08/06,Simcoe,Ontario,6,Cardinals,World Class,49.8,1972
+08/06,Boston,MA,7,OLPH Ridgemen,World Class,71.3,1972
+08/06,Simcoe,Ontario,7,Golden Knights,World Class,44.1,1972
+08/06,Boston,MA,8,Les Chatelaines,World Class,67.55,1972
+08/07,Union,NJ,1,Anaheim Kingsmen,World Class,82.9,1972
+08/10,West Allis,WI,1,Blue Stars,World Class,89.4,1972
+08/11,Marion,OH,1,Etobicoke Crusaders,World Class,72.9,1972
+08/11,Marion,OH,1,Anaheim Kingsmen,World Class,85.65,1972
+08/07,Union,NJ,2,27th Lancers,World Class,82.6,1972
+08/10,West Allis,WI,2,Vanguard,World Class,87.6,1972
+08/11,Marion,OH,2,Grenadiers,World Class,72.7,1972
+08/11,Marion,OH,2,27th Lancers,World Class,83.8,1972
+08/07,Union,NJ,3,Blue Rock,World Class,81.75,1972
+08/10,West Allis,WI,3,Anaheim Kingsmen,World Class,85.5,1972
+08/11,Marion,OH,3,Belvederes,World Class,71.85,1972
+08/11,Marion,OH,3,Kilties,World Class,83.35,1972
+08/07,Union,NJ,4,Garfield Cadets,World Class,79.1,1972
+08/10,West Allis,WI,4,Troopers,World Class,83.7,1972
+08/11,Marion,OH,4,Opti-Knights,World Class,71.2,1972
+08/11,Marion,OH,4,Blue Rock,World Class,82.2,1972
+08/07,Union,NJ,5,Bleu Raeders,World Class,71.3,1972
+08/10,West Allis,WI,5,27th Lancers,World Class,82.85,1972
+08/11,Marion,OH,5,"General Butler
+  Vagabonds",World Class,70.95,1972
+08/11,Marion,OH,5,Bridgemen,World Class,81.5,1972
+08/10,West Allis,WI,6,Des Plaines Vanguard,World Class,82.7,1972
+08/11,Marion,OH,6,Royal Crusaders,World Class,70.3,1972
+08/11,Marion,OH,6,Des Plaines Vanguard,World Class,80.15,1972
+08/10,West Allis,WI,7,Garfield Cadets,World Class,78.55,1972
+08/11,Marion,OH,7,Alabama Charioteers,World Class,70.2,1972
+08/11,Marion,OH,7,Garfield Cadets,World Class,80.1,1972
+08/10,West Allis,WI,8,Madison Scouts,World Class,78.45,1972
+08/11,Marion,OH,8,Saint John's Girls,World Class,69.6,1972
+08/11,Marion,OH,8,Bleu Raeders,World Class,79.5,1972
+08/10,West Allis,WI,9,"Imperials of St.
+  Patrick's",World Class,72.05,1972
+08/11,Marion,OH,9,Mark Twain Cadets,World Class,69.4,1972
+08/11,Marion,OH,9,Blessed Sacrament,World Class,77.7,1972
+08/10,West Allis,WI,10,Racine Scouts,World Class,70.05,1972
+08/11,Marion,OH,10,Precisionnaires,World Class,68.5,1972
+08/11,Marion,OH,10,DeLaSalle Oaklands,World Class,77.1,1972
+08/11,Marion,OH,11,CapitolAires,World Class,68.1,1972
+08/11,Marion,OH,11,Racine Scouts,World Class,74.9,1972
+08/11,Marion,OH,12,Mello-Dears,World Class,67.9,1972
+08/11,Marion,OH,12,Purple Lancers,World Class,74.25,1972
+08/11,Marion,OH,13,Flint Guardsmen,World Class,67.25,1972
+08/11,Marion,OH,13,Seneca Princemen,World Class,74.0,1972
+08/11,Marion,OH,14,Glassmen,World Class,64.8,1972
+08/11,Marion,OH,14,Marion Cadets,World Class,73.7,1972
+08/11,Marion,OH,15,Les Compagnons,World Class,63.9,1972
+08/11,Marion,OH,15,Saint Paul Scouts,World Class,73.65,1972
+08/11,Marion,OH,16,Buckeyes,World Class,63.85,1972
+08/11,Marion,OH,16,"Imperials of St.
+  Patrick's",World Class,73.6,1972
+08/11,Marion,OH,17,Buccaneers (KY),World Class,63.75,1972
+08/11,Marion,OH,17,Beverly Cardinals,World Class,72.6,1972
+08/11,Marion,OH,18,Tri-Town Cadets,World Class,62.05,1972
+08/11,Marion,OH,18,Emerald Cadets,World Class,70.0,1972
+08/11,Marion,OH,19,Quasar,World Class,61.9,1972
+08/11,Marion,OH,19,Falcon Cadets,World Class,68.4,1972
+08/11,Marion,OH,20,Black Knights (NY),World Class,60.65,1972
+08/11,Marion,OH,20,Saint John's Girls,World Class,67.4,1972
+08/11,Marion,OH,20,Epoch,World Class,60.65,1972
+08/11,Marion,OH,21,Appleknockers,World Class,66.55,1972
+08/11,Marion,OH,22,Wilmington Crusaders,World Class,60.4,1972
+08/11,Marion,OH,22,Syracuse Marauders,World Class,66.05,1972
+08/11,Marion,OH,23,Vanguard (NY),World Class,60.1,1972
+08/11,Marion,OH,23,IC Reveries,World Class,64.25,1972
+08/11,Marion,OH,24,Floridians,World Class,59.8,1972
+08/11,Marion,OH,24,Dukes of Marlboro,World Class,63.55,1972
+08/11,Marion,OH,25,Windjammers,World Class,59.65,1972
+08/11,Marion,OH,25,Blue Angels,World Class,62.35,1972
+08/11,Marion,OH,26,Flying Dutchmen,World Class,56.95,1972
+08/11,Marion,OH,26,Knickerbockers,World Class,62.1,1972
+08/11,Marion,OH,27,Norwood Debonaires,World Class,55.95,1972
+08/11,Marion,OH,27,Queen City Cadets,World Class,61.45,1972
+08/11,Marion,OH,28,Royal Coachmen,World Class,53.9,1972
+08/11,Marion,OH,28,Golden Rays,World Class,58.9,1972
+08/11,Marion,OH,29,Milwaukee Rebels,World Class,53.4,1972
+08/11,Marion,OH,29,CapitolAires,World Class,58.6,1972
+08/11,Marion,OH,30,Joanettes,World Class,52.25,1972
+08/11,Marion,OH,30,32nd Hussar,World Class,52.3,1972
+08/11,Marion,OH,31,Vanguards All-Girl,World Class,52.1,1972
+08/11,Marion,OH,32,Praesidium,World Class,51.25,1972
+08/11,Marion,OH,33,Catholic D. of America,World Class,50.8,1972
+08/11,Marion,OH,34,Cadets of Greece,World Class,49.0,1972
+08/11,Marion,OH,35,Alpine Girls,World Class,44.4,1972
+08/11,Marion,OH,36,Black Shields of Sparta,World Class,44.3,1972
+08/11,Marion,OH,37,Ambassadors (PA),World Class,43.1,1972
+08/11,Marion,OH,38,Buccaneers,World Class,27.95,1972
+08/12,Marion,OH,1,Anaheim Kingsmen,World Class,88.15,1972
+08/12,Norwich,CT,1,Kingston Indians,World Class,67.85,1972
+08/12,Marion,OH,1,Michigan Marauders,World Class,73.35,1972
+08/12,Scranton,PA,1,New York Skyliners,World Class,87.25,1972
+08/12,Marion,OH,2,27th Lancers,World Class,85.0,1972
+08/12,Norwich,CT,2,Saint Ignatius,World Class,65.4,1972
+08/12,Marion,OH,2,Guardsmen,World Class,69.5,1972
+08/12,Scranton,PA,2,Connecticut Hurricanes,World Class,84.7,1972
+08/12,Marion,OH,3,Blue Rock,World Class,80.6,1972
+08/12,Norwich,CT,3,Trumbull Cadets,World Class,63.15,1972
+08/12,Scranton,PA,3,Reading Buccaneers,World Class,84.65,1972
+08/12,Marion,OH,4,Kilties,World Class,80.1,1972
+08/12,Norwich,CT,4,Stormy Knights,World Class,56.6,1972
+08/12,Scranton,PA,4,Yankee Rebels,World Class,83.15,1972
+08/12,Marion,OH,5,Bridgemen,World Class,79.4,1972
+08/12,Norwich,CT,5,Vagabonds-NY,World Class,55.75,1972
+08/12,Scranton,PA,5,Les Diplomats,World Class,80.35,1972
+08/12,Marion,OH,6,Des Plaines Vanguard,World Class,76.75,1972
+08/12,Norwich,CT,6,Explorers,World Class,54.7,1972
+08/12,Scranton,PA,6,Sunrisers,World Class,75.4,1972
+08/12,Marion,OH,7,Garfield Cadets,World Class,75.6,1972
+08/12,Norwich,CT,7,Fire-ettes,World Class,53.75,1972
+08/12,Marion,OH,8,Bleu Raeders,World Class,73.8,1972
+08/12,Marion,OH,9,DeLaSalle Oaklands,World Class,73.65,1972
+08/12,Marion,OH,10,Blessed Sacrament,World Class,71.5,1972
+08/12,Marion,OH,11,Racine Scouts,World Class,67.65,1972
+08/12,Marion,OH,12,Purple Lancers,World Class,64.6,1972
+08/12,Marion,OH,1,"General Butler
+  Vagabonds",World Class,68.3,1972
+08/12,Marion,OH,2,Etobicoke Crusaders,World Class,67.75,1972
+08/12,Marion,OH,3,Royal Crusaders,World Class,66.6,1972
+08/12,Marion,OH,4,Belvederes,World Class,66.35,1972
+08/12,Marion,OH,5,Grenadiers,World Class,65.95,1972
+08/12,Marion,OH,6,Opti-Knights,World Class,62.95,1972
+08/12,Marion,OH,7,Alabama Charioteers,World Class,62.9,1972
+08/12,Marion,OH,1,Saint John's Girls,World Class,62.95,1972
+08/12,Marion,OH,2,CapitolAires,World Class,59.85,1972
+08/12,Marion,OH,3,Mello-Dears,World Class,58.8,1972
+08/13,Jersey City,NJ,1,Skyliners,World Class,92.55,1972
+08/14,Granite City,IL,1,Bleu Raeders,World Class,80.1,1972
+08/15,Belleville,IL,1,"Belleville Black
+  Knights",World Class,82.0,1972
+08/13,Jersey City,NJ,2,Hurricanes,World Class,89.1,1972
+08/14,Granite City,IL,2,Des Plaines Vanguard,World Class,79.1,1972
+08/15,Belleville,IL,2,Bleu Raeders,World Class,80.45,1972
+08/13,Jersey City,NJ,3,Buccaneers,World Class,88.0,1972
+08/14,Granite City,IL,3,Black Knights,World Class,77.55,1972
+08/15,Belleville,IL,3,Des Plaines Vanguard,World Class,80.6,1972
+08/13,Jersey City,NJ,4,Yankee Rebels,World Class,87.8,1972
+08/14,Granite City,IL,4,Garfield Cadets,World Class,76.45,1972
+08/15,Belleville,IL,4,Garfield Cadets,World Class,79.1,1972
+08/13,Jersey City,NJ,5,Les Diplomats,World Class,83.55,1972
+08/14,Granite City,IL,5,"Imperials of St.
+  Patrick's",World Class,73.4,1972
+08/15,Belleville,IL,5,"Imperials of St.
+  Patrick's",World Class,73.95,1972
+08/13,Jersey City,NJ,6,Sunrisers,World Class,77.6,1972
+08/14,Granite City,IL,6,Saint Paul Scouts,World Class,67.45,1972
+08/15,Belleville,IL,6,Saint Paul Scouts,World Class,73.25,1972
+08/13,Whitewater,WI,1,Vanguard,Open Class,87.7,1972
+08/14,Whitewater,WI,1,"Anaheim
+  Kingsmen",Open Class,88.1,1972
+08/13,Whitewater,WI,2,Blue Stars,Open Class,85.0,1972
+08/14,Whitewater,WI,2,Blue Stars,Open Class,87.45,1972
+08/13,Whitewater,WI,3,Anaheim Kingsmen,Open Class,84.5,1972
+08/14,Whitewater,WI,3,Vanguard,Open Class,87.35,1972
+08/13,Whitewater,WI,4,27th Lancers,Open Class,83.95,1972
+08/14,Whitewater,WI,4,27th Lancers,Open Class,86.0,1972
+08/13,Whitewater,WI,5,Argonne Rebels,Open Class,81.85,1972
+08/14,Whitewater,WI,5,Argonne Rebels,Open Class,82.9,1972
+08/13,Whitewater,WI,6,Kilties,Open Class,81.7,1972
+08/14,Whitewater,WI,6,Troopers,Open Class,81.95,1972
+08/13,Whitewater,WI,7,Troopers,Open Class,80.95,1972
+08/14,Whitewater,WI,7,Des Plaines Vanguard,Open Class,81.25,1972
+08/13,Whitewater,WI,8,Des Plaines Vanguard,Open Class,80.45,1972
+08/14,Whitewater,WI,8,Kilties,Open Class,81.2,1972
+08/13,Whitewater,WI,9,Cavaliers,Open Class,79.85,1972
+08/14,Whitewater,WI,9,Cavaliers,Open Class,79.45,1972
+08/13,Whitewater,WI,10,Muchachos,Open Class,79.65,1972
+08/14,Whitewater,WI,10,Muchachos,Open Class,78.45,1972
+08/13,Whitewater,WI,11,Bleu Raeders,Open Class,78.85,1972
+08/14,Whitewater,WI,11,Bridgemen,Open Class,75.4,1972
+08/13,Whitewater,WI,12,Bridgemen,Open Class,78.55,1972
+08/14,Whitewater,WI,12,Bleu Raeders,Open Class,73.95,1972
+08/13,Whitewater,WI,13,Garfield Cadets,Open Class,78.45,1972
+08/13,Whitewater,WI,14,Madison Scouts,Open Class,77.45,1972
+08/13,Whitewater,WI,15,"Belleville Black
+  Knights",Open Class,74.75,1972
+08/13,Whitewater,WI,16,DeLaSalle Oaklands,Open Class,74.55,1972
+08/13,Whitewater,WI,17,Pembroke Imperials,Open Class,73.1,1972
+08/13,Whitewater,WI,18,Kewanee Black Knights,Open Class,71.55,1972
+08/13,Whitewater,WI,19,"Imperials of St.
+  Patrick's",Open Class,70.75,1972
+08/13,Whitewater,WI,20,Sky Ryders,Open Class,67.1,1972
+08/13,Whitewater,WI,21,"Percussion-naut
+  Patriots",Open Class,66.8,1972
+08/13,Whitewater,WI,22,Charioteers,Open Class,65.85,1972
+08/13,Whitewater,WI,23,Phantom Regiment,Open Class,64.4,1972
+08/13,Whitewater,WI,24,Commodores,Open Class,64.1,1972
+08/13,Whitewater,WI,25,Guardsmen,Open Class,61.05,1972
+08/13,Whitewater,WI,26,Saint Francis Sancians,Open Class,60.75,1972
+08/13,Whitewater,WI,27,Precisionaires,Open Class,60.35,1972
+08/13,Whitewater,WI,28,Thunderbolts,Open Class,59.45,1972
+08/13,Whitewater,WI,29,Skokie Imperials,Open Class,59.15,1972
+08/13,Whitewater,WI,30,Mariners,Open Class,57.6,1972
+08/13,Whitewater,WI,31,CapitolAires,Open Class,55.7,1972
+08/13,Whitewater,WI,32,Northernaires,Open Class,54.9,1972
+08/13,Whitewater,WI,33,Long Island Kingsmen,Open Class,54.65,1972
+08/13,Whitewater,WI,34,Frontiersmen,Open Class,50.6,1972
+08/13,Whitewater,WI,35,Queen City Cadets,Open Class,48.65,1972
+08/13,Whitewater,WI,36,Southern Rebels,Open Class,43.55,1972
+08/13,Whitewater,WI,37,32nd Hussar,Open Class,42.3,1972
+08/13,Whitewater,WI,38,Blue Knights-MI,Open Class,41.8,1972
+08/13,Whitewater,WI,39,Saginaires,Open Class,39.25,1972
+08/19,Amherst,MA,1,Skyliners,Open Class,88.4,1972
+08/19,Woodstock,RI,1,Defenders,Open Class,65.8,1972
+08/19,Hellertown,PA,1,Belvederes,Open Class,76.9,1972
+08/20,Chicago,IL,1,Argonne Rebels,Open Class,83.1,1972
+08/19,Amherst,MA,2,Les Diplomats,Open Class,80.8,1972
+08/19,Woodstock,RI,2,Jeanettes,Open Class,63.6,1972
+08/19,Hellertown,PA,2,Bracken Cavaliers,Open Class,73.45,1972
+08/20,Chicago,IL,2,Cavaliers,Open Class,81.1,1972
+08/19,Amherst,MA,3,Sunrisers,Open Class,80.55,1972
+08/19,Woodstock,RI,3,Annunciators,Open Class,63.2,1972
+08/19,Hellertown,PA,3,507 Hornets,Open Class,72.25,1972
+08/20,Chicago,IL,3,Bleu Raeders,Open Class,77.75,1972
+08/19,Amherst,MA,4,Canadian Commanders,Open Class,70.7,1972
+08/19,Hellertown,PA,4,Emerald Lancers,Open Class,55.35,1972
+08/20,Chicago,IL,4,Bridgemen,Open Class,77.65,1972
+08/19,Amherst,MA,5,Boston Renegades,Open Class,58.65,1972
+08/19,Hellertown,PA,5,Black Watch (NJ),Open Class,48.25,1972
+08/20,Chicago,IL,5,Kewanee Black Knights,Open Class,75.4,1972
+08/19,Hellertown,PA,6,Leathernecks,Open Class,40.25,1972
+08/20,Chicago,IL,6,Commodores,Open Class,73.8,1972
+08/20,Chicago,IL,7,Saint Paul Scouts,Open Class,71.35,1972
+08/20,Chicago,IL,8,Magnificent Yankees,Open Class,69.05,1972
+08/20,Chicago,IL,9,Marion Cadets,Open Class,66.35,1972
+08/20,Amesbury,MA,1,Princemen,Open Class,73.05,1972
+08/20,Manville,NJ,1,Chessmen,Open Class,76.8,1972
+08/23,Minneapolis,MN,1,Cavaliers,Open Class,86.95,1972
+08/26,Schenectady,NY,1,Caballeros,Open Class,91.0,1972
+08/20,Amesbury,MA,2,Defenders,Open Class,67.35,1972
+08/20,Manville,NJ,2,Belvederes,Open Class,72.75,1972
+08/23,Minneapolis,MN,2,Kilties,Open Class,86.65,1972
+08/26,Schenectady,NY,2,Skyliners,Open Class,90.7,1972
+08/20,Amesbury,MA,3,Annunciators,Open Class,64.5,1972
+08/20,Manville,NJ,3,Bracken Cavaliers,Open Class,70.95,1972
+08/23,Minneapolis,MN,3,Argonne Rebels,Open Class,86.35,1972
+08/26,Schenectady,NY,3,Crusaders,Open Class,89.45,1972
+08/20,Manville,NJ,4,Keystone Regiment,Open Class,68.2,1972
+08/23,Minneapolis,MN,4,Bridgemen,Open Class,84.15,1972
+08/26,Schenectady,NY,4,Hurricanes,Open Class,88.85,1972
+08/20,Manville,NJ,5,Grenadiers,Open Class,67.7,1972
+08/23,Minneapolis,MN,5,Racine Scouts,Open Class,78.65,1972
+08/26,Schenectady,NY,5,Les Diplomats,Open Class,81.1,1972
+08/20,Manville,NJ,6,Royal Mounties,Open Class,62.6,1972
+08/23,Minneapolis,MN,6,Kewanee Black Knights,Open Class,78.6,1972
+08/20,Manville,NJ,7,507 Hornets,Open Class,61.2,1972
+08/23,Minneapolis,MN,7,Pembroke Imperials,Open Class,77.55,1972
+08/20,Manville,NJ,8,Emerald Lancers,Open Class,51.5,1972
+08/23,Minneapolis,MN,8,Saint Paul Scouts,Open Class,75.95,1972
+08/23,Minneapolis,MN,9,Colt 45's,Open Class,73.35,1972
+08/23,Minneapolis,MN,10,Commodores,Open Class,70.75,1972
+08/23,Minneapolis,MN,11,Saint Francis Sancians,Open Class,67.75,1972
+08/23,Minneapolis,MN,12,Mariners,Open Class,64.65,1972
+08/26,Mount Carmel,PA,1,Buccaneers,Open Class,88.95,1972
+08/26,Flint,MI,1,Flint Guardsmen,Open Class,72.0,1972
+08/26,Glenholden,PA,1,Belvederes,Open Class,71.5,1972
+08/26,Kitchner,Ontario,1,Opti-Knights,Open Class,74.55,1972
+08/26,Mount Carmel,PA,2,Sunrisers,Open Class,78.2,1972
+08/26,Flint,MI,1,Lionettes,Open Class,72.0,1972
+08/26,Glenholden,PA,2,VIP's,Open Class,66.2,1972
+08/26,Kitchner,Ontario,2,Flying Dutchmen,Open Class,64.7,1972
+08/26,Mount Carmel,PA,3,Hamburg Kingsmen,Open Class,77.9,1972
+08/26,Flint,MI,3,Glassmen,Open Class,69.0,1972
+08/26,Glenholden,PA,3,Emerald Knights,Open Class,51.0,1972
+08/26,Kitchner,Ontario,3,Kinsmen Krescendos,Open Class,61.15,1972
+08/26,Mount Carmel,PA,4,Canadian Commanders,Open Class,66.6,1972
+08/26,Flint,MI,4,Midlanders,Open Class,68.0,1972
+08/26,Kitchner,Ontario,4,Cardinals,Open Class,49.6,1972
+08/26,Mount Carmel,PA,5,Westshoremen,Open Class,65.25,1972
+08/26,Kitchner,Ontario,1,Dutch Boy Cadets,Open Class,58.05,1972
+08/26,Kitchner,Ontario,2,Kinsmen,Open Class,40.05,1972
+08/26,Erie,PA,1,Rockets,Open Class,77.85,1972
+08/26,Oswego,NY,1,Squires,Open Class,73.5,1972
+08/26,Oswego,NY,1,Marauders,Open Class,77.45,1972
+08/27,Lebanon,PA,1,Belvederes,Open Class,74.6,1972
+08/26,Erie,PA,2,Guelph Royalaires,Open Class,74.85,1972
+08/26,Oswego,NY,2,Marauders,Open Class,70.75,1972
+08/26,Oswego,NY,2,Squires,Open Class,74.2,1972
+08/27,Lebanon,PA,2,507 Hornets,Open Class,69.05,1972
+08/26,Erie,PA,3,Sentinels,Open Class,67.65,1972
+08/26,Oswego,NY,3,Mark Twain Cadets,Open Class,66.95,1972
+08/26,Oswego,NY,3,Les Compagnons,Open Class,72.4,1972
+08/27,Lebanon,PA,3,Sacred Heart Crusaders,Open Class,66.35,1972
+08/26,Erie,PA,4,Erie Thunderbirds,Open Class,67.55,1972
+08/26,Oswego,NY,4,Les Compagnons,Open Class,66.4,1972
+08/26,Oswego,NY,4,Mark Twain Cadets,Open Class,70.0,1972
+08/27,Lebanon,PA,4,White Knights,Open Class,63.75,1972
+08/26,Erie,PA,5,Imperial Knights,Open Class,67.45,1972
+08/26,Oswego,NY,5,Grenadiers,Open Class,62.65,1972
+08/26,Oswego,NY,5,Grenadiers,Open Class,68.6,1972
+08/27,Lebanon,PA,5,Royaleer Mounties,Open Class,61.15,1972
+08/26,Erie,PA,6,Kingston Grenadiers,Open Class,67.3,1972
+08/26,Oswego,NY,6,Mello-Dears,Open Class,58.6,1972
+08/26,Oswego,NY,6,Mello-Dears,Open Class,65.0,1972
+08/26,Erie,PA,7,Matadors,Open Class,63.85,1972
+08/26,Oswego,NY,7,Tri Town Cadets,Open Class,49.55,1972
+08/26,Erie,PA,8,Suburban Knights,Open Class,62.7,1972
+08/26,Oswego,NY,8,Shoreliners,Open Class,43.95,1972
+08/26,Erie,PA,9,V.A. Cavaliers,Open Class,62.4,1972
+08/26,Erie,PA,10,Hanover Lancers,Open Class,58.2,1972
+08/26,Oswego,NY,1,Mark Twain Pilots,Open Class,22.1,1972
+08/26,Erie,PA,11,Dunkirk Patriots,Open Class,51.75,1972
+08/26,Oswego,NY,1,Pages,Open Class,22.1,1972
+08/26,Erie,PA,12,Freestatesmen,Open Class,49.5,1972
+08/26,Oswego,NY,3,76er's,Open Class,21.0,1972
+08/26,Oswego,NY,4,Grenadier Cadets,Open Class,19.5,1972
+08/26,Oswego,NY,5,Mello-Dears,Open Class,18.3,1972
+08/27,Saratoga Springs,NY,1,Caballeros,Open Class,86.95,1972
+08/31,Weymouth,MA,1,Defenders,Open Class,66.5,1972
+08/27,Saratoga Springs,NY,2,Crusaders,Open Class,84.65,1972
+08/31,Weymouth,MA,2,Annunciators,Open Class,62.85,1972
+08/27,Saratoga Springs,NY,3,Les Diplomats,Open Class,80.95,1972
+08/31,Weymouth,MA,3,Jeanettes,Open Class,62.55,1972
+08/27,Saratoga Springs,NY,4,Sunrisers,Open Class,78.45,1972
+08/27,Saratoga Springs,NY,5,Canadian Commanders,Open Class,70.0,1972
+09/01,Concord,CA,1,Vanguard,World Class,86.55,1972
+09/02,Hamilton,Ontario,1,Toronto Optimists,World Class,79.5,1972
+09/02,Hamilton,Ontario,1,Toronto Optimists,World Class,79.1,1972
+09/02,Santa Clara,CA,1,Vanguard,World Class,85.45,1972
+09/01,Concord,CA,2,Commodores,World Class,73.45,1972
+09/02,Hamilton,Ontario,2,DeLaSalle Oaklands,World Class,78.8,1972
+09/02,Hamilton,Ontario,2,DeLaSalle Oaklands,World Class,78.0,1972
+09/02,Santa Clara,CA,2,Commodores,World Class,72.5,1972
+09/01,Concord,CA,3,Blue Devils,World Class,68.8,1972
+09/02,Hamilton,Ontario,3,Cadets of LaSalle,World Class,77.65,1972
+09/02,Hamilton,Ontario,3,Cadets of LaSalle,World Class,75.55,1972
+09/02,Santa Clara,CA,3,Blue Devils,World Class,66.15,1972
+09/01,Concord,CA,4,CapitolAires-CA,World Class,68.55,1972
+09/02,Hamilton,Ontario,4,Etobicoke Crusaders,World Class,68.9,1972
+09/02,Hamilton,Ontario,4,Seneca Princemen,World Class,65.9,1972
+09/02,Santa Clara,CA,4,CapitolAires-CA,World Class,65.6,1972
+09/01,Concord,CA,5,Imperial Cadets,World Class,65.05,1972
+09/02,Hamilton,Ontario,5,Seneca Princemen,World Class,68.7,1972
+09/02,Hamilton,Ontario,5,Etobicoke Crusaders,World Class,65.0,1972
+09/02,Santa Clara,CA,5,Velvet Knights,World Class,62.7,1972
+09/01,Concord,CA,6,Velvet Knights,World Class,64.2,1972
+09/02,Hamilton,Ontario,6,Optimist Knights,World Class,65.95,1972
+09/02,Hamilton,Ontario,6,Les Chatelaines,World Class,61.05,1972
+09/02,Santa Clara,CA,6,Hawks,World Class,62.2,1972
+09/01,Concord,CA,7,Hawks,World Class,62.35,1972
+09/02,Hamilton,Ontario,7,Saint John's Girls,World Class,64.15,1972
+09/02,Hamilton,Ontario,7,Saint John's Girls,World Class,59.0,1972
+09/02,Santa Clara,CA,7,Imperial Cadets,World Class,61.7,1972
+09/01,Concord,CA,8,Diplomats,World Class,56.75,1972
+09/02,Hamilton,Ontario,8,Les Chatelaines,World Class,63.55,1972
+09/02,Hamilton,Ontario,8,4th Brigade,World Class,57.8,1972
+09/02,Santa Clara,CA,8,Lynwood Diplomats,World Class,57.05,1972
+09/01,Concord,CA,9,Royal Lancers,World Class,55.75,1972
+09/02,Hamilton,Ontario,9,4th Brigade,World Class,62.8,1972
+09/02,Hamilton,Ontario,9,Optimist Knights,World Class,56.7,1972
+09/02,Santa Clara,CA,9,Royal Lancers,World Class,55.1,1972
+09/02,Hamilton,Ontario,10,Flying Dutchmen,World Class,59.8,1972
+09/02,Hamilton,Ontario,10,Flying Dutchmen,World Class,50.8,1972
+09/01,Concord,CA,1,Royalaires,World Class,68.45,1972
+09/02,Hamilton,Ontario,11,Kinsmen Krescendos,World Class,53.8,1972
+09/02,Santa Clara,CA,1,Royalaires,World Class,68.25,1972
+09/01,Concord,CA,2,Knight Raiders,World Class,63.55,1972
+09/02,Hamilton,Ontario,12,Les Cavalieres,World Class,50.9,1972
+09/02,Santa Clara,CA,2,Knight Raiders,World Class,64.75,1972
+09/01,Concord,CA,3,Conquistadors,World Class,54.25,1972
+09/02,Hamilton,Ontario,13,OYB Lampliters,World Class,50.5,1972
+09/02,Santa Clara,CA,3,Conquistadors,World Class,53.3,1972
+09/02,Hamilton,Ontario,14,Lionettes,World Class,43.95,1972
+09/02,Hamilton,Ontario,15,Cardinals,World Class,41.5,1972
+09/02,Spokane,WA,1,"Percussion-naut
+  Patriots",World Class,74.15,1972
+09/02,Bridgeport,CT,1,CMCC Warriors,World Class,80.45,1972
+09/02,Somerville,MA,1,Princemen,World Class,66.5,1972
+09/02,Johnstown,NY,1,Shoreliners,World Class,67.6,1972
+09/02,Spokane,WA,2,Columbians,World Class,66.1,1972
+09/02,Bridgeport,CT,2,New London Surfers,World Class,72.9,1972
+09/02,Somerville,MA,2,Sharpshooters,World Class,62.85,1972
+09/02,Johnstown,NY,2,Magnificent Yankees,World Class,66.9,1972
+09/02,Spokane,WA,3,Flamingos,World Class,62.9,1972
+09/02,Bridgeport,CT,3,Olympians,World Class,70.05,1972
+09/02,Somerville,MA,3,Defenders,World Class,62.55,1972
+09/02,Johnstown,NY,3,Saint Francis Sancians,World Class,65.95,1972
+09/02,Spokane,WA,4,Shamrocks,World Class,60.85,1972
+09/02,Bridgeport,CT,4,Kingston Indians,World Class,67.9,1972
+09/02,Johnstown,NY,4,Spiegalaires,World Class,53.05,1972
+09/02,Spokane,WA,5,Sentinels,World Class,59.75,1972
+09/02,Bridgeport,CT,4,Saint Ignatius,World Class,67.9,1972
+09/02,Bridgeport,CT,6,Long Island Kingsmen,World Class,62.85,1972
+09/02,Spokane,WA,1,Black Watch-WA,World Class,53.8,1972
+09/02,Bridgeport,CT,7,Trumbull Cadets,World Class,58.8,1972
+09/02,Spokane,WA,2,Sunsetters,World Class,48.6,1972
+09/02,Bridgeport,CT,8,Fletcher Raiders,World Class,54.75,1972
+09/02,Spokane,WA,3,Seattle Cascades,World Class,48.45,1972
+09/02,Bridgeport,CT,9,Fire-ettes,World Class,53.2,1972
+09/02,Spokane,WA,4,Spartans,World Class,48.1,1972
+09/02,Bridgeport,CT,10,Stormy Knights,World Class,52.0,1972
+09/02,Spokane,WA,5,Big Sky Revelers,World Class,45.95,1972
+09/02,Bridgeport,CT,11,Stratford Vagabonds,World Class,51.2,1972
+09/02,Spokane,WA,6,Golden Skyliners,World Class,41.65,1972
+09/02,Bridgeport,CT,12,Connecticut Vanguard,World Class,50.1,1972
+09/02,Spokane,WA,7,Rocky Mountain Rangers,World Class,37.6,1972
+09/02,Bridgeport,CT,13,Enfield Sabers,World Class,47.3,1972
+09/02,Bridgeport,CT,14,Connecticut Explorers,World Class,44.0,1972
+09/02,Spokane,WA,1,Edmonton Strutters,World Class,51.35,1972
+09/02,Spokane,WA,2,Drifters,World Class,41.9,1972
+09/02,Spokane,WA,3,Oregon Crusaders,World Class,38.15,1972
+09/03,Toronto,Ontario,1,Les Chatelaines,World Class,0.0,1972
+09/03,Toronto,Ontario,1,Saint John's Girls,World Class,68.75,1972
+09/03,Jersey City,NJ,1,Hawthorne Caballeros,World Class,92.0,1972
+09/03,Jersey City,NJ,1,Hawthorne Caballeros,World Class,90.6,1972
+09/03,Toronto,Ontario,2,Saint John's Girls,World Class,0.0,1972
+09/03,Toronto,Ontario,2,Les Chatelaines,World Class,67.05,1972
+09/03,Jersey City,NJ,2,Reading Buccaneers,World Class,89.9,1972
+09/03,Jersey City,NJ,2,New York Skyliners,World Class,89.75,1972
+09/03,Toronto,Ontario,3,Les Cavalieres,World Class,0.0,1972
+09/03,Toronto,Ontario,3,Les Cavalieres,World Class,56.95,1972
+09/03,Jersey City,NJ,2,New York Skyliners,World Class,89.9,1972
+09/03,Jersey City,NJ,3,Reading Buccaneers,World Class,88.65,1972
+09/03,Toronto,Ontario,4,Marching Angels,World Class,53.65,1972
+09/03,Jersey City,NJ,4,Rochester Crusaders,World Class,88.05,1972
+09/03,Jersey City,NJ,4,Rochester Crusaders,World Class,88.2,1972
+09/03,Toronto,Ontario,5,Lionettes,World Class,49.55,1972
+09/03,Toronto,Ontario,1,Toronto Optimists,World Class,81.4,1972
+09/03,Jersey City,NJ,5,Connecticut Hurricanes,World Class,87.7,1972
+09/03,Jersey City,NJ,4,Connecticut Hurricanes,World Class,88.2,1972
+09/03,Toronto,Ontario,2,DeLaSalle Oaklands,World Class,81.3,1972
+09/03,Jersey City,NJ,6,Yankee Rebels,World Class,85.2,1972
+09/03,Jersey City,NJ,6,Les Diplomats,World Class,82.35,1972
+09/03,Toronto,Ontario,1,DeLaSalle Oaklands,World Class,81.35,1972
+09/03,Toronto,Ontario,3,Cadets of LaSalle,World Class,81.25,1972
+09/03,Jersey City,NJ,7,Les Diplomats,World Class,84.55,1972
+09/03,Jersey City,NJ,7,Yankee Rebels,World Class,80.45,1972
+09/03,Toronto,Ontario,2,Cadets of LaSalle,World Class,81.1,1972
+09/03,Toronto,Ontario,4,Scarborough Princemen,World Class,61.05,1972
+09/03,Jersey City,NJ,8,Hamburg Kingsmen,World Class,79.9,1972
+09/03,Jersey City,NJ,8,Sunrisers,World Class,76.0,1972
+09/03,Toronto,Ontario,3,Toronto Optimists,World Class,80.25,1972
+09/03,Toronto,Ontario,5,Midlanders,World Class,59.0,1972
+09/03,Jersey City,NJ,9,Sunrisers,World Class,78.75,1972
+09/03,Jersey City,NJ,9,Hamburg Kingsmen,World Class,74.3,1972
+09/03,Toronto,Ontario,4,Scarborough Princemen,World Class,71.15,1972
+09/03,Toronto,Ontario,6,4th Brigade,World Class,57.8,1972
+09/03,Jersey City,NJ,10,Rockets,World Class,76.05,1972
+09/03,Jersey City,NJ,10,Rockets,World Class,73.9,1972
+09/03,Toronto,Ontario,5,Midlanders,World Class,56.5,1972
+09/03,Jersey City,NJ,11,Canadian Commanders,World Class,71.1,1972
+09/03,Jersey City,NJ,11,Canadian Commanders,World Class,63.15,1972
+09/03,Toronto,Ontario,1,Etobicoke Crusaders,World Class,68.6,1972
+09/03,Jersey City,NJ,12,Matadors,World Class,70.15,1972
+09/03,Jersey City,NJ,12,Matadors,World Class,58.95,1972
+09/03,Toronto,Ontario,1,4th Brigade,World Class,0.0,1972
+09/03,Toronto,Ontario,2,Opti-Knights,World Class,66.75,1972
+09/03,Jersey City,NJ,13,Whalers,World Class,63.8,1972
+09/03,Toronto,Ontario,2,Etobicoke Crusaders,World Class,0.0,1972
+09/03,Toronto,Ontario,3,Kinsmen Krescendos,World Class,64.45,1972
+09/03,Jersey City,NJ,14,Westshoremen,World Class,61.45,1972
+09/03,Toronto,Ontario,3,Opti-Knights,World Class,0.0,1972
+09/03,Toronto,Ontario,4,Flying Dutchmen,World Class,61.8,1972
+09/03,Jersey City,NJ,15,Boston Renegades,World Class,59.75,1972
+09/03,Toronto,Ontario,4,Flying Dutchmen,World Class,0.0,1972
+09/03,Toronto,Ontario,5,Kinsmen Krescendos,World Class,55.45,1972
+09/03,Toronto,Ontario,1,Dutch Boy Cadets,World Class,54.8,1972
+09/03,Toronto,Ontario,6,OYB Lampliters,World Class,50.45,1972
+09/03,Toronto,Ontario,2,"East Scarborough
+  Kinsmen",World Class,45.35,1972
+09/03,Toronto,Ontario,7,"Cardinals of Precious
+  Blood",World Class,47.4,1972
+09/03,Toronto,Ontario,8,Golden Lions,World Class,39.5,1972
+09/03,Toronto,Ontario,1,Kawartha Kavaliers,World Class,59.7,1972
+09/03,Toronto,Ontario,1,Dutch Boy Cadets,World Class,54.8,1972
+09/03,Toronto,Ontario,2,"East Scarborough
+  Kinsmen",World Class,45.35,1972
+09/03,Toronto,Ontario,1,Kiwanis Kavaliers,World Class,59.7,1972
+09/03,Toronto,Ontario,1,Optimist Lancers,World Class,75.0,1972
+09/03,Toronto,Ontario,2,Leamington Townsmen,World Class,66.67,1972
+09/03,Toronto,Ontario,3,Marching Saints,World Class,50.33,1972
+09/03,Toronto,Ontario,1,Kawartha Kavaliers,World Class,59.7,1972
+09/03,Mahanoy City,PA,1,Audobon Bon Bons,World Class,83.75,1972
+09/04,Allentown,PA,1,Chessmen,World Class,78.2,1972
+09/04,Guelph,Ontario,1,Etobicoke Crusaders,World Class,74.9,1972
+09/09,Somerville,MA,1,Defenders,World Class,70.35,1972
+09/03,Mahanoy City,PA,2,Belvederes,World Class,73.4,1972
+09/04,Allentown,PA,2,Belvederes,World Class,72.6,1972
+09/04,Guelph,Ontario,2,Opti-Knights,World Class,74.5,1972
+09/09,Somerville,MA,2,Princemen,World Class,68.4,1972
+09/03,Mahanoy City,PA,3,PAL Cadets,World Class,67.3,1972
+09/04,Allentown,PA,3,507 Hornets,World Class,67.65,1972
+09/04,Guelph,Ontario,3,Flying Dutchmen,World Class,64.65,1972
+09/09,Somerville,MA,3,Annunciators,World Class,62.0,1972
+09/03,Mahanoy City,PA,4,Royaleer Mounties,World Class,58.25,1972
+09/04,Allentown,PA,4,ST Grenadiers,World Class,67.4,1972
+09/04,Guelph,Ontario,4,Kinsmen Krescendos,World Class,58.9,1972
+09/04,Allentown,PA,5,Bracken Cavaliers,World Class,66.8,1972
+09/04,Guelph,Ontario,5,Marching Angels,World Class,55.25,1972
+09/04,Allentown,PA,6,Keystone Regiment,World Class,66.05,1972
+09/04,Guelph,Ontario,6,Cardinals,World Class,48.8,1972
+09/04,Allentown,PA,7,White Knights,World Class,64.75,1972
+09/04,Guelph,Ontario,7,Golden Lancers,World Class,40.5,1972
+09/04,Allentown,PA,8,Sacred Heart Crusaders,World Class,58.95,1972
+09/04,Allentown,PA,9,Royalaires,World Class,52.05,1972
+09/04,Allentown,PA,10,Saint Mary's Cadets,World Class,41.35,1972
+09/04,Allentown,PA,11,Shadettes,World Class,39.3,1972
+09/03,Mahanoy City,PA,1,Bridgemen,World Class,80.25,1972
+09/03,Mahanoy City,PA,2,Blue Rock,World Class,76.7,1972
+09/03,Mahanoy City,PA,3,Royales,World Class,65.3,1972
+09/03,Mahanoy City,PA,4,Falcon Cadets,World Class,64.0,1972
+09/03,Mahanoy City,PA,5,DIG's,World Class,59.0,1972
+09/03,Mahanoy City,PA,6,Saints,World Class,53.9,1972
+09/03,Mahanoy City,PA,7,Epoch,World Class,52.95,1972
+09/03,Mahanoy City,PA,8,Royalaires,World Class,52.7,1972
+09/03,Mahanoy City,PA,9,Sacred Heart Crusaders,World Class,50.5,1972
+09/03,Mahanoy City,PA,10,Magnolia Lancers,World Class,43.0,1972
+09/03,Mahanoy City,PA,11,Meadowlarks,World Class,39.9,1972
+09/03,Mahanoy City,PA,12,Woodsiders,World Class,36.8,1972
+09/03,Mahanoy City,PA,13,Patriots,World Class,34.15,1972
+09/03,Mahanoy City,PA,14,Defenders,World Class,31.5,1972
+09/03,Mahanoy City,PA,14,Hackensack Doremus,World Class,31.5,1972
+09/03,Mahanoy City,PA,16,Broadcasters,World Class,30.35,1972

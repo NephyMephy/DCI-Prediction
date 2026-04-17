@@ -1,0 +1,100 @@
+{
+ "location": [
+   {
+     "city": "Madison",
+     "state": "WI", 
+     "year": "1920-Present"
+   }
+ ],
+ "formerNames": [
+   "Madison Explorers"
+ ],
+ "championships": [
+   {"circuit": "CYO", "year": 1974, "score": 88.85, "showTitle": ""},
+   {"circuit": "CYO", "year": 1975, "score": 92.50, "showTitle": ""},
+   {"circuit": "VFW", "year": 1990, "score": 88.70, "showTitle": "Undiscovered Madison"},
+   {"circuit": "DCI", "year": 1975, "score": 92.50, "showTitle": ""},
+   {"circuit": "DCI", "year": 1988, "score": 97.10, "showTitle": ""}
+ ],
+ "captionAwards": [
+   {"caption": "General Effect Award", "years": [1974]},
+   {"caption": "Visual Performance Award", "years": [1975, 1988]},
+   {"caption": "Color Guard Award", "years": [1983]},
+   {"caption": "Brass Performance Award", "years": [1973, 1974, 1975, 1995]}
+ ],
+ "website": "www.madisonscouts.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {
+     "circuit": "DCI",
+     "years": "1972-1991",
+     "className": "Open Class"
+   },
+   {
+     "circuit": "DCI",
+     "years": "1992-2007",
+     "className": "Division I"
+   },
+   {
+     "circuit": "DCI",
+     "years": "2008-present",
+     "className": "World Class"
+   }
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "Civil War Music / Yankee Doodle (Traditional)", "placement": "14th Place", "score": 77.45},
+   {"year": 1973, "showTitle": "", "repertoire": "Ballet in Brass by Vic Schoen / Bajour by Walter Marks & Ernest Kinoy / God Bless the Child by Billie Holiday & Arthur Herzog Jr. / Brian's Song by Michel Legrand, Alan Bergman & Marilyn Bergman / Battle Hymn of the Republic by William Steffe & Julia Ward Howe / Marching Through Georgia by Henry Clay Work / Camptown Races by Stephen Collins Foster / Just Before The Battle, Mother by George F. Root / Jesus Loves the Little Children by George F. Root & Clare Herbert Woolston / Dixie by Daniel Decatur Emmett", "placement": "4th Place", "score": 83.55},
+   {"year": 1974, "showTitle": "", "repertoire": "Ballet in Brass by Vic Schoen / Bond Street by Benjamin Frankel / God Bless the Child by Billie Holiday & Arthur Herzog Jr. / Slaughter on 10th Avenue (from On Your Toes) by Richard Rodgers / Brian's Song by Michel Legrand, Alan Bergman & Marilyn Bergman", "placement": "2nd Place", "score": 88.85},
+   {"year": 1975, "showTitle": "", "repertoire": "Slaughter on 10th Avenue (from On Your Toes) by Richard Rodgers / MacArthur Park by Jimmy Webb / Rhapsody in Blue by George Gershwin / Dueling Banjos by Arthur \"Guitar Boogie\" Smith / The Way We Were by Marvin Hamlisch, Alan Bergman & Marilyn Bergman", "placement": "1st Place", "score": 92.50},
+   {"year": 1976, "showTitle": "", "repertoire": "Stars and Stripes Forever by John Philip Sousa / MacArthur Park by Jimmy Webb / Rhapsody in Blue by George Gershwin / Dueling Banjos by Arthur \"Guitar Boogie\" Smith / The Way We Were by Marvin Hamlisch, Alan Bergman & Marilyn Bergman", "placement": "2nd Place", "score": 90.70},
+   {"year": 1977, "showTitle": "", "repertoire": "New York, New York (from On the Town) & Selections from West Side Story by Leonard Bernstein", "placement": "5th Place", "score": 87.30},
+   {"year": 1978, "showTitle": "", "repertoire": "Malaguena by Ernesto Lecuona / God Bless the Child by Billie Holiday & Arthur Herzog Jr. / Main Theme, Ben's Theme, Princess Leia's Theme, The Last Battle & The Coronation (all from Star Wars) by John Williams / How Deep is Your Love? by Barry, Robin & Maurice Gibb (The Bee Gees)", "placement": "4th Place", "score": 89.55},
+   {"year": 1979, "showTitle": "", "repertoire": "The Sorcerer and the Latin by Vic Schoen / Bohemian Rhapsody by Freddie Mercury / Granada Smoothie by Mark Taylor / Pieces of Dreams by Michel Legrand", "placement": "8th Place", "score": 84.50},
+   {"year": 1980, "showTitle": "", "repertoire": "They're Playing Our Song by Marvin Hamlisch & Carole Bayer Sager / Malagueña by Ernesto Lecuona / New Country by Jean-Luc Ponty / Through the Eyes of Love (from Ice Castles) by Marvin Hamlisch & Carole Bayer Sager", "placement": "6th Place", "score": 87.05},
+   {"year": 1981, "showTitle": "", "repertoire": "Numero Uno by Louie Bellson / Malagueña by Ernesto Lecuona / Down Wind by Pierre Moerlen / Through the Eyes of Love (from Ice Castles) by Marvin Hamlisch & Carole Bayer Sager", "placement": "3rd Place", "score": 92.60},
+   {"year": 1982, "showTitle": "", "repertoire": "Slaughter on 10th Avenue (from On Your Toes) by Richard Rodgers / Strawberry Soup by Don Ellis / Downwind by Pierre Moerlen / Through the Eyes of Love (from Ice Castles) by Marvin Hamlisch & Carole Bayer Sager", "placement": "5th Place", "score": 90.75},
+   {"year": 1983, "showTitle": "", "repertoire": "Colas Breugnon Overture by Dmitry Kabalevsky / Strawberry Soup by Don Ellis / Calico & Memory (from Cats) by Andrew Lloyd Webber", "placement": "5th Place", "score": 86.45},
+   {"year": 1984, "showTitle": "", "repertoire": "Ballet in Brass by Vic Schoen / Waltz of the Mushroom Hunters by Greg Hopkins / Calico & Memory (from Cats) by Andrew Lloyd Webber", "placement": "5th Place", "score": 94.60},
+   {"year": 1985, "showTitle": "", "repertoire": "Four Score and Seven & Ballet In Brass by Vic Schoen / Rhapsody in Blue by George Gershwin", "placement": "4th Place", "score": 95.00},
+   {"year": 1986, "showTitle": "", "repertoire": "Alex's Rag by Whistlin' Alex Moore / Harlem Suite by Duke Ellington / Starlight Express by Andrew Lloyd Webber", "placement": "7th Place", "score": 91.3},
+   {"year": 1987, "showTitle": "", "repertoire": "Captain from Castile by Alfred Newman / An American In Paris by George Gershwin / Stars and Stripes Forever by John Philip Sousa", "placement": "6th Place", "score": 90.40},
+   {"year": 1988, "showTitle": "", "repertoire": "Plymouth Hoe-Down (from Concerto For Guitar and Jazz Orchestra) by Paul Hart / Malagueña by Ernesto Lecuona", "placement": "1st Place", "score": 97.10},
+   {"year": 1989, "showTitle": "", "repertoire": "Make His Praise Glorious by Bill and Robin Wolaver / Slaughter on 10th Avenue (from On Your Toes) by Richard Rodgers", "placement": "7th Place", "score": 93.60},
+   {"year": 1990, "showTitle": "Undiscovered Madison", "repertoire": "The Lemon Squeeze by Mark Kirk / Remembrance by Paul Hart / I Can Cook Too (from On the Town) by Leonard Bernstein", "placement": "9th Place", "score": 88.70},
+   {"year": 1991, "showTitle": "City of Angels", "repertoire": "Prologue and Theme, With Every Breath I Take, Alaura's Theme, Funny & I'm Nothing Without You All from City of Angels by Cy Coleman", "placement": "7th Place", "score": 92.0},
+   {"year": 1992, "showTitle": "City of Angels", "repertoire": "Prologue and Theme, L.A. Blues, You Gotta Look Out for Yourself, With Every Breath I Take & Funny All from City of Angels by Cy Coleman", "placement": "5th Place", "score": 93.70},
+   {"year": 1993, "showTitle": "Reflection and Evolution", "repertoire": "Numero Uno by Louie Bellson / Strawberry Soup by Don Ellis / Encore by Scott Boerma & Taras Nahirniak", "placement": "6th Place", "score": 91.90},
+   {"year": 1994, "showTitle": "", "repertoire": "Santos by Louie Bellson / Cuban Overture by George Gershwin / Malaga by Bill Holman", "placement": "6th Place", "score": 92.20},
+   {"year": 1995, "showTitle": "A Drum Corps Fan's Dream: A Day in the Life of a Bull Fighter", "repertoire": "El Toro Caliente by Scott Boerma / Concierto de Aranjuez by Joaquín Rodrigo / La Danza Pasillo by Taras Nahirniak & Jeff Moore / Malaga by Bill Holman", "placement": "4th Place", "score": 95.40},
+   {"year": 1996, "showTitle": "A Drum Corps Fan's Dream: Part Dos", "repertoire": "A Mis Abuelos by Arturo Sandoval / Bolero by Maurice Ravel / En Fuego (On Fire) by Michel Camilo / Malagueña by Ernesto Lecuona", "placement": "6th Place", "score": 91.50},
+   {"year": 1997, "showTitle": "The Pirates of Lake Mendota", "repertoire": "The Adventure Begins by Scott Boerma / A Day in Port (Songs of the Quay) by Goff Richards / Moods of the Sea (based on Tall Ships Suite) by David Royalance / Confrontation and Finale by Taras Nahirniak", "placement": "5th Place", "score": 93.90},
+   {"year": 1998, "showTitle": "Power, Pizazz, and All That Jazz!", "repertoire": "Lupin by Yuji Ohno / Swingin' Peter... Sweet & Hall of the Mountain King (from Peer Gynt Suite No. 1) by Edvard Grieg / Remembrance by Paul Hart", "placement": "6th Place", "score": 91.90},
+   {"year": 1999, "showTitle": "Selections from Jesus Christ Superstar", "repertoire": "I Don't Know How to Love Him, Heaven on Their Minds, Everything's All Right, King Herod's Song, Trial and Crucifixion, John 19:41 & Superstar All from Jesus Christ Superstar by Andrew Lloyd Webber & Tim Rice", "placement": "6th Place", "score": 93.40},
+   {"year": 2000, "showTitle": "The Cossack Brotherhood", "repertoire": "The Gadfly – Finale by Dmitri Shostakovich / Meadowland (Traditional) / Ballet Suite No. 1 – Galop by Dmitri Shostakovich / Gopak (from Gayane) & Masquerade – Romance by Aram Khachaturian / Taras Bulba – Overture by Franz Waxman", "placement": "10th Place", "score": 85.50},
+   {"year": 2001, "showTitle": "Hot Jazz - Madison Style", "repertoire": "The Fire and the Flame; Oh, Those Martian Blues; Symphonie Pour L'Orchestre Americain; Ballet In Brass All by Vic Schoen", "placement": "11th Place", "score": 86.55},
+   {"year": 2002, "showTitle": "Conquest", "repertoire": "Captain from Castile by Alfred Newman / Asturias by Isaac Albéniz / Conquistador by Jay Chattaway / Conquistadores by Jim Centorino / Save El Dorado (from The Road to El Dorado) by Hans Zimmer", "placement": "14th Place", "score": 84.85},
+   {"year": 2003, "showTitle": "GOLD, GREEN AND RED: The Music of Benoit Jutras", "repertoire": "Jardin Chinois, Distorted (from La Nouba), Atmadja, Urban, Rêve Rouge & Incantation (from Quidam) All by Benoit Jutras", "placement": "8th Place", "score": 89.55},
+   {"year": 2004, "showTitle": "MadiSonic", "repertoire": "Sound Piece for Jazz Orchestra by Oliver Nelson / Malaga by Bill Holman", "placement": "8th Place", "score": 91.175},
+   {"year": 2005, "showTitle": "The Carmen Project", "repertoire": "Carmen by Georges Bizet / The Carmen Project by Georges Bizet, Scott Boerma & Colin McNutt / Bolero by Maurice Ravel / Copacabana by Jack Feldman, Barry Manilow & Bruce Sussman / Malagueña by Ernesto Lecuona / Mambo & Rumble (from West Side Story) by Leonard Bernstein & Stephen Sondheim", "placement": "6th Place", "score": 92.625},
+   {"year": 2006, "showTitle": "Primal Forces", "repertoire": "Feast Day In Seville by Isaac Albéniz / Harp Concerto by Alberto Ginastera / Gabriel's Oboe (from The Mission) by Ennio Morricone / Malambo (from Estancia) by Alberto Ginastera", "placement": "9th Place", "score": 87.70},
+   {"year": 2007, "showTitle": "Unbound", "repertoire": "Uninvited by Alanis Morissette / Kashmir by Jimmy Page, Robert Plant & John Bonham / Pie Jesu (from Requiem) by Gabriel Fauré / Libertango by Astor Piazolla", "placement": "15th Place", "score": 81.85},
+   {"year": 2008, "showTitle": "La Noche de la Iguana - Inteligencia, Pasión, Progreso", "repertoire": "La Noche de los Mayas by Silvestre Revueltas / Danza de los Duendes by Nancy Galbraith / Estancia Ballet & Harp Concerto by Alberto Ginastera / Danzon No. 2 by Arturo Marquez / Concierto Candela for Solo Percussion and Orchestra by Gabriela Ortiz", "placement": "12th Place", "score": 85.225},
+   {"year": 2009, "showTitle": "El Relámpago", "repertoire": "The Forces of Nature by Vince Oliver / Malaga by Bill Holman / Two Left-Footed Mambo – Baron Cimetiere's Mambo by Donald Grantham / Love Is in the Air by Vince Oliver / A Turn to the Dark Side – Candela by Gabriela Ortiz / Relámpago's Triumphant Return – Margariteña by Inocente Carreño", "placement": "15th Place", "score": 82.40},
+   {"year": 2010, "showTitle": "", "repertoire": "Slaughter on 10th Avenue (from On Your Toes) by Richard Rodgers / Rhapsody in Blue by George Gershwin", "placement": "10th Place", "score": 88.95},
+   {"year": 2011, "showTitle": "New York Morning", "repertoire": "New York, New York (from On the Town) by Leonard Bernstein / Oh What a Beautiful Morning (from Oklahoma!) by Richard Rodgers & Oscar Hammerstein II / Beautiful Mourning & Requiem by Robert W. Smith / Empire State of Mind by Alicia Keys", "placement": "10th Place", "score": 87.55},
+   {"year": 2012, "showTitle": "Reframed", "repertoire": "Pictures at an Exhibition by Modest Mussorgsky / Malaga by Bill Holman / The Way We Were by Marvin Hamlisch, Alan Bergman & Marilyn Bergman / Through The Eyes Of Love (from Ice Castles) by Marvin Hamlisch & Carole Bayer Sager / Malagueña by Ernesto Lecuona", "placement": "9th Place", "score": 88.00},
+   {"year": 2013, "showTitle": "Corps of Brothers - 75 Years of Survival", "repertoire": "Call of Duty: Modern Warfare 3 by Brian Tyler / Corps of Brothers Fanfare by Robert W. Smith / Night on Bald Mountain by Modest Mussorgsky / The Battle Rages by Lee Beddis, Nick Pourcho & Robert W. Smith / Afghanistan 2025 by Jack Wall / You'll Never Walk Alone (from Carousel) by Richard Rodgers & Oscar Hammerstein II", "placement": "9th Place", "score": 90.10},
+   {"year": 2014, "showTitle": "Time Trip - The Music of Stan Kenton and Don Ellis", "repertoire": "Fanfare for the New by Hugo Montenegro / Passacaglia and Fugue by Allyn Ferguson / Concerto to End All Concertos by Stan Kenton / Bulgarian Bulge, Open Wide, Niner Two & Final Analysis by Don Ellis", "placement": "11th Place", "score": 87.575},
+   {"year": 2015, "showTitle": "78th & Madison", "repertoire": "Fanfare and Opener (from Annie) by Charles Strouse / Gotta Dance (Broadway Rhythm) & Good Morning (from Singin' in the Rain) by Nacio Herb Brown and Arthur Freed / I Got Rhythm by George Gershwin & Ira Gershwin / Moses Supposes (from Singin' in the Rain) by Roger Edens, Betty Comden & Adolph Green / The Boy Next Door (from Meet Me in St. Louis) by Hugh Martin & Ralph Blane / Traffic Jammin' (from New York Cityscape for Wind Ensemble) by Jeff Tyzik / Get Happy by Harold Arlen & Ted Koehler / Happy Days Are Here Again by Milton Ager & Jack Yellen", "placement": "8th Place", "score": 88.750},
+   {"year": 2016, "showTitle": "Judas", "repertoire": "Overture, Heaven on their Minds, Everything's Alright, Gethsemane, Trial before Pilate, I Don't Know How to Love Him, and Superstar (all from Jesus Christ Superstar) by Andrew Lloyd Webber & Tim Rice / Judas by Stefani Germanotta (Lady Gaga) & Nadir Al-Khayat (RedOne)", "placement": "13th Place", "score": 85.263},
+   {"year": 2017, "showTitle": "The Last Man Standing", "repertoire": "Territorial Claim: Pilentze Pee (A Birdie Sings) (Traditional) / Miraculous Mandarin by Béla Bartók Depletion: Original Music by Nick Pourcho O2: Original Music by Scott Boerma, Nick Pourcho & James Sparling Hope & Despair: Original Music by Scott Boerma, Nick Pourcho & James Sparling The Battle Within: Music for Prague 1968 by Karel Husa / Pilentze Pee Reprise (Traditional)", "placement": "12th Place", "score": 85.25},
+   {"year": 2018, "showTitle": "Heart & Soul", "repertoire": "You Are Variations by Steve Reich / Serenada Schizophrana by Danny Elfman / Rhyme of Taigu by Zhou Long / Shape of My Heart by Gordon Sumner (aka Sting) / Aurora Awakes by John Mackey / Ainadamar by Osvaldo Golijov / 34 Klezma by Michael League (Snarky Puppy) / End of the Game by Sting / Heart and Soul by Hoagy Carmichael & Frank Loesser", "placement": "16th Place", "score": 82.988},
+   {"year": 2019, "showTitle": "Majestic", "repertoire": "Afterburners by Chuck Naffier / Backlash (from Euneirophrenia) by Simon Dobson / 715–CRΣΣKS by Justin Vernon (Bon Iver) / Young Person's Guide to the Orchestra by Benjamin Britten / One Voice by Barry Manilow", "placement": "17th Place", "score": 82.138},
+   {"year": 2020, "showTitle": "Season canceled due to the COVID-19 pandemic", "repertoire": "", "placement": "", "score": null},
+   {"year": 2021, "showTitle": "Between the Lines", "repertoire": "24 Caprices, Opus 1, No. 24 in A Minor by Niccolo Paganini / Asturias (Leyenda) by Isaac Albéniz / Caprice No. 24 by Niccolò Paganini / Malagueña Salerosa (Traditional)", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Installation 85", "repertoire": "Rubric by Philip Glass & Tyondai Braxton / Love on a Real Train by Tangerine Dream / Bangkok by Steve Vai / Star-Crossed by Dolan Sipes / As The World Caves In by Matt Maltese / 34 Klezma by Snarky Puppy / Original Music by Daniel Montoya Jr.", "placement": "15th Place", "score": 83.725},
+   {"year": 2023, "showTitle": "The Sound Garden", "repertoire": "Rusty Cage by Chris Cornell (Soundgarden) / La Mer by Claude Debussy / Hold Music by Jacob Mann / Black Hole Sun by Soundgarden / 23 Degrees North, 82 Degrees West by Bill Russo & Stan Kenton", "placement": "16th Place", "score": 82.988},
+   {"year": 2024, "showTitle": "Mosaic", "repertoire": "Unholy by Sam Smith & Kim Petras / White Rabbit by Jefferson Airplane / Asturias by Isaac Albéniz / Egyptian Danza by Al Di Meola / Momento Magico by Youn Sun Nah", "placement": "12th Place", "score": 87.050},
+   {"year": 2025, "showTitle": "The Nature of Being", "repertoire": "Sati by Salim–Sulaiman / Bučimiš (Bulgarian Folk) / Pyramid Song by Radiohead / I Remember by deadmau5 / Toxic by Britney Spears", "placement": "14th Place", "score": 85.350}
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "location": [
+   {
+     "city": "Tulsa",
+     "state": "OK", 
+     "year": "2017-Present"
+   }
+ ],
+ "formerNames": [
+   "Zephyrus Drum & Bugle Corps"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.zephyrusarts.org/corps.html",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2022-2024", "className": "SoundSport"},
+   {"circuit": "DCI", "years": "2025-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2022, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "Multiplayer", "repertoire": "(Repertoire not available)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2024, "showTitle": "Crescent", "repertoire": "Yellow Moon * Sing to the Moon * Afro Green", "placement": "Did not attend DCI", "score": null},
+   {"year": 2025, "showTitle": "Boundless", "repertoire": "Oh, What a Beautiful Morning * Them Changes * In a Landscape * And Wide Awake", "placement": "Did not attend DCI", "score": null}
+ ]
+}

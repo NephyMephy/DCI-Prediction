@@ -1,0 +1,47 @@
+{
+ "location": [
+   {
+     "city": "Hawthorne",
+     "state": "CA", 
+     "year": "2005-2010"
+   },
+   {
+     "city": "Oceanside",
+     "state": "CA", 
+     "year": "2010-Present"
+   }
+ ],
+ "formerNames": [
+   "Hawthorne Gold Drum and Bugle Corps"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "golddrumcorps.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2007", "className": "Division III"},
+   {"circuit": "DCI", "years": "2012-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2005, "showTitle": "Introductions", "repertoire": "Original music by the staff of Gold", "placement": "Did not attend DCI", "score": null},
+   {"year": 2006, "showTitle": "The Black Widow", "repertoire": "Original music by the staff of Gold", "placement": "Did not attend DCI", "score": null},
+   {"year": 2007, "showTitle": "Spanish Gold", "repertoire": "Repertoire unavailable", "placement": "9th Place*", "score": 74.175},
+   {"year": 2008, "showTitle": "29,029 ft: EVEREST", "repertoire": "Repertoire unavailable", "placement": "Did not attend DCI", "score": null},
+   {"year": 2009, "showTitle": "Entomology", "repertoire": "Original music by Travis Larson", "placement": "Did not attend DCI", "score": null},
+   {"year": 2010, "showTitle": "Primary Colors", "repertoire": "Yellow, Blue & Red Original music by the staff of Gold", "placement": "Did not attend DCI", "score": null},
+   {"year": 2011, "showTitle": "Reel to Real", "repertoire": "Repertoire unavailable", "placement": "Did not attend DCI", "score": null},
+   {"year": 2012, "showTitle": "Different", "repertoire": "Dunkle und Rau, Different & Celebration! Original music by Scott Director", "placement": "26th Place", "score": 84.300},
+   {"year": 2013, "showTitle": "East Meets West", "repertoire": "Pingpang, Mínyáo & Zuìzhong Original music by Scott Director", "placement": "26th Place", "score": 86.750},
+   {"year": 2014, "showTitle": "The Journey", "repertoire": "Every Journey Begins With a Single Step; New Places, New People, New Things & One Journey Ends and Another Begins Original music by Scott Director", "placement": "28th Place", "score": 74.125},
+   {"year": 2015, "showTitle": "Pop Star", "repertoire": "Pop Star by Scott Director, Rich Hinshaw & Joe Millea (Based on Toxic by Cathy Dennis, Christian Karlsson, Pontus Winnberg & Henrik Jonback)", "placement": "34th Place", "score": 67.725},
+   {"year": 2016, "showTitle": "El Dia De Los Muertos", "repertoire": "Processional, The Offering, Celebration & Limbo Original music by Scott Director", "placement": "30th Place", "score": 68.600},
+   {"year": 2017, "showTitle": "Grow", "repertoire": "The Seed, The Sprout, The Sapling & Maturity Original music by Scott Director", "placement": "29th Place", "score": 72.750},
+   {"year": 2018, "showTitle": "Through Our Eyes", "repertoire": "Original music by Scott Director", "placement": "23rd Place", "score": 76.750},
+   {"year": 2019, "showTitle": "The Pursuit of Happiness", "repertoire": "Rat Race; Love, Love, Love, Love, Love; Money & Happiness Found Original music by Scott Director", "placement": "22nd Place", "score": 79.250},
+   {"year": 2021, "showTitle": "Speakeasy", "repertoire": "Proud Mary by John Fogerty / Dedicated to the One I Love by Lowman Pauling & Ralph Bass / Big Noise From Winnetka by Ray Baudue & Bob Haggart", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "The Gift", "repertoire": "", "placement": "20th Place", "score": 81.900},
+   {"year": 2023, "showTitle": "The Hands That Pull the Strings", "repertoire": "Symphony No. 1 in C Minor, Op. 68 by Johannes Brahms / Separate Ways (Worlds Apart) by Steve Perry & Jonathan Cain / Russians by Sting & Sergei Prokofiev / It's A Sin by Neil Tennant & Christopher Lowe / Un Nouveau Méchant by Frankie Rice", "placement": "20th Place", "score": 80.675},
+   {"year": 2024, "showTitle": "In Memory Of", "repertoire": "", "placement": "21st Place", "score": 79.800},
+   {"year": 2025, "showTitle": "The Demon Barber of Fleet Street", "repertoire": "Sweeny Todd, No Place Like London, The Worst Pies in London, My Friends, Not While I'm Around, Johanna (Parts I & II), and Epiphany all by Stephen Sondheim", "placement": "20th Place", "score": 79.900}
+ ]
+}

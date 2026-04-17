@@ -1,0 +1,39 @@
+{
+ "location": [
+   {
+     "city": "Big Lake",
+     "state": "MN", 
+     "year": "2009-2012"
+   },
+   {
+     "city": "Champlin",
+     "state": "MN", 
+     "year": "2012-2014"
+   },
+   {
+     "city": "Anoka",
+     "state": "MN", 
+     "year": "2014-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "rivercityrhythm.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2015-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2015, "showTitle": "And the River Flows On", "repertoire": "The River Flows Through You by Yiruma / The River by Seth Adams / Shenandoah (Traditional) / The Water is Wide (Traditional) / Wait/Fantasy by Anthony Gonzales, Justin Meldal-Johnsen, Yann Gonzales, Morgan Kibby & Brad Laner (M83), adapted by Chanticleer", "placement": "31st Place", "score": 67.425},
+   {"year": 2016, "showTitle": "Shimmer", "repertoire": "Harmonielehre by John Adams / Firefly by Ryan George / Symphony for Winds and Percussion by Donald Grantham", "placement": "34th Place", "score": 63.600},
+   {"year": 2017, "showTitle": "Misshapen", "repertoire": "Ode to Joy by Ludwig van Beethoven / Smells Like Teen Spirit by Kurt Cobain, Krist Novoselic & Dave Grohl / Misshapen by Chad Friesleben", "placement": "35th Place", "score": 67.688},
+   {"year": 2018, "showTitle": "Each Hour Wounds", "repertoire": "The Hours - Dead Things by Philip Glass / Somewhere in Time by John Barry / Each Hour Wounds by Chad Friesleben, Bojan Hoover & Paul Weber", "placement": "32nd Place", "score": 70.750},
+   {"year": 2019, "showTitle": "Breaking the News", "repertoire": "The Typewriter by Leroy Anderson / Second Rhapsody by George Gershwin / A Day in the Life by John Lennon and Paul McCartney / Breaking the News by Chad Friesleben, Bojan Hoover, Paul Weber & Craig Myers", "placement": "28th Place", "score": 73.300},
+   {"year": 2021, "showTitle": "Coming to a Town Near You", "repertoire": "Being For The Benefit of Mr. Kite! by Lennon–McCartney / Clowns by Philip Parker / Blinding Lights by Abel Tesfaye, Ahmad Balshe, Jason Quenneville, Max Martin & Oscar Holter (The Weeknd)", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Road To Nowhere", "repertoire": "Udacrep Akubrad by Avner Dorman / Road to Nowhere by Ward Miller, Craig Myers & Paul Weber / Putza by Jan Van der Roost", "placement": "31st Place", "score": 73.225},
+   {"year": 2023, "showTitle": "Falling", "repertoire": "Such Great Heights by Ben Gibbard & Jimmy Tamborello / Balancing Act by Ward Miller, Bojan Hoover & Paul Weber / Can't Help Falling in Love by Elvis Presley / New Born by Matt Bellamy", "placement": "28th Place", "score": 71.775},
+   {"year": 2024, "showTitle": "Mine!", "repertoire": "31' Depression Blues by Ed Sturgill / Exile By Taylor Swift, Joe Alwyn, & Justin Vernon (Bon Iver)/ Price Tag by Jessie J, Dr. Luke, Claude Kelly, & B.o.B.", "placement": "27th Place", "score": 76.675},
+   {"year": 2025, "showTitle": "Winds of Change", "repertoire": "Blowin' In the Wind / The Times They Are A-Changin' / Hurricane / When the SHip Comes In / Make You Feel My Love", "placement": "26th Place**", "score": 73.125}
+ ]
+}

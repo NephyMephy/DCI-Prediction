@@ -1,0 +1,118 @@
+{
+ "location": [
+   {
+     "city": "Rosemont",
+     "state": "IL", 
+     "year": "1948-Present"
+   }
+ ],
+ "formerNames": [
+   "Chicago Cavaliers"
+ ],
+ "championships": [
+   {"circuit": "American Legion", "year": 1966, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1967, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1969, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1957, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1959, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1961, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1962, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1963, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1967, "score": null, "showTitle": ""},
+   {"circuit": "VFW", "year": 1972, "score": 79.450, "showTitle": ""},
+   {"circuit": "VFW", "year": 1974, "score": 79.550, "showTitle": ""},
+   {"circuit": "VFW", "year": 1976, "score": 84.300, "showTitle": ""},
+   {"circuit": "VFW", "year": 1980, "score": 77.400, "showTitle": ""},
+   {"circuit": "DCI", "year": 1992, "score": 97.500, "showTitle": "Revolution and Triumph"},
+   {"circuit": "DCI", "year": 1995, "score": 98.300, "showTitle": "The Planets"},
+   {"circuit": "DCI", "year": 2000, "score": 97.650, "showTitle": "Niagara Falls"},
+   {"circuit": "DCI", "year": 2001, "score": 98.350, "showTitle": "Four Corners"},
+   {"circuit": "DCI", "year": 2002, "score": 99.150, "showTitle": "Frameworks"},
+   {"circuit": "DCI", "year": 2004, "score": 98.700, "showTitle": "007"},
+   {"circuit": "DCI", "year": 2006, "score": 97.200, "showTitle": "Machine"}
+ ],
+ "captionAwards": [
+   {
+     "caption": "General Effect Award",
+     "years": [1990, 1995, 2001, 2002, 2004, 2006]
+   },
+   {
+     "caption": "Visual Performance Award", 
+     "years": [1991, 1992, 2000, 2002, 2004, 2006]
+   },
+   {
+     "caption": "Color Guard Award",
+     "years": [2000, 2002, 2004, 2007]
+   },
+   {
+     "caption": "Brass Performance Award",
+     "years": [2002, 2006]
+   },
+   {
+     "caption": "Percussion Performance Award",
+     "years": [1991, 1992, 1995, 1999, 2000, 2011, 2023]
+   }
+ ],
+ "website": "cavaliers.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1991", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "March of the Toreadors (from Carmen) by Georges Bizet / One Hand One Heart (from West Side Story) by Leonard Bernstein / The Ballad of Casey Jones by Eddie Newton, Wallace Saunders & T. Lawrence Seibert / \"Eleanor Rigby\" by Lennon–McCartney / Salute to the Green (Unknown) / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg / Americans We by Henry Fillmore / I'm Always Chasing Rainbows by Frédéric Chopin, adapted by Harry Carroll & Joseph McCarthy / Look for the Rainbow by Burton Lane & E.Y. Harburg", "placement": "9th Place", "score": 79.450},
+   {"year": 1973, "showTitle": "", "repertoire": "Tradition & Sabbath Prayer (from Fiddler on the Roof) by Jerry Bock & Sheldon Harnick / Pinball Wizard (from Tommy) by Pete Townshend / All for the Best & We Beseech Thee (from Godspell) by Stephen Schwartz", "placement": "15th Place", "score": 74.650},
+   {"year": 1974, "showTitle": "", "repertoire": "March of the Toreadors (from Carmen) by Georges Bizet / Victory at Sea by Richard Rodgers / Tommy Can You Hear Me (from Tommy) by Pete Townshend / All for the Best (from Godspell) by Stephen Schwartz / Once Upon A Time (from All American) by Charles Strouse & Lee Adams / Somewhere (from West Side Story) by Leonard Bernstein / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg", "placement": "8th Place", "score": 79.550},
+   {"year": 1975, "showTitle": "", "repertoire": "Russian Christmas Music by Alfred Reed / Time Odyssey 7534 by Dan Spaulding / Love in Them There Hills by Roland Chambers / Entrance to Reality (from The Picasso Summer) by Michel Legrand / Once Upon A Time (from All American) by Charles Strouse & Lee Adams / Somewhere (from West Side Story) by Leonard Bernstein / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg", "placement": "8th Place", "score": 82.950},
+   {"year": 1976, "showTitle": "", "repertoire": "Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière / Green Soul by Dan Spaulding / Chump Change by Bill Cosby & Quincy Jones / Give It One by Alan Downey & Maynard Ferguson / Summertime & Bess, You Is My Woman Now (from Porgy and Bess) by George Gershwin and Ira Gershwin / Firebird Suite by Igor Stravinsky", "placement": "7th Place", "score": 84.300},
+   {"year": 1977, "showTitle": "", "repertoire": "Selections from Man of La Mancha by Mitch Leigh & Joe Darion / Selections from Porgy and Bess by George Gershwin & Ira Gershwin", "placement": "7th Place", "score": 83.000},
+   {"year": 1978, "showTitle": "", "repertoire": "Do Ya Wanna Get Funky With Me? by Peter Brown & Robert Rans / Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière / Pineapple Rag by Scott Joplin / Symphony No. 5 by Dmitri Shostakovich", "placement": "16th Place", "score": 78.300},
+   {"year": 1979, "showTitle": "", "repertoire": "Esmeralda Suite by Jimmy Goings & Nicolas Skorsky (Santa Esmeralda) / Fantasy by Maurice White, Verdine White & Eddie del Barrio (Earth, Wind & Fire) / Cuban Fire Suite by Johnny Richards / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg / Children of Sanchez by Chuck Mangione", "placement": "11th Place", "score": 78.500},
+   {"year": 1980, "showTitle": "", "repertoire": "Esmeralda Suite by Jimmy Goings & Nicolas Skorsky (Santa Esmeralda) / Suncatchers by Butch Nordahl / Sing, Sing, Sing (With a Swing) by Louis Prima / Sambandrea Swing by Don Menza / \"Softly As I Leave You\" by Giorgio Calabrese & Antonio De Vita, adapted by Hal Shaper", "placement": "9th Place", "score": 77.400},
+   {"year": 1981, "showTitle": "", "repertoire": "Picasso Suite (from The Picasso Summer) by Michel Legrand / Sing, Sing, Sing (With a Swing) by Louis Prima / Sambandrea Swing by Don Menza / Softly As I Leave You by Giorgio Calabrese & Antonio De Vita, adapted by Hal Shaper", "placement": "10th Place", "score": 82.800},
+   {"year": 1982, "showTitle": "", "repertoire": "The Pines of Rome by Ottorino Respighi / Heliopolis by Jay Beckenstein / City (Unknown) / I've Had Enough by Philip Bailey, Greg Phillinganes & Brenda Russell / Ai No Corrida by Kenny Young / Softly As I Leave You by Giorgio Calabrese & Antonio De Vita, adapted by Hal Shaper", "placement": "11th Place", "score": 81.950},
+   {"year": 1983, "showTitle": "", "repertoire": "Jade by Michael Boo / Celebration Suite by Chick Corea / Rendezvous by Al Dimeola / The Pines of Rome by Ottorino Respighi", "placement": "9th Place", "score": 80.550},
+   {"year": 1984, "showTitle": "", "repertoire": "Don Juan by Richard Strauss / Summer Sketches by Hugh M. Stuart / Ozark by John Prescott / The Pines of Rome by Ottorino Respighi", "placement": "8th Place", "score": 89.700},
+   {"year": 1985, "showTitle": "", "repertoire": "Also Sprach Zarathustra by Richard Strauss / Mars, Mercury, Uranus & Jupiter (from The Planets) by Gustav Holst", "placement": "5th Place", "score": 94.100},
+   {"year": 1986, "showTitle": "", "repertoire": "Canzona by Peter Mennin / Variations on a Korean Folk Song by John Barnes Chance / Gamelon (Drum Feature) / Mars (from The Planets) by Gustav Holst", "placement": "3rd Place", "score": 95.700},
+   {"year": 1987, "showTitle": "", "repertoire": "Festival Variations by Claude T. Smith / Variations on a Korean Folk Song by John Barnes Chance / Liturgical Dances by David Holsinger", "placement": "3rd Place", "score": 94.700},
+   {"year": 1988, "showTitle": "The Firebird Suite", "repertoire": "The Firebird Suite by Igor Stravinsky", "placement": "5th Place", "score": 95.100},
+   {"year": 1989, "showTitle": "Gloria", "repertoire": "Gloria – Andante and Allegro Vivace by John Rutter / Images Diabolique by Tom Grant / Gloria – Vivace E Ritmico by John Rutter", "placement": "3rd Place", "score": 97.200},
+   {"year": 1990, "showTitle": "Cavalier Anthems", "repertoire": "Homage to Machaut (from Medieval Suite) by Ron Nelson / Variations on a Hymn by Louis Bourgeois by Claude T. Smith / All Things Bright and Beautiful; O, Clap Your Hands & Gloria (Mvt. 3) by John Rutter", "placement": "2nd Place", "score": 96.900},
+   {"year": 1991, "showTitle": "Cavalier Anthems: An Advent Collection", "repertoire": "Variants on an Advent Hymn by Fisher Tull / Te Deum by Ron Nelson / Die Natale by Samuel Barber / Men of Goodwill by Benjamin Britten / The Bridegroom by John Rutter / O Be Joyful in the Lord by John Rutter", "placement": "2nd Place", "score": 96.300},
+   {"year": 1992, "showTitle": "Revolution and Triumph", "repertoire": "Gavorkna Fanfare by Jack Stamp / Cornish Dances, Mvt. 4; English Dances, Mvt. 4 & Peterloo Overture by Sir Malcolm Arnold", "placement": "1st Place", "score": 97.500},
+   {"year": 1993, "showTitle": "Heroes, A Symphonic Trilogy (Journey... Conflict... Triumph)", "repertoire": "The Symphonic Cantata by David Holsinger / Heroes, Lost and Fallen by David Gillingham / Morning Alleluias (for the Winter Solstice) by Ron Nelson", "placement": "5th Place", "score": 94.000},
+   {"year": 1994, "showTitle": "Rituals", "repertoire": "Sensemaya by Silvestre Revueltas / Humming Chorus (from Ivan the Terrible) by Sergei Prokofiev / War Dance (from Belkis, Regina di Saba) & Church Windows, Mvt. 2 by Ottorino Respighi / March (from Symphonic Metamorphosis) by Paul Hindemith", "placement": "4th Place", "score": 95.700},
+   {"year": 1995, "showTitle": "The Planets", "repertoire": "Mars, Venus, Mercury & Jupiter All from The Planets by Gustav Holst", "placement": "1st Place", "score": 98.300},
+   {"year": 1996, "showTitle": "Pan American Sketches", "repertoire": "Pavana (from Tres versiones sinfónicas) by Julián Orbón / Mexican Landscape (from Latin American Sketches) by Aaron Copland / Xylophone (from Tres versiones sinfónicas) by Julián Orbón / Piano Sonata No. 1, Mvt. 4 by Alberto Ginastera / Symphony No. 3, Mvt. 4 by Aaron Copland", "placement": "4th Place", "score": 93.800},
+   {"year": 1997, "showTitle": "The Firebird", "repertoire": "Introduction to Rite of Spring and Berceuse, Carrilon, Retinue, Infernal Dance & Finale All from The Firebird Suite by Igor Stravinsky", "placement": "7th Place", "score": 92.800},
+   {"year": 1998, "showTitle": "Traditions for a New Era", "repertoire": "The Path Between the Mountains by Jay Kennedy / Molto Vivo & Lento (from Dance Movements) by Philip Sparke / Machine by William Bolcom", "placement": "4th Place", "score": 96.200},
+   {"year": 1999, "showTitle": "Classical Innovations", "repertoire": "Fantasia for Band in G Major by Timothy Mahr / Fantasies on a Theme by Haydn by Norman Dello Joio", "placement": "3rd Place", "score": 97.000},
+   {"year": 2000, "showTitle": "Niagara Falls", "repertoire": "Niagara Falls by Michael Daugherty / Original music by Richard Saucedo", "placement": "1st Place", "score": 97.650},
+   {"year": 2001, "showTitle": "Four Corners", "repertoire": "Four Corners by Richard Saucedo, Bret Kuhn & Erik Johnson", "placement": "1st Place", "score": 98.350},
+   {"year": 2002, "showTitle": "Frameworks", "repertoire": "Melody, Harmony & Rhythm All by Richard Saucedo, Bret Kuhn & Erik Johnson", "placement": "1st Place", "score": 99.150},
+   {"year": 2003, "showTitle": "Spin Cycle", "repertoire": "Propulsion, Resonance, Terminal Velocity & Centrifugal Force All by Richard Saucedo", "placement": "2nd Place", "score": 97.250},
+   {"year": 2004, "showTitle": "007", "repertoire": "James Bond Theme by Monty Norman / Goldeneye by Bono & The Edge / For Your Eyes Only by Bill Conti / Live and Let Die by Paul McCartney & Linda McCartney / Hovercraft Chase & Welcome to Cuba (from Die Another Day) & Paris and Bond (from Tomorrow Never Dies) by David Arnold", "placement": "1st Place", "score": 98.700},
+   {"year": 2005, "showTitle": "My Kind of Town", "repertoire": "Chicago by Sammy Cahn / The Magnificent Mile (Unknown) / Jig by Jean-Luc Ponty / The Great Fire of 1871 by Richard Saucedo, Bret Kuhn & Erik Johnson / Chicago Blues by Richard Saucedo, Bret Kuhn & Erik Johnson / Sweet Home Chicago by Robert Johnson", "placement": "2nd Place", "score": 97.625},
+   {"year": 2006, "showTitle": "Machine", "repertoire": "Genesis, Wired, Premonition & The Machine Age by Richard Saucedo & James Casella / Church: Renewing Vows by Wynton Marsalis", "placement": "1st Place", "score": 97.200},
+   {"year": 2007, "showTitle": "And So It Goes", "repertoire": "The Stranger, Angry Young Man, And So It Goes, Invention in C Minor, Pressure, I've Loved These Days & Scenes From An Italian Restaurant All by Billy Joel", "placement": "3rd Place", "score": 96.350},
+   {"year": 2008, "showTitle": "Samurai", "repertoire": "Bushido: The Way of the Warrior; Ronin: Masterless Samurai; Ken-Jutsu: The Art of the Sword & Fumeiyo Yori Shi Wo: Death Before Dishonor All by Richard Saucedo, Erik Johnson & James Casella", "placement": "3rd Place", "score": 97.325},
+   {"year": 2009, "showTitle": "The Great Divide", "repertoire": "Extreme Make-over by Johan de Meij / Pampeana No. 3 – Impetuosamente by Alberto Ginastera / Engulfed Cathedral by Claude Debussy / On the Great Divide by John Adams", "placement": "4th Place", "score": 96.150},
+   {"year": 2010, "showTitle": "Mad World", "repertoire": "Mad World by Roland Orzabal / Harrison's Dream by Peter Graham / Dismantling Utopia by Pat Metheny, Lyle Mays, Steve Rodby & Paul Wertico / Smile by Charlie Chaplin, John Turner & Geoffrey Parsons", "placement": "2nd Place", "score": 97.750},
+   {"year": 2011, "showTitle": "XtraordinarY", "repertoire": "Footprints by Wayne Shorter / Jungle Tango by Jamie Masefield, Danton Boller & Ari Hoenig (The Jazz Mandolin Project) / Nature Boy by George Alexander Aberle (eden ahbez) / Fugue in G Minor by Johann Sebastian Bach", "placement": "3rd Place", "score": 96.850},
+   {"year": 2012, "showTitle": "15 Minutes of Fame", "repertoire": "Don Juan by Richard Strauss / Dead Elvis by Michael Daugherty / Paparazzi by Stefani Germanotta (Lady Gaga) & Rob Fusari / Don Giovanni by Wolfgang Amadeus Mozart / Vesti la Giubba by Ruggero Leoncavallo / Out Here on My Own by Michael Gore / In the Hall of the Mountain King (from Peer Gynt Suite No. 1) by Edvard Grieg", "placement": "8th Place", "score": 88.850},
+   {"year": 2013, "showTitle": "Secret Society", "repertoire": "Rose of Arimathea (from The Da Vinci Code) by Hans Zimmer / Air (from Angels & Demons) by Hans Zimmer / Drum Music (Mvt. 3: Incinerate) by John Mackey / Secret Society by Drew Shanefield / Enterprising Young Men (from Star Trek) by Michael Giacchino", "placement": "7th Place", "score": 90.500},
+   {"year": 2014, "showTitle": "Immortal", "repertoire": "Chamber Symphony Opus 110 by Dmitri Shostakovich / Danse Macabre by Camille Saint-Saëns / When I am Laid in Earth by Henry Purcell / A Walk on the Water by Stephen Melillo", "placement": "6th Place", "score": 93.675},
+   {"year": 2015, "showTitle": "Game On", "repertoire": "Symphony No. 8 by Anton Bruckner / Fêtes (from Nocturnes) by Claude Debussy / Run Boy Run by Yoann Lemoine (Woodkid) / In the Musicals by Bjork / Macrotus (from Batman Begins) by Hans Zimmer & James Newton Howard / Fantasie Brillante (from On the Shoulders of Giants) by Peter Graham", "placement": "9th Place", "score": 88.325},
+   {"year": 2016, "showTitle": "Propaganda", "repertoire": "Music for the Funeral of Queen Mary by Henry Purcell / Symphony for West Point Band by Morton Gould / Elegy for Dunkirk by Dario Marianelli / Lollapalooza by John Adams", "placement": "5th Place", "score": 94.025},
+   {"year": 2017, "showTitle": "Men Are From Mars", "repertoire": "Kangaru by Jóhann Jóhannsson / Also Sprach Zarathustra by Richard Strauss / Fanfare for the Common Man by Aaron Copland / Wine Dark Sea by John Mackey / Little Green Men by Steve Vai / Theme from Close Encounters of the Third Kind by John Williams / On the Nature of Daylight by Max Richter / O Superman by Laurie Anderson / Sun's Gone Dim by Jóhann Jóhannsson / Mars (from The Planets) by Gustav Holst / My Way by Claude François & Jacques Revaux, adapted by Paul Anka", "placement": "4th Place", "score": 95.200},
+   {"year": 2018, "showTitle": "On Madness and Creativity", "repertoire": "Black Angels by George Crumb / The Triumph of Time by Peter Graham / Bolero by Maurice Ravel / Rose of Arimathea (from The Da Vinci Code) by Hans Zimmer / Orawa By Wojciech Kilar / Vanishing Act by Lou Reed / Alicia Discovers Nash's Dark World (from A Beautiful Mind) by James Horner / Unraveled by Michael Martin, Mike McIntosh, & Alan Miller / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg / Oh What a World by Rufus Wainwright", "placement": "6th Place", "score": 93.2125},
+   {"year": 2019, "showTitle": "The Wrong Side of the Tracks", "repertoire": "Gorgon by Christopher Rouse / Bum's Rush by Donald Grantham / Rock Island, 1931 by Thomas Newman / Party in Steerage by Mike McIntosh & Clif Walker / Cathedral by Thomas Newman", "placement": "5th Place", "score": 95.400},
+   {"year": 2021, "showTitle": "LIVE! From The Rose", "repertoire": "Lida Rose (from The Music Man) by Meredith Willson / La Vie En Rose by Edith Piaf / Themata by Drew Goddard (Karnivool) / Arose (from American Beauty) by Thomas Newman / Kiss From A Rose by Seal / Sing, Sing, Sing (With a Swing) by Louis Prima", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Signs of the Times", "repertoire": "Fugue in G Minor by Johann Sebastian Bach / Fly Like an Eagle by Steve Miller Band / Way Too Long by Bent Knee / Original music by Michael Martin / The Floor is Lava by Bent Knee / Concerto No. 10 for Brass Band by Ludovic Neurohr / Queer Gods & Being Human by Bent Knee / Sign of the Times by Harry Styles", "placement": "9th Place", "score": 90.600},
+   {"year": 2023, "showTitle": "...Where You'll Find Me", "repertoire": "Gloria – Allegro Vivace by John Rutter / Groove 75 by Richard Saucedo, Michael McIntosh, Clif Walker & Matt Black / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg / Softly As I Leave You by Matt Monroe", "placement": "8th Place", "score": 92.125},
+   {"year": 2024, "showTitle": "Beneath the Armor", "repertoire": "I Want You to Want Me by Rick Nielsen / Music for Prague 1968 by Karel Husa / You've Changed by Bill Carey and Carl Fischer / Man in the Mirror by Glen Ballard and Siedah Garrett / Bring Me to Life by Amy Lee, Ben Moody, and David Hodges / Original music by Richard Saucedo, Michael McIntosh, Clif Walker & Matt Black", "placement": "11th Place", "score": 87.500},
+   {"year": 2025, "showTitle": "ShapeShift", "repertoire": "Original music by Kevin Shah, Jay Bocook, Josh Brickey & Lee Allman / Baby Shower by Benjamin Wallfisch / A Fateful Meeting by James Newton Howard / Leviathan by John Psathas / Hatching by Kris Bowers / Empire of Angels by Thomas Bergersen", "placement": "9th Place", "score": 90.800}
+ ]
+}

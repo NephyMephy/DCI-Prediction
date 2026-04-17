@@ -1,0 +1,49 @@
+{
+ "location": [
+   {
+     "city": "Dubuque",
+     "state": "IA", 
+     "year": "1967-Present"
+   }
+ ],
+ "formerNames": [
+   "Legionnaires Cadets",
+   "Colt .45 Cadets"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2006-2007", "className": "Division II"},
+   {"circuit": "DCI", "years": "2008-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2000, "showTitle": "A Sailor's Life For Me", "repertoire": "A Sailor's Life For Me / Tame The Savage Sea by Elliot del Borgo / The Pirate's Tale / Russian Sailor's Dance (from The Red Poppy) by Reinhold Glière / Anchors Away by Alfred H. Miles & Charles A. Zimmermann", "placement": "Did not attend DCI", "score": null},
+   {"year": 2001, "showTitle": "Trapped in the Time Machine", "repertoire": "2001: A Space Odyssey by Richard Strauss / Loco-Motion by Gerry Goffin & Carole King / Daisy Bell (Bicycle Built For Two) by Harry Dacre / Pedestrian's Folly / Cruisin' by Smokey Robinson / Magic Carpet Ride by John Kay & Rushton Moreve", "placement": "Did not attend DCI", "score": null},
+   {"year": 2002, "showTitle": "", "repertoire": "Make His Praise Glorious by Bill and Robin Wolaver / A Mighty Fortress by Martin Luther / I'll Give You Peace by Dawn Yarbrough Thomas and Tom Yarborough / Away In The Darkness by Scott Stulir / Amen by Bob Kauflin / Reprise by Ted Reicher", "placement": "Did not attend DCI", "score": null},
+   {"year": 2003, "showTitle": "OzFest", "repertoire": "Over The Rainbow (from The Wizard Of Oz) by Harold Arlen & E.Y. Harburg / I'm A Mean Ole Lion, Slide Some Oil To Me, Ease On Down the Road & If You Believe (all from The Wiz) by Charlie Smalls", "placement": "Did not attend DCI", "score": null},
+   {"year": 2004, "showTitle": "Snoop Dog", "repertoire": "Linus And Lucy (from A Charlie Brown Christmas) by Vince Guaraldi / Snoopy's Song & Dime A Dozen (from Snoopy! The Musical) by Larry Grossman & Hal Hackad / \"Snoopy vs. the Red Baron\" by Phil Gernhard & Dick Holler / The World According To Snoopy & It's The Reprise, Charlie Brown (from Snoopy, The Musical) by Larry Grossman & Hal Hackad)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2005, "showTitle": "Arcade!", "repertoire": "Insert Coin / The Puzzle / The Chase / The Triumph", "placement": "Did not attend DCI", "score": null},
+   {"year": 2006, "showTitle": "Criminal Mischief", "repertoire": "Dragnet by Scott Nathan / Secret Agent Man by P.F. Sloan & Steve Barri / James Bond Theme by Monty Norman / Call Me, Beep Me! (The Kim Possible Theme Song) by Cory Lerious & George Gabriel / Carmen Sandiego by Sean Altman & David Yazbek / Charlie's Angels Theme by Jack Elliot & Allyn Ferguson / Live And Let Die by Linda McCartney & Paul McCartney", "placement": "11th Place", "score": 66.375},
+   {"year": 2007, "showTitle": "Sold Out!", "repertoire": "Carry On My Wayward Son by Kerry Livgren / Point Of Know Return by Steve Walsh, Robby Steinhardt & Phil Ehart / Lights by Dennis DeYoung & Tommy Shaw / Synchronicity I by Sting / All The Small Things by Blink-182 / Ants Marching by Dave Matthews", "placement": "Did not attend World Championships", "score": null},
+   {"year": 2008, "showTitle": "New American Signatures", "repertoire": "America & American Tune by Paul Simon / Song For America by Kerry Livgren", "placement": "18th Place", "score": 76.125},
+   {"year": 2009, "showTitle": "Lullaby & Good Nightmare", "repertoire": "Theme (from Big Top Pee-wee) by Danny Elfman / The Place Where Dreams Come True (from Field of Dreams) by James Horner / Hall Of The Mountain King (from Peer Gynt Suite No. 1) by Edvard Grieg", "placement": "14th Place", "score": 78.100},
+   {"year": 2010, "showTitle": "Sorcerer's Revenge", "repertoire": "Music of Andrew Boysen, Jr. by Andrew Boysen, Jr. / The Sorcerer's Apprectice by Paul Dukas / Night on Bald Mountain by Modest Mussorgsky / For Good (from Wicked) by Stephen Schwartz", "placement": "11th Place", "score": 82.300},
+   {"year": 2011, "showTitle": "NOTORIOUS", "repertoire": "Overture (from Anne of the Indies) by Franz Waxman / Overture (from Mutiny on the Bounty) by Bronisław Kaper / Billy the Kid by Aaron Copland / Finale & The Immigrant (from The Godfather) by Nino Rota / Symphony No. 5 in D minor, Op. 47, Mvt. 4 Allegro non troppo by Dmitri Shostakovich", "placement": "12th Place", "score": 79.150},
+   {"year": 2012, "showTitle": "Alive", "repertoire": "Escape From Chronopolis by Reber Clark / Theme from Van Helsing by Alan Silvestri / Piano Sonata No. 8, Op. 13 by Ludwig van Beethoven / Theme from Psycho by Bernard Herrmann / Facade (from Jekyll & Hyde) by Frank Wildhorn & Leslie Bricusse", "placement": "12th Place", "score": 75.400},
+   {"year": 2013, "showTitle": "Red", "repertoire": "Habanera (from Carmen) by Georges Bizet / The Heart is a Lonely Hunter by Dave Grusin & Peggy Lee / Happy Ending (from The Red Pony Suite) by Aaron Copland / Red In The Air by Terry White & Brian Zeglis", "placement": "10th Place", "score": 80.900},
+   {"year": 2014, "showTitle": "Crazed", "repertoire": "Overture (from Dancer in the Dark) by Björk / Equus by Eric Whitacre / Crazy by Brian Burton & Thomas Calloway / Goin' Out Of My Mind by Teddy Randazzo & Bobby Weinstein / Love Crazed by Terry White", "placement": "10th Place", "score": 66.000},
+   {"year": 2015, "showTitle": "Fire & Ice", "repertoire": "The Inferno (from The Divine Comedy) by Robert W. Smith / The Firebird Suite by Igor Stravinsky / Cuban Fire! by Johnny Richards / Ice Dance by Danny Elfman / Russian Christmas Music by Alfred Reed", "placement": "10th Place", "score": 64.100},
+   {"year": 2016, "showTitle": "The Journey Within", "repertoire": "Joy by Joseph Curiale / Symphony No. 9 in D minor by Anton Bruckner / Smile (from Modern Times) by Charlie Chaplin / Ode to Joy from Symphony No. 9 by Ludwig van Beethoven", "placement": "15th Place", "score": 61.550},
+   {"year": 2017, "showTitle": "The River's Edge", "repertoire": "Earth Dance by Michael Sweeney / Flight Of The Piasa by Robert Sheldon / Quad City Stomp by Michael Sweeney / Vitava (Die Moldau) by Bedřich Smetana", "placement": "14th Place", "score": 61.200},
+   {"year": 2018, "showTitle": "Moderne", "repertoire": "Un Bel Di by Giacomo Puccini / Symphony No. 7, Mvt. 2 by Ludwig van Beethoven / Young And Beautiful by Lana Del Rey & Rick Nowels / Bad Romance by Stefani Germanotta (Lady Gaga) & Nadir Khayat / The Hut Of Baba Yaga & The Great Gate of Kiev (from Pictures at an Exhibition) by Modest Mussorgsky", "placement": "13th Place", "score": 62.800},
+   {"year": 2019, "showTitle": "...Of a Feather", "repertoire": "Blackbird by John Lennon & Paul McCartney / Don't Stop Me Now by Freddie Mercury / On Eagles Wings by Michael Joncas / The Raven by Alan Parsons & Eric Woolfson", "placement": "11th Place", "score": 64.425},
+   {"year": 2020, "showTitle": "Season canceled due to the COVID-19 pandemic", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 2021, "showTitle": "Apart Together", "repertoire": "Once Upon Another Time by Sara Bareilles / Afro American Symphony No. 4 by William Grant Still / Pray For Me by Kendrick Lamar & The Weeknd / At Last by Ella Fitzgerald", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "To The Stars", "repertoire": "Rewrite The Stars by Benj Pasek & Justin Paul / Rocket Man by Elton John / Enterprising Young Men (from Star Trek) by Michael Giacchino", "placement": "14th Place", "score": 67.150},
+   {"year": 2023, "showTitle": "Classical Innovations", "repertoire": "Moonlight Sonata by Ludwig van Beethoven / Golden Hour by JVKE / Until The Scars by John Mackey", "placement": "9th Place", "score": 70.025},
+   {"year": 2024, "showTitle": "The Woods", "repertoire": "Peter and the Wolf by Sergei Prokofiev / Ballad from Into the Woods by Stephen Sondheim / The Path Between Mountains by Jay Kennedy", "placement": "8th Place Open Class / 29th Place World Class", "score": 72.050},
+   {"year": 2025, "showTitle": "", "repertoire": "", "placement": "29th Place", "score": 70.550}
+ ]
+}

@@ -1,0 +1,173 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/28,Allentown,PA,1,Connecticut Hurricanes,World Class,77.56,1965
+05/29,Kingston,NY,1,Hawthorne Caballeros,World Class,82.25,1965
+05/30,Jersey City,NJ,1,New York Skyliners,World Class,75.25,1965
+05/28,Allentown,PA,2,Yankee Rebels,World Class,76.16,1965
+05/29,Kingston,NY,2,Marksmen,World Class,75.45,1965
+05/30,Jersey City,NJ,2,Interstatesmen,World Class,71.47,1965
+05/28,Allentown,PA,3,Reading Buccaneers,World Class,74.51,1965
+05/29,Kingston,NY,3,Lt. Norman Princemen,World Class,74.65,1965
+05/30,Jersey City,NJ,3,Lt. Norman Princemen,World Class,68.2,1965
+05/28,Allentown,PA,4,Rockets,World Class,71.1,1965
+05/29,Kingston,NY,4,Les Metropolitains Sr.,World Class,71.7,1965
+05/30,Jersey City,NJ,4,Reilly Raiders,World Class,66.1,1965
+05/28,Allentown,PA,5,Westshoremen,World Class,67.58,1965
+05/29,Kingston,NY,5,Albion Grenadiers,World Class,55.65,1965
+06/05,New Haven,CT,1,New York Skyliners,World Class,79.51,1965
+06/05,Ottawa,Ontario,1,Les Diplomates,World Class,75.6,1965
+06/12,Herkimer,NY,1,New York Skyliners,World Class,80.91,1965
+06/12,Strafford,CT,1,Hawthorne Caballeros,World Class,80.666,1965
+06/05,New Haven,CT,2,Reading Buccaneers,World Class,77.46,1965
+06/05,Ottawa,Ontario,2,Syracuse Brigadiers,World Class,74.75,1965
+06/12,Herkimer,NY,2,Reading Buccaneers,World Class,79.8,1965
+06/12,Strafford,CT,2,Sunrisers,World Class,78.35,1965
+06/05,New Haven,CT,3,Yankee Rebels,World Class,77.38,1965
+06/05,Ottawa,Ontario,3,Guelph Royalaires,World Class,74.1,1965
+06/12,Herkimer,NY,3,Connecticut Hurricanes,World Class,79.38,1965
+06/12,Strafford,CT,3,Lt. Norman Princemen,World Class,76.616,1965
+06/05,New Haven,CT,4,Interstatesmen,World Class,77.13,1965
+06/05,Ottawa,Ontario,4,Les Metropolitains Sr.,World Class,72.8,1965
+06/12,Herkimer,NY,4,Interstatesmen,World Class,75.73,1965
+06/12,Strafford,CT,4,Marksmen,World Class,74.233,1965
+06/05,New Haven,CT,5,Archer Epler Musketeers,World Class,69.78,1965
+06/05,Ottawa,Ontario,5,Fulton Gauchos,World Class,67.7,1965
+06/12,Herkimer,NY,5,Archer Epler Musketeers,World Class,70.24,1965
+06/12,Strafford,CT,5,Reilly Raiders,World Class,73.016,1965
+06/17,Hershey,PA,1,Reading Buccaneers,World Class,84.6,1965
+06/19,Hershey,PA,1,Reading Buccaneers,World Class,79.98,1965
+06/19,Toronto,Ontario,1,Hawthorne Caballeros,World Class,78.35,1965
+06/26,Baltimore,MD,1,Connecticut Hurricanes,World Class,81.65,1965
+06/17,Hershey,PA,2,New York Skyliners,World Class,82.35,1965
+06/19,Hershey,PA,2,Connecticut Hurricanes,World Class,79.48,1965
+06/19,Toronto,Ontario,2,Les Diplomates,World Class,76.55,1965
+06/26,Baltimore,MD,2,Reading Buccaneers,World Class,80.85,1965
+06/17,Hershey,PA,3,Hawthorne Caballeros,World Class,78.88,1965
+06/19,Hershey,PA,3,Yankee Rebels,World Class,77.98,1965
+06/19,Toronto,Ontario,3,Sunrisers,World Class,74.8,1965
+06/26,Baltimore,MD,3,New York Skyliners,World Class,80.21,1965
+06/17,Hershey,PA,4,Yankee Rebels,World Class,77.51,1965
+06/19,Hershey,PA,4,Syracuse Brigadiers,World Class,69.36,1965
+06/19,Toronto,Ontario,4,Canada's M. Ambassadors,World Class,70.5,1965
+06/26,Baltimore,MD,4,Reilly Raiders,World Class,76.8,1965
+06/17,Hershey,PA,5,Westshoremen,World Class,71.86,1965
+06/19,Hershey,PA,5,Westshoremen,World Class,69.08,1965
+06/19,Toronto,Ontario,5,Canadian Commanders,World Class,64.55,1965
+06/26,Baltimore,MD,5,Rockets,World Class,76.73,1965
+06/19,Toronto,Ontario,6,Guelph Royalaires,World Class,59.75,1965
+06/26,Baltimore,MD,6,Archer Epler Musketeers,World Class,69.7,1965
+06/17,Hershey,PA,1,Hawthorne Caballeros,World Class,78.48,1965
+06/17,Hershey,PA,2,Sunrisers,World Class,74.95,1965
+06/17,Hershey,PA,3,Marksmen,World Class,74.05,1965
+06/17,Hershey,PA,4,Lt. Norman Princemen,World Class,69.85,1965
+06/17,Hershey,PA,5,Les Diplomates,World Class,69.71,1965
+06/17,Hershey,PA,6,Syracuse Brigadiers,World Class,68.46,1965
+06/17,Hershey,PA,7,Guelph Royalaires,World Class,59.2,1965
+07/03,Bridgeport,CT,1,Reading Buccaneers,World Class,81.53,1965
+07/03,Brentwood,PA,1,Rockets,World Class,81.32,1965
+07/04,Oswego,NY,1,Grey Knight Crusaders,World Class,76.6,1965
+07/05,Pittsfield,MA,1,Interstatesmen,World Class,79.3,1965
+07/03,Bridgeport,CT,2,Yankee Rebels,World Class,79.25,1965
+07/03,Brentwood,PA,2,Vern Acklin Cavaliers,World Class,72.5,1965
+07/04,Oswego,NY,2,Syracuse Brigadiers,World Class,74.4,1965
+07/05,Pittsfield,MA,2,Marksmen,World Class,74.9,1965
+07/03,Bridgeport,CT,3,Connecticut Hurricanes,World Class,78.4,1965
+07/03,Brentwood,PA,2,Esquires,World Class,72.5,1965
+07/04,Oswego,NY,3,Hamburg Kingsmen,World Class,73.85,1965
+07/05,Pittsfield,MA,3,Assumption,World Class,54.6,1965
+07/03,Bridgeport,CT,4,Interstatesmen,World Class,77.86,1965
+07/03,Brentwood,PA,4,Sharpsburg Cadets,World Class,69.28,1965
+07/04,Oswego,NY,4,Les Metropolitains Sr.,World Class,63.9,1965
+07/03,Bridgeport,CT,5,New York Skyliners,World Class,77.56,1965
+07/03,Brentwood,PA,5,Cornplanters,World Class,66.9,1965
+07/04,Oswego,NY,5,Canadian Commanders,World Class,63.0,1965
+07/04,Oswego,NY,6,Gauchos,World Class,55.43,1965
+07/10,Hershey,PA,1,Connecticut Hurricanes,World Class,81.83,1965
+07/10,Clifton,NJ,1,Rochester Crusaders,World Class,83.75,1965
+07/17,Monroeville,PA,1,Reading Buccaneers,World Class,82.183,1965
+07/24,Scranton,PA,1,Reading Buccaneers,World Class,84.13,1965
+07/10,Hershey,PA,2,Reading Buccaneers,World Class,81.78,1965
+07/10,Clifton,NJ,2,Sunrisers,World Class,78.766,1965
+07/17,Monroeville,PA,2,New York Skyliners,World Class,81.3,1965
+07/24,Scranton,PA,2,New York Skyliners,World Class,80.25,1965
+07/10,Hershey,PA,3,New York Skyliners,World Class,81.41,1965
+07/10,Clifton,NJ,3,Reilly Raiders,World Class,78.016,1965
+07/17,Monroeville,PA,3,Yankee Rebels,World Class,78.56,1965
+07/24,Scranton,PA,3,Yankee Rebels,World Class,80.21,1965
+07/10,Hershey,PA,4,Yankee Rebels,World Class,78.95,1965
+07/10,Clifton,NJ,4,Marksmen,World Class,77.566,1965
+07/17,Monroeville,PA,4,Guelph Royalaires,World Class,68.45,1965
+07/24,Scranton,PA,4,Rockets,World Class,77.76,1965
+07/10,Hershey,PA,5,Rockets,World Class,76.81,1965
+07/10,Clifton,NJ,5,Lt. Norman Princemen,World Class,74.666,1965
+07/17,Monroeville,PA,5,Archer Epler Musketeers,World Class,67.25,1965
+07/24,Scranton,PA,5,Archer Epler Musketeers,World Class,70.98,1965
+07/10,Clifton,NJ,6,Syracuse Brigadiers,World Class,74.183,1965
+07/24,Syracuse,NY,1,Hawthorne Caballeros,World Class,84.18,1965
+07/31,Waterbury,CT,1,Connecticut Hurricanes,World Class,78.78,1965
+07/31,Rome,NY,1,Rochester Crusaders,World Class,84.166,1965
+07/31,Mineola,NY,1,Marksmen,World Class,75.73,1965
+07/24,Syracuse,NY,2,Hamburg Kingsmen,World Class,81.18,1965
+07/31,Waterbury,CT,2,New York Skyliners,World Class,77.78,1965
+07/31,Rome,NY,2,Hawthorne Caballeros,World Class,83.8,1965
+07/31,Mineola,NY,2,Connecticut Yankees,World Class,75.21,1965
+07/24,Syracuse,NY,3,Lt. Norman Princemen,World Class,75.75,1965
+07/31,Waterbury,CT,3,Yankee Rebels,World Class,74.68,1965
+07/31,Rome,NY,3,Hamburg Kingsmen,World Class,80.65,1965
+07/31,Mineola,NY,3,Wanderers,World Class,73.91,1965
+07/24,Syracuse,NY,4,Marksmen,World Class,74.53,1965
+07/31,Waterbury,CT,4,Interstatesmen,World Class,74.6,1965
+07/31,Rome,NY,4,Syracuse Brigadiers,World Class,78.45,1965
+07/31,Mineola,NY,4,Criterions,World Class,72.76,1965
+07/24,Syracuse,NY,5,Canadian Commanders,World Class,73.06,1965
+07/31,Waterbury,CT,5,Archer Epler Musketeers,World Class,66.38,1965
+07/31,Rome,NY,5,Reilly Raiders,World Class,75.366,1965
+08/07,Waverly,NY,1,New York Skyliners,World Class,84.8,1965
+08/08,Jersey City,NJ,1,Hawthorne Caballeros,World Class,87.165,1965
+08/14,Reading,PA,1,Connecticut Hurricanes,World Class,83.26,1965
+08/14,Lewisburg,PA,1,Hawthorne Caballeros,World Class,87.2,1965
+08/07,Waverly,NY,2,Connecticut Hurricanes,World Class,83.52,1965
+08/08,Jersey City,NJ,2,Rochester Crusaders,World Class,84.953,1965
+08/14,Reading,PA,2,New York Skyliners,World Class,80.03,1965
+08/14,Lewisburg,PA,2,Grey Knight Crusaders,World Class,82.35,1965
+08/07,Waverly,NY,3,Rochester Crusaders,World Class,83.28,1965
+08/08,Jersey City,NJ,3,Reilly Raiders,World Class,82.866,1965
+08/14,Reading,PA,3,Yankee Rebels,World Class,79.02,1965
+08/14,Lewisburg,PA,3,Reilly Raiders,World Class,82.16,1965
+08/07,Waverly,NY,4,Yankee Rebels,World Class,78.45,1965
+08/08,Jersey City,NJ,4,Syracuse Brigadiers,World Class,78.24,1965
+08/14,Reading,PA,4,Interstatesmen,World Class,77.16,1965
+08/14,Lewisburg,PA,4,Sunrisers,World Class,82.15,1965
+08/07,Waverly,NY,5,Canadian Ambassadors,World Class,74.01,1965
+08/08,Jersey City,NJ,5,Lt. Norman Princemen,World Class,77.793,1965
+08/14,Reading,PA,5,Rockets,World Class,75.78,1965
+08/14,Lewisburg,PA,5,Westshoremen,World Class,79.85,1965
+08/14,Lewisburg,PA,6,Les Diplomates,World Class,79.7,1965
+08/21,Utica,NY,1,Hamburg Kingsmen,World Class,77.1,1965
+08/28,Montreal,Quebec,1,New York Skyliners,World Class,80.35,1965
+08/28,Lock Haven,PA,1,Reading Buccaneers,World Class,84.0,1965
+08/21,Utica,NY,2,Syracuse Brigadiers,World Class,75.75,1965
+08/28,Montreal,Quebec,2,Les Diplomats,World Class,79.6,1965
+08/28,Lock Haven,PA,2,Westshoremen,World Class,80.6,1965
+08/21,Utica,NY,3,Lt. Norman Princemen,World Class,71.3,1965
+08/28,Montreal,Quebec,3,Interstatesmen,World Class,74.35,1965
+08/28,Lock Haven,PA,3,Hanover Lancers,World Class,72.9,1965
+08/21,Utica,NY,4,Criterions,World Class,63.2,1965
+08/28,Montreal,Quebec,4,Canadian Ambassadors,World Class,74.3,1965
+08/28,Lock Haven,PA,4,Esquires,World Class,72.3,1965
+08/21,Utica,NY,5,Gauchos,World Class,59.85,1965
+08/28,Montreal,Quebec,5,Les Troubadours,World Class,62.65,1965
+08/28,Lock Haven,PA,5,Vern Acklin Cavaliers,World Class,70.0,1965
+09/05,Syracuse,NY,1,Connecticut Hurricanes,World Class,82.2,1965
+09/11,Milford,CT,1,Reading Buccaneers,World Class,84.5,1965
+09/18,Malta,NY,1,New York Skyliners,World Class,80.7,1965
+09/05,Syracuse,NY,2,New York Skyliners,World Class,81.83,1965
+09/11,Milford,CT,2,Connecticut Hurricanes,World Class,84.36,1965
+09/18,Malta,NY,2,Marksmen,World Class,79.25,1965
+09/05,Syracuse,NY,3,Rochester Crusaders,World Class,81.43,1965
+09/11,Milford,CT,3,New York Skyliners,World Class,83.16,1965
+09/18,Malta,NY,3,Les Metropolitans,World Class,72.93,1965
+09/05,Syracuse,NY,4,Interstatesmen,World Class,75.65,1965
+09/11,Milford,CT,4,Yankee Rebels,World Class,80.25,1965
+09/05,Syracuse,NY,5,Guelph Royalaires,World Class,65.77,1965
+09/11,Milford,CT,5,Interstatesmen,World Class,79.95,1965
+09/11,Milford,CT,6,Rockets,World Class,76.95,1965

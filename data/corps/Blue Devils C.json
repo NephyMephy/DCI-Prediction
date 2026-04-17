@@ -1,0 +1,47 @@
+{
+ "location": [
+   {
+     "city": "Concord",
+     "state": "CA", 
+     "year": "1995-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2001-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1995, "showTitle": "", "repertoire": "Mickey Mouse Club March by Jimmie Dodd / Electric Light Parade (Baroque Hoedown) by Jean-Jacques Perrey & Gershon Kingsley / When You Wish Upon a Star (from Pinocchio) by Leigh Harline & Ned Washington / Zip-a-Dee-Doo-Dah by Allie Wrubel & Ray Gilbert", "placement": "Did not attend DCI", "score": null},
+   {"year": 1996, "showTitle": "American Adventures", "repertoire": "Yankee Doodle (Traditional) / America The Beautiful by Katharine Lee Bates & Samuel A. Ward / Caribe by Michel Camilo / You're a Grand Old Flag by George M. Cohan / Theme from Raiders of the Lost Ark by John Williams", "placement": "Did not attend DCI", "score": null},
+   {"year": 1997, "showTitle": "", "repertoire": "You're a Grand Old Flag by George M. Cohan / Bandstand Boogie by Charles Albertine / Sing, Sing, Sing (With a Swing) by Louis Prima / Rock and Roll (The Hey Song) by Gary Glitter & Mike Leander", "placement": "Did not attend DCI", "score": null},
+   {"year": 1998, "showTitle": "", "repertoire": "Rhythm Saved the World by Saul Chaplin & Sammy Cahn / Cotton Candy by Russ Damon / Splish Splash by Bobby Darin & Murray Kaufman", "placement": "Did not attend DCI", "score": null},
+   {"year": 1999, "showTitle": "Saturday Morning Madness", "repertoire": "Meet the Flintstones by Hoyt Curtin / Rocky and Bullwinkle by Fred Steiner / Pink Panther by Henry Mancini / Linus and Lucy (from A Charlie Brown Christmas) by Vince Guaraldi / George of the Jungle by Stan Worth & Sheldon Allman", "placement": "Did not attend DCI", "score": null},
+   {"year": 2000, "showTitle": "Too Much TV", "repertoire": "Entertainment Tonight by Michael Mark / Green Acres by Vic Mizzy / Mission Impossible by Lalo Schiffrin / Addams Family by Vic Mizzy / Funeral March of a Marionette by Charles Gounod / Love Boat by Paul Williams & Charles Fox / The Monkees by Boyce and Hart / Star Trek by Alexander Courage / Bugs Bunny by Carl Stalling", "placement": "Did not attend DCI", "score": null},
+   {"year": 2001, "showTitle": "", "repertoire": "Theme from Raiders of the Lost Ark, Jaws, Cantina Band (from Star Wars), Star Wars & Somewhere in My Memory All by John Williams", "placement": "Did not attend DCI", "score": null},
+   {"year": 2002, "showTitle": "Spy Corps 002", "repertoire": "James Bond Theme by John Barry / Theme from Get Smart by Irving Szathmary / Spy Kids (Save the World) by Emily Cook, David Klotz & Dave Newton (Fonda) / Soul Bossa Nova by Quincy Jones / Espionage by Billie Joe Armstrong", "placement": "Did not attend DCI", "score": null},
+   {"year": 2003, "showTitle": "Spellbound", "repertoire": "The Sorcerer's Apprentice by Paul Dukas / Selections from Lord of The Rings by Howard Shore / I Dream of Jeannie Theme by Hugo Montenegro / Theme from Bewitched by Howard Greenfield & Jack Keller", "placement": "Did not attend DCI", "score": null},
+   {"year": 2004, "showTitle": "Arabian Nights", "repertoire": "Selections from Aladdin by Alan Menken, Howard Ashman & Tim Rice / Caravan by Juan Tizol / Copacabana by Barry Manilow, Jack Feldman & Bruce Sussman", "placement": "Did not attend DCI", "score": null},
+   {"year": 2005, "showTitle": "", "repertoire": "Repertoire unavailable", "placement": "Did not attend DCI", "score": null},
+   {"year": 2006, "showTitle": "Nightmare in Blue", "repertoire": "Repertoire unavailable", "placement": "Did not attend DCI", "score": null},
+   {"year": 2007, "showTitle": "", "repertoire": "Selections from Grease by Jim Jacobs & Warren Casey", "placement": "Did not attend DCI", "score": null},
+   {"year": 2008, "showTitle": "WOZ", "repertoire": "Ease on Down the Road (from The Wiz) by Charlie Smalls / We're Off to See the Wizard, Over the Rainbow & If I Only Had a Brain (from The Wizard of Oz) by Harold Arlen & E. Y. Harburg / Brand New day (from The Wiz) by Charlie Smalls", "placement": "Did not attend DCI", "score": null},
+   {"year": 2009, "showTitle": "ClassiCool", "repertoire": "William Tell Overture by Gioachino Rossini / Carnival of the Animals by Camille Saint-Saëns / Carmen by Georges Bizet", "placement": "Did not attend DCI", "score": null},
+   {"year": 2010, "showTitle": "Voyage at C", "repertoire": "Pirates of Penzance by Arthur Sullivan & W. S. Gilbert / Legend of the One-Eyed Sailor by Chuck Mangione / Eternal Father Strong To Save by John B. Dykes & William Whiting / Yo Ho, A Pirate's Life for Me by George Bruns & Xavier Atencio / Original Music by John Meehan", "placement": "Did not attend DCI", "score": null},
+   {"year": 2011, "showTitle": "The Greatest Show on Turf", "repertoire": "Entry of the Gladiators (Thunder and Blazes) by Julius Fučík / Fantasy on Two Folk Songs by Nikolai Pavlovich Budashkin / Over the Waves by Juventino Rosas", "placement": "Did not attend DCI", "score": null},
+   {"year": 2012, "showTitle": "", "repertoire": "The Magnificent Seven by Elmer Bernstein / Shenandoah (Traditional) / Bonanza by Jay Livingston & Ray Evans / Battle Hymn of the Republic by William Steffe & Julia Ward Howe", "placement": "Did not attend DCI", "score": null},
+   {"year": 2013, "showTitle": "Route 66", "repertoire": "Route 66 by Bobby Troup / Car Wash by Norman Whitfield / Fun, Fun, Fun by Brian Wilson & Mike Love / I Can't Drive 55 by Sammy Hagar", "placement": "Did not attend DCI", "score": null},
+   {"year": 2014, "showTitle": "Surfin' BDC", "repertoire": "Fun, Fun, Fun by Brian Wilson & Mike Love / School's Out for Summer by Alice Cooper, Michael Bruce, Glen Buxton, Dennis Dunaway & Neal Smith / Surfin' USA by Brian Wilson & Chuck Berry / Wipeout by Bob Berryhill, Pat Connoly, Jim Fuller & Ron Wilson", "placement": "Did not attend DCI", "score": null},
+   {"year": 2015, "showTitle": "The Beatles", "repertoire": "Magical Mystery Tour, Can't Buy Me Love, Yesterday, \"Eleanor Rigby\", Drive My Car, Sgt. Pepper's Lonely Hearts Club Band All by Lennon–McCartney", "placement": "Did not attend DCI", "score": null},
+   {"year": 2016, "showTitle": "B.D.P.D.", "repertoire": "Dragnet Theme by Walter Schumann / Hawaii Five-O Theme by Morton Stevens / Skyfall by Adele & Paul Epworth / Smooth Criminal by Michael Jackson / The A-Team Theme by Mike Post & Pete Carpenter", "placement": "Did not attend DCI", "score": null},
+   {"year": 2017, "showTitle": "Come Fly With Me", "repertoire": "Married Life by Michael Giacchino / Come Fly With Me by Jimmy Van Heusen & Sammy Cahn / Learn to Fly by Dave Grohl, Taylor Hawkins & Nate Mendel (Foo Fighters) / Danger Zone by Giorgio Moroder & Tom Whitlock / Staying Alive by Maurice Gibb, Robin Gibb & Barry Gibb (Bee Gees)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2018, "showTitle": "Candyland: Part Blue!", "repertoire": "\"I Want Candy\" by Bert Berns, Bob Feldman, Jerry Goldstein & Richard Gottehrer (The Strangeloves) / Sugar Sugar by Jeff Barry & Andy Kim (The Archies) / Stuck Like Glue by Jennifer Nettles & Kristian Bush (Sugarland); Kevin Griffin & Shy Carter / Sugar, We're Goin Down by Pete Wentz & Patrick Stump (Fall Out Boy)", "placement": "Did not attend DCI", "score": null},
+   {"year": 2019, "showTitle": "California Dreaming", "repertoire": "We Built This City by Peter Wolf, Martin Page, Dennis Lambert & Bernie Taupin / \"California Girls\" by Brian Wilson & Mike Love / California Dreamin' by John Phillips & Michelle Phillips / Axel F by Harold Faltermeyer / Hooray For Hollywood by Johnny Mercer & Richard A. Whiting", "placement": "Did not attend DCI", "score": null},
+   {"year": 2022, "showTitle": "It's About Time!", "repertoire": "Dr. Who Theme by Ron Grainer / What Time Is It? by Matthew Gerrard & Robbie Nevil / Don't Stop Me Now by Freddie Mercury / My Life Would Suck Without You by Max Martin, Lukasz Gottwald & Claude Kelly", "placement": "Did not attend DCI", "score": null},
+   {"year": 2023, "showTitle": "BD-Cafari", "repertoire": "Welcome to the Jungle by Guns N' Roses / Africa by David Paich & Jeff Porcaro / Eye of the Tiger by Frankie Sullivan & Jim Peterik / Roar by Katy Perry, Lukasz Gottwald, Max Martin, Bonnie McKee & Henry Walter", "placement": "Did not attend DCI", "score": null},
+   {"year": 2024, "showTitle": "The Gifts We ReCeive", "repertoire": "Forever Young by Alphaville / Everybody Wants to Rule the World by Tears for Fears / A House Is Not a Home by Burt Bacharach / Come Sail Away by Styx / You'll Be in My Heart by Phil Collins", "placement": "Did not attend DCI", "score": null}
+ ]
+}

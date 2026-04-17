@@ -1,0 +1,127 @@
+{
+ "location": [
+   {
+     "city": "Garfield",
+     "state": "NJ", 
+     "year": "1934-2003"
+   },
+   {
+     "city": "Allentown",
+     "state": "PA", 
+     "year": "2003-2023"
+   },
+   {
+     "city": "Erie",
+     "state": "PA", 
+     "year": "2023-2024"
+   }
+ ],
+ "formerNames": [
+   "Garfield Cadets","Cadets of Bergen County","Holy Name Cadets"
+ ],
+ "championships": [
+   {"circuit": "American Legion", "year": 1940, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1948, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1949, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1950, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1953, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1957, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1960, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1961, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1962, "score": null, "showTitle": ""},
+   {"circuit": "American Legion", "year": 1964, "score": null, "showTitle": ""},
+   {"circuit": "CYO", "year": 1984, "score": 98.00, "showTitle": "West Side Story"},
+   {"circuit": "DCI", "year": 1983, "score": 94.40, "showTitle": ""},
+   {"circuit": "DCI", "year": 1984, "score": 98.00, "showTitle": "West Side Story"},
+   {"circuit": "DCI", "year": 1985, "score": 98.40, "showTitle": ""},
+   {"circuit": "DCI", "year": 1987, "score": 97.90, "showTitle": "Appalachian Spring"},
+   {"circuit": "DCI", "year": 1990, "score": 97.70, "showTitle": "A Bernstein Celebration"},
+   {"circuit": "DCI", "year": 1993, "score": 97.40, "showTitle": "In the Spring, At the Time When Kings Go Off to War"},
+   {"circuit": "DCI", "year": 1998, "score": 98.40, "showTitle": "Stonehenge"},
+   {"circuit": "DCI", "year": 2000, "score": 97.65, "showTitle": "We are the Future"},
+   {"circuit": "DCI", "year": 2005, "score": 99.15, "showTitle": "The Zone: Dreamscapes in Four Parts with a Door"},
+   {"circuit": "DCI", "year": 2011, "score": 98.35, "showTitle": "Between Angels and Demons"}
+ ],
+ "captionAwards": [
+   {
+     "caption": "General Effect Award",
+     "years": [1983, 1984, 1985, 1990, 1992, 1993, 1997, 1998, 2000, 2005, 2011]
+   },
+   {
+     "caption": "Visual Performance Award", 
+     "years": [1983, 1984, 1987, 1990, 1993, 1998, 2005, 2011]
+   },
+   {
+     "caption": "Color Guard Award",
+     "years": [1989, 1991, 1993, 1994, 1996, 2005]
+   },
+   {
+     "caption": "Brass Performance Award",
+     "years": [1983, 1984, 1985, 1987, 1995, 2000, 2005, 2015]
+   },
+   {
+     "caption": "Percussion Performance Award",
+     "years": [1987, 1990, 2001, 2002, 2003, 2005, 2013]
+   }
+ ],
+ "website": "cadets.org",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1972-1991", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-2024", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1972, "showTitle": "", "repertoire": "Mars (from The Planets) by Gustav Holst / Rule, Britannia! by Thomas Arne & James Thomson / The Sinfonians by Clifton Williams / Yankee Doodle by Richard Shuckburgh / Greensleeves (Traditional) / Children's Dance (from Merry Mount) by Howard Hanson / Amazing Grace by William Walker & John Newton / Jupiter (from The Planets) by Gustav Holst / Fanfare, Chorale & Finale by Gustav Mahler / A Mighty Fortress is Our God by Martin Luther", "placement": "13th Place", "score": 78.45},
+   {"year": 1973, "showTitle": "", "repertoire": "The Sinfonians by Clifton Williams / Give it One by Maynard Ferguson & Alan Downey / A Mighty Fortress is Our God by Martin Luther / Procession of Bacchus (from Sylvia) by Jean Sibelius", "placement": "17th Place", "score": 72.00},
+   {"year": 1974, "showTitle": "", "repertoire": "The Sea Hawk by Erich Wolfgang Korngold / One Tin Soldier by Dennis Lambert & Brian Potter / Parade of the Toy Soldiers by Pyotr Ilyich Tchaikovsky / In the Mood by Wingy Manone, Joe Garland & Andy Razaf / Lullaby of Broadway by Harry Warren & Al Dubin / Avenue C by Buck Clayton / Alexander's Ragtime Band by Irving Berlin / Alabama Jubilee by George L. Cobb & Jack Yellen / Sunshine On My Shoulders by John Denver, Dick Kniss & Mike Taylor", "placement": "19th Place", "score": 75.15},
+   {"year": 1975, "showTitle": "", "repertoire": "Hall of the Mountain King by Edvard Grieg / Fanfare for the Common Man & Lincoln Portrait by Aaron Copland / Anything Goes by Cole Porter / Avenue C by Buck Clayton / In the Mood by Wingy Manone, Joe Garland & Andy Razaf / Tiger Rag by Nick LaRocca, Eddie Edwards, Henry Ragas, Tony Sbarbaro & Larry Shields / Alexander's Ragtime Band by Irving Berlin / What Are You Doing the Rest of Your Life? (from The Happy Ending) by Michel Legrand, Alan Bergman & Marilyn Bergman / Romeo and Juliet by Pyotr Ilyich Tchaikovsky", "placement": "11th Place", "score": 80.55},
+   {"year": 1976, "showTitle": "", "repertoire": "Prelude, Act 3 (from Lohengrin) by Richard Wagner / Pieces of Dreams by Michel Legrand, Alan Bergman & Marilyn Bergman / Echano (from Children of Sanchez) by Chuck Mangione / The Elks' Parade by Bobby Sherwood / This is My Country by Al Jacobs & Don Raye / Yankee Doodle by Richard Shuckburgh", "placement": "14th Place", "score": 82.45},
+   {"year": 1977, "showTitle": "", "repertoire": "Rite of Spring by Igor Stravinsky / Primal Scream by Jay Chattaway & Maynard Ferguson / Theme to Star Trek by Alexander Courage / Pieces of Dreams by Michel Legrand, Alan Bergman & Marilyn Bergman / Echano (from Children of Sanchez) by Chuck Mangione / I Don't Know How to Love Him (from Jesus Christ Superstar) by Andrew Lloyd Webber & Tim Rice", "placement": "12th Place", "score": 78.15},
+   {"year": 1978, "showTitle": "", "repertoire": "Advance of the Sponges by HIGGINS / Left Bank Express by Pete Jackson / Pieces of Dreams by Michel Legrand, Alan Bergman & Marilyn Bergman / Echano (from Children of Sanchez) by Chuck Mangione / Strawberry Soup by Don Ellis / I Don't Know How to Love Him (from Jesus Christ Superstar) by Andrew Lloyd Webber & Tim Rice", "placement": "14th Place", "score": 79.05},
+   {"year": 1979, "showTitle": "", "repertoire": "Carmina Burana by Carl Orff / Chump Change by Bill Cosby & Quincy Jones / Children of Sanchez & Echano by Chuck Mangione / I Don't Know How to Love Him (from Jesus Christ Superstar) by Andrew Lloyd Webber & Tim Rice", "placement": "16th Place", "score": 76.75},
+   {"year": 1980, "showTitle": "", "repertoire": "One Voice by Barry Manilow / Evening Concert by Bill Conti / Fernando's Fantasy by Tom Scott / Fire Dance by Jeff Tkazyik & Allen Vizzutti / The Elks' Parade by Bobby Sherwood / Through the Eyes of Love by Marvin Hamlisch & Carole Bayer Sager", "placement": "10th Place", "score": 76.45},
+   {"year": 1981, "showTitle": "", "repertoire": "Adventures in Time by Johnny Richards / Egyptian Danza by Al Di Meola / Fire Dance by Jeff Tkazyik & Allen Vizzutti / The Elks' Parade by Bobby Sherwood/ Pieces of Dreams by Michel Legrand, Alan Bergman & Marilyn Bergman", "placement": "7th Place", "score": 89.40},
+   {"year": 1982, "showTitle": "", "repertoire": "Piano Concerto in F by George Gershwin / Rocky Point Holiday by Ron Nelson / Cuban Overture by George Gershwin", "placement": "3rd Place", "score": 92.25},
+   {"year": 1983, "showTitle": "", "repertoire": "Rocky Point Holiday by Ron Nelson / In Nomine Patris; Almighty Father; Sanctus; Agnus Dei; God Said; De Profundis, Part 2 & A Simple Song (all from Mass) by Leonard Bernstein", "placement": "1st Place", "score": 94.40},
+   {"year": 1984, "showTitle": "West Side Story", "repertoire": "Maria, Rumble, Prologue, America, I Have a Love & Quintet All from West Side Story by Leonard Bernstein & Stephen Sondheim", "placement": "1st Place", "score": 98.00},
+   {"year": 1985, "showTitle": "", "repertoire": "Symphony No. 1 (Jeremiah Symphony), Overture & Make Our Garden Grow (from Candide) All by Leonard Bernstein", "placement": "1st Place", "score": 98.40},
+   {"year": 1986, "showTitle": "", "repertoire": "On the Waterfront by Leonard Bernstein / Christopher Street (from Wonderful Town) by Leonard Bernstein, Betty Comden & Adolph Green", "placement": "4th Place", "score": 95.60},
+   {"year": 1987, "showTitle": "Appalachian Spring", "repertoire": "Appalachian Spring by Aaron Copland", "placement": "1st Place", "score": 97.90},
+   {"year": 1988, "showTitle": "Third Symphony", "repertoire": "Third Symphony by Aaron Copland", "placement": "4th Place", "score": 96.10},
+   {"year": 1989, "showTitle": "Les Misérables", "repertoire": "I Dreamed A Dream, At the End of the Day, Look Down, On My Own, Attack on Rue Plumet, Bring Him Home, One Day More & At the Barricades All from Les Misérables by Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel & Herbert Kretzmer", "placement": "5th Place", "score": 95.60},
+   {"year": 1990, "showTitle": "A Bernstein Celebration", "repertoire": "Overture to Candide & Mass by Leonard Bernstein / Somewhere (from West Side Story) by Leonard Bernstein & Stephen Sondheim / Fancy Free Ballet by Leonard Bernstein", "placement": "1st Place", "score": 97.70},
+   {"year": 1991, "showTitle": "ABC's of Modern American Music", "repertoire": "Short Ride in a Fast Machine by John Adams / Letter From Home by Aaron Copland / Prelude, Fugue & Riffs by Leonard Bernstein", "placement": "6th Place", "score": 93.70},
+   {"year": 1992, "showTitle": "To Tame the Perilous Skies", "repertoire": "To Tame the Perilous Skies by David Holsinger", "placement": "2nd Place", "score": 97.00},
+   {"year": 1993, "showTitle": "In the Spring, At the Time When Kings Go Off to War", "repertoire": "In the Spring, When Kings Go Off to War; Ballet Sacra & On a Hymnsong of Philip Bliss All by David Holsinger", "placement": "1st Place", "score": 97.40},
+   {"year": 1994, "showTitle": "West Side Story", "repertoire": "Dance at the Gym, Mambo, Cha-cha, Cool, Prologue/Rumble, A Boy Like That, Tonight & Finale All from West Side Story by Leonard Bernstein & Stephen Sondheim", "placement": "2nd Place", "score": 97.70},
+   {"year": 1995, "showTitle": "An American Quintet", "repertoire": "The Reivers; Born on the 4th of July; Blowing Off Steam (from Far and Away); Swing, Swing, Swing (from 1941) & Land Race (from Far and Away) All by John Williams", "placement": "2nd Place", "score": 97.20},
+   {"year": 1996, "showTitle": "The American West", "repertoire": "The Promise of Living (from The Tender Land) by Aaron Copland / Tulsa: A Portrait in Oil by Don Gillis / Gunfight (from Billy the Kid), Hoedown (from Rodeo) & Happy Ending (from The Red Pony) by Aaron Copland", "placement": "3rd Place", "score": 96.90},
+   {"year": 1997, "showTitle": "Celebration", "repertoire": "Celebration & Year of the Dragon by Philip Sparke", "placement": "2nd Place", "score": 97.60},
+   {"year": 1998, "showTitle": "Stonehenge", "repertoire": "Stonehenge & Canterbury Chorale by Jan Van der Roost", "placement": "1st Place", "score": 98.40},
+   {"year": 1999, "showTitle": "The Big Apple", "repertoire": "The Big Apple (Symphony No. 2) by Johan de Meij / Theme from City of Angels by Gabriel Yared", "placement": "4th Place", "score": 96.40},
+   {"year": 2000, "showTitle": "We are the Future", "repertoire": "Tapestry Of Nations, Prologue, Chaos and Meaning, The Sage of Time & The Promise All from Millennium Celebration by Gavin Greenaway", "placement": "1st Place", "score": 97.65},
+   {"year": 2001, "showTitle": "Juxtaperformance", "repertoire": "Young Person's Guide to the Orchestra by Benjamin Britten / Moondance by Van Morrison / Vide Cor Meum (from Hannibal) by Dante Alighieri & Patrick Cassidy / Farandole by Georges Bizet", "placement": "2nd Place", "score": 97.60},
+   {"year": 2002, "showTitle": "An American Revival", "repertoire": "Times Square (from On the Town) by Leonard Bernstein, Betty Comden & Adolph Green / The Place Where Dreams Come True (from Field of Dreams) by James Horner / Boogie Woogie Bugle Boy by Don Raye & Hughie Prince / New York Memories by Don Hill / America the Beautiful by Samuel A. Ward & Katharine Lee Bates", "placement": "3rd Place", "score": 96.75},
+   {"year": 2003, "showTitle": "Our Favorite Things", "repertoire": "Fanfare and Allegro by Clifton Williams / Malagueña by Ernesto Lecuona / Rocky Point Holiday by Ron Nelson", "placement": "3rd Place", "score": 97.10},
+   {"year": 2004, "showTitle": "Living With the Past", "repertoire": "Aqualung by Ian Anderson & Jennie Anderson / Living in the Past & Thick as a Brick by Ian Anderson / Bourrée in E minor by Johann Sebastian Bach / Locomotive Breath, Songs from the Wood, Mother Goose & Cross-Eyed Mary from Aqualung by Ian Anderson", "placement": "4th Place", "score": 95.60},
+   {"year": 2005, "showTitle": "The Zone: Dreamscapes in Four Parts with a Door", "repertoire": "Twisted Nerve by Bernard Herrmann / Liquid by Jay Bocook / Overture to a New World & Cvalda (from Dancer in the Dark) by Björk / Vertigo by Bernard Herrmann / False Mirrors by Jay Bocook", "placement": "1st Place", "score": 99.15},
+   {"year": 2006, "showTitle": "Volume 2: Through the Looking Glass", "repertoire": "History Repeating by Alex Gifford / White Rabbit by Grace Slick / Pollock by Jeff Beal / Original Music by Jay Bocook, Tom Aungst & Neil Larrivee / Sanvean: I am Your Shadow by Lisa Gerrard & Andrew Claxton / Diaspora Dances (from Concerto for Orchestra) by Leonard Bernstein", "placement": "5th Place", "score": 93.075},
+   {"year": 2007, "showTitle": "This I Believe: Truth, Value, and the Personal Experience Called Drum Corps", "repertoire": "Symphonic Movement by Václav Nelhýbel / Blue Shades by Frank Ticheli / Adiemus II - Cantata Mundi by Karl Jenkins", "placement": "2nd Place", "score": 97.025},
+   {"year": 2008, "showTitle": "...and the pursuit of happiness", "repertoire": "Appalachian Spring by Aaron Copland / An American Elegy & Nitro by Frank Ticheli / Round Four by Frank Sullivan / Vesuvius & Apollo Unleashed by Frank Ticheli", "placement": "5th Place", "score": 94.75},
+   {"year": 2009, "showTitle": "West Side Story 2009: Conflict and Resolution", "repertoire": "Rumble, Prologue, A Boy Like That/I Have A Love, Cool & Tonight All from West Side Story by Leonard Bernstein & Stephen Sondheim", "placement": "3rd Place", "score": 97.20},
+   {"year": 2010, "showTitle": "Toy SOULdier", "repertoire": "Procession of the Nobles by Nikolai Rimsky-Korsakov / Overture (from The School for Scandal) by Samuel Barber / Prelude to Act II, Maypole Dances & Children's Dance (from Merry Mount) by Howard Hanson / Dance of the Tumblers by Nikolai Rimsky-Korsakov / March of the Toys (from Babes in Toyland) by Victor Herbert", "placement": "5th Place", "score": 95.10},
+   {"year": 2011, "showTitle": "Between Angels and Demons", "repertoire": "Angels in the Architecture by Frank Ticheli / 160 BPM (from Angels & Demons) by Hans Zimmer / Doxology by Loys Bourgeois & Thomas Ken / Amazing Grace by William Walker & John Newton", "placement": "1st Place", "score": 98.35},
+   {"year": 2012, "showTitle": "12.25", "repertoire": "Carol of the Bells by Mykola Leontovych & Peter Wilhousky / Jingle Bells by James Lord Pierpont / Do You Hear What I Hear? by Gloria Shayne Baker & Noël Regney / O Tannenbaum by Ernst Anschütz / Hark! The Herald Angels Sing by Felix Mendelssohn, William H. Cummings & Charles Wesley", "placement": "4th Place", "score": 95.05},
+   {"year": 2013, "showTitle": "Side >< Side: The Music of Samuel Barber", "repertoire": "Symphony No. 1, Adagio for Strings & Medea's Dance of Vengeance All by Samuel Barber", "placement": "3rd Place", "score": 96.95},
+   {"year": 2014, "showTitle": "Promise: An American Portrait", "repertoire": "The Promise of Living (from The Tender Land); Lincoln Portrait; Music for the Theater, Mvts. 1, 2 & 4; Grover's Corner (from Our Town) & Appalachian Spring All by Aaron Copland", "placement": "3rd Place", "score": 96.875},
+   {"year": 2015, "showTitle": "The Power of 10", "repertoire": "Symphony No. 10 in E Minor, Op. 93 (Mvts. II, III, & IV) by Dmitri Shostakovich / Diane and Camilla (from Mulholland Drive) by Angelo Badalamenti / Original Music by Jay Bocook", "placement": "4th Place", "score": 95.900},
+   {"year": 2016, "showTitle": "Awakening", "repertoire": "The Pines of the Appian Way & The Pines of Villa Borghese by Ottorino Respighi / Turning, Lightning Field & Wine Dark Sea by John Mackey", "placement": "6th Place", "score": 92.763},
+   {"year": 2017, "showTitle": "The Faithful, The Fallen, The Forgiven", "repertoire": "Devotions: Kyrie Eleison, Simple Song, De Profundis, Agnus Dei, Things Get Broken, Pax: Communion, and Offeratory All from Mass by Leonard Bernstein", "placement": "7th Place", "score": 91.675},
+   {"year": 2018, "showTitle": "The Unity Project", "repertoire": "O Holy Name (Traditional) / Opening Scene by Drew Shanefield, Tom Aungst, and Omar Carmenates / Sound of Silence by Simon & Garfunkel / Sensemaya by Silvestre Revueltas / Misterioso by Drew Shanefield / Demonic Thesis by John Psathas / Ara Batur by Sigur Rós / Ballet Sacra by David Holsinger", "placement": "7th Place", "score": 92.225},
+   {"year": 2019, "showTitle": "Behold", "repertoire": "Fanfare for the Women by Libby Larsen / Just by David Lang / Blueprint by Caroline Shaw / Dance 1 (from Estancia) by Alberto Ginestera / Bridge Over Troubled Water by Paul Simon / Do Better by Tom Aungst, Omar Carmenates & Brandon Carrita / Symphony No. 4 (Finale) by David Maslanka", "placement": "9th Place", "score": 89.838},
+   {"year": 2021, "showTitle": "...Shall Always Be", "repertoire": "Everything Old Is New Again by Peter Allen / Appalachian Spring by Aaron Copland / Rocky Point Holiday by Ron Nelson / New World (from Dancer in the Dark) by Björk / Moondance by Van Morrison / The Land Race (from Far and Away) by John Williams", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Rearview Mirror", "repertoire": "Adrenaline City by Adam Gorb / St. Louis Blues by W.C. Handy / Theme from To Kill a Mockingbird by Elmer Bernstein / American Gothic: III. Pitchfork by Michael Daugherty", "placement": "6th Place", "score": 92.913},
+   {"year": 2023, "showTitle": "Atlas Rising", "repertoire": "What Are You Going To Do When You Are Not Saving The World (from Man of Steel) by Hans Zimmer / Immortal by Paul Lovatt-Cooper / Defeat by Lee Beddis & Andrew Monteiro / Corynorhinus (from Batman Begins) by Hans Zimmer", "placement": "5th Place", "score": 94.313}
+ ]
+}

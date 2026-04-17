@@ -1,0 +1,27 @@
+{
+ "location": [
+   {
+     "city": "Salt Lake City",
+     "state": "UT", 
+     "year": "2014-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "https://www.battalioncorps.org",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2016-present", "className": "Open Class"}
+ ],
+"shows": [
+  {"year": 2016, "showTitle": "Run to You", "repertoire": "Run To You by Bryan Adams / to wALk Or ruN in wEst harlem / Meetings Along the Edge / Wayfaring Stranger (Traditional)", "placement": "Did not attend DCI", "score": null},
+  {"year": 2017, "showTitle": "Listen to the Silence", "repertoire": "Original music", "placement": "Did not attend DCI", "score": null},
+  {"year": 2018, "showTitle": "Seeing Red", "repertoire": "Music from Bruckner / Music from Satie / Music from Beethoven / Original music", "placement": "Did not attend DCI", "score": null},
+  {"year": 2019, "showTitle": "Humanity", "repertoire": "Shenandoah (Traditional) / Many Languages, One World / Sunken Cathedral / Symphony No. 4, Mvmt. 4 / Original music", "placement": "Did not attend DCI", "score": null},
+  {"year": 2022, "showTitle": "Expand", "repertoire": "Also Sprach Zarathustra by Richard Strauss / I'm Always Chasing Rainbows by Harry Carroll", "placement": "27th Place", "score": 73.163},
+  {"year": 2023, "showTitle": "In Our Element", "repertoire": "Unstoppable / Ouroboros / Hypercube", "placement": "26th Place", "score": 74.725},
+  {"year": 2024, "showTitle": "Dead Reckoning", "repertoire": "Malagueña by Ernesto Lecuona / Spanish Fantasy Part 1 by Chick Corea / Spanish Fantasy Part 4 by Chick Corea / My Spanish Heart by Chick Corea", "placement": "24th Place", "score": 82.175},
+  {"year": 2025, "showTitle": "Foretold the Ravens", "repertoire": "Commencement / Rite of Spring by Igor Stravinsky / Artemis and Apollo / Aspect", "placement": "21st Place", "score": 79.125}
+]
+}

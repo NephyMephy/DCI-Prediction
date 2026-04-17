@@ -1,0 +1,64 @@
+{
+"location": [
+  {
+    "city": "St. Peter",
+    "state": "MN", 
+    "year": "1927-Present"
+  }
+],
+"formerNames": [
+  "St. Peter Legion Corps",
+  "St. Peter Drum & Bugle Corps"
+],
+"championships": [
+  {"circuit": "DCA A Class", "year": 2006, "score": 78.625, "showTitle": "Get On The Bus"},
+  {"circuit": "DCA A Class", "year": 2009, "score": 82.400, "showTitle": "Summer of Seduction"},
+  {"circuit": "DCA A Class", "year": 2011, "score": 84.930, "showTitle": "What Happens in Vegas"},
+  {"circuit": "DCA A Class", "year": 2015, "score": 82.450, "showTitle": "Outlaw"},
+  {"circuit": "DCI All-Age A Class", "year": 2024, "score": 80.775, "showTitle": "Woodstock: This is the Dawning"},
+  {"circuit": "DCI All-Age A Class", "year": 2025, "score": 80.775, "showTitle": "Among Thieves"}
+],
+"captionAwards": [],
+"website": "https://www.govenaires.org",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "2004-2020", "className": "A Class"},
+  {"circuit": "DCA", "years": "2021-2021", "className": "Open Class"},
+  {"circuit": "DCA", "years": "2022-2023", "className": "A Class"},
+  {"circuit": "DCI", "years": "2024-present", "className": "All-Age A Class"}
+],
+"shows": [
+  {"year": 1992, "showTitle": "", "repertoire": "Blue Birdland / Scream Machine / Harlem Nocturne by Earle Hagen / Sing Sing Sing by Louis Prima", "placement": "Did not attend DCA", "score": null},
+  {"year": 1993, "showTitle": "", "repertoire": "Blue Birdland / Love for Sale by Cole Porter / Harlem Nocturne by Earle Hagen / Since I Fell for You by Buddy Johnson", "placement": "Did not attend DCA", "score": null},
+  {"year": 1994, "showTitle": "", "repertoire": "Big Spender (from Sweet Charity) by Cy Coleman / Love for Sale by Cole Porter / Brother Can You Spare A Dime by E.Y. Harburg / Street Corner Ambassador / Since I Fell for You by Buddy Johnson", "placement": "Did not attend DCA", "score": null},
+  {"year": 1995, "showTitle": "", "repertoire": "Fever by Eddie Cooley / Groovin' Hard by Don Menza / Palookaville / Stolen Moments by Oliver Nelson / Just a Gigolo/I Ain't Got Nobody by Irving Caesar", "placement": "Did not attend DCA", "score": null},
+  {"year": 1996, "showTitle": "", "repertoire": "Birdland by Josef Zawinul / Groovin' Hard by Don Menza / A Night in Tunisia by Dizzy Gillespie / Moondance by Van Morrison", "placement": "Did not attend DCA", "score": null},
+  {"year": 1997, "showTitle": "", "repertoire": "Pressure Cooker / 'Round Midnight by Thelonious Monk / Samba De Los Gatos / Penguin Shuffle", "placement": "Did not attend DCA", "score": null},
+  {"year": 1998, "showTitle": "Music That's Fun to Play", "repertoire": "Blue Birdland / Theme from Shaft by Isaac Hayes / A Night in Tunisia by Dizzy Gillespie", "placement": "Did not attend DCA", "score": null},
+  {"year": 1999, "showTitle": "American Dance", "repertoire": "Fever by Eddie Cooley / The Penguin Shuffle / Love for Sale by Cole Porter / Jelly Donut", "placement": "Did not attend DCA", "score": null},
+  {"year": 2001, "showTitle": "", "repertoire": "Celebration Suite / La Fiesta by Chick Corea / Malaguena by Ernesto Lecuona", "placement": "Did not attend DCA", "score": null},
+  {"year": 2002, "showTitle": "Songs From The Wild Party", "repertoire": "Blue Birdland / Brass Machine / Songs from The Wild party", "placement": "Did not attend DCA", "score": null},
+  {"year": 2003, "showTitle": "", "repertoire": "Georgia on my Mind by Hoagy Carmichael / Tank (from Cowboy Bebop) by Yoko Kanno / Rush (from Cowboy Bebop) by Yoko Kanno / Hey Pachuko by Royal Crown Revue", "placement": "Did not attend DCA", "score": null},
+  {"year": 2004, "showTitle": "Livin's Easy", "repertoire": "Summertime (from Porgy and Bess) by George Gershwin / A Night in Tunisia by Dizzy Gillespie / In the Stone by Earth, Wind & Fire", "placement": "2nd Place", "score": 75.163},
+  {"year": 2005, "showTitle": "A Night In Town", "repertoire": "When a Man Loves a Woman by Calvin Lewis / Groovin' Hard by Don Menza / Land of Make Believe / Penguin Shuffle", "placement": "2nd Place", "score": 78.088},
+  {"year": 2006, "showTitle": "Get On The Bus", "repertoire": "Big Noise from Winnetka (from Reveille with Beverly) by Bob Haggart / Lust", "placement": "1st Place", "score": 78.625},
+  {"year": 2007, "showTitle": "We've On'y Just Begun", "repertoire": "Julius / Love for Sale by Cole Porter / Harlem Nocturne by Earle Hagen / Sing, Sang, Sung by Gordon Goodwin", "placement": "2nd Place", "score": 83.188},
+  {"year": 2008, "showTitle": "", "repertoire": "House of the Rising Sun (Traditional) / Nutville by Horace Silver / Selections (from The Wild Party)", "placement": "6th Place", "score": 77.413},
+  {"year": 2009, "showTitle": "Summer of Seduction", "repertoire": "Crazy Little Thing Called Love by Queen / Lust / Hot for Teacher by Van Halen", "placement": "1st Place", "score": 82.400},
+  {"year": 2010, "showTitle": "Road Trip", "repertoire": "On the Road Again by Willie Nelson / Motown Medley / A Night in Tunisia by Dizzy Gillespie / Tiger Rag by Nick LaRocca / When the Saints Go Marching In (Traditional)", "placement": "4th Place", "score": 81.013},
+  {"year": 2011, "showTitle": "What Happens in Vegas", "repertoire": "Luck Be A Lady (from Guys and Dolls) by Frank Loesser / Money by Pink Floyd / Money, Money, Money by ABBA / Big Spender (from Sweet Charity) by Cy Coleman / Can't Help Falling in Love by Elvis Presley / Wedding March by Felix Mendelssohn / Viva Las Vegas by Doc Pomus", "placement": "1st Place", "score": 84.930},
+  {"year": 2012, "showTitle": "Hot", "repertoire": "Fever by Eddie Cooley / Too Darn Hot by Cole Porter / Ring of Fire by June Carter Cash / Fire by Jimi Hendrix / Light My Fire by The Doors / Hot Stuff by Donna Summer / Hot Lunch Jam / Hot Stuff by Donna Summer / Disco Inferno by Leroy Green", "placement": "2nd Place", "score": 80.930},
+  {"year": 2013, "showTitle": "Chasing Hollywood", "repertoire": "Prologue and Theme (from City of Angels) by Cy Coleman / Sparkling Diamonds / Sunset Boulevard by Andrew Lloyd Webber / Send in the Clowns (from A Little Night Music) by Stephen Sondheim / Don't Rain on My Parade (from Funny Girl) by Jule Styne", "placement": "2nd Place", "score": 84.780},
+  {"year": 2014, "showTitle": "Pasion", "repertoire": "Man of La Mancha by Mitch Leigh / The Rainmaker by Earl Klugh / Ojos A Si / Malaguena by Ernesto Lecuona", "placement": "2nd Place", "score": 83.980},
+  {"year": 2015, "showTitle": "Outlaw", "repertoire": "Battle Without Honor or Humanity by Tomoyasu Hotei / The Magnificent Seven by Elmer Bernstein / The Ecstasy of Gold by Ennio Morricone / Enemy Guns / Kashmir by Led Zeppelin", "placement": "1st Place", "score": 82.450},
+  {"year": 2016, "showTitle": "Sherlock", "repertoire": "Discombobulate (from Sherlock Holmes) by Hans Zimmer / I Never Woke Up in Handcuffs Before (from Sherlock Holmes) by Hans Zimmer / Chandelier by Sia / Excerpts", "placement": "10th Place", "score": 84.450},
+  {"year": 2017, "showTitle": "Uncharted: A Lost Relic", "repertoire": "Hunt for Red October by Basil Poledouris / Lux Aeterna (from Requiem for a Dream) by Clint Mansell / Hide and Seek by Imogen Heap / Enterprising Young Men (from Star Trek) by Michael Giacchino", "placement": "2nd Place", "score": 81.430},
+  {"year": 2018, "showTitle": "A Wo/Mans World", "repertoire": "Proud Mary by John Fogerty / Kaval Sviri / It's a Man's World by James Brown / Run the World (Girls) by Beyoncé / Ain't No Mountain High Enough by Nickolas Ashford / Respect by Otis Redding", "placement": "2nd Place", "score": 80.650},
+  {"year": 2019, "showTitle": "The Govies Take Manhattan", "repertoire": "A Tone Parallel to Harlem / Hundred Story City (from Ordinary Days) / Sir Duke by Stevie Wonder / Empire State of Mind by Jay-Z", "placement": "3rd Place", "score": 77.125},
+  {"year": 2021, "showTitle": "Where the Sidewalk Ends", "repertoire": "Finlandia by Jean Sibelius / Children's Hour of Dream / Pure Imagination (from Willy Wonka and the Chocolate Factory) by Leslie Bricusse / Land of Make Believe", "placement": "2nd Place", "score": 76.600},
+  {"year": 2022, "showTitle": "Back On The Bus", "repertoire": "On The Road Again by Willie Nelson / Julius / All I Need Is a Miracle by Mike Rutherford / Windy by Ruthann Friedman / Magic Bus by The Who", "placement": "3rd Place", "score": 78.975},
+  {"year": 2023, "showTitle": "Paparazzi", "repertoire": "Granada by Agustín Lara / Paparazzi by Lady Gaga", "placement": "3rd Place", "score": 77.325},
+  {"year": 2024, "showTitle": "Woodstock: This is the Dawning", "repertoire": "Suite: Judy Blue Eyes by Crosby, Stills & Nash / Piece of My Heart by Janis Joplin / Aquarius/Let the Sunshine In by The 5th Dimension / Original Music", "placement": "10th Place", "score": 80.775},
+  {"year": 2025, "showTitle": "Among Thieves", "repertoire": "La Gazza Ladra by Gioachino Rossini / Is It a Crime by Sade / Bad Dog No Bscuits / Original Music", "placement": "10th Place", "score": 83.075}
+]
+}

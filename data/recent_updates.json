@@ -1,0 +1,106 @@
+[
+  {
+    "id": 13,
+    "date": "2025-08-13",
+    "title": "Launch of Corps Database",
+    "description": "Created a searchable corps directory with score, show, and championships data. First iteration is 60 ensembles including all current DCI Open and World Class corps.",
+    "type": "site_update",
+    "priority": "high"
+  },
+  {
+    "id": 12,
+    "date": "2025-08-13",
+    "title": "Data Cleanup 2015-2025",
+    "description": "Added a map view function to the Corps search page and a calendar view function to the Scores History page.",
+    "type": "feature_update",
+    "priority": "high"
+  },
+  {
+    "id": 11,
+    "date": "2025-08-13",
+    "title": "Data Cleanup 2009-2014",
+    "description": "Cleaned and validated all score data for DCA and DCI corps from 2009-2014. Began adding Event Names to score data to better serve data to site functions.",
+    "type": "data_update",
+    "priority": "high"
+  },
+  {
+    "id": 10,
+    "date": "2025-08-10",
+    "title": "2025 Score Data Updated",
+    "description": "Added score and biographic data from 8/8 and 8/9.",
+    "type": "data_update",
+    "priority": "low"
+  },
+  {
+    "id": 9,
+    "date": "2025-08-08",
+    "title": "2025 Score Data Updated",
+    "description": "Added score data from 8/5 and 8/7.",
+    "type": "data_update",
+    "priority": "low"
+  },
+  {
+    "id": 8,
+    "date": "2025-08-08",
+    "title": "New Site Sections",
+    "description": "Created framework for Corps and Records sections. Populated Corps information with 29 current and inactive ensembles.",
+    "type": "feature_update",
+    "priority": "high"
+  },
+  {
+    "id": 7,
+    "date": "2025-08-06",
+    "title": "Continued Logo Restoration",
+    "description": "Updated logo directory with 25 new DCI, DCA, and VFW/AL corps logos restored from historical images",
+    "type": "site_update",
+    "priority": "low"
+  },
+  {
+    "id": 6,
+    "date": "2025-08-06",
+    "title": "Data Cleanup 2015-2025",
+    "description": "Cleaned and validated all score data for DCA and DCI corps from 2015-Present",
+    "type": "data_update",
+    "priority": "high"
+  },
+  {
+    "id": 5,
+    "date": "2025-08-06",
+    "title": "Test Site Live!",
+    "description": "Uploaded draft site files to GitHub Repo for live testing",
+    "type": "site_update",
+    "priority": "high"
+  },
+  {
+    "id": 4,
+    "date": "2025-08-05",
+    "title": "2025 Score Data Updated",
+    "description": "Compiled and added 2025 scores through August 3",
+    "type": "data_update",
+    "priority": "high"
+  },
+  {
+    "id": 3,
+    "date": "2025-08-04",
+    "title": "Head-to-Head Tool",
+    "description": "Added the head-to-head corps comparison tool, allowing users to compare the head-to-head results between any two corps from 1964 to 2025",
+    "type": "feature_update",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "date": "2025-08-02",
+    "title": "Scores+ Analytics Added", 
+    "description": "Added Score+ calculation algorithm and visualization for year-to-year score comparisons",
+    "type": "feature_update",
+    "priority": "medium"
+  },
+  {
+    "id": 1,
+    "date": "2025-08-02",
+    "title": "Scores History",
+    "description": "Added a searchable score history database for DCI, DCA, and some VFW/AL competitions from 1964 to present",
+    "type": "feature_update", 
+    "priority": "medium"
+  }
+]

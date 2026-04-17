@@ -1,0 +1,81 @@
+{
+ "location": [
+   {
+     "city": "Sacramento",
+     "state": "CA", 
+     "year": "1963-Present"
+   }
+ ],
+ "formerNames": [
+   "Ye Wah Drums and Lyras Corps"
+ ],
+ "championships": [
+   {"circuit": "DCI Class A60", "year": 1987, "score": 85.300, "showTitle": ""},
+   {"circuit": "DCI Class A60", "year": 1988, "score": 80.200, "showTitle": ""},
+   {"circuit": "DCI Division II & III", "year": 1992, "score": 90.000, "showTitle": ""},
+   {"circuit": "DCI Division III", "year": 1996, "score": 94.000, "showTitle": "To the Edge"},
+   {"circuit": "DCI Division III", "year": 1997, "score": 94.800, "showTitle": "Passport"},
+   {"circuit": "DCI Division III", "year": 1998, "score": 93.800, "showTitle": "Dragon Dance - Tan Dun"},
+   {"circuit": "DCI Division III", "year": 1999, "score": 93.700, "showTitle": "Transformations"},
+   {"circuit": "DCI Division II & III", "year": 2001, "score": 97.800, "showTitle": "Festival of Music"}
+ ],
+ "captionAwards": [],
+ "website": "www.mandarins.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1978", "className": "Class A"},
+   {"circuit": "DCI", "years": "1986-1991", "className": "Class A60"},
+   {"circuit": "DCI", "years": "1992-2002", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2003-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1978, "showTitle": "", "repertoire": "Repertoires unavailable", "placement": "12th Place*", "score": 43.250},
+   {"year": 1979, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1980, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1981, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1982, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1983, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 1984, "showTitle": "", "repertoire": "Legacy by Bob James / Light on my Life by Bill Sharpe & Roger Odell / Loisita by Bill Sharpe & Roger Odell", "placement": "Did not attend DCI", "score": null},
+   {"year": 1985, "showTitle": "", "repertoire": "Ponteio by Edú Lobo & Jose Carlos Capinam / Rainmaker by Earl Klugh / Dark Orchid by Sammy Nestico", "placement": "Did not attend DCI", "score": null},
+   {"year": 1986, "showTitle": "", "repertoire": "Dark Orchid by Sammy Nestico / Rainmaker by Earl Klugh / Bossa Netti by Vic Cionetti / Copacabana by Barry Manilow, Jack Feldman & Bruce Sussman", "placement": "10th Place*", "score": 64.800},
+   {"year": 1987, "showTitle": "", "repertoire": "Storm at Sun-Up by Gino Vannelli / Celebration Suite by Chick Corea / Voyager by Derrick Graves, Dexter Wansel, George Howard, Herb Smith & Steve Gold / Sweet Cheryl Lynn by Chuck Mangione", "placement": "20th Place", "score": 85.300},
+   {"year": 1988, "showTitle": "", "repertoire": "The Sorcerer and the Latin by Vic Schoen / In Her Family by Pat Metheny / Celebration Suite by Chick Corea / Voyager by Derrick Graves, Dexter Wansel, George Howard, Herb Smith & Steve Gold / More Than the Stars by Eddie Cole", "placement": "19th Place", "score": 80.200},
+   {"year": 1989, "showTitle": "", "repertoire": "Dreams of the Sirens by Russ Freeman / In Her Family by Pat Metheny / Minuano & The First Circle by Pat Metheny & Lyle Mays", "placement": "18th Place ", "score": 87.100},
+   {"year": 1990, "showTitle": "", "repertoire": "The First Circle by Pat Metheny & Lyle Mays / Letter From Home & Third Wind by Pat Metheny / Minuano & Flight of the Falcon by Pat Metheny & Lyle Mays", "placement": "19th Place", "score": 88.200},
+   {"year": 1991, "showTitle": "", "repertoire": "Let There Be Praise & In His Presence by Dick and Melodie Tunney / So Much 2 Say by Cedrick Dent & Mervyn Warren / Miracles Can Happen by Brent Henderson & Craig Patty / Make His Praise Glorious by Bill and Robin Wolaver", "placement": "26th Place", "score": 85.600},
+   {"year": 1992, "showTitle": "", "repertoire": "Joy (Traditional) / Jubilee Variations, Appalachian Spring & The Red Pony by Aaron Copland", "placement": "26th Place", "score": 90.000},
+   {"year": 1993, "showTitle": "", "repertoire": "Episode Five for Brass by Carl Hilding \"Doc\" Severinsen / Adagio for Strings by Samuel Barber / Rocky Point Holiday by Ron Nelson", "placement": "26th Place", "score": 92.600},
+   {"year": 1994, "showTitle": "Voices of a Planet", "repertoire": "Black Forest by Brian Slawson / Dance of the Hunter's Fire by Airto Moreira, Babatunde Olatunji, Flora Purim, Sikiru Adepoju & Vikku Vinayakram / Minuano by Pat Metheny & Lyle Mays / Bones by Mickey Hart, Zakir Hussain, Babatunde Olatunji & Flora Purim / Udu Chant by Sikiru Adepoju, Mickey Hart, Zakir Hussain & Airto Moreira / Appalachian Morning by Paul Halley", "placement": "3rd Place*", "score": 90.800},
+   {"year": 1995, "showTitle": "Cinematic Impressions", "repertoire": "Theme from Speed by Mark Mancina / The Wedding Night (from Marnie) by Bernard Herrmann / A Perilous Direction, The Honeymoon & The Creation (from Mary Shelley's Frankenstein) by Patrick Doyle", "placement": "22nd Place", "score": 91.500},
+   {"year": 1996, "showTitle": "To the Edge", "repertoire": "Taiko Drumming (Original) / Rhythm of the Saints by Paul Simon / Cirque du Soleil by René Dupéré", "placement": "21st Place", "score": 94.000},
+   {"year": 1997, "showTitle": "Passport", "repertoire": "Ghost Train (from The Ghost Train Triptych) / The Ride (from The Ghost Train) / At the Station & The Motive Revolution (from The Ghost Train Triptych) / Bullet (from The Ghost Train) All by Eric Whitacre", "placement": "20th Place", "score": 94.800},
+   {"year": 1998, "showTitle": "Dragon Dance - Tan Dun", "repertoire": "Dragon Dance by Tan Dun / Happy Valley by Vanessa-Mae / The Butterfly Lovers by Chen Gang and He Zhanhao", "placement": "23rd Place", "score": 93.800},
+   {"year": 1999, "showTitle": "Transformations", "repertoire": "Overture & Make Our Garden Grow (from Candide) / Symphonic Suite (from On the Waterfront) All by Leonard Bernstein", "placement": "20th Place", "score": 93.700},
+   {"year": 2000, "showTitle": "Katachi: The Essence of Design", "repertoire": "Heroes Symphony & V2 Schneider by Philip Glass / Anakin's Theme, The Droid Battle, Panaka & Duel of the Fates (from Star Wars: Episode I – The Phantom Menace) by John Williams", "placement": "18th Place", "score": 94.300},
+   {"year": 2001, "showTitle": "Festival of Music", "repertoire": "Music for a Festival, Variations on an Enigma, Mountain Song & Partita All by Philip Sparke", "placement": "16th Place", "score": 97.800},
+   {"year": 2002, "showTitle": "Year of the Dragon", "repertoire": "Year of the Dragon by Philip Sparke / Montage by Peter Graham / A London Overture & Diversions by Philip Sparke", "placement": "19th Place", "score": 95.800},
+   {"year": 2003, "showTitle": "Black Market Bazaar", "repertoire": "Symphony No. 2 in B Minor, Polovetsian Dances (from Prince Igor) & In the Steppes of Central Asia by Alexander Borodin / Bacchanale (from Samson and Delilah) by Camille Saint-Saëns", "placement": "18th Place", "score": 80.300},
+   {"year": 2004, "showTitle": "Samurai", "repertoire": "Red Warrior (from The Last Samurai) by Hans Zimmer / Ouverture Solennelle by Pyotr Ilyich Tchaikovsky / Tabidachi, Nishi he (Departure to the West) by Joe Hisaishi / Bullet by Wong / The Way of the Sword (from The Last Samurai) by Hans Zimmer", "placement": "20th Place", "score": 77.750},
+   {"year": 2005, "showTitle": "Loves Me... Loves Me Not...", "repertoire": "Adagio (from Spartacus) by Aram Khachaturian / Rhapsody on a Theme of Paganini (Variation 18) by Sergei Rachmaninoff / Vibraphonissimo & Nuevo Tango by Astor Piazzolla / Symphonic Dances, Mvt. 3 by Sergei Rachmaninoff", "placement": "17th Place", "score": 78.100},
+   {"year": 2006, "showTitle": "Rhythm Nation", "repertoire": "Martillo by Luis Garay / Egyptian Danza by Al Di Meola / Back Home by Nando Lauria / Din Daa Daa by George Kranz / Rhythm Nation by James Harris, Terry Lewis & Janet Jackson / Clapping Music by Steve Reich / Episode - Prelude by Nando Lauria / Tell it All & The Way Up by Lyle Mays & Pat Metheny", "placement": "17th Place", "score": 77.875},
+   {"year": 2007, "showTitle": "Dragon Dance", "repertoire": "Tea in Chinese Camp, Call of the Mountain (from Gates of Gold) & Shadow and Light by Joseph Curiale / Battle in the Forest (from House of Flying Daggers) by Shigeru Umebayashi / Jubilation Dragon Dance by Tan Dun", "placement": "21st Place", "score": 75.200},
+   {"year": 2008, "showTitle": "River", "repertoire": "Wind River by Joseph Curiale / Cajun Folksong by Frank Ticheli / Sunrise (from Grand Canyon Suite) by Ferde Grofé / Inferno (from The Divine Comedy) by Robert W. Smith", "placement": "19th Place", "score": 77.925},
+   {"year": 2009, "showTitle": "ABSOLUTE", "repertoire": "Absolute Fanfare: Festive Overture by Dmitri Shostakovich Absolute Passion: Libertango by Astor Piazzolla Absolute Joy: Ode to Joy (from Symphony No. 9) by Ludwig van Beethoven / Joy (Traditional) / Christmas Anthem by Robert W. Smith Absolute Rhythm & Absolute Velocity: Partita by Philip Sparke", "placement": "18th Place", "score": 79.650},
+   {"year": 2010, "showTitle": "To Dream of Far Away Lands", "repertoire": "Meetings Along the Edge by Philip Glass & Ravi Shankar / The Mountain of Fruit and Flowers by David Buckley / Samudra Manthan by Shivkumar Sharma / Quiet by Sheila Chandra, Steve Coe & Martin Smith / Ever So Lonely by Steve Coe / Ambush from Ten Sides (Chinese Traditional)", "placement": "19th Place", "score": 78.100},
+   {"year": 2011, "showTitle": "The Forty Thieves: An Ancient Tale of Spices, Toxins, and Perfumes", "repertoire": "Octabones by Adi Morag / Spices, Perfumes, and Toxins by Avner Dorman", "placement": "21st Place", "score": 75.700},
+   {"year": 2012, "showTitle": "Prophecy", "repertoire": "Prophecy by Key Poulan", "placement": "23rd Place", "score": 71.600},
+   {"year": 2013, "showTitle": "DESTINATION AMERICA: Journey of the Paper Sons", "repertoire": "The Promise of a Better Life, Journey to America, Interrogation & Freedom All by Key Poulan", "placement": "18th Place", "score": 79.750},
+   {"year": 2014, "showTitle": "UnbreakABLE: The Human Spirit Is Limitless", "repertoire": "UnbreakABLE: The Human Spirit is Limitless by Key Poulan, Tony Nunez & Kevin Shaw", "placement": "21st Place", "score": 78.150},
+   {"year": 2015, "showTitle": "RESURRECTION", "repertoire": "I. The Awakening II. Warrior III. The Dynasty of the Emperor IV. Forever in Stone All by Key Poulan with Sean Womack & Mark Hunter", "placement": "20th Place", "score": 76.425},
+   {"year": 2016, "showTitle": "Forbidden Forest", "repertoire": "I. Into the Forest II. The Calling (inspired by Devilish Love from Hemingway's Garden of Eden) III. Our Demons Within IV. Triumph of our Inner Self All by Key Poulan, Mark Hunter & Sean Womack / The Calling by Roger Julia", "placement": "17th Place", "score": 81.200},
+   {"year": 2017, "showTitle": "Inside the Ink", "repertoire": "Flow & Drip by Key Poulan, Darren Van Derpoel & Bryan Nungaray / \"The Sound of Silence\" by Paul Simon / Crazy by Willie Nelson / Inside the Ink by Key Poulan, Darren Van Derpoel & Bryan Nungaray", "placement": "13th Place", "score": 85.550},
+   {"year": 2018, "showTitle": "Life Rite After", "repertoire": "String Quartet No. 8 in C Minor, Opus 110 (Allegro Molto) by Dmitri Shostakovich / Spiriti by Thomas Doss / True Colors by Tom Kelly & Billy Steinberg", "placement": "10th Place", "score": 88.150},
+   {"year": 2019, "showTitle": "subTerra", "repertoire": "Ritual and Discovery by Key Poulan & Ike Jackson / On the Shoulders of Giants by Peter Graham / Truman Sleeps (from The Truman Show) by Philip Glass / Allure by Key Poulan / Run, Boy, Run by Yoann Lemoine & Ambroise Willaume / Sacrifice by Key Poulan & Ike Jackson", "placement": "10th Place", "score": 89.300},
+   {"year": 2021, "showTitle": "Beyond the Canvas", "repertoire": "In The Air Tonight by Phil Collins / Stand Up by Cynthia Erivo & Joshuah Brian Campbell / Original Music by Key Poulan, Bryan Harmsen, Ben Pyles & Andy Filipiak", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "The Otherside", "repertoire": "Another Brick in the Wall Pt 2 by Pink Floyd / Otherside by Avi Kaplan / The Wall, The Revolution, The Disintegration & The Triumph by Key Poulan, Bryan Harmsen, Ben Pyles & Andy Filipiak", "placement": "10th Place", "score": 90.013},
+   {"year": 2023, "showTitle": "Sinnerman", "repertoire": "Sinnerman by Nina Simone / Take Me to Church by Hozier / Smile by Nat King Cole / Swing Symphony, Mvt. 4 by Wynton Marsalis / Présage by Univers Zero / I'm Tired by Labrinth & Zendaya", "placement": "6th Place", "score": 93.775},
+   {"year": 2024, "showTitle": "Vieux Carré", "repertoire": "The Jungle & All Rise by Wynton Marsalis / I Put a Spell on You by Nina Simone / Agape by Nicholas Britell / In the Sweet By and By by Joseph Webster & S. Filmore Bennett / Lie to Me by Trombone Shorty, Chris Seefreid & Stefan Abingdon", "placement": "7th Place", "score": 92.150},
+   {"year": 2025, "showTitle": "If I Must Fall...", "repertoire": "Music inspired by Will Healy, Louis Cole, and Finneas Baird O'Connell", "placement": "7th Place", "score": 92.525}
+ ]
+}

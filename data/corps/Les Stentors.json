@@ -1,0 +1,68 @@
+{
+ "location": [
+   {
+     "city": "Sherbrooke",
+     "state": "PQ", 
+     "year": "1987-2005"
+   },
+   {
+     "city": "Sherbrooke",
+     "state": "PQ", 
+     "year": "2007-2017"
+   },
+   {
+     "city": "Sherbrooke",
+     "state": "PQ", 
+     "year": "2019-Present"
+   }
+ ],
+ "formerNames": [
+   "Cadets de l'Académie",
+   "La Relève Musicale"
+ ],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "DCI Open Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1999-2000", "className": "Division II"},
+   {"circuit": "DCI", "years": "2001-2007", "className": "Division III"},
+   {"circuit": "DCI", "years": "2008-present", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1988, "showTitle": "", "repertoire": "I Will * Honeymoon", "placement": "Did not attend DCI", "score": null},
+   {"year": 1989, "showTitle": "", "repertoire": "La Colegiala * Le Club des 100 Watts", "placement": "Did not attend DCI", "score": null},
+   {"year": 1990, "showTitle": "", "repertoire": "Dragnet * Le Club des 100 Watts * Bandstand Boogie * Asterix", "placement": "Did not attend DCI", "score": null},
+   {"year": 1991, "showTitle": "", "repertoire": "Le Club des 100 Watts * Carmen * March of the Toreadors (from Carmen) * Pot-Pourri Quebecois", "placement": "Did not attend DCI", "score": null},
+   {"year": 1992, "showTitle": "", "repertoire": "Glenn Miller Suite * C Jam Blues * It Don't Mean a Thing If It Ain't Got That Swing", "placement": "Did not attend DCI", "score": null},
+   {"year": 1993, "showTitle": "", "repertoire": "Robin Hood * Polovtsian March (from Prince Igor)", "placement": "Did not attend DCI", "score": null},
+   {"year": 1994, "showTitle": "", "repertoire": "The Three Musketeers", "placement": "Did not attend DCI", "score": null},
+   {"year": 1995, "showTitle": "", "repertoire": "Music by Pat Metheny", "placement": "Did not attend DCI", "score": null},
+   {"year": 1996, "showTitle": "", "repertoire": "Jurassic Park * Forrest Gump * Afrique Noire * Apollo 13", "placement": "Did not attend DCI", "score": null},
+   {"year": 1997, "showTitle": "", "repertoire": "Interstellar Suite by Amin Bhatia - Hostility (from Interstellar Suite) * Distress Signal (from Interstellar Suite) * The Ship (from Interstellar Suite)", "placement": "Did not attend DCI", "score": null},
+   {"year": 1998, "showTitle": "", "repertoire": "Gandalf (from Lord of the Rings) * Hobbits (from The Lord of the Rings) * On Broadway (from Lord of the Rings)", "placement": "Did not attend DCI", "score": null},
+   {"year": 1999, "showTitle": "Overture to an New Age", "repertoire": "Music in Flashing Wind * Symphonic Overture * Overture to a New Age", "placement": "10th Place Division II", "score": 81.300},
+   {"year": 2000, "showTitle": "The Music of Indiana Jones", "repertoire": "Selections from Indiana Jones", "placement": "", "score": null},
+   {"year": 2001, "showTitle": "Abram's Pursuit", "repertoire": "Liturgical Dances * Abram's Pursuit * Ballet Sacra * To Tame the Perilous Skies", "placement": "18th Place Division III", "score": 69.700},
+   {"year": 2002, "showTitle": "", "repertoire": "Selections from the Phantom of the Opera", "placement": "19th Place Division III", "score": 67.400},
+   {"year": 2003, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "15th Place Division III", "score": 69.850},
+   {"year": 2004, "showTitle": "Pilatus, The Mountain of Dragon", "repertoire": "", "placement": "14th Place Division III", "score": 63.400},
+   {"year": 2005, "showTitle": "Troy", "repertoire": "Selections from Troy", "placement": "11th Place Division III", "score": 70.575},
+   {"year": 2007, "showTitle": "", "repertoire": "", "placement": "Did not attend DCI", "score": null},
+   {"year": 2008, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "22nd Place Open Class", "score": 68.275},
+   {"year": 2009, "showTitle": "Music from The Incredibles", "repertoire": "Glory Days * Bob vs. The Omnidroid * Marital Rescue * Escaping Nomanisan * Road Trip * Saving Metroville", "placement": "17th Place Open Class", "score": 65.900},
+   {"year": 2010, "showTitle": "A New Day", "repertoire": "Grace Kelly * Comme au Premier Jour * Rock et Belles Oreilles Medley * Til the Day I Die * When I Rise * La Revolution", "placement": "14th Place Open Class", "score": 72.500},
+   {"year": 2011, "showTitle": "Musique du Quebec", "repertoire": "Les Rendez-vous * Le Bonheur te Fait de l'Oeil * Piano Solo * Le Rap a Ti-Petang * S'il Suffisait d'Aimer * Et C''est Pas fini * J'irai où tu Iras", "placement": "38th Place World Class", "score": 51.750},
+   {"year": 2012, "showTitle": "The Sixties", "repertoire": "Le Yaya * Douliou-douliou Saint-Tropez * Wipe Out * Manon Vient Danser le Ska * Splish Splash * Da Doo Ron Ron * La Plus Belle pour Aller Danser * Agadou dou dou * Avant de te dire Adieu", "placement": "34th Place World Class", "score": 52.750},
+   {"year": 2013, "showTitle": "25tentors - Stentors 25th Anniversary", "repertoire": "Distress Signal (from Interstellar Suite) * Gandalf (from Lord of the Rings) * The Ti-Rap Petang * The Incredibles * Til the Day I Die * Phantom of the Opera * Comme au Premier Jour * Hobbits (from The Lord of the Rings) * Overture to a New Age", "placement": "34th Place World Class", "score": 58.250},
+   {"year": 2014, "showTitle": "Magical Illusion", "repertoire": "Now You See Me, Now You Don't from Now You See Me", "placement": "34th Place World Class", "score": 57.425},
+   {"year": 2015, "showTitle": "Tale of the Tales", "repertoire": "Selections from Charlie and the Chocolate Factory * Selections from Alice in Wonderland * Santorini * Carmina Burana * Romeo and Juliet", "placement": "37th Place World Class", "score": 52.975},
+   {"year": 2016, "showTitle": "Enigma", "repertoire": "Back to the Future * Young Sherlock Holmes * Overture to a New Age", "placement": "38th Place World Class", "score": 53.300},
+   {"year": 2017, "showTitle": "", "repertoire": "Can't Help Falling in Love * Allegro from Appalachian Spring * Always on My Mind", "placement": "40th Place World Class", "score": 54.725},
+   {"year": 2019, "showTitle": "Passion in Red", "repertoire": "Águas de Março * Symphonic Overture * Danzón No. 2 * Capricho Árabe * Libertango", "placement": "34th Place World Class", "score": 63.150},
+   {"year": 2022, "showTitle": "Making an Impression", "repertoire": "La Vie en Rose * C'est beau la Vie * Sous le Ciel de Paris * Sous les Ponts de Paris * Orphee aux Enfers", "placement": "32nd Place World Class", "score": 67.525},
+   {"year": 2023, "showTitle": "At the End of the Day", "repertoire": "(Repertoire not available)", "placement": "32nd Place World Class", "score": 65.500},
+   {"year": 2024, "showTitle": "Elements", "repertoire": "Vanishing Point * Earth Dance * Danza Cubanas * Sky Dance", "placement": "31st Place World Class", "score": 66.075},
+   {"year": 2025, "showTitle": "It All Starts With a Spark", "repertoire": "Urban light * Lux Aeterna * Loco Motion * Winds of Change", "placement": "30th Place World Class", "score": 67.375}
+ ]
+}

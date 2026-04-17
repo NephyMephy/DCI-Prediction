@@ -1,0 +1,49 @@
+{
+ "location": [
+   {
+     "city": "Tempe",
+     "state": "AZ", 
+     "year": "2001-Present"
+   }
+ ],
+ "formerNames": [
+   "Arizona Academy of the Performing Arts",
+   "The Academy Brass & Percussion Ensemble"
+ ],
+ "championships": [
+   {"circuit": "DCI Open Class", "year": 2006, "score": 95.625, "showTitle": "¡danzón!"}
+ ],
+ "captionAwards": [],
+ "website": "www.arizonaacademy.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2001-2006", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2007-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 2001, "showTitle": "Excerpts from Drum Corps Past", "repertoire": "Malambo (from Estancia) by Alberto Ginastera / Amber Waves by Morton Gould / When a Man Loves a Woman by Calvin Lewis & Andrew Wright", "placement": "Did not attend DCI", "score": null},
+   {"year": 2002, "showTitle": "", "repertoire": "Ya Gotta Try by Sammy Nestico / Grand Canyon Fanfare by James Newton Howard / Cadillac of the Skies (from Empire of the Sun) by John Williams", "placement": "Did not attend DCI", "score": null},
+   {"year": 2003, "showTitle": "", "repertoire": "A Young Person's Guide to the Orchestra by Benjamin Britten / Vide Cor Meum (from Hannibal) by Hans Zimmer / The Challenge & Promise (from Millennium Celebration) by Gavin Greenaway", "placement": "Did not attend DCI", "score": null},
+   {"year": 2004, "showTitle": "Debut", "repertoire": "Symphony for Brass and Percussion, Mvt. 3 by Alfred Reed / Chanson Mélancolique by Morley Calvert / Jubilation (from Symphony for Brass and Timpani) by Herbert Haufrecht", "placement": "Did not attend DCI", "score": null},
+   {"year": 2005, "showTitle": "", "repertoire": "Piano Concerto No. 2 by Dmitri Shostakovich", "placement": "Did not attend DCI", "score": null},
+   {"year": 2006, "showTitle": "¡danzón!", "repertoire": "Huapango by Jose Pablo Moncayo / Patria by Ruben Blades / El Cumbanchero by Rafael Hernández", "placement": "1st Place", "score": 95.625},
+   {"year": 2007, "showTitle": "The Chase", "repertoire": "The Chase, The Villain, The Hero, The Woman, At the Jitterbug Club, The Love Theme, The Chase & Conclusion Original Music by the Staff of The Academy", "placement": "13th Place", "score": 84.500},
+   {"year": 2008, "showTitle": "Vienna Nights", "repertoire": "Freud's Dream, Mozart's Theme, Café Life, Gallop, Notturno & Finale - Alla Turka All from Vienna Nights by Philip Wilby", "placement": "18th Place", "score": 78.850},
+   {"year": 2009, "showTitle": "The Ascent", "repertoire": "Call of the Mountain (from Gates of Gold) by Joseph Curiale / An Alpine Symphony, Op. 64 by Richard Strauss / Kingfishers Catch Fire by John Mackey", "placement": "14th Place", "score": 83.750},
+   {"year": 2010, "showTitle": "Strangers In Paradise", "repertoire": "Overture (from Prince Igor) by Alexander Borodin / Aquarium (from The Carnival of the Animals) by Camille Saint-Saëns / Selections from Prince Igor & Polovstian Dances and Chorus (from Prince Igor) by Alexander Borodin", "placement": "14th Place", "score": 84.050},
+   {"year": 2011, "showTitle": "(RE)", "repertoire": "Little Fugue in G Minor by Johann Sebastian Bach / Lux Aurumque by Eric Whitacre / Fly by Ludovico Einaudi / Lollapalooza by John Adams", "placement": "15th Place", "score": 82.650},
+   {"year": 2012, "showTitle": "Left of Spring: Stravinsky Revisited", "repertoire": "Rite of Spring by Igor Stravinsky / The Song of Purple Summer (from Spring Awakening) by Duncan Sheik & Steven Sater", "placement": "15th Place", "score": 81.900},
+   {"year": 2013, "showTitle": "Piano Man", "repertoire": "Wilkommen (from Cabaret) by John Kander & Fred Ebb / Alabama Song by Kurt Weill & Bertolt Brecht / Falling In Love Again by Fredrick Hollander & Sammy Lerner / Piano Concerto No. 2, Mvt. 1 by Dmitri Shostakovich / Piano Man by Billy Joel", "placement": "19th Place", "score": 78.200},
+   {"year": 2014, "showTitle": "Vanity Fair", "repertoire": "Rondeau by Jean-Joseph Mouret / Crown Imperial by William Walton / What a Wonderful World by Bob Thiele & George David Weiss / Dance of the Hours by Amilcare Ponchielli / Jazz Suite No. 2, Waltz No. 2 by Dmitri Shostakovich / Hungarian Rhapsody No. 2 by Franz Liszt / Symphony No. 7, Mvt. 2 by Ludwig van Beethoven / Paris Sketches by Martin Ellerby", "placement": "16th Place", "score": 81.875},
+   {"year": 2015, "showTitle": "A Step in Time", "repertoire": "Overture & Chim Chim Cher-ee (both from Mary Poppins) by The Sherman Brothers / A Shooting Star (from Mary Poppins) by George Stiles, Anthony Drewe & The Sherman Brothers / A Spoonful of Sugar (from Mary Poppins) by The Sherman Brothers / Practically Perfect (from Mary Poppins) by George Stiles, Anthony Drewe & The Sherman Brothers / Galop (from Masquerade Suite) by Aram Khachaturian / Step in Time, Feed the Birds & Supercalifragilisticexpialidocious (all from Mary Poppins) by The Sherman Brothers", "placement": "15th Place", "score": 81.825},
+   {"year": 2016, "showTitle": "Drum Corpse Bride", "repertoire": "Main Titles (from Corpse Bride) by Danny Elfman / Romeo and Juliet by Sergei Prokofiev / Sorcerer's Apprentice by Paul Dukas / Suggestion Diabolique by Sergei Prokofiev / Unchained Melody by Alex North & Hy Zaret / Piano Sonata No. 2, Op. 35 (The Funeral March) by Frédéric Chopin", "placement": "11th Place", "score": 86.100},
+   {"year": 2017, "showTitle": "By a Hare", "repertoire": "Morning Mood (from Peer Gynt Suite) by Edvard Grieg / Hunting Wabbits by Gordon Goodwin / Overture to The Barber of Seville by Gioachino Rossini / Danse Bohème by Georges Bizet / Ride of the Valkyries by Richard Wagner / Habanera by Georges Bizet / Hungarian Rhapsody No. 2 by Franz Liszt / Anvil Chorus (from Il trovatore) by Giuseppe Verdi", "placement": "14th Place", "score": 84.188},
+   {"year": 2018, "showTitle": "Academic", "repertoire": "The Imitation Game by Alexandre Desplat / Annie Lisle by H. S. Thompson / Academic Festival Overture by Johannes Brahms / Overture to The School for Scandal by Samuel Barber / The Four Sections by Steve Reich / Keating's Triumph (from Dead Poets Society) by Maurice Jarre", "placement": "15th Place", "score": 84.563},
+   {"year": 2019, "showTitle": "The Bridge Between", "repertoire": "Dance 1, Mvt. 1 by Oliver Davis / Equilibrium by Paul Lovatt-Cooper / London Bridge Is Falling Down (Traditional) / Bridge Over Troubled Water by Paul Simon / Horizons by Paul Lovatt-Cooper / Original Music by Steven Vento", "placement": "15th Place", "score": 84.300},
+   {"year": 2021, "showTitle": "Exposed", "repertoire": "Fame by David Bowie / Lingus by Michael League (Snarky Puppy) / Paparazzi by Lady Gaga / Bury a Friend by Billie Eilish & Finneas O'Connell / Everybody Hurts by R.E.M. / Rhapsody on a Theme of Paganini by Sergei Rachmaninoff / Hello It's Me by Lou Reed", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "A World of My Creation", "repertoire": "Prelude by Steve Vento / Alice's Theme by Danny Elfman / The Barber of Seville by Gioachino Rossini / Oompa Loompa (from Willy Wonka & the Chocolate Factory) by Anthony Newley & Leslie Bricusse / Anthem by Bjoern Ulvaeus & Benny Goran / Metropolitan Theme by Laurence Roger Fast / Pure Imagination (from Willy Wonka & the Chocolate Factory) by Anthony Newley & Leslie Bricusse", "placement": "16th Place", "score": 82.200},
+   {"year": 2023, "showTitle": "Sol Et Luna", "repertoire": "Sun & Moon and Fate Written in The Stars by Ryan Erick Adamsons & Fred Emory Smith / And So It Goes by Billy Joel / Rocket to The Moon by Thomas Bergersen", "placement": "18th Place", "score": 82.500},
+   {"year": 2024, "showTitle": "When Opportunity Knocks", "repertoire": "Can You Hear the Music? (from Oppenheimer) by Ludwig Goransson / Golden Hour by Jacob Lawson / Predator by John Psathas / Can You See Me? by Fred Emory Smith / Someone Like You (from Jekyll & Hyde) by Frank Wildhorn, Leslie Bricusse & Steve Cuden / You Can't Stop Me by Fred Emory Smith / Sailing Into Dawn (from The Lord of the Rings: The Rings of Power) by Bear McCreary", "placement": "18th Place", "score": 82.175},
+   {"year": 2025, "showTitle": "London Fog", "repertoire": "Can't Fight City Halloween by Michael Giacchino & Natalie Holt / Enigma Variations by Edward Elgar, We Could Form an Attachment by Kris Bowers / Made of Water by Thomas Bergersen", "placement": "17th Place", "score": 83.313}
+ ]
+}

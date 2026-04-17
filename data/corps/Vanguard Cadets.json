@@ -1,0 +1,68 @@
+{
+ "location": [
+   {
+     "city": "Santa Clara",
+     "state": "CA", 
+     "year": "1971-2022"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "DCI Division II & III", "year": 2000, "score": 94.350, "showTitle": "Journey From the Darkness"},
+   {"circuit": "DCI Open Class", "year": 2008, "score": 96.825, "showTitle": "Perspectives"},
+   {"circuit": "DCI Open Class", "year": 2013, "score": 96.150, "showTitle": "The Art of War"},
+   {"circuit": "DCI Open Class", "year": 2015, "score": 81.225, "showTitle": "On Cloud Nine"},
+   {"circuit": "DCI Open Class", "year": 2017, "score": 80.725, "showTitle": "In Pieces"},
+   {"circuit": "DCI Open Class", "year": 2018, "score": 80.075, "showTitle": "Off The Wall"},
+   {"circuit": "DCI Open Class", "year": 2022, "score": 83.550, "showTitle": "Somewhere New"}
+ ],
+ "captionAwards": [],
+ "website": "www.scvanguard.org/vanguard_cadets/",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1991", "className": "Class A & A60"},
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division II & III"},
+   {"circuit": "DCI", "years": "2008-2022", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 1982, "showTitle": "", "repertoire": "Main Theme & Can You Read My Mind (from Superman) by John Williams / The Eagle and the Hawk by John Denver & Mike Taylor", "placement": "DId not attend DCI", "score": null},
+   {"year": 1983, "showTitle": "", "repertoire": "Festive Overture by Dmitri Shostakovich / Main Theme (from Superman) by John Williams / Battle in the Mutara Nebula (from Star Trek II: The Wrath of Khan) by James Horner / When You Wish Upon a Star (from Pinocchio) by Ned Washington / If You Believe (from The Wiz) by Charlie Smalls", "placement": "DId not attend DCI", "score": null},
+   {"year": 1984, "showTitle": "", "repertoire": "Festive Overture by Dmitri Shostakovich / Superman Medley by John Williams / Last Chance to Dance by T-Bone Burnett / Black Saddle by Michael Hennagin / If You Believe (from The Wiz) by Charlie Smalls", "placement": "DId not attend DCI", "score": null},
+   {"year": 1985, "showTitle": "", "repertoire": "Conquest (from Captain from Castile) by Alfred Newman / Forgotten Dreams by Leroy Anderson / Once in a Lifetime (from Stop The World - I Want to Get Off) by Anthony Newley / Hungarian Dance No. 2 by Johannes Brahms / You'll Never Walk Alone (from Carousel) by Richard Rodgers & Oscar Hammerstein II", "placement": "DId not attend DCI", "score": null},
+   {"year": 1986, "showTitle": "", "repertoire": "Land of Make Believe by Chuck Mangione / Baja by Ary Barroso / \"You Can't Hurry Love\" by Lamont Dozier, Brian Holland & Eddie Holland / Imagine by John Lennon / Black Saddle by Michael Hennagin / Tradition (from Fiddler on the Roof) by Jerry Bock & Sheldon Harnick", "placement": "DId not attend DCI", "score": null},
+   {"year": 1987, "showTitle": "", "repertoire": "The Voyage Home (from Star Trek IV: The Voyage Home) by Leonard Rosenman / Echano (from Children of Sanchez) by Chuck Mangione / Clock by John Holt / Land of Make Believe by Chuck Mangione", "placement": "DId not attend DCI", "score": null},
+   {"year": 1988, "showTitle": "", "repertoire": "Scenes From the Louvre by Norman Dello Joio / Wild Life Market Street by Yellowjackets / In the Stone by Allee Willis, David Foster & Maurice White / Theme from Dirty Dancing by John Morris / Henry V by Sir William Walton", "placement": "DId not attend DCI", "score": null},
+   {"year": 1989, "showTitle": "", "repertoire": "Mutiny on the Bounty by David Cooke / Children's Crusade by Gordon Matthew Thomas Sumner / Hopak (Traditional) / On My Own (from Les Misérables) by Claude-Michel Schönberg, Alain Boublil, Jean-Marc Natel & Herbert Kretzmer", "placement": "DId not attend DCI", "score": null},
+   {"year": 1990, "showTitle": "", "repertoire": "Russian Sailor's Dance (from The Red Poppy) by Reinhold Gliere / Who Will Buy (from Oliver!) by Lionel Bart / If You Believe (from The Wiz) by Charlie Smalls", "placement": "DId not attend DCI", "score": null},
+   {"year": 1991, "showTitle": "", "repertoire": "Theme from The Big Country by Jerome Moross / In Quiet Dignity & Echoes of Ancient Battles by Checkfield / This is One of Those Moments (from Yentl) by Michel Legrand / Anything but Lonely (from Aspects of Love) by Andrew Lloyd Webber", "placement": "4th Place Class A & A60 / 27th Place Open Class", "score": 88.200},
+   {"year": 1992, "showTitle": "Selections from Robin Hood: Prince of Thieves", "repertoire": "Overture, Maid Marion, Little John and the Band in the Forest & The Final Battle at the Gallows (all from Robin Hood: Prince of Thieves) by Michael Kamen / Danza Final (from Estancia) by Alberto Ginestera", "placement": "DId not attend DCI", "score": null},
+   {"year": 1993, "showTitle": "Selections from Far and Away", "repertoire": "Land Race, Oklahoma Territory, Blowing Off Steam, The Big Match & Race to the River All from Far and Away by John Williams", "placement": "2nd Place Division II & III / 25th Place Division I", "score": 92.600},
+   {"year": 1994, "showTitle": "The Music of Michael Kamen", "repertoire": "Courante, Concerto for Saxophone, Estampie, Shining Through & Galliard All from The Three Musketeers by Michael Kamen", "placement": "DId not attend DCI", "score": null},
+   {"year": 1995, "showTitle": "", "repertoire": "The Red Pony by Aaron Copland / Fall River Legend by Morton Gould / Wyatt Earp by James Newton Howard", "placement": "DId not attend DCI", "score": null},
+   {"year": 1996, "showTitle": "", "repertoire": "Piano Concerto No. 2, Mvt. 1 by Béla Bartók / Dance of the Comedians by Peter Ilyich Tchaikovsky / Ballet Suite No. 3 by Dmitri Shostakovich / Alexander Nevsky by Sergei Prokofiev", "placement": "DId not attend DCI", "score": null},
+   {"year": 1997, "showTitle": "Selections from Evita", "repertoire": "Latin Chant, Buenos Aires, I'd Be Surprisingly Good For You, And The Money Kept Rolling In, Don't Cry For Me Argentina, Santa Evita & A New Argentina All from Evita by Andrew Lloyd Webber", "placement": "DId not attend DCI", "score": null},
+   {"year": 1998, "showTitle": "Selections from the Broadway Musical Titanic", "repertoire": "The Boarding: Godspeed Titanic, Barrett's Song, The Proposal & Ship of Dreams All from Titanic by Maury Yeston", "placement": "5th Place", "score": 93.700},
+   {"year": 1999, "showTitle": "", "repertoire": "Scenes From the Louvre by Ottorino Respighi / The Gathering of the Ranks at Hebron by David Holsinger / Merry Mount Suite by Howard Hanson", "placement": "DId not attend DCI", "score": null},
+   {"year": 2000, "showTitle": "Journey From the Darkness", "repertoire": "The Dream of Oenghus by Rolf Rudin / Song of Moses by David Holsinger / Message of the Man; The Cave, The Struggle and Man From The Light & Escape...Into The Light! (from Escape From Plato's Cave) by Stephen Melillo", "placement": "1st Place Division II & III / 17th Place Division I", "score": 94.350},
+   {"year": 2001, "showTitle": "", "repertoire": "Tempered Steel by Charles Rochester Young / Partita by Philip Sparke / The Gift of Love & Time to Take Back the Knights by Stephen Melillo", "placement": "DId not attend DCI", "score": null},
+   {"year": 2002, "showTitle": "", "repertoire": "Molto Ritmico & Lento (from Dance Movements) by Philip Sparke / Timestorm (from Stormworks) by Stephen Melillo / Easter Symphony by David Holsinger", "placement": "4th Place", "score": 94.350},
+   {"year": 2003, "showTitle": "", "repertoire": "Overture to a New Era by Caesar Giovannini / Urban Dances by Richard Danielpour / American Beauty by Thomas Newman / Easter Symphony by David Holsinger", "placement": "DId not attend DCI", "score": null},
+   {"year": 2004, "showTitle": "", "repertoire": "Engulfed Cathedral by Claude Debussy / The New Moon in the Old Man's Arms by Michael Kamen / New Beginnings & Celebration Overture by Peter Boyer", "placement": "3rd Place", "score": 94.725},
+   {"year": 2005, "showTitle": "", "repertoire": "Through the Rainforest & The Anaconda (from Amazonian Rainforest) by Key Poulan / Message of The Man (from Escape From Plato's Cave) by Stephan Melillo / Sentenced to Death & The Descent into the Dark Unknown (from The Pit and the Pendulum) & Checkered Flag (from Need for Speed) by Key Poulan", "placement": "DId not attend DCI", "score": null},
+   {"year": 2006, "showTitle": "Innovations", "repertoire": "Mishima: Opening & Primacy of Number (from Naqoyqatsi) by Philip Glass / Water Dances: Gliding by Michael Nyman / The Grid (from Koyaanisqatsi) by Philip Glass", "placement": "5th Place", "score": 89.525},
+   {"year": 2007, "showTitle": "Ascension: Music from The Divine Comedy", "repertoire": "Purgatory, Inferno, Paradise & Ascension All from The Divine Comedy by Robert W. Smith", "placement": "5th Place", "score": 90.400},
+   {"year": 2008, "showTitle": "Perspectives", "repertoire": "Perspectives by James Peterson & Robby Elfman", "placement": "1st Place", "score": 96.825},
+   {"year": 2009, "showTitle": "Love", "repertoire": "When I Fall in Love by Edward Heyman / Seasons of Love (from Rent) by Jonathon Larson & Freddie Mercury / Elephant Love Medley (from Moulin Rouge!) by Craig Armstrong & Baz Luhrmann / El Tango de Roxanne (from Moulin Rouge!) by Sting & Mariano Mores / Nessun Dorma (from Turandot) by Giacomo Puccini", "placement": "2nd Place", "score": 94.700},
+   {"year": 2010, "showTitle": "Chakra", "repertoire": "Introduction, Root and Sacral Chakras, Solar and Heart Chakras, Throat Chakra & Head and Crown Chakras All from Chakra by Key Poulan", "placement": "DId not attend DCI", "score": null},
+   {"year": 2011, "showTitle": "Balance", "repertoire": "Symmetry, Equilibrium, Harmony & Equality All by Key Poulan, Nate Bourg & Murray Gusseck", "placement": "3rd Place Open Class / 23rd Place World Class", "score": 94.200},
+   {"year": 2012, "showTitle": "Heroes and Legends", "repertoire": "Main Title (from Rome) by Jeff Beal / Danse Bacchanale (from Samson & Delilah) by Camille Saint-Saëns / Viva La Vida by Guy Berryman, Jonathan Buckland, William Champion & Chri Martin / Medea's Meditation and Dance of Vengeance (from Medea) by Samuel Barber / Wishing You Were Somehow Here Again (from The Phantom of the Opera) by Andrew Lloyd Webber / Russian Christmas Music by Alfred Reed / The Great Gate of Kiev (from Pictures at an Exhibition) by Modest Mussorgsky", "placement": "3rd Place Open Class / 22nd Place World Class", "score": 93.800},
+   {"year": 2013, "showTitle": "The Art of War", "repertoire": "Unto the Breach by Key Poulan / Night on Bald Mountain by Modest Mussorgsky / Elegy for Dunkirk (from Atonement) by Dario Marianelli / Hut of Baba-Yaga (from Pictures at an Exhibition) by Modest Mussorgsky / Adagio for Strings by Samuel Barber / The Promise of Living (from The Tender Land) by Aaron Copland", "placement": "1st Place Open Class / 21st Place World Class", "score": 96.150},
+   {"year": 2014, "showTitle": "The Road Not Taken", "repertoire": "Kaval Sviri (Bulgarian Traditional) / Meetings Along the Edge by Philip Glass & Ravi Shankar / Forbidden Friendship & Test Drive (from How to Train Your Dragon) by John Powell / Symphony No. 5 by Ludwig van Beethoven / Secrets by Ryan Tedder (OneRepublic)", "placement": "2nd Place Open Class / 18th Place World Class", "score": 81.650},
+   {"year": 2015, "showTitle": "On Cloud Nine", "repertoire": "Life (from Prometheus) by Harry Gregson-Williams / Awakening (from On Cloud Nine) by Key Poulan, Fred Emory Smith & Casey Brohard / Girl with the Plums (from Perfume: The Story of a Murderer) by Tom Tykwer, Johnny Klimek & Reinhold Heil / Big Hero Six by Henry Jackman", "placement": "1st Place Open Class / 16th Place World Class", "score": 81.225},
+   {"year": 2016, "showTitle": "The One", "repertoire": "Pines of the Appian Way by Ottorino Respighi / Due Tremonti by Ludovico Einaudi / Iza Ngosmo (Come Tomorrow) by Christopher Tin", "placement": "2nd Place Open Class / 20th Place World Class", "score": 78.850},
+   {"year": 2017, "showTitle": "In Pieces", "repertoire": "Feedback by Francisco Gabas, Francisco Lomeňa, Javier Martin, Marina Abad, Maxwell Wright, Nitin Sawhney, Ramón Giménez, Sergio Ramos & Xavier Turull (Ojos de Brujo) / Temen Oblak by Christopher Tin / Kaleidoscope by Fred Emory Smith / Harvest by John Mackey", "placement": "1st Place Open Class / 16th Place World Class", "score": 80.725},
+   {"year": 2018, "showTitle": "Off The Wall", "repertoire": "Bicycle Race by Freddie Mercury / Sounding Board by Fred Emory Smith & Ryan Adamsons / Fly to Paradise by Eric Whitacre / Rebound by Fred Emory Smith & Ryan Adamsons", "placement": "1st Place Open Class / 18th Place World Class", "score": 80.075},
+   {"year": 2019, "showTitle": "What About Us", "repertoire": "What About Us by Alecia Moore (Pink), Steve Mac & Johnny McDaid / Primacy of Number (from Naqoyqatsi) by Philip Glass / Downside Up by Peter Gabriel / Three Ring by Fred Emory Smith & Ryan Adamsons / Alone by Christopher Comstock (Marshmello)", "placement": "DId not attend DCI", "score": null},
+   {"year": 2022, "showTitle": "Somewhere New", "repertoire": "Call to Adventure by Fred Smith & Ryan Adamsons / Overture from The Magic Flute by Mozart / Absurd Waltz (from Le Petit Prince) by Richard Harvey & Hans Zimmer / Johanna from Sweeney Todd by Stephen Sondheim / The Escape (from Le Petit Prince) by Richard Harvey & Hans Zimmer", "placement": "1st Place Open Class / 18th Place World Class", "score": 83.550}
+ ]
+}

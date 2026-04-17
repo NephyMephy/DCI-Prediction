@@ -1,0 +1,1242 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/28,Clifton,NJ,1,"Reading
+  Buccaneers",World Class,70.05,1981
+05/30,Gloversville,NY,1,"Reading
+  Buccaneers",World Class,75.65,1981
+05/28,Clifton,NJ,2,Hawthorne Caballeros,World Class,68.6,1981
+05/30,Gloversville,NY,2,Hawthorne Caballeros,World Class,71.5,1981
+05/28,Clifton,NJ,3,Sunrisers,World Class,65.7,1981
+05/30,Gloversville,NY,3,Sunrisers,World Class,69.2,1981
+05/28,Clifton,NJ,4,Westshoremen,World Class,63.15,1981
+05/30,Gloversville,NY,4,New York Skyliners,World Class,67.5,1981
+05/30,Gloversville,NY,5,Westshoremen,World Class,64.65,1981
+06/06,Mechanicsburg,PA,1,Reading Buccaneers,World Class,77.75,1981
+06/06,Hamden,CT,1,Hawthorne Caballeros,World Class,71.95,1981
+06/06,LaCrosse,WI,1,Madison Scouts,World Class,72.05,1981
+06/07,Decorah,IA,1,Madison Scouts,World Class,69.5,1981
+06/06,Mechanicsburg,PA,2,Westshoremen,World Class,69.15,1981
+06/06,Hamden,CT,2,New York Skyliners,World Class,70.4,1981
+06/06,LaCrosse,WI,2,Phantom Regiment,World Class,69.3,1981
+06/07,Decorah,IA,2,Phantom Regiment,World Class,66.9,1981
+06/06,Mechanicsburg,PA,3,Thunderbirds,World Class,49.25,1981
+06/06,Hamden,CT,3,Sunrisers,World Class,67.65,1981
+06/06,LaCrosse,WI,3,Blue Stars,World Class,58.05,1981
+06/07,Decorah,IA,3,Blue Stars,World Class,53.9,1981
+06/06,Hamden,CT,4,Connecticut Hurricanes,World Class,66.7,1981
+06/06,LaCrosse,WI,4,Knights,World Class,52.0,1981
+06/07,Decorah,IA,4,Knights,World Class,51.5,1981
+06/06,Hamden,CT,5,Matadors,World Class,61.35,1981
+06/06,LaCrosse,WI,5,Rivermen,World Class,50.45,1981
+06/07,Decorah,IA,5,Rivermen,World Class,47.9,1981
+06/07,Decorah,IA,6,Sundowners,World Class,23.8,1981
+06/07,Decorah,IA,7,Emerald Knights,World Class,20.7,1981
+06/12,Dubuque,IA,1,Madison Scouts,World Class,73.05,1981
+06/13,Dubois,PA,1,Reading Buccaneers,World Class,77.7,1981
+06/13,Lowell,MA,1,27th Lancers,World Class,73.4,1981
+06/13,Park Ridge,IL,1,Phantom Regiment,World Class,66.4,1981
+06/12,Dubuque,IA,2,Phantom Regiment,World Class,71.4,1981
+06/13,Dubois,PA,2,Sunrisers,World Class,72.45,1981
+06/13,Lowell,MA,2,Bridgemen,World Class,67.25,1981
+06/13,Park Ridge,IL,2,Blue Stars,World Class,52.7,1981
+06/12,Dubuque,IA,3,Knights,World Class,56.85,1981
+06/13,Dubois,PA,3,Westshoremen,World Class,71.5,1981
+06/13,Lowell,MA,3,Garfield Cadets,World Class,60.05,1981
+06/13,Park Ridge,IL,3,Knights,World Class,50.3,1981
+06/12,Dubuque,IA,4,Rivermen,World Class,53.95,1981
+06/13,Dubois,PA,4,Matadors,World Class,58.45,1981
+06/13,Lowell,MA,4,North Star,World Class,57.9,1981
+06/13,Park Ridge,IL,4,Guardsmen,World Class,42.05,1981
+06/12,Dubuque,IA,5,Sundowners,World Class,34.75,1981
+06/13,Dubois,PA,5,Rochester Crusaders,World Class,56.35,1981
+06/13,Lowell,MA,5,Crossmen,World Class,57.5,1981
+06/13,Park Ridge,IL,5,Royal Grenadiers,World Class,26.55,1981
+06/12,Dubuque,IA,6,Emerald Knights,World Class,30.45,1981
+06/13,Dubois,PA,6,Thunderbirds,World Class,51.95,1981
+06/13,Lowell,MA,6,Defenders,World Class,53.35,1981
+06/13,Park Ridge,IL,1,Cavalier Cadets,World Class,31.6,1981
+06/13,Park Ridge,IL,2,Madison Junior Scouts,World Class,31.3,1981
+06/13,Park Ridge,IL,3,Phantom Regiment Cadets,World Class,25.0,1981
+06/13,Park Ridge,IL,4,Kiltie Kadets,World Class,20.3,1981
+06/13,Park Ridge,IL,5,Los Charros,World Class,14.0,1981
+06/14,Green Bay,WI,1,Madison Scouts,World Class,69.0,1981
+06/20,Canton,IL,1,Phantom Regiment,World Class,70.2,1981
+06/20,Lynn,MA,1,Sunrisers,World Class,75.6,1981
+06/20,Hershey,PA,1,Reading Buccaneers,World Class,82.4,1981
+06/14,Green Bay,WI,2,Phantom Regiment,World Class,67.85,1981
+06/20,Canton,IL,2,Cavaliers,World Class,66.05,1981
+06/20,Lynn,MA,2,Hawthorne Caballeros,World Class,74.45,1981
+06/20,Hershey,PA,2,New York Skyliners,World Class,74.8,1981
+06/14,Green Bay,WI,3,Cavaliers,World Class,59.9,1981
+06/20,Canton,IL,3,Knights,World Class,60.25,1981
+06/20,Lynn,MA,3,Connecticut Hurricanes,World Class,69.1,1981
+06/20,Hershey,PA,3,Westshoremen,World Class,72.3,1981
+06/14,Green Bay,WI,4,Blue Stars,World Class,50.85,1981
+06/20,Canton,IL,4,Colts,World Class,49.25,1981
+06/20,Lynn,MA,4,Matadors,World Class,62.1,1981
+06/20,Hershey,PA,4,Rochester Crusaders,World Class,56.65,1981
+06/14,Green Bay,WI,5,Knights,World Class,50.25,1981
+06/20,Canton,IL,5,Emerald Knights,World Class,33.95,1981
+06/20,Hershey,PA,5,Thunderbirds,World Class,52.35,1981
+06/14,Green Bay,WI,6,Rivermen,World Class,46.2,1981
+06/20,Canton,IL,6,Statesmen,World Class,25.7,1981
+06/14,Green Bay,WI,7,Guardsmen,World Class,38.95,1981
+06/14,Green Bay,WI,8,Colts,World Class,35.45,1981
+06/14,Green Bay,WI,9,Pioneer,World Class,30.1,1981
+06/20,Milwaukee,WI,1,Blue Stars,World Class,58.9,1981
+06/21,Geneseo,IL,1,Phantom Regiment,World Class,74.4,1981
+06/23,Shreveport,LA,1,Madison Scouts,World Class,73.9,1981
+06/23,Salem,OR,1,Blue Devils,World Class,73.75,1981
+06/20,Milwaukee,WI,2,Saginaires,World Class,37.7,1981
+06/21,Geneseo,IL,2,Cavaliers,World Class,67.9,1981
+06/23,Shreveport,LA,2,Crossmen,World Class,65.25,1981
+06/23,Salem,OR,2,Freelancers,World Class,62.4,1981
+06/20,Milwaukee,WI,3,Americanos,World Class,32.1,1981
+06/21,Geneseo,IL,3,Knights,World Class,62.8,1981
+06/23,Shreveport,LA,3,Sky Ryders,World Class,64.0,1981
+06/23,Salem,OR,3,Seattle Imperials,World Class,50.8,1981
+06/20,Milwaukee,WI,4,Sundowners,World Class,30.0,1981
+06/21,Geneseo,IL,4,Colts,World Class,50.1,1981
+06/23,Shreveport,LA,4,Memphis Blues,World Class,57.55,1981
+06/23,Salem,OR,4,Valley Fever,World Class,50.3,1981
+06/21,Geneseo,IL,5,Emerald Knights,World Class,30.8,1981
+06/23,Shreveport,LA,5,Suncoast Sound,World Class,49.05,1981
+06/23,Salem,OR,5,Blue Devils B,World Class,40.35,1981
+06/21,Geneseo,IL,6,Statesmen,World Class,21.3,1981
+06/23,Shreveport,LA,6,Colts,World Class,38.95,1981
+06/23,Shreveport,LA,7,Imperial Guard,World Class,37.25,1981
+06/24,Houston,TX,1,Madison Scouts,World Class,71.6,1981
+06/25,Cary,NC,1,27th Lancers,World Class,74.65,1981
+06/25,Tacoma,WA,1,Blue Devils,World Class,75.25,1981
+06/26,Atlanta,GA,1,27th Lancers,World Class,75.75,1981
+06/24,Houston,TX,2,Crossmen,World Class,66.45,1981
+06/25,Cary,NC,2,Bridgemen,World Class,69.7,1981
+06/25,Tacoma,WA,2,Valley Fever,World Class,52.8,1981
+06/26,Atlanta,GA,2,Bridgemen,World Class,73.35,1981
+06/24,Houston,TX,3,Sky Ryders,World Class,63.65,1981
+06/25,Cary,NC,3,Spirit of Atlanta,World Class,63.35,1981
+06/25,Tacoma,WA,3,Seattle Imperials,World Class,45.55,1981
+06/26,Atlanta,GA,3,Spirit of Atlanta,World Class,63.85,1981
+06/24,Houston,TX,4,Memphis Blues,World Class,58.3,1981
+06/25,Cary,NC,4,North Star,World Class,60.35,1981
+06/25,Tacoma,WA,4,Blue Devils B,World Class,41.75,1981
+06/26,Atlanta,GA,4,North Star,World Class,61.85,1981
+06/24,Houston,TX,5,Suncoast Sound,World Class,50.1,1981
+06/25,Cary,NC,5,Defenders,World Class,53.2,1981
+06/25,Tacoma,WA,5,Velvet Knights,World Class,34.9,1981
+06/26,Atlanta,GA,5,Defenders,World Class,51.15,1981
+06/24,Houston,TX,6,Imperial Guard,World Class,39.4,1981
+06/25,Cary,NC,6,Long Island Kingsmen,World Class,39.15,1981
+06/26,Atlanta,GA,6,Guardsmen,World Class,45.4,1981
+06/24,Houston,TX,7,Colts,World Class,34.8,1981
+06/25,Tacoma,WA,1,Mandarins,World Class,36.95,1981
+06/26,Atlanta,GA,7,Pride of Cincinnati,World Class,43.7,1981
+06/25,Tacoma,WA,2,Marauders,World Class,23.65,1981
+06/26,Atlanta,GA,8,Southwind,World Class,39.05,1981
+06/26,Austin,TX,1,Madison Scouts,World Class,74.2,1981
+06/26,Burien,WA,1,Blue Devils,World Class,74.15,1981
+06/26,Denver,CO,1,Phantom Regiment,World Class,74.35,1981
+06/27,Birmingham,AL,1,27th Lancers,World Class,77.9,1981
+06/26,Austin,TX,2,Crossmen,World Class,70.3,1981
+06/26,Burien,WA,2,Freelancers,World Class,60.85,1981
+06/26,Denver,CO,2,Vanguard,World Class,73.4,1981
+06/27,Birmingham,AL,2,Bridgemen,World Class,74.9,1981
+06/26,Austin,TX,3,Sky Ryders,World Class,67.8,1981
+06/26,Burien,WA,3,Valley Fever,World Class,51.3,1981
+06/26,Denver,CO,3,Cavaliers,World Class,66.2,1981
+06/27,Birmingham,AL,3,Spirit of Atlanta,World Class,68.3,1981
+06/26,Austin,TX,4,Memphis Blues,World Class,60.88,1981
+06/26,Burien,WA,4,Seattle Imperials,World Class,46.4,1981
+06/26,Denver,CO,4,Troopers,World Class,62.3,1981
+06/27,Birmingham,AL,4,North Star,World Class,65.8,1981
+06/26,Austin,TX,5,Suncoast Sound,World Class,49.3,1981
+06/26,Burien,WA,5,Velvet Knights,World Class,30.25,1981
+06/26,Denver,CO,5,Blue Stars,World Class,56.9,1981
+06/27,Birmingham,AL,5,Defenders,World Class,54.65,1981
+06/26,Austin,TX,6,Imperial Guard,World Class,41.55,1981
+06/26,Burien,WA,6,Black Watch,World Class,16.0,1981
+06/26,Denver,CO,6,Knights,World Class,53.55,1981
+06/27,Birmingham,AL,6,Guardsmen,World Class,47.0,1981
+06/26,Austin,TX,7,Colts,World Class,40.75,1981
+06/26,Denver,CO,6,Rivermen,World Class,53.55,1981
+06/27,Birmingham,AL,7,Southwind,World Class,38.75,1981
+06/26,Burien,WA,1,Mandarins,World Class,36.95,1981
+06/26,Denver,CO,8,Ventures,World Class,31.95,1981
+06/27,Birmingham,AL,8,Long Island Kingsmen,World Class,37.9,1981
+06/26,Burien,WA,2,Marauders,World Class,23.65,1981
+06/27,Birmingham,AL,9,1st Canadian Regiment,World Class,25.35,1981
+06/27,Dallas,TX,1,Madison Scouts,World Class,74.3,1981
+06/27,Bridgeport,CT,1,Reading Buccaneers,World Class,76.85,1981
+06/27,Denver,CO,1,Phantom Regiment,World Class,76.55,1981
+06/27,Ferguson,MI,1,Imperials,World Class,41.9,1981
+06/27,Dallas,TX,2,Crossmen,World Class,68.85,1981
+06/27,Bridgeport,CT,2,Hawthorne Caballeros,World Class,74.15,1981
+06/27,Denver,CO,2,Vanguard,World Class,75.55,1981
+06/27,Ferguson,MI,2,Emerald Knights,World Class,39.3,1981
+06/27,Dallas,TX,3,Sky Ryders,World Class,67.7,1981
+06/27,Bridgeport,CT,3,New York Skyliners,World Class,72.35,1981
+06/27,Denver,CO,3,Cavaliers,World Class,68.55,1981
+06/27,Ferguson,MI,3,Royal Grenadiers,World Class,36.9,1981
+06/27,Dallas,TX,4,Memphis Blues,World Class,61.15,1981
+06/27,Bridgeport,CT,4,Connecticut Hurricanes,World Class,72.0,1981
+06/27,Denver,CO,4,Troopers,World Class,61.55,1981
+06/27,Ferguson,MI,4,Black Knights,World Class,32.9,1981
+06/27,Dallas,TX,5,Suncoast Sound,World Class,54.0,1981
+06/27,Bridgeport,CT,5,Matadors,World Class,57.85,1981
+06/27,Denver,CO,5,Blue Stars,World Class,58.55,1981
+06/27,Ferguson,MI,5,Vaqueros,World Class,23.9,1981
+06/27,Dallas,TX,6,Imperial Guard,World Class,48.65,1981
+06/27,Denver,CO,6,Knights,World Class,55.05,1981
+06/27,Ferguson,MI,6,Statesmen,World Class,22.4,1981
+06/27,Dallas,TX,7,San Jose Raiders,World Class,42.85,1981
+06/27,Denver,CO,7,Rivermen,World Class,55.6,1981
+06/27,Dallas,TX,8,Colts,World Class,41.85,1981
+06/27,Denver,CO,8,Ventures,World Class,33.2,1981
+06/27,Longview,WA,1,Freelancers,World Class,66.45,1981
+06/28,Springfield,IL,1,Emerald Knights,World Class,44.3,1981
+06/28,Seattle,WA,1,Blue Devils,World Class,77.35,1981
+06/29,Huntsville,AL,1,27th Lancers,World Class,76.0,1981
+06/27,Longview,WA,2,Valley Fever,World Class,54.25,1981
+06/28,Springfield,IL,2,Imperials,World Class,40.6,1981
+06/28,Seattle,WA,2,Freelancers,World Class,65.25,1981
+06/29,Huntsville,AL,2,Spirit of Atlanta,World Class,68.7,1981
+06/27,Longview,WA,3,Seattle Imperials,World Class,52.95,1981
+06/28,Springfield,IL,3,Royal Grenadiers,World Class,37.8,1981
+06/28,Seattle,WA,3,Valley Fever,World Class,55.95,1981
+06/29,Huntsville,AL,3,Defenders,World Class,55.35,1981
+06/27,Longview,WA,4,Velvet Knights,World Class,42.1,1981
+06/28,Springfield,IL,4,Memorial Lancers,World Class,36.6,1981
+06/28,Seattle,WA,4,Seattle Imperials,World Class,52.3,1981
+06/29,Huntsville,AL,4,Guardsmen,World Class,54.5,1981
+06/27,Longview,WA,5,Blue Devils B,World Class,41.65,1981
+06/28,Springfield,IL,5,Black Knights,World Class,34.9,1981
+06/28,Seattle,WA,5,Velvet Knights,World Class,42.7,1981
+06/29,Huntsville,AL,5,Avant Garde,World Class,48.65,1981
+06/28,Springfield,IL,6,Vaqueros,World Class,30.0,1981
+06/28,Seattle,WA,6,Pacific Blue,World Class,29.8,1981
+06/29,Huntsville,AL,6,Suncoast Sound,World Class,47.5,1981
+06/29,Huntsville,AL,7,San Jose Raiders,World Class,44.55,1981
+06/29,Huntsville,AL,8,Southwind,World Class,38.4,1981
+06/29,Tulsa,OK,1,Madison Scouts,World Class,72.65,1981
+06/30,Montgomery,AL,1,Bridgemen,World Class,75.1,1981
+06/30,Sevierville,TN,1,27th Lancers,World Class,77.5,1981
+06/30,Kansas City,MO,1,Madison Scouts,World Class,76.6,1981
+06/29,Tulsa,OK,2,Crossmen,World Class,67.7,1981
+06/30,Montgomery,AL,2,Spirit of Atlanta,World Class,68.45,1981
+06/30,Sevierville,TN,2,North Star,World Class,67.2,1981
+06/30,Kansas City,MO,2,Cavaliers,World Class,72.55,1981
+06/29,Tulsa,OK,3,Sky Ryders,World Class,58.75,1981
+06/30,Montgomery,AL,3,Avant Garde,World Class,55.45,1981
+06/30,Sevierville,TN,3,Defenders,World Class,55.6,1981
+06/30,Kansas City,MO,3,Crossmen,World Class,69.5,1981
+06/29,Tulsa,OK,4,Memphis Blues,World Class,57.05,1981
+06/30,Montgomery,AL,4,Southwind,World Class,48.75,1981
+06/30,Sevierville,TN,4,Guardsmen,World Class,53.65,1981
+06/30,Kansas City,MO,4,Sky Ryders,World Class,61.9,1981
+06/29,Tulsa,OK,5,Imperial Guard,World Class,44.55,1981
+06/30,Montgomery,AL,5,Long Island Kingsmen,World Class,39.55,1981
+06/30,Sevierville,TN,5,Pride of Cincinnati,World Class,47.5,1981
+06/30,Kansas City,MO,5,Blue Stars,World Class,59.5,1981
+06/29,Tulsa,OK,6,Colts,World Class,43.5,1981
+06/30,Montgomery,AL,6,1st Canadian Regiment,World Class,26.35,1981
+06/30,Sevierville,TN,6,San Jose Raiders,World Class,46.0,1981
+06/30,Kansas City,MO,6,Memphis Blues,World Class,57.1,1981
+06/30,Kansas City,MO,7,Imperial Guard,World Class,49.05,1981
+06/30,Kansas City,MO,8,Colts,World Class,44.2,1981
+07/01,Stockton,CA,1,Blue Devils,World Class,76.8,1981
+07/02,Lafayette,IN,1,27th Lancers,World Class,76.95,1981
+07/02,San Jose,CA,1,Blue Devils,World Class,76.25,1981
+07/03,Tampa Bay,FL,1,Bridgemen,World Class,77.6,1981
+07/01,Stockton,CA,2,Phantom Regiment,World Class,74.85,1981
+07/02,Lafayette,IN,2,North Star,World Class,65.65,1981
+07/02,San Jose,CA,2,Vanguard,World Class,75.9,1981
+07/03,Tampa Bay,FL,2,Spirit of Atlanta,World Class,72.35,1981
+07/01,Stockton,CA,3,Freelancers,World Class,62.1,1981
+07/02,Lafayette,IN,3,Memphis Blues,World Class,55.6,1981
+07/02,San Jose,CA,3,Phantom Regiment,World Class,74.6,1981
+07/03,Tampa Bay,FL,3,Sky Ryders,World Class,67.85,1981
+07/01,Stockton,CA,4,Troopers,World Class,59.6,1981
+07/02,Lafayette,IN,4,Defenders,World Class,54.85,1981
+07/02,San Jose,CA,4,Freelancers,World Class,65.05,1981
+07/03,Tampa Bay,FL,4,Avant Garde,World Class,61.85,1981
+07/01,Stockton,CA,5,Seattle Imperials,World Class,45.35,1981
+07/02,Lafayette,IN,5,Guardsmen,World Class,48.5,1981
+07/02,San Jose,CA,5,Troopers,World Class,64.8,1981
+07/01,Stockton,CA,6,Valley Fever,World Class,45.1,1981
+07/02,Lafayette,IN,6,San Jose Raiders,World Class,47.05,1981
+07/02,San Jose,CA,6,Rivermen,World Class,55.5,1981
+07/01,Stockton,CA,7,Ventures,World Class,29.9,1981
+07/02,Lafayette,IN,7,Pride of Cincinnati,World Class,43.15,1981
+07/02,San Jose,CA,7,Knights,World Class,54.4,1981
+07/02,San Jose,CA,8,Seattle Imperials,World Class,49.2,1981
+07/02,San Jose,CA,9,Ventures,World Class,31.3,1981
+07/03,Whitewater,WI,1,27th Lancers,World Class,78.65,1981
+07/03,Wheaton,IL,1,Guardsmen,World Class,63.1,1981
+07/04,Clinton,IA,1,Raiders,World Class,64.7,1981
+07/04,Monterey,CA,1,Blue Devils,World Class,77.1,1981
+07/03,Whitewater,WI,2,Madison Scouts,World Class,76.35,1981
+07/03,Wheaton,IL,2,Colts,World Class,49.15,1981
+07/04,Clinton,IA,2,Southernaires,World Class,52.3,1981
+07/04,Monterey,CA,2,Vanguard,World Class,74.95,1981
+07/03,Whitewater,WI,3,Crossmen,World Class,68.25,1981
+07/03,Wheaton,IL,3,Americanos,World Class,43.95,1981
+07/04,Clinton,IA,3,Royal Grenadiers,World Class,37.8,1981
+07/04,Monterey,CA,3,Freelancers,World Class,66.35,1981
+07/03,Whitewater,WI,4,Cavaliers,World Class,67.95,1981
+07/03,Wheaton,IL,4,Emerald Knights,World Class,38.35,1981
+07/04,Clinton,IA,4,Kilties,World Class,36.9,1981
+07/04,Monterey,CA,4,Troopers,World Class,64.55,1981
+07/03,Whitewater,WI,5,Garfield Cadets,World Class,67.0,1981
+07/03,Wheaton,IL,5,Black Knights,World Class,32.7,1981
+07/04,Clinton,IA,5,Hornets,World Class,35.1,1981
+07/04,Monterey,CA,5,Rivermen,World Class,52.2,1981
+07/03,Whitewater,WI,6,North Star,World Class,63.3,1981
+07/03,Wheaton,IL,6,Royal Grenadiers,World Class,32.3,1981
+07/04,Monterey,CA,6,Seattle Imperials,World Class,50.1,1981
+07/03,Whitewater,WI,7,Blue Stars,World Class,56.15,1981
+07/04,Monterey,CA,7,Knights,World Class,47.3,1981
+07/03,Whitewater,WI,8,Memphis Blues,World Class,55.75,1981
+07/04,Monterey,CA,8,Ventures,World Class,27.3,1981
+07/04,Mount Prospect,IL,1,Memphis Blues,World Class,66.55,1981
+07/04,New Berlin,WI,1,Americanos,World Class,59.0,1981
+07/04,Racine,WI,1,Blue Stars,World Class,60.7,1981
+07/04,Warren,PA,1,Les Eclipses,World Class,57.0,1981
+07/04,Mount Prospect,IL,2,Saginaires,World Class,52.55,1981
+07/04,New Berlin,WI,2,Sundowners,World Class,58.0,1981
+07/04,Racine,WI,2,Guardsmen,World Class,55.7,1981
+07/04,Warren,PA,2,Squires,World Class,53.6,1981
+07/04,Mount Prospect,IL,3,Colts,World Class,52.3,1981
+07/04,New Berlin,WI,3,Minnesota Brass,World Class,55.7,1981
+07/04,Racine,WI,3,Colts,World Class,44.0,1981
+07/04,Warren,PA,3,Bluecoats,World Class,51.1,1981
+07/04,Mount Prospect,IL,4,Pioneer,World Class,46.3,1981
+07/04,New Berlin,WI,4,Illiana Lancers,World Class,48.6,1981
+07/04,Racine,WI,4,Pioneer,World Class,40.4,1981
+07/04,Warren,PA,4,Vagabonds,World Class,43.75,1981
+07/04,Mount Prospect,IL,5,Emerald Knights,World Class,37.25,1981
+07/04,New Berlin,WI,5,CapitolAires,World Class,45.3,1981
+07/04,Racine,WI,5,Vaqueros,World Class,22.9,1981
+07/04,New Berlin,WI,6,Marquis,World Class,45.0,1981
+07/04,New Berlin,WI,7,Racine Scouts,World Class,41.7,1981
+07/04,Port Huron,MI,1,Madison Scouts,World Class,76.4,1981
+07/05,Los Angeles,CA,1,Blue Devils,World Class,80.55,1981
+07/05,Miami,FL,1,Bridgemen,World Class,76.3,1981
+07/05,Rochester,NY,1,Garfield Cadets,World Class,66.7,1981
+07/04,Port Huron,MI,2,Garfield Cadets,World Class,65.0,1981
+07/05,Los Angeles,CA,2,Phantom Regiment,World Class,77.8,1981
+07/05,Miami,FL,2,Spirit of Atlanta,World Class,71.1,1981
+07/05,Rochester,NY,2,North Star,World Class,65.8,1981
+07/04,Port Huron,MI,3,North Star,World Class,63.5,1981
+07/05,Los Angeles,CA,3,Vanguard,World Class,77.5,1981
+07/05,Miami,FL,3,Sky Ryders,World Class,67.7,1981
+07/05,Rochester,NY,3,Boston Crusaders,World Class,61.55,1981
+07/04,Port Huron,MI,4,Defenders,World Class,55.65,1981
+07/05,Los Angeles,CA,4,Freelancers,World Class,68.5,1981
+07/05,Miami,FL,4,Avant Garde,World Class,59.5,1981
+07/05,Rochester,NY,4,Defenders,World Class,60.3,1981
+07/04,Port Huron,MI,5,Pride of Cincinnati,World Class,47.65,1981
+07/05,Los Angeles,CA,5,Troopers,World Class,67.25,1981
+07/05,Miami,FL,5,1st Canadian Regiment,World Class,38.9,1981
+07/05,Los Angeles,CA,6,Rivermen,World Class,54.9,1981
+07/05,Los Angeles,CA,7,Knights,World Class,52.35,1981
+07/05,Los Angeles,CA,8,Seattle Imperials,World Class,49.9,1981
+07/05,Los Angeles,CA,9,Velvet Knights,World Class,38.9,1981
+07/05,Los Angeles,CA,10,Ventures,World Class,32.65,1981
+07/05,Dixon,IA,1,Colts,World Class,51.6,1981
+07/05,East Troy,WI,1,Pioneer,World Class,41.8,1981
+07/05,Madison,WI,1,Blue Stars,World Class,64.95,1981
+07/05,Bensenville,IL,1,Cavalier Cadets,World Class,52.5,1981
+07/05,Dixon,IA,2,Emerald Knights,World Class,36.9,1981
+07/05,East Troy,WI,2,Saginaires,World Class,40.8,1981
+07/05,Madison,WI,2,Memphis Blues,World Class,62.4,1981
+07/05,Bensenville,IL,2,Madison Junior Scouts,World Class,51.0,1981
+07/05,Dixon,IA,3,Royal Grenadiers,World Class,35.7,1981
+07/05,East Troy,WI,3,Americanos,World Class,36.7,1981
+07/05,Madison,WI,3,Guardsmen,World Class,59.55,1981
+07/05,Bensenville,IL,3,Phantom Regiment Cadets,World Class,50.6,1981
+07/05,Dixon,IA,4,Black Knights,World Class,33.8,1981
+07/05,East Troy,WI,4,Sundowners,World Class,36.4,1981
+07/05,Madison,WI,4,Blue Knights-CO,World Class,30.75,1981
+07/05,Bensenville,IL,4,Kiltie Kadets,World Class,39.0,1981
+07/05,Dixon,IA,5,Illiana Lancers,World Class,28.0,1981
+07/05,East Troy,WI,5,Imperials,World Class,30.1,1981
+07/05,Madison,WI,5,Marquis,World Class,23.25,1981
+07/05,Bensenville,IL,5,Los Charros,World Class,29.7,1981
+07/05,Dixon,IA,6,Statesmen,World Class,25.9,1981
+07/05,East Troy,WI,6,Blue Knights-MN,World Class,6.6,1981
+07/05,Madison,WI,6,Racine Scouts,World Class,9.95,1981
+07/06,Valdosta,GA,1,Bridgemen,World Class,78.9,1981
+07/07,Columbia,SC,1,Bridgemen,World Class,81.55,1981
+07/08,Charlotte,NC,1,Bridgemen,World Class,79.95,1981
+07/08,Malden,MA,1,27th Lancers,World Class,80.45,1981
+07/06,Valdosta,GA,2,Spirit of Atlanta,World Class,74.25,1981
+07/07,Columbia,SC,2,Spirit of Atlanta,World Class,76.15,1981
+07/08,Charlotte,NC,2,Spirit of Atlanta,World Class,75.85,1981
+07/08,Malden,MA,2,Madison Scouts,World Class,78.5,1981
+07/06,Valdosta,GA,3,Sky Ryders,World Class,69.35,1981
+07/07,Columbia,SC,3,Sky Ryders,World Class,70.25,1981
+07/08,Charlotte,NC,3,Sky Ryders,World Class,68.5,1981
+07/08,Malden,MA,3,Cavaliers,World Class,73.4,1981
+07/06,Valdosta,GA,4,Avant Garde,World Class,60.85,1981
+07/07,Columbia,SC,4,Avant Garde,World Class,62.9,1981
+07/08,Charlotte,NC,4,Avant Garde,World Class,64.75,1981
+07/08,Malden,MA,4,Garfield Cadets,World Class,72.0,1981
+07/06,Valdosta,GA,5,1st Canadian Regiment,World Class,38.6,1981
+07/07,Columbia,SC,5,Long Island Kingsmen,World Class,47.0,1981
+07/08,Charlotte,NC,5,Long Island Kingsmen,World Class,45.15,1981
+07/08,Malden,MA,5,North Star,World Class,67.65,1981
+07/07,Columbia,SC,6,1st Canadian Regiment,World Class,43.6,1981
+07/08,Malden,MA,6,Defenders,World Class,58.05,1981
+07/08,Malden,MA,7,Boston Crusaders,World Class,55.25,1981
+07/10,Garfield,NJ,1,Madison Scouts,World Class,81.45,1981
+07/10,Westminster,MD,1,Spirit of Atlanta,World Class,74.65,1981
+07/10,Fort Wayne,IN,1,Guardsmen,World Class,64.1,1981
+07/11,Grand Rapids,MI,1,Guardsmen,World Class,58.9,1981
+07/10,Garfield,NJ,2,27th Lancers,World Class,80.35,1981
+07/10,Westminster,MD,2,Crossmen,World Class,73.8,1981
+07/10,Fort Wayne,IN,2,Saginaires,World Class,42.9,1981
+07/11,Grand Rapids,MI,2,Saginaires,World Class,47.8,1981
+07/10,Garfield,NJ,3,Bridgemen,World Class,79.4,1981
+07/10,Westminster,MD,3,Sky Ryders,World Class,63.95,1981
+07/10,Fort Wayne,IN,3,Americanos,World Class,41.4,1981
+07/11,Grand Rapids,MI,3,General Putnam's Men,World Class,47.6,1981
+07/10,Garfield,NJ,4,Cavaliers,World Class,73.7,1981
+07/10,Westminster,MD,4,Defenders,World Class,61.2,1981
+07/10,Fort Wayne,IN,4,Coachmen,World Class,22.6,1981
+07/11,Grand Rapids,MI,4,Americanos,World Class,44.0,1981
+07/10,Garfield,NJ,5,Garfield Cadets,World Class,73.15,1981
+07/10,Westminster,MD,5,Boston Crusaders,World Class,55.35,1981
+07/10,Fort Wayne,IN,5,Statesmen,World Class,12.7,1981
+07/11,Grand Rapids,MI,5,Imperials,World Class,35.2,1981
+07/11,Grand Rapids,MI,6,Statesmen,World Class,21.1,1981
+07/11,Allentown,PA,1,Madison Scouts,World Class,82.45,1981
+07/11,Allentown,PA,1,27th Lancers,World Class,83.3,1981
+07/11,Meadowlands,NJ,1,"New York
+  Skyliners",World Class,81.0,1981
+07/12,Bridgeport,CT,1,27th Lancers,World Class,83.75,1981
+07/11,Allentown,PA,2,27th Lancers,World Class,81.9,1981
+07/11,Allentown,PA,2,Bridgemen,World Class,80.75,1981
+07/11,Meadowlands,NJ,2,Reading Buccaneers,World Class,80.7,1981
+07/12,Bridgeport,CT,2,Garfield Cadets,World Class,75.8,1981
+07/11,Allentown,PA,3,Bridgemen,World Class,81.1,1981
+07/11,Allentown,PA,3,Madison Scouts,World Class,79.95,1981
+07/11,Meadowlands,NJ,3,Sunrisers,World Class,79.9,1981
+07/12,Bridgeport,CT,3,North Star,World Class,74.1,1981
+07/11,Allentown,PA,4,Cavaliers,World Class,76.85,1981
+07/11,Allentown,PA,4,Crossmen,World Class,75.9,1981
+07/11,Meadowlands,NJ,4,Connecticut Hurricanes,World Class,78.55,1981
+07/12,Bridgeport,CT,4,Defenders,World Class,64.7,1981
+07/11,Allentown,PA,5,Crossmen,World Class,75.55,1981
+07/11,Allentown,PA,5,Cavaliers,World Class,75.3,1981
+07/11,Meadowlands,NJ,5,Westshoremen,World Class,75.35,1981
+07/12,Bridgeport,CT,5,Alliance,World Class,55.3,1981
+07/11,Allentown,PA,6,Garfield Cadets,World Class,74.9,1981
+07/11,Allentown,PA,6,Garfield Cadets,World Class,73.75,1981
+07/11,Meadowlands,NJ,6,Matadors,World Class,69.15,1981
+07/11,Allentown,PA,7,Spirit of Atlanta,World Class,74.65,1981
+07/11,Allentown,PA,7,Spirit of Atlanta,World Class,72.55,1981
+07/11,Allentown,PA,8,North Star,World Class,70.5,1981
+07/11,Allentown,PA,8,North Star,World Class,68.05,1981
+07/11,Allentown,PA,9,Defenders,World Class,65.8,1981
+07/11,Allentown,PA,9,Sky Ryders,World Class,63.6,1981
+07/11,Allentown,PA,10,Sky Ryders,World Class,64.35,1981
+07/11,Allentown,PA,10,Defenders,World Class,61.0,1981
+07/11,Allentown,PA,11,Boston Crusaders,World Class,61.15,1981
+07/11,Allentown,PA,11,Boston Crusaders,World Class,56.95,1981
+07/11,Allentown,PA,12,Avant Garde,World Class,57.75,1981
+07/11,Allentown,PA,12,Avant Garde,World Class,56.0,1981
+07/11,Allentown,PA,13,Alliance,World Class,56.15,1981
+07/11,Allentown,PA,14,Les Eclipses,World Class,50.5,1981
+07/11,Allentown,PA,15,Squires,World Class,49.5,1981
+07/11,Allentown,PA,16,Long Island Kingsmen,World Class,44.7,1981
+07/11,Allentown,PA,17,Patriots,World Class,40.05,1981
+07/11,Allentown,PA,18,Black Watch,World Class,37.7,1981
+07/11,Allentown,PA,19,CMCC Warriors,World Class,35.8,1981
+07/12,Saginaw,MI,1,Guardsmen,World Class,64.25,1981
+07/12,Racine,WI,1,Cavalier Cadets,World Class,42.4,1981
+07/17,Salinas,CA,1,Vanguard,World Class,82.1,1981
+07/18,Titusville,PA,1,Long Island Kingsmen,World Class,57.6,1981
+07/12,Saginaw,MI,2,General Putnam's Men,World Class,49.55,1981
+07/12,Racine,WI,2,Madison Junior Scouts,World Class,35.8,1981
+07/17,Salinas,CA,2,Valley Fever,World Class,60.55,1981
+07/18,Titusville,PA,2,Bluecoats,World Class,54.5,1981
+07/12,Saginaw,MI,3,Americanos,World Class,43.9,1981
+07/12,Racine,WI,3,Phantom Regiment Cadets,World Class,33.5,1981
+07/17,Salinas,CA,3,Velvet Knights,World Class,50.4,1981
+07/18,Titusville,PA,3,Vagabonds-NY,World Class,54.05,1981
+07/12,Saginaw,MI,4,Imperials,World Class,33.85,1981
+07/12,Racine,WI,4,Kiltie Kadets,World Class,25.0,1981
+07/18,Titusville,PA,4,Black Watch,World Class,52.7,1981
+07/12,Saginaw,MI,5,Coachmen,World Class,28.95,1981
+07/12,Racine,WI,5,Pioneer II,World Class,17.5,1981
+07/12,Saginaw,MI,6,Bandettes,World Class,28.65,1981
+07/12,Racine,WI,6,Los Charros,World Class,16.1,1981
+07/12,Saginaw,MI,7,Statesmen,World Class,19.9,1981
+07/18,Carlisle,PA,1,Reading Buccaneers,World Class,83.7,1981
+07/18,Kankakee,IL,1,Cavaliers,World Class,78.05,1981
+07/18,Etobicoke,Ontario,1,Ambassadors,World Class,70.0,1981
+07/18,Port Washington,WI,1,Cavalier Cadets,World Class,27.5,1981
+07/18,Carlisle,PA,2,Hawthorne Caballeros,World Class,80.2,1981
+07/18,Kankakee,IL,2,Guardsmen,World Class,66.6,1981
+07/18,Etobicoke,Ontario,2,Brantford Girls,World Class,68.2,1981
+07/18,Port Washington,WI,2,Madison Junior Scouts,World Class,25.0,1981
+07/18,Carlisle,PA,3,Westshoremen,World Class,77.9,1981
+07/18,Kankakee,IL,3,Blue Stars,World Class,65.4,1981
+07/18,Etobicoke,Ontario,3,Kiwanis Kavaliers,World Class,65.0,1981
+07/18,Port Washington,WI,3,Phantom Regiment Cadets,World Class,22.0,1981
+07/18,Carlisle,PA,4,Rochester Crusaders,World Class,64.85,1981
+07/18,Kankakee,IL,4,Colts,World Class,55.45,1981
+07/18,Port Washington,WI,4,Kiltie Kadets,World Class,13.8,1981
+07/18,Carlisle,PA,5,Thunderbirds,World Class,57.5,1981
+07/18,Kankakee,IL,5,Saginaires,World Class,53.25,1981
+07/18,Kankakee,IL,6,Imperials,World Class,43.35,1981
+07/18,Kankakee,IL,7,Vaqueros,World Class,33.5,1981
+07/18,Providence,RI,1,Sunrisers,World Class,80.0,1981
+07/19,Kewanee,IL,1,Phantom Regiment,World Class,82.9,1981
+07/19,Kitchner,Ontario,1,Kiwanis Kavaliers,World Class,68.0,1981
+07/21,Bustine,CA,1,Valley Fever,World Class,57.95,1981
+07/18,Providence,RI,2,Connecticut Hurricanes,World Class,76.1,1981
+07/19,Kewanee,IL,2,Knights,World Class,69.7,1981
+07/21,Bustine,CA,2,Blue Devils B,World Class,44.8,1981
+07/18,Providence,RI,3,New York Skyliners,World Class,75.6,1981
+07/19,Kewanee,IL,3,Blue Stars,World Class,66.4,1981
+07/19,Kitchner,Ontario,1,Ambassadors,World Class,73.0,1981
+07/21,Bustine,CA,3,Marauders,World Class,33.1,1981
+07/18,Providence,RI,4,Matadors,World Class,66.7,1981
+07/19,Kewanee,IL,4,Guardsmen,World Class,65.5,1981
+07/19,Kitchner,Ontario,2,Saint Andrew's,World Class,48.0,1981
+07/21,Bustine,CA,4,Argonauts,World Class,31.65,1981
+07/19,Kewanee,IL,5,Colts,World Class,58.7,1981
+07/19,Kewanee,IL,6,Saginaires,World Class,54.8,1981
+07/19,Kewanee,IL,7,Imperials,World Class,41.1,1981
+07/24,Corning,NY,1,Bridgemen,World Class,78.4,1981
+07/24,Fulton,MS,1,Spirit of Atlanta,World Class,80.5,1981
+07/24,Madison,WI,1,Madison Junior Scouts,World Class,86.1,1981
+07/24,Sacramento,CA,1,Blue Devils,World Class,86.1,1981
+07/24,Corning,NY,2,Garfield Cadets,World Class,73.55,1981
+07/24,Fulton,MS,2,Memphis Blues,World Class,72.3,1981
+07/24,Madison,WI,2,Cavalier Cadets,World Class,83.5,1981
+07/24,Sacramento,CA,2,Vanguard,World Class,83.5,1981
+07/24,Corning,NY,3,Defenders,World Class,63.7,1981
+07/24,Fulton,MS,3,Suncoast Sound,World Class,60.4,1981
+07/24,Madison,WI,3,Phantom Regiment Cadets,World Class,73.9,1981
+07/24,Sacramento,CA,3,Freelancers,World Class,73.9,1981
+07/24,Corning,NY,4,Boston Crusaders,World Class,63.3,1981
+07/24,Fulton,MS,4,Southwind,World Class,54.2,1981
+07/24,Madison,WI,4,Kiltie Kadets,World Class,62.2,1981
+07/24,Sacramento,CA,4,Valley Fever,World Class,62.2,1981
+07/24,Corning,NY,5,Avant Garde,World Class,59.8,1981
+07/24,Fulton,MS,5,Southernaires,World Class,52.9,1981
+07/24,Madison,WI,5,Pioneer II,World Class,60.7,1981
+07/24,Sacramento,CA,5,San Jose Raiders,World Class,60.7,1981
+07/24,Fulton,MS,6,Royal Lancers,World Class,36.9,1981
+07/24,Madison,WI,6,Los Charros,World Class,52.9,1981
+07/24,Sacramento,CA,6,Velvet Knights,World Class,52.9,1981
+07/24,Sacramento,CA,7,Mandarins,World Class,43.75,1981
+07/24,Sacramento,CA,8,Pacific Blue,World Class,24.25,1981
+07/25,Ithaca,NY,1,"27th
+  Lancers",World Class,83.25,1981
+07/25,Ithaca,NY,1,"27th
+  Lancers",World Class,84.25,1981
+07/25,DeKalb,IL,1,"Phantom
+  Regiment",World Class,83.6,1981
+07/25,DeKalb,IL,1,"Madison
+  Scouts",World Class,82.35,1981
+07/25,Ithaca,NY,2,Bridgemen,World Class,80.6,1981
+07/25,Ithaca,NY,2,Bridgemen,World Class,80.6,1981
+07/25,DeKalb,IL,2,Madison Scouts,World Class,81.65,1981
+07/25,DeKalb,IL,2,Phantom Regiment,World Class,81.05,1981
+07/25,Ithaca,NY,3,Crossmen,World Class,77.9,1981
+07/25,Ithaca,NY,3,Crossmen,World Class,78.9,1981
+07/25,DeKalb,IL,3,Cavaliers,World Class,76.65,1981
+07/25,DeKalb,IL,3,Cavaliers,World Class,76.6,1981
+07/25,Ithaca,NY,4,Garfield Cadets,World Class,76.7,1981
+07/25,Ithaca,NY,4,Garfield Cadets,World Class,75.55,1981
+07/25,DeKalb,IL,4,Knights,World Class,68.2,1981
+07/25,DeKalb,IL,4,Blue Stars,World Class,66.65,1981
+07/25,Ithaca,NY,5,North Star,World Class,71.65,1981
+07/25,Ithaca,NY,5,North Star,World Class,69.95,1981
+07/25,DeKalb,IL,5,Guardsmen,World Class,67.75,1981
+07/25,DeKalb,IL,5,Knights,World Class,66.45,1981
+07/25,Ithaca,NY,6,Defenders,World Class,66.65,1981
+07/25,Ithaca,NY,6,Boston Crusaders,World Class,63.6,1981
+07/25,DeKalb,IL,6,Blue Stars,World Class,67.15,1981
+07/25,DeKalb,IL,6,Guardsmen,World Class,65.65,1981
+07/25,Ithaca,NY,7,Boston Crusaders,World Class,65.55,1981
+07/25,Ithaca,NY,7,Defenders,World Class,63.5,1981
+07/25,DeKalb,IL,7,Rivermen,World Class,67.0,1981
+07/25,DeKalb,IL,7,Rivermen,World Class,64.55,1981
+07/25,Ithaca,NY,8,Avant Garde,World Class,62.95,1981
+07/25,Ithaca,NY,8,Avant Garde,World Class,59.4,1981
+07/25,DeKalb,IL,8,Colts,World Class,55.85,1981
+07/25,DeKalb,IL,8,Colts,World Class,55.65,1981
+07/25,Ithaca,NY,9,Squires,World Class,57.15,1981
+07/25,Ithaca,NY,9,Squires,World Class,54.7,1981
+07/25,DeKalb,IL,9,Pioneer,World Class,54.4,1981
+07/25,DeKalb,IL,9,Saginaires,World Class,51.95,1981
+07/25,Ithaca,NY,10,Les Eclipses,World Class,55.35,1981
+07/25,Ithaca,NY,10,Les Eclipses,World Class,53.9,1981
+07/25,DeKalb,IL,10,Saginaires,World Class,53.95,1981
+07/25,DeKalb,IL,10,Pioneer,World Class,50.85,1981
+07/25,Ithaca,NY,11,Alliance,World Class,54.55,1981
+07/25,DeKalb,IL,11,Imperial Guard,World Class,53.65,1981
+07/25,Ithaca,NY,12,Long Island Kingsmen,World Class,51.15,1981
+07/25,DeKalb,IL,12,Americanos,World Class,50.25,1981
+07/25,Ithaca,NY,13,Fantasia III,World Class,50.85,1981
+07/25,DeKalb,IL,13,Sundowners,World Class,48.55,1981
+07/25,Ithaca,NY,14,Les Chatelaines,World Class,46.55,1981
+07/25,DeKalb,IL,14,Emerald Knights,World Class,45.7,1981
+07/25,Ithaca,NY,15,"General Butler
+  Vagabonds",World Class,44.0,1981
+07/25,DeKalb,IL,15,Royal Grenadiers,World Class,44.05,1981
+07/25,Ithaca,NY,16,Cavaliers-MA,World Class,42.95,1981
+07/25,DeKalb,IL,16,Imperials,World Class,43.3,1981
+07/25,Ithaca,NY,17,Valley Airs,World Class,42.15,1981
+07/25,DeKalb,IL,17,Coachmen,World Class,40.4,1981
+07/25,Ithaca,NY,18,Black Watch,World Class,40.7,1981
+07/25,DeKalb,IL,18,Kilties,World Class,37.65,1981
+07/25,Ithaca,NY,19,Greece Cadets,World Class,39.95,1981
+07/25,DeKalb,IL,19,Marquis,World Class,36.75,1981
+07/25,Ithaca,NY,20,Volunteers,World Class,31.85,1981
+07/25,DeKalb,IL,20,Vaqueros,World Class,33.3,1981
+07/25,Ithaca,NY,21,Lockport Blazers,World Class,30.9,1981
+07/25,DeKalb,IL,21,Illiana Lancers,World Class,33.1,1981
+07/25,Ithaca,NY,22,Patriots,World Class,29.85,1981
+07/25,DeKalb,IL,22,CapitolAires,World Class,32.5,1981
+07/25,Ithaca,NY,23,Verona Eagles,World Class,29.05,1981
+07/25,DeKalb,IL,23,Black Knights,World Class,32.3,1981
+07/25,Ithaca,NY,24,Gauchos,World Class,28.45,1981
+07/25,DeKalb,IL,24,Voyagers,World Class,25.0,1981
+07/25,Ithaca,NY,25,Mello Dears,World Class,24.8,1981
+07/25,DeKalb,IL,25,Statesmen,World Class,23.25,1981
+07/25,Ithaca,NY,26,Frontiersmen,World Class,23.7,1981
+07/25,DeKalb,IL,26,Blue Knights-MN,World Class,15.85,1981
+07/25,Wesson,MS,1,"Spirit of
+  Atlanta",World Class,78.2,1981
+07/25,Scranton,PA,1,"Reading
+  Buccaneers",World Class,81.85,1981
+07/26,Derby,CT,1,"New York
+  Skyliners",World Class,78.15,1981
+07/26,Dolton,IL,1,Royal Grenadiers,World Class,45.2,1981
+07/25,Wesson,MS,2,Memphis Blues,World Class,74.1,1981
+07/25,Scranton,PA,2,Connecticut Hurricanes,World Class,77.8,1981
+07/26,Derby,CT,2,Connecticut Hurricanes,World Class,76.65,1981
+07/26,Dolton,IL,2,Imperials,World Class,44.55,1981
+07/25,Wesson,MS,3,Suncoast Sound,World Class,61.0,1981
+07/25,Scranton,PA,3,New York Skyliners,World Class,76.7,1981
+07/26,Derby,CT,3,Hawthorne Caballeros,World Class,76.45,1981
+07/26,Dolton,IL,3,Black Knights,World Class,38.7,1981
+07/25,Wesson,MS,4,Southwind,World Class,54.7,1981
+07/25,Scranton,PA,4,Westshoremen,World Class,71.5,1981
+07/26,Derby,CT,4,Sunrisers,World Class,75.4,1981
+07/26,Dolton,IL,4,Vaqueros,World Class,34.95,1981
+07/25,Wesson,MS,5,Southernaires,World Class,50.9,1981
+07/25,Scranton,PA,5,Rochester Crusaders,World Class,60.05,1981
+07/26,Derby,CT,5,Matadors,World Class,73.6,1981
+07/26,Dolton,IL,5,Statesmen,World Class,23.75,1981
+07/25,Wesson,MS,6,Royal Lancers,World Class,31.4,1981
+07/25,Scranton,PA,6,Erie Thunderbirds,World Class,50.05,1981
+08/01,Rochester,NY,1,Reading Buccaneers,World Class,83.5,1981
+08/01,Marion,OH,1,Phantom Regiment,World Class,84.15,1981
+08/01,Columbus,OH,1,Phantom Regiment,World Class,85.3,1981
+08/02,Cedar Rapids,IA,1,Madison Scouts,World Class,88.3,1981
+08/01,Rochester,NY,2,New York Skyliners,World Class,80.7,1981
+08/01,Marion,OH,2,Cavaliers,World Class,80.95,1981
+08/01,Columbus,OH,2,Cavaliers,World Class,81.6,1981
+08/02,Cedar Rapids,IA,2,Blue Stars,World Class,79.2,1981
+08/01,Rochester,NY,3,Sunrisers,World Class,78.7,1981
+08/01,Marion,OH,3,Garfield Cadets,World Class,76.45,1981
+08/01,Columbus,OH,3,Garfield Cadets,World Class,75.7,1981
+08/02,Cedar Rapids,IA,3,Knights,World Class,76.5,1981
+08/01,Rochester,NY,4,Hawthorne Caballeros,World Class,78.65,1981
+08/01,Marion,OH,4,Guardsmen,World Class,71.1,1981
+08/01,Columbus,OH,4,Memphis Blues,World Class,70.4,1981
+08/02,Cedar Rapids,IA,4,Rivermen,World Class,76.2,1981
+08/01,Rochester,NY,5,Connecticut Hurricanes,World Class,78.45,1981
+08/01,Marion,OH,5,Memphis Blues,World Class,68.95,1981
+08/01,Columbus,OH,5,Guardsmen,World Class,69.3,1981
+08/02,Cedar Rapids,IA,5,Pioneer,World Class,67.4,1981
+08/01,Rochester,NY,6,Westshoremen,World Class,78.25,1981
+08/01,Marion,OH,6,Valley Fever,World Class,62.9,1981
+08/01,Columbus,OH,6,Valley Fever,World Class,63.6,1981
+08/02,Cedar Rapids,IA,6,Sundowners,World Class,60.6,1981
+08/01,Rochester,NY,7,Rochester Crusaders,World Class,65.0,1981
+08/01,Marion,OH,7,Squires,World Class,62.2,1981
+08/01,Columbus,OH,7,Pride of Cincinnati,World Class,62.75,1981
+08/01,Rochester,NY,8,Matadors,World Class,63.8,1981
+08/01,Marion,OH,8,Pride of Cincinnati,World Class,62.0,1981
+08/01,Columbus,OH,8,Les Eclipses,World Class,61.2,1981
+08/01,Rochester,NY,9,Thunderbirds,World Class,56.05,1981
+08/01,Marion,OH,9,Les Eclipses,World Class,59.1,1981
+08/01,Columbus,OH,9,Squires,World Class,58.55,1981
+08/01,Rochester,NY,10,Canadian Regionaires,World Class,41.4,1981
+08/01,Marion,OH,10,Colts,World Class,57.7,1981
+08/01,Columbus,OH,10,Colts,World Class,57.0,1981
+08/01,Marion,OH,11,Saginaires,World Class,54.1,1981
+08/01,Marion,OH,12,Vagabonds,World Class,52.7,1981
+08/01,Marion,OH,13,Long Island Kingsmen,World Class,51.0,1981
+08/01,Marion,OH,14,General Putnam's Men,World Class,48.85,1981
+08/01,Marion,OH,15,CMCC Warriors,World Class,45.9,1981
+08/01,Marion,OH,16,Black Watch,World Class,43.0,1981
+08/01,Marion,OH,17,Black Knights,World Class,38.45,1981
+08/02,Dayton,OH,1,Phantom Regiment,World Class,85.05,1981
+08/03,Sioux City,IA,1,Blue Devils,World Class,89.6,1981
+08/03,Fort Madison,IA,1,Madison Scouts,World Class,83.6,1981
+08/04,Toledo,OH,1,Garfield Cadets,World Class,80.05,1981
+08/02,Dayton,OH,2,Garfield Cadets,World Class,77.4,1981
+08/03,Sioux City,IA,2,Vanguard,World Class,88.3,1981
+08/03,Fort Madison,IA,2,Blue Stars,World Class,73.6,1981
+08/04,Toledo,OH,2,Guardsmen,World Class,73.4,1981
+08/02,Dayton,OH,3,Guardsmen,World Class,72.05,1981
+08/03,Sioux City,IA,3,Sky Ryders,World Class,77.7,1981
+08/03,Fort Madison,IA,3,Rivermen,World Class,71.1,1981
+08/04,Toledo,OH,3,Memphis Blues,World Class,73.05,1981
+08/02,Dayton,OH,4,Memphis Blues,World Class,69.45,1981
+08/03,Sioux City,IA,4,Troopers,World Class,76.6,1981
+08/03,Fort Madison,IA,4,Pioneer,World Class,63.5,1981
+08/04,Toledo,OH,4,Boston Crusaders,World Class,65.1,1981
+08/02,Dayton,OH,5,Pride of Cincinnati,World Class,61.35,1981
+08/03,Sioux City,IA,5,Seattle Imperials,World Class,71.1,1981
+08/03,Fort Madison,IA,5,Sundowners,World Class,55.6,1981
+08/04,Toledo,OH,5,Pride of Cincinnati,World Class,63.75,1981
+08/02,Dayton,OH,6,Long Island Kingsmen,World Class,53.2,1981
+08/04,Toledo,OH,6,Les Eclipses,World Class,61.5,1981
+08/02,Dayton,OH,7,Ventures,World Class,46.65,1981
+08/04,Toledo,OH,7,Valley Fever,World Class,61.4,1981
+08/04,Toledo,OH,8,Squires,World Class,58.4,1981
+08/04,Toledo,OH,9,Long Island Kingsmen,World Class,57.55,1981
+08/04,Toledo,OH,10,Bluecoats,World Class,56.35,1981
+08/04,Toledo,OH,11,Saginaires,World Class,53.0,1981
+08/04,Toledo,OH,12,General Putnam's Men,World Class,50.15,1981
+08/04,Toledo,OH,13,CMCC Warriors,World Class,47.55,1981
+08/04,Toledo,OH,1,Garfield Cadets,World Class,79.75,1981
+08/05,Minneapolis,MN,1,Blue Devils,World Class,82.9,1981
+08/06,Stillwater,MN,1,Blue Devils,World Class,85.55,1981
+08/07,Indianapolis,IN,1,Crossmen,World Class,81.9,1981
+08/04,Toledo,OH,2,Guardsmen,World Class,73.75,1981
+08/05,Minneapolis,MN,2,Madison Scouts,World Class,80.55,1981
+08/06,Stillwater,MN,2,Madison Scouts,World Class,84.35,1981
+08/07,Indianapolis,IN,2,Spirit of Atlanta,World Class,79.6,1981
+08/04,Toledo,OH,3,Memphis Blues,World Class,73.55,1981
+08/05,Minneapolis,MN,3,Freelancers,World Class,74.15,1981
+08/06,Stillwater,MN,3,Vanguard,World Class,82.35,1981
+08/07,Indianapolis,IN,3,North Star,World Class,75.5,1981
+08/04,Toledo,OH,4,Boston Crusaders,World Class,66.1,1981
+08/05,Minneapolis,MN,4,Blue Stars,World Class,65.85,1981
+08/06,Stillwater,MN,4,Bridgemen,World Class,82.1,1981
+08/07,Indianapolis,IN,4,Defenders,World Class,68.65,1981
+08/04,Toledo,OH,5,Pride of Cincinnati,World Class,64.65,1981
+08/05,Minneapolis,MN,5,Rivermen,World Class,64.6,1981
+08/06,Stillwater,MN,5,Garfield Cadets,World Class,79.75,1981
+08/07,Indianapolis,IN,5,Pride of Cincinnati,World Class,61.45,1981
+08/04,Toledo,OH,6,Les Eclipses,World Class,63.85,1981
+08/06,Stillwater,MN,6,Blue Stars,World Class,66.45,1981
+08/07,Indianapolis,IN,6,Imperial Guard,World Class,56.3,1981
+08/04,Toledo,OH,7,Squires,World Class,63.15,1981
+08/06,Stillwater,MN,7,Seattle Imperials,World Class,64.15,1981
+08/04,Toledo,OH,8,Valley Fever,World Class,63.05,1981
+08/06,Stillwater,MN,8,Rivermen,World Class,62.15,1981
+08/04,Toledo,OH,9,Long Island Kingsmen,World Class,57.4,1981
+08/04,Toledo,OH,10,Bluecoats,World Class,56.4,1981
+08/07,Rockford,IL,1,Madison Scouts,World Class,85.65,1981
+08/07,Racine,WI,1,Troopers,World Class,76.25,1981
+08/08,Whitewater,WI,1,Blue Devils,World Class,87.9,1981
+08/08,Whitewater,WI,1,Madison Scouts,World Class,86.9,1981
+08/07,Rockford,IL,2,Phantom Regiment,World Class,85.45,1981
+08/07,Racine,WI,2,Guardsmen,World Class,73.8,1981
+08/08,Whitewater,WI,2,Vanguard,World Class,87.55,1981
+08/08,Whitewater,WI,2,Blue Devils,World Class,85.75,1981
+08/07,Rockford,IL,3,Blue Devils,World Class,85.4,1981
+08/07,Racine,WI,3,Seattle Imperials,World Class,67.9,1981
+08/08,Whitewater,WI,3,Madison Scouts,World Class,87.2,1981
+08/08,Whitewater,WI,3,Vanguard,World Class,85.4,1981
+08/07,Rockford,IL,4,27th Lancers,World Class,84.8,1981
+08/07,Racine,WI,4,Pioneer,World Class,54.95,1981
+08/08,Whitewater,WI,4,Phantom Regiment,World Class,85.5,1981
+08/08,Whitewater,WI,4,Phantom Regiment,World Class,84.35,1981
+08/07,Rockford,IL,5,Bridgemen,World Class,81.85,1981
+08/07,Racine,WI,5,Royal Grenadiers,World Class,43.45,1981
+08/08,Whitewater,WI,5,27th Lancers,World Class,84.6,1981
+08/08,Whitewater,WI,5,27th Lancers,World Class,83.2,1981
+08/07,Rockford,IL,6,Memphis Blues,World Class,66.9,1981
+08/07,Racine,WI,6,Vaqueros,World Class,32.2,1981
+08/08,Whitewater,WI,6,Bridgemen,World Class,83.9,1981
+08/08,Whitewater,WI,6,Garfield Cadets,World Class,80.65,1981
+08/07,Rockford,IL,7,Valiant Knights,World Class,40.1,1981
+08/07,Racine,WI,7,Statesmen,World Class,23.8,1981
+08/08,Whitewater,WI,7,Garfield Cadets,World Class,81.45,1981
+08/08,Whitewater,WI,7,Bridgemen,World Class,80.15,1981
+08/08,Whitewater,WI,8,Cavaliers,World Class,80.75,1981
+08/08,Whitewater,WI,8,Cavaliers,World Class,78.35,1981
+08/08,Whitewater,WI,9,Crossmen,World Class,79.4,1981
+08/08,Whitewater,WI,9,Crossmen,World Class,78.2,1981
+08/08,Whitewater,WI,10,Spirit of Atlanta,World Class,79.3,1981
+08/08,Whitewater,WI,10,Spirit of Atlanta,World Class,77.5,1981
+08/08,Whitewater,WI,11,Troopers,World Class,76.4,1981
+08/08,Whitewater,WI,11,Troopers,World Class,73.8,1981
+08/08,Whitewater,WI,12,Sky Ryders,World Class,75.65,1981
+08/08,Whitewater,WI,12,Sky Ryders,World Class,71.8,1981
+08/08,Whitewater,WI,13,North Star,World Class,75.4,1981
+08/08,Whitewater,WI,14,Freelancers,World Class,74.7,1981
+08/08,Whitewater,WI,15,Guardsmen,World Class,73.8,1981
+08/08,Whitewater,WI,16,Blue Stars,World Class,71.6,1981
+08/08,Whitewater,WI,17,Memphis Blues,World Class,69.3,1981
+08/08,Whitewater,WI,18,Knights,World Class,68.4,1981
+08/08,Whitewater,WI,19,Defenders,World Class,67.0,1981
+08/08,Whitewater,WI,20,Rivermen,World Class,65.85,1981
+08/08,Whitewater,WI,21,Boston Crusaders,World Class,65.65,1981
+08/08,Whitewater,WI,22,Seattle Imperials,World Class,65.35,1981
+08/08,Whitewater,WI,23,Avant Garde,World Class,64.9,1981
+08/08,Whitewater,WI,24,San Jose Raiders,World Class,63.85,1981
+08/08,Whitewater,WI,25,Bluecoats,World Class,58.95,1981
+08/08,Whitewater,WI,26,Colts,World Class,58.75,1981
+08/08,Whitewater,WI,27,1st Canadian Regiment,World Class,47.9,1981
+08/08,Lewisburg,PA,1,Reading Buccaneers,World Class,83.5,1981
+08/09,Alton,IL,1,Bridgemen,World Class,84.75,1981
+08/09,East Rutherford,NJ,1,Reading Buccaneers,World Class,82.8,1981
+08/09,Mendota,IL,1,Colts,World Class,63.5,1981
+08/08,Lewisburg,PA,2,Hawthorne Caballeros,World Class,82.55,1981
+08/09,Alton,IL,2,Garfield Cadets,World Class,84.25,1981
+08/09,East Rutherford,NJ,2,Connecticut Hurricanes,World Class,81.15,1981
+08/09,Mendota,IL,2,Valley Fever,World Class,58.3,1981
+08/08,Lewisburg,PA,3,Westshoremen,World Class,81.4,1981
+08/09,Alton,IL,3,Spirit of Atlanta,World Class,79.15,1981
+08/09,East Rutherford,NJ,3,Sunrisers,World Class,80.95,1981
+08/09,Mendota,IL,3,Pioneer,World Class,54.9,1981
+08/08,Lewisburg,PA,4,Rochester Crusaders,World Class,69.2,1981
+08/09,Alton,IL,4,North Star,World Class,74.95,1981
+08/09,East Rutherford,NJ,4,New York Skyliners,World Class,80.0,1981
+08/09,Mendota,IL,4,Americanos,World Class,47.7,1981
+08/08,Lewisburg,PA,5,Thunderbirds,World Class,58.55,1981
+08/09,Alton,IL,5,Troopers,World Class,74.0,1981
+08/09,East Rutherford,NJ,5,Westshoremen,World Class,75.1,1981
+08/09,Mendota,IL,5,Emerald Knights,World Class,38.0,1981
+08/08,Lewisburg,PA,6,Archer Epler Muskateers,World Class,48.45,1981
+08/09,Alton,IL,6,Sky Ryders,World Class,73.45,1981
+08/09,East Rutherford,NJ,6,Matadors,World Class,68.4,1981
+08/09,Mendota,IL,6,Valiant Knights,World Class,36.7,1981
+08/08,Lewisburg,PA,7,Steel City Ambassadors,World Class,44.2,1981
+08/09,Alton,IL,7,Guardsmen,World Class,72.2,1981
+08/09,East Rutherford,NJ,7,Archer Epler Muskateers,World Class,50.4,1981
+08/09,Mendota,IL,7,CapitolAires,World Class,26.7,1981
+08/08,Lewisburg,PA,8,Yankee Rebels,World Class,40.7,1981
+08/09,Alton,IL,8,Defenders,World Class,68.75,1981
+08/10,Cincinnati,OH,1,Vanguard,World Class,89.1,1981
+08/10,Sevierville,TN,1,Cavaliers,World Class,81.4,1981
+08/10,Columbus,OH,1,Madison Scouts,World Class,87.1,1981
+08/10,Ottawa,OH,1,Valley Fever,World Class,62.1,1981
+08/10,Cincinnati,OH,2,Madison Scouts,World Class,88.9,1981
+08/10,Sevierville,TN,2,North Star,World Class,75.8,1981
+08/10,Columbus,OH,2,27th Lancers,World Class,85.8,1981
+08/10,Ottawa,OH,2,Saginaires,World Class,57.8,1981
+08/10,Cincinnati,OH,3,Blue Devils,World Class,87.45,1981
+08/10,Sevierville,TN,3,Sky Ryders,World Class,75.55,1981
+08/10,Columbus,OH,3,Bridgemen,World Class,84.85,1981
+08/10,Ottawa,OH,3,Pioneer,World Class,55.2,1981
+08/10,Cincinnati,OH,4,Crossmen,World Class,82.8,1981
+08/10,Sevierville,TN,4,Seattle Imperials,World Class,66.25,1981
+08/10,Columbus,OH,4,Blue Stars,World Class,74.25,1981
+08/10,Ottawa,OH,4,Americanos,World Class,50.3,1981
+08/10,Cincinnati,OH,5,Garfield Cadets,World Class,81.75,1981
+08/10,Sevierville,TN,5,Rivermen,World Class,65.9,1981
+08/10,Columbus,OH,5,Pride of Cincinnati,World Class,61.85,1981
+08/10,Ottawa,OH,5,Sundowners,World Class,46.7,1981
+08/10,Cincinnati,OH,6,Pride of Cincinnati,World Class,64.85,1981
+08/10,Sevierville,TN,6,Arcs-en-ciel,World Class,56.8,1981
+08/10,Columbus,OH,6,Bluecoats,World Class,54.7,1981
+08/10,Ottawa,OH,6,Bandettes,World Class,33.6,1981
+08/10,Cincinnati,OH,7,San Jose Raiders,World Class,63.0,1981
+08/10,Sevierville,TN,7,Southwind,World Class,49.75,1981
+08/10,Columbus,OH,7,General Putnam's Men,World Class,47.85,1981
+08/11,Louisville,KY,1,Blue Devils,World Class,89.85,1981
+08/11,South Pittsburgh,TN,1,Cavaliers,World Class,81.4,1981
+08/12,Butler,PA,1,Freelancers,World Class,77.95,1981
+08/12,Butler,PA,1,27th Lancers,World Class,86.45,1981
+08/11,Louisville,KY,2,Spirit of Atlanta,World Class,82.7,1981
+08/11,South Pittsburgh,TN,2,Sky Ryders,World Class,73.7,1981
+08/12,Butler,PA,2,Valley Fever,World Class,67.65,1981
+08/12,Butler,PA,2,Bridgemen,World Class,85.45,1981
+08/11,Louisville,KY,3,Freelancers,World Class,77.1,1981
+08/11,South Pittsburgh,TN,3,North Star,World Class,72.7,1981
+08/12,Butler,PA,3,San Jose Raiders,World Class,62.9,1981
+08/12,Butler,PA,3,Crossmen,World Class,81.7,1981
+08/11,Louisville,KY,4,Guardsmen,World Class,74.7,1981
+08/11,South Pittsburgh,TN,4,Avant Garde,World Class,64.3,1981
+08/12,Butler,PA,4,Squires,World Class,62.7,1981
+08/12,Butler,PA,4,Freelancers,World Class,78.3,1981
+08/11,Louisville,KY,5,Defenders,World Class,70.8,1981
+08/11,South Pittsburgh,TN,5,Rivermen,World Class,62.6,1981
+08/12,Butler,PA,5,Alliance,World Class,61.9,1981
+08/12,Butler,PA,5,Valley Fever,World Class,67.8,1981
+08/11,Louisville,KY,6,Imperial Guard,World Class,60.0,1981
+08/11,South Pittsburgh,TN,6,Arcs-en-ciel,World Class,54.15,1981
+08/12,Butler,PA,6,Bluecoats,World Class,58.25,1981
+08/12,Butler,PA,6,San Jose Raiders,World Class,64.65,1981
+08/11,Louisville,KY,7,Long Island Kingsmen,World Class,57.85,1981
+08/11,South Pittsburgh,TN,7,Southwind,World Class,43.1,1981
+08/12,Butler,PA,7,Saginaires,World Class,55.6,1981
+08/12,Butler,PA,7,Squires,World Class,60.9,1981
+08/12,Butler,PA,8,Long Island Kingsmen,World Class,55.4,1981
+08/12,Butler,PA,8,Alliance,World Class,59.35,1981
+08/12,Butler,PA,9,Vagabonds,World Class,54.4,1981
+08/12,Butler,PA,9,Bluecoats,World Class,55.85,1981
+08/12,Butler,PA,10,Americanos,World Class,53.3,1981
+08/12,Butler,PA,10,Long Island Kingsmen,World Class,52.45,1981
+08/12,Butler,PA,11,Caballaros,World Class,50.05,1981
+08/12,Butler,PA,11,Saginaires,World Class,49.4,1981
+08/12,Butler,PA,12,1st Canadian Regiment,World Class,46.75,1981
+08/12,Butler,PA,12,Vagabonds,World Class,49.3,1981
+08/12,Butler,PA,13,Valiant Knights,World Class,43.15,1981
+08/12,Butler,PA,14,Kilties,World Class,41.5,1981
+08/12,Cullowhee,NC,1,Cavaliers,World Class,83.35,1981
+08/13,Lansdale,PA,1,Blue Devils,World Class,87.8,1981
+08/14,Ypsilanti,MI,1,Vanguard,World Class,89.05,1981
+08/14,Ypsilanti,MI,1,Vanguard,World Class,90.1,1981
+08/12,Cullowhee,NC,2,Sky Ryders,World Class,78.95,1981
+08/13,Lansdale,PA,2,27th Lancers,World Class,87.0,1981
+08/14,Ypsilanti,MI,2,Phantom Regiment,World Class,87.7,1981
+08/14,Ypsilanti,MI,2,Phantom Regiment,World Class,89.6,1981
+08/12,Cullowhee,NC,3,North Star,World Class,78.7,1981
+08/13,Lansdale,PA,3,Crossmen,World Class,82.35,1981
+08/14,Ypsilanti,MI,3,Madison Scouts,World Class,87.25,1981
+08/14,Ypsilanti,MI,3,Madison Scouts,World Class,89.55,1981
+08/12,Cullowhee,NC,4,Rivermen,World Class,70.05,1981
+08/13,Lansdale,PA,4,Spirit of Atlanta,World Class,78.3,1981
+08/14,Ypsilanti,MI,4,Freelancers,World Class,80.0,1981
+08/14,Ypsilanti,MI,4,Freelancers,World Class,81.7,1981
+08/12,Cullowhee,NC,5,Avant Garde,World Class,68.25,1981
+08/13,Lansdale,PA,5,Blue Stars,World Class,71.3,1981
+08/14,Ypsilanti,MI,5,Guardsmen,World Class,74.6,1981
+08/14,Ypsilanti,MI,5,Guardsmen,World Class,75.25,1981
+08/12,Cullowhee,NC,6,Seattle Imperials,World Class,67.7,1981
+08/13,Lansdale,PA,6,Memphis Blues,World Class,68.0,1981
+08/14,Ypsilanti,MI,6,Defenders,World Class,73.95,1981
+08/14,Ypsilanti,MI,6,Defenders,World Class,74.55,1981
+08/12,Cullowhee,NC,7,Arcs-en-ciel,World Class,59.8,1981
+08/14,Ypsilanti,MI,7,Knights,World Class,68.05,1981
+08/14,Ypsilanti,MI,7,Knights,World Class,72.75,1981
+08/12,Cullowhee,NC,8,Southwind,World Class,53.6,1981
+08/14,Ypsilanti,MI,8,Valley Fever,World Class,67.25,1981
+08/14,Ypsilanti,MI,8,Valley Fever,World Class,68.25,1981
+08/14,Ypsilanti,MI,9,Bluecoats,World Class,61.1,1981
+08/14,Ypsilanti,MI,9,Bluecoats,World Class,59.4,1981
+08/14,Ypsilanti,MI,10,Colts,World Class,60.1,1981
+08/14,Ypsilanti,MI,10,Colts,World Class,58.55,1981
+08/14,Ypsilanti,MI,11,Long Island Kingsmen,World Class,59.65,1981
+08/14,Ypsilanti,MI,12,Squires,World Class,58.75,1981
+08/14,Ypsilanti,MI,13,Pride of Cincinnati,World Class,56.5,1981
+08/14,Ypsilanti,MI,14,Velvet Knights,World Class,54.6,1981
+08/14,Ypsilanti,MI,15,Glassmen,World Class,52.1,1981
+08/14,Ypsilanti,MI,16,Dutch Boy,World Class,51.95,1981
+08/14,Ypsilanti,MI,17,Pioneer,World Class,50.6,1981
+08/14,Ypsilanti,MI,18,1st Canadian Regiment,World Class,49.15,1981
+08/14,Ypsilanti,MI,19,Caballaros,World Class,46.35,1981
+08/14,Ypsilanti,MI,20,Imperials,World Class,43.8,1981
+08/14,Ypsilanti,MI,21,General Putnam's Men,World Class,43.35,1981
+08/14,Ypsilanti,MI,22,Emerald Knights,World Class,36.95,1981
+08/14,Ypsilanti,MI,23,Royal Grenadiers,World Class,36.05,1981
+08/14,Ypsilanti,MI,24,Coachmen,World Class,29.15,1981
+08/14,Bayonne,NJ,1,Blue Devils,World Class,88.6,1981
+08/15,Lynn,MA,1,Sky Ryders,World Class,79.95,1981
+08/15,Lynn,MA,1,Bridgemen,World Class,87.95,1981
+08/15,Kitchener,Ontario,1,Vanguard,World Class,89.8,1981
+08/14,Bayonne,NJ,2,27th Lancers,World Class,87.95,1981
+08/15,Lynn,MA,2,Troopers,World Class,77.45,1981
+08/15,Lynn,MA,2,Garfield Cadets,World Class,85.4,1981
+08/15,Kitchener,Ontario,2,Phantom Regiment,World Class,88.4,1981
+08/14,Bayonne,NJ,3,Bridgemen,World Class,86.35,1981
+08/15,Lynn,MA,3,San Jose Raiders,World Class,72.6,1981
+08/15,Lynn,MA,3,North Star,World Class,80.6,1981
+08/15,Kitchener,Ontario,3,Freelancers,World Class,80.55,1981
+08/14,Bayonne,NJ,4,Garfield Cadets,World Class,83.5,1981
+08/15,Lynn,MA,4,Avant Garde,World Class,71.75,1981
+08/15,Lynn,MA,4,Troopers,World Class,78.85,1981
+08/15,Kitchener,Ontario,4,Ventures,World Class,54.45,1981
+08/14,Bayonne,NJ,5,Spirit of Atlanta,World Class,82.05,1981
+08/15,Lynn,MA,5,Seattle Imperials,World Class,69.55,1981
+08/15,Lynn,MA,5,Sky Ryders,World Class,77.85,1981
+08/15,Kitchener,Ontario,5,Dutch Boy,World Class,54.1,1981
+08/15,Lynn,MA,6,Boston Crusaders,World Class,69.1,1981
+08/15,Lynn,MA,6,Blue Stars,World Class,76.55,1981
+08/15,Kitchener,Ontario,6,Pioneer,World Class,53.8,1981
+08/15,Lynn,MA,7,Rivermen,World Class,68.8,1981
+08/15,Lynn,MA,7,Avant Garde,World Class,70.75,1981
+08/15,Kitchener,Ontario,7,1st Canadian Regiment,World Class,48.7,1981
+08/15,Lynn,MA,8,Suncoast Sound,World Class,68.1,1981
+08/15,Lynn,MA,8,Seattle Imperials,World Class,69.45,1981
+08/15,Lynn,MA,9,Les Eclipses,World Class,65.9,1981
+08/15,Lynn,MA,9,San Jose Raiders,World Class,67.15,1981
+08/15,Lynn,MA,10,Alliance,World Class,64.35,1981
+08/15,Lynn,MA,10,Boston Crusaders,World Class,67.1,1981
+08/15,Lynn,MA,11,Saint Ignatius,World Class,59.65,1981
+08/15,Lynn,MA,12,Les Adventuriers,World Class,59.2,1981
+08/15,Lynn,MA,13,Vagabonds,World Class,56.45,1981
+08/15,Lynn,MA,14,Cavaliers-MA,World Class,55.45,1981
+08/15,Lynn,MA,15,Amvet Brigadiers,World Class,54.75,1981
+08/15,Lynn,MA,16,CMCC Warriors,World Class,49.1,1981
+08/15,Lynn,MA,17,New York Lancers,World Class,47.3,1981
+08/15,Lynn,MA,18,Valiant Knights,World Class,45.5,1981
+08/15,Erie,PA,1,Madison Scouts,World Class,89.75,1981
+08/16,Boston,MA,1,27th Lancers,World Class,90.45,1981
+08/16,Hamilton,Ontario,1,Vanguard,World Class,91.05,1981
+08/16,Hamilton,Ontario,1,Vanguard,World Class,91.05,1981
+08/15,Erie,PA,2,Guardsmen,World Class,77.45,1981
+08/16,Boston,MA,2,Bridgemen,World Class,88.7,1981
+08/16,Hamilton,Ontario,2,Madison Scouts,World Class,89.0,1981
+08/16,Hamilton,Ontario,2,Madison Scouts,World Class,90.1,1981
+08/16,Boston,MA,3,Garfield Cadets,World Class,88.0,1981
+08/16,Hamilton,Ontario,3,Phantom Regiment,World Class,87.2,1981
+08/16,Hamilton,Ontario,3,Phantom Regiment,World Class,87.9,1981
+08/16,Boston,MA,4,Crossmen,World Class,85.45,1981
+08/16,Hamilton,Ontario,4,Freelancers,World Class,80.5,1981
+08/16,Hamilton,Ontario,4,Freelancers,World Class,79.2,1981
+08/16,Boston,MA,5,Spirit of Atlanta,World Class,83.75,1981
+08/16,Hamilton,Ontario,5,Guardsmen,World Class,77.25,1981
+08/16,Hamilton,Ontario,5,Guardsmen,World Class,75.4,1981
+08/16,Boston,MA,6,Cavaliers,World Class,83.65,1981
+08/16,Hamilton,Ontario,6,Defenders,World Class,75.25,1981
+08/16,Hamilton,Ontario,6,Defenders,World Class,71.3,1981
+08/16,Boston,MA,7,North Star,World Class,81.3,1981
+08/16,Hamilton,Ontario,7,Knights,World Class,71.8,1981
+08/16,Hamilton,Ontario,7,Knights,World Class,67.65,1981
+08/16,Boston,MA,8,Troopers,World Class,78.2,1981
+08/16,Hamilton,Ontario,8,Valley Fever,World Class,69.55,1981
+08/16,Hamilton,Ontario,8,Valley Fever,World Class,66.45,1981
+08/16,Boston,MA,9,Blue Stars,World Class,73.5,1981
+08/16,Hamilton,Ontario,9,Colts,World Class,64.95,1981
+08/16,Hamilton,Ontario,9,Colts,World Class,59.85,1981
+08/16,Boston,MA,10,Memphis Blues,World Class,70.35,1981
+08/16,Hamilton,Ontario,10,Pride of Cincinnati,World Class,63.4,1981
+08/16,Hamilton,Ontario,10,Pride of Cincinnati,World Class,57.35,1981
+08/16,Boston,MA,11,Alliance,World Class,58.55,1981
+08/16,Hamilton,Ontario,11,Velvet Knights,World Class,59.0,1981
+08/16,Boston,MA,12,Amvet Brigadiers,World Class,48.4,1981
+08/16,Hamilton,Ontario,12,Long Island Kingsmen,World Class,57.45,1981
+08/16,Hamilton,Ontario,13,Glassmen,World Class,54.65,1981
+08/16,Hamilton,Ontario,14,Ventures,World Class,52.7,1981
+08/16,Hamilton,Ontario,15,Dutch Boy,World Class,52.2,1981
+08/16,Hamilton,Ontario,16,Pioneer,World Class,50.75,1981
+08/16,Hamilton,Ontario,17,1st Canadian Regiment,World Class,49.15,1981
+08/16,Hamilton,Ontario,18,Black Watch,World Class,45.15,1981
+08/16,Hamilton,Ontario,19,Florida Wave,World Class,44.55,1981
+08/16,Hamilton,Ontario,20,Royal Grenadiers,World Class,43.8,1981
+08/16,Hamilton,Ontario,21,Emerald Knights,World Class,42.5,1981
+08/16,Hamilton,Ontario,22,New York Lancers,World Class,37.5,1981
+08/16,Hamilton,Ontario,23,Saint John's,World Class,35.55,1981
+08/16,Hamilton,Ontario,24,Madison Junior Scouts,World Class,31.85,1981
+08/16,Bloomfield,NJ,1,Reading Buccaneers,World Class,86.2,1981
+08/18,Philadelphia,PA,1,Crossmen,World Class,86.55,1981
+08/16,Bloomfield,NJ,2,New York Skyliners,World Class,84.0,1981
+08/18,Philadelphia,PA,2,Rivermen,World Class,71.35,1981
+08/16,Bloomfield,NJ,3,Sunrisers,World Class,83.15,1981
+08/18,Philadelphia,PA,3,Alliance,World Class,68.05,1981
+08/16,Bloomfield,NJ,4,Hawthorne Caballeros,World Class,82.5,1981
+08/18,Philadelphia,PA,4,Imperial Guard,World Class,63.8,1981
+08/16,Bloomfield,NJ,5,Connecticut Hurricanes,World Class,81.0,1981
+08/18,Philadelphia,PA,5,Southwind,World Class,61.9,1981
+08/16,Bloomfield,NJ,6,Westshoremen,World Class,79.95,1981
+08/18,Philadelphia,PA,6,Bluecoats,World Class,61.6,1981
+08/18,Philadelphia,PA,7,Saginaires,World Class,60.35,1981
+08/18,Philadelphia,PA,8,Patriots,World Class,58.55,1981
+08/19,Montreal,Quebec,1,Les Chatelaines,World Class,70.5,1981
+08/20,Montreal,Quebec,1,Les Chatelaines,Open Class,68.15,1981
+08/16,Montreal,Quebec,1,Vanguard,Open Class,92.2,1981
+08/22,Montreal,Quebec,1,Vanguard,Open Class,94.0,1981
+08/19,Montreal,Quebec,2,Arbella,World Class,66.85,1981
+08/20,Montreal,Quebec,2,Arbella,Open Class,58.8,1981
+08/16,Montreal,Quebec,2,Blue Devils,Open Class,90.25,1981
+08/22,Montreal,Quebec,2,Blue Devils,Open Class,93.7,1981
+08/19,Montreal,Quebec,3,Saint Ignatius,World Class,66.7,1981
+08/20,Montreal,Quebec,3,Saint Ignatius,Open Class,58.05,1981
+08/16,Montreal,Quebec,3,Madison Scouts,Open Class,90.2,1981
+08/22,Montreal,Quebec,3,Madison Scouts,Open Class,92.6,1981
+08/19,Montreal,Quebec,4,Ventures,World Class,61.25,1981
+08/20,Montreal,Quebec,4,Ventures,Open Class,53.0,1981
+08/16,Montreal,Quebec,4,27th Lancers,Open Class,89.5,1981
+08/22,Montreal,Quebec,4,27th Lancers,Open Class,91.9,1981
+08/19,Montreal,Quebec,5,Saint John's,World Class,49.0,1981
+08/20,Montreal,Quebec,5,Saint John's,Open Class,42.85,1981
+08/16,Montreal,Quebec,5,Bridgemen,Open Class,89.15,1981
+08/22,Montreal,Quebec,5,Phantom Regiment,Open Class,90.85,1981
+08/19,Montreal,Quebec,6,Bandettes,World Class,47.5,1981
+08/16,Montreal,Quebec,6,Phantom Regiment,Open Class,88.1,1981
+08/22,Montreal,Quebec,6,Bridgemen,Open Class,90.8,1981
+08/19,Montreal,Quebec,7,CapitolAires,World Class,44.95,1981
+08/20,Montreal,Quebec,1,Southernaires,Open Class,65.85,1981
+08/16,Montreal,Quebec,7,Garfield Cadets,Open Class,86.05,1981
+08/22,Montreal,Quebec,7,Garfield Cadets,Open Class,89.4,1981
+08/19,Montreal,Quebec,8,Mello Dears,World Class,44.65,1981
+08/20,Montreal,Quebec,2,Fantasia III,Open Class,63.1,1981
+08/16,Montreal,Quebec,8,Crossmen,Open Class,85.9,1981
+08/22,Montreal,Quebec,8,Crossmen,Open Class,86.5,1981
+08/19,Montreal,Quebec,9,Suburbanettes,World Class,35.85,1981
+08/20,Montreal,Quebec,3,Pioneer,Open Class,60.55,1981
+08/16,Montreal,Quebec,9,Spirit of Atlanta,Open Class,83.85,1981
+08/22,Montreal,Quebec,9,Spirit of Atlanta,Open Class,83.85,1981
+08/19,Montreal,Quebec,10,Joanettes,World Class,34.35,1981
+08/20,Montreal,Quebec,4,Dutch Boy,Open Class,57.65,1981
+08/16,Montreal,Quebec,10,Cavaliers,Open Class,82.55,1981
+08/22,Montreal,Quebec,10,Cavaliers,Open Class,82.8,1981
+08/20,Montreal,Quebec,5,Les Étoiles,Open Class,52.3,1981
+08/16,Montreal,Quebec,11,Troopers,Open Class,81.0,1981
+08/22,Montreal,Quebec,11,Freelancers,Open Class,78.25,1981
+08/19,Montreal,Quebec,1,Southernaires,World Class,69.25,1981
+08/16,Montreal,Quebec,12,Freelancers,Open Class,80.05,1981
+08/22,Montreal,Quebec,12,Troopers,Open Class,78.1,1981
+08/19,Montreal,Quebec,2,Fantasia III,World Class,68.15,1981
+08/16,Montreal,Quebec,13,North Star,Open Class,79.85,1981
+08/19,Montreal,Quebec,3,Pioneer,World Class,67.95,1981
+08/16,Montreal,Quebec,14,Sky Ryders,Open Class,77.55,1981
+08/19,Montreal,Quebec,4,Dutch Boy,World Class,67.7,1981
+08/16,Montreal,Quebec,15,Guardsmen,Open Class,77.3,1981
+08/19,Montreal,Quebec,5,Les Étoiles,World Class,65.05,1981
+08/16,Montreal,Quebec,16,Blue Stars,Open Class,75.7,1981
+08/19,Montreal,Quebec,6,Golden Garrison,World Class,64.6,1981
+08/16,Montreal,Quebec,17,Defenders,Open Class,73.25,1981
+08/19,Montreal,Quebec,7,Bluewater Buccaneers,World Class,62.15,1981
+08/16,Montreal,Quebec,18,Memphis Blues,Open Class,71.3,1981
+08/19,Montreal,Quebec,8,Amvet Brigadiers,World Class,61.1,1981
+08/16,Montreal,Quebec,19,Knights,Open Class,71.1,1981
+08/19,Montreal,Quebec,9,Les Aventuriers,World Class,60.75,1981
+08/16,Montreal,Quebec,20,Seattle Imperials,Open Class,70.3,1981
+08/19,Montreal,Quebec,10,Cadets of Greece,World Class,58.5,1981
+08/16,Montreal,Quebec,21,Suncoast Sound,Open Class,69.9,1981
+08/19,Montreal,Quebec,11,Calgary Cavaliers,World Class,57.6,1981
+08/16,Montreal,Quebec,22,Avant Garde,Open Class,69.8,1981
+08/19,Montreal,Quebec,12,General Putnam's Men,World Class,57.45,1981
+08/16,Montreal,Quebec,23,Rivermen,Open Class,68.15,1981
+08/19,Montreal,Quebec,13,New York Lancers,World Class,55.75,1981
+08/16,Montreal,Quebec,24,Valley Fever,Open Class,67.95,1981
+08/19,Montreal,Quebec,14,Valley Airs,World Class,55.3,1981
+08/16,Montreal,Quebec,25,Boston Crusaders,Open Class,66.55,1981
+08/19,Montreal,Quebec,15,2nd Decade,World Class,55.1,1981
+08/16,Montreal,Quebec,26,San Jose Raiders,Open Class,66.4,1981
+08/19,Montreal,Quebec,16,Sundowners,World Class,54.75,1981
+08/16,Montreal,Quebec,27,Alliance,Open Class,64.85,1981
+08/19,Montreal,Quebec,17,Imperials-IL,World Class,51.9,1981
+08/16,Montreal,Quebec,28,Colts,Open Class,64.05,1981
+08/19,Montreal,Quebec,18,Alliance Musicale,World Class,51.8,1981
+08/16,Montreal,Quebec,29,Squires,Open Class,60.2,1981
+08/19,Montreal,Quebec,19,Con Ambassadors,World Class,48.6,1981
+08/16,Montreal,Quebec,30,Pride of Cincinnati,Open Class,60.1,1981
+08/19,Montreal,Quebec,20,Florida Wave,World Class,48.15,1981
+08/16,Montreal,Quebec,31,Bluecoats,Open Class,59.6,1981
+08/19,Montreal,Quebec,21,Emerald Knights,World Class,48.15,1981
+08/16,Montreal,Quebec,32,Imperial Guard,Open Class,58.95,1981
+08/19,Montreal,Quebec,22,Fantasia,World Class,47.85,1981
+08/16,Montreal,Quebec,33,Velvet Knights,Open Class,57.95,1981
+08/19,Montreal,Quebec,23,Coachmen,World Class,45.9,1981
+08/16,Montreal,Quebec,34,Les Eclipses,Open Class,57.6,1981
+08/19,Montreal,Quebec,24,Spartans-WA,World Class,45.35,1981
+08/16,Montreal,Quebec,35,Arcs-en-ciel,Open Class,57.55,1981
+08/19,Montreal,Quebec,25,Lockport Blazers,World Class,45.1,1981
+08/16,Montreal,Quebec,36,Long Island Kingsmen,Open Class,56.55,1981
+08/19,Montreal,Quebec,26,Vaqueros,World Class,44.85,1981
+08/16,Montreal,Quebec,37,Saginaires,Open Class,56.15,1981
+08/19,Montreal,Quebec,27,Madison Junior Scouts,World Class,43.45,1981
+08/16,Montreal,Quebec,38,Glassmen,Open Class,53.6,1981
+08/19,Montreal,Quebec,28,Volunteers,World Class,43.4,1981
+08/16,Montreal,Quebec,39,Southwind,Open Class,51.8,1981
+08/19,Montreal,Quebec,29,Starrisers,World Class,42.4,1981
+08/16,Montreal,Quebec,40,Caballaros,Open Class,48.05,1981
+08/19,Montreal,Quebec,30,Diplomats,World Class,39.15,1981
+08/16,Montreal,Quebec,41,Vagabonds,Open Class,47.3,1981
+08/19,Montreal,Quebec,31,Patriots,World Class,38.25,1981
+08/16,Montreal,Quebec,42,1st Canadian Regiment,Open Class,46.3,1981
+08/19,Montreal,Quebec,32,I.C. Queensmen,World Class,38.15,1981
+08/16,Montreal,Quebec,43,Black Watch,Open Class,45.2,1981
+08/19,Montreal,Quebec,33,Citations,World Class,35.2,1981
+08/16,Montreal,Quebec,44,CMCC Warriors,Open Class,44.3,1981
+08/19,Montreal,Quebec,34,Gauchos,World Class,35.15,1981
+08/16,Montreal,Quebec,45,Americanos,Open Class,44.25,1981
+08/19,Montreal,Quebec,35,Pacific Blue,World Class,33.85,1981
+08/16,Montreal,Quebec,46,Patriots,Open Class,44.2,1981
+08/19,Montreal,Quebec,36,Buccaneers,World Class,33.85,1981
+08/16,Montreal,Quebec,47,Royal Grenadiers,Open Class,40.95,1981
+08/19,Montreal,Quebec,37,Frontiersmen,World Class,32.15,1981
+08/16,Montreal,Quebec,48,Valiant Knights,Open Class,36.35,1981
+08/19,Montreal,Quebec,38,Firebirds,World Class,31.05,1981
+08/16,Montreal,Quebec,49,Kilties,Open Class,36.05,1981
+08/19,Montreal,Quebec,39,Saint Andrews,World Class,29.3,1981
+08/22,Oil City,PA,1,Connecticut Hurricanes,World Class,84.55,1981
+08/28,Drummond,Quebec,1,Royalistes,Open Class,84.206,1981
+08/28,Drummond,Quebec,1,Arc En Ciel,Open Class,76.0,1981
+08/29,Bridgeport,PA,1,Reading Buccaneers,Open Class,87.95,1981
+08/22,Oil City,PA,2,Westshoremen,World Class,84.1,1981
+08/28,Drummond,Quebec,2,Patriotes,Open Class,81.398,1981
+08/28,Drummond,Quebec,2,Éclipses,Open Class,73.45,1981
+08/29,Bridgeport,PA,2,New York Skyliners,Open Class,86.6,1981
+08/22,Oil City,PA,3,Steel City Ambassadors,World Class,57.0,1981
+08/28,Drummond,Quebec,3,Étoiles d’Or,Open Class,77.553,1981
+08/28,Drummond,Quebec,3,Étoiles (Dorion),Open Class,71.9,1981
+08/29,Bridgeport,PA,3,Westshoremen,Open Class,85.75,1981
+08/22,Oil City,PA,4,Niagara Regionnaires,World Class,45.3,1981
+08/28,Drummond,Quebec,4,Sénateurs,Open Class,73.21,1981
+08/28,Drummond,Quebec,4,Aventuriers,Open Class,65.75,1981
+08/29,Bridgeport,PA,4,Rochester Crusaders,Open Class,83.7,1981
+08/28,Drummond,Quebec,5,Olympiens,Open Class,68.112,1981
+08/28,Drummond,Quebec,5,Alliance Musicale,Open Class,59.6,1981
+08/29,Bridgeport,PA,5,Archer Epler Muskateers,Open Class,76.3,1981
+08/28,Drummond,Quebec,6,Gendarmes,Open Class,64.856,1981
+08/28,Drummond,Quebec,6,2e Décade,Open Class,59.4,1981
+08/29,Bridgeport,PA,6,Yankee Rebels,Open Class,70.85,1981
+08/28,Drummond,Quebec,7,Québécois,Open Class,50.042,1981
+08/28,Drummond,Quebec,7,Troubadours,Open Class,38.1,1981
+08/28,Drummond,Quebec,8,Avant Gardistes,Open Class,44.4,1981
+08/28,Drummond,Quebec,9,Voltigeurs,Open Class,43.925,1981
+08/28,Drummond,Quebec,1,Royalistes,Open Class,89.013,1981
+08/28,Drummond,Quebec,10,Étoiles (Granby),Open Class,43.37,1981
+08/28,Drummond,Quebec,2,Patriotes,Open Class,85.681,1981
+08/28,Drummond,Quebec,11,Ambassadeurs,Open Class,41.296,1981
+08/28,Drummond,Quebec,3,Étoiles d’Or,Open Class,84.514,1981
+08/28,Drummond,Quebec,12,Éperviers,Open Class,39.299,1981
+08/28,Drummond,Quebec,4,Sénateurs,Open Class,76.141,1981
+08/28,Drummond,Quebec,13,Dynamiques,Open Class,39.085,1981
+08/28,Drummond,Quebec,5,Olympiens,Open Class,74.213,1981
+08/28,Drummond,Quebec,14,Cavalières,Open Class,36.01,1981
+08/28,Drummond,Quebec,6,Gendarmes,Open Class,68.926,1981
+08/28,Drummond,Quebec,15,Cendrillons,Open Class,35.327,1981
+08/28,Drummond,Quebec,7,Québécois,Open Class,55.325,1981
+08/28,Drummond,Quebec,16,Bélairs,Open Class,35.227,1981
+08/28,Drummond,Quebec,8,Avant Gardistes,Open Class,49.424,1981
+08/28,Drummond,Quebec,17,Clan Chénier,Open Class,33.285,1981
+08/28,Drummond,Quebec,9,Voltigeurs,Open Class,46.728,1981
+08/28,Drummond,Quebec,18,Baladins,Open Class,26.995,1981
+08/28,Drummond,Quebec,10,Étoiles (Granby),Open Class,46.542,1981
+08/28,Drummond,Quebec,19,Futuristes,Open Class,22.925,1981
+08/28,Drummond,Quebec,11,Ambassadeurs,Open Class,41.296,1981
+08/28,Drummond,Quebec,20,Renaissance,Open Class,19.212,1981
+08/22,Oil City,PA,1,"Reading
+  Buccaneers",World Class,85.45,1981
+08/22,Oil City,PA,2,New York Skyliners,World Class,84.45,1981
+08/22,Oil City,PA,3,Westshoremen,World Class,83.55,1981
+08/22,Oil City,PA,4,Rochester Crusaders,World Class,73.25,1981
+08/22,Oil City,PA,5,Archer Epler Muskateers,World Class,52.0,1981
+08/22,Oil City,PA,6,Yankee Rebels,World Class,45.15,1981
+09/06,Philadelphia,PA,1,Connecticut Hurricanes,Open Class,89.85,1981
+09/06,Philadelphia,PA,1,Connecticut Hurricanes,Open Class,89.65,1981
+09/06,Philadelphia,PA,2,Sunrisers,Open Class,89.7,1981
+09/06,Philadelphia,PA,2,Sunrisers,Open Class,89.1,1981
+09/06,Philadelphia,PA,3,Reading Buccaneers,Open Class,89.4,1981
+09/06,Philadelphia,PA,3,Reading Buccaneers,Open Class,88.4,1981
+09/06,Philadelphia,PA,4,New York Skyliners,Open Class,88.8,1981
+09/06,Philadelphia,PA,4,New York Skyliners,Open Class,86.25,1981
+09/06,Philadelphia,PA,5,Hawthorne Caballeros,Open Class,88.2,1981
+09/06,Philadelphia,PA,5,Hawthorne Caballeros,Open Class,85.15,1981
+09/06,Philadelphia,PA,6,Westshoremen,Open Class,84.9,1981
+09/06,Philadelphia,PA,6,Westshoremen,Open Class,84.45,1981
+09/06,Philadelphia,PA,7,Matadors,Open Class,78.8,1981
+09/06,Philadelphia,PA,7,Matadors,Open Class,77.1,1981
+09/06,Philadelphia,PA,8,Rochester Crusaders,Open Class,70.8,1981
+09/06,Philadelphia,PA,8,Rochester Crusaders,Open Class,70.75,1981
+09/06,Philadelphia,PA,9,Thunderbirds,Open Class,66.15,1981
+09/06,Philadelphia,PA,9,Thunderbirds,Open Class,59.7,1981
+09/06,Philadelphia,PA,10,Canadian Regionaires,Open Class,64.85,1981
+09/06,Philadelphia,PA,10,Canadian Regionaires,Open Class,54.65,1981
+09/06,Philadelphia,PA,11,Archer Epler Muskateers,Open Class,64.35,1981
+09/06,Philadelphia,PA,12,Steel City Ambassadors,Open Class,57.9,1981
+09/06,Philadelphia,PA,13,Ohio Brass Factory,Open Class,56.35,1981
+09/06,Philadelphia,PA,14,Spirit of '76,Open Class,53.7,1981
+09/06,Philadelphia,PA,15,Yankee Rebels,Open Class,52.6,1981
+09/06,Philadelphia,PA,16,Criterions,Open Class,47.4,1981
+09/06,Philadelphia,PA,17,New York Defenders,Open Class,45.2,1981
+09/06,Philadelphia,PA,18,Princemen,Open Class,39.3,1981

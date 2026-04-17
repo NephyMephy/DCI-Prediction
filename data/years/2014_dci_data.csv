@@ -1,0 +1,982 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/14,Wildwood,NJ,1,Reading Buccaneers,DCA Open Class,76.45,2014
+06/18,Indianapolis,IN,1,Cadets,World Class,72.1,2014
+06/20,Rockford,IL,1,Carolina Crown,World Class,73.3,2014
+06/20,Clovis,CA,1,Blue Devils,World Class,73.2,2014
+06/14,Wildwood,NJ,2,Hawthorne Caballeros,DCA Open Class,76.0,2014
+06/18,Indianapolis,IN,2,Carolina Crown,World Class,70.8,2014
+06/20,Rockford,IL,2,Phantom Regiment,World Class,70.4,2014
+06/20,Clovis,CA,2,Vanguard,World Class,70.15,2014
+06/14,Wildwood,NJ,3,Fusion Core,DCA Open Class,74.3,2014
+06/18,Indianapolis,IN,3,Phantom Regiment,World Class,68.3,2014
+06/20,Rockford,IL,3,Cavaliers,World Class,69.7,2014
+06/20,Clovis,CA,3,Blue Knights,World Class,65.15,2014
+06/14,Wildwood,NJ,4,Windsor Regiment,DCA Open Class,65.4,2014
+06/18,Indianapolis,IN,4,Cavaliers,World Class,67.3,2014
+06/20,Rockford,IL,4,Madison Scouts,World Class,66.2,2014
+06/20,Clovis,CA,4,Crossmen,World Class,62.2,2014
+06/18,Indianapolis,IN,5,Troopers,World Class,61.7,2014
+06/20,Rockford,IL,5,Blue Stars,World Class,63.8,2014
+06/20,Clovis,CA,5,Pacific Crest,World Class,59.45,2014
+06/20,Rockford,IL,6,Troopers,World Class,61.1,2014
+06/20,Clovis,CA,6,Mandarins,World Class,57.9,2014
+06/20,Rockford,IL,7,Spirit of Atlanta,World Class,60.3,2014
+06/20,Rockford,IL,8,Pioneer,World Class,47.5,2014
+06/20,Clovis,CA,1,Vanguard Cadets,Open Class,53.65,2014
+06/20,Clovis,CA,2,Blue Devils B,Open Class,52.7,2014
+06/20,Rockford,IL,1,Colt Cadets,Open Class,38.5,2014
+06/20,Clovis,CA,3,Golden Empire,Open Class,46.05,2014
+06/20,Clovis,CA,4,Blue Devils C,Open Class,33.5,2014
+06/21,Akron,OH,1,Cadets,World Class,76.05,2014
+06/21,Plainwell,MI,1,Troopers,World Class,62.1,2014
+06/21,Stanford,CA,1,Blue Devils,World Class,74.2,2014
+06/21,Bayonne,NJ,1,Hawthorne Caballeros,DCA Open Class,78.8,2014
+06/21,Akron,OH,2,Carolina Crown,World Class,74.95,2014
+06/21,Plainwell,MI,2,Spirit of Atlanta,World Class,60.6,2014
+06/21,Stanford,CA,2,Vanguard,World Class,70.9,2014
+06/21,Bayonne,NJ,2,Fusion Core,DCA Open Class,77.35,2014
+06/21,Akron,OH,3,Bluecoats,World Class,72.8,2014
+06/21,Plainwell,MI,3,Colts,World Class,60.4,2014
+06/21,Stanford,CA,3,Blue Knights,World Class,65.95,2014
+06/21,Bayonne,NJ,3,Cadets 2,DCA Open Class,71.85,2014
+06/21,Akron,OH,4,Phantom Regiment,World Class,72.05,2014
+06/21,Plainwell,MI,4,Pioneer,World Class,47.2,2014
+06/21,Stanford,CA,4,Crossmen,World Class,63.95,2014
+06/21,Akron,OH,5,Cavaliers,World Class,70.8,2014
+06/21,Stanford,CA,5,Pacific Crest,World Class,60.5,2014
+06/21,Bayonne,NJ,1,White Sabers,DCA A Class,67.7,2014
+06/21,Akron,OH,6,Madison Scouts,World Class,67.35,2014
+06/21,Plainwell,MI,1,Colt Cadets,Open Class,38.8,2014
+06/21,Stanford,CA,6,Mandarins,World Class,59.25,2014
+06/21,Akron,OH,7,Boston Crusaders,World Class,66.4,2014
+06/21,Stanford,CA,1,Vanguard Cadets,Open Class,55.4,2014
+06/21,Stanford,CA,2,Blue Devils B,Open Class,53.6,2014
+06/21,Stanford,CA,3,Blue Devils C,Open Class,34.55,2014
+06/22,Bowling Green,OH,1,Carolina Crown,World Class,74.2,2014
+06/22,Sacramento,CA,1,Blue Devils,World Class,76.05,2014
+06/24,Merrillville,IN,1,Phantom Regiment,World Class,73.8,2014
+06/25,Pittsburgh,PA,1,Cadets,World Class,77.6,2014
+06/22,Bowling Green,OH,2,Cadets,World Class,73.5,2014
+06/22,Sacramento,CA,2,Vanguard,World Class,72.9,2014
+06/24,Merrillville,IN,2,Boston Crusaders,World Class,70.9,2014
+06/25,Pittsburgh,PA,2,Bluecoats,World Class,75.5,2014
+06/22,Bowling Green,OH,3,Madison Scouts,World Class,67.9,2014
+06/22,Sacramento,CA,3,Blue Knights,World Class,66.2,2014
+06/24,Merrillville,IN,3,Madison Scouts,World Class,70.6,2014
+06/25,Pittsburgh,PA,3,Cavaliers,World Class,72.9,2014
+06/22,Bowling Green,OH,4,Boston Crusaders,World Class,67.8,2014
+06/22,Sacramento,CA,4,Crossmen,World Class,64.15,2014
+06/24,Merrillville,IN,4,Troopers,World Class,67.3,2014
+06/25,Pittsburgh,PA,4,Boston Crusaders,World Class,71.0,2014
+06/22,Bowling Green,OH,5,Troopers,World Class,64.2,2014
+06/22,Sacramento,CA,5,Pacific Crest,World Class,61.3,2014
+06/24,Merrillville,IN,5,Colts,World Class,64.4,2014
+06/25,Pittsburgh,PA,5,Spirit of Atlanta,World Class,64.7,2014
+06/22,Bowling Green,OH,6,Pioneer,World Class,50.3,2014
+06/22,Sacramento,CA,6,Mandarins,World Class,59.5,2014
+06/24,Merrillville,IN,6,Pioneer,World Class,53.8,2014
+06/22,Sacramento,CA,1,Vanguard Cadets,Open Class,56.1,2014
+06/22,Sacramento,CA,2,Blue Devils B,Open Class,55.05,2014
+06/22,Sacramento,CA,3,Blue Devils C,Open Class,35.45,2014
+06/25,Evansville,IN,1,Phantom Regiment,World Class,74.1,2014
+06/26,Mesa,AZ,1,Vanguard,World Class,74.2,2014
+06/27,Chambersburg,PA,1,Cadets,World Class,79.8,2014
+06/27,Muncie,IN,1,Carolina Crown,World Class,76.7,2014
+06/25,Evansville,IN,2,Madison Scouts,World Class,70.7,2014
+06/26,Mesa,AZ,2,Blue Knights,World Class,70.0,2014
+06/27,Chambersburg,PA,2,Bluecoats,World Class,77.6,2014
+06/27,Muncie,IN,2,Phantom Regiment,World Class,73.9,2014
+06/25,Evansville,IN,3,Blue Stars,World Class,68.0,2014
+06/26,Mesa,AZ,3,Crossmen,World Class,66.6,2014
+06/27,Chambersburg,PA,3,Boston Crusaders,World Class,72.7,2014
+06/27,Muncie,IN,3,Cavaliers,World Class,72.7,2014
+06/25,Evansville,IN,4,Troopers,World Class,66.9,2014
+06/26,Mesa,AZ,4,Academy,World Class,63.8,2014
+06/27,Chambersburg,PA,4,Spirit of Atlanta,World Class,66.9,2014
+06/27,Muncie,IN,4,Blue Stars,World Class,67.5,2014
+06/25,Evansville,IN,5,Colts,World Class,62.4,2014
+06/27,Muncie,IN,5,Troopers,World Class,65.6,2014
+06/25,Evansville,IN,6,Pioneer,World Class,53.0,2014
+06/26,Mesa,AZ,1,City Sound,Open Class,41.8,2014
+06/27,Muncie,IN,6,Colts,World Class,60.5,2014
+06/27,Muncie,IN,7,Pioneer,World Class,52.6,2014
+06/27,Oceanside,CA,1,Vanguard,World Class,74.3,2014
+06/28,Jackson,NJ,1,Cadets,World Class,79.2,2014
+06/28,Madison,WI,1,Cavaliers,World Class,75.65,2014
+06/28,Glendora,CA,1,Blue Devils,World Class,79.5,2014
+06/27,Oceanside,CA,2,Blue Knights,World Class,69.15,2014
+06/28,Jackson,NJ,2,Bluecoats,World Class,77.7,2014
+06/28,Madison,WI,2,Phantom Regiment,World Class,74.9,2014
+06/28,Glendora,CA,2,Vanguard,World Class,76.65,2014
+06/27,Oceanside,CA,3,Crossmen,World Class,66.4,2014
+06/28,Jackson,NJ,3,Boston Crusaders,World Class,71.2,2014
+06/28,Madison,WI,3,Madison Scouts,World Class,72.55,2014
+06/28,Glendora,CA,3,Blue Knights,World Class,70.35,2014
+06/27,Oceanside,CA,4,Academy,World Class,63.35,2014
+06/28,Jackson,NJ,4,Spirit of Atlanta,World Class,67.0,2014
+06/28,Madison,WI,4,Blue Stars,World Class,69.2,2014
+06/28,Glendora,CA,4,Crossmen,World Class,67.35,2014
+06/27,Oceanside,CA,5,Pacific Crest,World Class,62.85,2014
+06/28,Madison,WI,5,Troopers,World Class,67.95,2014
+06/28,Glendora,CA,5,Pacific Crest,World Class,63.7,2014
+06/27,Oceanside,CA,6,Mandarins,World Class,62.2,2014
+06/28,Jackson,NJ,1,7th Regiment,Open Class,55.3,2014
+06/28,Madison,WI,6,Colts,World Class,64.1,2014
+06/28,Glendora,CA,6,Academy,World Class,63.55,2014
+06/28,Jackson,NJ,2,Raiders,Open Class,47.4,2014
+06/28,Madison,WI,7,Pioneer,World Class,54.0,2014
+06/28,Glendora,CA,7,Mandarins,World Class,62.6,2014
+06/27,Oceanside,CA,2,Golden Empire,Open Class,48.0,2014
+06/28,Madison,WI,1,Colt Cadets,Open Class,46.25,2014
+06/28,Glendora,CA,1,Gold,Open Class,55.35,2014
+06/27,Oceanside,CA,3,Impulse,Open Class,46.4,2014
+06/28,Madison,WI,2,Racine Scouts,Open Class,38.45,2014
+06/28,Glendora,CA,2,Golden Empire,Open Class,49.2,2014
+06/27,Oceanside,CA,4,Watchmen,Open Class,43.05,2014
+06/28,Glendora,CA,3,Impulse,Open Class,48.8,2014
+06/27,Oceanside,CA,5,City Sound,Open Class,40.9,2014
+06/28,Madison,WI,1,Kilties,DCA A Class,53.5,2014
+06/28,Glendora,CA,4,Watchmen,Open Class,42.5,2014
+06/27,Oceanside,CA,6,Incognito,Open Class,36.45,2014
+06/28,Glendora,CA,5,City Sound,Open Class,42.4,2014
+06/28,Glendora,CA,6,Incognito,Open Class,38.2,2014
+06/28,Bridgeport,CT,1,Hawthorne Caballeros,DCA Open Class,81.3,2014
+06/28,Saint Augustine,FL,1,Atlanta CV,DCA Open Class,73.2,2014
+06/29,Lawrence,MA,1,Cadets,World Class,82.2,2014
+06/29,Rochester,MN,1,Cavaliers,World Class,78.0,2014
+06/28,Bridgeport,CT,2,Fusion Core,DCA Open Class,79.3,2014
+06/28,Saint Augustine,FL,2,Carolina Gold,DCA Open Class,67.75,2014
+06/29,Lawrence,MA,2,Carolina Crown,World Class,81.8,2014
+06/29,Rochester,MN,2,Phantom Regiment,World Class,77.6,2014
+06/28,Bridgeport,CT,3,Connecticut Hurricanes,DCA Open Class,72.6,2014
+06/29,Lawrence,MA,3,Bluecoats,World Class,80.2,2014
+06/29,Rochester,MN,3,Madison Scouts,World Class,74.5,2014
+06/28,Bridgeport,CT,4,Bushwackers,DCA Open Class,72.55,2014
+06/28,Saint Augustine,FL,1,Sun Devils,DCA A Class,62.7,2014
+06/29,Lawrence,MA,4,Boston Crusaders,World Class,72.4,2014
+06/29,Rochester,MN,4,Blue Stars,World Class,72.0,2014
+06/28,Bridgeport,CT,5,Skyliners,DCA A Class,68.15,2014
+06/29,Lawrence,MA,5,Spirit of Atlanta,World Class,70.1,2014
+06/29,Rochester,MN,5,Troopers,World Class,68.5,2014
+06/29,Rochester,MN,6,Colts,World Class,65.2,2014
+06/29,Lawrence,MA,1,Spartans,Open Class,61.9,2014
+06/29,Rochester,MN,7,Pioneer,World Class,56.8,2014
+06/29,Lawrence,MA,2,7th Regiment,Open Class,60.8,2014
+06/29,Rochester,MN,1,Govenaires,DCA A Class,64.8,2014
+06/29,Riverside,CA,1,Blue Devils,World Class,82.0,2014
+06/30,Mankato,MN,1,Madison Scouts,World Class,75.3,2014
+06/29,Riverside,CA,2,Vanguard,World Class,79.3,2014
+06/30,Mankato,MN,2,Blue Stars,World Class,72.3,2014
+06/29,Riverside,CA,3,Blue Knights,World Class,71.05,2014
+06/30,Mankato,MN,3,Troopers,World Class,70.6,2014
+06/29,Riverside,CA,4,Crossmen,World Class,68.35,2014
+06/30,Mankato,MN,4,Pioneer,World Class,57.1,2014
+06/29,Riverside,CA,5,Mandarins,World Class,63.95,2014
+06/29,Riverside,CA,6,Academy,World Class,63.75,2014
+06/30,Mankato,MN,1,Racine Scouts,Open Class,41.0,2014
+06/29,Riverside,CA,7,Pacific Crest,World Class,62.9,2014
+06/30,Mankato,MN,1,Minnesota Brass,DCA Open Class,77.1,2014
+06/29,Riverside,CA,1,Gold,Open Class,56.1,2014
+06/29,Riverside,CA,2,Golden Empire,Open Class,50.7,2014
+06/30,Mankato,MN,1,Govenaires,DCA A Class,67.1,2014
+06/29,Riverside,CA,3,Impulse,Open Class,48.85,2014
+06/29,Riverside,CA,4,Watchmen,Open Class,43.45,2014
+06/29,Riverside,CA,5,City Sound,Open Class,42.55,2014
+06/29,Riverside,CA,6,Incognito,Open Class,38.9,2014
+07/01,Overland Park,KS,1,Cavaliers,World Class,80.6,2014
+07/01,Santa Clara,CA,1,Vanguard,World Class,80.9,2014
+07/02,Waukee,IA,1,Blue Devils,World Class,84.9,2014
+07/03,Bristol,RI,1,Cadets,World Class,81.7,2014
+07/01,Overland Park,KS,2,Phantom Regiment,World Class,79.7,2014
+07/01,Santa Clara,CA,2,Blue Knights,World Class,72.0,2014
+07/02,Waukee,IA,2,Cavaliers,World Class,81.0,2014
+07/03,Bristol,RI,2,Bluecoats,World Class,81.3,2014
+07/01,Overland Park,KS,3,Colts,World Class,67.5,2014
+07/01,Santa Clara,CA,3,Crossmen,World Class,68.4,2014
+07/02,Waukee,IA,3,Phantom Regiment,World Class,80.2,2014
+07/03,Bristol,RI,3,Carolina Crown,World Class,80.8,2014
+07/01,Overland Park,KS,4,Jersey Surf,World Class,62.6,2014
+07/01,Santa Clara,CA,4,Mandarins,World Class,63.5,2014
+07/02,Waukee,IA,4,Blue Stars,World Class,72.3,2014
+07/03,Bristol,RI,4,Boston Crusaders,World Class,70.4,2014
+07/02,Waukee,IA,5,Troopers,World Class,70.4,2014
+07/03,Bristol,RI,5,Spirit of Atlanta,World Class,69.5,2014
+07/01,Overland Park,KS,1,Colt Cadets,Open Class,47.6,2014
+07/01,Santa Clara,CA,1,Vanguard Cadets,Open Class,56.3,2014
+07/02,Waukee,IA,6,Colts,World Class,67.8,2014
+07/01,Santa Clara,CA,2,Blue Devils B,Open Class,54.3,2014
+07/02,Waukee,IA,7,Jersey Surf,World Class,63.9,2014
+07/03,Bristol,RI,1,7th Regiment,Open Class,61.3,2014
+07/03,Bristol,RI,2,Spartans,Open Class,60.0,2014
+07/02,Waukee,IA,1,Colt Cadets,Open Class,49.2,2014
+07/03,Cedarburg,WI,1,Blue Devils,World Class,86.2,2014
+07/03,McMinnville,OR,1,Vanguard,World Class,79.7,2014
+07/05,Lynn,MA,1,Cadets,World Class,83.9,2014
+07/05,Michigan City,IN,1,Cavaliers,World Class,81.65,2014
+07/03,Cedarburg,WI,2,Madison Scouts,World Class,76.7,2014
+07/03,McMinnville,OR,2,Blue Knights,World Class,74.6,2014
+07/05,Lynn,MA,2,Carolina Crown,World Class,83.45,2014
+07/05,Michigan City,IN,2,Phantom Regiment,World Class,80.45,2014
+07/03,Cedarburg,WI,3,Jersey Surf,World Class,63.9,2014
+07/03,McMinnville,OR,3,Crossmen,World Class,69.8,2014
+07/05,Lynn,MA,3,Bluecoats,World Class,83.2,2014
+07/05,Michigan City,IN,3,Troopers,World Class,71.25,2014
+07/03,Cedarburg,WI,4,Pioneer,World Class,58.3,2014
+07/03,McMinnville,OR,4,Oregon Crusaders,World Class,66.0,2014
+07/05,Lynn,MA,4,Boston Crusaders,World Class,73.95,2014
+07/05,Michigan City,IN,4,Colts,World Class,69.25,2014
+07/03,McMinnville,OR,5,Cascades,World Class,55.1,2014
+07/05,Lynn,MA,5,Spirit of Atlanta,World Class,72.65,2014
+07/03,Cedarburg,WI,1,Genesis,Open Class,57.7,2014
+07/05,Michigan City,IN,1,Genesis,Open Class,60.8,2014
+07/03,Cedarburg,WI,2,Legends,Open Class,52.6,2014
+07/03,McMinnville,OR,1,Columbians,Open Class,51.3,2014
+07/05,Lynn,MA,1,7th Regiment,Open Class,64.4,2014
+07/05,Michigan City,IN,2,Legends,Open Class,56.15,2014
+07/03,Cedarburg,WI,3,Racine Scouts,Open Class,42.1,2014
+07/05,Lynn,MA,2,Raiders,Open Class,62.4,2014
+07/05,Michigan City,IN,3,Colt Cadets,Open Class,50.35,2014
+07/05,Whitewater,WI,1,Blue Devils,World Class,85.1,2014
+07/05,Renton,WA,1,Vanguard,World Class,81.9,2014
+07/05,Sacramento,CA,1,Mandarins,World Class,63.9,2014
+07/06,Chester,PA,1,Cadets,World Class,84.7,2014
+07/05,Whitewater,WI,2,Madison Scouts,World Class,75.6,2014
+07/05,Renton,WA,2,Blue Knights,World Class,76.1,2014
+07/06,Chester,PA,2,Carolina Crown,World Class,84.1,2014
+07/05,Whitewater,WI,3,Blue Stars,World Class,74.55,2014
+07/05,Renton,WA,3,Crossmen,World Class,71.5,2014
+07/05,Sacramento,CA,1,Vanguard Cadets,Open Class,61.7,2014
+07/06,Chester,PA,3,Bluecoats,World Class,84.05,2014
+07/05,Whitewater,WI,4,Jersey Surf,World Class,64.35,2014
+07/05,Renton,WA,4,Oregon Crusaders,World Class,68.2,2014
+07/05,Sacramento,CA,2,Blue Devils B,Open Class,61.4,2014
+07/06,Chester,PA,4,Boston Crusaders,World Class,75.25,2014
+07/05,Whitewater,WI,5,Pioneer,World Class,60.55,2014
+07/05,Renton,WA,5,Cascades,World Class,57.5,2014
+07/05,Sacramento,CA,3,Golden Empire,Open Class,55.8,2014
+07/06,Chester,PA,5,Spirit of Atlanta,World Class,72.85,2014
+07/05,Whitewater,WI,1,Racine Scouts,Open Class,45.15,2014
+07/05,Renton,WA,1,Columbians,Open Class,52.6,2014
+07/05,Sacramento,CA,5,City Sound,Open Class,45.5,2014
+07/05,Renton,WA,2,Eruption,Open Class,41.3,2014
+07/05,Sacramento,CA,6,Incognito,Open Class,42.1,2014
+07/05,Whitewater,WI,1,Kilties,DCA A Class,56.8,2014
+07/05,Sacramento,CA,7,Blue Devils C,Open Class,40.3,2014
+07/06,Lisle,IL,1,Blue Devils,World Class,85.35,2014
+07/06,Dixon,IL,1,Colts,World Class,71.4,2014
+07/06,Tri Cities,WA,1,Vanguard,World Class,82.2,2014
+07/06,Pleasant Hill,CA,1,Mandarins,World Class,64.5,2014
+07/06,Lisle,IL,2,Cavaliers,World Class,81.8,2014
+07/06,Dixon,IL,2,Jersey Surf,World Class,64.6,2014
+07/06,Tri Cities,WA,2,Blue Knights,World Class,78.8,2014
+07/06,Lisle,IL,3,Phantom Regiment,World Class,79.95,2014
+07/06,Dixon,IL,3,Pioneer,World Class,60.9,2014
+07/06,Tri Cities,WA,3,Crossmen,World Class,72.9,2014
+07/06,Pleasant Hill,CA,1,Vanguard Cadets,Open Class,63.4,2014
+07/06,Lisle,IL,4,Madison Scouts,World Class,75.3,2014
+07/06,Tri Cities,WA,4,Oregon Crusaders,World Class,68.0,2014
+07/06,Pleasant Hill,CA,2,Blue Devils B,Open Class,63.2,2014
+07/06,Lisle,IL,5,Blue Stars,World Class,75.15,2014
+07/06,Dixon,IL,1,Genesis,Open Class,60.3,2014
+07/06,Tri Cities,WA,5,Cascades,World Class,58.0,2014
+07/06,Pleasant Hill,CA,3,Impulse,Open Class,56.6,2014
+07/06,Lisle,IL,6,Troopers,World Class,71.75,2014
+07/06,Dixon,IL,2,Legends,Open Class,57.0,2014
+07/06,Pleasant Hill,CA,4,Golden Empire,Open Class,56.1,2014
+07/06,Dixon,IL,3,Colt Cadets,Open Class,51.1,2014
+07/06,Tri Cities,WA,1,Columbians,Open Class,55.4,2014
+07/06,Pleasant Hill,CA,5,City Sound,Open Class,46.3,2014
+07/06,Lisle,IL,1,Racine Scouts,Open Class,45.1,2014
+07/06,Tri Cities,WA,2,Eruption,Open Class,43.7,2014
+07/06,Pleasant Hill,CA,6,Incognito,Open Class,43.2,2014
+07/06,Pleasant Hill,CA,7,Blue Devils C,Open Class,42.0,2014
+07/06,Chester,PA,1,Fusion Core,DCA Open Class,81.75,2014
+07/08,Fort Wayne,IN,1,Blue Devils,World Class,86.15,2014
+07/08,Dubuque,IA,1,Cavaliers,World Class,82.2,2014
+07/08,Boise,ID,1,Vanguard,World Class,83.3,2014
+07/06,Chester,PA,2,Cadets 2,DCA Open Class,76.85,2014
+07/08,Fort Wayne,IN,2,Bluecoats,World Class,85.15,2014
+07/08,Dubuque,IA,2,Madison Scouts,World Class,76.9,2014
+07/08,Boise,ID,2,Blue Knights,World Class,79.7,2014
+07/06,Chester,PA,3,Bushwackers,DCA Open Class,74.45,2014
+07/08,Fort Wayne,IN,3,Boston Crusaders,World Class,76.65,2014
+07/08,Dubuque,IA,3,Blue Stars,World Class,75.3,2014
+07/08,Boise,ID,3,Crossmen,World Class,75.0,2014
+07/06,Chester,PA,4,Carolina Gold,DCA Open Class,70.95,2014
+07/08,Fort Wayne,IN,4,Spirit of Atlanta,World Class,72.5,2014
+07/08,Dubuque,IA,4,Troopers,World Class,73.4,2014
+07/08,Boise,ID,4,Oregon Crusaders,World Class,68.9,2014
+07/06,Chester,PA,5,Windsor Regiment,DCA Open Class,69.35,2014
+07/08,Fort Wayne,IN,5,Jersey Surf,World Class,63.65,2014
+07/08,Dubuque,IA,5,Colts,World Class,69.75,2014
+07/08,Boise,ID,5,Academy,World Class,66.1,2014
+07/08,Dubuque,IA,6,Pioneer,World Class,60.35,2014
+07/08,Boise,ID,6,Cascades,World Class,61.0,2014
+07/08,Fort Wayne,IN,2,Legends,Open Class,57.9,2014
+07/08,Dubuque,IA,1,Genesis,Open Class,62.4,2014
+07/08,Boise,ID,1,Impulse,Open Class,56.9,2014
+07/08,Fort Wayne,IN,3,Blue Saints,Open Class,37.85,2014
+07/08,Dubuque,IA,2,Colt Cadets,Open Class,54.0,2014
+07/08,Dubuque,IA,3,Racine Scouts,Open Class,48.75,2014
+07/09,Metamora,IL,1,Blue Devils,World Class,87.35,2014
+07/09,Ogden,UT,1,Vanguard,World Class,84.3,2014
+07/10,Salem,WI,1,Cadets,World Class,87.05,2014
+07/11,Eden Prairie,MN,1,Blue Devils,World Class,87.55,2014
+07/09,Metamora,IL,2,Cadets,World Class,86.3,2014
+07/09,Ogden,UT,2,Blue Knights,World Class,80.2,2014
+07/10,Salem,WI,2,Phantom Regiment,World Class,83.25,2014
+07/11,Eden Prairie,MN,2,Bluecoats,World Class,85.35,2014
+07/09,Metamora,IL,3,Phantom Regiment,World Class,81.85,2014
+07/09,Ogden,UT,3,Crossmen,World Class,75.6,2014
+07/10,Salem,WI,3,Spirit of Atlanta,World Class,74.75,2014
+07/11,Eden Prairie,MN,3,Boston Crusaders,World Class,77.5,2014
+07/09,Metamora,IL,4,Colts,World Class,72.75,2014
+07/09,Ogden,UT,4,Oregon Crusaders,World Class,70.6,2014
+07/10,Salem,WI,4,Jersey Surf,World Class,66.55,2014
+07/11,Eden Prairie,MN,4,Jersey Surf,World Class,65.35,2014
+07/09,Metamora,IL,5,Pioneer,World Class,63.4,2014
+07/09,Ogden,UT,5,Pacific Crest,World Class,69.3,2014
+07/10,Salem,WI,5,Pioneer,World Class,62.9,2014
+07/09,Ogden,UT,6,Academy,World Class,68.0,2014
+07/11,Eden Prairie,MN,1,Legends,Open Class,59.55,2014
+07/09,Metamora,IL,1,Music City,Open Class,63.9,2014
+07/09,Ogden,UT,7,Cascades,World Class,62.8,2014
+07/10,Salem,WI,1,Colt Cadets,Open Class,55.65,2014
+07/11,Eden Prairie,MN,2,Blue Saints,Open Class,41.85,2014
+07/09,Metamora,IL,2,Legends,Open Class,59.95,2014
+07/10,Salem,WI,2,Racine Scouts,Open Class,49.4,2014
+07/09,Metamora,IL,3,Blue Saints,Open Class,42.7,2014
+07/09,Ogden,UT,1,Impulse,Open Class,56.7,2014
+07/11,Eden Prairie,MN,1,Minnesota Brass,DCA Open Class,75.75,2014
+07/12,Vista,CA,1,Blue Devils B,Open Class,68.55,2014
+07/12,LaCrosse,WI,1,Cadets,World Class,88.05,2014
+07/12,Denver,CO,1,Vanguard,World Class,85.25,2014
+07/12,Wayne,NJ,1,Hawthorne Caballeros,DCA Open Class,84.85,2014
+07/12,Vista,CA,2,Vanguard Cadets,Open Class,67.7,2014
+07/12,LaCrosse,WI,2,Carolina Crown,World Class,86.9,2014
+07/12,Denver,CO,2,Blue Knights,World Class,81.0,2014
+07/12,Wayne,NJ,2,Reading Buccaneers,DCA Open Class,84.0,2014
+07/12,Vista,CA,3,Gold,Open Class,62.65,2014
+07/12,LaCrosse,WI,3,Bluecoats,World Class,85.85,2014
+07/12,Denver,CO,3,Madison Scouts,World Class,78.3,2014
+07/12,Wayne,NJ,3,Fusion Core,DCA Open Class,82.75,2014
+07/12,Vista,CA,4,Impulse,Open Class,58.05,2014
+07/12,LaCrosse,WI,4,Cavaliers,World Class,84.6,2014
+07/12,Denver,CO,4,Crossmen,World Class,76.85,2014
+07/12,Wayne,NJ,4,Atlanta CV,DCA Open Class,80.35,2014
+07/12,Vista,CA,5,Golden Empire,Open Class,57.6,2014
+07/12,LaCrosse,WI,5,Phantom Regiment,World Class,83.2,2014
+07/12,Denver,CO,5,Troopers,World Class,75.0,2014
+07/12,Wayne,NJ,5,Cadets 2,DCA Open Class,78.45,2014
+07/12,Vista,CA,6,City Sound,Open Class,50.9,2014
+07/12,LaCrosse,WI,6,Boston Crusaders,World Class,78.8,2014
+07/12,Denver,CO,6,Oregon Crusaders,World Class,70.9,2014
+07/12,Wayne,NJ,6,Connecticut Hurricanes,DCA Open Class,76.55,2014
+07/12,Vista,CA,7,Watchmen,Open Class,49.55,2014
+07/12,LaCrosse,WI,7,Blue Stars,World Class,78.65,2014
+07/12,Denver,CO,7,Pacific Crest,World Class,68.8,2014
+07/12,Wayne,NJ,7,Bushwackers,DCA Open Class,75.1,2014
+07/12,Vista,CA,8,Blue Devils C,Open Class,48.15,2014
+07/12,LaCrosse,WI,8,Colts,World Class,74.55,2014
+07/12,Denver,CO,8,Academy,World Class,68.35,2014
+07/12,Wayne,NJ,8,Sunrisers,DCA Open Class,71.95,2014
+07/12,Vista,CA,9,Incognito,Open Class,45.05,2014
+07/12,LaCrosse,WI,9,Spirit of Atlanta,World Class,74.5,2014
+07/12,Denver,CO,9,Mandarins,World Class,67.9,2014
+07/12,Wayne,NJ,9,Windsor Regiment,DCA Open Class,67.9,2014
+07/12,LaCrosse,WI,10,Jersey Surf,World Class,65.15,2014
+07/12,Denver,CO,10,Cascades,World Class,64.45,2014
+07/12,LaCrosse,WI,1,Music City,Open Class,62.7,2014
+07/12,LaCrosse,WI,2,Legends,Open Class,60.45,2014
+07/12,LaCrosse,WI,3,Racine Scouts,Open Class,48.45,2014
+07/12,LaCrosse,WI,4,Blue Saints,Open Class,42.45,2014
+07/12,LaCrosse,WI,1,Govenaires,DCA A Class,69.45,2014
+07/13,DeKalb,IL,1,Blue Devils,World Class,87.6,2014
+07/13,Muscatine,IA,1,Boston Crusaders,World Class,79.4,2014
+07/13,Cerritos,CA,1,Blue Devils B,Open Class,68.6,2014
+07/14,Lebanon,IL,1,Boston Crusaders,World Class,79.35,2014
+07/13,DeKalb,IL,2,Cadets,World Class,86.6,2014
+07/13,Muscatine,IA,2,Colts,World Class,74.75,2014
+07/13,Cerritos,CA,2,Vanguard Cadets,Open Class,67.25,2014
+07/14,Lebanon,IL,2,Colts,World Class,75.5,2014
+07/13,DeKalb,IL,3,Carolina Crown,World Class,85.9,2014
+07/13,Muscatine,IA,3,Spirit of Atlanta,World Class,73.85,2014
+07/13,Cerritos,CA,3,Gold,Open Class,62.4,2014
+07/14,Lebanon,IL,3,Spirit of Atlanta,World Class,74.0,2014
+07/13,DeKalb,IL,4,Bluecoats,World Class,84.1,2014
+07/13,Muscatine,IA,4,Pioneer,World Class,63.15,2014
+07/13,Cerritos,CA,4,Golden Empire,Open Class,58.3,2014
+07/14,Lebanon,IL,4,Jersey Surf,World Class,66.6,2014
+07/13,DeKalb,IL,5,Cavaliers,World Class,83.45,2014
+07/13,Cerritos,CA,5,Impulse,Open Class,57.95,2014
+07/14,Lebanon,IL,5,Pioneer,World Class,62.65,2014
+07/13,DeKalb,IL,6,Phantom Regiment,World Class,81.85,2014
+07/13,Muscatine,IA,1,Legends,Open Class,58.25,2014
+07/13,Cerritos,CA,6,City Sound,Open Class,50.45,2014
+07/13,DeKalb,IL,7,Blue Stars,World Class,78.0,2014
+07/13,Muscatine,IA,2,Louisiana Stars,Open Class,57.75,2014
+07/13,Cerritos,CA,7,Watchmen,Open Class,50.05,2014
+07/14,Lebanon,IL,1,Music City,Open Class,62.4,2014
+07/13,Muscatine,IA,3,Colt Cadets,Open Class,50.05,2014
+07/13,Cerritos,CA,8,Blue Devils C,Open Class,47.15,2014
+07/14,Lebanon,IL,2,Louisiana Stars,Open Class,60.35,2014
+07/13,Cerritos,CA,9,Incognito,Open Class,45.65,2014
+07/14,Omaha,NE,1,Blue Knights,World Class,81.6,2014
+07/14,Warrensburg,MO,1,Blue Devils,World Class,88.9,2014
+07/15,Wichita,KS,1,Blue Devils,World Class,89.8,2014
+07/15,Bentonville,AR,1,Carolina Crown,World Class,88.3,2014
+07/14,Omaha,NE,2,Madison Scouts,World Class,80.65,2014
+07/14,Warrensburg,MO,2,Cadets,World Class,87.9,2014
+07/15,Wichita,KS,2,Blue Knights,World Class,82.4,2014
+07/15,Bentonville,AR,2,Blue Stars,World Class,80.35,2014
+07/14,Omaha,NE,3,Crossmen,World Class,77.35,2014
+07/14,Warrensburg,MO,3,Carolina Crown,World Class,86.85,2014
+07/15,Wichita,KS,3,Madison Scouts,World Class,80.85,2014
+07/15,Bentonville,AR,3,Crossmen,World Class,78.3,2014
+07/14,Omaha,NE,4,Oregon Crusaders,World Class,72.15,2014
+07/14,Warrensburg,MO,4,Vanguard,World Class,86.6,2014
+07/15,Wichita,KS,4,Troopers,World Class,76.3,2014
+07/15,Bentonville,AR,4,Colts,World Class,77.4,2014
+07/14,Omaha,NE,5,Pacific Crest,World Class,69.55,2014
+07/14,Warrensburg,MO,5,Bluecoats,World Class,85.4,2014
+07/15,Wichita,KS,5,Oregon Crusaders,World Class,72.35,2014
+07/15,Bentonville,AR,5,Cascades,World Class,65.15,2014
+07/14,Omaha,NE,6,Academy,World Class,69.15,2014
+07/14,Warrensburg,MO,6,Cavaliers,World Class,84.55,2014
+07/15,Wichita,KS,6,Academy,World Class,70.3,2014
+07/15,Bentonville,AR,6,Pioneer,World Class,63.15,2014
+07/14,Omaha,NE,7,Cascades,World Class,64.95,2014
+07/14,Warrensburg,MO,7,Phantom Regiment,World Class,83.15,2014
+07/15,Wichita,KS,7,Mandarins,World Class,69.05,2014
+07/15,Bentonville,AR,1,Genesis,Open Class,66.9,2014
+07/15,Bentonville,AR,2,Music City,Open Class,63.7,2014
+07/15,Bentonville,AR,3,Louisiana Stars,Open Class,62.0,2014
+07/16,Broken Arrow,OK,1,Cadets,World Class,89.15,2014
+07/17,Denton,TX,1,Carolina Crown,World Class,88.35,2014
+07/18,Houston,TX,1,Blue Devils,World Class,91.3,2014
+07/19,San Antonio,TX,1,Blue Devils,World Class,91.65,2014
+07/16,Broken Arrow,OK,2,Phantom Regiment,World Class,84.1,2014
+07/17,Denton,TX,2,Bluecoats,World Class,87.85,2014
+07/18,Houston,TX,2,Bluecoats,World Class,89.4,2014
+07/19,San Antonio,TX,2,Cadets,World Class,90.975,2014
+07/16,Broken Arrow,OK,3,Blue Knights,World Class,83.2,2014
+07/17,Denton,TX,3,Vanguard,World Class,87.35,2014
+07/18,Houston,TX,3,Carolina Crown,World Class,88.6,2014
+07/19,San Antonio,TX,3,Bluecoats,World Class,89.85,2014
+07/16,Broken Arrow,OK,4,Troopers,World Class,77.3,2014
+07/17,Denton,TX,4,Cavaliers,World Class,85.45,2014
+07/18,Houston,TX,4,Vanguard,World Class,88.15,2014
+07/19,San Antonio,TX,4,Vanguard,World Class,89.0,2014
+07/16,Broken Arrow,OK,5,Spirit of Atlanta,World Class,76.8,2014
+07/17,Denton,TX,5,Oregon Crusaders,World Class,74.1,2014
+07/18,Houston,TX,5,Cavaliers,World Class,86.95,2014
+07/19,San Antonio,TX,5,Carolina Crown,World Class,88.7,2014
+07/16,Broken Arrow,OK,6,Pacific Crest,World Class,71.4,2014
+07/17,Denton,TX,5,Academy,World Class,74.1,2014
+07/18,Houston,TX,6,Phantom Regiment,World Class,85.05,2014
+07/19,San Antonio,TX,6,Cavaliers,World Class,86.925,2014
+07/16,Broken Arrow,OK,7,Academy,World Class,70.8,2014
+07/17,Denton,TX,7,Pacific Crest,World Class,73.9,2014
+07/18,Houston,TX,7,Blue Knights,World Class,83.75,2014
+07/19,San Antonio,TX,7,Phantom Regiment,World Class,84.725,2014
+07/16,Broken Arrow,OK,8,Mandarins,World Class,69.85,2014
+07/17,Denton,TX,8,Mandarins,World Class,72.25,2014
+07/19,San Antonio,TX,8,Blue Knights,World Class,84.1,2014
+07/16,Broken Arrow,OK,9,Jersey Surf,World Class,67.55,2014
+07/17,Denton,TX,9,Jersey Surf,World Class,69.0,2014
+07/19,San Antonio,TX,9,Boston Crusaders,World Class,82.425,2014
+07/16,Broken Arrow,OK,10,Cascades,World Class,65.6,2014
+07/17,Denton,TX,10,Cascades,World Class,67.5,2014
+07/19,San Antonio,TX,10,Blue Stars,World Class,81.725,2014
+07/17,Denton,TX,11,Pioneer,World Class,64.4,2014
+07/19,San Antonio,TX,11,Madison Scouts,World Class,81.425,2014
+07/19,San Antonio,TX,12,Crossmen,World Class,80.25,2014
+07/19,San Antonio,TX,13,Troopers,World Class,77.9,2014
+07/19,San Antonio,TX,14,Spirit of Atlanta,World Class,76.55,2014
+07/19,San Antonio,TX,15,Colts,World Class,76.1,2014
+07/19,San Antonio,TX,16,Oregon Crusaders,World Class,74.8,2014
+07/19,San Antonio,TX,17,Academy,World Class,74.775,2014
+07/19,San Antonio,TX,18,Pacific Crest,World Class,73.05,2014
+07/19,San Antonio,TX,19,Mandarins,World Class,72.375,2014
+07/19,San Antonio,TX,20,Jersey Surf,World Class,69.65,2014
+07/19,San Antonio,TX,21,Cascades,World Class,67.2,2014
+07/19,San Antonio,TX,22,Pioneer,World Class,64.125,2014
+07/19,San Antonio,TX,1,Genesis,Open Class,65.5,2014
+07/19,San Antonio,TX,2,Guardians,Open Class,61.275,2014
+07/19,Manchester,NH,1,7th Regiment,Open Class,75.5,2014
+07/19,Secaucus,NJ,1,Hawthorne Caballeros,DCA Open Class,84.7,2014
+07/19,Fayetteville,NC,1,Carolina Gold,DCA Open Class,75.7,2014
+07/21,Dallas,TX,1,Cadets,World Class,92.4,2014
+07/19,Manchester,NH,1,Spartans,Open Class,75.5,2014
+07/19,Secaucus,NJ,2,Reading Buccaneers,DCA Open Class,83.65,2014
+07/19,Fayetteville,NC,2,Alliance,DCA Open Class,63.95,2014
+07/21,Dallas,TX,2,Bluecoats,World Class,91.1,2014
+07/19,Manchester,NH,3,Legends,Open Class,72.6,2014
+07/19,Secaucus,NJ,3,Fusion Core,DCA Open Class,81.95,2014
+07/21,Dallas,TX,3,Carolina Crown,World Class,90.4,2014
+07/19,Manchester,NH,4,Racine Scouts,Open Class,60.4,2014
+07/19,Secaucus,NJ,4,Connecticut Hurricanes,DCA Open Class,75.65,2014
+07/19,Fayetteville,NC,1,Sun Devils,DCA A Class,72.2,2014
+07/21,Dallas,TX,4,Blue Knights,World Class,86.1,2014
+07/19,Manchester,NH,5,Les Stentors,Open Class,60.1,2014
+07/19,Secaucus,NJ,5,Sunrisers,DCA Open Class,71.2,2014
+07/21,Dallas,TX,5,Madison Scouts,World Class,83.25,2014
+07/19,Secaucus,NJ,6,Windsor Regiment,DCA Open Class,69.95,2014
+07/21,Dallas,TX,6,Crossmen,World Class,81.65,2014
+07/19,Secaucus,NJ,7,Skyliners,DCA A Class,68.7,2014
+07/21,Dallas,TX,7,Academy,World Class,75.25,2014
+07/21,Dallas,TX,8,Jersey Surf,World Class,70.7,2014
+07/21,Dallas,TX,9,Cascades,World Class,67.9,2014
+07/21,Dallas,TX,1,Genesis,Open Class,67.1,2014
+07/21,Lafayette,LA,1,Blue Devils,World Class,91.75,2014
+07/22,Mustang,OK,1,Cadets,World Class,92.75,2014
+07/22,Ocean Springs,MS,1,Vanguard,World Class,90.6,2014
+07/23,Little Rock,AR,1,Cadets,World Class,92.5,2014
+07/21,Lafayette,LA,2,Cavaliers,World Class,87.5,2014
+07/22,Mustang,OK,2,Bluecoats,World Class,90.75,2014
+07/22,Ocean Springs,MS,2,Cavaliers,World Class,88.15,2014
+07/23,Little Rock,AR,2,Bluecoats,World Class,90.55,2014
+07/21,Lafayette,LA,3,Phantom Regiment,World Class,85.15,2014
+07/22,Mustang,OK,3,Carolina Crown,World Class,90.05,2014
+07/22,Ocean Springs,MS,3,Blue Stars,World Class,83.4,2014
+07/23,Little Rock,AR,3,Carolina Crown,World Class,89.4,2014
+07/21,Lafayette,LA,4,Blue Stars,World Class,82.2,2014
+07/22,Mustang,OK,4,Blue Knights,World Class,85.9,2014
+07/22,Ocean Springs,MS,4,Spirit of Atlanta,World Class,77.3,2014
+07/23,Little Rock,AR,4,Boston Crusaders,World Class,86.55,2014
+07/21,Lafayette,LA,5,Colts,World Class,76.75,2014
+07/22,Mustang,OK,5,Crossmen,World Class,81.25,2014
+07/22,Ocean Springs,MS,5,Pacific Crest,World Class,75.95,2014
+07/23,Little Rock,AR,5,Blue Knights,World Class,84.45,2014
+07/21,Lafayette,LA,6,Spirit of Atlanta,World Class,75.7,2014
+07/22,Mustang,OK,6,Oregon Crusaders,World Class,75.55,2014
+07/22,Ocean Springs,MS,6,Mandarins,World Class,74.25,2014
+07/23,Little Rock,AR,6,Crossmen,World Class,81.5,2014
+07/21,Lafayette,LA,7,Pacific Crest,World Class,75.25,2014
+07/22,Mustang,OK,7,Academy,World Class,74.85,2014
+07/22,Ocean Springs,MS,7,Pioneer,World Class,66.35,2014
+07/23,Little Rock,AR,7,Oregon Crusaders,World Class,76.3,2014
+07/21,Lafayette,LA,8,Mandarins,World Class,73.25,2014
+07/22,Mustang,OK,8,Cascades,World Class,68.45,2014
+07/23,Little Rock,AR,8,Academy,World Class,75.3,2014
+07/21,Lafayette,LA,9,Pioneer,World Class,65.4,2014
+07/23,Little Rock,AR,9,Cascades,World Class,68.4,2014
+07/21,Lafayette,LA,1,Louisiana Stars,Open Class,65.45,2014
+07/23,Hattiesburg,MS,1,Blue Devils,World Class,94.25,2014
+07/24,Johnsonburg,PA,1,Spartans,Open Class,71.9,2014
+07/24,Opelika,AL,1,Madison Scouts,World Class,85.8,2014
+07/25,Huntsville,AL,1,Blue Knights,World Class,87.5,2014
+07/23,Hattiesburg,MS,2,Madison Scouts,World Class,85.3,2014
+07/24,Johnsonburg,PA,2,7th Regiment,Open Class,70.3,2014
+07/24,Opelika,AL,2,Blue Stars,World Class,84.6,2014
+07/25,Huntsville,AL,2,Blue Stars,World Class,85.9,2014
+07/23,Hattiesburg,MS,3,Troopers,World Class,80.6,2014
+07/24,Johnsonburg,PA,3,Genesis,Open Class,69.5,2014
+07/24,Opelika,AL,3,Colts,World Class,80.3,2014
+07/25,Huntsville,AL,3,Madison Scouts,World Class,85.85,2014
+07/23,Hattiesburg,MS,4,Colts,World Class,79.25,2014
+07/24,Johnsonburg,PA,4,Legends,Open Class,68.7,2014
+07/24,Opelika,AL,4,Spirit of Atlanta,World Class,78.1,2014
+07/25,Huntsville,AL,4,Crossmen,World Class,82.5,2014
+07/23,Hattiesburg,MS,5,Pacific Crest,World Class,75.8,2014
+07/24,Johnsonburg,PA,5,Raiders,Open Class,62.9,2014
+07/24,Opelika,AL,5,Mandarins,World Class,74.3,2014
+07/25,Huntsville,AL,5,Troopers,World Class,81.25,2014
+07/23,Hattiesburg,MS,6,Jersey Surf,World Class,72.45,2014
+07/24,Johnsonburg,PA,6,Les Stentors,Open Class,59.8,2014
+07/24,Opelika,AL,6,Pioneer,World Class,67.2,2014
+07/25,Huntsville,AL,6,Colts,World Class,80.0,2014
+07/23,Hattiesburg,MS,7,Pioneer,World Class,67.4,2014
+07/24,Johnsonburg,PA,7,Coastal Surge,Open Class,51.5,2014
+07/25,Huntsville,AL,7,Spirit of Atlanta,World Class,78.9,2014
+07/25,Huntsville,AL,8,Academy,World Class,76.1,2014
+07/25,Huntsville,AL,9,Pacific Crest,World Class,75.25,2014
+07/25,Huntsville,AL,10,Jersey Surf,World Class,73.2,2014
+07/25,Huntsville,AL,11,Cascades,World Class,69.4,2014
+07/25,Huntsville,AL,12,Pioneer,World Class,67.7,2014
+07/25,Woodstock,GA,1,Atlanta CV,DCA Open Class,81.5,2014
+07/25,Nashville,TN,1,Blue Devils,World Class,93.65,2014
+07/26,Atlanta,GA,1,Blue Devils,World Class,95.1,2014
+07/26,Paw Paw,MI,1,Vanguard Cadets,Open Class,73.4,2014
+07/25,Woodstock,GA,2,Alliance,DCA Open Class,70.9,2014
+07/25,Nashville,TN,2,Cadets,World Class,91.85,2014
+07/26,Atlanta,GA,2,Cadets,World Class,93.7,2014
+07/26,Paw Paw,MI,2,7th Regiment,Open Class,70.2,2014
+07/25,Woodstock,GA,3,Carolina Gold,DCA Open Class,70.55,2014
+07/25,Nashville,TN,3,Bluecoats,World Class,91.5,2014
+07/26,Atlanta,GA,3,Bluecoats,World Class,92.95,2014
+07/26,Paw Paw,MI,3,Genesis,Open Class,69.85,2014
+07/25,Nashville,TN,4,Vanguard,World Class,90.8,2014
+07/26,Atlanta,GA,4,Carolina Crown,World Class,92.65,2014
+07/26,Paw Paw,MI,4,Legends,Open Class,67.5,2014
+07/25,Nashville,TN,5,Carolina Crown,World Class,90.5,2014
+07/26,Atlanta,GA,5,Vanguard,World Class,91.825,2014
+07/26,Paw Paw,MI,5,Raiders,Open Class,61.55,2014
+07/25,Nashville,TN,6,Cavaliers,World Class,86.8,2014
+07/26,Atlanta,GA,6,Cavaliers,World Class,89.65,2014
+07/26,Paw Paw,MI,6,Coastal Surge,Open Class,59.35,2014
+07/25,Nashville,TN,7,Phantom Regiment,World Class,85.95,2014
+07/26,Atlanta,GA,7,Blue Knights,World Class,88.6,2014
+07/26,Paw Paw,MI,7,Les Stentors,Open Class,55.6,2014
+07/25,Nashville,TN,8,Boston Crusaders,World Class,83.65,2014
+07/26,Atlanta,GA,8,Phantom Regiment,World Class,87.625,2014
+07/26,Atlanta,GA,9,Boston Crusaders,World Class,86.65,2014
+07/25,Nashville,TN,1,Music City,Open Class,68.6,2014
+07/26,Atlanta,GA,10,Blue Stars,World Class,86.15,2014
+07/26,Atlanta,GA,11,Madison Scouts,World Class,84.95,2014
+07/26,Atlanta,GA,12,Crossmen,World Class,83.05,2014
+07/26,Atlanta,GA,13,Troopers,World Class,81.675,2014
+07/26,Atlanta,GA,14,Colts,World Class,80.925,2014
+07/26,Atlanta,GA,15,Spirit of Atlanta,World Class,79.7,2014
+07/26,Atlanta,GA,16,Academy,World Class,79.0,2014
+07/26,Atlanta,GA,17,Oregon Crusaders,World Class,77.825,2014
+07/26,Atlanta,GA,18,Pacific Crest,World Class,76.125,2014
+07/26,Atlanta,GA,19,Mandarins,World Class,75.225,2014
+07/26,Atlanta,GA,20,Jersey Surf,World Class,72.175,2014
+07/26,Atlanta,GA,21,Cascades,World Class,70.675,2014
+07/26,Atlanta,GA,22,Pioneer,World Class,67.65,2014
+07/26,Atlanta,GA,1,Atlanta CV,DCA Open Class,80.35,2014
+07/26,Downingtown,PA,1,Reading Buccaneers,DCA Open Class,86.9,2014
+07/27,Greendale,WI,1,Blue Devils B,Open Class,75.05,2014
+07/27,Charlotte,NC,1,Blue Devils,World Class,95.25,2014
+07/28,Charleston,WV,1,Bluecoats,World Class,94.25,2014
+07/26,Downingtown,PA,2,Cadets 2,DCA Open Class,82.65,2014
+07/27,Greendale,WI,2,Spartans,Open Class,73.0,2014
+07/27,Charlotte,NC,2,Cadets,World Class,93.75,2014
+07/28,Charleston,WV,2,Phantom Regiment,World Class,88.25,2014
+07/26,Downingtown,PA,3,Bushwackers,DCA Open Class,78.75,2014
+07/27,Greendale,WI,3,Colt Cadets,Open Class,61.8,2014
+07/27,Charlotte,NC,3,Carolina Crown,World Class,92.95,2014
+07/28,Charleston,WV,3,Boston Crusaders,World Class,87.5,2014
+07/26,Downingtown,PA,4,Skyliners,DCA A Class,71.75,2014
+07/27,Greendale,WI,4,Racine Scouts,Open Class,56.9,2014
+07/27,Charlotte,NC,4,Vanguard,World Class,92.4,2014
+07/28,Charleston,WV,4,Crossmen,World Class,83.7,2014
+07/27,Greendale,WI,5,Blue Saints,Open Class,47.3,2014
+07/27,Charlotte,NC,5,Cavaliers,World Class,89.75,2014
+07/28,Charleston,WV,5,Spirit of Atlanta,World Class,80.45,2014
+07/26,Downingtown,PA,1,White Sabers,DCA A Class,78.95,2014
+07/27,Charlotte,NC,6,Phantom Regiment,World Class,87.9,2014
+07/28,Charleston,WV,6,Oregon Crusaders,World Class,78.35,2014
+07/26,Downingtown,PA,2,Excelsior,DCA A Class,65.7,2014
+07/27,Charlotte,NC,7,Spirit of Atlanta,World Class,80.35,2014
+07/28,Charleston,WV,7,Mandarins,World Class,75.95,2014
+07/28,Dublin,OH,1,Vanguard,World Class,92.85,2014
+07/28,Rice Lake,WI,1,Blue Devils B,Open Class,75.95,2014
+07/29,Erie,PA,1,Blue Knights,World Class,90.25,2014
+07/29,Salem,VA,1,Blue Devils,World Class,95.35,2014
+07/28,Dublin,OH,2,Blue Knights,World Class,89.1,2014
+07/28,Rice Lake,WI,2,Spartans,Open Class,74.0,2014
+07/29,Erie,PA,2,Madison Scouts,World Class,87.15,2014
+07/29,Salem,VA,2,Carolina Crown,World Class,92.55,2014
+07/28,Dublin,OH,3,Madison Scouts,World Class,85.6,2014
+07/28,Rice Lake,WI,3,Music City,Open Class,70.65,2014
+07/29,Erie,PA,3,Troopers,World Class,83.15,2014
+07/29,Salem,VA,3,Cavaliers,World Class,91.1,2014
+07/28,Dublin,OH,4,Troopers,World Class,82.3,2014
+07/28,Rice Lake,WI,4,Racine Scouts,Open Class,56.8,2014
+07/29,Erie,PA,4,Pacific Crest,World Class,79.35,2014
+07/29,Salem,VA,4,Blue Stars,World Class,86.85,2014
+07/28,Dublin,OH,5,Pacific Crest,World Class,77.15,2014
+07/28,Rice Lake,WI,5,Blue Saints,Open Class,48.1,2014
+07/29,Erie,PA,5,Oregon Crusaders,World Class,78.35,2014
+07/29,Salem,VA,5,Colts,World Class,82.2,2014
+07/28,Dublin,OH,6,Jersey Surf,World Class,73.6,2014
+07/29,Erie,PA,6,Mandarins,World Class,77.5,2014
+07/29,Salem,VA,6,Academy,World Class,78.65,2014
+07/28,Dublin,OH,7,Cascades,World Class,70.4,2014
+07/29,Erie,PA,7,Jersey Surf,World Class,74.8,2014
+07/29,Salem,VA,7,Pioneer,World Class,69.15,2014
+07/29,Erie,PA,8,Cascades,World Class,71.9,2014
+07/28,Dublin,OH,1,Vanguard Cadets,Open Class,74.2,2014
+07/29,Erie,PA,1,Les Stentors,Open Class,59.2,2014
+07/29,Troy,MI,1,Vanguard Cadets,Open Class,74.85,2014
+07/30,Saint Paul,MN,1,Blue Devils B,Open Class,77.45,2014
+07/30,West Chester,PA,1,Cadets,World Class,94.95,2014
+07/31,Quincy,MA,1,Boston Crusaders,World Class,87.2,2014
+07/29,Troy,MI,2,Genesis,Open Class,72.3,2014
+07/30,Saint Paul,MN,2,Spartans,Open Class,73.15,2014
+07/30,West Chester,PA,2,Bluecoats,World Class,94.05,2014
+07/31,Quincy,MA,2,Madison Scouts,World Class,87.0,2014
+07/29,Troy,MI,3,7th Regiment,Open Class,71.25,2014
+07/30,Saint Paul,MN,3,Gold,Open Class,71.75,2014
+07/30,West Chester,PA,3,Carolina Crown,World Class,93.4,2014
+07/31,Quincy,MA,3,Crossmen,World Class,84.25,2014
+07/29,Troy,MI,4,Legends,Open Class,67.7,2014
+07/30,Saint Paul,MN,4,Music City,Open Class,71.25,2014
+07/30,West Chester,PA,4,Cavaliers,World Class,92.2,2014
+07/31,Quincy,MA,4,Troopers,World Class,82.3,2014
+07/29,Troy,MI,5,Raiders,Open Class,63.6,2014
+07/30,Saint Paul,MN,5,Colt Cadets,Open Class,62.35,2014
+07/30,West Chester,PA,5,Blue Stars,World Class,86.8,2014
+07/31,Quincy,MA,5,Jersey Surf,World Class,76.15,2014
+07/29,Troy,MI,6,Coastal Surge,Open Class,60.05,2014
+07/30,Saint Paul,MN,6,Racine Scouts,Open Class,54.75,2014
+07/30,West Chester,PA,6,Crossmen,World Class,83.15,2014
+07/30,Saint Paul,MN,7,Blue Saints,Open Class,47.05,2014
+07/30,West Chester,PA,7,Colts,World Class,80.9,2014
+07/30,West Chester,PA,7,Spirit of Atlanta,World Class,80.9,2014
+07/30,Saint Paul,MN,1,Govenaires,DCA A Class,66.5,2014
+07/30,West Chester,PA,9,Jersey Surf,World Class,74.35,2014
+07/29,Troy,MI,1,Blue Devils,World Class,96.9,2014
+07/29,Troy,MI,2,Cadets,World Class,94.6,2014
+07/29,Troy,MI,3,Bluecoats,World Class,93.85,2014
+07/29,Troy,MI,4,Vanguard,World Class,93.1,2014
+07/29,Troy,MI,5,Carolina Crown,World Class,92.6,2014
+07/29,Troy,MI,6,Cavaliers,World Class,92.0,2014
+07/29,Troy,MI,7,Phantom Regiment,World Class,90.0,2014
+08/01,Forest City,IA,1,Blue Devils B,Open Class,77.675,2014
+08/01,Allentown,PA,1,Blue Devils,World Class,96.825,2014
+08/02,Allentown,PA,1,Cadets,World Class,95.15,2014
+08/02,Avon Lake,OH,1,Vanguard Cadets,Open Class,77.525,2014
+08/01,Forest City,IA,2,Spartans,Open Class,73.025,2014
+08/01,Allentown,PA,2,Vanguard,World Class,94.075,2014
+08/02,Allentown,PA,2,Bluecoats,World Class,94.9,2014
+08/02,Avon Lake,OH,2,Genesis,Open Class,74.45,2014
+08/01,Forest City,IA,3,Gold,Open Class,72.875,2014
+08/01,Allentown,PA,3,Phantom Regiment,World Class,89.75,2014
+08/02,Allentown,PA,3,Carolina Crown,World Class,93.425,2014
+08/02,Avon Lake,OH,3,7th Regiment,Open Class,73.475,2014
+08/01,Forest City,IA,4,Music City,Open Class,71.425,2014
+08/01,Allentown,PA,4,Blue Knights,World Class,89.6,2014
+08/02,Allentown,PA,4,Cavaliers,World Class,91.975,2014
+08/02,Avon Lake,OH,4,Legends,Open Class,70.275,2014
+08/01,Forest City,IA,5,Colt Cadets,Open Class,64.275,2014
+08/01,Allentown,PA,5,Boston Crusaders,World Class,87.825,2014
+08/02,Allentown,PA,5,Madison Scouts,World Class,86.9,2014
+08/02,Avon Lake,OH,5,Raiders,Open Class,65.525,2014
+08/01,Forest City,IA,6,Racine Scouts,Open Class,56.975,2014
+08/01,Allentown,PA,6,Blue Stars,World Class,86.8,2014
+08/02,Allentown,PA,6,Crossmen,World Class,85.425,2014
+08/02,Avon Lake,OH,6,Coastal Surge,Open Class,63.475,2014
+08/01,Forest City,IA,7,Blue Saints,Open Class,48.825,2014
+08/01,Allentown,PA,7,Colts,World Class,82.175,2014
+08/02,Allentown,PA,7,Troopers,World Class,83.8,2014
+08/02,Avon Lake,OH,7,Les Stentors,Open Class,59.65,2014
+08/01,Allentown,PA,8,Pacific Crest,World Class,78.375,2014
+08/02,Allentown,PA,8,Spirit of Atlanta,World Class,80.75,2014
+08/01,Allentown,PA,9,Oregon Crusaders,World Class,77.35,2014
+08/02,Allentown,PA,9,Academy,World Class,79.825,2014
+08/01,Allentown,PA,10,Cascades,World Class,71.75,2014
+08/02,Allentown,PA,10,Mandarins,World Class,75.975,2014
+08/01,Allentown,PA,11,Pioneer,World Class,68.1,2014
+08/02,Allentown,PA,11,Jersey Surf,World Class,75.0,2014
+08/02,Kingston,NY,1,Hawthorne Caballeros,DCA Open Class,89.3,2014
+08/02,Racine,WI,1,Minnesota Brass,DCA Open Class,86.5,2014
+08/03,Schuylerville,NY,1,Fusion Core,DCA Open Class,88.3,2014
+08/03,Pittsburgh,PA,1,Phantom Regiment,World Class,90.75,2014
+08/02,Kingston,NY,2,Fusion Core,DCA Open Class,88.1,2014
+08/02,Racine,WI,2,Kilties,DCA A Class,66.35,2014
+08/03,Schuylerville,NY,2,Bushwackers,DCA Open Class,79.5,2014
+08/03,Pittsburgh,PA,2,Blue Knights,World Class,89.8,2014
+08/02,Kingston,NY,3,Connecticut Hurricanes,DCA Open Class,79.55,2014
+08/03,Schuylerville,NY,3,Sunrisers,DCA Open Class,78.3,2014
+08/03,Pittsburgh,PA,3,Boston Crusaders,World Class,87.75,2014
+08/02,Kingston,NY,4,Bushwackers,DCA Open Class,77.85,2014
+08/02,Racine,WI,1,Govenaires,DCA A Class,75.25,2014
+08/03,Schuylerville,NY,4,Windsor Regiment,DCA Open Class,74.3,2014
+08/03,Pittsburgh,PA,4,Blue Stars,World Class,87.15,2014
+08/02,Kingston,NY,5,Sunrisers,DCA Open Class,76.25,2014
+08/02,Racine,WI,2,Cincinnati Tradition,DCA A Class,66.15,2014
+08/03,Pittsburgh,PA,5,Colts,World Class,82.25,2014
+08/02,Kingston,NY,6,Windsor Regiment,DCA Open Class,72.55,2014
+08/03,Schuylerville,NY,1,White Sabers,DCA A Class,82.8,2014
+08/03,Pittsburgh,PA,6,Pacific Crest,World Class,78.2,2014
+08/03,Schuylerville,NY,2,Excelsior,DCA A Class,68.15,2014
+08/03,Pittsburgh,PA,7,Mandarins,World Class,76.4,2014
+08/02,Kingston,NY,1,White Sabers,DCA A Class,79.9,2014
+08/03,Pittsburgh,PA,8,Cascades,World Class,71.7,2014
+08/02,Kingston,NY,2,Excelsior,DCA A Class,67.05,2014
+08/03,Buffalo,NY,1,Blue Devils,World Class,97.55,2014
+08/04,Massillon,OH,1,Cadets,World Class,96.1,2014
+08/04,Centerville,OH,1,Cavaliers,World Class,91.65,2014
+08/03,Buffalo,NY,2,Cadets,World Class,95.9,2014
+08/04,Massillon,OH,2,Bluecoats,World Class,95.3,2014
+08/04,Centerville,OH,2,Blue Knights,World Class,90.4,2014
+08/03,Buffalo,NY,3,Bluecoats,World Class,95.2,2014
+08/04,Massillon,OH,3,Vanguard,World Class,94.75,2014
+08/04,Centerville,OH,3,Blue Stars,World Class,88.7,2014
+08/03,Buffalo,NY,4,Carolina Crown,World Class,95.15,2014
+08/04,Massillon,OH,4,Carolina Crown,World Class,94.1,2014
+08/04,Centerville,OH,4,Colts,World Class,85.35,2014
+08/03,Buffalo,NY,5,Vanguard,World Class,94.05,2014
+08/04,Massillon,OH,5,Phantom Regiment,World Class,90.85,2014
+08/04,Centerville,OH,5,Oregon Crusaders,World Class,82.1,2014
+08/03,Buffalo,NY,6,Cavaliers,World Class,92.1,2014
+08/04,Massillon,OH,6,Boston Crusaders,World Class,87.95,2014
+08/04,Centerville,OH,6,Academy,World Class,81.7,2014
+08/03,Buffalo,NY,7,Troopers,World Class,84.2,2014
+08/04,Massillon,OH,7,Crossmen,World Class,85.3,2014
+08/04,Centerville,OH,7,Spirit of Atlanta,World Class,81.55,2014
+08/04,Centerville,OH,8,Pacific Crest,World Class,79.15,2014
+08/04,Centerville,OH,9,Jersey Surf,World Class,77.05,2014
+08/04,Michigan City,IN,1,Blue Devils B,Open Class,80.825,2014
+08/05,Michigan City,IN,1,Blue Devils B,Open Class,82.65,2014
+08/04,Michigan City,IN,2,Vanguard Cadets,Open Class,80.05,2014
+08/05,Michigan City,IN,2,Vanguard Cadets,Open Class,81.65,2014
+08/04,Michigan City,IN,3,Spartans,Open Class,76.875,2014
+08/05,Michigan City,IN,3,Genesis,Open Class,77.9,2014
+08/04,Michigan City,IN,4,Genesis,Open Class,75.925,2014
+08/05,Michigan City,IN,4,Spartans,Open Class,77.025,2014
+08/04,Michigan City,IN,5,7th Regiment,Open Class,75.275,2014
+08/05,Michigan City,IN,5,7th Regiment,Open Class,75.6,2014
+08/04,Michigan City,IN,6,Gold,Open Class,73.725,2014
+08/05,Michigan City,IN,6,Gold,Open Class,74.125,2014
+08/04,Michigan City,IN,7,Music City,Open Class,72.825,2014
+08/05,Michigan City,IN,7,Legends,Open Class,73.675,2014
+08/04,Michigan City,IN,8,Legends,Open Class,72.4,2014
+08/05,Michigan City,IN,8,Music City,Open Class,72.975,2014
+08/04,Michigan City,IN,9,Raiders,Open Class,67.9,2014
+08/05,Michigan City,IN,9,Raiders,Open Class,69.1,2014
+08/04,Michigan City,IN,10,Colt Cadets,Open Class,65.175,2014
+08/05,Michigan City,IN,10,Colt Cadets,Open Class,66.0,2014
+08/04,Michigan City,IN,11,Coastal Surge,Open Class,64.575,2014
+08/05,Michigan City,IN,11,Coastal Surge,Open Class,65.025,2014
+08/04,Michigan City,IN,12,Les Stentors,Open Class,63.85,2014
+08/05,Michigan City,IN,12,Les Stentors,Open Class,61.275,2014
+08/04,Michigan City,IN,13,Racine Scouts,Open Class,58.85,2014
+08/04,Michigan City,IN,14,Blue Saints,Open Class,50.075,2014
+08/04,Michigan City,IN,1,Patria,International Class,43.95,2014
+08/07,Indianapolis,IN,1,Blue Devils,World Class,98.55,2014
+08/08,Indianapolis,IN,1,Blue Devils,World Class,98.95,2014
+08/09,Indianapolis,IN,1,Blue Devils,World Class,99.65,2014
+08/07,Indianapolis,IN,2,Cadets,World Class,96.925,2014
+08/08,Indianapolis,IN,2,Cadets,World Class,96.7,2014
+08/09,Indianapolis,IN,2,Bluecoats,World Class,97.175,2014
+08/07,Indianapolis,IN,3,Bluecoats,World Class,95.8,2014
+08/08,Indianapolis,IN,3,Bluecoats,World Class,96.55,2014
+08/09,Indianapolis,IN,3,Cadets,World Class,96.875,2014
+08/07,Indianapolis,IN,4,Vanguard,World Class,95.45,2014
+08/08,Indianapolis,IN,4,Vanguard,World Class,95.65,2014
+08/09,Indianapolis,IN,4,Vanguard,World Class,96.075,2014
+08/07,Indianapolis,IN,5,Carolina Crown,World Class,94.75,2014
+08/08,Indianapolis,IN,5,Carolina Crown,World Class,95.3,2014
+08/09,Indianapolis,IN,5,Carolina Crown,World Class,95.675,2014
+08/07,Indianapolis,IN,6,Cavaliers,World Class,93.0,2014
+08/08,Indianapolis,IN,6,Cavaliers,World Class,93.275,2014
+08/09,Indianapolis,IN,6,Cavaliers,World Class,93.675,2014
+08/07,Indianapolis,IN,7,Blue Knights,World Class,91.65,2014
+08/08,Indianapolis,IN,7,Blue Knights,World Class,91.825,2014
+08/09,Indianapolis,IN,7,Phantom Regiment,World Class,91.425,2014
+08/07,Indianapolis,IN,8,Phantom Regiment,World Class,91.025,2014
+08/08,Indianapolis,IN,8,Phantom Regiment,World Class,91.55,2014
+08/09,Indianapolis,IN,8,Blue Knights,World Class,91.15,2014
+08/07,Indianapolis,IN,9,Blue Stars,World Class,89.375,2014
+08/08,Indianapolis,IN,9,Blue Stars,World Class,89.225,2014
+08/09,Indianapolis,IN,9,Blue Stars,World Class,89.6,2014
+08/07,Indianapolis,IN,10,Boston Crusaders,World Class,89.125,2014
+08/08,Indianapolis,IN,10,Boston Crusaders,World Class,89.05,2014
+08/09,Indianapolis,IN,10,Boston Crusaders,World Class,88.95,2014
+08/07,Indianapolis,IN,11,Madison Scouts,World Class,88.425,2014
+08/08,Indianapolis,IN,11,Madison Scouts,World Class,87.65,2014
+08/09,Indianapolis,IN,11,Madison Scouts,World Class,87.575,2014
+08/07,Indianapolis,IN,12,Crossmen,World Class,86.25,2014
+08/08,Indianapolis,IN,12,Crossmen,World Class,85.45,2014
+08/09,Indianapolis,IN,12,Crossmen,World Class,86.225,2014
+08/07,Indianapolis,IN,13,Colts,World Class,84.725,2014
+08/08,Indianapolis,IN,13,Colts,World Class,85.35,2014
+08/07,Indianapolis,IN,14,Troopers,World Class,84.6,2014
+08/08,Indianapolis,IN,14,Troopers,World Class,84.775,2014
+08/07,Indianapolis,IN,15,Spirit of Atlanta,World Class,82.3,2014
+08/08,Indianapolis,IN,15,Blue Devils B,Open Class,82.325,2014
+08/07,Indianapolis,IN,16,Academy,World Class,81.875,2014
+08/08,Indianapolis,IN,16,Academy,World Class,81.875,2014
+08/07,Indianapolis,IN,17,Oregon Crusaders,World Class,81.05,2014
+08/08,Indianapolis,IN,17,Spirit of Atlanta,World Class,81.55,2014
+08/07,Indianapolis,IN,18,Blue Devils B,Open Class,80.8,2014
+08/08,Indianapolis,IN,18,Vanguard Cadets,Open Class,80.2,2014
+08/07,Indianapolis,IN,19,Pacific Crest,World Class,79.375,2014
+08/08,Indianapolis,IN,19,Oregon Crusaders,World Class,80.1,2014
+08/07,Indianapolis,IN,20,Vanguard Cadets,Open Class,79.3,2014
+08/08,Indianapolis,IN,20,Pacific Crest,World Class,78.9,2014
+08/07,Indianapolis,IN,21,Mandarins,World Class,77.75,2014
+08/08,Indianapolis,IN,21,Mandarins,World Class,78.15,2014
+08/07,Indianapolis,IN,22,Jersey Surf,World Class,75.55,2014
+08/08,Indianapolis,IN,22,Jersey Surf,World Class,75.8,2014
+08/07,Indianapolis,IN,23,Genesis,Open Class,75.175,2014
+08/08,Indianapolis,IN,23,Genesis,Open Class,74.075,2014
+08/07,Indianapolis,IN,24,Spartans,Open Class,74.425,2014
+08/08,Indianapolis,IN,24,Spartans,Open Class,74.05,2014
+08/07,Indianapolis,IN,25,7th Regiment,Open Class,72.35,2014
+08/08,Indianapolis,IN,25,7th Regiment,Open Class,71.475,2014
+08/07,Indianapolis,IN,26,Cascades,World Class,72.25,2014
+08/07,Indianapolis,IN,27,Music City,Open Class,71.575,2014
+08/07,Indianapolis,IN,28,Gold,Open Class,71.25,2014
+08/07,Indianapolis,IN,29,Legends,Open Class,71.0,2014
+08/07,Indianapolis,IN,30,Pioneer,World Class,68.85,2014
+08/07,Indianapolis,IN,31,Raiders,Open Class,66.25,2014
+08/07,Indianapolis,IN,32,Colt Cadets,Open Class,63.15,2014
+08/07,Indianapolis,IN,33,Coastal Surge,Open Class,60.625,2014
+08/07,Indianapolis,IN,34,Les Stentors,Open Class,57.425,2014
+08/07,Indianapolis,IN,35,Racine Scouts,Open Class,55.6,2014
+08/07,Indianapolis,IN,36,Blue Saints,Open Class,51.25,2014
+08/07,Indianapolis,IN,37,Patria,International Class,46.375,2014
+08/09,Lawrence,NJ,1,Hawthorne Caballeros,DCA Open Class,90.65,2014
+08/15,Mendota Heights,MN,1,Minnesota Brass,DCA Open Class,91.25,2014
+08/16,Scranton,PA,1,Hawthorne Caballeros,DCA Open Class,92.6,2014
+08/16,Douglasville,GA,1,Atlanta CV,DCA Open Class,88.6,2014
+08/09,Lawrence,NJ,2,Cadets 2,DCA Open Class,87.0,2014
+08/15,Mendota Heights,MN,2,Kilties,DCA A Class,71.35,2014
+08/16,Scranton,PA,2,Reading Buccaneers,DCA Open Class,92.55,2014
+08/16,Douglasville,GA,2,Carolina Gold,DCA Open Class,83.0,2014
+08/09,Lawrence,NJ,3,Bushwackers,DCA Open Class,81.25,2014
+08/16,Scranton,PA,3,Fusion Core,DCA Open Class,89.85,2014
+08/16,Douglasville,GA,3,Alliance,DCA Open Class,79.35,2014
+08/09,Lawrence,NJ,4,Sunrisers,DCA Open Class,80.3,2014
+08/15,Mendota Heights,MN,1,Govenaires,DCA A Class,81.1,2014
+08/16,Scranton,PA,4,Cadets 2,DCA Open Class,87.35,2014
+08/09,Lawrence,NJ,5,Skyliners,DCA A Class,74.1,2014
+08/16,Scranton,PA,5,Bushwackers,DCA Open Class,83.85,2014
+08/16,Douglasville,GA,1,Sun Devils,DCA A Class,81.1,2014
+08/16,Scranton,PA,6,Connecticut Hurricanes,DCA Open Class,81.2,2014
+08/16,Douglasville,GA,2,Cincinnati Tradition,DCA A Class,71.25,2014
+08/09,Lawrence,NJ,1,Excelsior,DCA A Class,68.45,2014
+08/16,Scranton,PA,7,Skyliners,DCA A Class,73.3,2014
+08/16,Scranton,PA,1,White Sabers,DCA A Class,82.4,2014
+08/16,Saint Peter,MN,1,Minnesota Brass,DCA Open Class,92.35,2014
+08/23,Reading,PA,1,Hawthorne Caballeros,DCA Open Class,94.25,2014
+08/23,Bridgeport,CT,1,Bushwackers,DCA Open Class,90.1,2014
+08/16,Saint Peter,MN,2,Kilties,DCA A Class,72.5,2014
+08/23,Reading,PA,2,Reading Buccaneers,DCA Open Class,93.7,2014
+08/23,Bridgeport,CT,2,Connecticut Hurricanes,DCA Open Class,83.75,2014
+08/23,Reading,PA,3,Fusion Core,DCA Open Class,92.35,2014
+08/23,Bridgeport,CT,3,Windsor Regiment,DCA Open Class,83.5,2014
+08/16,Saint Peter,MN,1,Govenaires,DCA A Class,83.25,2014
+08/23,Reading,PA,4,Cadets 2,DCA Open Class,89.35,2014
+08/23,Bridgeport,CT,4,Sunrisers,DCA Open Class,79.75,2014
+08/23,Reading,PA,5,Carolina Gold,DCA Open Class,82.05,2014
+08/23,Bridgeport,CT,1,Excelsior,DCA A Class,71.85,2014
+08/23,Reading,PA,1,White Sabers,DCA A Class,84.6,2014
+08/30,Rochester,NY,1,White Sabers,DCA A Class,88.03,2014
+08/31,Rochester,NY,1,White Sabers,DCA A Class,88.6,2014
+08/30,Rochester,NY,1,Hawthorne Caballeros,DCA Open Class,96.85,2014
+08/31,Rochester,NY,1,Reading Buccaneers,DCA Open Class,97.55,2014
+08/30,Rochester,NY,2,Govenaires,DCA A Class,84.95,2014
+08/31,Rochester,NY,2,Govenaires,DCA A Class,83.98,2014
+08/30,Rochester,NY,2,Minnesota Brass,DCA Open Class,96.4,2014
+08/31,Rochester,NY,2,Minnesota Brass,DCA Open Class,96.53,2014
+08/30,Rochester,NY,3,Sun Devils,DCA A Class,82.25,2014
+08/31,Rochester,NY,3,Sun Devils,DCA A Class,81.0,2014
+08/30,Rochester,NY,3,Reading Buccaneers,DCA Open Class,95.95,2014
+08/31,Rochester,NY,3,Hawthorne Caballeros,DCA Open Class,95.53,2014
+08/30,Rochester,NY,4,Cincinnati Tradition,DCA A Class,73.93,2014
+08/31,Rochester,NY,4,Cincinnati Tradition,DCA A Class,75.05,2014
+08/30,Rochester,NY,4,Fusion Core,DCA Open Class,94.23,2014
+08/31,Rochester,NY,4,Fusion Core,DCA Open Class,94.4,2014
+08/30,Rochester,NY,5,Excelsior,DCA A Class,71.33,2014
+08/30,Rochester,NY,5,Atlanta CV,DCA Open Class,91.85,2014
+08/31,Rochester,NY,5,Cadets 2,DCA Open Class,92.6,2014
+08/30,Rochester,NY,6,Cadets 2,DCA Open Class,91.1,2014
+08/31,Rochester,NY,6,Atlanta CV,DCA Open Class,92.4,2014
+08/30,Rochester,NY,7,Bushwackers,DCA Open Class,88.98,2014
+08/31,Rochester,NY,7,Bushwackers,DCA Open Class,89.8,2014
+08/30,Rochester,NY,8,Connecticut Hurricanes,DCA Open Class,86.58,2014
+08/31,Rochester,NY,8,Connecticut Hurricanes,DCA Open Class,87.35,2014
+08/30,Rochester,NY,9,Carolina Gold,DCA Open Class,85.05,2014
+08/31,Rochester,NY,9,Carolina Gold,DCA Open Class,85.2,2014
+08/30,Rochester,NY,10,Alliance,DCA Open Class,84.45,2014
+08/31,Rochester,NY,10,Alliance,DCA Open Class,84.05,2014
+08/30,Rochester,NY,11,Sunrisers,DCA Open Class,83.5,2014
+08/30,Rochester,NY,12,Windsor Regiment,DCA Open Class,79.08,2014
+08/30,Rochester,NY,13,Skyliners,DCA A Class,77.63,2014
+08/30,Rochester,NY,14,Kilties,DCA A Class,74.48,2014

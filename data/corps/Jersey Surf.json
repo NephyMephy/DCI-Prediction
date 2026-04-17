@@ -1,0 +1,67 @@
+{
+ "location": [
+   {
+     "city": "Camden County",
+     "state": "NJ", 
+     "year": "1990-1991"
+   },
+   {
+     "city": "Berlin",
+     "state": "NJ", 
+     "year": "1991-1992"
+   },
+   {
+     "city": "Atco",
+     "state": "NJ", 
+     "year": "1992-2004"
+   },
+   {
+     "city": "Mount Holly",
+     "state": "NJ", 
+     "year": "2004-2024"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division II"},
+   {"circuit": "DCI", "years": "2008", "className": "Open Class"},
+   {"circuit": "DCI", "years": "2009-2024", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1992, "showTitle": "Classics by Harry Connick Jr. and Doc Sevrenson", "repertoire": "We Are in Love by Harry Connick, Jr. & Ramsey McLean / Stardust by Hoagie Carmichael / The Jersey Bounce by Tiny Bradshaw, Eddie Johnson, Bobby Plater & Buddy Feyne", "placement": "Did not attend DCI", "score": null},
+   {"year": 1993, "showTitle": "A League of Their Own", "repertoire": "Selections from A League of Their Own by Hans Zimmer", "placement": "", "score": null},
+   {"year": 1994, "showTitle": "The Music of Barbra Streisand", "repertoire": "(Repertoire unavailable)", "placement": "15th Place", "score": 74.200},
+   {"year": 1995, "showTitle": "New Age Jazz of John Tesh and Yanni", "repertoire": "(Repertoire unavailable)", "placement": "8th Place", "score": 83.200},
+   {"year": 1996, "showTitle": "Surf, Wind and Fire: Cool Tunes from the Back of the Bus", "repertoire": "(Repertoire unavailable)", "placement": "7th Place", "score": 84.100},
+   {"year": 1997, "showTitle": "More Cool Times", "repertoire": "Got To Get You Into My Life by John Lennon & Paul McCartney / Through the Fire by David Foster, Tom Keane & Cynthia Weil / Rock That by Maurice White & David Foster / For Once in My Life by Stevie Wonder", "placement": "6th Place", "score": 81.300},
+   {"year": 1998, "showTitle": "Pictures of Spain – Interpretation of a Larry Kerchner Original", "repertoire": "Portraits of Spain (Scenes 1, 2, and 3) by Larry Kerchner / Spanish Fantasy by Chick Correa / A Mis Abuelos by Arturo Sandoval", "placement": "6th Place", "score": 89.500},
+   {"year": 1999, "showTitle": "It Ain't Necessarily Summertime", "repertoire": "Summertime (from Porgy and Bess) by George Gershwin / Take Five by Paul Desmond / Waltz of the Mushroom Hunters by Greg Hopkins / A Night in Tunisia by John Birks Gillespie / It Ain't Necessarily So (from Porgy and Bess) by George Gershwin", "placement": "5th Place", "score": 88.700},
+   {"year": 2000, "showTitle": "re-in-CARMEN-ation", "repertoire": "Selections from Carmen by Georges Bizet", "placement": "4th Place", "score": 90.850},
+   {"year": 2001, "showTitle": "Are We There Yet? – The Music of Mays and Metheny", "repertoire": "Are We There Yet? by Lyle Mays / Have You Heard & See the World by Pat Metheny / Heat of the Day & The Awakening by Pat Metheny & Lyle Mays / In Her Family & The Truth Will Always Be by Pat Metheny / First Circle by Pat Metheny & Lyle Mays", "placement": "6th Place", "score": 89.850},
+   {"year": 2002, "showTitle": "Our Side of the Story: Celebrating the Spirit of Youth", "repertoire": "Prologue, Cool, I Feel Pretty & America (from West Side Story) by Leonard Bernstein", "placement": "9th Place", "score": 87.750},
+   {"year": 2003, "showTitle": "Down the Shore with The Jersey Surf", "repertoire": "Theme from A Summer Place by Max Steiner / Wipeout On The Waterfront / Set Free On the Boardwalk", "placement": "5th Place", "score": 89.900},
+   {"year": 2004, "showTitle": "Lounging Around with the Fabulous Jersey Surf", "repertoire": "Shangri-la by Matty Malneck, Robert Maxwell and Carl Sigman / This Could Be The Start of Something Big by Steve Allen / Girl From Ipanema by Antônio Carlos Jobim / Also Sprach Zarathustra by Richard Strauss / See See Rider (Traditional) / Hound Dog & Jailhouse Rock by Jerry Leiber and Mike Stoller / Can't Help Falling in Love by Hugo Peretti, Luigi Creatore & George David Weiss / My Way by Claude François & Jacques Revaux, adapted by Paul Anka", "placement": "8th Place", "score": 86.700},
+   {"year": 2005, "showTitle": "The Jersey Surf Enjoys an Evening at the Pops", "repertoire": "Symphony No. 5 in C Minor by Ludwig van Beethoven / William Tell Overture by Gioachino Rossini / Toccata and Fugue in D minor by Johann Sebastian Bach / Poet and Peasant Overture by Franz von Suppé / Barber of Seville by Gioachino Rossini / 2nd Hungarian Rhapsody by Franz Liszt / 1812 Overture by Peter Ilyich Tchaikovsky / Stars and Stripes Forever by John Philip Sousa", "placement": "8th Place", "score": 88.325},
+   {"year": 2006, "showTitle": "The Jersey Surf Visits the Moulin Rouge", "repertoire": "Selections from Moulin Rouge by Craig Armstrong, Baz Luhrmann & others", "placement": "7th Place", "score": 86.175},
+   {"year": 2007, "showTitle": "Snapshots From An American Journey", "repertoire": "California Dreamin' by John Phillips and Michelle Phillips / Theme from Shaft by Isaac Hayes / A River Runs Through It & Four Count Rhythm by Mark Isham / Unsquare Dance by Dave Brubeck / LA Confidential by Jerry Goldsmith", "placement": "2nd Place", "score": 95.700},
+   {"year": 2008, "showTitle": "The Jersey Surf: So Far", "repertoire": "How Far We've Come by Rob Thomas, Paul Doucette, Kyle Cook & Brian Yale / In Your Eyes by Peter Gabriel / One Day I'll Fly Away (from Moulin Rouge!) by Joe Sample & Will Jennings / Thnks fr th Mmrs by Patrick Stump and Pete Wentz", "placement": "3rd Place", "score": 96.050},
+   {"year": 2009, "showTitle": "Mozart Effect", "repertoire": "Overture from The Marriage of Figaro / Inspirations from Symphony No. 40 in G minor / The Lacrimosa from Requiem / Magic Flute, Act II: Pa-Pa-Pa-Papageno & Der Holle knocht in meinem Herz / Symphony No. 50 in G minor / Eine Kleine Nachtmusik All by Wolfgang Amadeus Mozart", "placement": "20th Place", "score": 78.550},
+   {"year": 2010, "showTitle": "Living the Dream", "repertoire": "Organ Variations on America by Charles Ives / America the Beautiful by Samuel A. Ward / Festival Variations On A National Air by Dudley Buck", "placement": "21st Place", "score": 75.700},
+   {"year": 2011, "showTitle": "Petal Tones: Shades of Rose", "repertoire": "The Flower Song (from Carmen) by Georges Bizet / Bad Romance by Nadir Khayat & Stefani Germanotta / Habanera (from Carmen) by Georses Bizet / Libertango by Astor Piazolla / Kiss from a Rose by Seal / El Tango de Roxanne (from Moulin Rouge!) by Gordon Matthew Thomas Sumner (Sting) & Mariano Mores, adapted by Craig Armstrong / Toreador Song (from Carmen) by Georges Bizet", "placement": "25th Place", "score": 71.350},
+   {"year": 2012, "showTitle": "Bridgemania!", "repertoire": "In the Stone by Maurice White, Allee Willis & David Foster / Land of Make Believe by Chuck Mangione / Tell William (William Tell Overture) by Gioachino Rossini / Pure Imagination by Leslie Bricusse & Anthony Newley / Party Rock Anthem by Stefan Gordy, Skyler Gordy, Jamahl Listenbee & Peter Schroeder", "placement": "20th Place", "score": 75.450},
+   {"year": 2013, "showTitle": "Soul Surfin' – Bring on the Funk", "repertoire": "Soul Intro by Jaco Pastorius / (Your Love Keeps Lifting Me) Higher and Higher by Gary Jackson, Raynard Miner & Carl Smith / Faces by Philip Bailey, Larry Dunn, Maurice White & Verdine White / Always and Forever by Rod Temperton / Let's Groove by Maurice White & Wayne Vaughan / That's the Way (I Like It) by H. W. (KC) Casey & Richard Finch / Proud Mary by John Fogerty / Apache by Jerry Lordan / Play that Funky Music by Robert Parissi / I Want You Back by Berry Gordy, Freddie Perren, Alphonzo Mizell & Deke Richards / Respect by Otis Redding", "placement": "22nd Place", "score": 75.400},
+   {"year": 2014, "showTitle": "Pay It Forward", "repertoire": "A Fantasia on Appalachian Spring by Aaron Copland / I Think It's Going to Rain Today by Randy Newman / Lean on Me by Bill Withers", "placement": "22nd Place", "score": 75.800},
+   {"year": 2015, "showTitle": "Sun Surfing", "repertoire": "Awakening by Colin Bell / Here Comes The Sun by George Harrison / Don't Let The Sun Go Down On Me by Elton John & Bernie Taupin / Wipeout by Bob Berryhill, Pat Connolly, Jim Fuller & Ron Wilson (The Surfaris) / Good Vibrations by Brian Wilson & Mike Love", "placement": "28th Place", "score": 68.750},
+   {"year": 2016, "showTitle": "Ebb & Flow", "repertoire": "La Mer by Trent Reznor / La Mer by Andrew Yoziviak (inspired by Claude Debussy) / La Mer by Charles Trenet & Georges Augustin / Maelstrom by Robert Thatcher & Colin Bell / Asteraw from Cirque du Soleil's Zarkana by Nick Littlemore", "placement": "26th Place", "score": 71.988},
+   {"year": 2017, "showTitle": "Make It Our Own", "repertoire": "Shofukan by Michael League (Snarky Puppy) / Chandelier by Sia & Jesse Shatkin / An Olive Tree by Kevin Robinson, Basia & Danny White", "placement": "27th Place", "score": 71.613},
+   {"year": 2018, "showTitle": "[mondo mondrian]", "repertoire": "Music for Pieces of Wood by Steve Reich / Cornfield Chase from Interstellar) by Hans Zimmer / Variations on Manuel de Falla's Ritual Fire Dance (from El amor brujo) by Andrew Yozviak / Etude Op 10 No. 12 in C minor, Revolutionary by Frederic Chopin / Behind Blue Eyes by Peter Townshend / Symphony No. 4 by David Maslanka", "placement": "30th Place", "score": 69.925},
+   {"year": 2019, "showTitle": "FantaSea", "repertoire": "Oceans by Goff Richards / Moses and Marco Polo Suite (from Marco Polo) by Ennio Morricone / The Legend of Atlan (from Aquaman) by Rupert Gregson-Williams / Op. 28: The Sea, Fantasy in E major for Orchestra by Alexander Glazunov / Aurora Awakes by John Mackey / He Commands the Sea (from Aquaman) by Rupert Gregson-Williams", "placement": "24th Place", "score": 75.900},
+   {"year": 2022, "showTitle": "Meet Me In Atlantic City", "repertoire": "Pure Imagination by Leslie Bricusse & Anthony Newley / Wayside Festival by Rick Dejonge / Big Girls Don't Cry by Bob Crewe & Bob Gaudio / Sherry by Bob Gaudio / Walk Like a Man by Bob Crewe &Bob Gaudio / Can't Take My Eyes Off Of You by Bob Crewe & Bob Gaudio / Who Loves You by Bob Crewe & Judy Parker / Livin' on a Prayer by Jon Bon Jovi, Richie Sambora & Desmond Child / December 1963 (Oh, What a Night) by Bob Gaudio & Judy Parker", "placement": "25th Place", "score": 73.875},
+   {"year": 2023, "showTitle": "Express Yourself", "repertoire": "Church of the Poison Mind by Michael Emile Craig / True Colors by Tom Kelly & Billy Steinberg / Express Yourself by Stephen Bray & Madonna / Born This Way by Stefani Germanotta & Jeppe Laursen", "placement": "23rd Place", "score": 75.488},
+   {"year": 2024, "showTitle": "Surfadelic", "repertoire": "Boogie Wonderland by Earth, Wind, and Fire / What is Hip? by Tower of Power / Can't Get Enough of Your Love by Barry White", "placement": "24th Place", "score": 74.425}
+ ]
+}

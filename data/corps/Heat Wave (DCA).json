@@ -1,0 +1,35 @@
+{
+ "location": [
+   {
+     "city": "Orlando",
+     "state": "FL", 
+     "year": "1992-2007"
+   }
+ ],
+ "formerNames": [],
+ "championships": [
+   {"circuit": "DCA A Class", "year": 2003, "score": 75.963, "showTitle": "Midnight Tango"}
+ ],
+ "captionAwards": [],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCA", "years": "1995-1996, 2000-2001", "className": "Mini Corps"},
+   {"circuit": "DCA", "years": "1997-2007", "className": "A Class"}
+ ],
+ "shows": [
+   {"year": 1995, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "3rd Place Mini Corps", "score": 93.000},
+   {"year": 1996, "showTitle": "", "repertoire": "(Repertoire not available)", "placement": "4th Place Mini Corps", "score": 83.800},
+   {"year": 1997, "showTitle": "A Summer Day in Florida", "repertoire": "Heat Wave * On and On * Surfin Safari * Wipe Out * Jaws * I Dream of Jeannie Theme * Don't Let the Sun Go Down on Me", "placement": "2nd Place", "score": 70.600},
+   {"year": 1998, "showTitle": "", "repertoire": "Tropical Heat Wave * Con Los Anos Que Me Quedan * Fanfara * Florida Medley: Fins/Flipper, Jaws, I Dream of Jeannie * Fins * Theme from Flipper * Jaws * Theme (from I Dream of Jeannnie) * Don't Let the Sun Go Down On Me", "placement": "1st Place", "score": 74.400},
+   {"year": 1999, "showTitle": "Songs in the Keys of Florida", "repertoire": "Melancholy Serenade * Kokomo * Cheeseburger in Paradise * Volcano * Fins * Here We Are * Oye", "placement": "2nd Place", "score": 69.300},
+   {"year": 2000, "showTitle": "Postcards From Florida", "repertoire": "Here Comes The Sun * Fever * Cheeseburgers & Drumsticks In The Pool Of Paradise * Reach * Oye", "placement": "11th Place A Class / 4th Place Mini Corps", "score": 74.200},
+   {"year": 2001, "showTitle": "Miami……Then And Now", "repertoire": "Danza Ritual Del Fuego * Rhythm of Our World (from Hot House) * Oye * MSM & Gloria", "placement": "2nd Place A Class / 6th Place Mini Corps", "score": 78.600},
+   {"year": 2002, "showTitle": "The Music of Santana", "repertoire": "(Da Le) Yaleo * Black Magic Woman * Evil Ways * Jing-Go-Lo-Ba * Smooth", "placement": "2nd Place", "score": 77.700},
+   {"year": 2003, "showTitle": "Midnight Tango", "repertoire": "Morocco * Mas Que Nada * Egyptian Danza * Pais Tropical", "placement": "1st Place", "score": 75.963},
+   {"year": 2004, "showTitle": "A Night Of Carnaval", "repertoire": "Carnaval * Samba Brazil * Girl from Ipanema * Este Noche * Santo Santo", "placement": "4th Place", "score": 73.500},
+   {"year": 2005, "showTitle": "", "repertoire": "Time from Dark Side of the Moon * Commencement * 3x3x2x2x2 = 72 * Take Five Tito * Artistry in Percussion * As Time Goes By (from Casablanca) * The Time Warp (from Rocky Horror Picture Show)", "placement": "5th Place", "score": 71.288},
+   {"year": 2006, "showTitle": "Jazz Cubano – The Music of Stan Kenton and Chuck Mangione", "repertoire": "El Congo Valiente (from Cuban Fire Suite) * Recuerdos (from Cuban Fire Suite) * Quien Sabe (Who Knows) from Cuban Fire Suite * El Gato Triste", "placement": "Did not attend DCA", "score": null},
+   {"year": 2007, "showTitle": "Danza de la Corazon", "repertoire": "Quensabe Los Suertas de Los Tontos (from Cuban Fire Suite) * El Congo Valiente (from Cuban Fire Suite) * Recuerdos (from Cuban Fire Suite) * Celebration Suite", "placement": "Did not attend DCA", "score": null}
+ ]
+}

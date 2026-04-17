@@ -1,0 +1,1665 @@
+Date,City,State,Place,Corps,Class,Score,Year
+05/26,Weymouth,MA,1,Saint Rita's Brassmen,World Class,77.7,1973
+05/26,Kenosha,WI,1,Blue Stars,World Class,70.15,1973
+05/26,Kingston,NY,1,Valley Grenadiers,World Class,72.7,1973
+05/26,Lancaster,PA,1,507 Hornets,World Class,64.15,1973
+05/26,Weymouth,MA,2,27th Lancers,World Class,77.4,1973
+05/26,Kenosha,WI,2,Des Plaines Vanguard,World Class,61.5,1973
+05/26,Kingston,NY,2,Emerald Cadets,World Class,66.75,1973
+05/26,Lancaster,PA,2,Blue Rock,World Class,61.35,1973
+05/26,Weymouth,MA,3,Pembroke Imperials,World Class,72.55,1973
+05/26,Kenosha,WI,3,Cavaliers,World Class,57.2,1973
+05/26,Kingston,NY,3,New London Surfers,World Class,64.95,1973
+05/26,Lancaster,PA,3,Belvederes,World Class,59.4,1973
+05/26,Weymouth,MA,4,IC Reveries,World Class,62.9,1973
+05/26,Kenosha,WI,4,Phantom Regiment,World Class,52.45,1973
+05/26,Kingston,NY,4,Monarchs,World Class,60.45,1973
+05/26,Lancaster,PA,4,Keystone Regiment,World Class,57.8,1973
+05/26,Weymouth,MA,5,Magnificent Yankees,World Class,61.95,1973
+05/26,Kenosha,WI,5,Americanos,World Class,48.05,1973
+05/26,Kingston,NY,5,Belvederes,World Class,60.1,1973
+05/26,Lancaster,PA,5,Sacred Heart Crusaders,World Class,56.1,1973
+05/26,Weymouth,MA,6,Emerald Cadets,World Class,61.7,1973
+05/26,Kenosha,WI,6,Thunderbolts,World Class,37.05,1973
+05/26,Kingston,NY,6,Spiegalaires,World Class,43.0,1973
+05/26,Lancaster,PA,6,Grenadiers,World Class,52.1,1973
+05/26,Weymouth,MA,7,Boston Crusaders,World Class,56.4,1973
+05/26,Vestal,NY,1,Squires,World Class,65.1,1973
+05/27,Saint Clair Shores,MI,1,Spectacle City Mariners,World Class,61.8,1973
+05/27,Kingston,NY,1,CMCC Warriors,World Class,65.8,1973
+05/28,Royal Oak,MI,1,Royal Crusaders,World Class,80.6,1973
+05/26,Vestal,NY,2,Appleknockers,World Class,56.6,1973
+05/27,Saint Clair Shores,MI,2,Glassmen,World Class,54.5,1973
+05/27,Kingston,NY,2,Emerald Cadets,World Class,63.55,1973
+05/28,Royal Oak,MI,2,Queen City Cadets,World Class,67.9,1973
+05/26,Vestal,NY,3,Gauchos,World Class,50.8,1973
+05/27,Saint Clair Shores,MI,2,Iron Brigade,World Class,54.5,1973
+05/27,Kingston,NY,3,Olympians,World Class,60.7,1973
+05/28,Royal Oak,MI,3,Spectacle City Mariners,World Class,66.4,1973
+05/27,Saint Clair Shores,MI,4,Saginaires,World Class,43.8,1973
+05/27,Kingston,NY,4,Belvederes,World Class,59.75,1973
+05/28,Royal Oak,MI,4,Iron Brigade,World Class,64.75,1973
+05/27,Saint Clair Shores,MI,5,Townsmen (ONT),World Class,28.5,1973
+05/27,Kingston,NY,5,Monarchs,World Class,57.2,1973
+05/28,Royal Oak,MI,5,Glassmen,World Class,64.65,1973
+05/27,Kingston,NY,6,Grenadiers,World Class,53.1,1973
+05/28,Royal Oak,MI,6,Vanguard Rockets,World Class,54.85,1973
+05/27,Kingston,NY,7,Fletcher Raiders,World Class,26.25,1973
+06/01,Boston,MA,1,Muchachos,World Class,75.35,1973
+06/02,Saginaw,MI,1,Glassmen,World Class,56.95,1973
+06/02,Orange,CA,1,Velvet Knights,World Class,72.0,1973
+06/02,Newton,PA,1,Valley Grenadiers,World Class,61.35,1973
+06/01,Boston,MA,2,Bridgemen,World Class,74.75,1973
+06/02,Saginaw,MI,2,Vanguard Rockets,World Class,44.85,1973
+06/02,Orange,CA,2,California Crusaders,World Class,65.95,1973
+06/02,Newton,PA,2,Squires,World Class,58.75,1973
+06/01,Boston,MA,3,Garfield Cadets,World Class,67.95,1973
+06/02,Saginaw,MI,3,Presidium,World Class,36.05,1973
+06/02,Orange,CA,3,Imperial Dragons,World Class,64.35,1973
+06/02,Newton,PA,3,Belvederes,World Class,57.35,1973
+06/01,Boston,MA,4,Pembroke Imperials,World Class,66.5,1973
+06/02,Saginaw,MI,4,Marching Angels,World Class,30.75,1973
+06/02,Newton,PA,4,Monarchs,World Class,48.05,1973
+06/01,Boston,MA,5,Blue Rock,World Class,60.35,1973
+06/02,Saginaw,MI,5,Maple City Cadets,World Class,25.05,1973
+06/02,Orange,CA,1,Kings Lancers,World Class,59.35,1973
+06/01,Boston,MA,6,Saint Francis Sancians,World Class,56.65,1973
+06/02,Orange,CA,2,Third Generation,World Class,59.05,1973
+06/01,Boston,MA,7,Boston Crusaders,World Class,55.9,1973
+06/02,Orange,CA,3,VK Squires,World Class,53.0,1973
+06/02,Ottawa,Ontario,1,Cadets of LaSalle,World Class,60.1,1973
+06/03,Gatineau,Quebec,1,Cadets of LaSalle,World Class,58.55,1973
+06/03,Hamden,CT,1,Hawthorne Caballeros,World Class,83.1,1973
+06/09,Gurnee,IL,1,Kilties,World Class,72.65,1973
+06/02,Ottawa,Ontario,2,Toronto Optimists,World Class,53.9,1973
+06/03,Gatineau,Quebec,2,DeLaSalle Oaklands,World Class,55.0,1973
+06/03,Hamden,CT,2,Reading Buccaneers,World Class,81.0,1973
+06/09,Gurnee,IL,2,Des Plaines Vanguard,World Class,64.1,1973
+06/02,Ottawa,Ontario,3,DeLaSalle Oaklands,World Class,51.25,1973
+06/03,Gatineau,Quebec,3,Toronto Optimists,World Class,53.85,1973
+06/03,Hamden,CT,3,Yankee Rebels,World Class,79.78,1973
+06/09,Gurnee,IL,3,Americanos,World Class,60.3,1973
+06/02,Ottawa,Ontario,4,4th Brigade,World Class,42.35,1973
+06/03,Gatineau,Quebec,4,4th Brigade,World Class,46.95,1973
+06/03,Hamden,CT,4,New York Skyliners,World Class,79.75,1973
+06/09,Gurnee,IL,4,Vagabonds,World Class,56.05,1973
+06/03,Hamden,CT,5,Matadors,World Class,64.2,1973
+06/09,Gurnee,IL,5,Madison Junior Scouts,World Class,44.0,1973
+06/03,Hamden,CT,6,Sunrisers,World Class,61.95,1973
+06/09,Gurnee,IL,6,Kiltie Kadets,World Class,43.9,1973
+06/09,Gurnee,IL,7,Warrior Cadets,World Class,31.8,1973
+06/09,Ottawa,Ontario,1,Purple Lancers,World Class,72.45,1973
+06/09,Scarborough,Ontario,1,DeLaSalle Oaklands,World Class,60.25,1973
+06/10,Hamden,CT,1,Glassmen,World Class,61.45,1973
+06/10,Everett,MA,1,Defenders,World Class,70.1,1973
+06/09,Ottawa,Ontario,2,Magnificent Yankees,World Class,68.6,1973
+06/09,Scarborough,Ontario,2,Cadets of LaSalle,World Class,59.6,1973
+06/10,Hamden,CT,2,Mariners,World Class,57.85,1973
+06/10,Everett,MA,2,Annunciators,World Class,61.75,1973
+06/09,Ottawa,Ontario,3,Royal Crusaders,World Class,66.15,1973
+06/09,Scarborough,Ontario,3,Toronto Optimists,World Class,59.0,1973
+06/10,Hamden,CT,3,Iron Brigade,World Class,55.5,1973
+06/10,Everett,MA,3,Imperials,World Class,57.15,1973
+06/09,Ottawa,Ontario,4,Appleknockers,World Class,62.7,1973
+06/09,Scarborough,Ontario,4,Etobicoke Crusaders,World Class,47.1,1973
+06/10,Hamden,CT,4,Saginaires,World Class,45.9,1973
+06/09,Scarborough,Ontario,5,Seneca Princemen,World Class,15.15,1973
+06/10,Hamden,CT,5,Bluewater Lionairs,World Class,31.0,1973
+06/09,Scarborough,Ontario,6,4th Brigade,World Class,41.25,1973
+06/09,Scarborough,Ontario,7,Saint John's Girls,World Class,40.4,1973
+06/09,Scarborough,Ontario,8,Krescendos,World Class,27.55,1973
+06/10,Anaheim,CA,1,Velvet Knights,World Class,72.0,1973
+06/15,Milwaukee,WI,1,Madison Scouts,World Class,72.8,1973
+06/15,Hamden,CT,1,Keystone Regiment,World Class,68.6,1973
+06/15,Lynn,MA,1,Defenders,World Class,62.55,1973
+06/10,Anaheim,CA,2,Imperial Dragons,World Class,67.15,1973
+06/15,Milwaukee,WI,2,Black Knights,World Class,71.35,1973
+06/15,Hamden,CT,2,Gauchos,World Class,66.85,1973
+06/15,Lynn,MA,2,Annunciators,World Class,57.35,1973
+06/15,Milwaukee,WI,3,Kilties,World Class,69.55,1973
+06/15,Hamden,CT,3,Manville Crusaders,World Class,65.15,1973
+06/15,Lynn,MA,3,Socialites,World Class,46.3,1973
+06/10,Anaheim,CA,1,Kings Lancers,World Class,72.25,1973
+06/15,Milwaukee,WI,4,Racine Scouts,World Class,54.1,1973
+06/15,Hamden,CT,4,Bucks County Cavaliers,World Class,56.2,1973
+06/10,Anaheim,CA,2,Third Generation,World Class,67.4,1973
+06/15,Milwaukee,WI,5,Americanos,World Class,49.15,1973
+06/15,Hamden,CT,5,Belles of Saint Mary's,World Class,38.85,1973
+06/10,Anaheim,CA,3,VK Squires,World Class,66.25,1973
+06/15,Hamden,CT,6,Royal Highlanders,World Class,26.4,1973
+06/16,Anaheim,CA,1,Vanguard,World Class,73.7,1973
+06/16,Torrance,CA,1,Velvet Knights,World Class,64.2,1973
+06/16,Ajax,Ontario,1,Cadets of LaSalle,World Class,63.45,1973
+06/16,Stoughton,MA,1,Defenders,World Class,66.0,1973
+06/16,Anaheim,CA,2,Blue Devils,World Class,49.3,1973
+06/16,Torrance,CA,2,Imperial Dragons,World Class,53.45,1973
+06/16,Ajax,Ontario,2,Toronto Optimists,World Class,62.4,1973
+06/16,Stoughton,MA,2,Jeanettes,World Class,58.25,1973
+06/16,Anaheim,CA,3,Royalaires,World Class,47.8,1973
+06/16,Ajax,Ontario,3,DeLaSalle Oaklands,World Class,58.5,1973
+06/16,Stoughton,MA,3,Annunciators,World Class,56.25,1973
+06/16,Anaheim,CA,4,Portland Hawks,World Class,39.3,1973
+06/16,Torrance,CA,1,Third Generation,World Class,57.45,1973
+06/16,Ajax,Ontario,4,Syracuse Marauders,World Class,48.7,1973
+06/16,Anaheim,CA,5,Conquistadors,World Class,25.75,1973
+06/16,Torrance,CA,2,VK Squires,World Class,54.3,1973
+06/16,Ajax,Ontario,5,Saint John's Girls,World Class,42.25,1973
+06/16,Torrance,CA,3,Kings Lancers,World Class,52.3,1973
+06/16,Ajax,Ontario,6,Krescendos,World Class,36.9,1973
+06/16,Herkimer,NY,1,Erie Thunderbirds,World Class,59.65,1973
+06/16,Hempstead,NY,1,Hawthorne Caballeros,World Class,87.6,1973
+06/16,Hershey,PA,1,Reading Buccaneers,World Class,83.4,1973
+06/17,Toronto,Ontario,1,Cadets of LaSalle,World Class,64.7,1973
+06/16,Herkimer,NY,2,Hanover Lancers,World Class,46.35,1973
+06/16,Hempstead,NY,2,Connecticut Hurricanes,World Class,82.2,1973
+06/16,Hershey,PA,2,Yankee Rebels,World Class,83.15,1973
+06/17,Toronto,Ontario,2,Toronto Optimists,World Class,57.45,1973
+06/16,Herkimer,NY,3,Kingston Grenadiers,World Class,45.75,1973
+06/16,Hempstead,NY,3,Les Diplomats,World Class,79.1,1973
+06/16,Hershey,PA,3,Rochester Crusaders,World Class,78.45,1973
+06/17,Toronto,Ontario,3,DeLaSalle Oaklands,World Class,54.6,1973
+06/16,Herkimer,NY,4,Guelph Royalaires,World Class,44.55,1973
+06/16,Hempstead,NY,4,New York Skyliners,World Class,78.65,1973
+06/16,Hershey,PA,4,Hamburg Kingsmen,World Class,70.45,1973
+06/17,Toronto,Ontario,4,Syracuse Marauders,World Class,54.25,1973
+06/16,Herkimer,NY,5,Dunkirk Patriots,World Class,37.1,1973
+06/16,Hempstead,NY,5,Matadors,World Class,67.15,1973
+06/16,Hershey,PA,5,Rockets,World Class,65.65,1973
+06/17,Toronto,Ontario,5,Etobicoke Crusaders,World Class,47.1,1973
+06/17,Toronto,Ontario,6,Saint John's Girls,World Class,39.4,1973
+06/17,Toronto,Ontario,1,Optimist Lancers,World Class,66.8,1973
+06/17,Toronto,Ontario,2,Scarborough Kinsmen,World Class,60.6,1973
+06/17,Toronto,Ontario,3,Durham Girls,World Class,60.2,1973
+06/17,Toronto,Ontario,4,Brampton Senators,World Class,53.9,1973
+06/17,Toronto,Ontario,5,Kiwanis Kavaliers,World Class,50.1,1973
+06/17,Herkimer,NY,1,Blue Stars,World Class,77.7,1973
+06/17,Hudson,MA,1,Jeanettes,World Class,64.45,1973
+06/17,Binghamton,NY,1,Keystone Regiment,World Class,69.05,1973
+06/17,Sarina,Ontario,1,Flying Dutchmen,World Class,52.0,1973
+06/17,Herkimer,NY,2,Madison Scouts,World Class,72.55,1973
+06/17,Hudson,MA,2,Annunciators,World Class,59.35,1973
+06/17,Binghamton,NY,2,Seneca Princemen,World Class,66.15,1973
+06/17,Sarina,Ontario,2,Dutch Boy Cadets,World Class,36.25,1973
+06/17,Herkimer,NY,3,Phantom Regiment,World Class,66.15,1973
+06/17,Binghamton,NY,3,Sacred Heart Crusaders,World Class,66.0,1973
+06/17,Sarina,Ontario,3,Maple City Cadets,World Class,34.85,1973
+06/17,Herkimer,NY,4,Chevaliers,World Class,58.2,1973
+06/17,Binghamton,NY,4,Belvederes,World Class,65.65,1973
+06/17,Herkimer,NY,5,Racine Scouts,World Class,57.9,1973
+06/17,Binghamton,NY,5,Grenadiers,World Class,61.25,1973
+06/17,Herkimer,NY,6,Americanos,World Class,57.2,1973
+06/17,Binghamton,NY,6,VIP's,World Class,52.8,1973
+06/20,Revere,MA,1,Jeanettes,World Class,69.95,1973
+06/23,Norwich,CT,1,CMCC Warriors,World Class,76.85,1973
+06/23,Binghamton,NY,1,"Percussion naut
+  Patriots",World Class,64.75,1973
+06/23,Los Angeles,CA,1,Velvet Knights,World Class,76.0,1973
+06/20,Revere,MA,2,Annunciators,World Class,68.3,1973
+06/23,Norwich,CT,2,Olympians,World Class,70.65,1973
+06/23,Binghamton,NY,2,Columbians,World Class,63.6,1973
+06/23,Los Angeles,CA,2,Vaqueros,World Class,67.5,1973
+06/20,Revere,MA,3,Imperials,World Class,65.9,1973
+06/23,Norwich,CT,3,Kingston Indians,World Class,66.7,1973
+06/23,Binghamton,NY,3,Royal Lancers,World Class,63.1,1973
+06/23,Norwich,CT,4,Fire-ettes,World Class,54.55,1973
+06/23,Binghamton,NY,4,Sentinels,World Class,58.5,1973
+06/23,Los Angeles,CA,1,Third Generation,World Class,63.1,1973
+06/23,Norwich,CT,5,Connecticut Vanguard,World Class,45.8,1973
+06/23,Binghamton,NY,5,Hawks,World Class,56.6,1973
+06/23,Los Angeles,CA,2,Kings Lancers,World Class,58.7,1973
+06/23,Norwich,CT,6,Stormy Knights,World Class,37.75,1973
+06/23,Binghamton,NY,6,Shamrocks,World Class,55.55,1973
+06/23,Los Angeles,CA,3,VK Squires,World Class,57.25,1973
+06/23,Norwich,CT,7,Blue Angels-NY,World Class,35.1,1973
+06/23,Binghamton,NY,7,Flamingos,World Class,55.45,1973
+06/23,Binghamton,NY,8,Carson Crusaders,World Class,44.8,1973
+06/23,Binghamton,NY,9,Titans,World Class,41.85,1973
+06/23,Syracuse,NY,1,Hawthorne Caballeros,World Class,82.8,1973
+06/23,Providence,RI,1,Connecticut Hurricanes,World Class,82.25,1973
+06/23,Springfield,IL,1,"Belleville Black
+  Knights",World Class,80.0,1973
+06/23,Finleyville,PA,1,Royal Crusaders,World Class,67.3,1973
+06/23,Syracuse,NY,2,Reading Buccaneers,World Class,77.7,1973
+06/23,Providence,RI,2,Les Diplomats,World Class,80.4,1973
+06/23,Springfield,IL,2,Phantom Regiment,World Class,75.9,1973
+06/23,Finleyville,PA,2,"General Butler
+  Vagabonds",World Class,56.25,1973
+06/23,Syracuse,NY,3,Rochester Crusaders,World Class,74.45,1973
+06/23,Providence,RI,3,New York Skyliners,World Class,80.05,1973
+06/23,Springfield,IL,3,Cavaliers,World Class,72.8,1973
+06/23,Finleyville,PA,3,Belvederes,World Class,55.15,1973
+06/23,Syracuse,NY,4,Hamburg Kingsmen,World Class,64.0,1973
+06/23,Providence,RI,4,Sunrisers,World Class,68.3,1973
+06/23,Springfield,IL,4,Kewanee Black Knights,World Class,63.75,1973
+06/23,Finleyville,PA,4,Cambria Cadets,World Class,41.75,1973
+06/23,Syracuse,NY,5,Rockets,World Class,58.95,1973
+06/23,Providence,RI,5,Kingston Grenadiers,World Class,58.2,1973
+06/23,Springfield,IL,5,Guardsmen,World Class,60.75,1973
+06/23,Finleyville,PA,5,84th Bucktail Regiment,World Class,24.85,1973
+06/23,Springfield,IL,6,Belleville Crusaders,World Class,54.35,1973
+06/23,Springfield,IL,7,Chargers,World Class,44.4,1973
+06/23,Springfield,IL,8,Falcons,World Class,35.65,1973
+06/23,Providence,RI,1,Connecticut Hurricanes,World Class,82.25,1973
+06/23,Everett,MA,1,Fitchburg Kingsmen,World Class,65.15,1973
+06/23,Brantford,Ontario,1,DeLaSalle Oaklands,World Class,67.3,1973
+06/23,Brampton,Ontario,1,Optimist Lancers,World Class,69.8,1973
+06/23,Providence,RI,2,Les Diplomats,World Class,80.4,1973
+06/23,Everett,MA,2,Annunciators,World Class,62.9,1973
+06/23,Brantford,Ontario,2,Etobicoke Crusaders,World Class,58.85,1973
+06/23,Brampton,Ontario,2,Durham Girls,World Class,54.8,1973
+06/23,Providence,RI,3,New York Skyliners,World Class,80.05,1973
+06/23,Everett,MA,3,Sharpshooters,World Class,56.8,1973
+06/23,Brantford,Ontario,3,Flying Dutchmen,World Class,48.4,1973
+06/23,Brampton,Ontario,3,Scarborough Kinsmen,World Class,54.7,1973
+06/23,Providence,RI,4,Sunrisers,World Class,68.3,1973
+06/23,Brantford,Ontario,3,Cadets of Greece,World Class,48.4,1973
+06/23,Brampton,Ontario,4,Kiwanis Kavaliers,World Class,51.4,1973
+06/23,Providence,RI,5,Kingston Grenadiers,World Class,58.2,1973
+06/23,Brantford,Ontario,5,Midlanders,World Class,32.5,1973
+06/23,Brampton,Ontario,5,Brampton Senators,World Class,42.3,1973
+06/23,Keyser,WV,1,Emmaus Sentinels,World Class,66.75,1973
+06/24,Cedarburg,WI,1,Blue Stars,World Class,80.0,1973
+06/24,Brantford,Ontario,1,"Percussion naut
+  Patriots",World Class,64.25,1973
+06/24,Los Angeles,CA,1,Velvet Knights,World Class,72.25,1973
+06/23,Keyser,WV,2,Erie Thunderbirds,World Class,58.9,1973
+06/24,Cedarburg,WI,2,Kilties,World Class,76.0,1973
+06/24,Brantford,Ontario,2,Sentinels,World Class,64.15,1973
+06/24,Los Angeles,CA,2,Vaqueros,World Class,65.4,1973
+06/23,Keyser,WV,3,Karwartha Kavaliers,World Class,58.6,1973
+06/24,Cedarburg,WI,3,Madison Scouts,World Class,72.75,1973
+06/24,Brantford,Ontario,3,Royal Lancers,World Class,64.0,1973
+06/24,Los Angeles,CA,3,Imperial Dragons,World Class,61.25,1973
+06/23,Keyser,WV,4,Freestatesmen,World Class,47.4,1973
+06/24,Cedarburg,WI,4,Colt 45's,World Class,61.4,1973
+06/24,Brantford,Ontario,4,Flamingos,World Class,61.85,1973
+06/24,Los Angeles,CA,4,California Crusaders,World Class,60.8,1973
+06/24,Cedarburg,WI,5,Americanos,World Class,61.25,1973
+06/24,Brantford,Ontario,5,Hawks,World Class,60.25,1973
+06/24,Cedarburg,WI,6,Racine Scouts,World Class,59.2,1973
+06/24,Brantford,Ontario,6,Columbians,World Class,59.2,1973
+06/24,Los Angeles,CA,1,Third Generation,World Class,54.1,1973
+06/24,Cedarburg,WI,7,Precisionaires,World Class,51.85,1973
+06/24,Brantford,Ontario,7,Shamrocks,World Class,58.7,1973
+06/24,Los Angeles,CA,2,Kings Lancers,World Class,53.75,1973
+06/24,Cedarburg,WI,8,Marquis,World Class,50.3,1973
+06/24,Brantford,Ontario,8,Carson Crusaders,World Class,41.95,1973
+06/24,Los Angeles,CA,3,VK Squires,World Class,53.05,1973
+06/24,Cedarburg,WI,9,CapitolAires,World Class,48.1,1973
+06/24,Brantford,Ontario,9,Titans,World Class,38.15,1973
+06/24,Cedarburg,WI,10,Ottawa Crusaders,World Class,45.9,1973
+06/24,Brantford,Ontario,1,Highlanders,World Class,58.8,1973
+06/24,Brantford,Ontario,2,Seattle Cascades,World Class,43.9,1973
+06/24,Brantford,Ontario,3,Rocky Mountain Rangers,World Class,23.2,1973
+06/24,Geneva,IL,1,"Belleville Black
+  Knights",World Class,75.95,1973
+06/24,Rockland,MA,1,Annunciators,World Class,62.4,1973
+06/24,Berea,OH,1,Glassmen,World Class,59.55,1973
+06/26,Great Bend,KS,1,Troopers,World Class,74.05,1973
+06/24,Geneva,IL,2,Cavaliers,World Class,63.85,1973
+06/24,Rockland,MA,2,Jeanettes,World Class,61.45,1973
+06/24,Berea,OH,2,Catholic D. Of America,World Class,49.1,1973
+06/26,Great Bend,KS,2,Argonne Rebels,World Class,70.35,1973
+06/24,Geneva,IL,3,Guardsmen,World Class,59.1,1973
+06/24,Rockland,MA,3,Imperials,World Class,56.15,1973
+06/24,Berea,OH,3,Buccaneers (KY),World Class,44.1,1973
+06/26,Great Bend,KS,3,Silver Sabres,World Class,56.55,1973
+06/24,Geneva,IL,4,Royals,World Class,47.9,1973
+06/24,Berea,OH,4,Optimist Knights,World Class,39.95,1973
+06/26,Great Bend,KS,4,Sky Ryders,World Class,53.65,1973
+06/24,Geneva,IL,5,Capital Chargers,World Class,41.2,1973
+06/24,Berea,OH,5,Buckeyes,World Class,32.95,1973
+06/26,Great Bend,KS,5,Continental Ambassadors,World Class,46.75,1973
+06/24,Geneva,IL,6,Fox Valley Raiders,World Class,27.35,1973
+06/24,Berea,OH,6,Bluewater Lionairs,World Class,30.2,1973
+06/26,Great Bend,KS,6,Frontiersmen,World Class,51.0,1973
+06/24,Berea,OH,7,Miami Lancers,World Class,17.6,1973
+06/26,Great Bend,KS,7,Eldoradans,World Class,30.85,1973
+06/26,Great Bend,KS,8,Tri-Vel Raiders,World Class,25.1,1973
+06/27,Salinas,KS,1,Troopers,World Class,76.25,1973
+06/27,Norwood,MA,1,Jeanettes,World Class,67.45,1973
+06/29,Berea,OH,1,Valley Grenadiers,World Class,78.95,1973
+06/29,Woodbridge,NJ,1,Saint Ignatius,World Class,73.85,1973
+06/27,Salinas,KS,2,Argonne Rebels,World Class,64.3,1973
+06/27,Norwood,MA,2,Defenders,World Class,66.1,1973
+06/29,Berea,OH,2,Gauchos,World Class,73.45,1973
+06/29,Woodbridge,NJ,2,Keystone Regiment,World Class,73.1,1973
+06/27,Salinas,KS,3,Silver Sabres,World Class,56.9,1973
+06/27,Norwood,MA,3,Annunciators,World Class,62.8,1973
+06/29,Berea,OH,3,Black Watch-NJ,World Class,51.8,1973
+06/29,Woodbridge,NJ,3,Sacred Heart Crusaders,World Class,64.0,1973
+06/27,Salinas,KS,4,Sly Ryders,World Class,51.35,1973
+06/29,Berea,OH,4,Brookhaven Crusaders,World Class,49.6,1973
+06/29,Woodbridge,NJ,4,Bucks Co Cavaliers,World Class,63.45,1973
+06/27,Salinas,KS,5,Frontiersmen,World Class,38.9,1973
+06/29,Berea,OH,5,Bux-Mont Raiders,World Class,45.5,1973
+06/29,Woodbridge,NJ,5,Black Watch-NJ,World Class,51.55,1973
+06/27,Salinas,KS,6,Eldoradans,World Class,31.35,1973
+06/29,Woodbridge,NJ,6,Bux-Mont Raiders,World Class,45.3,1973
+06/27,Salinas,KS,7,Tri-Vel Raiders,World Class,22.05,1973
+06/30,DeKalb,IL,1,Vanguard,World Class,78.85,1973
+06/30,Auburn,NY,1,27th Lancers,World Class,75.75,1973
+06/30,Johnsonburg,PA,1,Reading Buccaneers,World Class,79.9,1973
+06/30,Bridgeport,CT,1,Hawthorne Caballeros,World Class,86.2,1973
+06/30,DeKalb,IL,2,Blue Stars,World Class,77.85,1973
+06/30,Auburn,NY,2,Garfield Cadets,World Class,68.35,1973
+06/30,Johnsonburg,PA,2,Rochester Crusaders,World Class,77.95,1973
+06/30,Bridgeport,CT,2,Rochester Crusaders,World Class,84.6,1973
+06/30,DeKalb,IL,3,Troopers,World Class,75.85,1973
+06/30,Auburn,NY,3,Cadets LaSalle,World Class,66.35,1973
+06/30,Johnsonburg,PA,3,Hamburg Kingsmen,World Class,69.2,1973
+06/30,Bridgeport,CT,3,Hamburg Kingsmen,World Class,83.5,1973
+06/30,DeKalb,IL,4,Kilties,World Class,72.45,1973
+06/30,Auburn,NY,4,Squires,World Class,63.05,1973
+06/30,Johnsonburg,PA,4,Canadian Commanders,World Class,61.4,1973
+06/30,Bridgeport,CT,4,Yankee Rebels,World Class,76.3,1973
+06/30,DeKalb,IL,5,Anaheim Kingsmen,World Class,71.15,1973
+06/30,Auburn,NY,5,Magnificent Yankees,World Class,60.1,1973
+06/30,Johnsonburg,PA,5,Rockets,World Class,58.9,1973
+06/30,Bridgeport,CT,5,Sunrisers,World Class,67.95,1973
+06/30,DeKalb,IL,6,Madison Scouts,World Class,69.3,1973
+06/30,Auburn,NY,6,Geneva Appleknockers,World Class,53.25,1973
+06/30,DeKalb,IL,7,DeLaSalle Oaklands,World Class,64.05,1973
+06/30,Auburn,NY,7,Tri-Town Cadets,World Class,51.15,1973
+06/30,DeKalb,IL,8,Argonne Rebels,World Class,62.45,1973
+06/30,Auburn,NY,8,"General Butler
+  Vagabonds",World Class,48.9,1973
+06/30,DeKalb,IL,9,Des Plaines Vanguard,World Class,60.35,1973
+06/30,DeKalb,IL,10,Cavaliers,World Class,56.65,1973
+06/30,DeKalb,IL,11,Bleu Raeders,World Class,54.75,1973
+06/30,Wilmington,DE,1,Muchachos,World Class,80.25,1973
+06/30,Fon du Lac,WI,1,Osage Prescionnaires,World Class,63.2,1973
+06/30,Wilmington,DE,2,Bridgemen,World Class,74.75,1973
+06/30,Fon du Lac,WI,2,Toronto Optimists,World Class,59.05,1973
+06/30,Wilmington,DE,3,Audobon Bon Bons,World Class,67.0,1973
+06/30,Fon du Lac,WI,3,Chevaliers,World Class,56.1,1973
+06/30,Wilmington,DE,4,507 Hornets,World Class,59.25,1973
+06/30,Fon du Lac,WI,4,The Thing,World Class,55.9,1973
+06/30,Wilmington,DE,5,Belvederes,World Class,54.35,1973
+06/30,Fon du Lac,WI,5,Colt .45's,World Class,53.8,1973
+06/30,Fon du Lac,WI,6,Silver Sabers,World Class,50.9,1973
+06/30,Fon du Lac,WI,7,Saint John's Girls,World Class,49.3,1973
+07/01,Dixon,IL,1,"Belleville Black
+  Knights",World Class,71.8,1973
+07/01,Wilmington,DE,1,Bridgemen,World Class,80.8,1973
+07/02,Milwaukee,WI,1,Troopers,World Class,79.15,1973
+07/03,Racine,WI,1,Troopers,World Class,80.4,1973
+07/01,Dixon,IL,2,Des Plaines Vanguard,World Class,64.9,1973
+07/01,Wilmington,DE,2,Blue Rock,World Class,73.4,1973
+07/02,Milwaukee,WI,1,Vanguard,World Class,79.15,1973
+07/03,Racine,WI,2,Kilties,World Class,79.0,1973
+07/01,Dixon,IL,3,Sky Ryders,World Class,54.4,1973
+07/01,Wilmington,DE,3,Keystone Regiment,World Class,69.35,1973
+07/02,Milwaukee,WI,3,Blue Stars,World Class,77.7,1973
+07/03,Racine,WI,3,"Belleville Black
+  Knights",World Class,75.55,1973
+07/01,Dixon,IL,4,Marion Cadets,World Class,53.9,1973
+07/01,Wilmington,DE,4,Sacred Heart Crusaders,World Class,67.5,1973
+07/02,Milwaukee,WI,4,Kilties,World Class,75.05,1973
+07/03,Racine,WI,4,Argonne Rebels,World Class,65.35,1973
+07/01,Dixon,IL,5,Royal Crusaders,World Class,53.8,1973
+07/01,Wilmington,DE,5,Belvederes,World Class,65.15,1973
+07/02,Milwaukee,WI,5,Madison Scouts,World Class,72.4,1973
+07/03,Racine,WI,5,Toronto Optimists,World Class,61.5,1973
+07/01,Dixon,IL,6,Saint John's Girls,World Class,44.3,1973
+07/01,Wilmington,DE,6,Bracken Cavaliers,World Class,61.2,1973
+07/02,Milwaukee,WI,6,Anaheim Kingsmen,World Class,72.2,1973
+07/01,Wilmington,DE,7,Royaleer Mounties,World Class,45.7,1973
+07/02,Milwaukee,WI,7,Argonne Rebels,World Class,65.7,1973
+07/02,Milwaukee,WI,8,DeLaSalle Oaklands,World Class,65.4,1973
+07/02,Milwaukee,WI,9,Cavaliers,World Class,63.1,1973
+07/02,Milwaukee,WI,10,Bleu Raeders,World Class,62.45,1973
+07/02,Milwaukee,WI,11,Des Plaines Vanguard,World Class,60.4,1973
+07/04,Warren,PA,1,Appleknockers,World Class,67.7,1973
+07/04,Cerritos,CA,1,Velvet Knights,World Class,74.3,1973
+07/04,Wyandotte,MI,1,Iron Brigade,World Class,76.95,1973
+07/04,Racine,WI,1,Madison Scouts,World Class,75.45,1973
+07/04,Warren,PA,2,"General Butler
+  Vagabonds",World Class,66.6,1973
+07/04,Cerritos,CA,2,Imperial Dragons,World Class,67.5,1973
+07/04,Wyandotte,MI,2,Glassmen,World Class,73.6,1973
+07/04,Racine,WI,2,Toronto Optimists,World Class,66.4,1973
+07/04,Warren,PA,3,Mark Twain Cadets,World Class,62.5,1973
+07/04,Cerritos,CA,3,Vaqueros,World Class,65.8,1973
+07/04,Wyandotte,MI,3,Midlanders,World Class,70.95,1973
+07/04,Racine,WI,3,Americanos,World Class,54.75,1973
+07/04,Warren,PA,4,Cadets of Greece,World Class,52.4,1973
+07/04,Cerritos,CA,4,California Crusaders,World Class,65.5,1973
+07/04,Wyandotte,MI,4,Saginaires,World Class,67.9,1973
+07/04,Racine,WI,4,Saint Mathias Cadets,World Class,43.1,1973
+07/04,Warren,PA,5,Cleveland Buckeyes,World Class,38.5,1973
+07/04,Wyandotte,MI,5,Vanguard Rockets,World Class,67.8,1973
+07/04,Cerritos,CA,1,Kings Lancers,World Class,59.0,1973
+07/04,Wyandotte,MI,6,Marching Angels,World Class,54.5,1973
+07/04,Cerritos,CA,2,Third Generation,World Class,58.5,1973
+07/04,Wyandotte,MI,7,Presidium,World Class,49.6,1973
+07/04,Cerritos,CA,3,VK Squires,World Class,52.75,1973
+07/04,Cerritos,CA,4,Monterey Park Girls,World Class,42.7,1973
+07/04,Midland,PA,1,Rockets,World Class,70.4,1973
+07/06,Pembroke,MA,1,Defenders,World Class,73.55,1973
+07/06,Mayville,WI,1,Blue Stars,World Class,80.85,1973
+07/07,Utica,NY,1,27th Lancers,World Class,78.85,1973
+07/04,Midland,PA,2,Erie Thunderbirds,World Class,67.35,1973
+07/06,Pembroke,MA,2,Jeanettes,World Class,71.45,1973
+07/06,Mayville,WI,2,Kilties,World Class,79.65,1973
+07/07,Utica,NY,2,Saint Rita's Brassmen,World Class,75.3,1973
+07/04,Midland,PA,3,Suburban Knights,World Class,56.25,1973
+07/06,Pembroke,MA,3,Annunciators,World Class,60.5,1973
+07/06,Mayville,WI,3,Madison Scouts,World Class,78.2,1973
+07/07,Utica,NY,3,Purple Lancers,World Class,72.85,1973
+07/04,Midland,PA,4,Verona Cavaliers,World Class,49.9,1973
+07/06,Mayville,WI,4,Phantom Regiment,World Class,72.0,1973
+07/07,Utica,NY,4,Saint Francis Sancians,World Class,61.55,1973
+07/04,Midland,PA,5,Dunkirk Patriots,World Class,47.6,1973
+07/06,Mayville,WI,5,Royal Crusaders,World Class,66.3,1973
+07/07,Utica,NY,5,Mark Twain Cadets,World Class,49.35,1973
+07/06,Mayville,WI,6,Americanos,World Class,65.6,1973
+07/06,Mayville,WI,7,The Thing,World Class,62.2,1973
+07/06,Mayville,WI,8,Marquis,World Class,53.2,1973
+07/07,Vassar,MI,1,Glassmen,World Class,76.15,1973
+07/07,Pembroke,MA,1,Stateliners,World Class,67.65,1973
+07/07,Portland,OR,1,Columbians,World Class,65.4,1973
+07/07,Anaheim,CA,1,Blue Devils,World Class,71.55,1973
+07/07,Vassar,MI,2,Iron Brigade,World Class,71.1,1973
+07/07,Pembroke,MA,2,New London Surfers,World Class,67.6,1973
+07/07,Portland,OR,2,Sentinels,World Class,61.9,1973
+07/07,Anaheim,CA,2,Racine Scouts,World Class,65.7,1973
+07/07,Vassar,MI,3,Saginaires,World Class,70.2,1973
+07/07,Pembroke,MA,3,Golden Crusaders,World Class,66.75,1973
+07/07,Portland,OR,3,Royal Lancers,World Class,61.75,1973
+07/07,Anaheim,CA,3,"Percussion-naut
+  Patriots",World Class,63.35,1973
+07/07,Vassar,MI,4,Vanguard Rockets,World Class,65.55,1973
+07/07,Pembroke,MA,4,Fire-ettes,World Class,60.35,1973
+07/07,Portland,OR,4,Titans,World Class,51.7,1973
+07/07,Anaheim,CA,4,Royalaires-CA,World Class,62.45,1973
+07/07,Vassar,MI,5,Midlanders,World Class,60.8,1973
+07/07,Pembroke,MA,5,Fairfield Colonnades,World Class,55.8,1973
+07/07,Anaheim,CA,5,Velvet Knights,World Class,61.8,1973
+07/07,Vassar,MI,6,Bluewater Lionairs,World Class,47.7,1973
+07/07,Pembroke,MA,6,Golden Buccaneers,World Class,47.4,1973
+07/07,Portland,OR,1,Seattle Cascades,World Class,47.7,1973
+07/07,Anaheim,CA,6,Shamrocks,World Class,58.25,1973
+07/07,Pembroke,MA,7,Seymour Vanguard,World Class,46.6,1973
+07/07,Portland,OR,2,Spartans-WA,World Class,42.45,1973
+07/07,Anaheim,CA,7,Flamingo Lancers,World Class,50.9,1973
+07/07,Pembroke,MA,8,Troubadours,World Class,43.25,1973
+07/07,Portland,OR,3,Rocky Mountain Rangers,World Class,42.05,1973
+07/07,Anaheim,CA,8,Vaqueros,World Class,46.45,1973
+07/07,Pembroke,MA,9,Connecticut Renegades,World Class,34.7,1973
+07/07,Portland,OR,4,Edmonton Strutters,World Class,40.25,1973
+07/07,Portland,OR,1,Escadrille,World Class,47.05,1973
+07/07,Portland,OR,2,Challengers,World Class,45.9,1973
+07/07,Dunkirk,NY,1,Erie Thunderbirds,World Class,66.0,1973
+07/07,Nashua,NH,1,Fitchburg Kingsmen,World Class,73.55,1973
+07/07,Ocean City,NJ,1,507 Hornets,World Class,72.7,1973
+07/07,Troy,NY,1,Squires,World Class,65.95,1973
+07/07,Dunkirk,NY,2,Rockets,World Class,58.65,1973
+07/07,Nashua,NH,2,Defenders,World Class,71.45,1973
+07/07,Ocean City,NJ,2,Belvederes,World Class,70.45,1973
+07/07,Troy,NY,2,Emerald Cadets,World Class,65.55,1973
+07/07,Dunkirk,NY,3,Guelph Royalaires,World Class,56.05,1973
+07/07,Nashua,NH,3,Annunciators,World Class,60.5,1973
+07/07,Ocean City,NJ,3,Grenadieres,World Class,67.0,1973
+07/07,Troy,NY,3,Mello Dears,World Class,54.65,1973
+07/07,Dunkirk,NY,4,"Sudbury Imperial
+  Knights",World Class,47.15,1973
+07/07,Ocean City,NJ,4,Royaleer Mounties,World Class,54.55,1973
+07/07,Troy,NY,4,Centurions,World Class,43.15,1973
+07/07,Dunkirk,NY,5,Kawartha Kavaliers,World Class,38.35,1973
+07/07,Ocean City,NJ,5,Black Watch (NJ),World Class,50.75,1973
+07/07,Ste. Jerome,Quebec,1,DeLaSalle Oaklands,World Class,72.75,1973
+07/07,Rochester,NY,1,Hawthorne Caballeros,World Class,88.0,1973
+07/08,Norwich,CT,1,New London Surfers,World Class,74.0,1973
+07/08,Van Nuys,CA,1,Blue Devils,World Class,68.2,1973
+07/07,Ste. Jerome,Quebec,2,Cadets of LaSalle,World Class,72.65,1973
+07/07,Rochester,NY,2,Les Diplomats,World Class,81.0,1973
+07/08,Norwich,CT,2,Stateliners,World Class,69.1,1973
+07/08,Van Nuys,CA,2,Racine Scouts,World Class,60.95,1973
+07/07,Ste. Jerome,Quebec,3,Seneca Princemen,World Class,62.3,1973
+07/07,Rochester,NY,3,New York Skyliners,World Class,80.85,1973
+07/08,Norwich,CT,3,Emerald Knights-NY,World Class,49.3,1973
+07/08,Van Nuys,CA,3,Royalaires-CA,World Class,58.95,1973
+07/07,Ste. Jerome,Quebec,4,Etobicoke Crusaders,World Class,61.75,1973
+07/07,Rochester,NY,4,Hamburg Kingsmen,World Class,70.85,1973
+07/08,Norwich,CT,4,Fairfield Colonnades,World Class,47.9,1973
+07/08,Van Nuys,CA,4,Velvet Knights,World Class,58.9,1973
+07/07,Ste. Jerome,Quebec,5,4th Brigade,World Class,57.65,1973
+07/07,Rochester,NY,5,Canadian Commanders,World Class,62.4,1973
+07/08,Norwich,CT,5,Troy Muchachos,World Class,41.75,1973
+07/08,Van Nuys,CA,5,Shamrocks,World Class,51.3,1973
+07/07,Ste. Jerome,Quebec,6,5th Regiment,World Class,41.65,1973
+07/08,Van Nuys,CA,6,Vaqueros,World Class,47.65,1973
+07/08,Van Nuys,CA,7,California Crusaders,World Class,42.9,1973
+07/08,Van Nuys,CA,8,Imperial Dragons,World Class,41.95,1973
+07/08,Vaudreuil,Quebec,1,Cadets of LaSalle,World Class,74.45,1973
+07/08,Watkins Glen,NY,1,Princemen,World Class,67.45,1973
+07/08,Vancouver,WA,1,Sentinels,World Class,65.75,1973
+07/13,Haddonfield,NJ,1,Bracken Cavaliers,World Class,69.15,1973
+07/08,Vaudreuil,Quebec,2,DeLaSalle Oaklands,World Class,70.7,1973
+07/08,Watkins Glen,NY,2,Belvederes,World Class,64.55,1973
+07/08,Vancouver,WA,2,Columbians,World Class,65.25,1973
+07/13,Haddonfield,NJ,2,Belvederes,World Class,69.1,1973
+07/08,Vaudreuil,Quebec,3,Seneca Princemen,World Class,60.8,1973
+07/08,Watkins Glen,NY,3,Appleknockers,World Class,60.35,1973
+07/08,Vancouver,WA,3,Royal Lancers,World Class,64.65,1973
+07/13,Haddonfield,NJ,3,507 Hornets,World Class,68.5,1973
+07/08,Vaudreuil,Quebec,4,Etobicoke Crusaders,World Class,58.05,1973
+07/08,Watkins Glen,NY,4,Mello-Dears,World Class,50.7,1973
+07/08,Vancouver,WA,4,Hawks,World Class,60.95,1973
+07/13,Haddonfield,NJ,4,Sacred Heart Crusaders,World Class,66.2,1973
+07/08,Vaudreuil,Quebec,5,4th Brigade,World Class,52.35,1973
+07/08,Watkins Glen,NY,5,Cadets of Greece,World Class,49.55,1973
+07/08,Vancouver,WA,5,Titans,World Class,48.7,1973
+07/13,Haddonfield,NJ,5,Grenadiers,World Class,64.7,1973
+07/08,Vaudreuil,Quebec,6,5th Regiment,World Class,41.15,1973
+07/08,Watkins Glen,NY,6,Spiegalaires,World Class,31.15,1973
+07/08,Vancouver,WA,6,Carson Crusaders,World Class,44.1,1973
+07/13,Haddonfield,NJ,6,Patriots (NJ),World Class,34.05,1973
+07/13,Haddonfield,NJ,7,Luckie Ladies,World Class,31.9,1973
+07/08,Vancouver,WA,1,Seattle Cascades,World Class,48.2,1973
+07/08,Vancouver,WA,2,Rocky Mountain Rangers,World Class,42.4,1973
+07/08,Vancouver,WA,3,Edmonton Strutters,World Class,38.8,1973
+07/08,Vancouver,WA,1,Klondike Boys,World Class,41.55,1973
+07/08,Vancouver,WA,2,Challengers,World Class,39.95,1973
+07/14,Ansonia,CT,1,New London Surfers,World Class,69.9,1973
+07/14,Kingston,Ontario,1,Guelph Royalaires,World Class,65.85,1973
+07/14,Clifton,NJ,1,Connecticut Hurricanes,World Class,84.05,1973
+07/14,Jamestown,NY,1,Rochester Crusaders,World Class,82.2,1973
+07/14,Ansonia,CT,2,Emerald Cadets,World Class,67.4,1973
+07/14,Kingston,Ontario,2,Emmaus Sentinels,World Class,63.55,1973
+07/14,Clifton,NJ,2,Reading Buccaneers,World Class,79.05,1973
+07/14,Jamestown,NY,2,Hamburg Kingsmen,World Class,75.75,1973
+07/14,Ansonia,CT,3,Stateliners,World Class,62.7,1973
+07/14,Kingston,Ontario,3,"Sudbury Imperial
+  Knights",World Class,57.95,1973
+07/14,Clifton,NJ,3,New York Skyliners,World Class,78.3,1973
+07/14,Jamestown,NY,3,Rockets,World Class,66.95,1973
+07/14,Ansonia,CT,4,Golden Crusaders,World Class,62.3,1973
+07/14,Kingston,Ontario,4,Kingston Grenadiers,World Class,57.25,1973
+07/14,Clifton,NJ,4,Yankee Rebels,World Class,77.35,1973
+07/14,Jamestown,NY,4,Canadian Commanders,World Class,60.95,1973
+07/14,Ansonia,CT,5,Seymour Vanguard,World Class,46.75,1973
+07/14,Kingston,Ontario,5,Hanover Lancers,World Class,55.15,1973
+07/14,Clifton,NJ,5,Sunrisers,World Class,62.4,1973
+07/14,Kingston,Ontario,6,Suburban Knights,World Class,52.5,1973
+07/14,Lakewood,CA,1,Velvet Knights,World Class,69.05,1973
+07/14,Newton Square,PA,1,507 Hornets,World Class,71.7,1973
+07/14,Scarborough,Ontario,1,Etobicoke Crusaders,World Class,62.85,1973
+07/14,Denver,CO,1,Vanguard,World Class,80.75,1973
+07/14,Lakewood,CA,2,Imperial Dragons,World Class,54.4,1973
+07/14,Newton Square,PA,2,Belvederes,World Class,68.75,1973
+07/14,Scarborough,Ontario,2,Flying Dutchmen,World Class,51.9,1973
+07/14,Denver,CO,2,Troopers,World Class,79.15,1973
+07/14,Lakewood,CA,3,Vaqueros,World Class,53.85,1973
+07/14,Newton Square,PA,3,Bracken Cavaliers,World Class,68.0,1973
+07/14,Scarborough,Ontario,3,Kinsmen Krescendos,World Class,46.55,1973
+07/14,Denver,CO,3,Kilties,World Class,77.7,1973
+07/14,Newton Square,PA,4,Sacred Heart Crusaders,World Class,63.9,1973
+07/14,Scarborough,Ontario,4,Cardinals of PB,World Class,41.8,1973
+07/14,Denver,CO,4,Anaheim Kingsmen,World Class,76.4,1973
+07/14,Lakewood,CA,1,Kings Lancers,World Class,52.3,1973
+07/14,Newton Square,PA,5,Grenadiers,World Class,61.35,1973
+07/14,Scarborough,Ontario,5,Optimist Knights,World Class,38.75,1973
+07/14,Denver,CO,5,Cavaliers,World Class,62.4,1973
+07/14,Lakewood,CA,2,Third Generation,World Class,51.6,1973
+07/14,Newton Square,PA,6,Royal Mounties,World Class,46.95,1973
+07/14,Scarborough,Ontario,6,Dutch Boy Cadets,World Class,36.35,1973
+07/14,Denver,CO,6,Blue Knights,World Class,38.15,1973
+07/14,Lakewood,CA,3,VK Squires,World Class,46.9,1973
+07/14,Newton Square,PA,7,Patriots (NJ),World Class,38.8,1973
+07/14,Scarborough,Ontario,7,Derry Patriots,World Class,31.65,1973
+07/14,Scarborough,Ontario,8,E. Scarborough Kinsmen,World Class,25.9,1973
+07/14,Walton,NY,1,Squires,World Class,67.2,1973
+07/15,Watkins Glen,NY,1,Seneca Princemen,World Class,67.45,1973
+07/15,Calgary,Ontario,1,Patriots,World Class,75.2,1973
+07/19,Edmonton,Alberta,1,Flamingos,World Class,60.35,1973
+07/14,Walton,NY,2,Marauders,World Class,59.6,1973
+07/15,Watkins Glen,NY,2,Belvederes,World Class,64.55,1973
+07/15,Calgary,Ontario,2,Flamingos,World Class,63.65,1973
+07/19,Edmonton,Alberta,2,Spartans,World Class,45.15,1973
+07/14,Walton,NY,3,Mark Twain Cadets,World Class,51.7,1973
+07/15,Watkins Glen,NY,3,Appleknockers,World Class,60.35,1973
+07/15,Calgary,Ontario,3,Edmonton Strutters,World Class,51.35,1973
+07/19,Edmonton,Alberta,3,Edmonton Strutters,World Class,38.25,1973
+07/14,Walton,NY,4,Gauchos,World Class,49.7,1973
+07/15,Watkins Glen,NY,4,Mello Dears,World Class,50.7,1973
+07/15,Calgary,Ontario,4,Crusaders,World Class,48.95,1973
+07/14,Walton,NY,5,Mello Dears,World Class,47.9,1973
+07/15,Watkins Glen,NY,5,Cadets of Greece,World Class,49.55,1973
+07/15,Calgary,Ontario,5,Skyliners,World Class,41.15,1973
+07/19,Edmonton,Alberta,1,Klondike Boys,World Class,37.4,1973
+07/15,Watkins Glen,NY,6,Spiegalaires,World Class,31.15,1973
+07/15,Calgary,Ontario,6,Spartans,World Class,40.95,1973
+07/19,Edmonton,Alberta,2,Red and White Aires,World Class,28.2,1973
+07/20,Walton,NY,1,"Percussion-naut
+  Patriots",World Class,63.5,1973
+07/20,San Jose,CA,1,Vanguard,World Class,82.5,1973
+07/20,Toronto,Ontario,1,DeLaSalle Oaklands,World Class,71.8,1973
+07/21,Hamilton,Ontario,1,Cadets of LaSalle,World Class,73.45,1973
+07/20,Walton,NY,2,Sentinels,World Class,61.5,1973
+07/20,San Jose,CA,2,Troopers,World Class,80.85,1973
+07/20,Toronto,Ontario,2,Cadets of LaSalle,World Class,71.55,1973
+07/21,Hamilton,Ontario,2,DeLaSalle Oaklands,World Class,73.05,1973
+07/20,Walton,NY,3,Highlanders,World Class,60.55,1973
+07/20,San Jose,CA,3,Anaheim Kingsmen,World Class,73.35,1973
+07/20,Toronto,Ontario,3,Toronto Optimists,World Class,68.6,1973
+07/21,Hamilton,Ontario,3,Toronto Optimists,World Class,72.0,1973
+07/20,Walton,NY,4,Shamrocks,World Class,60.35,1973
+07/20,San Jose,CA,4,Commodores,World Class,65.2,1973
+07/20,Toronto,Ontario,4,Pembroke Imperials,World Class,66.95,1973
+07/21,Hamilton,Ontario,4,Pembroke Imperials,World Class,69.7,1973
+07/20,Walton,NY,5,Hawks,World Class,59.8,1973
+07/20,San Jose,CA,5,Blue Devils,World Class,61.7,1973
+07/20,Toronto,Ontario,5,Marion Cadets,World Class,61.95,1973
+07/21,Hamilton,Ontario,5,Marion Cadets,World Class,67.0,1973
+07/20,Walton,NY,6,Seattle Cascades,World Class,48.4,1973
+07/20,San Jose,CA,6,Velvet Knights,World Class,50.35,1973
+07/20,Toronto,Ontario,6,Etobicoke Crusaders,World Class,59.95,1973
+07/21,Hamilton,Ontario,6,4th Brigade,World Class,56.95,1973
+07/20,Walton,NY,7,Titans,World Class,46.35,1973
+07/20,Toronto,Ontario,7,Seneca Princemen,World Class,58.95,1973
+07/21,Hamilton,Ontario,7,Saint John's Girls,World Class,43.85,1973
+07/20,Toronto,Ontario,8,4th Brigade,World Class,55.55,1973
+07/20,Toronto,Ontario,9,Saint John's Girls,World Class,45.65,1973
+07/21,Baltimore,MD,1,Hawthorne Caballeros,World Class,86.9,1973
+07/21,Garfield,NJ,1,Muchachos,World Class,83.3,1973
+07/21,Binghamton,NY,1,Squires,World Class,78.05,1973
+07/21,Binghamton,NY,1,Magnificent Yankees,World Class,77.85,1973
+07/21,Baltimore,MD,2,Reading Buccaneers,World Class,83.25,1973
+07/21,Garfield,NJ,2,27th Lancers,World Class,78.9,1973
+07/21,Binghamton,NY,2,Magnificent Yankees,World Class,77.45,1973
+07/21,Binghamton,NY,2,Squires,World Class,76.55,1973
+07/21,Baltimore,MD,3,New York Skyliners,World Class,82.5,1973
+07/21,Garfield,NJ,2,Bridgemen,World Class,78.9,1973
+07/21,Binghamton,NY,3,OLPH Ridgemen,World Class,68.45,1973
+07/21,Binghamton,NY,3,OLPH Ridgemen,World Class,73.75,1973
+07/21,Baltimore,MD,4,Connecticut Hurricanes,World Class,81.2,1973
+07/21,Garfield,NJ,4,Purple Lancers,World Class,70.4,1973
+07/21,Binghamton,NY,4,Appleknockers,World Class,68.15,1973
+07/21,Binghamton,NY,4,Appleknockers,World Class,72.75,1973
+07/21,Baltimore,MD,5,Sunrisers,World Class,67.35,1973
+07/21,Garfield,NJ,5,Blue Rock,World Class,67.55,1973
+07/21,Binghamton,NY,5,Syracuse Marauders,World Class,65.9,1973
+07/21,Binghamton,NY,5,App Grenadiers,World Class,68.45,1973
+07/21,Baltimore,MD,6,Matadors,World Class,64.6,1973
+07/21,Garfield,NJ,6,Audobon Bon Bons,World Class,62.3,1973
+07/21,Binghamton,NY,6,Tri-Town Cadets,World Class,65.7,1973
+07/21,Binghamton,NY,6,Syracuse Marauders,World Class,65.8,1973
+07/21,Garfield,NJ,7,Boston Crusaders,World Class,56.4,1973
+07/21,Binghamton,NY,7,Appalachian Grenadiers,World Class,63.05,1973
+07/21,Binghamton,NY,7,Mark Twain Cadets,World Class,63.35,1973
+07/21,Binghamton,NY,8,Mark Twain Cadets,World Class,62.15,1973
+07/21,Binghamton,NY,8,Tri-Town Cadets,World Class,62.0,1973
+07/21,Binghamton,NY,9,Mello-Dears,World Class,59.25,1973
+07/21,Binghamton,NY,10,Gauchos,World Class,56.85,1973
+07/21,Binghamton,NY,11,Cadets of Greece,World Class,55.1,1973
+07/21,Binghamton,NY,12,Black Knights-NY,World Class,52.9,1973
+07/21,Binghamton,NY,13,Alpine Girls,World Class,39.5,1973
+07/21,Lindsay,Ontario,1,Dunkirk Patriots,World Class,55.45,1973
+07/21,Elk Grove Village,IL,1,"Belleville Black
+  Knights",World Class,72.7,1973
+07/21,Elk Grove Village,IL,1,"Belleville Black
+  Knights",World Class,75.8,1973
+07/21,Wyoming,MI,1,Blue Notes,World Class,66.55,1973
+07/21,Lindsay,Ontario,2,Kawartha Kavaliers,World Class,54.35,1973
+07/21,Elk Grove Village,IL,2,Cavaliers,World Class,68.5,1973
+07/21,Elk Grove Village,IL,2,Kewanee Black Knights,World Class,75.55,1973
+07/21,Wyoming,MI,2,Vanguard Rockets,World Class,59.4,1973
+07/21,Lindsay,Ontario,3,Kingston Grenadiers,World Class,53.55,1973
+07/21,Elk Grove Village,IL,3,Kewanee Black Knights,World Class,65.95,1973
+07/21,Elk Grove Village,IL,3,Cavaliers,World Class,72.85,1973
+07/21,Wyoming,MI,3,Saginaires,World Class,59.2,1973
+07/21,Lindsay,Ontario,4,"Sudbury Imperial
+  Knights",World Class,51.15,1973
+07/21,Elk Grove Village,IL,4,Skokie Imperials,World Class,62.05,1973
+07/21,Elk Grove Village,IL,4,Guardsmen,World Class,66.4,1973
+07/21,Wyoming,MI,4,Northernaires,World Class,57.3,1973
+07/21,Lindsay,Ontario,5,Freestatesmen,World Class,43.4,1973
+07/21,Elk Grove Village,IL,5,Guardsmen,World Class,58.7,1973
+07/21,Elk Grove Village,IL,5,Skokie Imperials,World Class,65.0,1973
+07/21,Wyoming,MI,5,Blue Knights (MI),World Class,45.25,1973
+07/21,Elk Grove Village,IL,6,Ottawa Crusaders,World Class,52.0,1973
+07/21,Elk Grove Village,IL,6,Ottawa Crusaders,World Class,54.25,1973
+07/21,Wyoming,MI,6,White Beret,World Class,36.5,1973
+07/21,Elk Grove Village,IL,7,Chargers,World Class,46.7,1973
+07/21,Elk Grove Village,IL,7,Chargers,World Class,44.15,1973
+07/21,Wyoming,MI,7,Midshipmen (MI),World Class,35.9,1973
+07/21,Elk Grove Village,IL,8,Polish Falcon Cadets,World Class,38.05,1973
+07/21,Elk Grove Village,IL,8,Polish Falcon Cadets,World Class,41.85,1973
+07/21,Elk Grove Village,IL,9,Scarlett Knights,World Class,37.55,1973
+07/21,Elk Grove Village,IL,10,Regal Valiants,World Class,28.3,1973
+07/21,Elk Grove Village,IL,11,Nisei,World Class,20.8,1973
+07/21,Elk Grove Village,IL,12,Cavalier Cadets,World Class,19.35,1973
+07/21,Elk Grove Village,IL,13,Royal Cadets,World Class,18.1,1973
+07/21,Old Bridge,NJ,1,Belvederes,World Class,72.8,1973
+07/22,Brantford,Ontario,1,Toronto Optimists,World Class,75.45,1973
+07/22,Kitchner,Ontario,1,Etobicoke Crusaders,World Class,64.1,1973
+07/22,Hawthorne,NJ,1,27th Lancers,World Class,77.95,1973
+07/21,Old Bridge,NJ,2,Sacred Heart Crusaders,World Class,71.85,1973
+07/22,Brantford,Ontario,2,DeLaSalle Oaklands,World Class,75.25,1973
+07/22,Kitchner,Ontario,2,Flying Dutchmen,World Class,48.45,1973
+07/22,Hawthorne,NJ,2,Bridgemen,World Class,77.95,1973
+07/21,Old Bridge,NJ,3,Bracken Cavaliers,World Class,71.75,1973
+07/22,Brantford,Ontario,3,Princemen,World Class,66.0,1973
+07/22,Kitchner,Ontario,3,Krescendos,World Class,44.8,1973
+07/22,Hawthorne,NJ,3,Purple Lancers,World Class,67.4,1973
+07/21,Old Bridge,NJ,4,Black Watch (NJ),World Class,49.65,1973
+07/22,Brantford,Ontario,4,Marion Cadets,World Class,65.2,1973
+07/22,Kitchner,Ontario,4,Guelph Optimists,World Class,40.5,1973
+07/22,Hawthorne,NJ,4,Blue Rock,World Class,67.1,1973
+07/21,Old Bridge,NJ,5,Luckie Ladies,World Class,40.45,1973
+07/22,Brantford,Ontario,5,4th Brigade,World Class,55.8,1973
+07/22,Hawthorne,NJ,5,Garfield Cadets,World Class,65.0,1973
+07/21,Old Bridge,NJ,6,Continentals (NJ),World Class,39.2,1973
+07/22,Kitchner,Ontario,1,Optimist Lancers,World Class,73.2,1973
+07/22,Hawthorne,NJ,6,Falcon Cadets,World Class,61.2,1973
+07/21,Old Bridge,NJ,7,Belles of Saint Mary's,World Class,35.7,1973
+07/22,Kitchner,Ontario,2,Kiwanis Kavaliers,World Class,56.3,1973
+07/22,Hawthorne,NJ,7,Boston Crusaders,World Class,51.25,1973
+07/22,Kitchner,Ontario,3,Kinsmen Krescendos,World Class,55.5,1973
+07/22,Kitchner,Ontario,4,Brampton Senators,World Class,52.9,1973
+07/22,Kitchner,Ontario,5,Durham Girls,World Class,51.2,1973
+07/22,Renton,WA,1,"Percussion-naut
+  Patriots",World Class,68.85,1973
+07/22,Philadelphia,PA,1,Valley Grenadiers,World Class,74.6,1973
+07/22,Kitchner,Ontario,1,Etobicoke Crusaders,World Class,64.1,1973
+07/22,Susquehanna,PA,1,Gauchos,World Class,67.9,1973
+07/22,Renton,WA,2,Sentinels,World Class,67.1,1973
+07/22,Philadelphia,PA,2,Monarchs,World Class,65.25,1973
+07/22,Kitchner,Ontario,2,Flying Dutchmen,World Class,48.45,1973
+07/22,Susquehanna,PA,2,Tri-Town Cadets,World Class,62.4,1973
+07/22,Renton,WA,3,Flamingos,World Class,64.15,1973
+07/22,Philadelphia,PA,3,Saints,World Class,62.8,1973
+07/22,Kitchner,Ontario,3,Kinsmen Krescendos,World Class,44.8,1973
+07/22,Susquehanna,PA,3,Shoreliners,World Class,58.3,1973
+07/22,Renton,WA,4,Hawks,World Class,62.5,1973
+07/22,Philadelphia,PA,4,Royales,World Class,59.0,1973
+07/22,Kitchner,Ontario,4,Optimist Knights,World Class,40.5,1973
+07/22,Susquehanna,PA,4,Black Knights-NY,World Class,57.9,1973
+07/22,Renton,WA,5,Highlanders,World Class,61.45,1973
+07/22,Philadelphia,PA,5,Epoch,World Class,55.75,1973
+07/22,Susquehanna,PA,5,Ambassadors,World Class,45.2,1973
+07/22,Renton,WA,6,Titans,World Class,48.65,1973
+07/22,Philadelphia,PA,6,Earls of Buck,World Class,46.4,1973
+07/22,Kitchner,Ontario,1,Optimist Knights,World Class,62.2,1973
+07/22,Kitchner,Ontario,2,Kiwanis Kavaliers,World Class,56.3,1973
+07/22,Renton,WA,1,Seattle Cascades,World Class,51.9,1973
+07/22,Kitchner,Ontario,3,"East Scarborough
+  Kinsmen",World Class,55.5,1973
+07/22,Kitchner,Ontario,4,Brampton Senators,World Class,52.9,1973
+07/22,Renton,WA,1,Escadrille,World Class,35.8,1973
+07/22,Kitchner,Ontario,5,Durham Girls,World Class,51.2,1973
+07/22,Placentia,CA,1,Velvet Knights,World Class,59.9,1973
+07/22,Gloucester,PA,1,Belvederes,World Class,72.85,1973
+07/23,San Diego,CA,1,Vanguard,World Class,80.1,1973
+07/28,Manville,NY,1,Keystone Regiment,World Class,69.0,1973
+07/22,Placentia,CA,2,Imperial Dragons,World Class,49.0,1973
+07/22,Gloucester,PA,2,Grenadiers,World Class,68.6,1973
+07/23,San Diego,CA,2,Troopers,World Class,79.55,1973
+07/28,Manville,NY,2,507 Hornets,World Class,68.85,1973
+07/22,Gloucester,PA,3,Emerald Lancers,World Class,50.05,1973
+07/23,San Diego,CA,3,Anaheim Kingsmen,World Class,73.25,1973
+07/28,Manville,NY,3,Bracken Cavaliers,World Class,67.6,1973
+07/22,Placentia,CA,1,Kings Lancers,World Class,51.0,1973
+07/22,Gloucester,PA,4,Black Watch-NJ,World Class,48.85,1973
+07/23,San Diego,CA,4,Commodores,World Class,64.45,1973
+07/28,Manville,NY,4,Grenadiers-NY,World Class,65.4,1973
+07/22,Placentia,CA,2,Third Generation,World Class,48.35,1973
+07/22,Gloucester,PA,5,Shadettes,World Class,40.6,1973
+07/23,San Diego,CA,5,Velvet Knights,World Class,44.95,1973
+07/28,Manville,NY,5,Emerald Lancers,World Class,49.8,1973
+07/22,Placentia,CA,3,VK Squires,World Class,46.95,1973
+07/22,Placentia,CA,4,Monterey Park Girls,World Class,31.9,1973
+07/28,Stillwater,MN,1,Chevaliers-IA,World Class,78.7,1973
+07/28,Ogdensburg,NY,1,Purple Lancers,World Class,81.5,1973
+07/28,Ottawa,Ontario,1,Hawthorne Caballeros,World Class,87.6,1973
+07/28,Carlisle,PA,1,Reading Buccaneers,World Class,85.15,1973
+07/28,Stillwater,MN,2,Marquis,World Class,78.5,1973
+07/28,Ogdensburg,NY,2,Magnificent Yankees,World Class,77.4,1973
+07/28,Ottawa,Ontario,2,Les Diplomats,World Class,84.85,1973
+07/28,Carlisle,PA,2,Connecticut Hurricanes,World Class,84.35,1973
+07/28,Stillwater,MN,3,Belles of Saint Mary's,World Class,66.2,1973
+07/28,Ogdensburg,NY,3,Princemen,World Class,63.15,1973
+07/28,Ottawa,Ontario,3,Rochester Crusaders,World Class,79.6,1973
+07/28,Carlisle,PA,3,Yankee Rebels,World Class,82.3,1973
+07/28,Stillwater,MN,4,Mounties,World Class,59.9,1973
+07/28,Ogdensburg,NY,4,Appleknockers,World Class,60.4,1973
+07/28,Ottawa,Ontario,4,New York Skyliners,World Class,78.55,1973
+07/28,Carlisle,PA,4,Sunrisers,World Class,70.35,1973
+07/28,Stillwater,MN,5,Blue Knights-MN,World Class,59.6,1973
+07/28,Ogdensburg,NY,5,4th Brigade,World Class,59.6,1973
+07/28,Ottawa,Ontario,5,Canadian Commanders,World Class,62.6,1973
+07/28,Carlisle,PA,5,Rockets,World Class,60.95,1973
+07/28,Sudbury,Ontario,1,Erie Thunderbirds,World Class,62.7,1973
+07/28,South Milwaukee,WI,1,Madison Scouts,World Class,82.4,1973
+07/28,Saginaw,MI,1,Glassmen,World Class,51.95,1973
+07/28,Elmira,NY,1,Belvederes,World Class,66.45,1973
+07/28,Sudbury,Ontario,2,Minnesota Brass,World Class,56.25,1973
+07/28,South Milwaukee,WI,2,Madison Scouts,World Class,81.5,1973
+07/28,Saginaw,MI,2,Iron Brigade,World Class,49.7,1973
+07/28,Elmira,NY,2,Mello Dears,World Class,58.95,1973
+07/28,Sudbury,Ontario,3,Suburban Knights,World Class,52.7,1973
+07/28,South Milwaukee,WI,3,"Belleville Black
+  Knights",World Class,80.0,1973
+07/28,Saginaw,MI,3,Saginaires,World Class,49.1,1973
+07/28,Elmira,NY,3,Optimist Knights,World Class,48.65,1973
+07/28,Sudbury,Ontario,4,"Sudbury Imperial
+  Knights",World Class,51.95,1973
+07/28,South Milwaukee,WI,4,Cavaliers,World Class,72.5,1973
+07/28,Saginaw,MI,4,Vanguard Rockets,World Class,44.6,1973
+07/28,Elmira,NY,4,Lakeview Shoreliners,World Class,48.0,1973
+07/28,Sudbury,Ontario,5,Kawartha Kavaliers,World Class,51.65,1973
+07/28,South Milwaukee,WI,5,The Thing,World Class,70.7,1973
+07/28,Saginaw,MI,5,Midlanders,World Class,38.85,1973
+07/28,Elmira,NY,5,Alpine Girls,World Class,42.6,1973
+07/28,South Milwaukee,WI,6,Kewanee Black Knights,World Class,69.6,1973
+07/28,South Milwaukee,WI,7,Des Plaines Vanguard,World Class,64.95,1973
+07/28,South Milwaukee,WI,8,Americanos,World Class,63.05,1973
+07/29,Sudbury,Ontario,1,Gauchos,World Class,62.95,1973
+07/29,South Milwaukee,WI,1,Chevaliers-IA,World Class,74.95,1973
+07/29,Horicon,WI,1,Madison Scouts,World Class,83.35,1973
+07/29,Etobicoke,Ontario,1,DeLaSalle Oaklands,World Class,74.45,1973
+07/29,Sudbury,Ontario,2,Tri-Town Cadets,World Class,62.4,1973
+07/29,South Milwaukee,WI,2,Blue Notes,World Class,62.45,1973
+07/29,Horicon,WI,2,Phantom Regiment,World Class,75.15,1973
+07/29,Etobicoke,Ontario,2,Toronto Optimists,World Class,72.55,1973
+07/29,Sudbury,Ontario,3,Black Knights-NY,World Class,61.7,1973
+07/29,South Milwaukee,WI,3,Windjammers,World Class,59.95,1973
+07/29,Horicon,WI,3,The Thing,World Class,72.05,1973
+07/29,Sudbury,Ontario,4,White Knights,World Class,52.3,1973
+07/29,South Milwaukee,WI,4,Marquis,World Class,59.55,1973
+07/29,Horicon,WI,4,Colt 45's,World Class,70.85,1973
+07/29,Etobicoke,Ontario,1,Etobicoke Crusaders,World Class,74.35,1973
+07/29,Sudbury,Ontario,5,Kinsmen,World Class,48.35,1973
+07/29,South Milwaukee,WI,5,New Day,World Class,36.95,1973
+07/29,Horicon,WI,5,Chevaliers-IA,World Class,65.6,1973
+07/29,Etobicoke,Ontario,2,Flying Dutchmen,World Class,59.15,1973
+07/29,Sudbury,Ontario,6,Les Compagnons,World Class,45.75,1973
+07/29,Horicon,WI,6,Racine Scouts,World Class,65.05,1973
+07/29,Etobicoke,Ontario,3,Optimist Knights,World Class,46.65,1973
+07/29,Sudbury,Ontario,7,Royal Coachmen,World Class,44.1,1973
+07/29,Horicon,WI,7,Minnesota Brass,World Class,59.55,1973
+07/29,Etobicoke,Ontario,4,Cardinals of PB,World Class,46.1,1973
+07/29,Sudbury,Ontario,8,Alpine Girls,World Class,43.95,1973
+07/29,Horicon,WI,8,Northernaires,World Class,52.85,1973
+07/29,Etobicoke,Ontario,5,Dutch Boy Cadets,World Class,40.3,1973
+08/03,Lynn,MA,1,Mello-Dears,World Class,71.35,1973
+08/03,Lynn,MA,1,Saint Ignatius,Open Class,72.4,1973
+08/03,Lynn,MA,1,Bridgemen,Open Class,84.15,1973
+08/03,Lynn,MA,1,Bridgemen,Open Class,87.9,1973
+08/03,Lynn,MA,2,Saint Ignatius,World Class,68.8,1973
+08/03,Lynn,MA,2,Mello-Dears,Open Class,68.55,1973
+08/03,Lynn,MA,2,Saint Rita's Brassmen,Open Class,82.9,1973
+08/03,Lynn,MA,2,St Rita's Brassmen,Open Class,86.25,1973
+08/03,Lynn,MA,3,Fire-ettes,World Class,68.0,1973
+08/03,Lynn,MA,3,Fire-ettes,Open Class,64.1,1973
+08/03,Lynn,MA,3,Purple Lancers,Open Class,81.4,1973
+08/03,Lynn,MA,3,Purple Lancers,Open Class,84.35,1973
+08/03,Lynn,MA,4,Fairfield Colonnades,World Class,60.0,1973
+08/03,Lynn,MA,4,Pembroke Imperials,Open Class,79.0,1973
+08/03,Lynn,MA,4,CMCC Warriors,Open Class,79.6,1973
+08/03,Lynn,MA,5,Jeanettes,World Class,54.55,1973
+08/03,Lynn,MA,1,Keystone Regiment,Open Class,77.75,1973
+08/03,Lynn,MA,5,Blue Rock,Open Class,77.65,1973
+08/03,Lynn,MA,5,Pembroke Imperials,Open Class,78.8,1973
+08/03,Lynn,MA,6,Les Eclipses,World Class,52.2,1973
+08/03,Lynn,MA,2,Gauchos,Open Class,69.5,1973
+08/03,Lynn,MA,6,CMCC Warriors,Open Class,77.05,1973
+08/03,Lynn,MA,6,Blue Rock,Open Class,77.6,1973
+08/03,Lynn,MA,7,Joanettes,World Class,51.6,1973
+08/03,Lynn,MA,3,Kingston Indians,Open Class,68.4,1973
+08/03,Lynn,MA,7,Magnificent Yankees,Open Class,76.0,1973
+08/03,Lynn,MA,7,Magnificent Yankees,Open Class,75.95,1973
+08/03,Lynn,MA,8,Socialites,World Class,47.15,1973
+08/03,Lynn,MA,4,Townsmen,Open Class,67.3,1973
+08/03,Lynn,MA,8,Emerald Cadets,Open Class,75.0,1973
+08/03,Lynn,MA,8,The Thing,Open Class,75.8,1973
+08/03,Lynn,MA,9,Luckie Ladies,World Class,44.3,1973
+08/03,Lynn,MA,5,Silhouettes,Open Class,65.75,1973
+08/03,Lynn,MA,9,The Thing,Open Class,74.95,1973
+08/03,Lynn,MA,9,Cadets of LaSalle,Open Class,75.75,1973
+08/03,Lynn,MA,6,Golden Crusaders,Open Class,64.1,1973
+08/03,Lynn,MA,10,Cadets of LaSalle,Open Class,74.55,1973
+08/03,Lynn,MA,10,Emerald Cadets,Open Class,73.4,1973
+08/03,Lynn,MA,1,Keystone Regiment,World Class,76.0,1973
+08/03,Lynn,MA,7,Epoch,Open Class,58.85,1973
+08/03,Lynn,MA,11,Kewanee Knights,Open Class,73.45,1973
+08/03,Lynn,MA,2,Golden Crusaders,World Class,69.4,1973
+08/03,Lynn,MA,8,Defenders,Open Class,58.75,1973
+08/03,Lynn,MA,12,507 Hornets,Open Class,72.1,1973
+08/03,Lynn,MA,3,Kingston Indians,World Class,67.5,1973
+08/03,Lynn,MA,9,Fitchburg Kingsmen,Open Class,58.35,1973
+08/03,Lynn,MA,13,PAL Cadets,Open Class,72.0,1973
+08/03,Lynn,MA,4,Gauchos,World Class,63.9,1973
+08/03,Lynn,MA,10,Les Compagnons,Open Class,55.95,1973
+08/03,Lynn,MA,14,4th Brigade,Open Class,69.65,1973
+08/03,Lynn,MA,5,Townsmen,World Class,61.6,1973
+08/03,Lynn,MA,15,Olympians,Open Class,69.4,1973
+08/03,Lynn,MA,6,Silhouettes,World Class,60.35,1973
+08/03,Lynn,MA,16,Sancians,Open Class,68.35,1973
+08/03,Lynn,MA,7,Defenders,World Class,59.9,1973
+08/03,Lynn,MA,17,Boston Crusaders,Open Class,68.05,1973
+08/03,Lynn,MA,8,Fitchburg Kingsmen,World Class,58.05,1973
+08/03,Lynn,MA,18,Syracuse Marauders,Open Class,68.0,1973
+08/03,Lynn,MA,9,Epoch,World Class,57.65,1973
+08/03,Lynn,MA,19,OLPH Ridgemen,Open Class,67.75,1973
+08/03,Lynn,MA,10,Les Compagnons,World Class,55.45,1973
+08/03,Lynn,MA,20,Stateliners,Open Class,67.5,1973
+08/03,Lynn,MA,11,Emerald Knights,World Class,54.4,1973
+08/03,Lynn,MA,21,New London Surfers,Open Class,67.1,1973
+08/03,Lynn,MA,12,Royales,World Class,53.9,1973
+08/03,Lynn,MA,22,IC Reveries,Open Class,66.05,1973
+08/03,Lynn,MA,13,Troy Muchachos,World Class,53.3,1973
+08/03,Lynn,MA,23,Royal Lancers,Open Class,63.2,1973
+08/03,Lynn,MA,14,Manchester Muchachos,World Class,52.6,1973
+08/03,Lynn,MA,24,Sacred Heart Crusaders,Open Class,62.9,1973
+08/03,Lynn,MA,15,Sharpshooters,World Class,50.0,1973
+08/03,Lynn,MA,25,Dukes of Marlboro,Open Class,58.2,1973
+08/03,Lynn,MA,16,Legion Vanguard,World Class,49.65,1973
+08/03,Lynn,MA,26,Knickerbockers,Open Class,56.2,1973
+08/03,Lynn,MA,17,Leicesters,World Class,49.5,1973
+08/03,Lynn,MA,27,Centurions,Open Class,55.0,1973
+08/03,Lynn,MA,18,Spiegalaires,World Class,49.3,1973
+08/03,Lynn,MA,28,Telestars,Open Class,53.7,1973
+08/03,Lynn,MA,19,Blue Demons,World Class,49.0,1973
+08/03,Lynn,MA,29,Golden Rays,Open Class,53.35,1973
+08/03,Lynn,MA,20,Horizons,World Class,48.65,1973
+08/03,Lynn,MA,30,Thomas More Cadets,Open Class,48.5,1973
+08/03,Lynn,MA,21,Memorial Lancers,World Class,48.15,1973
+08/03,Lynn,MA,31,Troubadours,Open Class,46.4,1973
+08/03,Lynn,MA,22,Stormy Knights,World Class,46.45,1973
+08/03,Lynn,MA,23,21st Lancers,World Class,46.3,1973
+08/03,Lynn,MA,24,Continentals,World Class,43.15,1973
+08/03,Lynn,MA,25,Imperial Juniors,World Class,42.65,1973
+08/03,Lynn,MA,26,Earls of Buck,World Class,41.95,1973
+08/03,Lynn,MA,27,Comets,World Class,41.65,1973
+08/03,Lynn,MA,28,Regal Crownsmen,World Class,39.75,1973
+08/03,Lynn,MA,29,Diplomat Juniors,World Class,19.2,1973
+08/04,Hutchison,KS,1,Vanguard,World Class,80.8,1973
+08/04,Richmond,KY,1,Blue Stars,Open Class,80.5,1973
+08/04,Richmond,KY,1,Blue Stars,Open Class,82.8,1973
+08/04,Reading,PA,1,Hawthorne Caballeros,Open Class,89.0,1973
+08/04,Hutchison,KS,2,Argonne Rebels,World Class,67.1,1973
+08/04,Richmond,KY,2,27th Lancers,Open Class,80.35,1973
+08/04,Richmond,KY,2,Kilties,Open Class,81.3,1973
+08/04,Reading,PA,2,Reading Buccaneers,Open Class,87.4,1973
+08/04,Hutchison,KS,3,Silver Sabres,World Class,63.15,1973
+08/04,Richmond,KY,3,Kilties,Open Class,80.0,1973
+08/04,Richmond,KY,3,Madison Scouts,Open Class,80.7,1973
+08/04,Reading,PA,3,Yankee Rebels,Open Class,81.4,1973
+08/04,Hutchison,KS,4,Sky Ryders,World Class,61.85,1973
+08/04,Richmond,KY,4,Anaheim Kingsmen,Open Class,79.95,1973
+08/04,Richmond,KY,4,27th Lancers,Open Class,80.2,1973
+08/04,Reading,PA,4,Sunrisers,Open Class,71.95,1973
+08/04,Hutchison,KS,5,Velvet Knights,World Class,54.9,1973
+08/04,Richmond,KY,5,Madison Scouts,Open Class,79.55,1973
+08/04,Richmond,KY,5,Anaheim Kingsmen,Open Class,79.9,1973
+08/04,Reading,PA,5,Rockets,Open Class,63.15,1973
+08/04,Hutchison,KS,6,Continental Ambassadors,World Class,53.35,1973
+08/04,Richmond,KY,6,"Belleville Black
+  Knights",Open Class,75.05,1973
+08/04,Richmond,KY,6,"Belleville Black
+  Knights",Open Class,76.9,1973
+08/04,Hutchison,KS,7,Frontiersmen,World Class,48.3,1973
+08/04,Richmond,KY,7,Commodores,Open Class,74.8,1973
+08/04,Richmond,KY,7,Commodores,Open Class,73.0,1973
+08/04,Hutchison,KS,8,El Doradans,World Class,41.1,1973
+08/04,Richmond,KY,8,Garfield Cadets,Open Class,73.6,1973
+08/04,Richmond,KY,8,Garfield Cadets,Open Class,71.6,1973
+08/04,Hutchison,KS,9,Valiant Knights,World Class,29.55,1973
+08/04,Richmond,KY,9,Bleu Raeders,Open Class,72.9,1973
+08/04,Richmond,KY,9,Cavaliers,Open Class,71.55,1973
+08/04,Hutchison,KS,10,Tri-Vel Raiders,World Class,25.85,1973
+08/04,Richmond,KY,10,Cavaliers,Open Class,72.1,1973
+08/04,Richmond,KY,10,Bleu Raeders,Open Class,68.95,1973
+08/04,Hutchison,KS,11,Blue Knights,World Class,22.5,1973
+08/04,Richmond,KY,11,Des Plaines Vanguard,Open Class,68.7,1973
+08/04,Hutchison,KS,12,Crimson Cadets,World Class,11.15,1973
+08/04,Richmond,KY,12,Audobon Bon Bons,Open Class,66.7,1973
+08/04,Richmond,KY,13,Marion Cadets,Open Class,62.4,1973
+08/04,Richmond,KY,14,Valley Grenadiers,Open Class,60.2,1973
+08/04,Richmond,KY,15,Charioteers,Open Class,58.5,1973
+08/04,Richmond,KY,16,CapitolAires,Open Class,55.45,1973
+08/05,Jersey City,NJ,1,Muchachos,World Class,86.4,1973
+08/05,North Tonawanda,NY,1,Phantom Regiment,Open Class,74.7,1973
+08/05,Newburyport,MA,1,Jeanettes,Open Class,68.2,1973
+08/05,Baltimore,MD,1,Belvederes,Open Class,72.5,1973
+08/05,Jersey City,NJ,2,Bridgemen,World Class,86.1,1973
+08/05,North Tonawanda,NY,2,Squires,Open Class,73.2,1973
+08/05,Newburyport,MA,2,Fitchburg Kingsmen,Open Class,65.7,1973
+08/05,Baltimore,MD,2,Grenadiers,Open Class,66.4,1973
+08/05,Jersey City,NJ,3,The Thing,World Class,72.15,1973
+08/05,North Tonawanda,NY,3,Princemen,Open Class,70.0,1973
+08/05,Newburyport,MA,3,Annunciators,Open Class,61.85,1973
+08/05,Baltimore,MD,2,Tri Town Cadets,Open Class,65.3,1973
+08/05,Jersey City,NJ,4,Audobon Bon Bons,World Class,68.55,1973
+08/05,North Tonawanda,NY,4,Black Knights-NY,Open Class,58.0,1973
+08/05,Baltimore,MD,4,Syracuse Marauders,Open Class,64.2,1973
+08/05,Jersey City,NJ,5,Royal Lancers,World Class,57.9,1973
+08/05,North Tonawanda,NY,5,Shoreliners,Open Class,51.0,1973
+08/05,Baltimore,MD,5,Cadets of Greece,Open Class,63.15,1973
+08/05,Baltimore,MD,6,Ambassadors (PA),Open Class,39.8,1973
+08/05,Jersey City,NJ,1,Hawthorne Caballeros,World Class,89.0,1973
+08/05,Baltimore,MD,7,Shadettes,Open Class,39.7,1973
+08/05,Jersey City,NJ,2,Connecticut Hurricanes,World Class,85.1,1973
+08/05,Baltimore,MD,8,Patriots (NJ),Open Class,36.75,1973
+08/05,Jersey City,NJ,3,Reading Buccaneers,World Class,84.8,1973
+08/05,Jersey City,NJ,4,Yankee Rebels,World Class,83.15,1973
+08/05,Jersey City,NJ,5,New York Skyliners,World Class,82.6,1973
+08/05,Simcoe,Ontario,1,Flying Dutchmen,World Class,66.3,1973
+08/07,Long Island,NY,1,Blue Stars,Open Class,83.3,1973
+08/08,Butler,PA,1,Vanguard,Open Class,84.0,1973
+08/08,Butler,PA,1,Vanguard,Open Class,86.1,1973
+08/05,Simcoe,Ontario,2,Kinsmen Krescendos,World Class,54.85,1973
+08/07,Long Island,NY,2,Muchachos,Open Class,82.85,1973
+08/08,Butler,PA,2,Troopers,Open Class,83.85,1973
+08/08,Butler,PA,2,Troopers,Open Class,85.85,1973
+08/05,Simcoe,Ontario,3,Optimist Knights,World Class,54.4,1973
+08/07,Long Island,NY,3,Bridgemen,Open Class,81.25,1973
+08/08,Butler,PA,3,"Belleville Black
+  Knights",Open Class,76.35,1973
+08/08,Butler,PA,3,"Belleville Black
+  Knights",Open Class,78.05,1973
+08/05,Simcoe,Ontario,4,Les Cavalieres,World Class,45.9,1973
+08/07,Long Island,NY,4,Madison Scouts,Open Class,78.75,1973
+08/08,Butler,PA,4,DeLaSalle Oaklands,Open Class,74.0,1973
+08/08,Butler,PA,4,Falcon Cadets,Open Class,75.2,1973
+08/05,Simcoe,Ontario,5,Dutch Boy Cadets,World Class,39.65,1973
+08/07,Long Island,NY,5,Bleu Raeders,Open Class,69.35,1973
+08/08,Butler,PA,5,Blue Rock,Open Class,73.15,1973
+08/08,Butler,PA,5,DeLaSalle Oaklands,Open Class,72.7,1973
+08/08,Butler,PA,6,Polish Falcon Cadets,Open Class,73.1,1973
+08/08,Butler,PA,6,Blue Rock,Open Class,71.05,1973
+08/08,Butler,PA,7,Des Plaines Vanguard,Open Class,68.1,1973
+08/08,Butler,PA,7,The Thing,Open Class,70.05,1973
+08/08,Butler,PA,8,The Thing,Open Class,67.7,1973
+08/08,Butler,PA,8,Des Plaines Vanguard,Open Class,67.05,1973
+08/08,Butler,PA,9,Phantom Regiment,Open Class,67.45,1973
+08/08,Butler,PA,9,Phantom Regiment,Open Class,66.8,1973
+08/08,Butler,PA,10,Marion Cadets,Open Class,64.1,1973
+08/08,Butler,PA,10,Marion Cadets,Open Class,62.1,1973
+08/08,Butler,PA,11,"General Butler
+  Vagabonds",Open Class,62.55,1973
+08/08,Butler,PA,10,Bleu Raeders,Open Class,60.35,1973
+08/08,Butler,PA,12,Americanos,Open Class,61.4,1973
+08/08,Butler,PA,13,Seneca Princemen,Open Class,60.0,1973
+08/08,Butler,PA,1,Squires,Open Class,70.35,1973
+08/08,Butler,PA,2,Etobicoke Crusaders,Open Class,68.65,1973
+08/08,Butler,PA,1,Etobicoke Crusaders,Open Class,74.65,1973
+08/08,Butler,PA,3,Charioteers,Open Class,62.15,1973
+08/08,Butler,PA,2,Squires,Open Class,73.0,1973
+08/08,Butler,PA,4,Grenadiers,Open Class,61.25,1973
+08/08,Butler,PA,3,Charioteers,Open Class,72.45,1973
+08/08,Butler,PA,5,Marquis,Open Class,56.8,1973
+08/08,Butler,PA,4,Grenadiers,Open Class,68.45,1973
+08/08,Butler,PA,4,Marquis,Open Class,68.45,1973
+08/08,Butler,PA,1,CapitolAires,Open Class,63.1,1973
+08/08,Butler,PA,6,Mello Dears,Open Class,68.25,1973
+08/08,Butler,PA,2,Mello Dears,Open Class,52.2,1973
+08/08,Butler,PA,7,CapitolAires,Open Class,62.95,1973
+08/08,Butler,PA,3,Belles of Saint Mary's,Open Class,44.8,1973
+08/08,Butler,PA,8,Belles of Saint Mary's,Open Class,61.0,1973
+08/08,Butler,PA,9,New London Surfers,Open Class,58.65,1973
+08/08,Butler,PA,10,IC Reveries,Open Class,57.45,1973
+08/08,Butler,PA,11,Syracuse Marauders,Open Class,55.4,1973
+08/08,Butler,PA,12,PAL Cadets,Open Class,53.15,1973
+08/08,Butler,PA,13,Dukes of Marlboro,Open Class,52.55,1973
+08/08,Butler,PA,14,Knickerbockers,Open Class,51.35,1973
+08/08,Butler,PA,15,Monarchs,Open Class,45.85,1973
+08/08,Butler,PA,16,Saint John's Girls,Open Class,38.9,1973
+08/08,Butler,PA,17,Optimist Knights,Open Class,26.45,1973
+08/08,Boston,MA,1,Blue Stars,World Class,78.3,1973
+08/09,Marion,OH,1,Audubon Bon Bons,Open Class,65.05,1973
+08/08,Marion,OH,1,"Belleville Black
+  Knights",Open Class,79.4,1973
+08/11,Lowell,MA,1,Vanguard,Open Class,87.5,1973
+08/08,Boston,MA,2,Madison Scouts,World Class,77.55,1973
+08/09,Marion,OH,2,CapitolAires,Open Class,58.95,1973
+08/08,Marion,OH,2,Kilties,Open Class,79.05,1973
+08/11,Lowell,MA,2,Troopers,Open Class,85.85,1973
+08/08,Boston,MA,3,Anaheim Kingsmen,World Class,76.1,1973
+08/09,Marion,OH,3,Mello-Dears,Open Class,56.9,1973
+08/08,Marion,OH,3,DeLaSalle Oaklands,Open Class,74.25,1973
+08/11,Lowell,MA,3,Muchachos,Open Class,83.7,1973
+08/08,Boston,MA,4,Bridgemen,World Class,74.55,1973
+08/09,Marion,OH,4,Fire-ettes,Open Class,54.05,1973
+08/08,Marion,OH,4,Purple Lancers,Open Class,74.1,1973
+08/11,Lowell,MA,4,Blue Stars,Open Class,83.55,1973
+08/08,Boston,MA,5,27th Lancers,World Class,74.3,1973
+08/09,Marion,OH,5,Saint John's Girls,Open Class,50.85,1973
+08/08,Marion,OH,5,Falcon Cadets,Open Class,72.75,1973
+08/11,Lowell,MA,5,Madison Scouts,Open Class,83.05,1973
+08/08,Boston,MA,6,Commodores,World Class,69.3,1973
+08/09,Marion,OH,6,Catholic D. of America,Open Class,49.3,1973
+08/08,Marion,OH,6,Argonne Rebels,Open Class,72.35,1973
+08/11,Lowell,MA,6,27th Lancers,Open Class,79.0,1973
+08/08,Boston,MA,7,CMCC Warriors,World Class,63.8,1973
+08/09,Marion,OH,7,Vanguard Rockets,Open Class,44.85,1973
+08/08,Marion,OH,7,Des Plaines Vanguard,Open Class,70.5,1973
+08/11,Lowell,MA,7,Bridgemen,Open Class,78.1,1973
+08/08,Boston,MA,8,Kewanee Black Knights,World Class,63.65,1973
+08/09,Marion,OH,8,Belles of Saint Mary's,Open Class,44.55,1973
+08/08,Marion,OH,8,Phantom Regiment,Open Class,70.1,1973
+08/11,Lowell,MA,8,Cadets of LaSalle,Open Class,73.95,1973
+08/08,Boston,MA,9,Garfield Cadets,World Class,62.65,1973
+08/09,Marion,OH,9,Jeanettes,Open Class,43.3,1973
+08/08,Marion,OH,9,Anaheim Kingsmen,Open Class,70.0,1973
+08/11,Lowell,MA,9,Commodores,Open Class,73.05,1973
+08/08,Boston,MA,10,Bleu Raeders,World Class,60.35,1973
+08/09,Marion,OH,10,Alpine Girls,Open Class,40.4,1973
+08/08,Marion,OH,10,Royal Crusaders,Open Class,69.55,1973
+08/11,Lowell,MA,10,Garfield Cadets,Open Class,68.65,1973
+08/08,Boston,MA,11,Sancians,World Class,55.35,1973
+08/09,Marion,OH,11,Norwood Debonaires,Open Class,37.85,1973
+08/08,Marion,OH,11,Blue Rock,Open Class,69.55,1973
+08/11,Lowell,MA,11,Bleu Raeders,Open Class,67.55,1973
+08/08,Marion,OH,12,Toronto Optimists,Open Class,68.3,1973
+08/11,Lowell,MA,12,Pembroke Imperials,Open Class,65.7,1973
+08/09,Marion,OH,1,Squires,Open Class,71.15,1973
+08/08,Marion,OH,13,Magnificent Yankees,Open Class,67.85,1973
+08/11,Lowell,MA,13,Saint Francis Sancians,Open Class,60.05,1973
+08/09,Marion,OH,2,Etobicoke Crusaders,Open Class,68.15,1973
+08/08,Marion,OH,14,Blue Devils,Open Class,67.75,1973
+08/11,Lowell,MA,14,Boston Crusaders,Open Class,54.25,1973
+08/09,Marion,OH,3,Keystone Regiment,Open Class,68.15,1973
+08/08,Marion,OH,15,Valley Grenadiers,Open Class,67.45,1973
+08/11,Lowell,MA,15,IC Reveries,Open Class,52.35,1973
+08/09,Marion,OH,4,Charioteers,Open Class,67.75,1973
+08/08,Marion,OH,16,Marion Cadets,Open Class,66.15,1973
+08/11,Lowell,MA,16,Kingston Indians,Open Class,50.55,1973
+08/09,Marion,OH,5,Belvederes,Open Class,63.25,1973
+08/08,Marion,OH,17,The Thing,Open Class,65.95,1973
+08/11,Lowell,MA,17,Golden Crusaders,Open Class,42.95,1973
+08/09,Marion,OH,6,Marquis,Open Class,61.45,1973
+08/08,Marion,OH,18,Beverly Cardinals,Open Class,65.8,1973
+08/11,Lowell,MA,18,Golden Rays,Open Class,36.65,1973
+08/09,Marion,OH,7,Windjammers,Open Class,60.55,1973
+08/08,Marion,OH,19,Ridgemen,Open Class,64.25,1973
+08/09,Marion,OH,8,Glassmen,Open Class,60.25,1973
+08/08,Marion,OH,20,Seneca Princemen,Open Class,63.75,1973
+08/09,Marion,OH,9,Gauchos,Open Class,60.05,1973
+08/08,Marion,OH,21,PAL Cadets,Open Class,62.7,1973
+08/09,Marion,OH,10,Mark Twain Cadets,Open Class,59.0,1973
+08/08,Marion,OH,22,Emerald Cadets,Open Class,62.4,1973
+08/09,Marion,OH,11,Tri-Town Cadets,Open Class,58.45,1973
+08/08,Marion,OH,23,Precisionaires,Open Class,62.25,1973
+08/09,Marion,OH,12,Black Knights-NY,Open Class,54.45,1973
+08/08,Marion,OH,24,Audobon Bon Bons,Open Class,62.2,1973
+08/09,Marion,OH,13,Floridians,Open Class,53.95,1973
+08/08,Marion,OH,25,Grenadiers,Open Class,61.75,1973
+08/09,Marion,OH,14,Cadets of Greece,Open Class,52.5,1973
+08/08,Marion,OH,26,Americanos,Open Class,60.55,1973
+08/09,Marion,OH,15,Ottawa Crusaders,Open Class,51.6,1973
+08/08,Marion,OH,27,Racine Scouts,Open Class,60.15,1973
+08/09,Marion,OH,16,Lakeview Shoreliners,Open Class,49.65,1973
+08/08,Marion,OH,28,"General Butler
+  Vagabonds",Open Class,58.3,1973
+08/09,Marion,OH,17,Saginaires,Open Class,48.7,1973
+08/08,Marion,OH,29,New London Surfers,Open Class,57.85,1973
+08/09,Marion,OH,18,Flying Dutchman,Open Class,48.65,1973
+08/08,Marion,OH,30,Appleknockers,Open Class,56.9,1973
+08/09,Marion,OH,19,Midlanders,Open Class,48.25,1973
+08/08,Marion,OH,31,Olympians,Open Class,55.9,1973
+08/09,Marion,OH,20,Royal Coachman,Open Class,48.1,1973
+08/08,Marion,OH,32,Columbians,Open Class,55.35,1973
+08/09,Marion,OH,21,Monarchs,Open Class,47.7,1973
+08/08,Marion,OH,33,Velvet Knights,Open Class,55.0,1973
+08/09,Marion,OH,22,Milwaukee Rebels,Open Class,47.35,1973
+08/08,Marion,OH,34,CapitolAires,Open Class,52.6,1973
+08/09,Marion,OH,23,Vanguard Rockets,Open Class,45.9,1973
+08/08,Marion,OH,35,Chevaliers-IA,Open Class,51.65,1973
+08/09,Marion,OH,24,5th Maine Regiment,Open Class,45.55,1973
+08/08,Marion,OH,36,Syracuse Marauders,Open Class,51.45,1973
+08/09,Marion,OH,25,Kentucky Buccaneers,Open Class,45.1,1973
+08/08,Marion,OH,37,Royal Lancers,Open Class,49.85,1973
+08/09,Marion,OH,26,Optimist Knights,Open Class,39.05,1973
+08/08,Marion,OH,38,Dukes of Marlboro,Open Class,49.7,1973
+08/09,Marion,OH,27,Memorial Lancers,Open Class,34.7,1973
+08/08,Marion,OH,39,Iron Brigade,Open Class,48.6,1973
+08/09,Marion,OH,28,Praesidium,Open Class,33.55,1973
+08/08,Marion,OH,40,Knickerbockers,Open Class,46.2,1973
+08/09,Marion,OH,29,Buckeyes,Open Class,32.5,1973
+08/08,Marion,OH,41,Blue Angels,Open Class,43.6,1973
+08/09,Marion,OH,30,Sir Thomas More Cadets,Open Class,32.4,1973
+08/08,Marion,OH,42,Saint John's Girls,Open Class,39.25,1973
+08/09,Marion,OH,31,Caballaros,Open Class,30.35,1973
+08/09,Marion,OH,32,PA Ambassadors,Open Class,29.7,1973
+08/09,Marion,OH,33,84th Bucktail Regiment,Open Class,25.5,1973
+08/09,Marion,OH,34,Les Cavaliers,Open Class,24.5,1973
+08/09,Marion,OH,35,Black Shields of Sparta,Open Class,20.15,1973
+08/11,Cumberland,MD,1,Guelph Royalaires,World Class,76.9,1973
+08/11,Johnston,PA,1,Hawthorne Caballeros,Open Class,91.5,1973
+08/11,Scranton,PA,1,Connecticut Hurricanes,Open Class,88.0,1973
+08/12,Hershey,PA,1,Connecticut Hurricanes,Open Class,84.05,1973
+08/11,Cumberland,MD,2,Emmaus Sentinels,World Class,72.4,1973
+08/11,Johnston,PA,2,Les Diplomats,Open Class,86.15,1973
+08/11,Scranton,PA,2,Yankee Rebels,Open Class,85.35,1973
+08/12,Hershey,PA,2,Reading Buccaneers,Open Class,83.85,1973
+08/11,Cumberland,MD,3,Hanover Lancers,World Class,69.6,1973
+08/11,Johnston,PA,3,Rochester Crusaders,Open Class,84.7,1973
+08/11,Scranton,PA,3,Reading Buccaneers,Open Class,85.15,1973
+08/12,Hershey,PA,3,Yankee Rebels,Open Class,80.95,1973
+08/11,Cumberland,MD,4,Rockets,World Class,68.1,1973
+08/11,Johnston,PA,4,Sunrisers,Open Class,72.85,1973
+08/11,Scranton,PA,4,New York Skyliners,Open Class,82.15,1973
+08/12,Hershey,PA,4,New York Skyliners,Open Class,79.6,1973
+08/11,Cumberland,MD,5,Dunkirk Patriots,World Class,50.6,1973
+08/11,Johnston,PA,5,Hamburg Kingsmen,Open Class,70.7,1973
+08/11,Scranton,PA,5,Matadors,Open Class,71.15,1973
+08/11,Cumberland,MD,6,Verona Cavaliers,World Class,46.1,1973
+08/11,Brampton,Ontario,1,Optimist Lancers,World Class,77.6,1973
+08/12,Royal Oaks,MI,1,Anaheim Kingsmen,Open Class,85.65,1973
+08/12,Marion,OH,1,Anaheim Kingsmen,Open Class,80.3,1973
+08/13,Toledo,OH,1,Anaheim Kingsmen,Open Class,88.7,1973
+08/11,Brampton,Ontario,2,Kiwanis Kavaliers,World Class,67.4,1973
+08/12,Royal Oaks,MI,2,DeLaSalle Oaklands,Open Class,78.25,1973
+08/12,Marion,OH,2,DeLaSalle Oaklands,Open Class,78.25,1973
+08/13,Toledo,OH,2,Falcon Cadets,Open Class,78.55,1973
+08/11,Brampton,Ontario,3,Senators,World Class,58.6,1973
+08/12,Royal Oaks,MI,3,Phantom Regiment,Open Class,76.05,1973
+08/12,Marion,OH,3,"Belleville Black
+  Knights",Open Class,75.85,1973
+08/13,Toledo,OH,3,Des Plaines Vanguard,Open Class,77.5,1973
+08/12,Royal Oaks,MI,4,Blue Rock,Open Class,75.45,1973
+08/12,Marion,OH,4,Kilties,Open Class,74.15,1973
+08/13,Toledo,OH,4,Royal Crusaders,Open Class,76.9,1973
+08/12,Royal Oaks,MI,5,Marion Cadets,Open Class,67.45,1973
+08/12,Marion,OH,5,Purple Lancers,Open Class,73.55,1973
+08/13,Toledo,OH,5,Purple Lancers,Open Class,75.5,1973
+08/12,Marion,OH,6,Falcon Cadets,Open Class,69.75,1973
+08/13,Toledo,OH,6,Blue Devils,Open Class,72.0,1973
+08/12,Marion,OH,7,Argonne Rebels,Open Class,69.15,1973
+08/13,Toledo,OH,7,Emerald Cadets,Open Class,71.1,1973
+08/12,Marion,OH,8,Des Plaines Vanguard,Open Class,68.75,1973
+08/13,Toledo,OH,8,Sancians,Open Class,67.2,1973
+08/12,Marion,OH,9,Royal Crusaders,Open Class,67.3,1973
+08/13,Toledo,OH,9,Marion Cadets,Open Class,67.0,1973
+08/12,Marion,OH,10,Blue Rock,Open Class,66.05,1973
+08/13,Toledo,OH,10,Audobon Bon Bons,Open Class,65.1,1973
+08/12,Marion,OH,11,Toronto Optimists,Open Class,65.7,1973
+08/12,Marion,OH,12,Phantom Regiment,Open Class,65.4,1973
+08/12,Marion,OH,1,Audubon Bon Bons,Open Class,60.8,1973
+08/12,Marion,OH,2,CapitolAires,Open Class,56.35,1973
+08/12,Marion,OH,3,Mello-Dears,Open Class,50.55,1973
+08/12,Marion,OH,4,Fire-ettes,Open Class,46.35,1973
+08/12,Marion,OH,5,Saint John's Girls,Open Class,42.6,1973
+08/12,Marion,OH,1,Squires,Open Class,67.95,1973
+08/12,Marion,OH,2,Etobicoke Crusaders,Open Class,66.25,1973
+08/12,Marion,OH,3,Keystone Regiment,Open Class,65.85,1973
+08/12,Marion,OH,4,Charioteers,Open Class,63.25,1973
+08/12,Marion,OH,5,Belvederes,Open Class,59.25,1973
+08/12,Marion,OH,6,Marquis,Open Class,55.75,1973
+08/12,Marion,OH,7,Windjammers,Open Class,50.9,1973
+08/11,Whitewater,WI,1,Vanguard,Open Class,86.65,1973
+08/12,Whitewater,WI,1,Vanguard,Open Class,88.65,1973
+08/11,Whitewater,WI,2,Troopers,Open Class,85.4,1973
+08/12,Whitewater,WI,2,Troopers,Open Class,86.15,1973
+08/11,Whitewater,WI,3,Blue Stars,Open Class,83.0,1973
+08/12,Whitewater,WI,3,Blue Stars,Open Class,85.5,1973
+08/11,Whitewater,WI,4,Madison Scouts,Open Class,82.4,1973
+08/12,Whitewater,WI,4,Madison Scouts,Open Class,83.55,1973
+08/11,Whitewater,WI,5,Muchachos,Open Class,82.15,1973
+08/12,Whitewater,WI,5,Kilties,Open Class,82.95,1973
+08/11,Whitewater,WI,6,Kilties,Open Class,81.6,1973
+08/12,Whitewater,WI,6,Anaheim Kingsmen,Open Class,82.65,1973
+08/11,Whitewater,WI,7,Anaheim Kingsmen,Open Class,80.8,1973
+08/12,Whitewater,WI,7,27th Lancers,Open Class,79.4,1973
+08/11,Whitewater,WI,8,27th Lancers,Open Class,79.85,1973
+08/12,Whitewater,WI,8,Muchachos,Open Class,79.3,1973
+08/11,Whitewater,WI,9,Bridgemen,Open Class,79.6,1973
+08/12,Whitewater,WI,9,Bridgemen,Open Class,78.65,1973
+08/11,Whitewater,WI,10,Commodores,Open Class,77.4,1973
+08/12,Whitewater,WI,10,"Belleville Black
+  Knights",Open Class,75.75,1973
+08/11,Whitewater,WI,11,Argonne Rebels,Open Class,76.65,1973
+08/12,Whitewater,WI,11,Argonne Rebels,Open Class,73.15,1973
+08/11,Whitewater,WI,12,"Belleville Black
+  Knights",Open Class,76.55,1973
+08/12,Whitewater,WI,12,Commodores,Open Class,72.25,1973
+08/11,Whitewater,WI,13,DeLaSalle Oaklands,Open Class,75.55,1973
+08/11,Whitewater,WI,14,Phantom Regiment,Open Class,74.7,1973
+08/11,Whitewater,WI,15,Cavaliers,Open Class,74.65,1973
+08/11,Whitewater,WI,16,Royal Crusaders,Open Class,73.85,1973
+08/11,Whitewater,WI,17,Garfield Cadets,Open Class,72.0,1973
+08/11,Whitewater,WI,18,Purple Lancers,Open Class,70.8,1973
+08/11,Whitewater,WI,19,Knights,Open Class,70.6,1973
+08/11,Whitewater,WI,20,Des Plaines Vanguard,Open Class,70.4,1973
+08/11,Whitewater,WI,21,Bleu Raeders,Open Class,68.7,1973
+08/11,Whitewater,WI,22,Blue Rock,Open Class,68.05,1973
+08/11,Whitewater,WI,23,Audobon Bon Bons,Open Class,66.45,1973
+08/11,Whitewater,WI,24,Blue Devils,Open Class,66.1,1973
+08/11,Whitewater,WI,25,Precisionaires,Open Class,65.3,1973
+08/11,Whitewater,WI,26,The Thing,Open Class,65.15,1973
+08/11,Whitewater,WI,27,Silver Sabres,Open Class,63.45,1973
+08/11,Whitewater,WI,28,Colt 45's,Open Class,62.8,1973
+08/11,Whitewater,WI,29,Velvet Knights,Open Class,62.35,1973
+08/11,Whitewater,WI,30,Saint Francis Sancians,Open Class,59.35,1973
+08/11,Whitewater,WI,31,Americanos,Open Class,59.2,1973
+08/11,Whitewater,WI,32,Chevaliers-IA,Open Class,57.8,1973
+08/11,Whitewater,WI,33,CapitolAires,Open Class,55.3,1973
+08/11,Whitewater,WI,34,Percussion-naut Pats,Open Class,54.65,1973
+08/11,Whitewater,WI,35,Columbians,Open Class,54.35,1973
+08/11,Whitewater,WI,36,Windjammers,Open Class,53.35,1973
+08/11,Whitewater,WI,37,Queen City Cadets,Open Class,53.35,1973
+08/11,Whitewater,WI,38,Long Island Kingsmen,Open Class,52.15,1973
+08/11,Whitewater,WI,39,Boston Crusaders,Open Class,51.85,1973
+08/11,Whitewater,WI,40,Frontiersmen,Open Class,51.3,1973
+08/11,Whitewater,WI,41,Saginaires,Open Class,49.35,1973
+08/11,Whitewater,WI,42,Floridians,Open Class,47.65,1973
+08/11,Whitewater,WI,43,Sentinels,Open Class,42.5,1973
+08/11,Whitewater,WI,44,Northernaires,Open Class,40.8,1973
+08/11,Whitewater,WI,45,Falcon Cadets,Open Class,34.6,1973
+08/11,Whitewater,WI,46,Mounties,Open Class,30.8,1973
+08/11,Whitewater,WI,47,Fox Valley Raiders,Open Class,26.55,1973
+08/11,Whitewater,WI,48,Flying Dutchmen,Open Class,23.3,1973
+08/17,Willowsdale,Ontario,1,Squires,Open Class,72.9,1973
+08/18,Amherst,MA,1,Hawthorne Caballeros,Open Class,85.75,1973
+08/18,Pittsburgh,PA,1,Reading Buccaneers,Open Class,87.35,1973
+08/18,Rochester,NY,1,Squires,Open Class,74.7,1973
+08/17,Willowsdale,Ontario,2,Etobicoke Crusaders,Open Class,67.85,1973
+08/18,Amherst,MA,2,Connecticut Hurricanes,Open Class,82.85,1973
+08/18,Pittsburgh,PA,2,Yankee Rebels,Open Class,83.25,1973
+08/18,Rochester,NY,2,Mark Twain Cadets,Open Class,68.8,1973
+08/17,Willowsdale,Ontario,3,Appleknockers,Open Class,67.25,1973
+08/18,Amherst,MA,3,Les Diplomats,Open Class,78.45,1973
+08/18,Pittsburgh,PA,3,Rochester Crusaders,Open Class,78.9,1973
+08/18,Rochester,NY,3,Cadets of Greece,Open Class,67.7,1973
+08/17,Willowsdale,Ontario,4,"General Butler
+  Vagabonds",Open Class,59.45,1973
+08/18,Amherst,MA,4,New York Skyliners,Open Class,78.35,1973
+08/18,Pittsburgh,PA,4,Hamburg Kingsmen,Open Class,69.95,1973
+08/18,Rochester,NY,4,Syracuse Marauders,Open Class,67.55,1973
+08/17,Willowsdale,Ontario,5,Saint John's Girls,Open Class,54.1,1973
+08/18,Amherst,MA,5,Sunrisers,Open Class,65.3,1973
+08/18,Pittsburgh,PA,5,Canadian Commanders,Open Class,61.6,1973
+08/18,Rochester,NY,5,Oswego Knights,Open Class,61.25,1973
+08/17,Willowsdale,Ontario,6,Royal Coachmen,Open Class,45.35,1973
+08/18,Amherst,MA,6,Matadors,Open Class,63.8,1973
+08/18,Rochester,NY,6,Mello Dears,Open Class,57.0,1973
+08/18,Peterborough,Ontario,1,Gauchos,Open Class,77.7,1973
+08/18,Guelph,Ontario,1,Erie Thunderbirds,Open Class,78.3,1973
+08/19,West Allis,WI,1,Vanguard,Open Class,91.3,1973
+08/19,Pine Grove,PA,1,Belvederes,Open Class,74.45,1973
+08/18,Peterborough,Ontario,2,Cadets of Greece,Open Class,75.2,1973
+08/18,Guelph,Ontario,2,Guelph Royalaires,Open Class,73.75,1973
+08/19,West Allis,WI,2,Troopers,Open Class,88.25,1973
+08/19,Pine Grove,PA,2,Royaleer Mounties,Open Class,47.0,1973
+08/18,Peterborough,Ontario,3,Flying Dutchmen,Open Class,70.45,1973
+08/18,Guelph,Ontario,3,Kingston Grenadiers,Open Class,66.6,1973
+08/19,West Allis,WI,3,Madison Scouts,Open Class,88.05,1973
+08/19,Pine Grove,PA,3,Emerald Lancers,Open Class,43.25,1973
+08/18,Peterborough,Ontario,4,Optimist Knights,Open Class,61.2,1973
+08/18,Guelph,Ontario,4,Kawartha Kavaliers,Open Class,61.7,1973
+08/19,West Allis,WI,4,Blue Stars,Open Class,86.55,1973
+08/19,Pine Grove,PA,4,Skylarks,Open Class,35.55,1973
+08/18,Peterborough,Ontario,5,Cardinals of PB,Open Class,58.25,1973
+08/18,Guelph,Ontario,5,Suburban Knights,Open Class,59.2,1973
+08/19,West Allis,WI,5,Madison Scouts,Open Class,86.45,1973
+08/19,Pine Grove,PA,5,Barons of Steuben,Open Class,35.4,1973
+08/18,Peterborough,Ontario,6,Dutch Boy Cadets,Open Class,56.75,1973
+08/18,Guelph,Ontario,6,"Sudbury Imperial
+  Knights",Open Class,57.35,1973
+08/19,West Allis,WI,6,Kilties,Open Class,83.9,1973
+08/18,Peterborough,Ontario,7,Kinsmen Krescendos,Open Class,56.5,1973
+08/19,West Allis,WI,7,Anaheim Kingsmen,Open Class,78.75,1973
+08/19,West Allis,WI,8,The Thing,Open Class,75.85,1973
+08/19,West Allis,WI,9,Commodores,Open Class,74.85,1973
+08/21,New Orleans,LA,1,Pembroke Imperials,Open Class,87.7,1973
+08/22,New Orleans,LA,1,Pembroke Imperials,Open Class,84.15,1973
+08/25,Garfield,NJ,1,Valley Grenadiers,Open Class,75.7,1973
+08/25,Sterling,VA,1,Keystone Regiment,Open Class,75.4,1973
+08/21,New Orleans,LA,2,"Belleville Black
+  Knights",Open Class,86.1,1973
+08/22,New Orleans,LA,2,"Belleville Black
+  Knights",Open Class,81.0,1973
+08/25,Garfield,NJ,2,Long Island Kingsmen,Open Class,67.1,1973
+08/25,Sterling,VA,2,Audobon Bon Bons,Open Class,74.7,1973
+08/21,New Orleans,LA,3,Bleu Raeders,Open Class,82.9,1973
+08/22,New Orleans,LA,3,Bleu Raeders,Open Class,76.15,1973
+08/25,Garfield,NJ,3,Royales,Open Class,53.4,1973
+08/25,Sterling,VA,3,507 Hornets,Open Class,73.0,1973
+08/21,New Orleans,LA,4,Saint Francis Sancians,Open Class,82.7,1973
+08/22,New Orleans,LA,4,Saint Francis Sancians,Open Class,74.9,1973
+08/25,Garfield,NJ,4,Knickerbockers,Open Class,47.5,1973
+08/25,Sterling,VA,4,Sacred Heart Crusaders,Open Class,66.0,1973
+08/21,New Orleans,LA,5,Colt 45's,Open Class,80.25,1973
+08/22,New Orleans,LA,5,Colt 45's,Open Class,72.95,1973
+08/25,Garfield,NJ,5,Horizons,Open Class,44.5,1973
+08/21,New Orleans,LA,6,Guardsmen,Open Class,79.9,1973
+08/22,New Orleans,LA,6,Marion Cadets,Open Class,71.3,1973
+08/25,Garfield,NJ,6,Earls of Buck,Open Class,33.95,1973
+08/21,New Orleans,LA,6,Marion Cadets,Open Class,79.9,1973
+08/22,New Orleans,LA,7,Guardsmen,Open Class,70.15,1973
+08/21,New Orleans,LA,8,Stardusters,Open Class,77.95,1973
+08/22,New Orleans,LA,8,Skokie Imperials,Open Class,69.15,1973
+08/21,New Orleans,LA,9,Wausau Story,Open Class,77.1,1973
+08/22,New Orleans,LA,9,Stardusters,Open Class,65.45,1973
+08/21,New Orleans,LA,10,Silhouettes,Open Class,76.25,1973
+08/22,New Orleans,LA,10,Wausau Story,Open Class,64.5,1973
+08/21,New Orleans,LA,11,Skokie Imperials,Open Class,76.2,1973
+08/22,New Orleans,LA,11,Sundowners,Open Class,60.25,1973
+08/21,New Orleans,LA,12,Sundowners,Open Class,72.8,1973
+08/22,New Orleans,LA,12,Silhouettes,Open Class,59.35,1973
+08/21,New Orleans,LA,13,Southern Rebels,Open Class,71.85,1973
+08/21,New Orleans,LA,14,Royal Knights,Open Class,71.35,1973
+08/21,New Orleans,LA,15,Floridians,Open Class,70.0,1973
+08/21,New Orleans,LA,16,Connecticut Classics,Open Class,66.4,1973
+08/21,New Orleans,LA,17,Valiant Knights,Open Class,66.05,1973
+08/21,New Orleans,LA,18,507 Hornets,Open Class,64.25,1973
+08/21,New Orleans,LA,19,Blackhawks,Open Class,64.2,1973
+08/21,New Orleans,LA,20,Polish Falcon,Open Class,63.95,1973
+08/21,New Orleans,LA,21,Tri-Vel Raiders,Open Class,63.8,1973
+08/21,New Orleans,LA,22,Saber's Edge,Open Class,63.35,1973
+08/21,New Orleans,LA,23,Bellettes,Open Class,62.35,1973
+08/21,New Orleans,LA,24,Nee-Hi's,Open Class,61.7,1973
+08/21,New Orleans,LA,25,Buccaneers,Open Class,58.95,1973
+08/21,New Orleans,LA,26,T.R. Finettes,Open Class,58.45,1973
+08/21,New Orleans,LA,27,Devils Dogs,Open Class,57.55,1973
+08/21,New Orleans,LA,28,Silver Knights,Open Class,51.35,1973
+08/21,New Orleans,LA,29,Leathernecks,Open Class,50.45,1973
+08/25,Souderton,PA,1,Belvederes,Open Class,74.45,1973
+08/25,Waverly,NY,1,Squires,Open Class,74.4,1973
+08/25,Waverly,NY,1,Squires,Open Class,72.9,1973
+08/25,Erie,PA,1,Erie Thunderbirds,Open Class,76.35,1973
+08/25,Souderton,PA,2,Grenadiers,Open Class,47.0,1973
+08/25,Waverly,NY,2,Mark Twain Cadets,Open Class,62.6,1973
+08/25,Waverly,NY,2,Mark Twain Cadets,Open Class,62.15,1973
+08/25,Erie,PA,2,Guelph Royalaires,Open Class,76.25,1973
+08/25,Souderton,PA,3,Bracken Cavaliers,Open Class,43.25,1973
+08/25,Waverly,NY,3,Mello Dears,Open Class,62.4,1973
+08/25,Waverly,NY,3,Mello Dears,Open Class,58.7,1973
+08/25,Erie,PA,3,Rockets,Open Class,72.45,1973
+08/25,Souderton,PA,4,Emerald Lancers,Open Class,35.55,1973
+08/25,Waverly,NY,4,Marauders,Open Class,62.1,1973
+08/25,Waverly,NY,4,Gauchos,Open Class,58.35,1973
+08/25,Erie,PA,4,Syracuse Brigadiers,Open Class,69.85,1973
+08/25,Souderton,PA,5,Luckie Ladies,Open Class,35.4,1973
+08/25,Waverly,NY,5,Gauchos,Open Class,61.85,1973
+08/25,Waverly,NY,5,Marauders,Open Class,55.5,1973
+08/25,Erie,PA,5,Kingston Grenadiers,Open Class,63.8,1973
+08/25,Waverly,NY,6,Tri Town Cadets,Open Class,61.4,1973
+08/25,Waverly,NY,6,Tri Town Cadets,Open Class,52.9,1973
+08/25,Erie,PA,6,Emmaus Sentinels,Open Class,63.25,1973
+08/25,Waverly,NY,7,Cadets of Greece,Open Class,61.3,1973
+08/25,Erie,PA,7,Kawartha Kavaliers,Open Class,62.3,1973
+08/25,Waverly,NY,8,Black Knights (NY),Open Class,59.65,1973
+08/25,Erie,PA,8,Hanover Lancers,Open Class,60.25,1973
+08/25,Waverly,NY,9,Lakeview Shoreliners,Open Class,52.45,1973
+08/25,Erie,PA,9,Suburban Knights,Open Class,59.55,1973
+08/25,Waverly,NY,10,Les Compagnons,Open Class,51.3,1973
+08/25,Erie,PA,10,Dunkirk Patriots,Open Class,57.5,1973
+08/25,Erie,PA,11,Imperial Knights,Open Class,52.1,1973
+08/25,Erie,PA,12,Freestatesmen,Open Class,48.45,1973
+08/25,Erie,PA,13,Verona Cavaliers,Open Class,45.5,1973
+08/26,Brooklyn,NY,1,CMCC Warriors,Open Class,77.65,1973
+08/26,Waverly,NY,1,Belvederes,Open Class,72.5,1973
+08/26,Boonton,NJ,1,Muchachos,Open Class,85.35,1973
+08/26,Newton,NJ,1,Valley Grenadiers,Open Class,74.6,1973
+08/26,Brooklyn,NY,2,Emerald Cadets,Open Class,73.55,1973
+08/26,Waverly,NY,2,Squires,Open Class,69.65,1973
+08/26,Boonton,NJ,2,Bridgemen,Open Class,82.0,1973
+08/26,Newton,NJ,2,Polish Falcon Cadets,Open Class,72.9,1973
+08/26,Brooklyn,NY,3,Ridgemen,Open Class,69.2,1973
+08/26,Waverly,NY,3,Syracuse Marauders,Open Class,67.45,1973
+08/26,Boonton,NJ,3,Saint Rita's Brassmen,Open Class,77.0,1973
+08/26,Newton,NJ,3,Surfers,Open Class,63.4,1973
+08/26,Brooklyn,NY,4,Saint Ignatius,Open Class,64.0,1973
+08/26,Waverly,NY,4,Royaleers,Open Class,54.95,1973
+08/26,Boonton,NJ,4,Garfield Cadets,Open Class,72.05,1973
+08/26,Newton,NJ,4,Kingston Indians,Open Class,57.0,1973
+08/26,Waverly,NY,5,Emerald Lancers,Open Class,52.45,1973
+08/26,Boonton,NJ,5,Falcon Cadets,Open Class,69.0,1973
+08/26,Newton,NJ,5,Knickerbockers,Open Class,49.75,1973
+08/26,Waverly,NY,6,Ambassadors-PA,Open Class,48.4,1973
+08/26,Boonton,NJ,6,Audobon Bon Bons,Open Class,68.55,1973
+08/26,Newton,NJ,6,Shadettes,Open Class,23.05,1973
+08/26,Waverly,NY,7,Skylarks,Open Class,37.75,1973
+08/26,Cambridge,Ontario,1,"Etobicoke
+  Crusaders",Open Class,75.6,1973
+08/30,Weymouth,MA,1,Jeanettes,Open Class,69.85,1973
+08/26,Cambridge,Ontario,2,Saginaires-MI,Open Class,67.0,1973
+08/30,Weymouth,MA,2,Defenders,Open Class,69.35,1973
+08/26,Cambridge,Ontario,3,Flying Dutchmen,Open Class,64.45,1973
+08/30,Weymouth,MA,3,Annunciators,Open Class,61.45,1973
+08/26,Cambridge,Ontario,4,Optimist Knights,Open Class,53.55,1973
+08/26,Cambridge,Ontario,5,Cardinals of PB,Open Class,53.1,1973
+08/26,Cambridge,Ontario,6,Vanguard Rockets,Open Class,52.65,1973
+08/26,Cambridge,Ontario,7,Kinsmen Krescendos,Open Class,52.4,1973
+08/26,Cambridge,Ontario,8,Dutch Boy Cadets,Open Class,45.5,1973
+09/01,Endwell,NY,1,Squires,World Class,73.7,1973
+09/01,Bristol,PA,1,Audobon Bon Bons,World Class,80.75,1973
+09/01,South Huntington,NY,1,CMCC Warriors,World Class,73.25,1973
+09/01,Burien,WA,1,"Percussion naut
+  Patriots",World Class,73.45,1973
+09/01,Endwell,NY,2,Grenadiers,World Class,70.95,1973
+09/01,Bristol,PA,2,507 Hornets,World Class,80.55,1973
+09/01,South Huntington,NY,2,Saint George Olympians,World Class,69.4,1973
+09/01,Burien,WA,2,Hawks,World Class,62.55,1973
+09/01,Endwell,NY,3,Gauchos,World Class,69.05,1973
+09/01,Bristol,PA,3,Falcon Cadets,World Class,79.95,1973
+09/01,South Huntington,NY,3,Kingston Indians,World Class,68.3,1973
+09/01,Burien,WA,3,Flamingos,World Class,61.2,1973
+09/01,Endwell,NY,4,Black Watch-NJ,World Class,51.45,1973
+09/01,Bristol,PA,4,Keystone Regiment,World Class,78.25,1973
+09/01,South Huntington,NY,4,Long Island Kingsmen,World Class,64.7,1973
+09/01,Burien,WA,4,Black Watch-WA,World Class,60.05,1973
+09/01,Endwell,NY,5,Royaleers,World Class,39.1,1973
+09/01,Bristol,PA,5,PAL Cadets,World Class,75.4,1973
+09/01,South Huntington,NY,5,Saint Ignatius,World Class,63.3,1973
+09/01,Burien,WA,5,Sentinels,World Class,59.9,1973
+09/01,Endwell,NY,6,Ambassadors-NY,World Class,35.3,1973
+09/01,Bristol,PA,6,New London Surfers,World Class,73.25,1973
+09/01,South Huntington,NY,6,Fire-ettes,World Class,57.7,1973
+09/01,Burien,WA,6,Columbians,World Class,59.1,1973
+09/01,Endwell,NY,7,Skylarks,World Class,34.35,1973
+09/01,Bristol,PA,7,Sacred Heart Crusaders,World Class,72.5,1973
+09/01,South Huntington,NY,7,Stormy Knights,World Class,48.8,1973
+09/01,Burien,WA,7,Shamrocks,World Class,55.05,1973
+09/01,Bristol,PA,8,Emerald Lancers,World Class,51.2,1973
+09/01,South Huntington,NY,8,Blue Angels,World Class,44.15,1973
+09/01,Burien,WA,8,Titans,World Class,51.1,1973
+09/01,South Huntington,NY,9,Fletcher Raiders,World Class,35.4,1973
+09/01,South Huntington,NY,10,Enfield Raiders,World Class,33.4,1973
+09/01,Burien,WA,1,Seattle Cascades,World Class,42.8,1973
+09/01,Burien,WA,2,Spartans-WA,World Class,38.85,1973
+09/01,Burien,WA,3,Edmonton Strutters,World Class,35.65,1973
+09/01,Burien,WA,4,Golden Skyliners,World Class,31.6,1973
+09/01,Burien,WA,5,Pendleton Rangers,World Class,30.7,1973
+09/01,Burien,WA,1,Escadrille,World Class,32.75,1973
+09/01,Corning,NY,1,Belvederes,World Class,73.5,1973
+09/02,Etobicoke,Ontario,1,DeLaSalle Oaklands,World Class,0.0,1973
+09/02,Etobicoke,Ontario,1,Saint John's Girls,World Class,64.5,1973
+09/02,Somerville,MA,1,Defenders,World Class,68.75,1973
+09/01,Corning,NY,2,Squires,World Class,70.05,1973
+09/02,Etobicoke,Ontario,2,LaSalle Cadets,World Class,0.0,1973
+09/02,Etobicoke,Ontario,2,Les Eclipses,World Class,51.3,1973
+09/02,Somerville,MA,2,Jeanettes,World Class,68.35,1973
+09/01,Corning,NY,3,Shoreliners,World Class,56.95,1973
+09/02,Etobicoke,Ontario,3,Toronto Optimists,World Class,0.0,1973
+09/02,Etobicoke,Ontario,3,Les Cavaliers,World Class,45.55,1973
+09/02,Somerville,MA,3,Fitchburg Kingsmen,World Class,67.9,1973
+09/01,Corning,NY,4,Roehthel's Executives,World Class,39.45,1973
+09/02,Etobicoke,Ontario,4,Seneca Princemen,World Class,0.0,1973
+09/02,Somerville,MA,4,Annunciators,World Class,63.05,1973
+09/02,Etobicoke,Ontario,5,4th Brigade,World Class,0.0,1973
+09/02,Etobicoke,Ontario,1,LaSalle Cadets,World Class,79.6,1973
+09/02,Etobicoke,Ontario,6,Midlanders,World Class,0.0,1973
+09/02,Etobicoke,Ontario,1,DeLaSalle Oaklands,World Class,79.6,1973
+09/02,Etobicoke,Ontario,3,Toronto Optimists,World Class,79.0,1973
+09/02,Etobicoke,Ontario,1,Etobicoke Crusaders,World Class,73.55,1973
+09/02,Etobicoke,Ontario,4,Seneca Princemen,World Class,71.25,1973
+09/02,Etobicoke,Ontario,2,Flying Dutchmen,World Class,54.2,1973
+09/02,Etobicoke,Ontario,5,Etobicoke Crusaders,World Class,65.6,1973
+09/02,Etobicoke,Ontario,3,Kinsmen Krescendos,World Class,46.6,1973
+09/02,Etobicoke,Ontario,6,Flying Dutchmen,World Class,58.75,1973
+09/02,Etobicoke,Ontario,4,Cardinals of PB,World Class,41.6,1973
+09/02,Etobicoke,Ontario,7,Kinsmen Krescendos,World Class,52.65,1973
+09/02,Etobicoke,Ontario,4,Optimist Knights,World Class,41.6,1973
+09/02,Etobicoke,Ontario,8,Optimist Knights,World Class,49.8,1973
+09/02,Etobicoke,Ontario,6,Dutch Boy Cadets,World Class,34.5,1973
+09/02,Etobicoke,Ontario,7,Bluewater Lionairs,World Class,25.15,1973
+09/02,Etobicoke,Ontario,1,Etobicoke Crusaders,World Class,65.6,1973
+09/02,Etobicoke,Ontario,2,Flying Dutchmen,World Class,58.75,1973
+09/02,Etobicoke,Ontario,3,Kinsmen Krescendos,World Class,52.65,1973
+09/02,Etobicoke,Ontario,4,Optimist Knights,World Class,49.8,1973
+09/02,Rochester,NY,1,Hawthorne Caballeros,Open Class,91.25,1973
+09/02,Rochester,NY,1,Hawthorne Caballeros,Open Class,89.95,1973
+09/02,Rochester,NY,2,Reading Buccaneers,Open Class,89.1,1973
+09/02,Rochester,NY,2,Reading Buccaneers,Open Class,85.8,1973
+09/02,Rochester,NY,3,Connecticut Hurricanes,Open Class,86.1,1973
+09/02,Rochester,NY,3,Connecticut Hurricanes,Open Class,85.3,1973
+09/02,Rochester,NY,4,Les Diplomats,Open Class,85.95,1973
+09/02,Rochester,NY,4,Les Diplomats,Open Class,84.2,1973
+09/02,Rochester,NY,5,New York Skyliners,Open Class,82.5,1973
+09/02,Rochester,NY,5,New York Skyliners,Open Class,81.55,1973
+09/02,Rochester,NY,6,Rochester Crusaders,Open Class,81.2,1973
+09/02,Rochester,NY,6,Rochester Crusaders,Open Class,79.8,1973
+09/02,Rochester,NY,7,Yankee Rebels,Open Class,79.1,1973
+09/02,Rochester,NY,7,Yankee Rebels,Open Class,76.95,1973
+09/02,Rochester,NY,8,Sunrisers,Open Class,70.95,1973
+09/02,Rochester,NY,8,Hamburg Kingsmen,Open Class,67.2,1973
+09/02,Rochester,NY,9,Hamburg Kingsmen,Open Class,69.55,1973
+09/02,Rochester,NY,9,Sunrisers,Open Class,66.8,1973
+09/02,Rochester,NY,10,Matadors,Open Class,68.2,1973
+09/02,Rochester,NY,10,Matadors,Open Class,61.45,1973
+09/02,Rochester,NY,11,Royalaires,Open Class,67.15,1973
+09/02,Rochester,NY,11,Thunderbirds,Open Class,59.9,1973
+09/02,Rochester,NY,12,Thunderbirds,Open Class,66.0,1973
+09/02,Rochester,NY,12,Royalaires,Open Class,57.0,1973
+09/02,Rochester,NY,13,Syracuse Brigadiers,Open Class,65.95,1973
+09/02,Rochester,NY,14,Canadian Commanders,Open Class,62.05,1973
+09/02,Rochester,NY,15,Rockets,Open Class,61.95,1973
+09/02,Rochester,NY,16,Minnesota Brass,Open Class,60.95,1973
+09/02,Rochester,NY,17,Hanover Lancers,Open Class,56.3,1973
+09/02,Rochester,NY,18,Emmaus Sentinels,Open Class,54.2,1973
+09/02,Rochester,NY,19,Boston Renegades,Open Class,53.25,1973
+09/03,Allentown,PA,1,Belvederes,Open Class,74.85,1973
+09/03,Guelph,Ontario,1,Etobicoke Crusaders,Open Class,76.85,1973
+09/08,San Diego,CA,1,Velvet Knights,Open Class,70.2,1973
+09/08,Somerville,PA,1,Defenders,Open Class,70.25,1973
+09/03,Allentown,PA,2,Keystone Regiment,Open Class,72.8,1973
+09/03,Guelph,Ontario,2,Flying Dutchmen,Open Class,63.3,1973
+09/08,San Diego,CA,2,Vaqueros,Open Class,65.5,1973
+09/08,Somerville,PA,2,Jeanettes,Open Class,66.15,1973
+09/03,Allentown,PA,3,507 Hornets,Open Class,70.0,1973
+09/03,Guelph,Ontario,3,Kinsmen Krescendos,Open Class,61.7,1973
+09/08,San Diego,CA,3,Imperial Dragons,Open Class,53.65,1973
+09/08,Somerville,PA,3,Annunciators,Open Class,64.85,1973
+09/03,Allentown,PA,4,Bracken Cavaliers,Open Class,68.5,1973
+09/03,Guelph,Ontario,4,Optimist Knights,Open Class,57.1,1973
+09/03,Allentown,PA,5,Grenadiers,Open Class,67.55,1973
+09/03,Guelph,Ontario,5,Cardinals of PB,Open Class,54.15,1973
+09/08,San Diego,CA,1,Kings Lancers,Open Class,52.3,1973
+09/03,Allentown,PA,6,Sacred Heart Crusaders,Open Class,66.75,1973
+09/03,Guelph,Ontario,6,Dutch Boy Cadets,Open Class,51.8,1973
+09/08,San Diego,CA,2,Third Generation,Open Class,50.9,1973
+09/03,Allentown,PA,7,White Knights,Open Class,54.35,1973
+09/08,San Diego,CA,3,VK Squires,Open Class,45.0,1973
+09/03,Allentown,PA,8,Black Watch-NJ,Open Class,49.55,1973
+09/08,San Diego,CA,4,Monterey Park Girls,Open Class,37.4,1973
+09/03,Allentown,PA,9,Royaleer Mounties,Open Class,46.6,1973
+09/03,Allentown,PA,10,Shadettes,Open Class,41.15,1973
+09/03,Allentown,PA,11,Ambassadors-PA,Open Class,38.9,1973
+09/03,Allentown,PA,12,Luckie Ladies,Open Class,35.5,1973
+09/03,Allentown,PA,13,Skylarks,Open Class,35.1,1973

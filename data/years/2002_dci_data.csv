@@ -1,0 +1,1417 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/08,Menasha,WI,1,Madison Scouts,World Class,67.72,2002
+06/09,Menominee,WI,1,Madison Scouts,World Class,66.39,2002
+06/14,Racine,WI,1,Cavaliers,World Class,74.75,2002
+06/14,Oswego,IL,1,Glassmen,World Class,66.0,2002
+06/08,Menasha,WI,2,Capital Sound,World Class,48.33,2002
+06/09,Menominee,WI,2,Minnesota Brass,World Class,58.64,2002
+06/14,Racine,WI,2,Colts,World Class,64.7,2002
+06/14,Oswego,IL,2,Phantom Regiment,World Class,64.55,2002
+06/08,Menasha,WI,3,Pioneer,World Class,46.43,2002
+06/09,Menominee,WI,3,Capital Sound,World Class,48.31,2002
+06/14,Racine,WI,3,Pioneer,World Class,54.75,2002
+06/14,Oswego,IL,3,Madison Scouts,World Class,59.8,2002
+06/08,Menasha,WI,4,Blue Stars,World Class,44.83,2002
+06/09,Menominee,WI,4,Pioneer,World Class,45.56,2002
+06/14,Racine,WI,4,Blue stars,World Class,50.75,2002
+06/14,Oswego,IL,4,Blue Knights,World Class,59.05,2002
+06/08,Menasha,WI,5,Kilties,World Class,36.33,2002
+06/09,Menominee,WI,5,Blue Stars,World Class,41.45,2002
+06/14,Racine,WI,5,Americanos,World Class,49.95,2002
+06/14,Oswego,IL,5,Capital Sound,World Class,45.2,2002
+06/15,Toledo,OH,1,Cavaliers,World Class,72.1,2002
+06/16,Orville,OH,1,Phantom Regiment,World Class,67.35,2002
+06/17,Columbus,OH,1,Glassmen,World Class,68.85,2002
+06/19,Springboro,OH,1,Glassmen,World Class,70.5,2002
+06/15,Toledo,OH,2,Glassmen,World Class,66.0,2002
+06/16,Orville,OH,2,Bluecoats,World Class,64.7,2002
+06/17,Columbus,OH,2,Phantom Regiment,World Class,68.65,2002
+06/19,Springboro,OH,2,Madison Scouts,World Class,65.15,2002
+06/15,Toledo,OH,3,Phantom Regiment,World Class,63.65,2002
+06/16,Orville,OH,3,Southwind,World Class,54.65,2002
+06/17,Columbus,OH,3,Madison Scouts,World Class,64.3,2002
+06/19,Springboro,OH,3,Colts,World Class,63.95,2002
+06/15,Toledo,OH,4,Bluecoats,World Class,63.05,2002
+06/16,Orville,OH,4,Marion Glory Cadets,World Class,32.7,2002
+06/17,Columbus,OH,4,Blue Knights,World Class,59.4,2002
+06/19,Springboro,OH,4,Southwind,World Class,55.7,2002
+06/15,Toledo,OH,5,Madison Scouts,World Class,60.75,2002
+06/16,Orville,OH,5,Scenic City,World Class,32.05,2002
+06/17,Columbus,OH,5,Capital Regiment,World Class,52.4,2002
+06/19,Springboro,OH,5,Capital Regiment,World Class,54.25,2002
+06/15,Toledo,OH,6,Colts,World Class,58.35,2002
+06/17,Columbus,OH,6,Pioneer,World Class,48.95,2002
+06/19,Springboro,OH,6,Scenic City,World Class,41.0,2002
+06/15,Toledo,OH,7,Southwind,World Class,49.75,2002
+06/17,Columbus,OH,7,Americanos,World Class,47.05,2002
+06/19,Springboro,OH,7,Marion Glory Cadets,World Class,38.35,2002
+06/15,Toledo,OH,8,Capital Regiment,World Class,48.55,2002
+06/17,Columbus,OH,8,Capital Sound,World Class,38.85,2002
+06/15,Toledo,OH,9,Pioneer,World Class,43.45,2002
+06/17,Columbus,OH,9,Joliet Kingsmen,World Class,33.4,2002
+06/15,Toledo,OH,10,Marion Glory Cadets,World Class,31.5,2002
+06/20,Jacksonville,AL,1,Cavaliers,World Class,76.85,2002
+06/20,Marion,OH,1,Glassmen,World Class,69.8,2002
+06/21,Dothan,AL,1,Cavaliers,World Class,78.45,2002
+06/21,Jenison,MI,1,Glassmen,World Class,70.25,2002
+06/20,Jacksonville,AL,2,Blue Devils,World Class,75.15,2002
+06/20,Marion,OH,2,Bluecoats,World Class,65.5,2002
+06/21,Dothan,AL,2,Blue Devils,World Class,76.2,2002
+06/21,Jenison,MI,2,Phantom Regiment,World Class,69.85,2002
+06/20,Jacksonville,AL,3,Spirit,World Class,61.05,2002
+06/20,Marion,OH,3,Blue Knights,World Class,63.5,2002
+06/21,Dothan,AL,3,Spirit,World Class,63.35,2002
+06/21,Jenison,MI,3,Bluecoats,World Class,67.25,2002
+06/20,Jacksonville,AL,4,Kiwanis Kavaliers,World Class,50.6,2002
+06/20,Marion,OH,4,Colts,World Class,62.8,2002
+06/21,Dothan,AL,4,Kiwanis Kavaliers,World Class,53.0,2002
+06/21,Jenison,MI,4,Blue Knights,World Class,64.65,2002
+06/20,Marion,OH,5,Southwind,World Class,50.4,2002
+06/21,Jenison,MI,5,Madison Scouts,World Class,63.8,2002
+06/20,Jacksonville,AL,1,Magic of Orlando,World Class,73.5,2002
+06/20,Marion,OH,6,Capital Regiment,World Class,50.35,2002
+06/21,Dothan,AL,1,Magic of Orlando,World Class,74.5,2002
+06/21,Jenison,MI,6,Americanos,World Class,48.1,2002
+06/20,Jacksonville,AL,2,Teal Sound,World Class,47.7,2002
+06/20,Marion,OH,7,Scenic City,World Class,39.4,2002
+06/21,Dothan,AL,2,Teal Sound,World Class,48.75,2002
+06/21,Jenison,MI,7,Scenic City,World Class,43.3,2002
+06/20,Marion,OH,8,Marion Glory Cadets,World Class,34.75,2002
+06/21,Jenison,MI,8,Marion Glory Cadets,World Class,39.6,2002
+06/22,Waterbury,CT,1,Hawthorne Caballeros,World Class,69.95,2002
+06/22,Cupertino,CA,1,Vanguard,World Class,74.7,2002
+06/22,Crown Point,IN,1,Glassmen,World Class,70.85,2002
+06/22,Norwalk,CA,1,Pacific Crest,World Class,63.75,2002
+06/22,Waterbury,CT,2,Connecticut Hurricanes,World Class,66.75,2002
+06/22,Crown Point,IN,2,Phantom Regiment,World Class,70.15,2002
+06/22,Waterbury,CT,3,Bushwackers,World Class,66.2,2002
+06/22,Cupertino,CA,1,Mandarins,World Class,66.15,2002
+06/22,Crown Point,IN,3,Bluecoats,World Class,67.75,2002
+06/22,Norwalk,CA,1,Esperanza,World Class,64.15,2002
+06/22,Cupertino,CA,2,Vanguard Cadets,World Class,62.2,2002
+06/22,Crown Point,IN,4,Colts,World Class,62.15,2002
+06/22,Norwalk,CA,2,Impulse,World Class,58.85,2002
+06/22,Waterbury,CT,1,Jersey Surf,World Class,65.8,2002
+06/22,Cupertino,CA,3,Blue Devils B,World Class,55.2,2002
+06/22,Crown Point,IN,5,Southwind,World Class,50.1,2002
+06/22,Norwalk,CA,3,Alliance,World Class,48.65,2002
+06/22,Waterbury,CT,2,Phoenix,World Class,57.35,2002
+06/22,Cupertino,CA,4,Blue Devils C,World Class,34.0,2002
+06/22,Crown Point,IN,6,Capital Regiment,World Class,49.3,2002
+06/22,Crown Point,IN,7,Americanos,World Class,41.45,2002
+06/22,Cupertino,CA,1,Renegades,World Class,59.6,2002
+06/22,Cupertino,CA,2,River City Regiment,World Class,47.6,2002
+06/22,Orlando,FL,1,Cavaliers,World Class,81.3,2002
+06/22,Waukesha,WI,1,Madison Scouts,World Class,69.0,2002
+06/23,Geneva,IL,1,Colts,World Class,65.45,2002
+06/23,San Diego,CA,1,Pacific Crest,World Class,65.2,2002
+06/22,Orlando,FL,2,Cadets,World Class,78.4,2002
+06/22,Waukesha,WI,2,Blue Knights,World Class,63.13,2002
+06/23,Geneva,IL,2,Pioneer,World Class,56.3,2002
+06/22,Orlando,FL,3,Blue Devils,World Class,77.15,2002
+06/22,Waukesha,WI,3,Capital Sound,World Class,49.55,2002
+06/23,Geneva,IL,3,Americanos,World Class,51.6,2002
+06/23,San Diego,CA,1,Esperanza,World Class,65.85,2002
+06/22,Orlando,FL,4,Spirit,World Class,63.5,2002
+06/22,Waukesha,WI,4,Blue Stars,World Class,46.25,2002
+06/23,Geneva,IL,4,Scenic City,World Class,46.85,2002
+06/23,San Diego,CA,2,Impulse,World Class,57.55,2002
+06/22,Orlando,FL,5,Carolina Crown,World Class,62.55,2002
+06/22,Waukesha,WI,5,Kilties,World Class,41.13,2002
+06/23,Geneva,IL,5,Bandettes,World Class,27.85,2002
+06/23,San Diego,CA,3,Alliance,World Class,52.6,2002
+06/22,Orlando,FL,6,Kiwanis Kavaliers,World Class,52.2,2002
+06/22,Waukesha,WI,6,Bandettes,World Class,30.75,2002
+06/22,Orlando,FL,1,Magic of Orlando,World Class,75.4,2002
+06/22,Orlando,FL,2,Teal Sound,World Class,49.8,2002
+06/23,Woodstock,IL,1,Phantom Regiment,World Class,72.3,2002
+06/23,Haledon,NJ,1,Raiders,World Class,59.2,2002
+06/23,Sunnyvale,CA,1,Mandarins,World Class,66.25,2002
+06/24,Columbia,SC,1,Cavaliers,World Class,81.45,2002
+06/23,Woodstock,IL,2,Madison Scouts,World Class,67.75,2002
+06/23,Haledon,NJ,2,Phoenix,World Class,55.7,2002
+06/23,Sunnyvale,CA,2,Vanguard Cadets,World Class,63.0,2002
+06/24,Columbia,SC,2,Cadets,World Class,79.55,2002
+06/23,Woodstock,IL,3,Blue Knights,World Class,66.45,2002
+06/23,Haledon,NJ,3,Cadets of NYC,World Class,49.4,2002
+06/23,Sunnyvale,CA,3,Blue Devils B,World Class,58.1,2002
+06/24,Columbia,SC,3,Blue Devils,World Class,78.0,2002
+06/23,Woodstock,IL,4,Southwind,World Class,60.3,2002
+06/23,Haledon,NJ,4,Quest,World Class,47.6,2002
+06/23,Sunnyvale,CA,4,Blue Devils C,World Class,36.45,2002
+06/24,Columbia,SC,4,Crossmen,World Class,74.15,2002
+06/23,Woodstock,IL,5,Capital Sound,World Class,53.35,2002
+06/23,Haledon,NJ,5,Targets,World Class,45.3,2002
+06/24,Columbia,SC,5,Carolina Crown,World Class,68.45,2002
+06/23,Woodstock,IL,6,Blue Stars,World Class,49.0,2002
+06/23,Sunnyvale,CA,1,Renegades,World Class,58.2,2002
+06/24,Columbia,SC,6,Spirit,World Class,66.9,2002
+06/23,Woodstock,IL,7,Kilties,World Class,46.45,2002
+06/23,Haledon,NJ,1,Quest Explorers,World Class,45.3,2002
+06/23,Sunnyvale,CA,2,River City Regiment,World Class,45.9,2002
+06/23,Woodstock,IL,8,Marion Glory Cadets,World Class,44.1,2002
+06/23,Haledon,NJ,2,Phoenix Kidets,World Class,41.0,2002
+06/24,Columbia,SC,1,Magic of Orlando,World Class,70.25,2002
+06/23,Woodstock,IL,9,Racine Scouts,World Class,32.8,2002
+06/25,Lima,OH,1,Glassmen,World Class,70.4,2002
+06/25,Winston-Salem,NC,1,Cadets,World Class,80.6,2002
+06/27,Normal,IL,1,Cavaliers,World Class,81.7,2002
+06/27,Herndon,VA,1,Cadets,World Class,81.5,2002
+06/25,Lima,OH,2,Bluecoats,World Class,70.2,2002
+06/25,Winston-Salem,NC,2,Blue Devils,World Class,78.75,2002
+06/27,Normal,IL,2,Glassmen,World Class,76.25,2002
+06/27,Herndon,VA,2,Crossmen,World Class,77.4,2002
+06/25,Lima,OH,3,Blue Knights,World Class,64.6,2002
+06/25,Winston-Salem,NC,3,Crossmen,World Class,76.2,2002
+06/27,Normal,IL,3,Phantom Regiment,World Class,75.2,2002
+06/27,Herndon,VA,3,Carolina Crown,World Class,70.65,2002
+06/25,Lima,OH,4,Capital Regiment,World Class,54.6,2002
+06/25,Winston-Salem,NC,4,Spirit,World Class,68.25,2002
+06/27,Normal,IL,4,Bluecoats,World Class,72.45,2002
+06/27,Herndon,VA,4,Spirit,World Class,69.3,2002
+06/25,Lima,OH,5,Troopers,World Class,47.6,2002
+06/25,Winston-Salem,NC,5,Carolina Crown,World Class,67.85,2002
+06/27,Normal,IL,5,Blue Knights,World Class,69.3,2002
+06/27,Herndon,VA,5,Kiwanis Kavaliers,World Class,59.65,2002
+06/25,Lima,OH,6,Scenic City,World Class,44.6,2002
+06/25,Winston-Salem,NC,6,Kiwanis Kavaliers,World Class,58.45,2002
+06/27,Normal,IL,6,Colts,World Class,68.75,2002
+06/25,Lima,OH,7,Marion Glory Cadets,World Class,40.9,2002
+06/27,Normal,IL,7,Southwind,World Class,63.2,2002
+06/27,Herndon,VA,1,Magic of Orlando,World Class,77.6,2002
+06/27,Normal,IL,9,Troopers,World Class,47.15,2002
+06/28,Cheney,WA,1,Vanguard,World Class,74.85,2002
+06/28,Lansdale,PA,1,Cadets,World Class,82.35,2002
+06/28,Saint Cloud,MN,1,Cavaliers,World Class,84.8,2002
+06/29,Seattle,WA,1,Vanguard,World Class,77.8,2002
+06/28,Cheney,WA,2,Madison Scouts,World Class,70.7,2002
+06/28,Lansdale,PA,2,Blue Devils,World Class,79.6,2002
+06/28,Saint Cloud,MN,2,Phantom Regiment,World Class,77.85,2002
+06/29,Seattle,WA,2,Madison Scouts,World Class,72.5,2002
+06/28,Cheney,WA,3,Seattle Cascades,World Class,68.05,2002
+06/28,Lansdale,PA,3,Crossmen,World Class,76.25,2002
+06/28,Saint Cloud,MN,3,Minnesota Brass,World Class,64.9,2002
+06/29,Seattle,WA,3,Seattle Cascades,World Class,71.5,2002
+06/28,Lansdale,PA,4,Spirit,World Class,71.2,2002
+06/28,Saint Cloud,MN,4,Capital Sound,World Class,58.1,2002
+06/29,Seattle,WA,4,Pacific Crest,World Class,68.2,2002
+06/28,Cheney,WA,1,Oregon Crusaders,World Class,46.5,2002
+06/28,Lansdale,PA,5,Carolina Crown,World Class,70.6,2002
+06/28,Saint Cloud,MN,5,Blue Stars,World Class,56.45,2002
+06/28,Lansdale,PA,6,Kiwanis Kavaliers,World Class,63.4,2002
+06/28,Saint Cloud,MN,6,Govenaires,World Class,46.55,2002
+06/29,Seattle,WA,1,Oregon Crusaders,World Class,48.15,2002
+06/28,Saint Cloud,MN,7,Racine Scouts,World Class,33.9,2002
+06/28,Lansdale,PA,1,Jersey Surf,World Class,62.55,2002
+06/28,Lansdale,PA,2,Lehigh Valley Knights,World Class,55.55,2002
+06/29,Clifton,NJ,1,Cadets,World Class,82.35,2002
+06/29,Waukegan,IL,1,Americanos,World Class,56.5,2002
+06/29,Alexandria,MN,1,Phantom Regiment,World Class,80.4,2002
+06/29,Toledo,OH,1,Glassmen,World Class,74.95,2002
+06/29,Clifton,NJ,2,Blue Devils,World Class,80.7,2002
+06/29,Waukegan,IL,2,Marion Glory Cadets,World Class,52.75,2002
+06/29,Alexandria,MN,2,Minnesota Brass,World Class,64.95,2002
+06/29,Toledo,OH,2,Bluecoats,World Class,71.65,2002
+06/29,Clifton,NJ,3,Crossmen,World Class,77.7,2002
+06/29,Waukegan,IL,3,Kilties,World Class,50.85,2002
+06/29,Alexandria,MN,3,Capital Sound,World Class,59.95,2002
+06/29,Toledo,OH,3,Southwind,World Class,56.75,2002
+06/29,Clifton,NJ,4,Spirit,World Class,73.45,2002
+06/29,Waukegan,IL,4,Dimensions,World Class,30.75,2002
+06/29,Alexandria,MN,4,Blue Stars,World Class,58.75,2002
+06/29,Toledo,OH,4,Capital Regiment,World Class,55.2,2002
+06/29,Clifton,NJ,5,Carolina Crown,World Class,70.5,2002
+06/29,Waukegan,IL,5,Decorah Kilties,World Class,30.4,2002
+06/29,Alexandria,MN,5,Govenaires,World Class,51.05,2002
+06/29,Toledo,OH,5,Pioneer,World Class,52.5,2002
+06/29,Clifton,NJ,6,Kiwanis Kavaliers,World Class,63.4,2002
+06/29,Waukegan,IL,6,Joliet Kingsmen,World Class,29.95,2002
+06/29,Alexandria,MN,6,"Chops, Inc.",World Class,43.55,2002
+06/29,Toledo,OH,6,Troopers,World Class,48.6,2002
+06/29,Toledo,OH,7,Lake Erie Regiment,World Class,41.4,2002
+06/29,Clifton,NJ,1,Jersey Surf,World Class,61.75,2002
+06/29,Toledo,OH,8,Bandettes,World Class,30.95,2002
+06/29,Malden,MA,1,Spartans,World Class,73.3,2002
+06/29,Santa Clara,CA,1,Mandarins,World Class,70.5,2002
+06/30,Beverly,MA,1,Cadets,World Class,83.5,2002
+06/30,Hastings,MN,1,Cavaliers,World Class,85.05,2002
+06/29,Malden,MA,2,Patriots,World Class,69.15,2002
+06/29,Santa Clara,CA,2,Vanguard Cadets,World Class,68.7,2002
+06/30,Beverly,MA,2,Blue Devils,World Class,81.85,2002
+06/30,Hastings,MN,2,Phantom Regiment,World Class,79.55,2002
+06/29,Malden,MA,3,East Coast Jazz,World Class,68.6,2002
+06/29,Santa Clara,CA,3,Blue Devils B,World Class,63.85,2002
+06/30,Beverly,MA,3,Crossmen,World Class,78.55,2002
+06/30,Hastings,MN,3,Minnesota Brass,World Class,69.4,2002
+06/29,Malden,MA,4,Raiders,World Class,62.2,2002
+06/29,Santa Clara,CA,4,Impulse,World Class,60.1,2002
+06/30,Beverly,MA,4,Boston Crusaders,World Class,76.85,2002
+06/30,Hastings,MN,4,Capital Sound,World Class,59.5,2002
+06/29,Malden,MA,5,Cadets of NYC,World Class,59.55,2002
+06/29,Santa Clara,CA,5,Blue Devils C,World Class,33.5,2002
+06/30,Beverly,MA,5,Spirit,World Class,72.1,2002
+06/30,Hastings,MN,5,Blue Stars,World Class,58.65,2002
+06/29,Malden,MA,6,Targets,World Class,52.6,2002
+06/30,Beverly,MA,6,Kiwanis Kavaliers,World Class,63.3,2002
+06/30,Hastings,MN,6,Govenaires,World Class,50.0,2002
+06/29,Malden,MA,7,Quest,World Class,49.1,2002
+06/29,Santa Clara,CA,1,Renegades,World Class,57.85,2002
+06/30,Hastings,MN,7,"Chops, Inc.",World Class,45.05,2002
+06/29,Santa Clara,CA,2,River City Regiment,World Class,49.4,2002
+06/30,Hastings,MN,8,Racine Scouts,World Class,35.7,2002
+06/29,Binghamton,NY,1,Syracuse Brigadiers,Open Class,77.1,2002
+06/29,Andover,NY,1,Empire Statesmen,Open Class,72.95,2002
+06/30,Kelso,WA,1,Vanguard,Open Class,79.05,2002
+06/30,Lodi,CA,1,Mandarins,Open Class,74.65,2002
+06/29,Binghamton,NY,2,Hawthorne Caballeros,Open Class,72.6,2002
+06/29,Andover,NY,2,Rochester Crusaders,Open Class,69.2,2002
+06/30,Kelso,WA,2,Seattle Cascades,Open Class,74.0,2002
+06/30,Lodi,CA,2,Vanguard Cadets,Open Class,71.75,2002
+06/29,Binghamton,NY,3,Connecticut Hurricanes,Open Class,69.8,2002
+06/29,Andover,NY,3,Kingston Grenadiers,Open Class,65.35,2002
+06/30,Kelso,WA,3,Madison Scouts,Open Class,73.05,2002
+06/30,Lodi,CA,3,Blue Devils B,Open Class,68.4,2002
+06/29,Binghamton,NY,4,Bushwackers,Open Class,69.45,2002
+06/30,Kelso,WA,4,Pacific Crest,Open Class,68.85,2002
+06/30,Lodi,CA,4,Impulse,Open Class,64.15,2002
+06/29,Andover,NY,1,Nightstorm,Open Class,56.6,2002
+06/30,Kelso,WA,1,Oregon Crusaders,Open Class,47.95,2002
+06/30,Lodi,CA,1,Blue Devils C,Open Class,34.15,2002
+06/30,Lodi,CA,1,Renegades,Open Class,57.85,2002
+06/30,Lodi,CA,2,River City Regiment,Open Class,49.4,2002
+07/01,Woodburn,OR,1,Vanguard,World Class,80.6,2002
+07/01,Port Huron,MI,1,Glassmen,World Class,73.15,2002
+07/02,Wausau,WI,1,Cavaliers,World Class,85.5,2002
+07/02,Bridgeport,CT,1,Blue Devils,World Class,82.0,2002
+07/01,Woodburn,OR,2,Seattle Cascades,World Class,75.8,2002
+07/01,Port Huron,MI,2,Capital Regiment,World Class,57.55,2002
+07/02,Wausau,WI,2,Phantom Regiment,World Class,79.8,2002
+07/02,Bridgeport,CT,2,Crossmen,World Class,80.05,2002
+07/01,Woodburn,OR,3,Madison Scouts,World Class,73.3,2002
+07/01,Port Huron,MI,3,Southwind,World Class,57.0,2002
+07/02,Wausau,WI,3,Colts,World Class,71.75,2002
+07/02,Bridgeport,CT,3,Boston Crusaders,World Class,77.45,2002
+07/01,Woodburn,OR,4,Pacific Crest,World Class,71.3,2002
+07/01,Port Huron,MI,4,Pioneer,World Class,53.0,2002
+07/02,Wausau,WI,4,Capital Sound,World Class,57.8,2002
+07/02,Bridgeport,CT,4,Spirit,World Class,74.25,2002
+07/01,Port Huron,MI,5,Troopers,World Class,50.8,2002
+07/02,Wausau,WI,5,Blue Stars,World Class,54.45,2002
+07/02,Bridgeport,CT,5,Carolina Crown,World Class,72.35,2002
+07/01,Woodburn,OR,1,Oregon Crusaders,World Class,48.25,2002
+07/01,Port Huron,MI,6,Marion Glory Cadets,World Class,44.0,2002
+07/02,Wausau,WI,6,Americanos,World Class,53.6,2002
+07/02,Bridgeport,CT,6,Kiwanis Kavaliers,World Class,64.85,2002
+07/01,Port Huron,MI,7,Lake Erie Regiment,World Class,42.2,2002
+07/02,Wausau,WI,7,Bandettes,World Class,38.15,2002
+07/01,Port Huron,MI,8,Bandettes,World Class,33.35,2002
+07/02,Bridgeport,CT,1,Magic of Orlando,World Class,77.8,2002
+07/03,Frankfort,IL,1,Cavaliers,World Class,85.95,2002
+07/03,Bristol,RI,1,Cadets,World Class,84.5,2002
+07/03,Cedarburg,WI,1,Southwind,World Class,67.4,2002
+07/03,Everett,MA,1,Magic of Orlando,World Class,82.1,2002
+07/03,Frankfort,IL,2,Colts,World Class,71.5,2002
+07/03,Bristol,RI,2,Blue Devils,World Class,82.1,2002
+07/03,Cedarburg,WI,2,Troopers,World Class,61.2,2002
+07/03,Everett,MA,2,Spartans,World Class,77.3,2002
+07/03,Frankfort,IL,3,Capital Regiment,World Class,62.65,2002
+07/03,Bristol,RI,3,Crossmen,World Class,76.4,2002
+07/03,Cedarburg,WI,3,Capital Sound,World Class,61.05,2002
+07/03,Everett,MA,3,East Coast Jazz,World Class,70.65,2002
+07/03,Frankfort,IL,4,Blue Stars,World Class,55.15,2002
+07/03,Bristol,RI,4,Boston Crusaders,World Class,76.4,2002
+07/03,Cedarburg,WI,4,Pioneer,World Class,60.95,2002
+07/03,Everett,MA,4,Patriots,World Class,70.6,2002
+07/03,Frankfort,IL,5,Marion Glory Cadets,World Class,50.85,2002
+07/03,Bristol,RI,5,Bluecoats,World Class,75.55,2002
+07/03,Cedarburg,WI,5,Americanos,World Class,55.55,2002
+07/03,Everett,MA,5,Cadets of NYC,World Class,60.1,2002
+07/03,Frankfort,IL,6,Colt Cadets,World Class,30.85,2002
+07/03,Bristol,RI,6,Carolina Crown,World Class,73.6,2002
+07/03,Cedarburg,WI,6,Bandettes,World Class,42.6,2002
+07/03,Frankfort,IL,7,Joliet Kingsmen,World Class,28.55,2002
+07/03,Bristol,RI,7,Spirit,World Class,72.4,2002
+07/03,Cedarburg,WI,7,Edmonton Strutters,World Class,41.85,2002
+07/03,Bristol,RI,8,Kiwanis Kavaliers,World Class,61.75,2002
+07/03,Cedarburg,WI,8,Racine Scouts,World Class,36.5,2002
+07/04,Whitewater,WI,1,Capital Regiment,World Class,64.6,2002
+07/05,Holman,WI,1,Colts,World Class,74.0,2002
+07/05,Rockford,IL,1,Cavaliers,World Class,87.25,2002
+07/05,Nashua,NH,1,Magic of Orlando,World Class,84.9,2002
+07/04,Whitewater,WI,2,Southwind,World Class,64.15,2002
+07/05,Holman,WI,2,Troopers,World Class,67.1,2002
+07/05,Rockford,IL,2,Phantom Regiment,World Class,80.25,2002
+07/05,Nashua,NH,2,Spartans,World Class,78.65,2002
+07/04,Whitewater,WI,3,Pioneer,World Class,59.4,2002
+07/05,Holman,WI,3,Americanos,World Class,60.85,2002
+07/05,Rockford,IL,3,Southwind,World Class,65.55,2002
+07/05,Nashua,NH,3,East Coast Jazz,World Class,73.95,2002
+07/04,Whitewater,WI,4,Capital Sound,World Class,58.95,2002
+07/05,Holman,WI,4,Edmonton Strutters,World Class,46.5,2002
+07/05,Rockford,IL,4,Capital Regiment,World Class,64.85,2002
+07/05,Nashua,NH,4,Patriots,World Class,71.85,2002
+07/04,Whitewater,WI,5,Blue Stars,World Class,56.7,2002
+07/05,Holman,WI,5,Colt Cadets,World Class,36.8,2002
+07/05,Rockford,IL,5,Capital Sound,World Class,58.9,2002
+07/05,Nashua,NH,5,Jersey Surf,World Class,67.75,2002
+07/04,Whitewater,WI,6,Racine Scouts,World Class,34.7,2002
+07/05,Holman,WI,6,Decorah Kilties,World Class,32.7,2002
+07/05,Rockford,IL,6,Kilties,World Class,48.05,2002
+07/05,Nashua,NH,6,Raiders,World Class,64.05,2002
+07/05,Rockford,IL,7,Bandettes,World Class,41.35,2002
+07/05,Nashua,NH,7,Cadets of NYC,World Class,60.45,2002
+07/05,Rockford,IL,8,Racine Scouts,World Class,34.05,2002
+07/05,Nashua,NH,8,Targets,World Class,52.3,2002
+07/05,Nashua,NH,9,Quest,World Class,50.85,2002
+07/06,Hayward,CA,1,Blue Devils,World Class,84.15,2002
+07/06,Mankato,MN,1,Colts,World Class,73.9,2002
+07/06,Hershey,PA,1,Cadets,World Class,84.9,2002
+07/06,Michigan City,IN,1,Cavaliers,World Class,88.25,2002
+07/06,Hayward,CA,2,Vanguard,World Class,83.35,2002
+07/06,Mankato,MN,2,Minnesota Brass,World Class,67.3,2002
+07/06,Hershey,PA,2,Crossmen,World Class,79.4,2002
+07/06,Michigan City,IN,2,Glassmen,World Class,81.5,2002
+07/06,Hayward,CA,3,Seattle Cascades,World Class,77.85,2002
+07/06,Mankato,MN,3,Troopers,World Class,62.0,2002
+07/06,Hershey,PA,3,Bluecoats,World Class,77.4,2002
+07/06,Michigan City,IN,3,Phantom Regiment,World Class,80.95,2002
+07/06,Hayward,CA,4,Madison Scouts,World Class,76.0,2002
+07/06,Mankato,MN,4,Blue Stars,World Class,57.65,2002
+07/06,Hershey,PA,4,Boston Crusaders,World Class,76.7,2002
+07/06,Michigan City,IN,4,Capital Regiment,World Class,64.75,2002
+07/06,Hayward,CA,5,Pacific Crest,World Class,72.8,2002
+07/06,Mankato,MN,5,Americanos,World Class,57.1,2002
+07/06,Hershey,PA,5,Spirit,World Class,72.75,2002
+07/06,Michigan City,IN,5,Capital Sound,World Class,57.3,2002
+07/06,Mankato,MN,6,Govenaires,World Class,53.55,2002
+07/06,Hershey,PA,6,Kiwanis Kavaliers,World Class,62.3,2002
+07/06,Michigan City,IN,6,Pioneer,World Class,55.1,2002
+07/06,Hayward,CA,1,Mandarins,World Class,76.65,2002
+07/06,Mankato,MN,7,"Chops, Inc.",World Class,49.15,2002
+07/06,Michigan City,IN,7,Lake Erie Regiment,World Class,39.55,2002
+07/06,Hayward,CA,2,Vanguard Cadets,World Class,75.2,2002
+07/06,Mankato,MN,8,Decorah Kilties,World Class,32.7,2002
+07/06,Hershey,PA,1,Magic of Orlando,World Class,79.75,2002
+07/06,Michigan City,IN,8,Bandettes,World Class,39.3,2002
+07/06,Hayward,CA,3,Blue Devils B,World Class,74.85,2002
+07/06,Michigan City,IN,9,Dutch Boy,World Class,38.2,2002
+07/06,Hayward,CA,4,Esperanza,World Class,71.75,2002
+07/06,Michigan City,IN,10,Racine Scouts,World Class,32.85,2002
+07/06,Hayward,CA,5,Impulse,World Class,67.0,2002
+07/06,Hayward,CA,6,Blue Devils C,World Class,36.9,2002
+07/06,Hayward,CA,1,Renegades,World Class,68.7,2002
+07/06,Hayward,CA,2,River City Regiment,World Class,56.7,2002
+07/06,Springfield,MA,1,Spartans,Open Class,79.9,2002
+07/06,Hershey,PA,1,Syracuse Brigadiers,Open Class,78.05,2002
+07/06,Massena,NY,1,Empire Statesmen,Open Class,77.3,2002
+07/07,Concord,CA,1,Blue Devils,Open Class,85.25,2002
+07/06,Springfield,MA,2,Patriots,Open Class,74.1,2002
+07/06,Hershey,PA,2,Hawthorne Caballeros,Open Class,73.4,2002
+07/06,Massena,NY,2,Rochester Crusaders,Open Class,73.95,2002
+07/07,Concord,CA,2,Vanguard,Open Class,84.4,2002
+07/06,Springfield,MA,3,East Coast Jazz,Open Class,73.7,2002
+07/06,Hershey,PA,3,Reading Buccaneers,Open Class,71.4,2002
+07/06,Massena,NY,3,Connecticut Hurricanes,Open Class,71.55,2002
+07/07,Concord,CA,3,Seattle Cascades,Open Class,76.9,2002
+07/06,Springfield,MA,4,Jersey Surf,Open Class,70.7,2002
+07/06,Hershey,PA,4,Bushwackers,Open Class,69.1,2002
+07/06,Massena,NY,4,Kingston Grenadiers,Open Class,69.45,2002
+07/07,Concord,CA,4,Madison Scouts,Open Class,76.0,2002
+07/07,Concord,CA,5,Pacific Crest,Open Class,73.2,2002
+07/06,Springfield,MA,1,Raiders,Open Class,65.9,2002
+07/06,Massena,NY,1,Nightstorm,Open Class,57.9,2002
+07/06,Springfield,MA,2,Cadets of NYC,Open Class,63.4,2002
+07/07,Concord,CA,1,Mandarins,Open Class,77.2,2002
+07/06,Springfield,MA,3,Phoenix,Open Class,61.9,2002
+07/07,Concord,CA,2,Vanguard Cadets,Open Class,76.9,2002
+07/06,Springfield,MA,4,Quest,Open Class,56.1,2002
+07/07,Concord,CA,3,Blue Devils B,Open Class,75.05,2002
+07/06,Springfield,MA,5,Targets,Open Class,54.7,2002
+07/07,Concord,CA,4,Esperanza,Open Class,73.0,2002
+07/06,Springfield,MA,6,Silver Knights,Open Class,49.9,2002
+07/07,Concord,CA,5,Impulse,Open Class,66.55,2002
+07/06,Springfield,MA,7,Citations,Open Class,40.6,2002
+07/07,Concord,CA,6,Blue Devils C,Open Class,39.95,2002
+07/06,Springfield,MA,1,Quest Explorers,Open Class,51.7,2002
+07/07,Concord,CA,1,Renegades,Open Class,69.55,2002
+07/06,Springfield,MA,2,Phoenix Kidets,Open Class,45.1,2002
+07/07,Concord,CA,2,River City Regiment,Open Class,58.35,2002
+07/07,Cortland,NY,1,Cadets,Open Class,85.85,2002
+07/07,Saint Peter,MN,1,Colts,Open Class,74.35,2002
+07/07,Dixon,IL,1,Phantom Regiment,Open Class,80.9,2002
+07/07,Racine,WI,1,Cavaliers,Open Class,86.85,2002
+07/07,Cortland,NY,2,Crossmen,Open Class,81.0,2002
+07/07,Saint Peter,MN,2,Minnesota Brass,Open Class,69.45,2002
+07/07,Dixon,IL,2,Southwind,Open Class,64.4,2002
+07/07,Racine,WI,2,Capital Regiment,Open Class,68.15,2002
+07/07,Cortland,NY,3,Boston Crusaders,Open Class,79.8,2002
+07/07,Saint Peter,MN,3,Troopers,Open Class,62.45,2002
+07/07,Dixon,IL,3,Marion Glory Cadets,Open Class,49.65,2002
+07/07,Racine,WI,3,Capital Sound,Open Class,63.3,2002
+07/07,Cortland,NY,4,Carolina Crown,Open Class,74.5,2002
+07/07,Saint Peter,MN,4,Americanos,Open Class,58.15,2002
+07/07,Dixon,IL,4,Lake Erie Regiment,Open Class,47.15,2002
+07/07,Racine,WI,4,Pioneer,Open Class,61.3,2002
+07/07,Cortland,NY,5,Kiwanis Kavaliers,Open Class,65.3,2002
+07/07,Saint Peter,MN,5,"Chops, Inc.",Open Class,50.75,2002
+07/07,Dixon,IL,5,Bandettes,Open Class,44.45,2002
+07/07,Racine,WI,5,Kilties,Open Class,54.85,2002
+07/07,Saint Peter,MN,6,Edmonton Strutters,Open Class,38.6,2002
+07/07,Dixon,IL,6,Dutch Boy,Open Class,41.0,2002
+07/07,Racine,WI,6,Racine Scouts,Open Class,39.1,2002
+07/07,Cortland,NY,1,Magic of Orlando,Open Class,82.05,2002
+07/07,Saint Peter,MN,7,Decorah Kilties,Open Class,30.95,2002
+07/07,Racine,WI,7,Joliet Kingsmen,Open Class,33.35,2002
+07/08,Ogdensburg,NY,1,Crossmen,Open Class,82.6,2002
+07/09,Charles City,IA,1,Cavaliers,Open Class,87.0,2002
+07/10,Fort Edward,NY,1,Cadets,Open Class,88.7,2002
+07/10,Escondido,CA,1,Blue Devils,Open Class,84.0,2002
+07/08,Ogdensburg,NY,2,Boston Crusaders,Open Class,80.3,2002
+07/09,Charles City,IA,2,Colts,Open Class,75.8,2002
+07/10,Fort Edward,NY,2,Boston Crusaders,Open Class,83.55,2002
+07/10,Escondido,CA,2,Vanguard,Open Class,83.2,2002
+07/08,Ogdensburg,NY,3,Carolina Crown,Open Class,75.0,2002
+07/09,Charles City,IA,3,Southwind,Open Class,62.95,2002
+07/10,Fort Edward,NY,3,Carolina Crown,Open Class,76.55,2002
+07/10,Escondido,CA,3,Seattle Cascades,Open Class,75.4,2002
+07/08,Ogdensburg,NY,4,Spirit,Open Class,73.8,2002
+07/09,Charles City,IA,4,Pioneer,Open Class,62.1,2002
+07/10,Fort Edward,NY,4,Spirit,Open Class,76.0,2002
+07/10,Escondido,CA,4,Blue Knights,Open Class,72.35,2002
+07/08,Ogdensburg,NY,5,Kiwanis Kavaliers,Open Class,67.45,2002
+07/09,Charles City,IA,5,Blue Stars,Open Class,59.55,2002
+07/10,Fort Edward,NY,5,Kiwanis Kavaliers,Open Class,68.7,2002
+07/10,Escondido,CA,5,Pacific Crest,Open Class,71.3,2002
+07/09,Charles City,IA,6,Americanos,Open Class,58.5,2002
+07/08,Ogdensburg,NY,1,Magic of Orlando,Open Class,83.0,2002
+07/09,Charles City,IA,7,Lake Erie Regiment,Open Class,43.55,2002
+07/10,Fort Edward,NY,1,Magic of Orlando,Open Class,83.7,2002
+07/10,Escondido,CA,1,Esperanza,Open Class,78.1,2002
+07/08,Ogdensburg,NY,2,Spartans,Open Class,69.65,2002
+07/09,Charles City,IA,8,Racine Scouts,Open Class,36.25,2002
+07/10,Fort Edward,NY,2,Spartans,Open Class,73.7,2002
+07/10,Escondido,CA,2,Impulse,Open Class,65.7,2002
+07/09,Charles City,IA,9,Colt Cadets,Open Class,34.75,2002
+07/10,Escondido,CA,3,Alliance,Open Class,58.65,2002
+07/10,Escondido,CA,4,Oregon Crusaders,Open Class,51.85,2002
+07/10,Dubuque,IA,1,Cavaliers,Open Class,87.95,2002
+07/11,Hornell,NY,1,Cadets,Open Class,88.85,2002
+06/12,Riverside,CA,1,Vanguard,Open Class,85.8,2002
+06/12,Buffalo,NY,1,Cadets,Open Class,89.45,2002
+07/10,Dubuque,IA,2,Glassmen,Open Class,81.65,2002
+07/11,Hornell,NY,2,Crossmen,Open Class,83.4,2002
+06/12,Riverside,CA,2,Blue Devils,Open Class,85.45,2002
+06/12,Buffalo,NY,2,Crossmen,Open Class,84.8,2002
+07/10,Dubuque,IA,3,Colts,Open Class,75.8,2002
+07/11,Hornell,NY,3,Boston Crusaders,Open Class,82.3,2002
+06/12,Riverside,CA,3,Seattle Cascades,Open Class,78.9,2002
+06/12,Buffalo,NY,3,Boston Crusaders,Open Class,83.3,2002
+07/10,Dubuque,IA,4,Southwind,Open Class,69.85,2002
+07/11,Hornell,NY,4,Spirit,Open Class,76.3,2002
+06/12,Riverside,CA,4,Blue Knights,Open Class,74.0,2002
+06/12,Buffalo,NY,4,Spirit,Open Class,78.5,2002
+07/10,Dubuque,IA,5,Capital Regiment,Open Class,65.35,2002
+07/11,Hornell,NY,5,Kiwanis Kavaliers,Open Class,67.25,2002
+06/12,Riverside,CA,5,Pacific Crest,Open Class,73.1,2002
+06/12,Buffalo,NY,5,Carolina Crown,Open Class,77.3,2002
+07/10,Dubuque,IA,6,Pioneer,Open Class,62.6,2002
+06/12,Buffalo,NY,6,Kiwanis Kavaliers,Open Class,67.95,2002
+07/10,Dubuque,IA,7,Blue Stars,Open Class,61.25,2002
+07/11,Hornell,NY,1,Magic of Orlando,Open Class,83.8,2002
+06/12,Riverside,CA,1,Mandarins,Open Class,75.55,2002
+07/10,Dubuque,IA,8,Americanos,Open Class,60.8,2002
+07/11,Hornell,NY,2,Patriots,Open Class,73.3,2002
+06/12,Riverside,CA,2,Esperanza,Open Class,75.3,2002
+06/12,Buffalo,NY,1,Magic of Orlando,Open Class,85.15,2002
+07/10,Dubuque,IA,9,Racine Scouts,Open Class,38.25,2002
+06/12,Riverside,CA,3,Vanguard Cadets,Open Class,74.15,2002
+06/12,Buffalo,NY,2,Patriots,Open Class,73.25,2002
+07/10,Dubuque,IA,10,Colt Cadets,Open Class,35.6,2002
+06/12,Riverside,CA,4,Blue Devils B,Open Class,70.1,2002
+06/12,Riverside,CA,5,Impulse,Open Class,63.9,2002
+06/12,Riverside,CA,6,Alliance,Open Class,55.4,2002
+06/12,Riverside,CA,7,Oregon Crusaders,Open Class,52.35,2002
+07/12,DeKalb,IL,1,Cavaliers,Open Class,88.45,2002
+07/13,DeKalb,IL,1,Blue Stars,Open Class,63.45,2002
+07/13,DeKalb,IL,1,Cavaliers,Open Class,88.85,2002
+07/13,Glendora,CA,1,Blue Devils,Open Class,86.1,2002
+07/12,DeKalb,IL,2,Glassmen,Open Class,83.0,2002
+07/13,DeKalb,IL,2,Americanos,Open Class,62.2,2002
+07/13,DeKalb,IL,2,Phantom Regiment,Open Class,82.75,2002
+07/13,Glendora,CA,2,Vanguard,Open Class,85.95,2002
+07/12,DeKalb,IL,2,Phantom Regiment,Open Class,83.0,2002
+07/13,DeKalb,IL,3,Marion Glory Cadets,Open Class,57.4,2002
+07/13,DeKalb,IL,3,Glassmen,Open Class,82.55,2002
+07/13,Glendora,CA,3,Seattle Cascades,Open Class,79.55,2002
+07/12,DeKalb,IL,4,Bluecoats,Open Class,80.8,2002
+07/13,DeKalb,IL,4,Lake Erie Regiment,Open Class,56.0,2002
+07/13,DeKalb,IL,4,Bluecoats,Open Class,80.95,2002
+07/13,Glendora,CA,4,Blue Knights,Open Class,75.4,2002
+07/12,DeKalb,IL,5,Madison Scouts,Open Class,76.5,2002
+07/13,DeKalb,IL,5,Bandettes,Open Class,49.6,2002
+07/13,DeKalb,IL,5,Colts,Open Class,76.25,2002
+07/13,Glendora,CA,5,Pacific Crest,Open Class,74.7,2002
+07/12,DeKalb,IL,6,Colts,Open Class,76.45,2002
+07/13,DeKalb,IL,6,Racine Scouts,Open Class,41.45,2002
+07/13,DeKalb,IL,6,Madison Scouts,Open Class,74.05,2002
+07/12,DeKalb,IL,7,Southwind,Open Class,67.8,2002
+07/13,DeKalb,IL,7,Dimensions,Open Class,40.1,2002
+07/13,DeKalb,IL,7,Southwind,Open Class,68.15,2002
+07/13,Glendora,CA,1,Mandarins,Open Class,80.1,2002
+07/12,DeKalb,IL,8,Pioneer,Open Class,62.6,2002
+07/13,DeKalb,IL,8,Colt Cadets,Open Class,39.3,2002
+07/13,DeKalb,IL,8,Pioneer,Open Class,63.85,2002
+07/13,Glendora,CA,2,Esperanza,Open Class,79.3,2002
+07/13,DeKalb,IL,9,Joliet Kingsmen,Open Class,37.05,2002
+07/13,Glendora,CA,3,Vanguard Cadets,Open Class,77.45,2002
+07/12,DeKalb,IL,1,Capital Regiment,Open Class,65.5,2002
+07/13,DeKalb,IL,10,Decorah Kilties,Open Class,36.4,2002
+07/13,DeKalb,IL,1,Blue Stars,Open Class,59.45,2002
+07/13,Glendora,CA,4,Blue Devils B,Open Class,74.65,2002
+07/12,DeKalb,IL,2,Capital Sound,Open Class,59.3,2002
+07/13,DeKalb,IL,2,Americanos,Open Class,58.35,2002
+07/13,Glendora,CA,5,Impulse,Open Class,66.1,2002
+07/13,DeKalb,IL,1,Minnesota Brass,Open Class,75.65,2002
+07/13,Glendora,CA,6,Alliance,Open Class,56.95,2002
+07/13,DeKalb,IL,2,Govenaires,Open Class,62.6,2002
+07/13,DeKalb,IL,1,Minnesota Brass,Open Class,72.95,2002
+07/13,Glendora,CA,7,Oregon Crusaders,Open Class,55.55,2002
+07/13,DeKalb,IL,3,"Chops, Inc.",Open Class,55.35,2002
+07/13,DeKalb,IL,2,Govenaires,Open Class,57.9,2002
+07/13,Glendora,CA,8,Blue Devils C,Open Class,46.0,2002
+07/13,DeKalb,IL,4,Kilties,Open Class,54.4,2002
+07/13,Cincinnati,OH,1,Cadets,Open Class,88.25,2002
+07/13,Brick,NJ,1,Raiders,Open Class,71.6,2002
+07/13,Reading,PA,1,Reading Buccaneers,Open Class,78.85,2002
+07/13,Belleville,Ontario,1,Syracuse Brigadiers,Open Class,81.65,2002
+07/13,Cincinnati,OH,2,Boston Crusaders,Open Class,83.05,2002
+07/13,Brick,NJ,2,Phoenix,Open Class,68.5,2002
+07/13,Reading,PA,2,Hawthorne Caballeros,Open Class,77.55,2002
+07/13,Belleville,Ontario,2,Rochester Crusaders,Open Class,75.1,2002
+07/13,Cincinnati,OH,3,Crossmen,Open Class,83.0,2002
+07/13,Brick,NJ,3,Cadets of NYC,Open Class,68.0,2002
+07/13,Reading,PA,3,Bushwackers,Open Class,74.7,2002
+07/13,Belleville,Ontario,3,Kingston Grenadiers,Open Class,71.55,2002
+07/13,Cincinnati,OH,4,Spirit,Open Class,76.75,2002
+07/13,Brick,NJ,4,Quest,Open Class,58.1,2002
+07/13,Reading,PA,4,Connecticut Hurricanes,Open Class,74.2,2002
+07/13,Cincinnati,OH,5,Carolina Crown,Open Class,76.1,2002
+07/13,Brick,NJ,5,Targets,Open Class,57.9,2002
+07/13,Reading,PA,5,Corpsvets,Open Class,70.4,2002
+07/13,Belleville,Ontario,1,Nightstorm,Open Class,60.5,2002
+07/13,Brick,NJ,6,Citations,Open Class,47.0,2002
+07/13,Cincinnati,OH,1,Magic of Orlando,Open Class,82.4,2002
+07/13,Reading,PA,1,New York Skyliners,Open Class,60.9,2002
+07/13,Brick,NJ,1,Quest Explorers,Open Class,55.8,2002
+07/13,Brick,NJ,2,Phoenix Kidets,Open Class,51.6,2002
+07/13,Reading,PA,1,Spartans,Open Class,76.65,2002
+07/13,Reading,PA,2,Jersey Surf,Open Class,72.85,2002
+07/13,Reading,PA,3,Lehigh Valley Knights,Open Class,67.0,2002
+07/13,Reading,PA,4,Taipei Yuehfu,Open Class,65.95,2002
+07/14,Santa Ana,CA,1,Vanguard,Open Class,87.05,2002
+07/14,Easton,PA,1,Spartans,Open Class,79.9,2002
+07/15,Alton,IL,1,Cavaliers,Open Class,90.0,2002
+07/15,Phoenix,AZ,1,Vanguard,Open Class,87.45,2002
+07/14,Santa Ana,CA,2,Blue Devils,Open Class,86.55,2002
+07/14,Easton,PA,2,Jersey Surf,Open Class,74.4,2002
+07/15,Alton,IL,2,Boston Crusaders,Open Class,84.3,2002
+07/15,Phoenix,AZ,2,Seattle Cascades,Open Class,81.45,2002
+07/14,Santa Ana,CA,3,Seattle Cascades,Open Class,80.5,2002
+07/14,Easton,PA,3,Lehigh Valley Knights,Open Class,67.9,2002
+07/15,Alton,IL,3,Crossmen,Open Class,83.9,2002
+07/15,Phoenix,AZ,3,Blue Knights,Open Class,77.3,2002
+07/14,Santa Ana,CA,4,Pacific Crest,Open Class,76.95,2002
+07/14,Easton,PA,4,Cadets of NYC,Open Class,64.7,2002
+07/15,Alton,IL,4,Bluecoats,Open Class,82.3,2002
+07/15,Phoenix,AZ,4,Troopers,Open Class,66.35,2002
+07/14,Easton,PA,5,Taipei Yuehfu,Open Class,63.9,2002
+07/14,Santa Ana,CA,1,Mandarins,Open Class,80.05,2002
+07/14,Easton,PA,6,Spirit of Newark,Open Class,47.45,2002
+07/15,Alton,IL,1,Magic of Orlando,Open Class,84.5,2002
+07/15,Phoenix,AZ,1,Blue Devils B,Open Class,75.25,2002
+07/14,Santa Ana,CA,2,Esperanza,Open Class,79.3,2002
+07/14,Santa Ana,CA,3,Vanguard Cadets,Open Class,76.6,2002
+07/14,Santa Ana,CA,4,Blue Devils B,Open Class,73.9,2002
+07/14,Santa Ana,CA,5,Impulse,Open Class,66.9,2002
+07/14,Santa Ana,CA,6,Alliance,Open Class,56.7,2002
+07/14,Santa Ana,CA,7,Oregon Crusaders,Open Class,53.95,2002
+07/15,Lawrence,KS,1,Madison Scouts,Open Class,77.25,2002
+07/15,Murray,KY,1,Cadets,Open Class,90.0,2002
+07/16,Albuquerque,NM,1,Vanguard,Open Class,87.4,2002
+07/16,Enid,OK,1,Cavaliers,Open Class,89.5,2002
+07/15,Lawrence,KS,2,Pioneer,Open Class,69.5,2002
+07/15,Murray,KY,2,Phantom Regiment,Open Class,84.85,2002
+07/16,Albuquerque,NM,2,Seattle Cascades,Open Class,81.25,2002
+07/16,Enid,OK,2,Crossmen,Open Class,84.05,2002
+07/15,Lawrence,KS,3,Capital Regiment,Open Class,68.9,2002
+07/15,Murray,KY,3,Glassmen,Open Class,84.05,2002
+07/16,Albuquerque,NM,3,Blue Knights,Open Class,75.85,2002
+07/16,Enid,OK,3,Bluecoats,Open Class,83.2,2002
+07/15,Lawrence,KS,4,Kiwanis Kavaliers,Open Class,67.6,2002
+07/15,Murray,KY,4,Spirit,Open Class,77.2,2002
+07/16,Albuquerque,NM,4,Troopers,Open Class,66.55,2002
+07/16,Enid,OK,4,Madison Scouts,Open Class,76.85,2002
+07/15,Lawrence,KS,5,Americanos,Open Class,60.65,2002
+07/15,Murray,KY,5,Colts,Open Class,76.55,2002
+07/16,Enid,OK,5,Kiwanis Kavaliers,Open Class,65.8,2002
+07/15,Lawrence,KS,6,Marion Glory Cadets,Open Class,60.0,2002
+07/15,Murray,KY,6,Carolina Crown,Open Class,76.2,2002
+07/16,Albuquerque,NM,1,Revolution,Open Class,61.85,2002
+07/16,Enid,OK,6,Pioneer,Open Class,64.7,2002
+07/15,Murray,KY,7,Southwind,Open Class,69.6,2002
+07/16,Enid,OK,1,Americanos,Open Class,69.45,2002
+07/17,Siloam Springs,AR,1,Cadets,Open Class,89.95,2002
+07/17,El Paso,TX,1,Blue Devils,Open Class,88.95,2002
+07/18,Dallas,TX,1,Cadets,Open Class,89.1,2002
+07/18,Joliette,Quebec,1,Quebec Alliance,Open Class,76.0,2002
+07/17,Siloam Springs,AR,2,Phantom Regiment,Open Class,85.2,2002
+07/17,El Paso,TX,2,Seattle Cascades,Open Class,83.4,2002
+07/18,Dallas,TX,2,Blue Devils,Open Class,88.55,2002
+07/18,Joliette,Quebec,2,Les Stentors,Open Class,71.5,2002
+07/17,Siloam Springs,AR,3,Glassmen,Open Class,84.65,2002
+07/17,El Paso,TX,3,Blue Knights,Open Class,78.55,2002
+07/18,Dallas,TX,3,Crossmen,Open Class,83.1,2002
+07/17,Siloam Springs,AR,4,Colts,Open Class,78.95,2002
+07/17,El Paso,TX,4,Troopers,Open Class,68.5,2002
+07/18,Dallas,TX,3,Boston Crusaders,Open Class,83.1,2002
+07/17,Siloam Springs,AR,5,Spirit,Open Class,78.25,2002
+07/18,Dallas,TX,5,Bluecoats,Open Class,82.6,2002
+07/17,Siloam Springs,AR,6,Carolina Crown,Open Class,76.45,2002
+07/17,El Paso,TX,1,Revolution,Open Class,65.4,2002
+07/18,Dallas,TX,6,Carolina Crown,Open Class,78.05,2002
+07/17,Siloam Springs,AR,7,Southwind,Open Class,71.8,2002
+07/18,Dallas,TX,7,Spirit,Open Class,77.6,2002
+07/18,Dallas,TX,8,Madison Scouts,Open Class,77.35,2002
+07/18,Dallas,TX,9,Southwind,Open Class,70.05,2002
+07/18,Dallas,TX,10,Pioneer,Open Class,63.65,2002
+07/19,Port Washington,WI,1,Magic of Orlando,Open Class,80.55,2002
+07/19,Southbridge,MA,1,Spartans,Open Class,83.1,2002
+07/19,Houston,TX,1,Cavaliers,Open Class,91.55,2002
+07/20,West Covina,CA,1,Pacific Crest,Open Class,77.3,2002
+07/19,Port Washington,WI,2,Capital Sound,Open Class,68.6,2002
+07/19,Southbridge,MA,2,East Coast Jazz,Open Class,79.2,2002
+07/19,Houston,TX,2,Cadets,Open Class,90.4,2002
+07/19,Port Washington,WI,3,Blue Stars,Open Class,65.25,2002
+07/19,Southbridge,MA,3,Patriots,Open Class,79.15,2002
+07/19,Houston,TX,3,Blue Devils,Open Class,89.7,2002
+07/20,West Covina,CA,1,Esperanza,Open Class,80.6,2002
+07/19,Port Washington,WI,4,Marion Glory Cadets,Open Class,64.6,2002
+07/19,Southbridge,MA,4,Taipei Yuehfu,Open Class,73.3,2002
+07/19,Houston,TX,4,Glassmen,Open Class,84.95,2002
+07/20,West Covina,CA,2,Vanguard Cadets,Open Class,79.9,2002
+07/19,Port Washington,WI,5,Racine Scouts,Open Class,45.55,2002
+07/19,Southbridge,MA,5,Cadets of NYC,Open Class,65.7,2002
+07/19,Houston,TX,5,Phantom Regiment,Open Class,84.5,2002
+07/20,West Covina,CA,3,Blue Devils B,Open Class,78.4,2002
+07/19,Port Washington,WI,6,Colt Cadets,Open Class,39.65,2002
+07/19,Southbridge,MA,6,Targets,Open Class,57.1,2002
+07/19,Houston,TX,6,Crossmen,Open Class,83.85,2002
+07/20,West Covina,CA,4,Impulse,Open Class,68.15,2002
+07/19,Southbridge,MA,7,Spirit of Newark,Open Class,53.5,2002
+07/20,West Covina,CA,5,Alliance,Open Class,58.15,2002
+07/20,West Covina,CA,1,Renegades,Open Class,68.6,2002
+07/20,San Antonio,TX,1,Boston Crusaders,Open Class,84.9,2002
+07/20,San Antonio,TX,1,Cavaliers,Open Class,92.45,2002
+07/20,Brantford,Ontario,1,Dutch Boy,Open Class,68.05,2002
+07/20,Ludlow,MA,1,Spartans,Open Class,83.3,2002
+07/20,San Antonio,TX,2,Seattle Cascades,Open Class,82.85,2002
+07/20,San Antonio,TX,2,Cadets,Open Class,90.5,2002
+07/20,Brantford,Ontario,2,Blue Saints,Open Class,60.55,2002
+07/20,Ludlow,MA,2,Patriots,Open Class,81.15,2002
+07/20,San Antonio,TX,3,Blue Knights,Open Class,81.35,2002
+07/20,San Antonio,TX,3,Blue Devils,Open Class,90.35,2002
+07/20,Brantford,Ontario,3,Saint John's,Open Class,51.4,2002
+07/20,Ludlow,MA,3,East Coast Jazz,Open Class,80.45,2002
+07/20,San Antonio,TX,4,Spirit,Open Class,80.4,2002
+07/20,San Antonio,TX,4,Vanguard,Open Class,89.3,2002
+07/20,Ludlow,MA,4,Lehigh Valley Knights,Open Class,70.75,2002
+07/20,San Antonio,TX,5,Madison Scouts,Open Class,80.25,2002
+07/20,San Antonio,TX,5,Glassmen,Open Class,86.15,2002
+07/20,Brantford,Ontario,1,Emerald Knights,Open Class,43.3,2002
+07/20,Ludlow,MA,5,Targets,Open Class,56.55,2002
+07/20,San Antonio,TX,6,Carolina Crown,Open Class,79.45,2002
+07/20,San Antonio,TX,6,Phantom Regiment,Open Class,85.8,2002
+07/20,Ludlow,MA,6,Spirit of Newark,Open Class,51.95,2002
+07/20,San Antonio,TX,7,Colts,Open Class,79.25,2002
+07/20,San Antonio,TX,7,Boston Crusaders,Open Class,84.55,2002
+07/20,Ludlow,MA,7,Citations,Open Class,43.85,2002
+07/20,San Antonio,TX,8,Southwind,Open Class,73.35,2002
+07/20,San Antonio,TX,8,Bluecoats,Open Class,84.2,2002
+07/20,San Antonio,TX,9,Kiwanis Kavaliers,Open Class,69.4,2002
+07/20,San Antonio,TX,9,Crossmen,Open Class,83.8,2002
+07/20,San Antonio,TX,10,Pioneer,Open Class,67.25,2002
+07/20,San Antonio,TX,10,Seattle Cascades,Open Class,79.95,2002
+07/20,San Antonio,TX,11,Troopers,Open Class,67.1,2002
+07/20,San Antonio,TX,10,Spirit,Open Class,79.95,2002
+07/20,San Antonio,TX,12,Blue Knights,Open Class,78.5,2002
+07/20,San Antonio,TX,1,Revolution,Open Class,66.15,2002
+07/20,Clifton,NJ,1,Syracuse Brigadiers,Open Class,85.05,2002
+07/20,Hamilton,Ontario,1,Empire Statesmen,Open Class,82.7,2002
+07/20,Milwaukee,WI,1,Magic of Orlando,Open Class,79.05,2002
+07/20,Brooklyn,NY,1,Taipei Yuehfu,Open Class,75.3,2002
+07/20,Clifton,NJ,2,Reading Buccaneers,Open Class,79.5,2002
+07/20,Hamilton,Ontario,2,Rochester Crusaders,Open Class,78.95,2002
+07/20,Milwaukee,WI,2,Capital Regiment,Open Class,71.4,2002
+07/20,Brooklyn,NY,2,Cadets of NYC,Open Class,70.7,2002
+07/20,Clifton,NJ,3,Hawthorne Caballeros,Open Class,78.45,2002
+07/20,Hamilton,Ontario,3,Kingston Grenadiers,Open Class,76.05,2002
+07/20,Milwaukee,WI,3,Capital Sound,Open Class,66.25,2002
+07/20,Brooklyn,NY,3,Quest,Open Class,65.1,2002
+07/20,Clifton,NJ,4,Bushwackers,Open Class,75.95,2002
+07/20,Milwaukee,WI,4,Blue Stars,Open Class,65.35,2002
+07/20,Clifton,NJ,5,Connecticut Hurricanes,Open Class,75.2,2002
+07/20,Hamilton,Ontario,4,Nightstorm,Open Class,62.8,2002
+07/20,Milwaukee,WI,5,Marion Glory Cadets,Open Class,63.45,2002
+07/20,Brooklyn,NY,1,Quest Explorers,Open Class,64.4,2002
+07/20,Milwaukee,WI,6,Kilties,Open Class,52.45,2002
+07/20,Brooklyn,NY,2,Phoenix Kidets,Open Class,55.4,2002
+07/20,Clifton,NJ,6,New York Skyliners,Open Class,63.1,2002
+07/20,Milwaukee,WI,7,Racine Scouts,Open Class,46.15,2002
+07/20,Milwaukee,WI,8,Joliet Kingsmen,Open Class,38.85,2002
+07/21,San Diego,CA,1,Pacific Crest,Open Class,81.3,2002
+07/21,Bayonne,NJ,1,Raiders,Open Class,77.6,2002
+07/21,Varennes,Quebec,1,Quebec Alliance,Open Class,79.0,2002
+07/21,Midlands,TX,1,Vanguard,Open Class,89.65,2002
+07/21,Bayonne,NJ,2,Taipei Yuehfu,Open Class,76.9,2002
+07/21,Varennes,Quebec,2,Les Stentors,Open Class,76.25,2002
+07/21,Midlands,TX,2,Phantom Regiment,Open Class,86.95,2002
+07/21,San Diego,CA,1,Esperanza,Open Class,85.55,2002
+07/21,Bayonne,NJ,3,Phoenix,Open Class,73.3,2002
+07/21,Midlands,TX,3,Seattle Cascades,Open Class,82.35,2002
+07/21,San Diego,CA,2,Vanguard Cadets,Open Class,84.3,2002
+07/21,Bayonne,NJ,4,Cadets of NYC,Open Class,72.5,2002
+07/21,Varennes,Quebec,1,Releve Musicale,Open Class,71.75,2002
+07/21,Midlands,TX,4,Blue Knights,Open Class,82.15,2002
+07/21,San Diego,CA,3,Blue Devils B,Open Class,82.05,2002
+07/21,Bayonne,NJ,5,Quest,Open Class,66.1,2002
+07/21,Midlands,TX,5,Colts,Open Class,80.95,2002
+07/21,San Diego,CA,4,Impulse,Open Class,70.65,2002
+07/21,Bayonne,NJ,6,Targets,Open Class,62.2,2002
+07/21,Midlands,TX,6,Southwind,Open Class,74.95,2002
+07/21,San Diego,CA,5,Alliance,Open Class,62.45,2002
+07/21,Bayonne,NJ,1,Quest Explorers,Open Class,59.7,2002
+07/21,Midlands,TX,1,Revolution,Open Class,69.25,2002
+07/21,San Diego,CA,1,Renegades,Open Class,67.45,2002
+07/21,Bayonne,NJ,2,Phoenix Kidets,Open Class,57.5,2002
+07/22,Baton Rouge,LA,1,Cavaliers,Open Class,92.55,2002
+07/22,Wichita Falls,TX,1,Blue Devils,Open Class,90.9,2002
+07/23,Pascagoula,MS,1,Cadets,Open Class,91.65,2002
+07/23,Wichita,KS,1,Blue Devils,Open Class,90.7,2002
+07/22,Baton Rouge,LA,2,Cadets,Open Class,91.25,2002
+07/22,Wichita Falls,TX,2,Vanguard,Open Class,89.95,2002
+07/23,Pascagoula,MS,2,Glassmen,Open Class,86.9,2002
+07/23,Wichita,KS,2,Boston Crusaders,Open Class,86.55,2002
+07/22,Baton Rouge,LA,3,Glassmen,Open Class,86.0,2002
+07/22,Wichita Falls,TX,3,Boston Crusaders,Open Class,85.65,2002
+07/23,Pascagoula,MS,3,Bluecoats,Open Class,85.45,2002
+07/23,Wichita,KS,3,Crossmen,Open Class,85.5,2002
+07/22,Baton Rouge,LA,4,Bluecoats,Open Class,85.5,2002
+07/22,Wichita Falls,TX,4,Crossmen,Open Class,85.65,2002
+07/23,Pascagoula,MS,4,Spirit,Open Class,82.1,2002
+07/23,Wichita,KS,4,Colts,Open Class,81.65,2002
+07/22,Baton Rouge,LA,5,Spirit,Open Class,82.05,2002
+07/22,Wichita Falls,TX,5,Blue Knights,Open Class,80.35,2002
+07/23,Pascagoula,MS,5,Carolina Crown,Open Class,80.15,2002
+07/23,Wichita,KS,5,Seattle Cascades,Open Class,81.1,2002
+07/22,Baton Rouge,LA,6,Carolina Crown,Open Class,80.95,2002
+07/22,Wichita Falls,TX,6,Colts,Open Class,80.25,2002
+07/23,Pascagoula,MS,6,Troopers,Open Class,69.7,2002
+07/23,Wichita,KS,6,Southwind,Open Class,72.35,2002
+07/22,Baton Rouge,LA,7,Madison Scouts,Open Class,80.75,2002
+07/22,Wichita Falls,TX,7,Pioneer,Open Class,69.0,2002
+07/23,Wichita,KS,7,Kiwanis Kavaliers,Open Class,71.95,2002
+07/22,Baton Rouge,LA,8,Troopers,Open Class,69.1,2002
+07/23,Pascagoula,MS,1,Americanos,Open Class,70.4,2002
+07/22,Baton Rouge,LA,1,Americanos,Open Class,71.25,2002
+07/24,Kennesaw,GA,1,Cavaliers,Open Class,93.25,2002
+07/25,Evansville,IN,1,Boston Crusaders,Open Class,87.5,2002
+07/26,Murfreesboro,TN,1,Cavaliers,Open Class,94.85,2002
+07/26,DeKalb,IL,1,Magic of Orlando,Open Class,90.65,2002
+07/24,Kennesaw,GA,2,Bluecoats,Open Class,86.2,2002
+07/25,Evansville,IN,2,Spirit,Open Class,83.4,2002
+07/26,Murfreesboro,TN,2,Cadets,Open Class,92.65,2002
+07/26,DeKalb,IL,2,Mandarins,Open Class,87.2,2002
+07/24,Kennesaw,GA,3,Carolina Crown,Open Class,81.75,2002
+07/25,Evansville,IN,3,Carolina crown,Open Class,82.4,2002
+07/26,Murfreesboro,TN,3,Blue Devils,Open Class,92.05,2002
+07/26,DeKalb,IL,3,Capital Regiment,Open Class,84.4,2002
+07/24,Kennesaw,GA,4,Spirit,Open Class,81.0,2002
+07/25,Evansville,IN,4,Madison Scouts,Open Class,81.7,2002
+07/26,Murfreesboro,TN,4,Vanguard,Open Class,91.95,2002
+07/26,DeKalb,IL,4,Vanguard Cadets,Open Class,83.85,2002
+07/24,Kennesaw,GA,5,Madison Scouts,Open Class,79.9,2002
+07/25,Evansville,IN,5,Colts,Open Class,80.2,2002
+07/26,Murfreesboro,TN,5,Phantom Regiment,Open Class,88.0,2002
+07/26,DeKalb,IL,5,Allegiance Elite,Open Class,79.15,2002
+07/24,Kennesaw,GA,6,Troopers,Open Class,68.8,2002
+07/25,Evansville,IN,6,Southwind,Open Class,74.45,2002
+07/26,Murfreesboro,TN,6,Glassmen,Open Class,87.95,2002
+07/26,DeKalb,IL,6,Capital Sound,Open Class,76.65,2002
+07/25,Evansville,IN,7,Kiwanis Kavaliers,Open Class,70.75,2002
+07/26,Murfreesboro,TN,7,Bluecoats,Open Class,86.05,2002
+07/26,DeKalb,IL,7,Impulse,Open Class,75.35,2002
+07/25,Evansville,IN,8,Pioneer,Open Class,68.5,2002
+07/26,Murfreesboro,TN,8,Crossmen,Open Class,84.55,2002
+07/26,DeKalb,IL,1,Blue Stars,Open Class,79.0,2002
+07/26,DeKalb,IL,2,Revolution,Open Class,78.65,2002
+07/26,DeKalb,IL,3,Marion Glory Cadets,Open Class,76.9,2002
+07/26,DeKalb,IL,4,Americanos,Open Class,75.05,2002
+07/26,DeKalb,IL,5,Yamato,Open Class,73.15,2002
+07/26,DeKalb,IL,6,San Diego Alliance,Open Class,63.8,2002
+07/26,DeKalb,IL,7,Edmonton Strutters,Open Class,60.2,2002
+07/26,DeKalb,IL,8,Bandettes,Open Class,59.3,2002
+07/26,DeKalb,IL,9,Colt Cadets,Open Class,43.65,2002
+07/26,DeKalb,IL,10,Joliet Kingsmen,Open Class,42.3,2002
+07/27,Ottawa,IL,1,Magic of Orlando,Open Class,93.15,2002
+07/27,Indianapolis,IN,1,Crossmen,Open Class,85.65,2002
+07/27,Indianapolis,IN,1,Cavaliers,Open Class,95.2,2002
+07/27,Somerdale,PA,1,Syracuse Brigadiers,Open Class,86.9,2002
+07/27,Ottawa,IL,2,Mandarins,Open Class,89.65,2002
+07/27,Indianapolis,IN,2,Seattle Cascades,Open Class,84.55,2002
+07/27,Indianapolis,IN,2,Cadets,Open Class,93.1,2002
+07/27,Somerdale,PA,2,Reading Buccaneers,Open Class,81.85,2002
+07/27,Ottawa,IL,3,Capital Regiment,Open Class,89.05,2002
+07/27,Indianapolis,IN,3,Spirit,Open Class,83.85,2002
+07/27,Indianapolis,IN,3,Blue Devils,Open Class,93.0,2002
+07/27,Somerdale,PA,3,Hawthorne Caballeros,Open Class,80.1,2002
+07/27,Ottawa,IL,4,Vanguard Cadets,Open Class,86.9,2002
+07/27,Indianapolis,IN,4,Colts,Open Class,82.7,2002
+07/27,Indianapolis,IN,4,Vanguard,Open Class,92.1,2002
+07/27,Somerdale,PA,4,Bushwackers,Open Class,78.0,2002
+07/27,Indianapolis,IN,5,Carolina Crown,Open Class,81.95,2002
+07/27,Indianapolis,IN,5,Phantom Regiment,Open Class,88.95,2002
+07/27,Somerdale,PA,5,Connecticut Hurricanes,Open Class,77.95,2002
+07/27,Ottawa,IL,1,Revolution,Open Class,84.25,2002
+07/27,Indianapolis,IN,6,Blue Knights,Open Class,81.6,2002
+07/27,Indianapolis,IN,6,Glassmen,Open Class,88.2,2002
+07/27,Ottawa,IL,2,Blue Stars,Open Class,83.4,2002
+07/27,Indianapolis,IN,7,Madison Scouts,Open Class,81.35,2002
+07/27,Indianapolis,IN,7,Bluecoats,Open Class,87.85,2002
+07/27,Somerdale,PA,1,New York Skyliners,Open Class,68.85,2002
+07/27,Ottawa,IL,3,Marion Glory Cadets,Open Class,81.6,2002
+07/27,Indianapolis,IN,8,Kiwanis Kavaliers,Open Class,71.65,2002
+07/27,Indianapolis,IN,8,Boston Crusaders,Open Class,87.15,2002
+07/27,Somerdale,PA,2,Carolina Gold,Open Class,63.05,2002
+07/27,Ottawa,IL,4,Americanos,Open Class,80.45,2002
+07/27,Indianapolis,IN,9,Southwind,Open Class,71.55,2002
+07/27,Indianapolis,IN,9,Crossmen,Open Class,84.6,2002
+07/27,Indianapolis,IN,10,Troopers,Open Class,69.65,2002
+07/27,Indianapolis,IN,10,Spirit,Open Class,83.15,2002
+07/27,Indianapolis,IN,11,Pioneer,Open Class,67.45,2002
+07/27,Indianapolis,IN,11,Seattle Cascades,Open Class,83.1,2002
+07/27,Indianapolis,IN,12,Colts,Open Class,81.55,2002
+07/28,Rochester,NY,1,Empire Statesmen,Open Class,84.3,2002
+07/27,Wayne,NJ,1,Spartans,Open Class,87.8,2002
+07/27,Wayne,NJ,1,Spartans,Open Class,86.95,2002
+07/28,Des Plaines,IL,1,Cavaliers,Open Class,96.1,2002
+07/28,Rochester,NY,2,Rochester Crusaders,Open Class,81.1,2002
+07/27,Wayne,NJ,2,East Coast Jazz,Open Class,85.7,2002
+07/27,Wayne,NJ,2,East Coast Jazz,Open Class,84.6,2002
+07/28,Des Plaines,IL,2,Vanguard,Open Class,92.8,2002
+07/28,Rochester,NY,3,Kingston Grenadiers,Open Class,77.7,2002
+07/27,Wayne,NJ,3,Patriots,Open Class,85.15,2002
+07/27,Wayne,NJ,3,Patriots,Open Class,84.2,2002
+07/28,Des Plaines,IL,3,Phantom Regiment,Open Class,89.55,2002
+07/27,Wayne,NJ,4,Jersey Surf,Open Class,83.1,2002
+07/28,Des Plaines,IL,4,Colts,Open Class,83.65,2002
+07/28,Rochester,NY,1,Nightstorm,Open Class,65.85,2002
+07/27,Wayne,NJ,1,Taipei Yuehfu,Open Class,80.4,2002
+07/28,Des Plaines,IL,5,Blue Knights,Open Class,82.5,2002
+07/27,Wayne,NJ,1,Taipei Yuehfu,Open Class,80.95,2002
+07/27,Wayne,NJ,2,Raiders,Open Class,78.8,2002
+07/28,Des Plaines,IL,6,Troopers,Open Class,70.5,2002
+07/27,Wayne,NJ,2,Raiders,Open Class,77.9,2002
+07/27,Wayne,NJ,3,Lehigh Valley Knights,Open Class,75.7,2002
+07/28,Des Plaines,IL,7,Pioneer,Open Class,69.65,2002
+07/27,Wayne,NJ,3,Scenic City,Open Class,76.85,2002
+07/27,Wayne,NJ,4,Scenic City,Open Class,74.25,2002
+07/27,Wayne,NJ,4,Lehigh Valley Knights,Open Class,73.7,2002
+07/27,Wayne,NJ,5,Phoenix,Open Class,71.75,2002
+07/28,Des Plaines,IL,1,Mandarins,Open Class,88.45,2002
+07/27,Wayne,NJ,5,Phoenix,Open Class,73.55,2002
+07/27,Wayne,NJ,6,Cadets of NYC,Open Class,70.3,2002
+07/27,Wayne,NJ,6,Quebec Alliance,Open Class,71.2,2002
+07/27,Wayne,NJ,7,Quebec Alliance,Open Class,68.05,2002
+07/27,Wayne,NJ,7,Cadets of NYC,Open Class,69.9,2002
+07/27,Wayne,NJ,8,Les Stentors,Open Class,64.95,2002
+07/27,Wayne,NJ,8,Les Stentors,Open Class,69.25,2002
+07/27,Wayne,NJ,9,Racine Scouts,Open Class,58.9,2002
+07/27,Wayne,NJ,10,Targets,Open Class,58.75,2002
+07/27,Wayne,NJ,11,Spirit of Newark,Open Class,52.8,2002
+07/28,Centerville,OH,1,Blue Devils,Open Class,93.0,2002
+07/28,Rochester,NY,1,Spartans,Open Class,86.3,2002
+07/28,Knox,PA,1,Vanguard Cadets,Open Class,85.2,2002
+07/29,Ankeny,IA,1,Vanguard,Open Class,93.35,2002
+07/28,Centerville,OH,2,Glassmen,Open Class,89.2,2002
+07/28,Rochester,NY,2,Patriots,Open Class,82.65,2002
+07/28,Knox,PA,2,East Coast Jazz,Open Class,82.15,2002
+07/29,Ankeny,IA,2,Colts,Open Class,85.25,2002
+07/28,Centerville,OH,3,Boston Crusaders,Open Class,88.55,2002
+07/28,Rochester,NY,3,Allegiance Elite,Open Class,78.15,2002
+07/28,Knox,PA,3,Jersey Surf,Open Class,78.65,2002
+07/29,Ankeny,IA,3,Blue Knights,Open Class,83.85,2002
+07/28,Centerville,OH,4,Crossmen,Open Class,86.6,2002
+07/28,Rochester,NY,4,Lehigh Valley Knights,Open Class,75.55,2002
+07/28,Knox,PA,4,Teal Sound,Open Class,64.35,2002
+07/29,Ankeny,IA,4,Southwind,Open Class,76.1,2002
+07/28,Centerville,OH,5,Seattle Cascades,Open Class,83.6,2002
+07/28,Rochester,NY,5,Les Stentors,Open Class,68.25,2002
+07/28,Knox,PA,5,Quebec Alliance,Open Class,63.15,2002
+07/29,Ankeny,IA,5,Troopers,Open Class,71.05,2002
+07/28,Centerville,OH,6,Madison Scouts,Open Class,82.7,2002
+07/28,Rochester,NY,6,Blue Saints,Open Class,47.9,2002
+07/28,Knox,PA,6,Dutch Boy,Open Class,61.7,2002
+07/29,Ankeny,IA,6,Pioneer,Open Class,71.0,2002
+07/28,Centerville,OH,1,Capital Regiment,Open Class,86.4,2002
+07/29,Ankeny,IA,1,Impulse,Open Class,74.55,2002
+07/28,Centerville,OH,2,Marion Glory Cadets,Open Class,72.0,2002
+07/29,Centerville,OH,1,Vanguard Cadets,Open Class,87.25,2002
+07/29,Pittsburgh,PA,1,Blue Devils,Open Class,93.25,2002
+07/29,Sevierville,TN,1,Cadets,Open Class,94.05,2002
+07/30,Stillwater,MN,1,Cavaliers,Open Class,96.05,2002
+07/29,Centerville,OH,2,Mandarins,Open Class,86.15,2002
+07/29,Pittsburgh,PA,2,Boston Crusaders,Open Class,88.95,2002
+07/29,Sevierville,TN,2,Bluecoats,Open Class,88.7,2002
+07/30,Stillwater,MN,2,Vanguard,Open Class,92.9,2002
+07/29,Centerville,OH,3,Capital Regiment,Open Class,85.1,2002
+07/29,Pittsburgh,PA,3,Seattle Cascades,Open Class,84.2,2002
+07/29,Sevierville,TN,3,Spirit,Open Class,83.35,2002
+07/30,Stillwater,MN,3,Colts,Open Class,84.6,2002
+07/29,Centerville,OH,4,Spartans,Open Class,81.8,2002
+07/29,Pittsburgh,PA,4,Kiwanis Kavaliers,Open Class,74.3,2002
+07/29,Sevierville,TN,4,Madison Scouts,Open Class,81.85,2002
+07/30,Stillwater,MN,4,Southwind,Open Class,77.0,2002
+07/29,Centerville,OH,5,East Coast Jazz,Open Class,81.35,2002
+07/29,Sevierville,TN,5,Carolina Crown,Open Class,80.75,2002
+07/30,Stillwater,MN,5,Pioneer,Open Class,71.85,2002
+07/29,Centerville,OH,6,Patriots,Open Class,84.7,2002
+07/29,Pittsburgh,PA,1,Magic of Orlando,Open Class,87.35,2002
+07/30,Stillwater,MN,6,Troopers,Open Class,71.05,2002
+07/29,Centerville,OH,7,Capital Sound,Open Class,80.6,2002
+07/29,Pittsburgh,PA,2,Taipei Yuehfu,Open Class,75.95,2002
+07/29,Centerville,OH,8,Jersey Surf,Open Class,79.85,2002
+07/29,Centerville,OH,9,Allegiance Elite,Open Class,76.85,2002
+07/29,Centerville,OH,1,Revolution,Open Class,80.55,2002
+07/29,Centerville,OH,2,Americanos,Open Class,78.65,2002
+07/29,Centerville,OH,3,Yamato,Open Class,75.75,2002
+07/29,Centerville,OH,4,Blue Stars,Open Class,74.8,2002
+07/29,Centerville,OH,5,Marion Glory Cadets,Open Class,74.1,2002
+07/29,Centerville,OH,6,Lehigh Valley Knights,Open Class,70.2,2002
+07/29,Centerville,OH,7,Taipei Yuehfu,Open Class,70.15,2002
+07/29,Centerville,OH,8,Scenic City,Open Class,69.35,2002
+07/29,Centerville,OH,9,Raiders,Open Class,68.85,2002
+07/29,Centerville,OH,10,Teal Sound,Open Class,68.4,2002
+07/29,Centerville,OH,11,San Diego Alliance,Open Class,68.3,2002
+07/29,Centerville,OH,12,Phoenix,Open Class,64.1,2002
+07/29,Centerville,OH,13,Lake Erie Regiment,Open Class,62.15,2002
+07/29,Centerville,OH,14,Quebec Alliance,Open Class,61.9,2002
+07/29,Centerville,OH,15,Les Stentors,Open Class,61.2,2002
+07/29,Centerville,OH,16,Cadets of NYC,Open Class,60.85,2002
+07/29,Centerville,OH,17,Bandettes,Open Class,60.45,2002
+07/29,Centerville,OH,18,Edmonton Strutters,Open Class,58.8,2002
+07/29,Centerville,OH,19,Dutch Boy,Open Class,56.8,2002
+07/29,Centerville,OH,20,Quest,Open Class,52.05,2002
+07/29,Centerville,OH,21,Saint John's,Open Class,51.4,2002
+07/29,Centerville,OH,22,Spirit of Newark,Open Class,50.8,2002
+07/29,Centerville,OH,23,Racine Scouts,Open Class,50.05,2002
+07/29,Centerville,OH,24,Decorah Kilties,Open Class,44.65,2002
+07/29,Centerville,OH,25,Joliet Kingsmen,Open Class,43.5,2002
+07/30,Charlotte,NC,1,Cadets,Open Class,95.0,2002
+07/30,Erie,PA,1,Glassmen,Open Class,89.35,2002
+07/31,Rome,NY,1,Boston Crusaders,Open Class,90.3,2002
+07/31,Salem,VA,1,Cadets,Open Class,96.15,2002
+07/30,Charlotte,NC,2,Bluecoats,Open Class,89.35,2002
+07/30,Erie,PA,2,Boston Crusaders,Open Class,88.75,2002
+07/31,Rome,NY,2,Glassmen,Open Class,89.2,2002
+07/31,Salem,VA,2,Bluecoats,Open Class,90.9,2002
+07/30,Charlotte,NC,3,Spirit,Open Class,84.15,2002
+07/30,Erie,PA,3,Crossmen,Open Class,86.3,2002
+07/31,Rome,NY,3,Crossmen,Open Class,87.4,2002
+07/31,Salem,VA,3,Spirit,Open Class,84.4,2002
+07/30,Charlotte,NC,4,Carolina Crown,Open Class,83.15,2002
+07/30,Erie,PA,4,Seattle Cascades,Open Class,83.25,2002
+07/31,Rome,NY,4,Seattle Cascades,Open Class,85.35,2002
+07/31,Salem,VA,4,Carolina Crown,Open Class,83.8,2002
+07/30,Charlotte,NC,5,Madison Scouts,Open Class,82.45,2002
+07/30,Erie,PA,5,Kiwanis Kavaliers,Open Class,75.7,2002
+07/31,Rome,NY,5,Kiwanis Kavaliers,Open Class,75.7,2002
+07/31,Salem,VA,5,Madison Scouts,Open Class,82.95,2002
+07/30,Erie,PA,1,Magic of Orlando,Open Class,90.2,2002
+07/31,Rome,NY,1,Magic of Orlando,Open Class,91.65,2002
+07/30,Erie,PA,2,Spartans,Open Class,84.4,2002
+07/31,Rome,NY,2,Patriots,Open Class,84.55,2002
+07/30,Erie,PA,3,Blue Stars,Open Class,78.35,2002
+07/31,Rome,NY,3,East Coast Jazz,Open Class,81.65,2002
+07/30,Erie,PA,4,Lake Erie Regiment,Open Class,64.7,2002
+07/31,Kitchner,Ontario,1,Capital Sound,Open Class,80.45,2002
+07/31,Kitchner,Ontario,1,Capital Sound,Open Class,82.9,2002
+07/31,Sioux Falls,SD,1,Cavaliers,Open Class,95.15,2002
+07/31,Kitchner,Ontario,2,Impulse,Open Class,77.4,2002
+07/31,Kitchner,Ontario,2,Allegiance Elite,Open Class,81.45,2002
+07/31,Sioux Falls,SD,2,Phantom Regiment,Open Class,88.75,2002
+07/31,Kitchner,Ontario,3,Allegiance Elite,Open Class,75.8,2002
+07/31,Kitchner,Ontario,3,Impulse,Open Class,79.6,2002
+07/31,Sioux Falls,SD,3,Blue Knights,Open Class,84.45,2002
+07/31,Sioux Falls,SD,4,Southwind,Open Class,78.95,2002
+07/31,Kitchner,Ontario,1,Revolution,Open Class,81.25,2002
+07/31,Kitchner,Ontario,1,Revolution,Open Class,79.9,2002
+07/31,Sioux Falls,SD,5,Pioneer,Open Class,73.55,2002
+07/31,Kitchner,Ontario,2,Yamato,Open Class,79.9,2002
+07/31,Kitchner,Ontario,2,Yamato,Open Class,78.45,2002
+07/31,Sioux Falls,SD,6,Troopers,Open Class,73.2,2002
+07/31,Kitchner,Ontario,3,Marion Glory Cadets,Open Class,79.15,2002
+07/31,Kitchner,Ontario,3,Marion Glory Cadets,Open Class,74.7,2002
+07/31,Kitchner,Ontario,4,Raiders,Open Class,73.35,2002
+07/31,Kitchner,Ontario,4,Lehigh Valley Knights,Open Class,73.35,2002
+07/31,Kitchner,Ontario,5,Lehigh Valley Knights,Open Class,73.25,2002
+07/31,Kitchner,Ontario,5,Raiders,Open Class,72.75,2002
+07/31,Kitchner,Ontario,6,Scenic City,Open Class,72.6,2002
+07/31,Kitchner,Ontario,6,Scenic City,Open Class,68.6,2002
+07/31,Kitchner,Ontario,7,Teal Sound,Open Class,71.55,2002
+07/31,Kitchner,Ontario,7,Teal Sound,Open Class,65.7,2002
+07/31,Kitchner,Ontario,8,San Diego Alliance,Open Class,69.95,2002
+07/31,Kitchner,Ontario,9,Cadets of NYC,Open Class,69.25,2002
+07/31,Kitchner,Ontario,10,Quebec Alliance,Open Class,68.1,2002
+07/31,Kitchner,Ontario,11,Phoenix,Open Class,66.8,2002
+07/31,Kitchner,Ontario,12,Bandettes,Open Class,66.45,2002
+07/31,Kitchner,Ontario,13,Dutch Boy,Open Class,65.3,2002
+07/31,Kitchner,Ontario,14,Les Stentors,Open Class,62.75,2002
+07/31,Kitchner,Ontario,15,Edmonton Strutters,Open Class,58.4,2002
+07/31,Kitchner,Ontario,16,Racine Scouts,Open Class,57.05,2002
+07/31,Kitchner,Ontario,17,Saint John's,Open Class,51.55,2002
+07/31,Kitchner,Ontario,18,Decorah Kilties,Open Class,45.4,2002
+07/31,Kitchner,Ontario,19,Joliet Kingsmen,Open Class,41.7,2002
+07/31,Kitchner,Ontario,20,Blue Saints,Open Class,36.7,2002
+08/01,Lynn,MA,1,Blue Devils,World Class,94.5,2002
+08/01,Greenville,MI,1,Mandarins,World Class,89.1,2002
+08/01,Sarina,Ontario,1,Esperanza,World Class,87.0,2002
+08/02,Casper,WY,1,Phantom Regiment,World Class,89.5,2002
+08/01,Lynn,MA,2,Boston Crusaders,World Class,91.15,2002
+08/01,Greenville,MI,2,Vanguard Cadets,World Class,88.5,2002
+08/01,Sarina,Ontario,2,Capital Sound,World Class,84.1,2002
+08/02,Casper,WY,2,Blue Knights,World Class,86.05,2002
+08/01,Lynn,MA,3,Glassmen,World Class,89.6,2002
+08/01,Greenville,MI,3,Capital Regiment,World Class,87.75,2002
+08/01,Sarina,Ontario,3,Allegiance Elite,World Class,81.3,2002
+08/02,Casper,WY,3,Colts,World Class,83.95,2002
+08/01,Lynn,MA,4,Crossmen,World Class,88.0,2002
+08/01,Greenville,MI,4,Spartans,World Class,86.4,2002
+08/01,Sarina,Ontario,4,Yamato,World Class,80.65,2002
+08/02,Casper,WY,4,Southwind,World Class,77.4,2002
+08/01,Greenville,MI,4,Americanos,World Class,80.2,2002
+08/01,Sarina,Ontario,5,Lehigh Valley Knights,World Class,75.4,2002
+08/02,Casper,WY,5,Troopers,World Class,72.9,2002
+08/01,Lynn,MA,1,East Coast Jazz,World Class,81.85,2002
+08/01,Greenville,MI,5,Marion Glory Cadets,World Class,78.1,2002
+08/01,Sarina,Ontario,6,Teal Sound,World Class,71.65,2002
+08/01,Greenville,MI,6,Raiders,World Class,69.4,2002
+08/01,Sarina,Ontario,7,Dutch Boy,World Class,66.65,2002
+08/01,Greenville,MI,7,Quebec Alliance,World Class,66.4,2002
+08/01,Sarina,Ontario,8,Bandettes,World Class,65.9,2002
+08/01,Sarina,Ontario,9,Les Stentors,World Class,65.3,2002
+08/02,West Chester,PA,1,Cadets,World Class,96.4,2002
+08/02,Grand Haven,MI,1,Magic of Orlando,World Class,94.55,2002
+08/03,Grand Haven,MI,1,Magic of Orlando,World Class,95.65,2002
+08/03,Butler,PA,1,Syracuse Brigadiers,World Class,88.5,2002
+08/02,West Chester,PA,2,Blue Devils,World Class,96.2,2002
+08/02,Grand Haven,MI,2,Capital Regiment,World Class,90.65,2002
+08/03,Grand Haven,MI,2,Mandarins,World Class,92.6,2002
+08/03,Butler,PA,2,Empire Statesmen,World Class,86.15,2002
+08/02,West Chester,PA,3,Boston Crusaders,World Class,91.75,2002
+08/02,Grand Haven,MI,3,Mandarins,World Class,90.4,2002
+08/03,Grand Haven,MI,3,Capital Regiment,World Class,92.45,2002
+08/03,Butler,PA,3,Rochester Crusaders,World Class,81.95,2002
+08/02,West Chester,PA,4,Crossmen,World Class,89.75,2002
+08/02,Grand Haven,MI,4,Vanguard Cadets,World Class,88.9,2002
+08/03,Grand Haven,MI,4,Vanguard Cadets,World Class,90.05,2002
+08/03,Butler,PA,4,Kingston Grenadiers,World Class,79.7,2002
+08/02,West Chester,PA,5,Carolina Crown,World Class,83.8,2002
+08/02,Grand Haven,MI,5,Spartans,World Class,87.3,2002
+08/03,Grand Haven,MI,5,Spartans,World Class,89.85,2002
+08/02,Grand Haven,MI,6,Capital Sound,World Class,83.75,2002
+08/03,Butler,PA,1,Nightstorm,World Class,68.45,2002
+08/02,West Chester,PA,1,Jersey Surf,World Class,80.25,2002
+08/02,Grand Haven,MI,7,Esperanza,World Class,83.55,2002
+08/03,Grand Haven,MI,1,Revolution,World Class,87.4,2002
+08/03,Butler,PA,2,Heat Wave (DCA),World Class,67.2,2002
+08/02,Grand Haven,MI,8,Patriots,World Class,82.6,2002
+08/03,Grand Haven,MI,2,Blue Stars,World Class,86.45,2002
+08/02,Grand Haven,MI,9,Allegiance Elite,World Class,80.95,2002
+08/03,Grand Haven,MI,3,Taipei Yuehfu,World Class,84.65,2002
+08/02,Grand Haven,MI,10,Impulse,World Class,80.55,2002
+08/03,Grand Haven,MI,4,Marion Glory Cadets,World Class,83.95,2002
+08/03,Grand Haven,MI,5,Americanos,World Class,83.6,2002
+08/02,Grand Haven,MI,1,Revolution,World Class,86.0,2002
+08/03,Grand Haven,MI,6,Yamato,World Class,82.85,2002
+08/02,Grand Haven,MI,2,Blue Stars,World Class,83.8,2002
+08/03,Grand Haven,MI,7,Lehigh Valley Knights,World Class,79.45,2002
+08/02,Grand Haven,MI,3,Taipei Yuehfu,World Class,83.35,2002
+08/03,Grand Haven,MI,8,Raiders,World Class,76.85,2002
+08/02,Grand Haven,MI,4,Americanos,World Class,82.2,2002
+08/02,Grand Haven,MI,5,Yamato,World Class,81.85,2002
+08/02,Grand Haven,MI,6,Marion Glory Cadets,World Class,78.85,2002
+08/02,Grand Haven,MI,7,Lehigh Valley Knights,World Class,77.85,2002
+08/02,Grand Haven,MI,8,Raiders,World Class,76.9,2002
+08/02,Grand Haven,MI,9,Scenic City,World Class,73.5,2002
+08/02,Grand Haven,MI,10,Cadets of NYC,World Class,72.5,2002
+08/02,Grand Haven,MI,11,Teal Sound,World Class,72.0,2002
+08/02,Grand Haven,MI,12,Phoenix,World Class,69.55,2002
+08/02,Grand Haven,MI,13,Bandettes,World Class,69.15,2002
+08/02,Grand Haven,MI,14,Quebec Alliance,World Class,69.05,2002
+08/02,Grand Haven,MI,15,Lake Erie Regiment,World Class,66.55,2002
+08/02,Grand Haven,MI,16,San Diego Alliance,World Class,66.3,2002
+08/02,Grand Haven,MI,17,Dutch Boy,World Class,66.2,2002
+08/02,Grand Haven,MI,18,Edmonton Strutters,World Class,64.15,2002
+08/02,Grand Haven,MI,19,Les Stentors,World Class,62.7,2002
+08/02,Grand Haven,MI,20,Dimensions,World Class,56.7,2002
+08/02,Grand Haven,MI,21,Spirit of Newark,World Class,54.7,2002
+08/02,Grand Haven,MI,22,Racine Scouts,World Class,53.05,2002
+08/02,Grand Haven,MI,23,Saint John's,World Class,51.9,2002
+08/02,Grand Haven,MI,24,Quest,World Class,48.55,2002
+08/02,Grand Haven,MI,25,Decorah Kilties,World Class,45.5,2002
+08/02,Grand Haven,MI,26,Joliet Kingsmen,World Class,43.65,2002
+08/02,Grand Haven,MI,27,Blue Saints,World Class,34.55,2002
+08/03,Philadelphia,PA,1,Cadets,World Class,95.75,2002
+08/03,Denver,CO,1,Cavaliers,Open Class,96.2,2002
+08/03,East Providence,RI,1,Hawthorne Caballeros,Open Class,84.65,2002
+08/04,Jamestown,NY,1,Empire Statesmen,Open Class,87.85,2002
+08/03,Philadelphia,PA,2,Blue Devils,World Class,95.7,2002
+08/03,Denver,CO,2,Vanguard,Open Class,92.65,2002
+08/03,East Providence,RI,2,Bushwackers,Open Class,82.3,2002
+08/04,Jamestown,NY,2,Rochester Crusaders,Open Class,83.15,2002
+08/03,Philadelphia,PA,3,Boston Crusaders,World Class,90.95,2002
+08/03,Denver,CO,3,Phantom Regiment,Open Class,89.95,2002
+08/03,East Providence,RI,3,Connecticut Hurricanes,Open Class,79.15,2002
+08/04,Jamestown,NY,3,Kingston Grenadiers,Open Class,80.35,2002
+08/03,Philadelphia,PA,4,Glassmen,World Class,90.1,2002
+08/03,Denver,CO,4,Blue Knights,Open Class,87.5,2002
+08/03,East Providence,RI,4,Jubal,Open Class,77.3,2002
+08/03,Philadelphia,PA,5,Bluecoats,World Class,89.75,2002
+08/03,Denver,CO,5,Colts,Open Class,84.7,2002
+08/04,Jamestown,NY,1,Nightstorm,Open Class,69.05,2002
+08/03,Philadelphia,PA,6,Crossmen,World Class,88.85,2002
+08/03,Denver,CO,6,Southwind,Open Class,78.85,2002
+08/03,East Providence,RI,1,New York Skyliners,Open Class,72.5,2002
+08/04,Jamestown,NY,2,Heat Wave (DCA),Open Class,67.2,2002
+08/03,Philadelphia,PA,7,Spirit,World Class,86.5,2002
+08/03,Denver,CO,7,Troopers,Open Class,75.05,2002
+08/03,Philadelphia,PA,8,Seattle Cascades,World Class,85.85,2002
+08/03,Denver,CO,8,Pioneer,Open Class,73.9,2002
+08/03,Philadelphia,PA,9,Carolina Crown,World Class,84.35,2002
+08/03,Philadelphia,PA,10,Madison Scouts,World Class,82.35,2002
+08/03,Philadelphia,PA,11,Kiwanis Kavaliers,World Class,74.2,2002
+08/04,Canton,OH,1,Blue Devils,World Class,95.6,2002
+08/04,Menasha,WI,1,Vanguard Cadets,Open Class,91.05,2002
+08/04,Decorah,IA,1,Blue Stars,Open Class,82.8,2002
+08/05,Omaha,NE,1,Vanguard,Open Class,94.65,2002
+08/04,Canton,OH,2,Glassmen,World Class,91.7,2002
+08/04,Menasha,WI,2,Spartans,Open Class,89.95,2002
+08/04,Decorah,IA,2,Allegiance Elite,Open Class,81.35,2002
+08/05,Omaha,NE,2,Phantom Regiment,Open Class,92.3,2002
+08/04,Canton,OH,3,Boston Crusaders,World Class,91.0,2002
+08/04,Menasha,WI,3,Patriots,Open Class,87.65,2002
+08/04,Decorah,IA,3,Impulse,Open Class,79.85,2002
+08/05,Omaha,NE,3,Blue Knights,Open Class,87.55,2002
+08/04,Canton,OH,4,Bluecoats,World Class,90.0,2002
+08/04,Menasha,WI,4,East Coast Jazz,Open Class,85.85,2002
+08/04,Decorah,IA,4,Teal Sound,Open Class,69.75,2002
+08/05,Omaha,NE,4,Colts,Open Class,86.45,2002
+08/04,Canton,OH,5,Seattle Cascades,World Class,84.85,2002
+08/04,Menasha,WI,5,Americanos,Open Class,83.9,2002
+08/04,Decorah,IA,5,Les Stentors,Open Class,63.85,2002
+08/05,Omaha,NE,5,Southwind,Open Class,79.85,2002
+08/04,Canton,OH,6,Carolina Crown,World Class,83.65,2002
+08/04,Menasha,WI,6,Marion Glory Cadets,Open Class,81.0,2002
+08/04,Decorah,IA,6,Decorah Kilties,Open Class,44.3,2002
+08/05,Omaha,NE,6,Troopers,Open Class,75.3,2002
+08/04,Canton,OH,7,Madison Scouts,World Class,82.9,2002
+08/04,Menasha,WI,7,Quebec Alliance,Open Class,71.05,2002
+08/04,Canton,OH,8,Kiwanis Kavaliers,World Class,73.8,2002
+08/04,Menasha,WI,8,Lake Erie Regiment,Open Class,70.95,2002
+08/05,Madison,WI,1,Revolution,World Class,89.05,2002
+08/05,Madison,WI,1,Magic of Orlando,Open Class,97.35,2002
+08/06,Madison,WI,1,Magic of Orlando,Open Class,98.0,2002
+08/07,Madison,WI,1,Magic of Orlando,Open Class,99.05,2002
+08/05,Madison,WI,2,Blue Stars,World Class,86.75,2002
+08/05,Madison,WI,2,Capital Regiment,Open Class,94.8,2002
+08/06,Madison,WI,2,Capital Regiment,Open Class,95.6,2002
+08/07,Madison,WI,2,Capital Regiment,Open Class,96.5,2002
+08/05,Madison,WI,3,Taipei Yuehfu,World Class,85.85,2002
+08/05,Madison,WI,3,Mandarins,Open Class,94.3,2002
+08/06,Madison,WI,2,Mandarins,Open Class,95.6,2002
+08/07,Madison,WI,3,Mandarins,Open Class,95.8,2002
+08/05,Madison,WI,4,Yamato,World Class,84.7,2002
+08/05,Madison,WI,4,Vanguard Cadets,Open Class,92.75,2002
+08/06,Madison,WI,4,Vanguard Cadets,Open Class,93.8,2002
+08/07,Madison,WI,4,Vanguard Cadets,Open Class,94.35,2002
+08/05,Madison,WI,5,Marion Glory Cadets,World Class,84.15,2002
+08/05,Madison,WI,5,Spartans,Open Class,92.1,2002
+08/06,Madison,WI,5,Spartans,Open Class,93.35,2002
+08/07,Madison,WI,5,Spartans,Open Class,93.9,2002
+08/05,Madison,WI,6,Americanos,World Class,82.8,2002
+08/05,Madison,WI,6,Esperanza,Open Class,89.2,2002
+08/06,Madison,WI,6,Esperanza,Open Class,91.5,2002
+08/07,Madison,WI,6,Esperanza,Open Class,92.2,2002
+08/05,Madison,WI,7,Lehigh Valley Knights,World Class,80.15,2002
+08/05,Madison,WI,7,Patriots,Open Class,88.8,2002
+08/06,Madison,WI,7,Patriots,Open Class,88.75,2002
+08/07,Madison,WI,7,Patriots,Open Class,89.25,2002
+08/05,Madison,WI,8,Raiders,World Class,78.35,2002
+08/05,Madison,WI,8,East Coast Jazz,Open Class,87.5,2002
+08/06,Madison,WI,8,East Coast Jazz,Open Class,87.8,2002
+08/07,Madison,WI,8,East Coast Jazz,Open Class,88.0,2002
+08/05,Madison,WI,9,Cadets of NYC,World Class,77.9,2002
+08/05,Madison,WI,9,Jersey Surf,Open Class,86.2,2002
+08/06,Madison,WI,9,Jersey Surf,Open Class,87.65,2002
+08/07,Madison,WI,9,Jersey Surf,Open Class,87.75,2002
+08/05,Madison,WI,10,Scenic City,World Class,76.85,2002
+08/05,Madison,WI,10,Capital Sound,Open Class,84.5,2002
+08/06,Madison,WI,10,Capital Sound,Open Class,85.1,2002
+08/05,Madison,WI,11,Phoenix-NJ,World Class,75.95,2002
+08/05,Madison,WI,11,Allegiance Elite,Open Class,82.5,2002
+08/07,Madison,WI,1,Revolution,Open Class,90.5,2002
+08/05,Madison,WI,12,Quebec Alliance,World Class,74.75,2002
+08/05,Madison,WI,12,Impulse,Open Class,81.05,2002
+08/06,Madison,WI,1,Revolution,Open Class,89.55,2002
+08/07,Madison,WI,2,Blue Stars,Open Class,89.85,2002
+08/05,Madison,WI,13,Teal Sound,World Class,73.5,2002
+08/06,Madison,WI,2,Blue Stars,Open Class,87.8,2002
+08/07,Madison,WI,3,Taipei Yuehfu,Open Class,85.3,2002
+08/05,Madison,WI,14,San Diego Alliance,World Class,72.6,2002
+08/06,Madison,WI,3,Taipei Yuehfu,Open Class,85.2,2002
+08/07,Madison,WI,4,Yamato,Open Class,83.85,2002
+08/05,Madison,WI,15,Dutch Boy,World Class,70.7,2002
+08/06,Madison,WI,4,Yamato,Open Class,85.05,2002
+08/05,Madison,WI,16,Lake Erie Regiment,World Class,70.4,2002
+08/06,Madison,WI,5,Americanos,Open Class,83.55,2002
+08/05,Madison,WI,17,Bandettes,World Class,70.1,2002
+08/06,Madison,WI,6,Marion Glory Cadets,Open Class,83.15,2002
+08/05,Madison,WI,18,Edmonton Strutters,World Class,68.5,2002
+08/06,Madison,WI,7,Lehigh Valley Knights,Open Class,78.95,2002
+08/05,Madison,WI,19,Les Stentors,World Class,67.4,2002
+08/06,Madison,WI,8,Raiders,Open Class,78.3,2002
+08/05,Madison,WI,20,Saint John's,World Class,59.2,2002
+08/05,Madison,WI,21,Springfield Targets,World Class,58.5,2002
+08/05,Madison,WI,22,Racine Scouts,World Class,57.75,2002
+08/05,Madison,WI,23,Spirit of Newark,World Class,57.4,2002
+08/05,Madison,WI,24,Quest,World Class,54.65,2002
+08/05,Madison,WI,25,Decorah Kilties,World Class,48.15,2002
+08/05,Madison,WI,26,Joliet Kingsmen,World Class,45.75,2002
+08/05,Madison,WI,27,Citations,World Class,40.6,2002
+08/05,Madison,WI,28,Blue Saints,World Class,38.15,2002
+08/08,Madison,WI,1,Cavaliers,World Class,98.7,2002
+08/09,Madison,WI,1,Cavaliers,Open Class,99.05,2002
+08/10,Madison,WI,1,Cavaliers,Open Class,99.15,2002
+08/08,Madison,WI,2,Cadets,World Class,96.95,2002
+08/09,Madison,WI,2,Blue Devils,Open Class,97.55,2002
+08/10,Madison,WI,2,Blue Devils,Open Class,97.3,2002
+08/08,Madison,WI,3,Blue Devils,World Class,96.9,2002
+08/09,Madison,WI,3,Cadets,Open Class,97.0,2002
+08/10,Madison,WI,3,Cadets,Open Class,96.75,2002
+08/08,Madison,WI,4,Vanguard,World Class,96.0,2002
+08/09,Madison,WI,4,Vanguard,Open Class,95.7,2002
+08/10,Madison,WI,4,Vanguard,Open Class,95.65,2002
+08/08,Madison,WI,5,Phantom Regiment,World Class,93.2,2002
+08/09,Madison,WI,5,Phantom Regiment,Open Class,92.8,2002
+08/10,Madison,WI,5,Phantom Regiment,Open Class,92.4,2002
+08/08,Madison,WI,6,Bluecoats,World Class,92.7,2002
+08/09,Madison,WI,6,Boston Crusaders,Open Class,92.45,2002
+08/10,Madison,WI,5,Boston Crusaders,Open Class,92.4,2002
+08/08,Madison,WI,7,Glassmen,World Class,92.65,2002
+08/09,Madison,WI,7,Bluecoats,Open Class,92.25,2002
+08/10,Madison,WI,7,Bluecoats,Open Class,91.5,2002
+08/08,Madison,WI,8,Boston Crusaders,World Class,91.95,2002
+08/09,Madison,WI,7,Glassmen,Open Class,92.25,2002
+08/10,Madison,WI,8,Glassmen,Open Class,91.0,2002
+08/08,Madison,WI,9,Crossmen,World Class,90.15,2002
+08/09,Madison,WI,9,Crossmen,Open Class,90.65,2002
+08/10,Madison,WI,9,Crossmen,Open Class,89.1,2002
+08/08,Madison,WI,10,Spirit,World Class,87.2,2002
+08/09,Madison,WI,10,Magic of Orlando,Open Class,87.1,2002
+08/10,Madison,WI,10,Spirit,Open Class,85.45,2002
+08/08,Madison,WI,11,Magic of Orlando,World Class,87.15,2002
+08/09,Madison,WI,11,Spirit,Open Class,86.75,2002
+08/10,Madison,WI,11,Magic of Orlando,Open Class,84.85,2002
+08/08,Madison,WI,12,Seattle Cascades,World Class,86.9,2002
+08/09,Madison,WI,12,Seattle Cascades,Open Class,85.95,2002
+08/10,Madison,WI,12,Seattle Cascades,Open Class,84.05,2002
+08/08,Madison,WI,13,Blue Knights,World Class,86.15,2002
+08/09,Madison,WI,13,Blue Knights,Open Class,85.5,2002
+08/08,Madison,WI,14,Madison Scouts,World Class,85.5,2002
+08/09,Madison,WI,14,Madison Scouts,Open Class,84.85,2002
+08/08,Madison,WI,15,Colts,World Class,85.25,2002
+08/09,Madison,WI,15,Colts,Open Class,83.9,2002
+08/08,Madison,WI,16,Carolina Crown,World Class,83.8,2002
+08/09,Madison,WI,16,Carolina Crown,Open Class,81.8,2002
+08/08,Madison,WI,17,Capital Regiment,World Class,79.3,2002
+08/09,Madison,WI,17,Capital Regiment,Open Class,77.35,2002
+08/08,Madison,WI,18,Southwind,World Class,79.25,2002
+08/08,Madison,WI,19,Mandarins,World Class,78.05,2002
+08/08,Madison,WI,20,Kiwanis Kavaliers,World Class,75.9,2002
+08/08,Madison,WI,21,Troopers,World Class,75.55,2002
+08/08,Madison,WI,22,Pioneer,World Class,72.35,2002
+08/10,Kingston,NY,1,Empire Statesmen,Open Class,91.35,2002
+08/16,Lachine,Quebec,1,Les Stentors,Open Class,94.5,2002
+08/17,Ville LaSalle,Quebec,1,Quebec Alliance,Open Class,91.75,2002
+08/17,Syracuse,NY,1,Syracuse Brigadiers,Open Class,93.9,2002
+08/10,Kingston,NY,2,Reading Buccaneers,Open Class,90.05,2002
+08/16,Lachine,Quebec,2,Quebec Alliance,Open Class,92.25,2002
+08/17,Ville LaSalle,Quebec,2,Les Stentors,Open Class,86.5,2002
+08/17,Syracuse,NY,2,Empire Statesmen,Open Class,91.9,2002
+08/10,Kingston,NY,3,Bushwackers,Open Class,86.05,2002
+08/17,Syracuse,NY,3,Reading Buccaneers,Open Class,91.1,2002
+08/10,Kingston,NY,4,Hawthorne Caballeros,Open Class,85.45,2002
+08/16,Lachine,Quebec,1,Releve Musicale,Open Class,75.25,2002
+08/17,Ville LaSalle,Quebec,1,Releve Musicale,Open Class,77.25,2002
+08/17,Syracuse,NY,4,Bushwackers,Open Class,87.0,2002
+08/10,Kingston,NY,5,Rochester Crusaders,Open Class,84.5,2002
+08/16,Lachine,Quebec,2,Renaissance,Open Class,68.75,2002
+08/17,Ville LaSalle,Quebec,2,Pers-Clairs,Open Class,58.0,2002
+08/17,Syracuse,NY,5,Hawthorne Caballeros,Open Class,86.5,2002
+08/10,Kingston,NY,6,Connecticut Hurricanes,Open Class,82.65,2002
+08/16,Lachine,Quebec,3,Pers-Clairs,Open Class,60.75,2002
+08/17,Syracuse,NY,6,Rochester Crusaders,Open Class,84.95,2002
+08/10,Kingston,NY,7,Kingston Grenadiers,Open Class,81.1,2002
+08/17,Syracuse,NY,7,Connecticut Hurricanes,Open Class,83.75,2002
+08/17,Syracuse,NY,8,Kingston Grenadiers,Open Class,81.45,2002
+08/10,Kingston,NY,8,New York Skyliners,Open Class,72.45,2002
+08/17,Syracuse,NY,9,Corpsvets,Open Class,76.65,2002
+08/17,Syracuse,NY,1,New York Skyliners,Open Class,73.0,2002
+08/24,Toms River,NJ,1,Empire Statesmen,Open Class,94.45,2002
+08/24,West Haven,CT,1,Syracuse Brigadiers,Open Class,95.7,2002
+08/24,Toms River,NJ,2,Reading Buccaneers,Open Class,93.2,2002
+08/24,West Haven,CT,2,Hawthorne Caballeros,Open Class,90.6,2002
+08/24,Toms River,NJ,3,Bushwackers,Open Class,88.9,2002
+08/24,West Haven,CT,3,Connecticut Hurricanes,Open Class,87.35,2002
+08/24,Toms River,NJ,1,Nightstorm,DCA Class A,72.5,2002
+08/24,West Haven,CT,1,New York Skyliners,DCA Class A,76.05,2002
+08/31,Scranton,PA,1,New York Skyliners,DCA Class A,79.45,2002
+09/01,Scranton,PA,1,New York Skyliners,DCA Class A,80.15,2002
+08/31,Scranton,PA,1,Syracuse Brigadiers,Open Class,96.65,2002
+09/01,Scranton,PA,1,Syracuse Brigadiers,Open Class,98.6,2002
+08/31,Scranton,PA,2,Heat Wave (DCA),DCA Class A,77.7,2002
+09/01,Scranton,PA,2,Heat Wave (DCA),DCA Class A,77.2,2002
+08/31,Scranton,PA,2,Empire Statesmen,Open Class,94.9,2002
+09/01,Scranton,PA,2,Empire Statesmen,Open Class,96.75,2002
+08/31,Scranton,PA,3,Carolina Gold,DCA Class A,75.85,2002
+08/31,Scranton,PA,3,Reading Buccaneers,Open Class,94.0,2002
+09/01,Scranton,PA,3,Reading Buccaneers,Open Class,95.55,2002
+08/31,Scranton,PA,4,Nightstorm,DCA Class A,73.65,2002
+08/31,Scranton,PA,4,Minnesota Brass,Open Class,92.95,2002
+09/01,Scranton,PA,4,Minnesota Brass,Open Class,93.9,2002
+08/31,Scranton,PA,5,Hawthorne Caballeros,Open Class,90.9,2002
+09/01,Scranton,PA,5,Yokahama Inspires,Open Class,91.85,2002
+08/31,Scranton,PA,6,Bushwackers,Open Class,89.6,2002
+09/01,Scranton,PA,6,Hawthorne Caballeros,Open Class,91.15,2002
+08/31,Scranton,PA,7,Rochester Crusaders,Open Class,88.75,2002
+09/01,Scranton,PA,7,Bushwackers,Open Class,91.1,2002
+08/31,Scranton,PA,8,Yokahama Inspires,Open Class,87.8,2002
+09/01,Scranton,PA,8,Connecticut Hurricanes,Open Class,88.0,2002
+08/31,Scranton,PA,9,Connecticut Hurricanes,Open Class,87.65,2002
+09/01,Scranton,PA,9,Rochester Crusaders,Open Class,87.3,2002
+08/31,Scranton,PA,10,Renegades,Open Class,86.75,2002
+09/01,Scranton,PA,10,Renegades,Open Class,86.2,2002
+08/31,Scranton,PA,11,Kingston Grenadiers,Open Class,85.5,2002
+09/01,Scranton,PA,11,Kingston Grenadiers,Open Class,84.55,2002
+08/31,Scranton,PA,12,Corpsvets,Open Class,82.45,2002
+09/01,Scranton,PA,11,Corpsvets,Open Class,84.55,2002

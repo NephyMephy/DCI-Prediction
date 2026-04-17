@@ -1,0 +1,932 @@
+{
+  "dci_world_class_finalists": [
+    {
+      "year": 1972,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Anaheim Kingsmen", "score": 88.10},
+        {"place": 2, "corps": "Blue Stars", "score": 87.45},
+        {"place": 3, "corps": "Vanguard", "score": 87.35},
+        {"place": 4, "corps": "27th Lancers", "score": 86.00},
+        {"place": 5, "corps": "Argonne Rebels", "score": 82.90},
+        {"place": 6, "corps": "Troopers", "score": 81.95},
+        {"place": 7, "corps": "Des Plaines Vanguard", "score": 81.25},
+        {"place": 8, "corps": "Kilties", "score": 81.20},
+        {"place": 9, "corps": "Cavaliers", "score": 79.45},
+        {"place": 10, "corps": "Muchachos", "score": 78.45},
+        {"place": 11, "corps": "St Andrews Bridgemen", "score": 75.40},
+        {"place": 12, "corps": "Bleu Raiders", "score": 73.95}
+      ]
+    },
+    {
+      "year": 1973,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 88.65},
+        {"place": 2, "corps": "Troopers", "score": 86.15},
+        {"place": 3, "corps": "Blue Stars", "score": 85.50},
+        {"place": 4, "corps": "Madison Scouts", "score": 83.55},
+        {"place": 5, "corps": "Kilties", "score": 82.95},
+        {"place": 6, "corps": "Anaheim Kingsmen", "score": 82.65},
+        {"place": 7, "corps": "27th Lancers", "score": 79.40},
+        {"place": 8, "corps": "Muchachos", "score": 79.30},
+        {"place": 9, "corps": "St Andrews Bridgemen", "score": 78.65},
+        {"place": 10, "corps": "Black Knights", "score": 75.75},
+        {"place": 11, "corps": "Argonne Rebels", "score": 73.15},
+        {"place": 12, "corps": "Stockton Commodores", "score": 72.25}
+      ]
+    },
+    {
+      "year": 1974,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 89.50},
+        {"place": 2, "corps": "Madison Scouts", "score": 88.85},
+        {"place": 3, "corps": "Anaheim Kingsmen", "score": 88.55},
+        {"place": 4, "corps": "Muchachos", "score": 86.95},
+        {"place": 5, "corps": "Troopers", "score": 85.65},
+        {"place": 6, "corps": "Kilties", "score": 85.25},
+        {"place": 7, "corps": "De La Salle Oaklands", "score": 79.95},
+        {"place": 8, "corps": "Cavaliers", "score": 79.55},
+        {"place": 9, "corps": "Blue Devils", "score": 78.15},
+        {"place": 10, "corps": "Purple Lancers", "score": 77.15},
+        {"place": 11, "corps": "Phantom Regiment", "score": 76.25},
+        {"place": 12, "corps": "Blue Stars", "score": 75.70}
+      ]
+    },
+    {
+      "year": 1975,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Madison Scouts", "score": 92.50},
+        {"place": 2, "corps": "Vanguard", "score": 91.00},
+        {"place": 3, "corps": "Blue Devils", "score": 88.60},
+        {"place": 4, "corps": "27th Lancers", "score": 88.05},
+        {"place": 5, "corps": "Blue Stars", "score": 87.50},
+        {"place": 6, "corps": "Oakland Crusaders", "score": 86.00},
+        {"place": 7, "corps": "Kilties", "score": 85.30},
+        {"place": 8, "corps": "Cavaliers", "score": 82.95},
+        {"place": 9, "corps": "Royal Crusaders", "score": 82.40},
+        {"place": 10, "corps": "Phantom Regiment", "score": 81.30},
+        {"place": 11, "corps": "Garfield Cadets", "score": 80.55},
+        {"place": 12, "corps": "Troopers", "score": 76.20}
+      ]
+    },
+    {
+      "year": 1976,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 92.70},
+        {"place": 2, "corps": "Madison Scouts", "score": 90.70},
+        {"place": 3, "corps": "Vanguard", "score": 89.50},
+        {"place": 4, "corps": "Phantom Regiment", "score": 87.75},
+        {"place": 5, "corps": "27th Lancers", "score": 85.00},
+        {"place": 6, "corps": "Bridgemen", "score": 84.90},
+        {"place": 7, "corps": "Cavaliers", "score": 84.30},
+        {"place": 8, "corps": "Oakland Crusaders", "score": 82.10},
+        {"place": 9, "corps": "Blue Stars", "score": 80.35},
+        {"place": 10, "corps": "Seneca Optimists", "score": 78.80},
+        {"place": 11, "corps": "Capital Freelancers", "score": 77.90},
+        {"place": 12, "corps": "Guardsmen", "score": 74.25}
+      ]
+    },
+    {
+      "year": 1977,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 92.05},
+        {"place": 2, "corps": "Phantom Regiment", "score": 90.30},
+        {"place": 3, "corps": "Vanguard", "score": 89.85},
+        {"place": 4, "corps": "Bridgemen", "score": "D.Q."},
+        {"place": 5, "corps": "27th Lancers", "score": 87.45},
+        {"place": 6, "corps": "Madison Scouts", "score": 87.30},
+        {"place": 7, "corps": "Blue Stars", "score": 84.30},
+        {"place": 8, "corps": "Cavaliers", "score": 83.00},
+        {"place": 9, "corps": "Capital Freelancers", "score": 82.40},
+        {"place": 9, "corps": "Seneca Optimists", "score": 82.40},
+        {"place": 11, "corps": "Kilties", "score": 81.80},
+        {"place": 12, "corps": "Crossmen", "score": 81.30}
+      ]
+    },
+    {
+      "year": 1978,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 91.55},
+        {"place": 2, "corps": "Phantom Regiment", "score": 91.45},
+        {"place": 3, "corps": "Blue Devils", "score": 91.20},
+        {"place": 4, "corps": "Madison Scouts", "score": 89.55},
+        {"place": 5, "corps": "Bridgemen", "score": 87.65},
+        {"place": 6, "corps": "Spirit of Atlanta", "score": 86.50},
+        {"place": 7, "corps": "27th Lancers", "score": 84.75},
+        {"place": 8, "corps": "Blue Stars", "score": 84.60},
+        {"place": 9, "corps": "Crossmen", "score": 82.45},
+        {"place": 10, "corps": "North Star", "score": 81.35},
+        {"place": 11, "corps": "Guardsmen", "score": 80.75},
+        {"place": 12, "corps": "Kilties", "score": 77.25}
+      ]
+    },
+    {
+      "year": 1979,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 93.55},
+        {"place": 2, "corps": "Phantom Regiment", "score": 92.75},
+        {"place": 2, "corps": "Vanguard", "score": 92.75},
+        {"place": 4, "corps": "Spirit of Atlanta", "score": 89.90},
+        {"place": 5, "corps": "27th Lancers", "score": 86.40},
+        {"place": 6, "corps": "Bridgemen", "score": 86.20},
+        {"place": 7, "corps": "Guardsmen", "score": 85.30},
+        {"place": 8, "corps": "Madison Scouts", "score": 84.50},
+        {"place": 9, "corps": "North Star", "score": 83.30},
+        {"place": 10, "corps": "Blue Stars", "score": 83.05},
+        {"place": 11, "corps": "Cavaliers", "score": 78.50},
+        {"place": 12, "corps": "Troopers", "score": 77.90}
+      ]
+    },
+    {
+      "year": 1980,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 90.60},
+        {"place": 2, "corps": "27th Lancers", "score": 90.25},
+        {"place": 3, "corps": "Bridgemen", "score": 90.05},
+        {"place": 4, "corps": "Spirit of Atlanta", "score": 89.80},
+        {"place": 5, "corps": "Phantom Regiment", "score": 88.45},
+        {"place": 6, "corps": "Madison Scouts", "score": 87.05},
+        {"place": 7, "corps": "Vanguard", "score": 85.60},
+        {"place": 8, "corps": "Crossmen", "score": 81.90},
+        {"place": 9, "corps": "Cavaliers", "score": 77.40},
+        {"place": 10, "corps": "Garfield Cadets", "score": 76.45},
+        {"place": 11, "corps": "North Star", "score": 74.05},
+        {"place": 12, "corps": "Guardsmen", "score": 72.90}
+      ]
+    },
+    {
+      "year": 1981,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 94.00},
+        {"place": 2, "corps": "Blue Devils", "score": 93.70},
+        {"place": 3, "corps": "Madison Scouts", "score": 92.60},
+        {"place": 4, "corps": "27th Lancers", "score": 91.90},
+        {"place": 5, "corps": "Phantom Regiment", "score": 90.85},
+        {"place": 6, "corps": "Bridgemen", "score": 90.80},
+        {"place": 7, "corps": "Garfield Cadets", "score": 89.40},
+        {"place": 8, "corps": "Crossmen", "score": 86.50},
+        {"place": 9, "corps": "Spirit of Atlanta", "score": 83.85},
+        {"place": 10, "corps": "Cavaliers", "score": 82.80},
+        {"place": 11, "corps": "Freelancers", "score": 78.25},
+        {"place": 12, "corps": "Troopers", "score": 78.10}
+      ]
+    },
+    {
+      "year": 1982,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 95.25},
+        {"place": 2, "corps": "Vanguard", "score": 93.55},
+        {"place": 3, "corps": "Garfield Cadets", "score": 92.25},
+        {"place": 4, "corps": "Phantom Regiment", "score": 92.15},
+        {"place": 5, "corps": "Madison Scouts", "score": 90.75},
+        {"place": 6, "corps": "27th Lancers", "score": 88.65},
+        {"place": 7, "corps": "Crossmen", "score": 88.05},
+        {"place": 8, "corps": "Bridgemen", "score": 86.15},
+        {"place": 9, "corps": "Freelancers", "score": 85.80},
+        {"place": 10, "corps": "Sky Ryders", "score": 83.10},
+        {"place": 11, "corps": "Cavaliers", "score": 81.95},
+        {"place": 12, "corps": "Spirit of Atlanta", "score": 81.65}
+      ]
+    },
+    {
+      "year": 1983,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Garfield Cadets", "score": 94.40},
+        {"place": 2, "corps": "Blue Devils", "score": 93.80},
+        {"place": 3, "corps": "Vanguard", "score": 92.75},
+        {"place": 4, "corps": "Phantom Regiment", "score": 91.45},
+        {"place": 5, "corps": "Madison Scouts", "score": 86.45},
+        {"place": 6, "corps": "Suncoast Sound", "score": 86.05},
+        {"place": 7, "corps": "Spirit of Atlanta", "score": 83.60},
+        {"place": 8, "corps": "Freelancers", "score": 81.65},
+        {"place": 9, "corps": "Cavaliers", "score": 80.55},
+        {"place": 10, "corps": "27th Lancers", "score": 79.65},
+        {"place": 11, "corps": "Bridgemen", "score": 77.70},
+        {"place": 12, "corps": "Sky Ryders", "score": 73.75}
+      ]
+    },
+    {
+      "year": 1984,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Garfield Cadets", "score": 98.00},
+        {"place": 2, "corps": "Blue Devils", "score": 97.90},
+        {"place": 3, "corps": "Vanguard", "score": 97.40},
+        {"place": 4, "corps": "Phantom Regiment", "score": 95.60},
+        {"place": 5, "corps": "Madison Scouts", "score": 94.60},
+        {"place": 6, "corps": "Spirit of Atlanta", "score": 93.10},
+        {"place": 7, "corps": "Suncoast Sound", "score": 92.00},
+        {"place": 8, "corps": "Cavaliers", "score": 89.70},
+        {"place": 9, "corps": "Freelancers", "score": 88.80},
+        {"place": 10, "corps": "Crossmen", "score": 86.30},
+        {"place": 11, "corps": "27th Lancers", "score": 85.60},
+        {"place": 12, "corps": "Velvet Knights", "score": 83.20}
+      ]
+    },
+    {
+      "year": 1985,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Garfield Cadets", "score": 98.40},
+        {"place": 2, "corps": "Vanguard", "score": 97.20},
+        {"place": 3, "corps": "Blue Devils", "score": 97.10},
+        {"place": 4, "corps": "Madison Scouts", "score": 95.00},
+        {"place": 5, "corps": "Cavaliers", "score": 94.10},
+        {"place": 6, "corps": "Suncoast Sound", "score": 92.70},
+        {"place": 7, "corps": "Spirit of Atlanta", "score": 91.00},
+        {"place": 8, "corps": "Phantom Regiment", "score": 90.10},
+        {"place": 9, "corps": "Troopers", "score": 86.70},
+        {"place": 10, "corps": "Star of Indiana", "score": 85.80},
+        {"place": 11, "corps": "Velvet Knights", "score": 85.30},
+        {"place": 12, "corps": "Freelancers", "score": 83.20}
+      ]
+    },
+    {
+      "year": 1986,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.40},
+        {"place": 2, "corps": "Vanguard", "score": 97.00},
+        {"place": 3, "corps": "Cavaliers", "score": 95.70},
+        {"place": 4, "corps": "Garfield Cadets", "score": 95.60},
+        {"place": 5, "corps": "Suncoast Sound", "score": 94.80},
+        {"place": 6, "corps": "Spirit of Atlanta", "score": 94.10},
+        {"place": 7, "corps": "Madison Scouts", "score": 91.30},
+        {"place": 8, "corps": "Star of Indiana", "score": 90.50},
+        {"place": 9, "corps": "Sky Ryders", "score": 87.00},
+        {"place": 10, "corps": "Phantom Regiment", "score": 85.00},
+        {"place": 11, "corps": "Troopers", "score": 83.50},
+        {"place": 12, "corps": "Velvet Knights", "score": 82.60}
+      ]
+    },
+    {
+      "year": 1987,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Garfield Cadets", "score": 97.90},
+        {"place": 2, "corps": "Vanguard", "score": 97.80},
+        {"place": 3, "corps": "Cavaliers", "score": 94.70},
+        {"place": 4, "corps": "Blue Devils", "score": 94.40},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.30},
+        {"place": 6, "corps": "Madison Scouts", "score": 90.40},
+        {"place": 7, "corps": "Star of Indiana", "score": 90.00},
+        {"place": 7, "corps": "Velvet Knights", "score": 90.00},
+        {"place": 9, "corps": "Suncoast Sound", "score": 88.80},
+        {"place": 10, "corps": "Spirit of Atlanta", "score": 87.60},
+        {"place": 11, "corps": "Bluecoats", "score": 85.70},
+        {"place": 12, "corps": "Sky Ryders", "score": 81.90}
+      ]
+    },
+    {
+      "year": 1988,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Madison Scouts", "score": 97.10},
+        {"place": 2, "corps": "Vanguard", "score": 96.90},
+        {"place": 3, "corps": "Blue Devils", "score": 96.30},
+        {"place": 4, "corps": "Garfield Cadets", "score": 96.10},
+        {"place": 5, "corps": "Cavaliers", "score": 95.10},
+        {"place": 6, "corps": "Phantom Regiment", "score": 93.50},
+        {"place": 7, "corps": "Star of Indiana", "score": 92.80},
+        {"place": 8, "corps": "Velvet Knights", "score": 90.60},
+        {"place": 9, "corps": "Spirit of Atlanta", "score": 89.30},
+        {"place": 10, "corps": "Suncoast Sound", "score": 89.10},
+        {"place": 11, "corps": "Bluecoats", "score": 86.70},
+        {"place": 12, "corps": "Sky Ryders", "score": 85.10}
+      ]
+    },
+    {
+      "year": 1989,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 98.80},
+        {"place": 2, "corps": "Phantom Regiment", "score": 98.40},
+        {"place": 3, "corps": "Cavaliers", "score": 97.20},
+        {"place": 4, "corps": "Blue Devils", "score": 95.90},
+        {"place": 5, "corps": "Garfield Cadets", "score": 95.60},
+        {"place": 6, "corps": "Star of Indiana", "score": 95.30},
+        {"place": 7, "corps": "Madison Scouts", "score": 93.60},
+        {"place": 8, "corps": "Bluecoats", "score": 90.30},
+        {"place": 9, "corps": "Suncoast Sound", "score": 88.00},
+        {"place": 10, "corps": "Freelancers", "score": 87.30},
+        {"place": 11, "corps": "Velvet Knights", "score": 87.00},
+        {"place": 12, "corps": "Crossmen", "score": 84.00}
+      ]
+    },
+    {
+      "year": 1990,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 97.70},
+        {"place": 2, "corps": "Cavaliers", "score": 96.90},
+        {"place": 3, "corps": "Star of Indiana", "score": 96.50},
+        {"place": 4, "corps": "Blue Devils", "score": 95.30},
+        {"place": 4, "corps": "Phantom Regiment", "score": 95.30},
+        {"place": 6, "corps": "Vanguard", "score": 94.00},
+        {"place": 7, "corps": "Crossmen", "score": 89.60},
+        {"place": 8, "corps": "Bluecoats", "score": 89.20},
+        {"place": 9, "corps": "Madison Scouts", "score": 88.70},
+        {"place": 10, "corps": "Velvet Knights", "score": 87.30},
+        {"place": 11, "corps": "Spirit of Atlanta", "score": 83.40},
+        {"place": 12, "corps": "Dutch Boy", "score": 82.20}
+      ]
+    },
+    {
+      "year": 1991,
+      "class": "Open",
+      "finalists": [
+        {"place": 1, "corps": "Star of Indiana", "score": 97.00},
+        {"place": 2, "corps": "Cavaliers", "score": 96.30},
+        {"place": 3, "corps": "Phantom Regiment", "score": 95.40},
+        {"place": 4, "corps": "Vanguard", "score": 94.40},
+        {"place": 5, "corps": "Blue Devils", "score": 93.80},
+        {"place": 6, "corps": "Cadets", "score": 93.70},
+        {"place": 7, "corps": "Madison Scouts", "score": 92.00},
+        {"place": 8, "corps": "Crossmen", "score": 89.70},
+        {"place": 9, "corps": "Blue Knights", "score": 87.70},
+        {"place": 10, "corps": "Freelancers", "score": 86.40},
+        {"place": 11, "corps": "Bluecoats", "score": 84.40},
+        {"place": 12, "corps": "Sky Ryders", "score": 82.90}
+      ]
+    },
+    {
+      "year": 1992,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cavaliers", "score": 97.50},
+        {"place": 2, "corps": "Cadets", "score": 97.00},
+        {"place": 3, "corps": "Star of Indiana", "score": 96.70},
+        {"place": 4, "corps": "Blue Devils", "score": 95.40},
+        {"place": 5, "corps": "Madison Scouts", "score": 93.70},
+        {"place": 6, "corps": "Crossmen", "score": 92.20},
+        {"place": 7, "corps": "Vanguard", "score": 91.80},
+        {"place": 8, "corps": "Phantom Regiment", "score": 91.50},
+        {"place": 9, "corps": "Blue Knights", "score": 90.00},
+        {"place": 10, "corps": "Velvet Knights", "score": 86.60},
+        {"place": 11, "corps": "Bluecoats", "score": 84.60},
+        {"place": 12, "corps": "Freelancers", "score": 83.10}
+      ]
+    },
+    {
+      "year": 1993,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 97.40},
+        {"place": 2, "corps": "Star of Indiana", "score": 97.30},
+        {"place": 3, "corps": "Phantom Regiment", "score": 96.20},
+        {"place": 4, "corps": "Blue Devils", "score": 95.10},
+        {"place": 5, "corps": "Cavaliers", "score": 94.00},
+        {"place": 6, "corps": "Madison Scouts", "score": 91.80},
+        {"place": 7, "corps": "Vanguard", "score": 90.40},
+        {"place": 8, "corps": "Crossmen", "score": 89.60},
+        {"place": 9, "corps": "Bluecoats", "score": 87.20},
+        {"place": 10, "corps": "Blue Knights", "score": 85.00},
+        {"place": 11, "corps": "Glassmen", "score": 82.80},
+        {"place": 12, "corps": "Colts", "score": 81.60}
+      ]
+    },
+    {
+      "year": 1994,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.40},
+        {"place": 2, "corps": "Cadets", "score": 97.70},
+        {"place": 3, "corps": "Phantom Regiment", "score": 96.20},
+        {"place": 4, "corps": "Cavaliers", "score": 95.70},
+        {"place": 5, "corps": "Vanguard", "score": 92.30},
+        {"place": 6, "corps": "Madison Scouts", "score": 92.20},
+        {"place": 7, "corps": "Blue Knights", "score": 88.40},
+        {"place": 7, "corps": "Crossmen", "score": 88.40},
+        {"place": 9, "corps": "Bluecoats", "score": 84.30},
+        {"place": 10, "corps": "Glassmen", "score": 83.90},
+        {"place": 11, "corps": "Magic of Orlando", "score": 81.50},
+        {"place": 12, "corps": "Colts", "score": 80.10}
+      ]
+    },
+    {
+      "year": 1995,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cavaliers", "score": 98.30},
+        {"place": 2, "corps": "Cadets", "score": 97.20},
+        {"place": 3, "corps": "Blue Devils", "score": 96.70},
+        {"place": 4, "corps": "Madison Scouts", "score": 95.40},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.10},
+        {"place": 6, "corps": "Vanguard", "score": 91.90},
+        {"place": 7, "corps": "Bluecoats", "score": 89.50},
+        {"place": 8, "corps": "Glassmen", "score": 88.30},
+        {"place": 9, "corps": "Colts", "score": 86.30},
+        {"place": 10, "corps": "Crossmen", "score": 85.10},
+        {"place": 11, "corps": "Carolina Crown", "score": 82.80},
+        {"place": 12, "corps": "Magic of Orlando", "score": 82.40}
+      ]
+    },
+    {
+      "year": 1996,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 97.40},
+        {"place": 1, "corps": "Phantom Regiment", "score": 97.40},
+        {"place": 3, "corps": "Cadets", "score": 96.90},
+        {"place": 4, "corps": "Cavaliers", "score": 93.80},
+        {"place": 5, "corps": "Vanguard", "score": 92.30},
+        {"place": 6, "corps": "Madison Scouts", "score": 91.50},
+        {"place": 7, "corps": "Bluecoats", "score": 86.30},
+        {"place": 8, "corps": "Crossmen", "score": 85.50},
+        {"place": 8, "corps": "Magic of Orlando", "score": 85.50},
+        {"place": 10, "corps": "Carolina Crown", "score": 82.10},
+        {"place": 11, "corps": "Colts", "score": 81.30},
+        {"place": 12, "corps": "Blue Knights", "score": 80.70}
+      ]
+    },
+    {
+      "year": 1997,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.40},
+        {"place": 2, "corps": "Cadets", "score": 97.60},
+        {"place": 3, "corps": "Vanguard", "score": 96.90},
+        {"place": 4, "corps": "Phantom Regiment", "score": 94.20},
+        {"place": 5, "corps": "Madison Scouts", "score": 93.90},
+        {"place": 6, "corps": "Crossmen", "score": 93.00},
+        {"place": 7, "corps": "Cavaliers", "score": 92.80},
+        {"place": 8, "corps": "Glassmen", "score": 90.00},
+        {"place": 9, "corps": "Blue Knights", "score": 88.20},
+        {"place": 10, "corps": "Magic of Orlando", "score": 85.70},
+        {"place": 11, "corps": "Bluecoats", "score": 85.60},
+        {"place": 12, "corps": "Carolina Crown", "score": 85.00}
+      ]
+    },
+    {
+      "year": 1998,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 98.40},
+        {"place": 2, "corps": "Vanguard", "score": 97.90},
+        {"place": 3, "corps": "Blue Devils", "score": 97.70},
+        {"place": 4, "corps": "Cavaliers", "score": 96.20},
+        {"place": 5, "corps": "Glassmen", "score": 92.80},
+        {"place": 6, "corps": "Madison Scouts", "score": 91.90},
+        {"place": 7, "corps": "Crossmen", "score": 91.40},
+        {"place": 8, "corps": "Phantom Regiment", "score": 90.40},
+        {"place": 9, "corps": "Blue Knights", "score": 89.50},
+        {"place": 10, "corps": "Bluecoats", "score": 87.10},
+        {"place": 11, "corps": "Carolina Crown", "score": 85.70},
+        {"place": 12, "corps": "Colts", "score": 85.30}
+      ]
+    },
+    {
+      "year": 1999,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.40},
+        {"place": 1, "corps": "Vanguard", "score": 98.40},
+        {"place": 3, "corps": "Cavaliers", "score": 97.00},
+        {"place": 4, "corps": "Cadets", "score": 96.40},
+        {"place": 5, "corps": "Glassmen", "score": 93.70},
+        {"place": 6, "corps": "Madison Scouts", "score": 93.40},
+        {"place": 7, "corps": "Blue Knights", "score": 92.50},
+        {"place": 8, "corps": "Phantom Regiment", "score": 91.20},
+        {"place": 9, "corps": "Boston Crusaders", "score": 88.60},
+        {"place": 10, "corps": "Crossmen", "score": 87.00},
+        {"place": 11, "corps": "Carolina Crown", "score": 86.30},
+        {"place": 12, "corps": "Colts", "score": 86.00}
+      ]
+    },
+    {
+      "year": 2000,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 97.650},
+        {"place": 1, "corps": "Cavaliers", "score": 97.650},
+        {"place": 3, "corps": "Vanguard", "score": 96.700},
+        {"place": 4, "corps": "Blue Devils", "score": 95.650},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.150},
+        {"place": 6, "corps": "Glassmen", "score": 91.800},
+        {"place": 7, "corps": "Carolina Crown", "score": 90.550},
+        {"place": 8, "corps": "Crossmen", "score": 90.300},
+        {"place": 9, "corps": "Bluecoats", "score": 89.200},
+        {"place": 10, "corps": "Boston Crusaders", "score": 87.900},
+        {"place": 11, "corps": "Madison Scouts", "score": 86.950},
+        {"place": 12, "corps": "Blue Knights", "score": 86.400}
+      ]
+    },
+    {
+      "year": 2001,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cavaliers", "score": 98.350},
+        {"place": 2, "corps": "Cadets", "score": 97.600},
+        {"place": 2, "corps": "Blue Devils", "score": 97.600},
+        {"place": 4, "corps": "Vanguard", "score": 95.350},
+        {"place": 5, "corps": "Glassmen", "score": 94.300},
+        {"place": 6, "corps": "Phantom Regiment", "score": 91.900},
+        {"place": 7, "corps": "Crossmen", "score": 91.150},
+        {"place": 8, "corps": "Bluecoats", "score": 90.750},
+        {"place": 9, "corps": "Boston Crusaders", "score": 88.800},
+        {"place": 10, "corps": "Carolina Crown", "score": 86.950},
+        {"place": 11, "corps": "Madison Scouts", "score": 86.550},
+        {"place": 12, "corps": "Blue Knights", "score": 84.950}
+      ]
+    },
+    {
+      "year": 2002,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cavaliers", "score": 99.150},
+        {"place": 2, "corps": "Cadets", "score": 97.100},
+        {"place": 3, "corps": "Blue Devils", "score": 96.800},
+        {"place": 4, "corps": "Vanguard", "score": 96.500},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.800},
+        {"place": 6, "corps": "Glassmen", "score": 93.450},
+        {"place": 7, "corps": "Crossmen", "score": 91.100},
+        {"place": 8, "corps": "Boston Crusaders", "score": 90.700},
+        {"place": 9, "corps": "Bluecoats", "score": 89.300},
+        {"place": 10, "corps": "Carolina Crown", "score": 88.900},
+        {"place": 11, "corps": "Spirit of Atlanta", "score": 87.200},
+        {"place": 12, "corps": "Seattle Cascades", "score": 86.100}
+      ]
+    },
+    {
+      "year": 2003,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.800},
+        {"place": 2, "corps": "Cavaliers", "score": 97.400},
+        {"place": 3, "corps": "Cadets", "score": 96.950},
+        {"place": 4, "corps": "Vanguard", "score": 96.350},
+        {"place": 5, "corps": "Phantom Regiment", "score": 93.750},
+        {"place": 6, "corps": "Glassmen", "score": 91.650},
+        {"place": 7, "corps": "Crossmen", "score": 90.050},
+        {"place": 8, "corps": "Boston Crusaders", "score": 89.950},
+        {"place": 9, "corps": "Bluecoats", "score": 89.500},
+        {"place": 10, "corps": "Carolina Crown", "score": 88.300},
+        {"place": 11, "corps": "Spirit of Atlanta", "score": 86.850},
+        {"place": 12, "corps": "Madison Scouts", "score": 85.900}
+      ]
+    },
+    {
+      "year": 2004,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cavaliers", "score": 98.700},
+        {"place": 2, "corps": "Blue Devils", "score": 98.525},
+        {"place": 3, "corps": "Vanguard", "score": 96.825},
+        {"place": 4, "corps": "Cadets", "score": 95.600},
+        {"place": 5, "corps": "Phantom Regiment", "score": 93.575},
+        {"place": 6, "corps": "Bluecoats", "score": 92.125},
+        {"place": 7, "corps": "Carolina Crown", "score": 91.225},
+        {"place": 8, "corps": "Madison Scouts", "score": 91.175},
+        {"place": 9, "corps": "Boston Crusaders", "score": 90.525},
+        {"place": 10, "corps": "Blue Knights", "score": 87.600},
+        {"place": 11, "corps": "Glassmen", "score": 87.300},
+        {"place": 12, "corps": "Crossmen", "score": 86.050}
+      ]
+    },
+    {
+      "year": 2005,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 99.150},
+        {"place": 2, "corps": "Cavaliers", "score": 98.300},
+        {"place": 3, "corps": "Blue Devils", "score": 97.650},
+        {"place": 4, "corps": "Vanguard", "score": 96.200},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.300},
+        {"place": 6, "corps": "Bluecoats", "score": 93.750},
+        {"place": 7, "corps": "Boston Crusaders", "score": 91.600},
+        {"place": 8, "corps": "Carolina Crown", "score": 91.550},
+        {"place": 9, "corps": "Blue Knights", "score": 89.675},
+        {"place": 10, "corps": "Glassmen", "score": 89.275},
+        {"place": 11, "corps": "Madison Scouts", "score": 88.925},
+        {"place": 12, "corps": "Spirit of Atlanta", "score": 87.975}
+      ]
+    },
+    {
+      "year": 2006,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 98.100},
+        {"place": 2, "corps": "Vanguard", "score": 97.525},
+        {"place": 3, "corps": "Cavaliers", "score": 97.250},
+        {"place": 4, "corps": "Blue Devils", "score": 96.500},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.050},
+        {"place": 6, "corps": "Bluecoats", "score": 92.650},
+        {"place": 7, "corps": "Boston Crusaders", "score": 91.200},
+        {"place": 8, "corps": "Carolina Crown", "score": 90.850},
+        {"place": 9, "corps": "Blue Knights", "score": 89.900},
+        {"place": 10, "corps": "Glassmen", "score": 88.675},
+        {"place": 11, "corps": "Madison Scouts", "score": 88.400},
+        {"place": 12, "corps": "Spirit of Atlanta", "score": 87.275}
+      ]
+    },
+    {
+      "year": 2007,
+      "class": "Division I",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.000},
+        {"place": 2, "corps": "Cavaliers", "score": 97.650},
+        {"place": 3, "corps": "Vanguard", "score": 96.750},
+        {"place": 4, "corps": "Cadets", "score": 96.350},
+        {"place": 5, "corps": "Phantom Regiment", "score": 94.700},
+        {"place": 6, "corps": "Bluecoats", "score": 93.300},
+        {"place": 7, "corps": "Carolina Crown", "score": 92.250},
+        {"place": 8, "corps": "Colts", "score": 90.650},
+        {"place": 9, "corps": "Boston Crusaders", "score": 90.450},
+        {"place": 10, "corps": "Blue Knights", "score": 89.700},
+        {"place": 11, "corps": "Glassmen", "score": 88.700},
+        {"place": 12, "corps": "Spirit of Atlanta", "score": 87.850}
+      ]
+    },
+    {
+      "year": 2008,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Phantom Regiment", "score": 98.375},
+        {"place": 2, "corps": "Blue Devils", "score": 97.800},
+        {"place": 3, "corps": "Cavaliers", "score": 97.225},
+        {"place": 4, "corps": "Vanguard", "score": 96.675},
+        {"place": 5, "corps": "Cadets", "score": 95.250},
+        {"place": 6, "corps": "Carolina Crown", "score": 94.400},
+        {"place": 7, "corps": "Bluecoats", "score": 93.750},
+        {"place": 8, "corps": "Madison Scouts", "score": 91.050},
+        {"place": 9, "corps": "Boston Crusaders", "score": 90.800},
+        {"place": 10, "corps": "Blue Stars", "score": 90.025},
+        {"place": 11, "corps": "Blue Knights", "score": 89.125},
+        {"place": 12, "corps": "Glassmen", "score": 88.900}
+      ]
+    },
+    {
+      "year": 2009,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 99.050},
+        {"place": 2, "corps": "Cavaliers", "score": 97.100},
+        {"place": 3, "corps": "Carolina Crown", "score": 96.775},
+        {"place": 4, "corps": "Phantom Regiment", "score": 96.050},
+        {"place": 5, "corps": "Vanguard", "score": 95.450},
+        {"place": 6, "corps": "Cadets", "score": 95.150},
+        {"place": 7, "corps": "Bluecoats", "score": 94.050},
+        {"place": 8, "corps": "Boston Crusaders", "score": 92.175},
+        {"place": 9, "corps": "Troopers", "score": 90.300},
+        {"place": 10, "corps": "Blue Stars", "score": 89.675},
+        {"place": 11, "corps": "Blue Knights", "score": 88.900},
+        {"place": 12, "corps": "Glassmen", "score": 88.150}
+      ]
+    },
+    {
+      "year": 2010,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.900},
+        {"place": 2, "corps": "Cavaliers", "score": 97.350},
+        {"place": 3, "corps": "Carolina Crown", "score": 96.500},
+        {"place": 4, "corps": "Phantom Regiment", "score": 95.150},
+        {"place": 5, "corps": "Vanguard", "score": 94.975},
+        {"place": 6, "corps": "Cadets", "score": 94.225},
+        {"place": 7, "corps": "Bluecoats", "score": 93.275},
+        {"place": 8, "corps": "Madison Scouts", "score": 90.900},
+        {"place": 9, "corps": "Boston Crusaders", "score": 90.525},
+        {"place": 10, "corps": "Blue Stars", "score": 89.925},
+        {"place": 11, "corps": "Blue Knights", "score": 88.925},
+        {"place": 12, "corps": "Glassmen", "score": 87.600}
+      ]
+    },
+    {
+      "year": 2011,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Cadets", "score": 98.350},
+        {"place": 2, "corps": "Blue Devils", "score": 97.650},
+        {"place": 3, "corps": "Phantom Regiment", "score": 96.900},
+        {"place": 4, "corps": "Cavaliers", "score": 96.225},
+        {"place": 5, "corps": "Carolina Crown", "score": 95.650},
+        {"place": 6, "corps": "Vanguard", "score": 94.300},
+        {"place": 7, "corps": "Bluecoats", "score": 93.575},
+        {"place": 8, "corps": "Boston Crusaders", "score": 91.050},
+        {"place": 9, "corps": "Blue Stars", "score": 89.975},
+        {"place": 10, "corps": "Madison Scouts", "score": 89.300},
+        {"place": 11, "corps": "Spirit of Atlanta", "score": 88.200},
+        {"place": 12, "corps": "Blue Knights", "score": 87.475}
+      ]
+    },
+    {
+      "year": 2012,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.700},
+        {"place": 2, "corps": "Carolina Crown", "score": 97.775},
+        {"place": 3, "corps": "Phantom Regiment", "score": 96.850},
+        {"place": 4, "corps": "Cadets", "score": 96.250},
+        {"place": 5, "corps": "Vanguard", "score": 95.300},
+        {"place": 6, "corps": "Cavaliers", "score": 94.600},
+        {"place": 7, "corps": "Bluecoats", "score": 93.775},
+        {"place": 8, "corps": "Boston Crusaders", "score": 91.550},
+        {"place": 9, "corps": "Madison Scouts", "score": 90.075},
+        {"place": 10, "corps": "Blue Stars", "score": 89.325},
+        {"place": 11, "corps": "Blue Knights", "score": 88.475},
+        {"place": 12, "corps": "Crossmen", "score": 87.700}
+      ]
+    },
+    {
+      "year": 2013,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Carolina Crown", "score": 98.650},
+        {"place": 2, "corps": "Blue Devils", "score": 97.850},
+        {"place": 3, "corps": "Vanguard", "score": 97.100},
+        {"place": 4, "corps": "Phantom Regiment", "score": 95.950},
+        {"place": 5, "corps": "Cadets", "score": 95.750},
+        {"place": 6, "corps": "Cavaliers", "score": 94.500},
+        {"place": 7, "corps": "Bluecoats", "score": 94.150},
+        {"place": 8, "corps": "Boston Crusaders", "score": 91.225},
+        {"place": 9, "corps": "Blue Stars", "score": 90.700},
+        {"place": 10, "corps": "Madison Scouts", "score": 89.700},
+        {"place": 11, "corps": "Blue Knights", "score": 88.850},
+        {"place": 12, "corps": "Spirit of Atlanta", "score": 87.075}
+      ]
+    },
+    {
+      "year": 2014,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.650},
+        {"place": 2, "corps": "Vanguard", "score": 98.300},
+        {"place": 3, "corps": "Cadets", "score": 97.650},
+        {"place": 4, "corps": "Carolina Crown", "score": 97.300},
+        {"place": 5, "corps": "Phantom Regiment", "score": 95.950},
+        {"place": 6, "corps": "Bluecoats", "score": 95.550},
+        {"place": 7, "corps": "Cavaliers", "score": 94.000},
+        {"place": 8, "corps": "Boston Crusaders", "score": 92.700},
+        {"place": 9, "corps": "Blue Knights", "score": 90.725},
+        {"place": 10, "corps": "Blue Stars", "score": 90.075},
+        {"place": 11, "corps": "Madison Scouts", "score": 89.000},
+        {"place": 12, "corps": "Crossmen", "score": 88.250}
+      ]
+    },
+    {
+      "year": 2015,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 97.650},
+        {"place": 2, "corps": "Vanguard", "score": 97.425},
+        {"place": 3, "corps": "Carolina Crown", "score": 97.000},
+        {"place": 4, "corps": "Cadets", "score": 96.775},
+        {"place": 5, "corps": "Bluecoats", "score": 96.450},
+        {"place": 6, "corps": "Phantom Regiment", "score": 95.425},
+        {"place": 7, "corps": "Cavaliers", "score": 94.475},
+        {"place": 8, "corps": "Boston Crusaders", "score": 92.400},
+        {"place": 9, "corps": "Blue Knights", "score": 91.675},
+        {"place": 10, "corps": "Blue Stars", "score": 89.700},
+        {"place": 11, "corps": "Madison Scouts", "score": 89.425},
+        {"place": 12, "corps": "Crossmen", "score": 87.700}
+      ]
+    },
+    {
+      "year": 2016,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Bluecoats", "score": 97.650},
+        {"place": 2, "corps": "Blue Devils", "score": 97.225},
+        {"place": 3, "corps": "Vanguard", "score": 96.400},
+        {"place": 4, "corps": "Carolina Crown", "score": 96.100},
+        {"place": 5, "corps": "Cadets", "score": 95.900},
+        {"place": 6, "corps": "Phantom Regiment", "score": 94.475},
+        {"place": 7, "corps": "Cavaliers", "score": 93.675},
+        {"place": 8, "corps": "Boston Crusaders", "score": 92.125},
+        {"place": 9, "corps": "Blue Knights", "score": 90.475},
+        {"place": 10, "corps": "Blue Stars", "score": 89.775},
+        {"place": 11, "corps": "Crossmen", "score": 88.525},
+        {"place": 12, "corps": "The Academy", "score": 87.400}
+      ]
+    },
+    {
+      "year": 2017,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.538},
+        {"place": 2, "corps": "Vanguard", "score": 97.263},
+        {"place": 3, "corps": "Cadets", "score": 96.900},
+        {"place": 4, "corps": "Carolina Crown", "score": 96.825},
+        {"place": 5, "corps": "Bluecoats", "score": 96.450},
+        {"place": 6, "corps": "Phantom Regiment", "score": 95.075},
+        {"place": 7, "corps": "Cavaliers", "score": 94.100},
+        {"place": 8, "corps": "Boston Crusaders", "score": 93.475},
+        {"place": 9, "corps": "Blue Knights", "score": 91.425},
+        {"place": 10, "corps": "Blue Stars", "score": 90.300},
+        {"place": 11, "corps": "Crossmen", "score": 89.025},
+        {"place": 12, "corps": "Madison Scouts", "score": 88.925}
+      ]
+    },
+    {
+      "year": 2018,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Vanguard", "score": 98.625},
+        {"place": 2, "corps": "Blue Devils", "score": 98.613},
+        {"place": 3, "corps": "Cadets", "score": 97.475},
+        {"place": 4, "corps": "Carolina Crown", "score": 97.200},
+        {"place": 5, "corps": "Bluecoats", "score": 96.550},
+        {"place": 6, "corps": "Boston Crusaders", "score": 95.688},
+        {"place": 7, "corps": "Phantom Regiment", "score": 94.788},
+        {"place": 8, "corps": "Cavaliers", "score": 93.950},
+        {"place": 9, "corps": "Blue Knights", "score": 92.550},
+        {"place": 10, "corps": "Blue Stars", "score": 91.925},
+        {"place": 11, "corps": "Crossmen", "score": 90.625},
+        {"place": 12, "corps": "Mandarins", "score": 90.013}
+      ]
+    },
+    {
+      "year": 2019,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.250},
+        {"place": 2, "corps": "Vanguard", "score": 98.113},
+        {"place": 3, "corps": "Bluecoats", "score": 97.450},
+        {"place": 4, "corps": "Carolina Crown", "score": 97.325},
+        {"place": 5, "corps": "Cadets", "score": 96.713},
+        {"place": 6, "corps": "Boston Crusaders", "score": 96.088},
+        {"place": 7, "corps": "Phantom Regiment", "score": 95.125},
+        {"place": 8, "corps": "Cavaliers", "score": 94.313},
+        {"place": 9, "corps": "Blue Knights", "score": 92.775},
+        {"place": 10, "corps": "Blue Stars", "score": 92.000},
+        {"place": 11, "corps": "Crossmen", "score": 90.813},
+        {"place": 12, "corps": "Mandarins", "score": 90.425}
+      ]
+    },
+    {
+      "year": 2020,
+      "class": "World",
+      "note": "No competition held due to COVID-19 pandemic"
+    },
+    {
+      "year": 2021,
+      "class": "World",
+      "note": "No scored competitions - exhibition performances only"
+    },
+    {
+      "year": 2022,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.750},
+        {"place": 2, "corps": "Carolina Crown", "score": 97.738},
+        {"place": 3, "corps": "Bluecoats", "score": 97.113},
+        {"place": 4, "corps": "Vanguard", "score": 96.475},
+        {"place": 5, "corps": "Phantom Regiment", "score": 95.625},
+        {"place": 6, "corps": "Cavaliers", "score": 94.850},
+        {"place": 7, "corps": "Boston Crusaders", "score": 94.138},
+        {"place": 8, "corps": "Blue Stars", "score": 92.513},
+        {"place": 9, "corps": "Troopers", "score": 90.388},
+        {"place": 10, "corps": "Blue Knights", "score": 89.825},
+        {"place": 11, "corps": "Colts", "score": 89.513},
+        {"place": 12, "corps": "Mandarins", "score": 89.313}
+      ]
+    },
+    {
+      "year": 2023,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Blue Devils", "score": 98.975},
+        {"place": 2, "corps": "Bluecoats", "score": 98.475},
+        {"place": 3, "corps": "Boston Crusaders", "score": 97.588},
+        {"place": 4, "corps": "Carolina Crown", "score": 97.475},
+        {"place": 5, "corps": "Vanguard", "score": 96.300},
+        {"place": 6, "corps": "Phantom Regiment", "score": 95.563},
+        {"place": 7, "corps": "Cavaliers", "score": 94.725},
+        {"place": 8, "corps": "Cadets", "score": 93.713},
+        {"place": 9, "corps": "Blue Stars", "score": 92.513},
+        {"place": 10, "corps": "Blue Knights", "score": 91.825},
+        {"place": 11, "corps": "Mandarins", "score": 91.725},
+        {"place": 12, "corps": "Colts", "score": 89.938}
+      ]
+    },
+    {
+      "year": 2024,
+      "class": "World",
+      "finalists": [
+        {"place": 1, "corps": "Bluecoats", "score": 98.750},
+        {"place": 2, "corps": "Boston Crusaders", "score": 97.413},
+        {"place": 3, "corps": "Blue Devils", "score": 97.075},
+        {"place": 4, "corps": "Phantom Regiment", "score": 95.225},
+        {"place": 5, "corps": "Carolina Crown", "score": 95.025},
+        {"place": 6, "corps": "Vanguard", "score": 93.925},
+        {"place": 7, "corps": "Mandarins", "score": 92.150},
+        {"place": 8, "corps": "Blue Stars", "score": 91.600},
+        {"place": 9, "corps": "Colts", "score": 89.775},
+        {"place": 10, "corps": "Troopers", "score": 88.950},
+        {"place": 11, "corps": "Cavaliers", "score": 87.500},
+        {"place": 12, "corps": "Madison Scouts", "score": 87.050}
+      ]
+    }
+  ]
+}

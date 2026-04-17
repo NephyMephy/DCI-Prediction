@@ -1,0 +1,34 @@
+{
+ "location": [
+   {
+     "city": "Kalamazoo",
+     "state": "MI", 
+     "year": "2006-2022"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [ ],
+ "website": "",
+ "currentClass": "Inactive",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2008-2022", "className": "Open Class"}
+ ],
+ "shows": [
+   {"year": 2006, "showTitle": "", "repertoire": "Ballet Sacra * Malaguena", "placement": "Exhibition", "score": null},
+   {"year": 2007, "showTitle": "In Permoveo", "repertoire": "Ballet Sacra", "placement": "Exhibition", "score": null},
+   {"year": 2008, "showTitle": "Evolutional Procuratio", "repertoire": "New Beginnings", "placement": "15th Place*", "score": 82.000},
+   {"year": 2009, "showTitle": "Incrementum", "repertoire": "Daphnis and Chloé", "placement": "10th Place*", "score": 81.950},
+   {"year": 2010, "showTitle": "Ruins", "repertoire": "Vesuvius * Eruption (from the Tarkus Suite) * Pines of Rome * Fountains of Rome * Unstoppable * Prelude - Main Title (from Ben Hur)", "placement": "8th Place*", "score": 86.200},
+   {"year": 2011, "showTitle": "Skyscapes", "repertoire": "Cloudburst * You Are (Variations) * Pagodes * Gold Rush * Aurora Awakes", "placement": "34th Place", "score": 60.650},
+   {"year": 2012, "showTitle": "The Edmund Fitzgerald", "repertoire": "Four Sea Interludes * The Wreck of the Edmund Fitzgerald * Coming Home From The Sea (from The Perfect Storm) * Bishop's Countdown (from Aliens)", "placement": "30th Place", "score": 63.400},
+   {"year": 2013, "showTitle": "Ichabod", "repertoire": "Main Titles from Sleepy Hollow * The Vote from \"The Village\" * Chester * Shepherd's Hey * The Chase (from Sleepy Hollow)", "placement": "29th Place", "score": 68.400},
+   {"year": 2014, "showTitle": "La Cathedrale", "repertoire": "The Sunken Cathedral * Stained Glass * Lux Arumque * Mvt 3 from Gloria", "placement": "29th Place", "score": 71.000},
+   {"year": 2015, "showTitle": "The Climb", "repertoire": "Ascend (From Everest) * The Mountain (from The Bucket List) * Avalanche (from Vertical Limit) * The Climb", "placement": "25th Place", "score": 70.250},
+   {"year": 2016, "showTitle": "The Grid", "repertoire": "The Grid from Tron Legacy * Main Titles from Paycheck * Virus Attack * Adagio for Tron * NO one To kNOW one * Mona Lisa Overdrive", "placement": "24th Place", "score": 73.150},
+   {"year": 2017, "showTitle": "The Signal", "repertoire": "Define Dancing (from Wall-E) * Mothership * Satellite * The Sound of Silence * Hyperjump (from Wall-E) * Stargate Overture", "placement": "22nd Place", "score": 76.225},
+   {"year": 2018, "showTitle": "Along Came a Spider", "repertoire": "The Rite of Spring * Itsy Bitsy Spider * Symphony #8, Mvt. 3 * Aha! * Spiderman Theme * Water Night * Metropolis Symphony, Mvt. 1 (Lex)", "placement": "26th Place", "score": 74.400},
+   {"year": 2019, "showTitle": "Song of the Siren", "repertoire": "La Mer * Pure Imagination (from Willy Wonka and the Chocolate Factory) * Aquarium (from Carnival of the Animals) * Genie in a Bottle * Finale (from The Abyss) * Symphony No. 10", "placement": "21st Place", "score": 78.400},
+   {"year": 2022, "showTitle": "May Your Light Shine Forever", "repertoire": "Ilia's Theme from Star Trek: The Motion Picture * Mothership * Main Theme (from Requiem for a Dream) * Midnight City * Maiden Voyage * Squib Cakes * For Good (from The Wicked) * From Now On (from The Greatest Showman)", "placement": "29th Place", "score": 72.975}
+ ]
+}

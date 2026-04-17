@@ -1,0 +1,1029 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/23,Indianapolis,IN,1,Bluecoats,World Class,69.7,2016
+06/24,Fresno,CA,1,Blue Devils,World Class,68.95,2016
+06/25,Massillon,OH,1,Bluecoats,World Class,71.5,2016
+06/23,Indianapolis,IN,2,Carolina Crown,World Class,69.2,2016
+06/24,Fresno,CA,2,Vanguard,World Class,66.8,2016
+06/25,Massillon,OH,2,Carolina Crown,World Class,70.3,2016
+06/23,Indianapolis,IN,3,Cadets,World Class,66.95,2016
+06/24,Fresno,CA,3,Madison Scouts,World Class,64.25,2016
+06/25,Massillon,OH,3,Phantom Regiment,World Class,66.7,2016
+06/23,Indianapolis,IN,4,Cavaliers,World Class,65.4,2016
+06/24,Fresno,CA,4,Blue Knights,World Class,62.45,2016
+06/25,Massillon,OH,4,Boston Crusaders,World Class,62.4,2016
+06/23,Indianapolis,IN,5,Phantom Regiment,World Class,63.45,2016
+06/24,Fresno,CA,5,Academy,World Class,58.9,2016
+06/25,Massillon,OH,5,Crossmen,World Class,61.5,2016
+06/23,Indianapolis,IN,6,Boston Crusaders,World Class,60.45,2016
+06/24,Fresno,CA,6,Mandarins,World Class,54.5,2016
+06/24,Fresno,CA,7,Pacific Crest,World Class,53.7,2016
+06/24,Fresno,CA,1,Blue Devils B,Open Class,50.2,2016
+06/24,Fresno,CA,2,Vanguard Cadets,Open Class,50.15,2016
+06/24,Fresno,CA,3,Golden Empire,Open Class,45.15,2016
+06/24,Fresno,CA,4,Blue Devils C,Open Class,37.95,2016
+06/25,Whitewater,WI,1,Cadets,World Class,67.2,2016
+06/25,Sacramento,CA,1,Blue Devils,World Class,69.2,2016
+06/25,Lake Lehman,PA,1,Fusion Core,DCA Open Class,77.2,2016
+06/26,Michigan City,IN,1,Cadets,World Class,69.5,2016
+06/25,Whitewater,WI,2,Cavaliers,World Class,66.2,2016
+06/25,Sacramento,CA,2,Vanguard,World Class,67.15,2016
+06/25,Lake Lehman,PA,2,White Sabers,DCA Open Class,71.9,2016
+06/26,Michigan City,IN,2,Cavaliers,World Class,67.1,2016
+06/25,Whitewater,WI,3,Blue Stars,World Class,61.9,2016
+06/25,Sacramento,CA,3,Madison Scouts,World Class,63.35,2016
+06/25,Lake Lehman,PA,3,Skyliners,DCA Open Class,69.2,2016
+06/26,Michigan City,IN,3,Troopers,World Class,62.4,2016
+06/25,Whitewater,WI,4,Troopers,World Class,58.4,2016
+06/25,Sacramento,CA,4,Blue Knights,World Class,62.25,2016
+06/25,Lake Lehman,PA,4,Bushwackers,DCA Open Class,68.7,2016
+06/26,Michigan City,IN,4,Colts,World Class,59.4,2016
+06/25,Whitewater,WI,5,Colts,World Class,58.1,2016
+06/25,Sacramento,CA,5,Academy,World Class,58.0,2016
+06/26,Michigan City,IN,5,Pioneer,World Class,47.1,2016
+06/25,Whitewater,WI,6,Pioneer,World Class,48.2,2016
+06/25,Sacramento,CA,6,Mandarins,World Class,54.7,2016
+06/25,Sacramento,CA,7,Pacific Crest,World Class,54.05,2016
+06/26,Michigan City,IN,1,Genesis,Open Class,54.4,2016
+06/25,Whitewater,WI,1,Colt Cadets,Open Class,36.9,2016
+06/26,Michigan City,IN,2,Colt Cadets,Open Class,38.7,2016
+06/25,Whitewater,WI,1,Kilties,DCA A Class,43.7,2016
+06/25,Sacramento,CA,2,Blue Devils B,Open Class,50.3,2016
+06/26,Michigan City,IN,1,Kilties,DCA A Class,52.6,2016
+06/25,Sacramento,CA,3,Golden Empire,Open Class,45.15,2016
+06/25,Sacramento,CA,4,Blue Devils C,Open Class,37.95,2016
+06/26,Stanford,CA,1,Blue Devils,World Class,71.4,2016
+06/27,Hamilton,OH,1,Bluecoats,World Class,72.8,2016
+06/28,Pittsburgh,PA,1,Bluecoats,World Class,73.1,2016
+06/28,Dublin,OH,1,Cavaliers,World Class,71.1,2016
+06/26,Stanford,CA,2,Vanguard,World Class,69.25,2016
+06/27,Hamilton,OH,2,Carolina Crown,World Class,71.8,2016
+06/28,Pittsburgh,PA,2,Cadets,World Class,70.8,2016
+06/28,Dublin,OH,2,Blue Stars,World Class,65.8,2016
+06/26,Stanford,CA,3,Madison Scouts,World Class,65.3,2016
+06/27,Hamilton,OH,3,Blue Stars,World Class,65.3,2016
+06/28,Pittsburgh,PA,3,Phantom Regiment,World Class,67.0,2016
+06/28,Dublin,OH,3,Troopers,World Class,64.5,2016
+06/26,Stanford,CA,4,Blue Knights,World Class,63.25,2016
+06/27,Hamilton,OH,4,Crossmen,World Class,64.0,2016
+06/28,Pittsburgh,PA,4,Crossmen,World Class,63.6,2016
+06/28,Dublin,OH,4,Pioneer,World Class,46.4,2016
+06/26,Stanford,CA,5,Academy,World Class,60.45,2016
+06/27,Hamilton,OH,5,Boston Crusaders,World Class,63.7,2016
+06/28,Pittsburgh,PA,5,Boston Crusaders,World Class,62.5,2016
+06/26,Stanford,CA,6,Pacific Crest,World Class,56.55,2016
+06/27,Hamilton,OH,6,Colts,World Class,60.5,2016
+06/28,Dublin,OH,1,Genesis,Open Class,55.4,2016
+06/26,Stanford,CA,7,Mandarins,World Class,56.35,2016
+06/28,Dublin,OH,2,Legends,Open Class,54.7,2016
+06/26,Stanford,CA,1,Blue Devils B,Open Class,51.8,2016
+06/28,Dublin,OH,1,Cincinnati Tradition,DCA A Class,48.0,2016
+06/26,Stanford,CA,2,Vanguard Cadets,Open Class,51.15,2016
+06/26,Stanford,CA,3,Golden Empire,Open Class,46.15,2016
+06/26,Stanford,CA,4,Blue Devils C,Open Class,38.9,2016
+06/29,Evansville,IN,1,Cavaliers,World Class,73.1,2016
+06/30,Allentown,PA,1,Bluecoats,World Class,74.75,2016
+06/29,Evansville,IN,2,Blue Stars,World Class,67.8,2016
+06/30,Allentown,PA,2,Cadets,World Class,72.4,2016
+06/29,Evansville,IN,3,Troopers,World Class,66.6,2016
+06/30,Allentown,PA,3,Phantom Regiment,World Class,69.1,2016
+06/29,Evansville,IN,4,Colts,World Class,62.7,2016
+06/30,Allentown,PA,4,Crossmen,World Class,65.6,2016
+06/29,Evansville,IN,5,Pioneer,World Class,48.6,2016
+06/30,Allentown,PA,5,Boston Crusaders,World Class,64.55,2016
+06/30,Allentown,PA,6,Jersey Surf,World Class,54.3,2016
+06/29,Evansville,IN,1,Genesis,Open Class,55.2,2016
+06/29,Evansville,IN,2,Legends,Open Class,53.6,2016
+06/29,Evansville,IN,3,Music City,Open Class,49.2,2016
+07/01,Clifton,NJ,1,Jersey Surf,World Class,58.15,2016
+07/01,Muncie,IN,1,Carolina Crown,World Class,76.85,2016
+07/01,Oceanside,CA,1,Madison Scouts,World Class,66.65,2016
+07/01,Auburn,WA,1,Vanguard,World Class,71.0,2016
+07/01,Muncie,IN,2,Cavaliers,World Class,73.65,2016
+07/01,Oceanside,CA,2,Blue Knights,World Class,65.6,2016
+07/01,Auburn,WA,2,Oregon Crusaders,World Class,57.4,2016
+07/01,Clifton,NJ,1,Spartans,Open Class,53.0,2016
+07/01,Muncie,IN,3,Blue Stars,World Class,70.3,2016
+07/01,Oceanside,CA,3,Academy,World Class,63.35,2016
+07/01,Auburn,WA,3,Cascades,World Class,55.25,2016
+07/01,Clifton,NJ,2,Raiders,Open Class,46.45,2016
+07/01,Muncie,IN,4,Troopers,World Class,67.65,2016
+07/01,Oceanside,CA,4,Mandarins,World Class,59.95,2016
+07/01,Muncie,IN,5,Colts,World Class,64.3,2016
+07/01,Oceanside,CA,5,Pacific Crest,World Class,58.55,2016
+07/01,Auburn,WA,1,Columbians,Open Class,49.6,2016
+07/01,Muncie,IN,6,Pioneer,World Class,50.6,2016
+07/01,Auburn,WA,2,Battalion,Open Class,45.0,2016
+07/01,Oceanside,CA,1,Gold,Open Class,50.4,2016
+07/01,Auburn,WA,3,Thunder,Open Class,40.15,2016
+07/01,Muncie,IN,1,Genesis,Open Class,58.3,2016
+07/01,Oceanside,CA,2,Golden Empire,Open Class,49.6,2016
+07/01,Muncie,IN,2,Legends,Open Class,55.3,2016
+07/01,Oceanside,CA,3,Impulse,Open Class,45.2,2016
+07/01,Oceanside,CA,4,Watchmen,Open Class,44.0,2016
+07/01,Oceanside,CA,5,Incognito,Open Class,37.0,2016
+07/02,Chestnut Hill,MA,1,Bluecoats,World Class,74.8,2016
+07/02,Lisle,IL,1,Carolina Crown,World Class,74.6,2016
+07/02,Pasadena,CA,1,Blue Devils,World Class,75.5,2016
+07/02,Tigard,OR,1,Vanguard,World Class,72.35,2016
+07/02,Chestnut Hill,MA,2,Cadets,World Class,73.5,2016
+07/02,Lisle,IL,2,Cavaliers,World Class,72.0,2016
+07/02,Pasadena,CA,2,Madison Scouts,World Class,67.7,2016
+07/02,Tigard,OR,2,Oregon Crusaders,World Class,57.65,2016
+07/02,Chestnut Hill,MA,3,Phantom Regiment,World Class,70.05,2016
+07/02,Lisle,IL,3,Blue Stars,World Class,66.3,2016
+07/02,Pasadena,CA,3,Blue Knights,World Class,66.6,2016
+07/02,Tigard,OR,3,Cascades,World Class,55.95,2016
+07/02,Chestnut Hill,MA,4,Crossmen,World Class,66.35,2016
+07/02,Lisle,IL,4,Troopers,World Class,62.2,2016
+07/02,Pasadena,CA,4,Academy,World Class,64.75,2016
+07/02,Chestnut Hill,MA,5,Boston Crusaders,World Class,65.45,2016
+07/02,Lisle,IL,5,Colts,World Class,61.8,2016
+07/02,Pasadena,CA,5,Mandarins,World Class,61.7,2016
+07/02,Tigard,OR,1,Columbians,Open Class,51.05,2016
+07/02,Chestnut Hill,MA,6,Jersey Surf,World Class,56.9,2016
+07/02,Pasadena,CA,6,Pacific Crest,World Class,59.65,2016
+07/02,Tigard,OR,2,Battalion,Open Class,46.05,2016
+07/02,Lisle,IL,1,Legends,Open Class,49.8,2016
+07/02,Tigard,OR,3,Thunder,Open Class,41.2,2016
+07/02,Chestnut Hill,MA,1,Spartans,Open Class,54.65,2016
+07/02,Lisle,IL,2,Genesis,Open Class,49.6,2016
+07/02,Pasadena,CA,1,Gold,Open Class,53.0,2016
+07/02,Chestnut Hill,MA,2,7th Regiment,Open Class,53.65,2016
+07/02,Lisle,IL,3,Colt Cadets,Open Class,40.7,2016
+07/02,Pasadena,CA,2,Golden Empire,Open Class,50.6,2016
+07/02,Pasadena,CA,3,Impulse,Open Class,47.55,2016
+07/02,Lisle,IL,1,Kilties,DCA A Class,48.9,2016
+07/02,Pasadena,CA,4,Watchmen,Open Class,45.2,2016
+07/02,Pasadena,CA,5,Incognito,Open Class,38.9,2016
+07/02,Ijamsville,MD,1,Reading Buccaneers,DCA Open Class,81.55,2016
+07/03,Pittsfield,MA,1,Sunrisers,DCA Open Class,71.6,2016
+07/03,Lynn,MA,1,Bluecoats,World Class,76.15,2016
+07/03,Cedarburg,WI,1,Carolina Crown,World Class,76.6,2016
+07/02,Ijamsville,MD,2,Fusion Core,DCA Open Class,78.45,2016
+07/03,Pittsfield,MA,2,Bushwackers,DCA Open Class,68.6,2016
+07/03,Lynn,MA,2,Cadets,World Class,74.65,2016
+07/03,Cedarburg,WI,2,Cavaliers,World Class,74.5,2016
+07/02,Ijamsville,MD,3,Atlanta CV,DCA Open Class,77.15,2016
+07/03,Pittsfield,MA,3,Connecticut Hurricanes,DCA Open Class,67.75,2016
+07/03,Lynn,MA,3,Phantom Regiment,World Class,70.35,2016
+07/03,Cedarburg,WI,3,Blue Stars,World Class,69.8,2016
+07/02,Ijamsville,MD,4,Cadets 2,DCA Open Class,76.9,2016
+07/03,Lynn,MA,4,Crossmen,World Class,67.55,2016
+07/03,Cedarburg,WI,4,Troopers,World Class,66.4,2016
+07/02,Ijamsville,MD,5,White Sabers,DCA Open Class,71.55,2016
+07/03,Lynn,MA,5,Boston Crusaders,World Class,65.9,2016
+07/03,Cedarburg,WI,5,Colts,World Class,65.8,2016
+07/02,Ijamsville,MD,6,Skyliners,DCA Open Class,67.6,2016
+07/03,Cedarburg,WI,6,Pioneer,World Class,54.7,2016
+07/02,Ijamsville,MD,7,Carolina Gold,DCA Open Class,66.6,2016
+07/03,Lynn,MA,1,Spartans,Open Class,55.35,2016
+07/03,Lynn,MA,2,7th Regiment,Open Class,53.95,2016
+07/03,Cedarburg,WI,1,Music City,Open Class,55.4,2016
+07/03,Cedarburg,WI,2,Colt Cadets,Open Class,49.9,2016
+07/03,Cedarburg,WI,1,Kilties,DCA A Class,59.7,2016
+07/03,Riverside,CA,1,Blue Devils,World Class,77.55,2016
+07/05,Cranston,RI,1,Cadets,World Class,77.2,2016
+07/05,LaCrosse,WI,1,Music City,Open Class,51.3,2016
+07/05,Mesa,AZ,1,Madison Scouts,World Class,68.7,2016
+07/03,Riverside,CA,2,Blue Knights,World Class,69.85,2016
+07/05,Cranston,RI,2,Phantom Regiment,World Class,73.9,2016
+07/05,LaCrosse,WI,2,Genesis,Open Class,50.6,2016
+07/05,Mesa,AZ,2,Academy,World Class,67.4,2016
+07/03,Riverside,CA,3,Madison Scouts,World Class,67.05,2016
+07/05,Cranston,RI,3,Crossmen,World Class,69.7,2016
+07/05,LaCrosse,WI,3,Colt Cadets,Open Class,43.8,2016
+07/05,Mesa,AZ,3,Pacific Crest,World Class,60.3,2016
+07/03,Riverside,CA,4,Academy,World Class,66.4,2016
+07/05,Cranston,RI,4,Boston Crusaders,World Class,68.4,2016
+07/05,LaCrosse,WI,4,River City Rhythm,Open Class,42.6,2016
+07/03,Riverside,CA,5,Mandarins,World Class,62.65,2016
+07/05,Mesa,AZ,1,Watchmen,Open Class,49.6,2016
+07/03,Riverside,CA,6,Pacific Crest,World Class,60.25,2016
+07/05,Cranston,RI,1,Spartans,Open Class,56.9,2016
+07/05,Cranston,RI,2,7th Regiment,Open Class,55.8,2016
+07/03,Riverside,CA,1,Gold,Open Class,54.45,2016
+07/03,Riverside,CA,2,Golden Empire,Open Class,52.95,2016
+07/03,Riverside,CA,3,Watchmen,Open Class,47.5,2016
+07/03,Riverside,CA,4,Incognito,Open Class,46.95,2016
+07/03,Riverside,CA,5,Impulse,Open Class,39.5,2016
+07/05,Tri Cities,WA,1,Vanguard,World Class,73.9,2016
+07/06,Mankato,MN,1,Carolina Crown,World Class,73.9,2016
+07/06,Boise,ID,1,Vanguard,World Class,75.0,2016
+07/07,Chickasha,OK,1,Madison Scouts,World Class,68.5,2016
+07/05,Tri Cities,WA,2,Oregon Crusaders,World Class,59.7,2016
+07/06,Mankato,MN,2,Blue Stars,World Class,67.4,2016
+07/06,Boise,ID,2,Oregon Crusaders,World Class,60.9,2016
+07/07,Chickasha,OK,2,Academy,World Class,67.3,2016
+07/05,Tri Cities,WA,3,Cascades,World Class,57.1,2016
+07/06,Mankato,MN,3,Colts,World Class,63.7,2016
+07/06,Boise,ID,3,Cascades,World Class,57.5,2016
+07/07,Chickasha,OK,3,Pacific Crest,World Class,57.9,2016
+07/05,Tri Cities,WA,1,Columbians,Open Class,51.9,2016
+07/06,Boise,ID,1,Columbians,Open Class,52.9,2016
+07/05,Tri Cities,WA,2,Battalion,Open Class,47.1,2016
+07/06,Mankato,MN,1,Colt Cadets,Open Class,46.0,2016
+07/06,Boise,ID,2,Battalion,Open Class,48.1,2016
+07/05,Tri Cities,WA,3,Thunder,Open Class,43.2,2016
+07/06,Mankato,MN,2,River City Rhythm,Open Class,44.9,2016
+07/06,Boise,ID,3,Thunder,Open Class,44.8,2016
+07/06,Mankato,MN,1,Minnesota Brass,DCA Open Class,59.5,2016
+07/06,Mankato,MN,2,Govenaires,DCA Open Class,53.3,2016
+07/07,Ogden,UT,1,Blue Devils,World Class,79.5,2016
+07/08,Lexington,SC,1,Bluecoats,World Class,78.0,2016
+07/08,Casper,WY,1,Cavaliers,World Class,73.9,2016
+07/08,Mountain House,CA,1,Mandarins,World Class,59.45,2016
+07/07,Ogden,UT,2,Vanguard,World Class,75.9,2016
+07/08,Lexington,SC,2,Cadets,World Class,76.0,2016
+07/08,Casper,WY,2,Troopers,World Class,66.2,2016
+07/07,Ogden,UT,3,Blue Knights,World Class,69.9,2016
+07/08,Lexington,SC,3,Crossmen,World Class,69.15,2016
+07/08,Casper,WY,3,Oregon Crusaders,World Class,62.0,2016
+07/08,Mountain House,CA,1,Blue Devils B,Open Class,55.85,2016
+07/07,Ogden,UT,4,Oregon Crusaders,World Class,61.6,2016
+07/08,Lexington,SC,4,Boston Crusaders,World Class,67.1,2016
+07/08,Casper,WY,4,Cascades,World Class,58.5,2016
+07/08,Mountain House,CA,2,Vanguard Cadets,Open Class,54.95,2016
+07/07,Ogden,UT,5,Cascades,World Class,57.4,2016
+07/08,Lexington,SC,5,Spirit of Atlanta,World Class,62.4,2016
+07/08,Mountain House,CA,3,Thunder,Open Class,46.55,2016
+07/08,Lexington,SC,6,Jersey Surf,World Class,55.45,2016
+07/08,Mountain House,CA,4,Watchmen,Open Class,45.05,2016
+07/07,Ogden,UT,1,Columbians,Open Class,55.0,2016
+07/08,Mountain House,CA,5,Blue Devils C,Open Class,38.4,2016
+07/07,Ogden,UT,2,Gold,Open Class,53.4,2016
+07/08,Lexington,SC,1,Legends,Open Class,53.3,2016
+07/08,Mountain House,CA,6,Incognito,Open Class,37.1,2016
+07/07,Ogden,UT,3,Golden Empire,Open Class,52.7,2016
+07/07,Ogden,UT,4,Battalion,Open Class,49.8,2016
+07/07,Ogden,UT,5,Thunder,Open Class,45.4,2016
+07/09,Lakeland,FL,1,Bluecoats,World Class,79.0,2016
+07/09,Denver,CO,1,Blue Devils,World Class,80.8,2016
+07/09,Rockford,IL,1,Carolina Crown,World Class,77.8,2016
+07/09,Sacramento,CA,1,Mandarins,World Class,62.0,2016
+07/09,Lakeland,FL,2,Cadets,World Class,76.65,2016
+07/09,Denver,CO,2,Vanguard,World Class,77.25,2016
+07/09,Rockford,IL,2,Phantom Regiment,World Class,73.05,2016
+07/09,Lakeland,FL,3,Crossmen,World Class,70.1,2016
+07/09,Denver,CO,3,Cavaliers,World Class,76.0,2016
+07/09,Rockford,IL,3,Blue Stars,World Class,71.0,2016
+07/09,Sacramento,CA,1,Blue Devils B,Open Class,59.05,2016
+07/09,Lakeland,FL,4,Boston Crusaders,World Class,68.75,2016
+07/09,Denver,CO,4,Blue Knights,World Class,71.55,2016
+07/09,Rockford,IL,4,Academy,World Class,68.05,2016
+07/09,Sacramento,CA,2,Vanguard Cadets,Open Class,57.7,2016
+07/09,Lakeland,FL,5,Spirit of Atlanta,World Class,63.2,2016
+07/09,Denver,CO,5,Troopers,World Class,67.45,2016
+07/09,Rockford,IL,5,Colts,World Class,63.9,2016
+07/09,Sacramento,CA,3,Thunder,Open Class,47.15,2016
+07/09,Lakeland,FL,6,Jersey Surf,World Class,57.55,2016
+07/09,Denver,CO,6,Oregon Crusaders,World Class,63.45,2016
+07/09,Rockford,IL,6,Pacific Crest,World Class,61.2,2016
+07/09,Sacramento,CA,4,Watchmen,Open Class,46.3,2016
+07/09,Denver,CO,7,Cascades,World Class,60.1,2016
+07/09,Rockford,IL,7,Pioneer,World Class,54.9,2016
+07/09,Sacramento,CA,5,Blue Devils C,Open Class,40.0,2016
+07/09,Lakeland,FL,1,Legends,Open Class,53.55,2016
+07/09,Sacramento,CA,6,Incognito,Open Class,37.3,2016
+07/09,Lakeland,FL,2,Heat Wave,Open Class,42.25,2016
+07/09,Denver,CO,1,Columbians,Open Class,57.1,2016
+07/09,Rockford,IL,1,Colt Cadets,Open Class,51.05,2016
+07/09,Denver,CO,2,Gold,Open Class,54.3,2016
+07/09,Denver,CO,3,Golden Empire,Open Class,54.0,2016
+07/09,Rockford,IL,1,Kilties,DCA A Class,48.75,2016
+07/09,Clifton,NJ,1,Fusion Core,DCA Open Class,81.1,2016
+07/10,Madison,WI,1,Carolina Crown,World Class,79.45,2016
+07/11,Jupiter,FL,1,Bluecoats,World Class,81.25,2016
+07/11,Lebanon,IL,1,Carolina Crown,World Class,78.75,2016
+07/09,Clifton,NJ,2,Cadets 2,DCA Open Class,78.75,2016
+07/10,Madison,WI,2,Madison Scouts,World Class,72.85,2016
+07/11,Jupiter,FL,2,Cadets,World Class,78.35,2016
+07/11,Lebanon,IL,2,Phantom Regiment,World Class,74.6,2016
+07/09,Clifton,NJ,3,Sunrisers,DCA Open Class,73.9,2016
+07/10,Madison,WI,3,Blue Stars,World Class,71.7,2016
+07/11,Jupiter,FL,3,Crossmen,World Class,71.95,2016
+07/11,Lebanon,IL,3,Academy,World Class,69.25,2016
+07/09,Clifton,NJ,4,Bushwackers,DCA Open Class,71.25,2016
+07/10,Madison,WI,4,Academy,World Class,69.95,2016
+07/11,Jupiter,FL,4,Boston Crusaders,World Class,69.0,2016
+07/11,Lebanon,IL,4,Pacific Crest,World Class,62.2,2016
+07/09,Clifton,NJ,5,Connecticut Hurricanes,DCA Open Class,70.25,2016
+07/10,Madison,WI,5,Pacific Crest,World Class,62.8,2016
+07/11,Jupiter,FL,5,Spirit of Atlanta,World Class,64.3,2016
+07/09,Clifton,NJ,6,Skyliners,DCA Open Class,69.8,2016
+07/10,Madison,WI,6,Pioneer,World Class,55.65,2016
+07/11,Jupiter,FL,6,Jersey Surf,World Class,58.75,2016
+07/11,Lebanon,IL,1,Music City,Open Class,53.05,2016
+07/11,Lebanon,IL,2,Shadow,Open Class,47.45,2016
+07/10,Madison,WI,1,Genesis,Open Class,56.05,2016
+07/11,Jupiter,FL,1,Legends,Open Class,55.65,2016
+07/10,Madison,WI,2,Music City,Open Class,53.5,2016
+07/11,Jupiter,FL,2,Heat Wave,Open Class,42.8,2016
+07/10,Madison,WI,3,Shadow,Open Class,48.3,2016
+07/10,Madison,WI,1,Kilties,DCA A Class,50.85,2016
+07/11,Omaha,NE,1,Blue Devils,World Class,81.35,2016
+07/12,Daytona Beach,FL,1,Bluecoats,World Class,81.95,2016
+07/12,Overland Park,KS,1,Blue Devils,World Class,81.65,2016
+07/13,Sioux City,IA,1,Vanguard,World Class,79.8,2016
+07/11,Omaha,NE,2,Cavaliers,World Class,76.95,2016
+07/12,Daytona Beach,FL,2,Cadets,World Class,80.5,2016
+07/12,Overland Park,KS,2,Vanguard,World Class,78.7,2016
+07/13,Sioux City,IA,2,Cavaliers,World Class,78.7,2016
+07/11,Omaha,NE,3,Blue Knights,World Class,71.95,2016
+07/12,Daytona Beach,FL,3,Crossmen,World Class,74.1,2016
+07/12,Overland Park,KS,3,Troopers,World Class,69.4,2016
+07/13,Sioux City,IA,3,Troopers,World Class,69.5,2016
+07/11,Omaha,NE,4,Troopers,World Class,67.1,2016
+07/12,Daytona Beach,FL,4,Boston Crusaders,World Class,71.25,2016
+07/12,Overland Park,KS,4,Colts,World Class,67.65,2016
+07/13,Sioux City,IA,4,Colts,World Class,68.3,2016
+07/11,Omaha,NE,5,Oregon Crusaders,World Class,62.75,2016
+07/12,Daytona Beach,FL,5,Spirit of Atlanta,World Class,66.4,2016
+07/13,Sioux City,IA,5,Oregon Crusaders,World Class,63.7,2016
+07/11,Omaha,NE,6,Cascades,World Class,60.0,2016
+07/12,Daytona Beach,FL,6,Jersey Surf,World Class,60.2,2016
+07/12,Overland Park,KS,1,Colt Cadets,Open Class,49.1,2016
+07/11,Omaha,NE,1,Colt Cadets,Open Class,49.4,2016
+07/12,Daytona Beach,FL,1,Legends,Open Class,57.0,2016
+07/12,Daytona Beach,FL,2,Heat Wave,Open Class,43.6,2016
+07/14,Dubuque,IA,1,Vanguard,World Class,79.85,2016
+07/14,Wausau,WI,1,Phantom Regiment,World Class,76.6,2016
+07/15,Huntsville,AL,1,Bluecoats,World Class,82.9,2016
+07/14,Dubuque,IA,2,Cavaliers,World Class,79.05,2016
+07/14,Wausau,WI,2,Blue Stars,World Class,73.4,2016
+07/15,Huntsville,AL,2,Cadets,World Class,80.95,2016
+07/14,Dubuque,IA,3,Academy,World Class,70.55,2016
+07/14,Wausau,WI,3,Pacific Crest,World Class,65.4,2016
+07/15,Huntsville,AL,3,Crossmen,World Class,73.65,2016
+07/14,Dubuque,IA,4,Colts,World Class,68.1,2016
+07/14,Wausau,WI,4,Mandarins,World Class,65.0,2016
+07/15,Huntsville,AL,4,Boston Crusaders,World Class,71.4,2016
+07/14,Dubuque,IA,5,Oregon Crusaders,World Class,64.3,2016
+07/14,Wausau,WI,5,Pioneer,World Class,57.0,2016
+07/15,Huntsville,AL,5,Spirit of Atlanta,World Class,65.85,2016
+07/15,Huntsville,AL,6,Jersey Surf,World Class,60.6,2016
+07/14,Dubuque,IA,1,Genesis,Open Class,57.6,2016
+07/14,Dubuque,IA,2,Colt Cadets,Open Class,50.45,2016
+07/15,Huntsville,AL,1,Legends,Open Class,58.3,2016
+07/15,Huntsville,AL,2,Music City,Open Class,57.4,2016
+07/15,Huntsville,AL,3,Louisiana Stars,Open Class,54.4,2016
+07/15,Huntsville,AL,4,Southwind,Open Class,49.7,2016
+07/15,Huntsville,AL,1,Southern Knights,DCA A Class,50.9,2016
+07/15,Rochester,MN,1,Blue Stars,World Class,74.65,2016
+07/15,Bakersfield,CA,1,Vanguard Cadets,Open Class,61.6,2016
+07/16,Alexandria,KY,1,Bluecoats,World Class,83.3,2016
+07/16,Dallas,GA,1,Legends,Open Class,60.2,2016
+07/15,Rochester,MN,2,Madison Scouts,World Class,74.45,2016
+07/15,Bakersfield,CA,2,Blue Devils B,Open Class,61.35,2016
+07/16,Alexandria,KY,2,Carolina Crown,World Class,83.125,2016
+07/16,Dallas,GA,2,Music City,Open Class,59.2,2016
+07/15,Rochester,MN,3,Blue Knights,World Class,73.9,2016
+07/15,Bakersfield,CA,3,Golden Empire,Open Class,55.95,2016
+07/16,Alexandria,KY,3,Cadets,World Class,80.9,2016
+07/16,Dallas,GA,3,Louisiana Stars,Open Class,55.4,2016
+07/15,Rochester,MN,4,Pioneer,World Class,57.75,2016
+07/15,Bakersfield,CA,4,Watchmen,Open Class,51.25,2016
+07/16,Alexandria,KY,4,Crossmen,World Class,74.375,2016
+07/16,Dallas,GA,4,Southwind,Open Class,52.2,2016
+07/15,Bakersfield,CA,5,Impulse,Open Class,45.9,2016
+07/16,Alexandria,KY,5,Boston Crusaders,World Class,71.725,2016
+07/15,Rochester,MN,1,Genesis,Open Class,60.6,2016
+07/15,Bakersfield,CA,6,Blue Devils C,Open Class,44.25,2016
+07/16,Alexandria,KY,6,Spirit of Atlanta,World Class,65.7,2016
+07/16,Dallas,GA,1,Atlanta CV,DCA Open Class,65.1,2016
+07/15,Rochester,MN,2,River City Rhythm,Open Class,52.2,2016
+07/15,Bakersfield,CA,7,Incognito,Open Class,40.1,2016
+07/16,Alexandria,KY,7,Jersey Surf,World Class,61.2,2016
+07/16,Dallas,GA,2,Alliance,DCA Open Class,57.9,2016
+07/15,Rochester,MN,1,Minnesota Brass,DCA Open Class,81.0,2016
+07/16,Alexandria,KY,1,Cincinnati Tradition,DCA A Class,55.9,2016
+07/16,Dallas,GA,1,Southern Knights,DCA A Class,51.1,2016
+07/16,Minneapolis,MN,1,Vanguard,World Class,80.975,2016
+07/16,San Marcos,CA,1,Blue Devils B,Open Class,62.95,2016
+07/16,Nazareth,PA,1,Reading Buccaneers,DCA Open Class,86.75,2016
+07/17,Waukee,IA,1,Madison Scouts,World Class,75.2,2016
+07/16,Minneapolis,MN,2,Cavaliers,World Class,79.975,2016
+07/16,San Marcos,CA,2,Vanguard Cadets,Open Class,62.9,2016
+07/16,Nazareth,PA,2,Fusion Core,DCA Open Class,83.3,2016
+07/17,Waukee,IA,2,Academy,World Class,73.5,2016
+07/16,Minneapolis,MN,3,Phantom Regiment,World Class,76.575,2016
+07/16,San Marcos,CA,3,Gold,Open Class,57.7,2016
+07/16,Nazareth,PA,3,Hawthorne Caballeros,DCA Open Class,82.5,2016
+07/17,Waukee,IA,3,Colts,World Class,70.9,2016
+07/16,Minneapolis,MN,4,Blue Stars,World Class,75.5,2016
+07/16,San Marcos,CA,4,Golden Empire,Open Class,55.5,2016
+07/16,Nazareth,PA,4,Cadets 2,DCA Open Class,82.3,2016
+07/17,Waukee,IA,4,Oregon Crusaders,World Class,67.2,2016
+07/16,Minneapolis,MN,5,Blue Knights,World Class,75.05,2016
+07/16,San Marcos,CA,5,Watchmen,Open Class,52.2,2016
+07/16,Nazareth,PA,5,Sunrisers,DCA Open Class,76.1,2016
+07/17,Waukee,IA,5,Pioneer,World Class,59.8,2016
+07/16,Minneapolis,MN,6,Madison Scouts,World Class,74.05,2016
+07/16,San Marcos,CA,6,Impulse,Open Class,48.35,2016
+07/16,Nazareth,PA,6,Bushwackers,DCA Open Class,74.4,2016
+07/16,Minneapolis,MN,7,Academy,World Class,71.35,2016
+07/16,San Marcos,CA,7,Blue Devils C,Open Class,45.2,2016
+07/16,Nazareth,PA,7,Skyliners,DCA Open Class,72.3,2016
+07/17,Waukee,IA,1,Colt Cadets,Open Class,52.1,2016
+07/16,Minneapolis,MN,8,Troopers,World Class,69.475,2016
+07/16,San Marcos,CA,8,Incognito,Open Class,40.8,2016
+07/16,Nazareth,PA,8,Connecticut Hurricanes,DCA Open Class,71.05,2016
+07/16,Minneapolis,MN,9,Colts,World Class,68.5,2016
+07/16,Minneapolis,MN,10,Mandarins,World Class,65.825,2016
+07/16,Nazareth,PA,1,Erie Thunderbirds,DCA A Class,64.35,2016
+07/16,Minneapolis,MN,11,Oregon Crusaders,World Class,65.425,2016
+07/16,Minneapolis,MN,12,Pacific Crest,World Class,64.575,2016
+07/16,Minneapolis,MN,13,Pioneer,World Class,59.45,2016
+07/16,Minneapolis,MN,1,Genesis,Open Class,60.275,2016
+07/16,Minneapolis,MN,2,Colt Cadets,Open Class,52.8,2016
+07/16,Minneapolis,MN,3,River City Rhythm,Open Class,50.5,2016
+07/16,Minneapolis,MN,1,Govenaires,DCA Open Class,64.85,2016
+07/17,DeKalb,IL,1,Blue Devils,World Class,84.7,2016
+07/17,Bellflower,CA,1,Blue Devils B,Open Class,65.0,2016
+07/18,El Dorado,KS,1,Madison Scouts,World Class,75.3,2016
+07/18,Warrensburg,MO,1,Blue Devils,World Class,84.75,2016
+07/17,DeKalb,IL,2,Bluecoats,World Class,84.1,2016
+07/17,Bellflower,CA,2,Vanguard Cadets,Open Class,64.05,2016
+07/18,El Dorado,KS,2,Boston Crusaders,World Class,73.15,2016
+07/18,Warrensburg,MO,2,Bluecoats,World Class,84.65,2016
+07/17,DeKalb,IL,3,Carolina Crown,World Class,83.95,2016
+07/17,Bellflower,CA,3,Gold,Open Class,59.0,2016
+07/18,El Dorado,KS,3,Troopers,World Class,70.8,2016
+07/18,Warrensburg,MO,3,Carolina Crown,World Class,83.95,2016
+07/17,DeKalb,IL,4,Vanguard,World Class,80.8,2016
+07/17,Bellflower,CA,4,Golden Empire,Open Class,56.4,2016
+07/18,El Dorado,KS,4,Mandarins,World Class,68.6,2016
+07/18,Warrensburg,MO,4,Cadets,World Class,81.5,2016
+07/17,DeKalb,IL,5,Cadets,World Class,80.55,2016
+07/17,Bellflower,CA,5,Watchmen,Open Class,53.35,2016
+07/18,El Dorado,KS,5,Pacific Crest,World Class,67.8,2016
+07/18,Warrensburg,MO,5,Vanguard,World Class,81.15,2016
+07/17,DeKalb,IL,6,Cavaliers,World Class,79.45,2016
+07/17,Bellflower,CA,6,Impulse,Open Class,50.1,2016
+07/18,El Dorado,KS,6,Jersey Surf,World Class,63.2,2016
+07/18,Warrensburg,MO,6,Cavaliers,World Class,80.0,2016
+07/17,DeKalb,IL,7,Phantom Regiment,World Class,76.85,2016
+07/17,Bellflower,CA,7,Blue Devils C,Open Class,46.85,2016
+07/18,El Dorado,KS,7,Pioneer,World Class,59.1,2016
+07/18,Warrensburg,MO,7,Phantom Regiment,World Class,77.65,2016
+07/17,DeKalb,IL,8,Blue Knights,World Class,75.6,2016
+07/17,Bellflower,CA,8,Incognito,Open Class,41.75,2016
+07/18,Warrensburg,MO,8,Blue Stars,World Class,74.95,2016
+07/19,Bentonville,AR,1,Blue Devils,World Class,85.95,2016
+07/20,Broken Arrow,OK,1,Cadets,World Class,81.8,2016
+07/21,Belton,TX,1,Phantom Regiment,World Class,79.45,2016
+07/21,Denton,TX,1,Carolina Crown,World Class,85.6,2016
+07/19,Bentonville,AR,2,Carolina Crown,World Class,85.55,2016
+07/20,Broken Arrow,OK,2,Blue Knights,World Class,77.7,2016
+07/21,Belton,TX,2,Blue Stars,World Class,77.7,2016
+07/21,Denton,TX,2,Bluecoats,World Class,85.25,2016
+07/19,Bentonville,AR,3,Academy,World Class,75.45,2016
+07/20,Broken Arrow,OK,3,Blue Stars,World Class,76.35,2016
+07/21,Belton,TX,3,Madison Scouts,World Class,76.65,2016
+07/21,Denton,TX,3,Cadets,World Class,83.35,2016
+07/19,Bentonville,AR,4,Troopers,World Class,72.15,2016
+07/20,Broken Arrow,OK,4,Crossmen,World Class,76.05,2016
+07/21,Belton,TX,4,Crossmen,World Class,76.2,2016
+07/21,Denton,TX,4,Vanguard,World Class,83.15,2016
+07/19,Bentonville,AR,5,Mandarins,World Class,69.75,2016
+07/20,Broken Arrow,OK,5,Colts,World Class,72.05,2016
+07/21,Belton,TX,5,Boston Crusaders,World Class,74.15,2016
+07/21,Denton,TX,5,Cavaliers,World Class,81.45,2016
+07/19,Bentonville,AR,6,Spirit of Atlanta,World Class,68.15,2016
+07/20,Broken Arrow,OK,6,Spirit of Atlanta,World Class,69.25,2016
+07/21,Belton,TX,6,Troopers,World Class,74.1,2016
+07/21,Denton,TX,6,Blue Knights,World Class,79.2,2016
+07/19,Bentonville,AR,7,Pacific Crest,World Class,67.7,2016
+07/20,Broken Arrow,OK,7,Oregon Crusaders,World Class,68.2,2016
+07/21,Belton,TX,7,Colts,World Class,71.8,2016
+07/21,Denton,TX,7,Academy,World Class,75.15,2016
+07/20,Broken Arrow,OK,8,Cascades,World Class,64.75,2016
+07/21,Belton,TX,8,Oregon Crusaders,World Class,69.15,2016
+07/21,Denton,TX,8,Mandarins,World Class,70.15,2016
+07/19,Bentonville,AR,1,Genesis,Open Class,63.05,2016
+07/20,Broken Arrow,OK,9,Pioneer,World Class,58.85,2016
+07/21,Belton,TX,9,Spirit of Atlanta,World Class,68.85,2016
+07/21,Denton,TX,9,Pacific Crest,World Class,67.85,2016
+07/21,Belton,TX,10,Cascades,World Class,63.85,2016
+07/21,Belton,TX,11,Jersey Surf,World Class,63.1,2016
+07/21,Denton,TX,1,Guardians,Open Class,59.15,2016
+07/21,Belton,TX,1,Genesis,Open Class,63.2,2016
+07/22,Houston,TX,1,Bluecoats,World Class,86.15,2016
+07/23,San Antonio,TX,1,Bluecoats,World Class,87.0625,2016
+07/23,Manchester,NH,1,Legends,Open Class,64.4,2016
+07/23,Bayonne,NJ,1,Fusion Core,DCA Open Class,83.1,2016
+07/22,Houston,TX,2,Carolina Crown,World Class,85.75,2016
+07/23,San Antonio,TX,2,Carolina Crown,World Class,86.7875,2016
+07/23,Manchester,NH,2,Spartans,Open Class,63.2,2016
+07/23,Bayonne,NJ,2,Hawthorne Caballeros,DCA Open Class,82.25,2016
+07/22,Houston,TX,3,Blue Devils,World Class,85.65,2016
+07/23,San Antonio,TX,3,Blue Devils,World Class,86.35,2016
+07/23,Manchester,NH,3,7th Regiment,Open Class,61.0,2016
+07/23,Bayonne,NJ,3,Sunrisers,DCA Open Class,77.15,2016
+07/22,Houston,TX,4,Vanguard,World Class,83.05,2016
+07/23,San Antonio,TX,4,Vanguard,World Class,84.375,2016
+07/23,Manchester,NH,4,Les Stentors,Open Class,48.2,2016
+07/22,Houston,TX,5,Cadets,World Class,82.1,2016
+07/23,San Antonio,TX,5,Cadets,World Class,83.4375,2016
+07/22,Houston,TX,6,Cavaliers,World Class,81.35,2016
+07/23,San Antonio,TX,6,Cavaliers,World Class,83.1875,2016
+07/22,Houston,TX,7,Phantom Regiment,World Class,78.9,2016
+07/23,San Antonio,TX,7,Phantom Regiment,World Class,80.5375,2016
+07/22,Houston,TX,8,Crossmen,World Class,76.9,2016
+07/23,San Antonio,TX,8,Blue Knights,World Class,80.0,2016
+07/23,San Antonio,TX,9,Blue Stars,World Class,79.4375,2016
+07/23,San Antonio,TX,10,Crossmen,World Class,77.3375,2016
+07/23,San Antonio,TX,11,Madison Scouts,World Class,77.075,2016
+07/23,San Antonio,TX,12,Academy,World Class,75.525,2016
+07/23,San Antonio,TX,13,Boston Crusaders,World Class,74.8375,2016
+07/23,San Antonio,TX,14,Troopers,World Class,73.5125,2016
+07/23,San Antonio,TX,15,Colts,World Class,72.1125,2016
+07/23,San Antonio,TX,16,Mandarins,World Class,70.875,2016
+07/23,San Antonio,TX,17,Oregon Crusaders,World Class,69.6,2016
+07/23,San Antonio,TX,18,Spirit of Atlanta,World Class,68.9875,2016
+07/23,San Antonio,TX,19,Pacific Crest,World Class,66.875,2016
+07/23,San Antonio,TX,20,Cascades,World Class,64.075,2016
+07/23,San Antonio,TX,21,Jersey Surf,World Class,62.7,2016
+07/23,San Antonio,TX,1,Genesis,Open Class,64.95,2016
+07/23,San Antonio,TX,2,Guardians,Open Class,57.95,2016
+07/23,San Antonio,TX,3,Louisiana Stars,Open Class,57.9,2016
+07/24,Woodbridge,NJ,1,Fusion Core,DCA Open Class,83.75,2016
+07/25,Dallas,TX,1,Blue Devils,World Class,88.0,2016
+07/26,Mustang,OK,1,Cavaliers,World Class,85.05,2016
+07/24,Woodbridge,NJ,2,Hawthorne Caballeros,DCA Open Class,83.45,2016
+07/25,Dallas,TX,2,Bluecoats,World Class,87.6,2016
+07/26,Mustang,OK,2,Phantom Regiment,World Class,83.275,2016
+07/24,Woodbridge,NJ,3,Sunrisers,DCA Open Class,78.05,2016
+07/25,Dallas,TX,3,Phantom Regiment,World Class,81.65,2016
+07/26,Mustang,OK,3,Blue Knights,World Class,82.7,2016
+07/24,Woodbridge,NJ,4,Bushwackers,DCA Open Class,74.8,2016
+07/25,Dallas,TX,4,Blue Knights,World Class,81.2,2016
+07/26,Mustang,OK,4,Academy,World Class,79.9,2016
+07/25,Dallas,TX,5,Boston Crusaders,World Class,78.85,2016
+07/26,Mustang,OK,5,Troopers,World Class,76.35,2016
+07/25,Dallas,TX,6,Crossmen,World Class,77.15,2016
+07/26,Mustang,OK,6,Pioneer,World Class,64.0,2016
+07/25,Dallas,TX,7,Troopers,World Class,74.55,2016
+07/26,Mustang,OK,1,Guardians,Open Class,61.8,2016
+07/25,Dallas,TX,1,Genesis,Open Class,65.35,2016
+07/25,Dallas,TX,2,Guardians,Open Class,60.35,2016
+07/26,Biloxi,MS,1,Carolina Crown,World Class,88.4,2016
+07/27,Little Rock,AR,1,Bluecoats,World Class,89.6,2016
+07/27,Hattiesburg,MS,1,Blue Devils,World Class,89.4,2016
+07/27,Oskaloosa,IA,1,Vanguard Cadets,Open Class,66.4,2016
+07/26,Biloxi,MS,2,Blue Stars,World Class,80.35,2016
+07/27,Little Rock,AR,2,Cavaliers,World Class,86.0,2016
+07/27,Hattiesburg,MS,2,Cadets,World Class,87.0,2016
+07/27,Oskaloosa,IA,2,Genesis,Open Class,64.0,2016
+07/26,Biloxi,MS,3,Colts,World Class,73.4,2016
+07/27,Little Rock,AR,3,Crossmen,World Class,80.875,2016
+07/27,Hattiesburg,MS,3,Blue Stars,World Class,83.6,2016
+07/27,Oskaloosa,IA,3,Shadow,Open Class,53.2,2016
+07/26,Biloxi,MS,4,Spirit of Atlanta,World Class,69.45,2016
+07/27,Little Rock,AR,4,Academy,World Class,79.85,2016
+07/27,Hattiesburg,MS,4,Oregon Crusaders,World Class,75.9,2016
+07/27,Oskaloosa,IA,4,Colt Cadets,Open Class,50.8,2016
+07/26,Biloxi,MS,5,Pacific Crest,World Class,69.35,2016
+07/27,Little Rock,AR,5,Madison Scouts,World Class,79.75,2016
+07/27,Hattiesburg,MS,5,Mandarins,World Class,75.4,2016
+07/26,Biloxi,MS,6,Cascades,World Class,65.55,2016
+07/27,Little Rock,AR,6,Boston Crusaders,World Class,78.15,2016
+07/27,Hattiesburg,MS,6,Pacific Crest,World Class,72.15,2016
+07/27,Little Rock,AR,7,Troopers,World Class,76.55,2016
+07/27,Hattiesburg,MS,7,Jersey Surf,World Class,67.55,2016
+07/26,Biloxi,MS,1,Southwind,Open Class,56.8,2016
+07/27,Little Rock,AR,8,Spirit of Atlanta,World Class,72.15,2016
+07/26,Biloxi,MS,2,Heat Wave,Open Class,46.15,2016
+07/27,Little Rock,AR,9,Pioneer,World Class,64.35,2016
+07/27,Hattiesburg,MS,1,Southwind,Open Class,56.75,2016
+07/27,Hattiesburg,MS,2,Heat Wave,Open Class,49.6,2016
+07/28,Birmingham,AL,1,Cavaliers,World Class,87.3,2016
+07/29,Sheffield,PA,1,Legends,Open Class,66.2,2016
+07/29,Cedar Rapids,IA,1,Blue Devils B,Open Class,67.9,2016
+07/29,Nashville,TN,1,Bluecoats,World Class,90.8,2016
+07/28,Birmingham,AL,2,Blue Knights,World Class,84.95,2016
+07/29,Sheffield,PA,2,Spartans,Open Class,65.4,2016
+07/29,Cedar Rapids,IA,2,Vanguard Cadets,Open Class,67.6,2016
+07/29,Nashville,TN,2,Blue Devils,World Class,90.45,2016
+07/28,Birmingham,AL,3,Crossmen,World Class,82.35,2016
+07/29,Sheffield,PA,3,7th Regiment,Open Class,62.0,2016
+07/29,Cedar Rapids,IA,3,Genesis,Open Class,63.8,2016
+07/29,Nashville,TN,3,Carolina Crown,World Class,89.8,2016
+07/28,Birmingham,AL,4,Academy,World Class,81.25,2016
+07/29,Sheffield,PA,4,Raiders,Open Class,59.8,2016
+07/29,Cedar Rapids,IA,4,Shadow,Open Class,54.6,2016
+07/29,Nashville,TN,4,Vanguard,World Class,88.25,2016
+07/28,Birmingham,AL,5,Troopers,World Class,78.85,2016
+07/29,Sheffield,PA,5,Les Stentors,Open Class,46.2,2016
+07/29,Cedar Rapids,IA,5,Colt Cadets,Open Class,51.0,2016
+07/29,Nashville,TN,5,Cadets,World Class,86.8,2016
+07/28,Birmingham,AL,6,Pacific Crest,World Class,73.25,2016
+07/29,Nashville,TN,6,Blue Knights,World Class,84.15,2016
+07/28,Birmingham,AL,7,Spirit of Atlanta,World Class,73.0,2016
+07/29,Nashville,TN,7,Phantom Regiment,World Class,84.125,2016
+07/28,Birmingham,AL,8,Jersey Surf,World Class,67.75,2016
+07/29,Nashville,TN,8,Madison Scouts,World Class,82.875,2016
+07/28,Birmingham,AL,1,Southwind,Open Class,59.05,2016
+07/29,Nashville,TN,1,Music City,Open Class,65.45,2016
+07/28,Birmingham,AL,1,Southern Knights,DCA A Class,65.45,2016
+07/29,Opelika,AL,1,Blue Stars,World Class,83.85,2016
+07/30,Troy,MI,1,Legends,Open Class,68.25,2016
+07/30,Farmington,MN,1,Blue Devils B,Open Class,68.5,2016
+07/30,Atlanta,GA,1,Bluecoats,World Class,91.7125,2016
+07/29,Opelika,AL,2,Boston Crusaders,World Class,78.1,2016
+07/30,Troy,MI,2,Spartans,Open Class,66.75,2016
+07/30,Farmington,MN,2,Vanguard Cadets,Open Class,67.95,2016
+07/30,Atlanta,GA,2,Blue Devils,World Class,91.4875,2016
+07/29,Opelika,AL,3,Colts,World Class,76.95,2016
+07/30,Troy,MI,3,7th Regiment,Open Class,63.5,2016
+07/30,Farmington,MN,3,Genesis,Open Class,64.45,2016
+07/30,Atlanta,GA,3,Carolina Crown,World Class,90.875,2016
+07/29,Opelika,AL,4,Oregon Crusaders,World Class,76.4,2016
+07/30,Troy,MI,4,Raiders,Open Class,60.4,2016
+07/30,Farmington,MN,4,River City Rhythm,Open Class,56.3,2016
+07/30,Atlanta,GA,4,Vanguard,World Class,89.325,2016
+07/29,Opelika,AL,5,Mandarins,World Class,75.95,2016
+07/30,Troy,MI,5,Les Stentors,Open Class,46.5,2016
+07/30,Farmington,MN,5,Colt Cadets,Open Class,52.8,2016
+07/30,Atlanta,GA,5,Cadets,World Class,88.05,2016
+07/29,Opelika,AL,6,Spirit of Atlanta,World Class,73.15,2016
+07/30,Atlanta,GA,6,Cavaliers,World Class,87.625,2016
+07/29,Opelika,AL,7,Cascades,World Class,70.85,2016
+07/30,Farmington,MN,1,Minnesota Brass,DCA Open Class,75.8,2016
+07/30,Atlanta,GA,7,Blue Knights,World Class,84.9375,2016
+07/29,Opelika,AL,8,Pioneer,World Class,65.8,2016
+07/30,Farmington,MN,2,Govenaires,DCA Open Class,62.05,2016
+07/30,Atlanta,GA,8,Blue Stars,World Class,84.85,2016
+07/30,Atlanta,GA,9,Phantom Regiment,World Class,84.05,2016
+07/29,Opelika,AL,1,Heat Wave,Open Class,53.35,2016
+07/30,Atlanta,GA,10,Crossmen,World Class,82.25,2016
+07/30,Atlanta,GA,11,Madison Scouts,World Class,81.5,2016
+07/29,Opelika,AL,1,Southern Knights,DCA A Class,67.05,2016
+07/30,Atlanta,GA,12,Academy,World Class,81.4125,2016
+07/30,Atlanta,GA,13,Troopers,World Class,78.925,2016
+07/30,Atlanta,GA,14,Boston Crusaders,World Class,78.475,2016
+07/30,Atlanta,GA,15,Colts,World Class,76.775,2016
+07/30,Atlanta,GA,16,Mandarins,World Class,75.85,2016
+07/30,Atlanta,GA,17,Spirit of Atlanta,World Class,74.325,2016
+07/30,Atlanta,GA,18,Oregon Crusaders,World Class,73.9,2016
+07/30,Atlanta,GA,19,Pacific Crest,World Class,71.8,2016
+07/30,Atlanta,GA,20,Cascades,World Class,70.35,2016
+07/30,Atlanta,GA,21,Jersey Surf,World Class,68.55,2016
+07/30,Atlanta,GA,22,Pioneer,World Class,64.95,2016
+07/30,Atlanta,GA,1,Southwind,Open Class,61.725,2016
+07/30,Atlanta,GA,2,Heat Wave,Open Class,52.3,2016
+07/30,Atlanta,GA,1,Atlanta CV,DCA Open Class,64.2,2016
+07/30,Atlanta,GA,2,Alliance,DCA Open Class,56.25,2016
+07/30,Atlanta,GA,3,Carolina Gold,DCA Open Class,54.95,2016
+07/31,Winston-Salem,NC,1,Bluecoats,World Class,91.95,2016
+07/31,Three Rivers,MI,1,Legends,Open Class,68.2,2016
+07/31,Waukesha,WI,1,Blue Devils B,Open Class,69.85,2016
+07/31,Winston-Salem,NC,2,Vanguard,World Class,88.9,2016
+07/31,Three Rivers,MI,2,Music City,Open Class,65.3,2016
+07/31,Waukesha,WI,2,Spartans,Open Class,67.5,2016
+07/31,Winston-Salem,NC,3,Cavaliers,World Class,87.5,2016
+07/31,Three Rivers,MI,3,7th Regiment,Open Class,64.1,2016
+07/31,Waukesha,WI,3,Shadow,Open Class,58.95,2016
+07/31,Winston-Salem,NC,4,Phantom Regiment,World Class,84.5,2016
+07/31,Three Rivers,MI,4,Raiders,Open Class,59.5,2016
+07/31,Waukesha,WI,4,Impulse,Open Class,58.75,2016
+07/31,Winston-Salem,NC,5,Madison Scouts,World Class,81.95,2016
+07/31,Three Rivers,MI,5,Les Stentors,Open Class,46.6,2016
+07/31,Waukesha,WI,5,Colt Cadets,Open Class,57.35,2016
+07/31,Waukesha,WI,1,Kilties,DCA A Class,60.1,2016
+08/01,Charleston,WV,1,Bluecoats,World Class,91.75,2016
+08/01,Salem,VA,1,Cavaliers,World Class,89.05,2016
+08/02,Fort Wayne,IN,1,Blue Devils B,Open Class,71.15,2016
+08/02,Macomb,IL,1,Vanguard Cadets,Open Class,70.7,2016
+08/01,Charleston,WV,2,Phantom Regiment,World Class,85.25,2016
+08/01,Salem,VA,2,Blue Knights,World Class,85.7,2016
+08/02,Fort Wayne,IN,2,Legends,Open Class,68.75,2016
+08/02,Macomb,IL,2,Genesis,Open Class,67.5,2016
+08/01,Charleston,WV,3,Troopers,World Class,80.5,2016
+08/01,Salem,VA,3,Crossmen,World Class,83.45,2016
+08/02,Fort Wayne,IN,3,Spartans,Open Class,68.55,2016
+08/02,Macomb,IL,3,Gold,Open Class,62.1,2016
+08/01,Charleston,WV,4,Colts,World Class,79.05,2016
+08/01,Salem,VA,4,Oregon Crusaders,World Class,76.7,2016
+08/02,Fort Wayne,IN,4,Music City,Open Class,65.75,2016
+08/02,Macomb,IL,4,Louisiana Stars,Open Class,60.5,2016
+08/01,Charleston,WV,5,Cascades,World Class,72.15,2016
+08/01,Salem,VA,5,Mandarins,World Class,75.9,2016
+08/02,Fort Wayne,IN,5,7th Regiment,Open Class,65.2,2016
+08/02,Macomb,IL,5,Shadow,Open Class,60.4,2016
+08/01,Charleston,WV,6,Pioneer,World Class,65.0,2016
+08/01,Salem,VA,6,Spirit of Atlanta,World Class,75.3,2016
+08/02,Fort Wayne,IN,6,Raiders,Open Class,60.65,2016
+08/02,Macomb,IL,6,Impulse,Open Class,58.1,2016
+08/01,Salem,VA,7,Jersey Surf,World Class,70.1,2016
+08/02,Fort Wayne,IN,7,Les Stentors,Open Class,47.05,2016
+08/02,Macomb,IL,7,Colt Cadets,Open Class,56.4,2016
+08/02,Annapolis,MD,1,Blue Devils,World Class,92.15,2016
+08/02,Centerville,OH,1,Carolina Crown,World Class,91.4,2016
+08/03,Pittsburgh,PA,1,Carolina Crown,World Class,92.05,2016
+08/03,Dixon,IL,1,Blue Devils B,Open Class,72.3,2016
+08/02,Annapolis,MD,2,Vanguard,World Class,90.1,2016
+08/02,Centerville,OH,2,Blue Stars,World Class,85.35,2016
+08/03,Pittsburgh,PA,2,Blue Stars,World Class,85.8,2016
+08/03,Dixon,IL,2,Vanguard Cadets,Open Class,71.4,2016
+08/02,Annapolis,MD,3,Cadets,World Class,89.0,2016
+08/02,Centerville,OH,3,Madison Scouts,World Class,83.95,2016
+08/03,Pittsburgh,PA,3,Madison Scouts,World Class,84.15,2016
+08/03,Dixon,IL,3,Genesis,Open Class,68.0,2016
+08/02,Annapolis,MD,4,Blue Knights,World Class,85.95,2016
+08/02,Centerville,OH,4,Academy,World Class,81.95,2016
+08/03,Pittsburgh,PA,4,Academy,World Class,82.4,2016
+08/03,Dixon,IL,4,Louisiana Stars,Open Class,63.9,2016
+08/02,Annapolis,MD,5,Crossmen,World Class,84.2,2016
+08/02,Centerville,OH,5,Colts,World Class,79.1,2016
+08/03,Pittsburgh,PA,5,Troopers,World Class,81.35,2016
+08/03,Dixon,IL,5,Gold,Open Class,63.4,2016
+08/02,Annapolis,MD,6,Boston Crusaders,World Class,81.05,2016
+08/02,Centerville,OH,6,Spirit of Atlanta,World Class,74.45,2016
+08/03,Pittsburgh,PA,6,Colts,World Class,79.85,2016
+08/03,Dixon,IL,6,Shadow,Open Class,60.1,2016
+08/02,Annapolis,MD,7,Oregon Crusaders,World Class,77.15,2016
+08/02,Centerville,OH,7,Pacific Crest,World Class,72.9,2016
+08/03,Pittsburgh,PA,7,Pacific Crest,World Class,73.7,2016
+08/03,Dixon,IL,7,Impulse,Open Class,58.4,2016
+08/02,Annapolis,MD,8,Mandarins,World Class,76.7,2016
+08/02,Annapolis,MD,9,Jersey Surf,World Class,70.85,2016
+08/02,Centerville,OH,1,Cincinnati Tradition,DCA A Class,53.65,2016
+08/04,Quincy,MA,1,Cavaliers,World Class,90.6,2016
+08/04,Chester,PA,1,Bluecoats,World Class,93.45,2016
+08/05,Johnsonburg,PA,1,Spartans,Open Class,72.175,2016
+08/05,Forest City,IA,1,Blue Devils B,Open Class,76.2,2016
+08/04,Quincy,MA,2,Boston Crusaders,World Class,85.8,2016
+08/04,Chester,PA,2,Carolina Crown,World Class,92.85,2016
+08/05,Johnsonburg,PA,2,Legends,Open Class,71.55,2016
+08/05,Forest City,IA,2,Vanguard Cadets,Open Class,75.25,2016
+08/04,Quincy,MA,3,Mandarins,World Class,80.7,2016
+08/04,Chester,PA,3,Vanguard,World Class,90.85,2016
+08/05,Johnsonburg,PA,3,7th Regiment,Open Class,67.85,2016
+08/05,Forest City,IA,3,Gold,Open Class,67.125,2016
+08/04,Quincy,MA,4,Oregon Crusaders,World Class,79.5,2016
+08/04,Chester,PA,4,Cadets,World Class,90.3,2016
+08/05,Johnsonburg,PA,4,Music City,Open Class,67.525,2016
+08/05,Forest City,IA,4,Louisiana Stars,Open Class,66.525,2016
+08/04,Chester,PA,5,Phantom Regiment,World Class,87.05,2016
+08/05,Johnsonburg,PA,5,Raiders,Open Class,63.3,2016
+08/05,Forest City,IA,5,Guardians,Open Class,64.4,2016
+08/04,Chester,PA,6,Blue Knights,World Class,86.85,2016
+08/05,Johnsonburg,PA,6,Impulse,Open Class,58.975,2016
+08/05,Forest City,IA,6,Colt Cadets,Open Class,60.375,2016
+08/04,Chester,PA,7,Crossmen,World Class,84.85,2016
+08/05,Johnsonburg,PA,7,Les Stentors,Open Class,48.025,2016
+08/04,Chester,PA,8,Madison Scouts,World Class,83.725,2016
+08/05,Allentown,PA,1,Bluecoats,World Class,94.625,2016
+08/06,Allentown,PA,1,Carolina Crown,World Class,94.2625,2016
+08/06,Oregon,WI,1,Blue Devils B,Open Class,75.5,2016
+08/06,Avon Lake,OH,1,Legends,Open Class,73.95,2016
+08/05,Allentown,PA,2,Blue Devils,World Class,94.275,2016
+08/06,Allentown,PA,2,Vanguard,World Class,92.3375,2016
+08/06,Oregon,WI,2,Vanguard Cadets,Open Class,74.475,2016
+08/06,Avon Lake,OH,2,Genesis,Open Class,73.85,2016
+08/05,Allentown,PA,3,Blue Knights,World Class,88.65,2016
+08/06,Allentown,PA,3,Cavaliers,World Class,91.925,2016
+08/06,Oregon,WI,3,Gold,Open Class,68.15,2016
+08/06,Avon Lake,OH,3,Spartans,Open Class,73.25,2016
+08/05,Allentown,PA,4,Academy,World Class,85.55,2016
+08/06,Allentown,PA,4,Cadets,World Class,91.8875,2016
+08/06,Oregon,WI,4,Louisiana Stars,Open Class,65.3,2016
+08/06,Avon Lake,OH,4,Music City,Open Class,70.15,2016
+08/05,Allentown,PA,5,Madison Scouts,World Class,84.15,2016
+08/06,Allentown,PA,5,Phantom Regiment,World Class,88.5125,2016
+08/06,Oregon,WI,5,River City Rhythm,Open Class,63.775,2016
+08/06,Avon Lake,OH,5,7th Regiment,Open Class,68.3,2016
+08/05,Allentown,PA,6,Troopers,World Class,81.825,2016
+08/06,Allentown,PA,6,Blue Stars,World Class,88.45,2016
+08/06,Oregon,WI,6,Guardians,Open Class,63.288,2016
+08/06,Avon Lake,OH,6,Raiders,Open Class,64.75,2016
+08/05,Allentown,PA,7,Colts,World Class,79.9,2016
+08/06,Allentown,PA,7,Crossmen,World Class,86.15,2016
+08/06,Oregon,WI,7,Colt Cadets,Open Class,62.95,2016
+08/06,Avon Lake,OH,7,Impulse,Open Class,61.5,2016
+08/05,Allentown,PA,8,Spirit of Atlanta,World Class,75.25,2016
+08/06,Allentown,PA,8,Boston Crusaders,World Class,84.2,2016
+08/06,Oregon,WI,8,Shadow,Open Class,58.375,2016
+08/06,Avon Lake,OH,8,Les Stentors,Open Class,52.075,2016
+08/05,Allentown,PA,9,Cascades,World Class,72.55,2016
+08/06,Allentown,PA,9,Oregon Crusaders,World Class,78.1125,2016
+08/05,Allentown,PA,10,Pioneer,World Class,66.425,2016
+08/06,Allentown,PA,10,Mandarins,World Class,78.0375,2016
+08/06,Allentown,PA,11,Pacific Crest,World Class,75.925,2016
+08/06,Allentown,PA,12,Jersey Surf,World Class,70.75,2016
+08/06,Woodstock,GA,1,Atlanta CV,DCA Open Class,84.7,2016
+08/06,Kingston,NY,1,Hawthorne Caballeros,DCA Open Class,87.8,2016
+08/06,Racine,WI,1,Minnesota Brass,DCA Open Class,88.0,2016
+08/07,Buffalo,NY,1,Bluecoats,World Class,94.5,2016
+08/06,Woodstock,GA,2,Alliance,DCA Open Class,73.7,2016
+08/06,Kingston,NY,2,Fusion Core,DCA Open Class,87.0,2016
+08/06,Racine,WI,2,Govenaires,DCA Open Class,81.1,2016
+08/07,Buffalo,NY,2,Blue Devils,World Class,94.45,2016
+08/06,Kingston,NY,3,White Sabers,DCA Open Class,83.3,2016
+08/07,Buffalo,NY,3,Carolina Crown,World Class,93.775,2016
+08/06,Kingston,NY,4,Sunrisers,DCA Open Class,80.4,2016
+08/06,Racine,WI,1,Cincinnati Tradition,DCA A Class,73.5,2016
+08/07,Buffalo,NY,4,Cadets,World Class,91.6,2016
+08/06,Kingston,NY,5,Bushwackers,DCA Open Class,78.9,2016
+08/06,Racine,WI,2,Kilties,DCA A Class,69.85,2016
+08/07,Buffalo,NY,5,Cavaliers,World Class,90.8,2016
+08/06,Kingston,NY,6,Connecticut Hurricanes,DCA Open Class,75.95,2016
+08/06,Racine,WI,3,Erie Thunderbirds,DCA A Class,69.3,2016
+08/07,Buffalo,NY,6,Phantom Regiment,World Class,87.2,2016
+08/06,Racine,WI,4,"Chops, Inc.",DCA A Class,62.75,2016
+08/07,Buffalo,NY,7,Boston Crusaders,World Class,82.4,2016
+08/06,Kingston,NY,1,Excelsior,DCA A Class,60.9,2016
+08/07,Schuylerville,NY,1,Fusion Core,DCA Open Class,89.2,2016
+08/08,Erie,PA,1,Blue Stars,World Class,88.35,2016
+08/08,Massillon,OH,1,Bluecoats,World Class,94.95,2016
+08/07,Schuylerville,NY,2,White Sabers,DCA Open Class,85.55,2016
+08/08,Erie,PA,2,Crossmen,World Class,87.0,2016
+08/08,Massillon,OH,2,Carolina Crown,World Class,94.8,2016
+08/07,Schuylerville,NY,3,Sunrisers,DCA Open Class,83.8,2016
+08/08,Erie,PA,3,Boston Crusaders,World Class,83.6,2016
+08/08,Massillon,OH,3,Cadets,World Class,91.8,2016
+08/07,Schuylerville,NY,4,Bushwackers,DCA Open Class,81.2,2016
+08/08,Erie,PA,4,Troopers,World Class,82.7,2016
+08/08,Massillon,OH,4,Vanguard,World Class,91.775,2016
+08/08,Erie,PA,5,Mandarins,World Class,78.85,2016
+08/08,Massillon,OH,5,Cavaliers,World Class,90.25,2016
+08/07,Schuylerville,NY,1,Excelsior,DCA A Class,63.35,2016
+08/08,Erie,PA,6,Oregon Crusaders,World Class,78.4,2016
+08/08,Massillon,OH,6,Blue Knights,World Class,87.85,2016
+08/08,Erie,PA,7,Pacific Crest,World Class,75.55,2016
+08/08,Massillon,OH,7,Madison Scouts,World Class,84.5,2016
+08/08,Erie,PA,8,Jersey Surf,World Class,70.8,2016
+08/08,Michigan City,IN,1,Blue Devils B,Open Class,79.3625,2016
+08/09,Michigan City,IN,1,Blue Devils B,Open Class,79.9,2016
+08/08,Michigan City,IN,2,Vanguard Cadets,Open Class,78.825,2016
+08/09,Michigan City,IN,2,Vanguard Cadets,Open Class,78.85,2016
+08/08,Michigan City,IN,3,Legends,Open Class,76.15,2016
+08/09,Michigan City,IN,3,Legends,Open Class,76.5,2016
+08/08,Michigan City,IN,4,Genesis,Open Class,75.6,2016
+08/09,Michigan City,IN,4,Genesis,Open Class,75.25,2016
+08/08,Michigan City,IN,5,Spartans,Open Class,74.7125,2016
+08/09,Michigan City,IN,5,Spartans,Open Class,74.75,2016
+08/08,Michigan City,IN,6,Music City,Open Class,73.45,2016
+08/09,Michigan City,IN,6,Music City,Open Class,72.15,2016
+08/08,Michigan City,IN,7,7th Regiment,Open Class,72.075,2016
+08/09,Michigan City,IN,7,7th Regiment,Open Class,70.875,2016
+08/08,Michigan City,IN,8,Gold,Open Class,69.5125,2016
+08/09,Michigan City,IN,8,Gold,Open Class,68.6,2016
+08/08,Michigan City,IN,9,Louisiana Stars,Open Class,67.775,2016
+08/09,Michigan City,IN,9,Louisiana Stars,Open Class,67.3,2016
+08/08,Michigan City,IN,10,Raiders,Open Class,66.6875,2016
+08/09,Michigan City,IN,10,Raiders,Open Class,66.825,2016
+08/08,Michigan City,IN,11,Guardians,Open Class,66.35,2016
+08/09,Michigan City,IN,11,Guardians,Open Class,64.45,2016
+08/08,Michigan City,IN,12,River City Rhythm,Open Class,65.7,2016
+08/09,Michigan City,IN,12,River City Rhythm,Open Class,63.6,2016
+08/08,Michigan City,IN,13,Shadow,Open Class,64.175,2016
+08/08,Michigan City,IN,14,Impulse,Open Class,61.575,2016
+08/08,Michigan City,IN,15,Colt Cadets,Open Class,61.55,2016
+08/08,Michigan City,IN,16,Les Stentors,Open Class,55.325,2016
+08/11,Indianapolis,IN,1,Bluecoats,World Class,97.225,2016
+08/12,Indianapolis,IN,1,Bluecoats,World Class,97.263,2016
+08/13,Indianapolis,IN,1,Bluecoats,World Class,97.65,2016
+08/11,Indianapolis,IN,2,Blue Devils,World Class,96.6,2016
+08/12,Indianapolis,IN,2,Blue Devils,World Class,96.9875,2016
+08/13,Indianapolis,IN,2,Blue Devils,World Class,97.25,2016
+08/11,Indianapolis,IN,3,Carolina Crown,World Class,96.2625,2016
+08/12,Indianapolis,IN,3,Carolina Crown,World Class,96.925,2016
+08/13,Indianapolis,IN,3,Carolina Crown,World Class,97.0875,2016
+08/11,Indianapolis,IN,4,Vanguard,World Class,94.3,2016
+08/12,Indianapolis,IN,4,Vanguard,World Class,94.8875,2016
+08/13,Indianapolis,IN,4,Vanguard,World Class,95.3,2016
+08/11,Indianapolis,IN,5,Cadets,World Class,93.475,2016
+08/12,Indianapolis,IN,5,Cavaliers,World Class,93.775,2016
+08/13,Indianapolis,IN,5,Cavaliers,World Class,94.025,2016
+08/11,Indianapolis,IN,6,Cavaliers,World Class,93.2125,2016
+08/12,Indianapolis,IN,6,Cadets,World Class,93.225,2016
+08/13,Indianapolis,IN,6,Cadets,World Class,92.7625,2016
+08/11,Indianapolis,IN,7,Blue Knights,World Class,90.925,2016
+08/12,Indianapolis,IN,7,Blue Knights,World Class,91.625,2016
+08/13,Indianapolis,IN,7,Blue Knights,World Class,90.7375,2016
+08/11,Indianapolis,IN,8,Phantom Regiment,World Class,90.6,2016
+08/12,Indianapolis,IN,8,Phantom Regiment,World Class,89.7625,2016
+08/13,Indianapolis,IN,8,Phantom Regiment,World Class,89.9625,2016
+08/11,Indianapolis,IN,9,Blue Stars,World Class,89.975,2016
+08/12,Indianapolis,IN,9,Blue Stars,World Class,89.475,2016
+08/13,Indianapolis,IN,9,Blue Stars,World Class,89.05,2016
+08/11,Indianapolis,IN,10,Crossmen,World Class,87.875,2016
+08/12,Indianapolis,IN,10,Crossmen,World Class,87.65,2016
+08/13,Indianapolis,IN,10,Crossmen,World Class,86.975,2016
+08/11,Indianapolis,IN,11,Academy,World Class,87.15,2016
+08/12,Indianapolis,IN,11,Academy,World Class,87.225,2016
+08/13,Indianapolis,IN,11,Academy,World Class,86.1,2016
+08/11,Indianapolis,IN,12,Madison Scouts,World Class,85.6875,2016
+08/12,Indianapolis,IN,12,Boston Crusaders,World Class,85.525,2016
+08/13,Indianapolis,IN,12,Boston Crusaders,World Class,84.8,2016
+08/11,Indianapolis,IN,13,Boston Crusaders,World Class,84.9,2016
+08/12,Indianapolis,IN,13,Madison Scouts,World Class,85.265,2016
+08/11,Indianapolis,IN,14,Troopers,World Class,83.4375,2016
+08/12,Indianapolis,IN,14,Troopers,World Class,83.275,2016
+08/11,Indianapolis,IN,15,Blue Devils B,Open Class,82.65,2016
+08/12,Indianapolis,IN,15,Blue Devils B,Open Class,82.325,2016
+08/11,Indianapolis,IN,16,Colts,World Class,82.575,2016
+08/12,Indianapolis,IN,16,Colts,World Class,81.5125,2016
+08/11,Indianapolis,IN,17,Mandarins,World Class,81.0,2016
+08/12,Indianapolis,IN,17,Mandarins,World Class,81.2,2016
+08/11,Indianapolis,IN,18,Oregon Crusaders,World Class,79.9,2016
+08/12,Indianapolis,IN,18,Oregon Crusaders,World Class,79.725,2016
+08/11,Indianapolis,IN,19,Pacific Crest,World Class,78.775,2016
+08/12,Indianapolis,IN,19,Pacific Crest,World Class,78.875,2016
+08/11,Indianapolis,IN,20,Vanguard Cadets,Open Class,78.6875,2016
+08/12,Indianapolis,IN,20,Vanguard Cadets,Open Class,78.0,2016
+08/11,Indianapolis,IN,21,Spirit of Atlanta,World Class,77.5,2016
+08/12,Indianapolis,IN,21,Spirit of Atlanta,World Class,76.675,2016
+08/11,Indianapolis,IN,22,Cascades,World Class,76.3875,2016
+08/12,Indianapolis,IN,22,Cascades,World Class,75.15,2016
+08/11,Indianapolis,IN,23,Legends,Open Class,75.975,2016
+08/12,Indianapolis,IN,23,Genesis,Open Class,73.375,2016
+08/11,Indianapolis,IN,24,Genesis,Open Class,73.3,2016
+08/12,Indianapolis,IN,24,Legends,Open Class,73.15,2016
+08/11,Indianapolis,IN,25,Spartans,Open Class,73.125,2016
+08/12,Indianapolis,IN,25,Spartans,Open Class,71.475,2016
+08/11,Indianapolis,IN,26,Jersey Surf,World Class,71.9875,2016
+08/11,Indianapolis,IN,27,Music City,Open Class,71.725,2016
+08/11,Indianapolis,IN,28,7th Regiment,Open Class,68.4125,2016
+08/11,Indianapolis,IN,29,Pioneer,World Class,68.375,2016
+08/11,Indianapolis,IN,30,Gold,Open Class,67.6375,2016
+08/11,Indianapolis,IN,31,Louisiana Stars,Open Class,66.675,2016
+08/11,Indianapolis,IN,32,Guardians,Open Class,64.9875,2016
+08/11,Indianapolis,IN,33,Raiders,Open Class,64.85,2016
+08/11,Indianapolis,IN,34,River City Rhythm,Open Class,63.525,2016
+08/11,Indianapolis,IN,35,Shadow,Open Class,61.3,2016
+08/11,Indianapolis,IN,36,Impulse,Open Class,60.0625,2016
+08/11,Indianapolis,IN,37,Colt Cadets,Open Class,57.65,2016
+08/11,Indianapolis,IN,38,Les Stentors,Open Class,53.3,2016
+08/13,Williamsport,NY,1,Reading Buccaneers,DCA Open Class,91.45,2016
+08/19,Inner Grove,MN,1,Minnesota Brass,DCA Open Class,87.8,2016
+08/20,Indianapolis,IN,1,Minnesota Brass,DCA Open Class,91.65,2016
+08/20,Peckville,PA,1,Reading Buccaneers,DCA Open Class,93.75,2016
+08/13,Williamsport,NY,2,Hawthorne Caballeros,DCA Open Class,89.1,2016
+08/19,Inner Grove,MN,2,Govenaires,DCA Open Class,81.2,2016
+08/20,Indianapolis,IN,2,Govenaires,DCA Open Class,83.8,2016
+08/20,Peckville,PA,2,Cadets 2,DCA Open Class,90.9,2016
+08/13,Williamsport,NY,3,White Sabers,DCA Open Class,84.65,2016
+08/20,Peckville,PA,3,Hawthorne Caballeros,DCA Open Class,90.45,2016
+08/13,Williamsport,NY,4,Sunrisers,DCA Open Class,82.75,2016
+08/19,Inner Grove,MN,1,Kilties,DCA A Class,72.05,2016
+08/20,Indianapolis,IN,1,Kilties,DCA A Class,74.55,2016
+08/20,Peckville,PA,4,Fusion Core,DCA Open Class,89.55,2016
+08/13,Williamsport,NY,5,Bushwackers,DCA Open Class,80.2,2016
+08/19,Inner Grove,MN,2,"Chops, Inc.",DCA A Class,68.9,2016
+08/20,Indianapolis,IN,2,"Chops, Inc.",DCA A Class,71.9,2016
+08/20,Peckville,PA,5,White Sabers,DCA Open Class,85.4,2016
+08/13,Williamsport,NY,6,Skyliners,DCA Open Class,78.15,2016
+08/20,Peckville,PA,6,Skyliners,DCA Open Class,79.0,2016
+08/13,Williamsport,NY,7,Connecticut Hurricanes,DCA Open Class,77.95,2016
+08/20,Everett,MA,1,Sunrisers,DCA Open Class,84.55,2016
+08/27,Hiram,GA,1,Atlanta CV,DCA Open Class,91.55,2016
+08/27,Reading,PA,1,Reading Buccaneers,DCA Open Class,95.15,2016
+08/27,Bridgeport,CT,1,Fusion Core,DCA Open Class,91.35,2016
+08/20,Everett,MA,2,Connecticut Hurricanes,DCA Open Class,79.65,2016
+08/27,Hiram,GA,2,Alliance,DCA Open Class,82.1,2016
+08/27,Reading,PA,2,Cadets 2,DCA Open Class,93.8,2016
+08/27,Bridgeport,CT,2,Sunrisers,DCA Open Class,87.55,2016
+08/27,Reading,PA,3,Hawthorne Caballeros,DCA Open Class,92.5,2016
+08/27,Bridgeport,CT,3,Skyliners,DCA Open Class,82.5,2016
+08/20,Everett,MA,1,Excelsior,DCA A Class,66.35,2016
+08/27,Hiram,GA,1,Cincinnati Tradition,DCA A Class,77.4,2016
+08/27,Reading,PA,4,White Sabers,DCA Open Class,88.2,2016
+08/27,Bridgeport,CT,4,Connecticut Hurricanes,DCA Open Class,82.15,2016
+08/27,Reading,PA,5,Bushwackers,DCA Open Class,83.25,2016
+08/27,Reading,PA,6,Carolina Gold,DCA Open Class,81.9,2016
+08/27,Bridgeport,CT,1,Erie Thunderbirds,DCA A Class,74.8,2016
+08/27,Bridgeport,CT,2,Excelsior,DCA A Class,69.6,2016
+09/03,Rochester,NY,1,Cincinnati Tradition,DCA A Class,79.13,2016
+09/04,Rochester,NY,1,Cincinnati Tradition,DCA A Class,80.03,2016
+09/03,Rochester,NY,1,Cadets 2,DCA Open Class,97.68,2016
+09/04,Rochester,NY,1,Cadets 2,DCA Open Class,97.95,2016
+09/03,Rochester,NY,2,Erie Thunderbirds,DCA A Class,77.35,2016
+09/04,Rochester,NY,2,Erie Thunderbirds,DCA A Class,77.75,2016
+09/03,Rochester,NY,2,Reading Buccaneers,DCA Open Class,97.03,2016
+09/04,Rochester,NY,2,Reading Buccaneers,DCA Open Class,97.25,2016
+09/03,Rochester,NY,3,"Chops, Inc.",DCA A Class,75.35,2016
+09/04,Rochester,NY,3,"Chops, Inc.",DCA A Class,75.03,2016
+09/03,Rochester,NY,3,Minnesota Brass,DCA Open Class,95.55,2016
+09/04,Rochester,NY,3,Minnesota Brass,DCA Open Class,96.95,2016
+09/03,Rochester,NY,4,Kilties,DCA A Class,74.45,2016
+09/03,Rochester,NY,4,Hawthorne Caballeros,DCA Open Class,94.1,2016
+09/04,Rochester,NY,4,Hawthorne Caballeros,DCA Open Class,94.28,2016
+09/03,Rochester,NY,5,Excelsior,DCA A Class,70.28,2016
+09/03,Rochester,NY,5,Atlanta CV,DCA Open Class,93.53,2016
+09/04,Rochester,NY,5,Fusion Core,DCA Open Class,92.45,2016
+09/03,Rochester,NY,6,Fusion Core,DCA Open Class,92.53,2016
+09/04,Rochester,NY,6,Atlanta CV,DCA Open Class,92.35,2016
+09/03,Rochester,NY,7,White Sabers,DCA Open Class,89.55,2016
+09/04,Rochester,NY,7,White Sabers,DCA Open Class,88.73,2016
+09/03,Rochester,NY,8,Sunrisers,DCA Open Class,89.5,2016
+09/04,Rochester,NY,8,Sunrisers,DCA Open Class,88.53,2016
+09/03,Rochester,NY,9,Bushwackers,DCA Open Class,86.08,2016
+09/04,Rochester,NY,9,Bushwackers,DCA Open Class,85.28,2016
+09/03,Rochester,NY,10,Govenaires,DCA Open Class,85.73,2016
+09/04,Rochester,NY,10,Govenaires,DCA Open Class,84.45,2016
+09/03,Rochester,NY,11,Skyliners,DCA Open Class,83.5,2016
+09/03,Rochester,NY,12,Alliance,DCA Open Class,82.9,2016
+09/03,Rochester,NY,13,Connecticut Hurricanes,DCA Open Class,82.25,2016
+09/03,Rochester,NY,14,Carolina Gold,DCA Open Class,80.68,2016

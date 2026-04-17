@@ -1,0 +1,612 @@
+Date,City,State,Place,Corps,Class,Score,Year,Event_Name
+06/28,Fort Collins,CO,1,Boston Crusaders,World Class,76.2,2025
+06/28,Fort Collins,CO,2,Blue Devils,World Class,75.4,2025
+06/28,Fort Collins,CO,3,Colts,World Class,68.25,2025
+06/28,Fort Collins,CO,4,Troopers,World Class,67.75,2025
+06/28,Fort Collins,CO,5,Blue Knights,World Class,65.95,2025
+06/28,Shelton,CT,1,Reading Buccaneers,All-Age - World Class,81.6,2025
+06/28,Shelton,CT,2,Hawthorne Caballeros,All-Age - World Class,77.9,2025
+06/28,Shelton,CT,3,Bushwackers,All-Age - World Class,76.85,2025
+06/28,Shelton,CT,4,Connecticut Hurricanes,All-Age - World Class,71.6,2025
+06/28,Shelton,CT,1,Sunrisers,All-Age - Open Class,66.7,2025
+06/28,Shelton,CT,1,7th Regiment,Open Class,51.7,2025
+06/30,Ogden,UT,1,Boston Crusaders,World Class,77.85,2025
+06/30,Ogden,UT,2,Blue Knights,World Class,67.85,2025
+06/30,Ogden,UT,3,Seattle Cascades,World Class,62.65,2025
+06/30,Ogden,UT,1,Battalion,Open Class,60.0,2025
+06/30,Ogden,UT,2,Impulse,Open Class,54.75,2025
+07/02,Cedarburg,WI,1,Phantom Regiment,World Class,74.9,2025
+07/02,Cedarburg,WI,2,Blue Stars,World Class,70.8,2025
+07/02,Cedarburg,WI,3,Colts,World Class,70.1,2025
+07/02,Cedarburg,WI,4,Cavaliers,World Class,69.45,2025
+07/02,Cedarburg,WI,4,Troopers,World Class,69.45,2025
+07/02,Cedarburg,WI,6,Madison Scouts,World Class,66.75,2025
+07/02,Cedarburg,WI,1,Colt Cadets,Open Class,55.0,2025
+07/02,Seattle,WA,1,Vanguard,World Class,76.55,2025
+07/02,Seattle,WA,2,Mandarins,World Class,73.15,2025
+07/02,Seattle,WA,3,Blue Knights,World Class,67.85,2025
+07/02,Seattle,WA,4,Seattle Cascades,World Class,62.3,2025
+07/02,Seattle,WA,1,Columbians,Open Class,55.4,2025
+07/02,Seattle,WA,2,Impulse,Open Class,55.05,2025
+07/03,Rockford,IL,1,Phantom Regiment,World Class,76.15,2025
+07/03,Rockford,IL,2,Blue Stars,World Class,73.0,2025
+07/03,Rockford,IL,3,Cavaliers,World Class,71.6,2025
+07/03,Rockford,IL,4,Troopers,World Class,71.0,2025
+07/03,Rockford,IL,5,Madison Scouts,World Class,68.75,2025
+07/03,Rockford,IL,6,Crossmen,World Class,66.25,2025
+07/03,Rockford,IL,1,Columbus Saints,All-Age - A Class,55.35,2025
+07/03,Portland,OR,1,Vanguard,World Class,77.95,2025
+07/03,Portland,OR,2,Mandarins,World Class,74.8,2025
+07/03,Portland,OR,3,Blue Knights,World Class,69.25,2025
+07/03,Portland,OR,4,Seattle Cascades,World Class,63.2,2025
+07/03,Portland,OR,1,Columbians,Open Class,57.0,2025
+07/03,Portland,OR,2,Impulse,Open Class,56.75,2025
+07/05,Lexington,SC,1,Carolina Crown,World Class,79.85,2025
+07/05,Lexington,SC,2,Spirit of Atlanta,World Class,71.65,2025
+07/05,Lexington,SC,3,Music City,World Class,70.75,2025
+07/05,Lexington,SC,1,Memphis Blues,Open Class,62.95,2025
+07/05,Lexington,SC,2,Heat Wave,Open Class,53.7,2025
+07/05,Lexington,SC,1,Atlanta CV,All-Age - World Class,73.1,2025
+07/05,Sacramento,CA,1,Boston Crusaders,World Class,80.8,2025
+07/05,Sacramento,CA,2,Vanguard,World Class,79.15,2025
+07/05,Sacramento,CA,3,Mandarins,World Class,76.2,2025
+07/05,Sacramento,CA,4,Blue Knights,World Class,72.0,2025
+07/05,Sacramento,CA,5,Academy,World Class,68.6,2025
+07/05,Sacramento,CA,6,Seattle Cascades,World Class,65.25,2025
+07/05,Sacramento,CA,1,Gold,Open Class,63.0,2025
+07/05,Sacramento,CA,2,Golden Empire,Open Class,57.7,2025
+07/06,La Crosse,WI,1,Bluecoats,World Class,83.3,2025
+07/06,La Crosse,WI,2,Blue Stars,World Class,75.2,2025
+07/06,La Crosse,WI,3,Colts,World Class,74.15,2025
+07/06,La Crosse,WI,4,Troopers,World Class,72.95,2025
+07/06,La Crosse,WI,5,Madison Scouts,World Class,72.05,2025
+07/06,La Crosse,WI,6,Crossmen,World Class,69.4,2025
+07/06,La Crosse,WI,1,Colt Cadets,Open Class,59.35,2025
+07/06,La Crosse,WI,1,Govenaires,All-Age - A Class,71.3,2025
+07/06,Stanford,CA,1,Boston Crusaders,World Class,82.8,2025
+07/06,Stanford,CA,2,Blue Devils,World Class,81.8,2025
+07/06,Stanford,CA,3,Vanguard,World Class,81.0,2025
+07/06,Stanford,CA,4,Mandarins,World Class,77.7,2025
+07/06,Stanford,CA,5,Blue Knights,World Class,73.7,2025
+07/06,Stanford,CA,6,Academy,World Class,69.45,2025
+07/06,Stanford,CA,7,Seattle Cascades,World Class,66.65,2025
+07/06,Stanford,CA,1,Blue Devils B,Open Class,68.0,2025
+07/06,Stanford,CA,2,Gold,Open Class,63.65,2025
+07/06,Stanford,CA,3,Impulse,Open Class,59.4,2025
+07/06,Stanford,CA,4,Golden Empire,Open Class,58.95,2025
+07/06,Stanford,CA,5,Blue Devils C,Open Class,52.45,2025
+07/07,Sevierville,TN,1,Carolina Crown,World Class,81.5,2025
+07/07,Sevierville,TN,2,Phantom Regiment,World Class,80.95,2025
+07/07,Sevierville,TN,3,Spirit of Atlanta,World Class,73.7,2025
+07/07,Sevierville,TN,4,Music City,World Class,72.15,2025
+07/07,Sevierville,TN,5,Genesis,World Class,68.1,2025
+07/07,Sevierville,TN,6,Spartans,World Class,67.5,2025
+07/07,Sevierville,TN,1,Memphis Blues,Open Class,62.55,2025
+07/07,Sevierville,TN,2,Heat Wave,Open Class,54.5,2025
+07/08,Newnan,GA,1,Phantom Regiment,World Class,82.65,2025
+07/08,Newnan,GA,2,Spirit of Atlanta,World Class,73.8,2025
+07/08,Newnan,GA,3,Music City,World Class,73.35,2025
+07/08,Newnan,GA,4,Genesis,World Class,69.75,2025
+07/08,Newnan,GA,5,Spartans,World Class,69.1,2025
+07/08,Newnan,GA,1,Memphis Blues,Open Class,63.55,2025
+07/08,Newnan,GA,2,Heat Wave,Open Class,54.8,2025
+07/08,Mankato,MN,1,Cavaliers,World Class,77.1,2025
+07/08,Mankato,MN,2,Troopers,World Class,75.35,2025
+07/08,Mankato,MN,3,Colts,World Class,75.0,2025
+07/08,Mankato,MN,4,Madison Scouts,World Class,71.8,2025
+07/08,Mankato,MN,5,Crossmen,World Class,70.3,2025
+07/08,Mankato,MN,1,River City Rhythm,Open Class,62.1,2025
+07/08,Mankato,MN,1,Minnesota Brass,All-Age - Open Class,69.65,2025
+07/08,Mankato,MN,1,Govenaires,All-Age - A Class,73.8,2025
+07/08,Bakersfield,CA,1,Blue Devils B,Open Class,70.2,2025
+07/08,Bakersfield,CA,2,Impulse,Open Class,61.65,2025
+07/08,Bakersfield,CA,3,Golden Empire,Open Class,60.95,2025
+07/08,Bakersfield,CA,4,Blue Devils C,Open Class,54.5,2025
+07/09,Santa Clarita,CA,1,Boston Crusaders,World Class,84.15,2025
+07/09,Santa Clarita,CA,2,Vanguard,World Class,82.6,2025
+07/09,Santa Clarita,CA,3,Mandarins,World Class,79.0,2025
+07/09,Santa Clarita,CA,4,Blue Knights,World Class,75.05,2025
+07/09,Santa Clarita,CA,5,Pacific Crest,World Class,72.5,2025
+07/09,Santa Clarita,CA,6,Academy,World Class,71.2,2025
+07/09,Santa Clarita,CA,7,Seattle Cascades,World Class,67.65,2025
+07/09,Santa Clarita,CA,1,Blue Devils B,Open Class,71.5,2025
+07/09,Santa Clarita,CA,2,Gold,Open Class,67.15,2025
+07/09,Santa Clarita,CA,3,Blue Devils C,Open Class,55.35,2025
+07/09,Santa Clarita,CA,4,Golden Empire,Open Class,0.0,2025
+07/09,Ankeny,IA,1,Cavaliers,World Class,79.5,2025
+07/09,Ankeny,IA,2,Blue Stars,World Class,79.1,2025
+07/09,Ankeny,IA,3,Troopers,World Class,77.65,2025
+07/09,Ankeny,IA,4,Colts,World Class,77.3,2025
+07/09,Ankeny,IA,5,Madison Scouts,World Class,74.9,2025
+07/09,Ankeny,IA,6,Crossmen,World Class,73.25,2025
+07/09,Ankeny,IA,1,River City Rhythm,Open Class,63.45,2025
+07/09,Ankeny,IA,2,Colt Cadets,Open Class,61.85,2025
+07/11,Walnut,CA,1,Boston Crusaders,World Class,85.25,2025
+07/11,Walnut,CA,2,Blue Devils,World Class,84.3,2025
+07/11,Walnut,CA,3,Vanguard,World Class,83.85,2025
+07/11,Walnut,CA,4,Mandarins,World Class,80.05,2025
+07/11,Walnut,CA,5,Blue Knights,World Class,76.8,2025
+07/11,Walnut,CA,6,Pacific Crest,World Class,73.7,2025
+07/11,Walnut,CA,7,Academy,World Class,72.35,2025
+07/11,Walnut,CA,8,Seattle Cascades,World Class,68.75,2025
+07/11,Walnut,CA,1,Blue Devils B,Open Class,72.15,2025
+07/11,Walnut,CA,2,Gold,Open Class,68.05,2025
+07/11,Walnut,CA,3,Impulse,Open Class,63.85,2025
+07/11,Walnut,CA,4,Golden Empire,Open Class,63.25,2025
+07/11,Walnut,CA,5,Blue Devils C,Open Class,55.7,2025
+07/12,Clifton,NJ,1,Reading Buccaneers,All-Age - World Class,84.55,2025
+07/12,Clifton,NJ,2,Hawthorne Caballeros,All-Age - World Class,80.95,2025
+07/12,Clifton,NJ,3,Bushwackers,All-Age - World Class,78.2,2025
+07/12,Clifton,NJ,4,Connecticut Hurricanes,All-Age - World Class,75.4,2025
+07/12,Clifton,NJ,1,Sunrisers,All-Age - Open Class,67.7,2025
+07/12,Clifton,NJ,1,7th Regiment,Open Class,59.8,2025
+07/12,Clifton,NJ,2,Raiders,Open Class,59.4,2025
+07/12,Little Rock,AR,1,Phantom Regiment,World Class,84.45,2025
+07/12,Little Rock,AR,2,Carolina Crown,World Class,84.3,2025
+07/12,Little Rock,AR,3,Crossmen,World Class,75.1,2025
+07/12,Little Rock,AR,4,Spirit of Atlanta,World Class,75.0,2025
+07/12,Little Rock,AR,5,Music City,World Class,74.25,2025
+07/12,Little Rock,AR,6,Genesis,World Class,70.35,2025
+07/12,Little Rock,AR,7,Spartans,World Class,70.2,2025
+07/12,Little Rock,AR,1,Memphis Blues,Open Class,65.95,2025
+07/12,Little Rock,AR,2,Zephyrus,Open Class,64.4,2025
+07/12,Lisle,IL,1,Bluecoats,World Class,86.5,2025
+07/12,Lisle,IL,2,Cavaliers,World Class,81.0,2025
+07/12,Lisle,IL,3,Troopers,World Class,79.65,2025
+07/12,Lisle,IL,4,Colts,World Class,78.0,2025
+07/12,Lisle,IL,5,Madison Scouts,World Class,76.5,2025
+07/12,Lisle,IL,1,Colt Cadets,Open Class,64.75,2025
+07/12,Lisle,IL,1,Rogues Hollow Regiment,All-Age - Open Class,74.95,2025
+07/12,Lisle,IL,2,Northern Lights,All-Age - Open Class,67.35,2025
+07/12,Pasadena,CA,1,Boston Crusaders,World Class,86.75,2025
+07/12,Pasadena,CA,2,Blue Devils,World Class,85.25,2025
+07/12,Pasadena,CA,3,Vanguard,World Class,85.0,2025
+07/12,Pasadena,CA,4,Mandarins,World Class,81.05,2025
+07/12,Pasadena,CA,5,Blue Knights,World Class,78.05,2025
+07/12,Pasadena,CA,6,Pacific Crest,World Class,74.55,2025
+07/12,Pasadena,CA,7,Academy,World Class,73.25,2025
+07/12,Pasadena,CA,8,Seattle Cascades,World Class,69.25,2025
+07/12,Pasadena,CA,1,Blue Devils B,Open Class,73.45,2025
+07/12,Pasadena,CA,2,Gold,Open Class,68.2,2025
+07/12,Pasadena,CA,3,Impulse,Open Class,65.05,2025
+07/12,Pasadena,CA,4,Golden Empire,Open Class,63.4,2025
+07/12,Pasadena,CA,5,Blue Devils C,Open Class,56.9,2025
+07/13,Buena Park,CA,1,Blue Devils B,Open Class,73.35,2025
+07/13,Buena Park,CA,2,Gold,Open Class,69.35,2025
+07/13,Buena Park,CA,3,Impulse,Open Class,66.4,2025
+07/13,Buena Park,CA,4,Golden Empire,Open Class,65.0,2025
+07/13,Buena Park,CA,5,Blue Devils C,Open Class,58.2,2025
+07/13,Mesa,AZ,1,Boston Crusaders,World Class,87.8,2025
+07/13,Mesa,AZ,2,Mandarins,World Class,82.95,2025
+07/13,Mesa,AZ,3,Blue Knights,World Class,79.4,2025
+07/13,Mesa,AZ,4,Pacific Crest,World Class,73.65,2025
+07/13,Mesa,AZ,5,Academy,World Class,72.95,2025
+07/13,Mesa,AZ,6,Seattle Cascades,World Class,70.85,2025
+07/15,Olathe,KS,1,Cavaliers,World Class,82.2,2025
+07/15,Olathe,KS,2,Blue Stars,World Class,81.2,2025
+07/15,Olathe,KS,3,Troopers,World Class,81.05,2025
+07/15,Olathe,KS,4,Colts,World Class,79.95,2025
+07/15,Olathe,KS,5,Madison Scouts,World Class,77.4,2025
+07/15,Olathe,KS,6,Spartans,World Class,70.9,2025
+07/15,Olathe,KS,1,Battalion,Open Class,67.3,2025
+07/15,Olathe,KS,2,Colt Cadets,Open Class,63.8,2025
+07/15,Broken Arrow,OK,1,Zephyrus,Open Class,65.4,2025
+07/15,Broken Arrow,OK,1,Bluecoats,World Class,88.55,2025
+07/15,Broken Arrow,OK,2,Carolina Crown,World Class,85.6,2025
+07/15,Broken Arrow,OK,3,Phantom Regiment,World Class,85.55,2025
+07/15,Broken Arrow,OK,4,Spirit of Atlanta,World Class,77.1,2025
+07/15,Broken Arrow,OK,5,Crossmen,World Class,76.1,2025
+07/15,Broken Arrow,OK,6,Music City,World Class,74.8,2025
+07/15,Broken Arrow,OK,7,Genesis,World Class,71.7,2025
+07/15,Albuquerque,NM,1,Mandarins,World Class,84.15,2025
+07/15,Albuquerque,NM,2,Blue Knights,World Class,80.3,2025
+07/15,Albuquerque,NM,3,Pacific Crest,World Class,75.5,2025
+07/15,Albuquerque,NM,4,Academy,World Class,74.3,2025
+07/15,Albuquerque,NM,5,Seattle Cascades,World Class,71.65,2025
+07/16,Canyon,TX,1,Boston Crusaders,World Class,89.3,2025
+07/16,Canyon,TX,2,Pacific Crest,World Class,76.1,2025
+07/16,Canyon,TX,3,Academy,World Class,74.85,2025
+07/16,Canyon,TX,4,Genesis,World Class,71.65,2025
+07/17,Waco,TX,1,Mandarins,World Class,86.1,2025
+07/17,Waco,TX,2,Blue Stars,World Class,83.75,2025
+07/17,Waco,TX,3,Troopers,World Class,82.45,2025
+07/17,Waco,TX,4,Blue Knights,World Class,82.0,2025
+07/17,Waco,TX,5,Madison Scouts,World Class,79.65,2025
+07/17,Waco,TX,1,Gold,Open Class,71.3,2025
+07/17,Denton,TX,1,Zephyrus,Open Class,65.2,2025
+07/17,Denton,TX,1,Bluecoats,World Class,90.3,2025
+07/17,Denton,TX,2,Boston Crusaders,World Class,90.15,2025
+07/17,Denton,TX,3,Vanguard,World Class,88.1,2025
+07/17,Denton,TX,4,Carolina Crown,World Class,86.35,2025
+07/17,Denton,TX,5,Spirit of Atlanta,World Class,78.1,2025
+07/17,Denton,TX,6,Pacific Crest,World Class,77.35,2025
+07/17,Denton,TX,7,Seattle Cascades,World Class,72.65,2025
+07/17,Denton,TX,8,Genesis,World Class,71.65,2025
+07/18,Houston,TX,1,Bluecoats,World Class,91.25,2025
+07/18,Houston,TX,2,Blue Devils,World Class,89.95,2025
+07/18,Houston,TX,3,Phantom Regiment,World Class,88.05,2025
+07/18,Houston,TX,4,Carolina Crown,World Class,87.7,2025
+07/18,Houston,TX,5,Blue Stars,World Class,84.3,2025
+07/18,Houston,TX,6,Cavaliers,World Class,83.55,2025
+07/18,Houston,TX,7,Crossmen,World Class,77.2,2025
+07/18,Houston,TX,8,Music City,World Class,75.8,2025
+07/19,Landisville,PA,1,Reading Buccaneers,All-Age - World Class,88.6,2025
+07/19,Landisville,PA,2,Bushwackers,All-Age - World Class,85.05,2025
+07/19,Landisville,PA,3,Hawthorne Caballeros,All-Age - World Class,84.9,2025
+07/19,Landisville,PA,1,White Sabers,All-Age - Open Class,79.1,2025
+07/19,Landisville,PA,2,Rogues Hollow Regiment,All-Age - Open Class,77.1,2025
+07/19,Landisville,PA,1,Raiders,Open Class,65.25,2025
+07/19,Landisville,PA,2,Les Stentors,Open Class,58.5,2025
+07/19,Champlin,MN,1,Spartans,Open Class,72.7,2025
+07/19,Champlin,MN,2,Battalion,Open Class,69.25,2025
+07/19,Champlin,MN,3,River City Rhythm,Open Class,66.1,2025
+07/19,Champlin,MN,1,Minnesota Brass,All-Age - Open Class,73.35,2025
+07/19,Champlin,MN,1,Govenaires,All-Age - A Class,74.85,2025
+07/19,San Antonio,TX,1,Boston Crusaders,World Class,93.213,2025
+07/19,San Antonio,TX,2,Bluecoats,World Class,92.825,2025
+07/19,San Antonio,TX,3,Vanguard,World Class,90.913,2025
+07/19,San Antonio,TX,4,Blue Devils,World Class,90.838,2025
+07/19,San Antonio,TX,5,Phantom Regiment,World Class,89.263,2025
+07/19,San Antonio,TX,6,Carolina Crown,World Class,88.788,2025
+07/19,San Antonio,TX,7,Mandarins,World Class,87.05,2025
+07/19,San Antonio,TX,8,Blue Stars,World Class,85.25,2025
+07/19,San Antonio,TX,9,Cavaliers,World Class,84.813,2025
+07/19,San Antonio,TX,10,Troopers,World Class,84.6,2025
+07/19,San Antonio,TX,11,Blue Knights,World Class,82.963,2025
+07/19,San Antonio,TX,12,Colts,World Class,82.188,2025
+07/19,San Antonio,TX,13,Madison Scouts,World Class,80.738,2025
+07/19,San Antonio,TX,14,Spirit of Atlanta,World Class,79.075,2025
+07/19,San Antonio,TX,15,Pacific Crest,World Class,78.963,2025
+07/19,San Antonio,TX,16,Crossmen,World Class,78.113,2025
+07/19,San Antonio,TX,17,Academy,World Class,76.575,2025
+07/19,San Antonio,TX,18,Music City,World Class,76.375,2025
+07/19,San Antonio,TX,19,Seattle Cascades,World Class,73.9,2025
+07/19,San Antonio,TX,20,Genesis,World Class,72.8,2025
+07/19,San Antonio,TX,1,Gold,Open Class,72.55,2025
+07/19,San Antonio,TX,2,Zephyrus,Open Class,67.325,2025
+07/20,Bedford,TX,1,Bluecoats,World Class,92.95,2025
+07/20,Bedford,TX,2,Cavaliers,World Class,85.95,2025
+07/20,Bedford,TX,3,Troopers,World Class,84.65,2025
+07/20,Bedford,TX,4,Blue Knights,World Class,83.55,2025
+07/20,Bedford,TX,5,Colts,World Class,83.1,2025
+07/20,Bedford,TX,6,Madison Scouts,World Class,80.6,2025
+07/20,Bedford,TX,7,Pacific Crest,World Class,79.975,2025
+07/20,Bedford,TX,8,Spirit of Atlanta,World Class,79.4,2025
+07/20,Bedford,TX,9,Music City,World Class,77.0,2025
+07/20,Bedford,TX,10,Genesis,World Class,73.0,2025
+07/20,Bedford,TX,11,Seattle Cascades,World Class,72.95,2025
+07/21,McKinney,TX,1,Vanguard,World Class,91.8,2025
+07/21,McKinney,TX,2,Phantom Regiment,World Class,90.5,2025
+07/21,McKinney,TX,3,Carolina Crown,World Class,89.6,2025
+07/21,McKinney,TX,4,Mandarins,World Class,88.15,2025
+07/21,McKinney,TX,5,Blue Stars,World Class,86.1,2025
+07/21,McKinney,TX,6,Crossmen,World Class,78.25,2025
+07/21,McKinney,TX,7,Academy,World Class,77.9,2025
+07/22,Bellbrook,OH,1,Spartans,Open Class,75.25,2025
+07/22,Bellbrook,OH,2,Battalion,Open Class,72.4,2025
+07/22,Bellbrook,OH,3,Raiders,Open Class,66.0,2025
+07/22,Bellbrook,OH,1,Cincinnati Tradition,All-Age - Open Class,82.55,2025
+07/22,Bellbrook,OH,1,Columbus Saints,All-Age - A Class,63.7,2025
+07/22,Belleville,IL,1,Boston Crusaders,World Class,93.5,2025
+07/22,Belleville,IL,2,Cavaliers,World Class,86.2,2025
+07/22,Belleville,IL,3,Troopers,World Class,83.85,2025
+07/22,Belleville,IL,4,Colts,World Class,83.45,2025
+07/22,Belleville,IL,5,Madison Scouts,World Class,80.7,2025
+07/22,Belleville,IL,6,Pacific Crest,World Class,78.15,2025
+07/22,Belleville,IL,7,Seattle Cascades,World Class,72.6,2025
+07/22,Belleville,IL,1,Gold,Open Class,72.4,2025
+07/23,Brunswick,OH,1,Spartans,Open Class,76.55,2025
+07/23,Brunswick,OH,2,Battalion,Open Class,73.9,2025
+07/23,Brunswick,OH,3,Raiders,Open Class,67.5,2025
+07/23,Brunswick,OH,1,Cincinnati Tradition,All-Age - Open Class,84.1,2025
+07/23,Brunswick,OH,1,Columbus Saints,All-Age - A Class,65.1,2025
+07/23,Evansville,IN,1,Boston Crusaders,World Class,94.35,2025
+07/23,Evansville,IN,2,Vanguard,World Class,92.45,2025
+07/23,Evansville,IN,3,Phantom Regiment,World Class,91.6,2025
+07/23,Evansville,IN,4,Pacific Crest,World Class,80.4,2025
+07/23,Evansville,IN,1,Gold,Open Class,73.95,2025
+07/25,Dover,PA,1,Spartans,Open Class,77.6,2025
+07/25,Dover,PA,2,Battalion,Open Class,75.45,2025
+07/25,Dover,PA,3,Raiders,Open Class,68.85,2025
+07/25,Dover,PA,4,7th Regiment,Open Class,67.45,2025
+07/25,Dover,PA,5,Les Stentors,Open Class,62.75,2025
+07/25,Madison,WI,1,Vanguard,World Class,92.95,2025
+07/25,Madison,WI,2,Cavaliers,World Class,86.3,2025
+07/25,Madison,WI,3,Colts,World Class,84.65,2025
+07/25,Madison,WI,4,Madison Scouts,World Class,82.0,2025
+07/25,Madison,WI,5,Pacific Crest,World Class,81.5,2025
+07/25,Madison,WI,1,River City Rhythm,Open Class,68.9,2025
+07/25,Birmingham,AL,1,Blue Knights,World Class,85.65,2025
+07/25,Birmingham,AL,2,Spirit of Atlanta,World Class,82.85,2025
+07/25,Birmingham,AL,3,Crossmen,World Class,80.25,2025
+07/25,Birmingham,AL,4,Genesis,World Class,75.85,2025
+07/25,Birmingham,AL,5,Seattle Cascades,World Class,73.95,2025
+07/25,Birmingham,AL,1,Heat Wave,Open Class,62.0,2025
+07/25,Birmingham,AL,1,Atlanta CV,All-Age - World Class,83.1,2025
+07/25,Birmingham,AL,1,Fusion Core,All-Age - A Class,73.85,2025
+07/25,Nashville,TN,1,Bluecoats,World Class,94.4,2025
+07/25,Nashville,TN,2,Blue Devils,World Class,92.25,2025
+07/25,Nashville,TN,3,Carolina Crown,World Class,90.75,2025
+07/25,Nashville,TN,4,Mandarins,World Class,89.15,2025
+07/25,Nashville,TN,5,Blue Stars,World Class,86.7,2025
+07/25,Nashville,TN,6,Troopers,World Class,85.95,2025
+07/25,Nashville,TN,7,Music City,World Class,77.85,2025
+07/26,Atlanta,GA,1,Bluecoats,World Class,95.025,2025
+07/26,Atlanta,GA,2,Blue Devils,World Class,92.925,2025
+07/26,Atlanta,GA,3,Carolina Crown,World Class,90.725,2025
+07/26,Atlanta,GA,4,Blue Stars,World Class,87.425,2025
+07/26,Atlanta,GA,5,Troopers,World Class,86.75,2025
+07/26,Atlanta,GA,6,Blue Knights,World Class,85.3,2025
+07/26,Atlanta,GA,7,Spirit of Atlanta,World Class,82.275,2025
+07/26,Atlanta,GA,8,Crossmen,World Class,79.925,2025
+07/26,Atlanta,GA,9,Academy,World Class,78.925,2025
+07/26,Atlanta,GA,10,Music City,World Class,78.8,2025
+07/26,Atlanta,GA,11,Seattle Cascades,World Class,75.05,2025
+07/26,Atlanta,GA,1,Heat Wave,Open Class,62.325,2025
+07/26,Atlanta,GA,1,Atlanta CV,All-Age - World Class,83.975,2025
+07/26,Atlanta,GA,1,Fusion Core,All-Age - A Class,74.3,2025
+07/26,Succasunna,NJ,1,Reading Buccaneers,All-Age - World Class,92.45,2025
+07/26,Succasunna,NJ,2,Hawthorne Caballeros,All-Age - World Class,89.8,2025
+07/26,Succasunna,NJ,3,Bushwackers,All-Age - World Class,88.25,2025
+07/26,Succasunna,NJ,4,Connecticut Hurricanes,All-Age - World Class,84.8,2025
+07/26,Succasunna,NJ,1,White Sabers,All-Age - Open Class,81.95,2025
+07/26,Succasunna,NJ,2,Sunrisers,All-Age - Open Class,77.05,2025
+07/26,DeKalb,IL,1,Boston Crusaders,World Class,93.725,2025
+07/26,DeKalb,IL,2,Vanguard,World Class,92.425,2025
+07/26,DeKalb,IL,3,Phantom Regiment,World Class,91.625,2025
+07/26,DeKalb,IL,4,Cavaliers,World Class,87.025,2025
+07/26,DeKalb,IL,5,Colts,World Class,85.45,2025
+07/26,DeKalb,IL,6,Madison Scouts,World Class,82.075,2025
+07/26,DeKalb,IL,7,Pacific Crest,World Class,81.375,2025
+07/26,DeKalb,IL,1,Columbians,Open Class,70.525,2025
+07/26,DeKalb,IL,2,River City Rhythm,Open Class,69.45,2025
+07/26,DeKalb,IL,3,Colt Cadets,Open Class,66.2,2025
+07/26,DeKalb,IL,1,Govenaires,All-Age - A Class,76.525,2025
+07/27,Norton,OH,1,Gold,Open Class,76.45,2025
+07/27,Norton,OH,2,Columbians,Open Class,71.55,2025
+07/27,Norton,OH,3,7th Regiment,Open Class,67.35,2025
+07/27,Norton,OH,1,Cincinnati Tradition,All-Age - Open Class,84.25,2025
+07/27,Norton,OH,2,Rogues Hollow Regiment,All-Age - Open Class,78.75,2025
+07/27,Winston-Salem,NC,1,Bluecoats,World Class,94.55,2025
+07/27,Winston-Salem,NC,2,Blue Devils,World Class,92.4,2025
+07/27,Winston-Salem,NC,3,Carolina Crown,World Class,91.15,2025
+07/27,Winston-Salem,NC,4,Mandarins,World Class,89.0,2025
+07/27,Winston-Salem,NC,5,Blue Stars,World Class,87.65,2025
+07/27,Winston-Salem,NC,6,Troopers,World Class,86.9,2025
+07/27,Winston-Salem,NC,7,Blue Knights,World Class,84.55,2025
+07/27,Winston-Salem,NC,8,Spirit of Atlanta,World Class,82.8,2025
+07/27,Winston-Salem,NC,9,Crossmen,World Class,79.2,2025
+07/27,Winston-Salem,NC,10,Music City,World Class,78.55,2025
+07/27,Winston-Salem,NC,11,Academy,World Class,77.95,2025
+07/27,Winston-Salem,NC,12,Genesis,World Class,74.35,2025
+07/27,Winston-Salem,NC,13,Seattle Cascades,World Class,73.3,2025
+07/28,Mason,OH,1,Boston Crusaders,World Class,94.75,2025
+07/28,Mason,OH,2,Vanguard,World Class,93.3,2025
+07/28,Mason,OH,3,Colts,World Class,86.05,2025
+07/28,Mason,OH,4,Madison Scouts,World Class,83.45,2025
+07/28,Mason,OH,1,River City Rhythm,Open Class,69.9,2025
+07/28,Mason,OH,2,Colt Cadets,Open Class,67.05,2025
+07/28,Mason,OH,1,Cincinnati Tradition,All-Age - Open Class,85.55,2025
+07/28,Mason,OH,1,Columbus Saints,All-Age - A Class,66.2,2025
+07/29,Newark,DE,1,Blue Devils,World Class,93.95,2025
+07/29,Newark,DE,2,Troopers,World Class,88.35,2025
+07/29,Newark,DE,3,Blue Knights,World Class,86.1,2025
+07/29,Newark,DE,4,Spartans,World Class,79.15,2025
+07/29,Newark,DE,5,Genesis,World Class,77.4,2025
+07/29,Newark,DE,1,Raiders,Open Class,71.15,2025
+07/29,Centerville,OH,1,Phantom Regiment,World Class,93.15,2025
+07/29,Centerville,OH,2,Mandarins,World Class,90.35,2025
+07/29,Centerville,OH,3,Cavaliers,World Class,88.1,2025
+07/29,Centerville,OH,4,Pacific Crest,World Class,82.95,2025
+07/29,Centerville,OH,1,Battalion,Open Class,76.5,2025
+07/29,Centerville,OH,2,7th Regiment,Open Class,70.35,2025
+07/29,Centerville,OH,3,Les Stentors,Open Class,64.5,2025
+07/29,Myrtle Beach,SC,1,Carolina Crown,World Class,92.2,2025
+07/29,Myrtle Beach,SC,2,Spirit of Atlanta,World Class,84.4,2025
+07/29,Myrtle Beach,SC,3,Music City,World Class,81.0,2025
+07/29,Myrtle Beach,SC,4,Crossmen,World Class,80.6,2025
+07/29,Myrtle Beach,SC,5,Academy,World Class,80.15,2025
+07/29,Myrtle Beach,SC,6,Seattle Cascades,World Class,75.1,2025
+07/31,Marion,OH,1,Gold,Open Class,78.0,2025
+07/31,Marion,OH,2,Battalion,Open Class,77.95,2025
+07/31,Marion,OH,3,Columbians,Open Class,73.85,2025
+07/31,Marion,OH,4,River City Rhythm,Open Class,71.85,2025
+07/31,Marion,OH,5,7th Regiment,Open Class,71.65,2025
+07/31,Marion,OH,6,Colt Cadets,Open Class,69.65,2025
+07/31,Marion,OH,7,Les Stentors,Open Class,66.2,2025
+07/31,Marion,OH,1,Northern Lights,All-Age - Open Class,69.45,2025
+08/01,Allentown,PA,1,Bluecoats,World Class,96.475,2025
+08/01,Allentown,PA,2,Blue Devils,World Class,94.65,2025
+08/01,Allentown,PA,3,Phantom Regiment,World Class,93.225,2025
+08/01,Allentown,PA,4,Blue Stars,World Class,88.9,2025
+08/01,Allentown,PA,5,Troopers,World Class,88.625,2025
+08/01,Allentown,PA,6,Blue Knights,World Class,87.225,2025
+08/01,Allentown,PA,7,Colts,World Class,86.7,2025
+08/01,Allentown,PA,8,Pacific Crest,World Class,83.85,2025
+08/01,Allentown,PA,9,Music City,World Class,81.3,2025
+08/01,Allentown,PA,10,Spartans,World Class,79.4,2025
+08/01,Allentown,PA,11,Seattle Cascades,World Class,76.4,2025
+08/02,Allentown,PA,1,Boston Crusaders,World Class,96.375,2025
+08/02,Allentown,PA,2,Vanguard,World Class,95.4,2025
+08/02,Allentown,PA,3,Carolina Crown,World Class,93.45,2025
+08/02,Allentown,PA,4,Mandarins,World Class,91.8,2025
+08/02,Allentown,PA,5,Cavaliers,World Class,89.75,2025
+08/02,Allentown,PA,6,Spirit of Atlanta,World Class,84.775,2025
+08/02,Allentown,PA,7,Madison Scouts,World Class,84.638,2025
+08/02,Allentown,PA,8,Academy,World Class,81.475,2025
+08/02,Allentown,PA,9,Crossmen,World Class,81.325,2025
+08/02,Allentown,PA,10,Genesis,World Class,77.45,2025
+08/02,Williamsport,PA,1,Phantom Regiment,World Class,93.8,2025
+08/02,Williamsport,PA,2,Troopers,World Class,89.2,2025
+08/02,Williamsport,PA,3,Blue Stars,World Class,89.15,2025
+08/02,Williamsport,PA,4,Music City,World Class,81.85,2025
+08/02,Williamsport,PA,1,Hawthorne Caballeros,All-Age - World Class,91.8,2025
+08/02,Williamsport,PA,2,Bushwackers,All-Age - World Class,90.4,2025
+08/02,Williamsport,PA,3,Connecticut Hurricanes,All-Age - World Class,86.05,2025
+08/02,Williamsport,PA,1,White Sabers,All-Age - Open Class,83.65,2025
+08/02,Williamsport,PA,2,Rogues Hollow Regiment,All-Age - Open Class,81.2,2025
+08/02,Williamsport,PA,3,Sunrisers,All-Age - Open Class,80.15,2025
+08/02,Allendale,MI,1,Gold,Open Class,79.8,2025
+08/02,Allendale,MI,2,Battalion,Open Class,78.95,2025
+08/02,Allendale,MI,3,Columbians,Open Class,75.6,2025
+08/02,Allendale,MI,4,Raiders,Open Class,73.25,2025
+08/02,Allendale,MI,5,River City Rhythm,Open Class,72.95,2025
+08/02,Allendale,MI,6,7th Regiment,Open Class,72.65,2025
+08/02,Allendale,MI,7,Colt Cadets,Open Class,70.15,2025
+08/02,Allendale,MI,8,Les Stentors,Open Class,67.35,2025
+08/02,Allendale,MI,1,Northern Lights,All-Age - Open Class,70.15,2025
+08/03,Downingtown,PA,1,Boston Crusaders,World Class,96.875,2025
+08/03,Downingtown,PA,2,Carolina Crown,World Class,94.5,2025
+08/03,Downingtown,PA,3,Colts,World Class,87.9,2025
+08/03,Downingtown,PA,1,Reading Buccaneers,All-Age - World Class,94.75,2025
+08/03,Downingtown,PA,2,Connecticut Hurricanes,All-Age - World Class,87.8,2025
+08/03,Downingtown,PA,1,White Sabers,All-Age - Open Class,84.65,2025
+08/03,Downingtown,PA,2,Sunrisers,All-Age - Open Class,80.4,2025
+08/04,Marion,IN,1,Calgary Stampede Band,International Class,76.125,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,2,Calgary Stetson Showband,International Class,66.700,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,3,Beijing 57 High School,International Class,63.900,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,4,Calgary Round-Up Band,International Class,62.150,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,5,High School Affiliated to BIT,International Class,59.400,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,1,Spartans,Open Class,81.225,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,2,Gold,Open Class,79.475,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,3,Battalion,Open Class,79.375,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,4,Columbians,Open Class,76.525,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,5,River City Rhythm,Open Class,75.025,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,6,7th Regiment,Open Class,73.025,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,7,Raiders,Open Class,72.775,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,8,Colt Cadets,Open Class,71.050,2025,DCI Open Class Championship Prelims
+08/04,Marion,IN,9,Les Stentors,Open Class,67.300,2025,DCI Open Class Championship Prelims
+08/04,Canton,OH,1,Bluecoats,World Class,97.075,2025
+08/04,Canton,OH,2,Boston Crusaders,World Class,96.500,2025
+08/04,Canton,OH,3,Blue Devils,World Class,95.575,2025
+08/04,Canton,OH,4,Carolina Crown,World Class,93.700,2025
+08/04,Canton,OH,5,Phantom Regiment,World Class,93.625,2025
+08/04,Canton,OH,6,Troopers,World Class,88.125,2025
+08/04,Canton,OH,7,Colts,World Class,88.025,2025
+08/04,Canton,OH,8,Blue Knights,World Class,87.500,2025
+08/04,Canton,OH,9,Pacific Crest,World Class,84.700,2025
+08/04,Canton,OH,10,Madison Scouts,World Class,84.550,2025
+08/04,Edinboro,PA,1,Mandarins,World Class,92.725,2025
+08/04,Edinboro,PA,2,Cavaliers,World Class,90.900,2025
+08/04,Edinboro,PA,3,Spirit of Atlanta,World Class,86.425,2025
+08/04,Edinboro,PA,4,Music City,World Class,83.150,2025
+08/04,Edinboro,PA,5,Academy,World Class,82.600,2025
+08/04,Edinboro,PA,6,Crossmen,World Class,82.475,2025
+08/04,Edinboro,PA,1,Sunrisers,All-Age - Open Class,80.550,2025
+08/04,Pittsburgh,PA,1,Vanguard,World Class,95.850,2025
+08/04,Pittsburgh,PA,2,Blue Stars,World Class,91.250,2025
+08/04,Pittsburgh,PA,3,Genesis,World Class,79.800,2025
+08/04,Pittsburgh,PA,4,Seattle Cascades,World Class,78.900,2025
+08/04,Pittsburgh,PA,1,Bushwackers,All-Age - World Class,90.450,2025
+08/05,Marion,IN,1,Spartans,Open Class,82.150,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,2,Gold,Open Class,80.875,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,3,Battalion,Open Class,79.750,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,4,Columbians,Open Class,77.775,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,5,River City Rhythm,Open Class,76.300,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,6,7th Regiment,Open Class,74.225,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,7,Raiders,Open Class,73.750,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,8,Colt Cadets,Open Class,71.050,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,9,Les Stentors,Open Class,68.350,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,1,Calgary Stampede Band,International Class,76.800,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,2,Calgary Stetson Showband,International Class,66.875,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,3,Beijing 57 High School,International Class,65.300,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,4,Calgary Round-Up Band,International Class,62.400,2025,DCI Open Class Championship Finals
+08/05,Marion,IN,5,High School Affiliated to BIT,International Class,60.875,2025,DCI Open Class Championship Finals
+08/07,Indianapolis,IN,34,High School Affiliated to BIT,International Class,61.750,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,33,Calgary Round-Up Band,International Class,62.000,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,32,Beijing 57 High School,International Class,65.500,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,31,Calgary Stetson Showband,International Class,66.125,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,30,Les Stentors,Open Class,67.375,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,29,Colt Cadets,Open Class,70.550,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,28,Raiders,Open Class,72.200,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,27,7th Regiment,Open Class,72.375,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,26,River City Rhythm,Open Class,73.700,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,25,Columbians,Open Class,74.750,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,24,Calgary Stampede Band,International Class,76.750,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,23,Seattle Cascades,World Class,77.500,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,22,Genesis,World Class,78.075,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,21,Battalion,Open Class,78.500,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,20,Gold,Open Class,79.975,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,19,Spartans,Open Class,81.725,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,18,Crossmen,World Class,82.500,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,17,Academy,World Class,82.550,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,16,Music City,World Class,83.050,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,15,Pacific Crest,World Class,83.863,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,14,Madison Scouts,World Class,85.550,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,13,Spirit of Atlanta,World Class,86.625,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,12,Blue Knights,World Class,87.600,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,11,Colts,World Class,88.038,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,10,Troopers,World Class,90.325,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,9,Blue Stars,World Class,90.488,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,8,Cavaliers,World Class,91.163,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,7,Mandarins,World Class,92.450,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,6,Phantom Regiment,World Class,93.650,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,5,Carolina Crown,World Class,94.638,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,4,Blue Devils,World Class,95.588,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,3,Vanguard,World Class,95.875,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,2,Bluecoats,World Class,97.150,2025,DCI World Class World Championship Prelims
+08/07,Indianapolis,IN,1,Boston Crusaders,World Class,97.325,2025,DCI World Class World Championship Prelims
+08/08,Indianapolis,IN,1,Reading Buccaneers,All-Age - World Class,96.375,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,2,Hawthorne Caballeros,All-Age - World Class,93.900,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,3,Bushwackers,All-Age - World Class,92.575,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,4,Atlanta CV,All-Age - World Class,90.900,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,5,Connecticut Hurricanes,All-Age - World Class,87.725,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,1,Cincinnati Tradition,All-Age - Open Class,90.025,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,2,White Sabers,All-Age - Open Class,85.375,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,3,Rogues Hollow Regiment,All-Age - Open Class,83.400,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,4,Sunrisers,All-Age - Open Class,83.325,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,5,Minnesota Brass,All-Age - Open Class,79.550,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,6,Northern Lights,All-Age - Open Class,76.425,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,1,Govenaires,All-Age - A Class,80.775,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,2,Fusion Core,All-Age - A Class,77.075,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,3,Columbus Saints,All-Age - A Class,69.675,2025,DCI All-Age Class Championships
+08/08,Indianapolis,IN,1,Bluecoats,World Class,97.763,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,2,Boston Crusaders,World Class,97.575,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,3,Vanguard,World Class,96.063,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,4,Blue Devils,World Class,95.400,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,5,Carolina Crown,World Class,94.238,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,6,Phantom Regiment,World Class,93.950,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,7,Mandarins,World Class,92.525,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,8,Cavaliers,World Class,90.500,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,9,Blue Stars,World Class,90.375,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,10,Troopers,World Class,90.063,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,11,Colts,World Class,88.525,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,12,Blue Knights,World Class,88.275,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,13,Spirit of Atlanta,World Class,86.800,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,14,Madison Scouts,World Class,85.350,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,15,Pacific Crest,World Class,84.825,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,16,Music City,World Class,83.838,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,17,Academy,World Class,83.313,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,18,Spartans,Open Class,82.275,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,19,Crossmen,World Class,82.225,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,20,Gold,Open Class,79.900,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,21,Battalion,Open Class,79.125,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,22,Genesis,World Class,77.700,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,23,Seattle Cascades,World Class,77.050,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,24,Calgary Stampede Band,International Class,75.250,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,25,Columbians,Open Class,74.500,2025,DCI World Class World Championship Semifinals
+08/08,Indianapolis,IN,26,River City Rhythm,Open Class,73.125,2025,DCI World Class World Championship Semifinals
+08/09,Indianapolis,IN,1,Boston Crusaders,World Class,98.425,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,2,Bluecoats,World Class,98.250,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,3,Vanguard,World Class,96.700,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,4,Blue Devils,World Class,95.788,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,5,Carolina Crown,World Class,94.800,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,6,Phantom Regiment,World Class,94.300,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,7,Mandarins,World Class,92.825,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,8,Blue Stars,World Class,91.175,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,9,Cavaliers,World Class,90.800,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,10,Troopers,World Class,90.050,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,11,Colts,World Class,88.050,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,12,Blue Knights,World Class,87.450,2025,DCI World Class World Championship Finals
+08/09,Indianapolis,IN,1,Reading Buccaneers,DCI All-Age Class,97.525,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,2,Hawthorne Caballeros,DCI All-Age Class,95.775,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,3,Bushwackers,DCI All-Age Class,94.250,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,4,Atlanta CV,DCI All-Age Class,91.625,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,5,Cincinnati Tradition,DCI All-Age Class,90.950,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,6,Connecticut Hurricanes,DCI All-Age Class,89.550,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,7,White Sabers,DCI All-Age Class,87.475,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,8,Rogues Hollow Regiment,DCI All-Age Class,85.925,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,9,Sunrisers,DCI All-Age Class,83.475,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,10,Govenaires,DCI All-Age Class,83.075,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,11,Minnesota Brass,DCI All-Age Class,80.300,2025,DCI All-Age World Championship Finals
+08/09,Indianapolis,IN,12,Fusion Core,DCI All-Age Class,78.325,2025,DCI All-Age World Championship Finals

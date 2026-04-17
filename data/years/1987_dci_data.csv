@@ -1,0 +1,1500 @@
+Date,City,State,Place,Corps,Class,Score,Year
+06/06,Wheaton,IL,1,Cavaliers,World Class,72.8,1987
+06/07,Janesville,WI,1,Cavaliers,World Class,71.2,1987
+06/11,Peterborough,Ontario,1,Dutch Boy,World Class,72.6,1987
+06/13,Menasha,WI,1,Cavaliers,World Class,76.1,1987
+06/06,Wheaton,IL,2,Madison Scouts,World Class,67.3,1987
+06/07,Janesville,WI,2,Madison Scouts,World Class,66.0,1987
+06/13,Menasha,WI,2,Madison Scouts,World Class,70.1,1987
+06/06,Wheaton,IL,3,Knights,World Class,39.4,1987
+06/07,Janesville,WI,3,Phantom Regiment Cadets,World Class,32.4,1987
+06/11,Peterborough,Ontario,2,Ventures,World Class,60.4,1987
+06/13,Menasha,WI,3,Colts,World Class,48.7,1987
+06/06,Wheaton,IL,4,Guardsmen,World Class,39.1,1987
+06/07,Janesville,WI,4,Madison Junior Scouts,World Class,25.7,1987
+06/11,Peterborough,Ontario,3,Saint Francis Sancians,World Class,53.3,1987
+06/13,Menasha,WI,4,Knights,World Class,43.8,1987
+06/06,Wheaton,IL,5,Phantom Regiment Cadets,World Class,27.0,1987
+06/07,Janesville,WI,5,Pioneer,World Class,21.4,1987
+06/11,Peterborough,Ontario,4,Canadian Knights,World Class,40.3,1987
+06/13,Menasha,WI,5,Guardsmen,World Class,38.8,1987
+06/06,Wheaton,IL,6,Madison Junior Scouts,World Class,26.0,1987
+06/07,Janesville,WI,6,CapitolAires,World Class,17.1,1987
+06/11,Peterborough,Ontario,4,Kiwanis Kavaliers,World Class,40.3,1987
+06/13,Menasha,WI,6,Blue Stars,World Class,33.6,1987
+06/11,Peterborough,Ontario,6,Bandettes,World Class,33.1,1987
+06/13,Menasha,WI,7,Phantom Regiment Cadets,World Class,31.0,1987
+06/13,Menasha,WI,8,CapitolAires,World Class,22.2,1987
+06/13,Menasha,WI,9,Pioneer,World Class,18.4,1987
+06/13,Kitchner,Ontario,1,Dutch Boy,Open Class,56.6,1987
+06/13,Colonie,NY,1,Hawthorne Caballeros,Open Class,70.1,1987
+06/13,Kitchner,Ontario,1,Empire Statesmen,Open Class,72.5,1987
+06/14,Elgin,IL,1,Madison Scouts,Open Class,76.4,1987
+06/13,Colonie,NY,2,Sunrisers,Open Class,66.9,1987
+06/13,Kitchner,Ontario,2,Guelph Royalaires,Open Class,53.8,1987
+06/14,Elgin,IL,2,Colts,Open Class,59.0,1987
+06/13,Kitchner,Ontario,1,Ventures,Open Class,44.2,1987
+06/13,Colonie,NY,3,New York Skyliners,Open Class,61.3,1987
+06/13,Kitchner,Ontario,3,Excalibur,Open Class,30.4,1987
+06/14,Elgin,IL,3,Knights,Open Class,47.1,1987
+06/13,Kitchner,Ontario,2,Kiwanis Kavaliers,Open Class,29.1,1987
+06/13,Colonie,NY,4,Reading Buccaneers,Open Class,59.7,1987
+06/14,Elgin,IL,4,Guardsmen,Open Class,43.2,1987
+06/13,Kitchner,Ontario,3,Conqueror II,Open Class,26.5,1987
+06/13,Colonie,NY,5,Connecticut Hurricanes,Open Class,51.8,1987
+06/14,Elgin,IL,5,Phantom Regiment Cadets,Open Class,33.9,1987
+06/13,Kitchner,Ontario,4,Oshawa Rebels,Open Class,15.4,1987
+06/14,Elgin,IL,6,Emerald Knights-IA,Open Class,32.7,1987
+06/13,Kitchner,Ontario,5,Cardinals,Open Class,14.3,1987
+06/14,Elgin,IL,7,Madison Junior Scouts,Open Class,27.4,1987
+06/14,Elgin,IL,8,Northmen-WI,Open Class,18.7,1987
+06/19,Whitewater,WI,1,Cavaliers,Open Class,80.2,1987
+06/19,Waterbury,CT,1,Hawthorne Caballeros,Open Class,78.4,1987
+06/20,Somerville,MA,1,Garfield Cadets,Open Class,72.6,1987
+06/20,Hershey,PA,1,Hawthorne Caballeros,Open Class,78.3,1987
+06/19,Whitewater,WI,2,Madison Scouts,Open Class,76.0,1987
+06/19,Waterbury,CT,2,New York Skyliners,Open Class,71.2,1987
+06/20,Somerville,MA,2,Boston Crusaders,Open Class,55.2,1987
+06/20,Hershey,PA,2,Steel City Ambassadors,Open Class,76.7,1987
+06/19,Whitewater,WI,3,Star of Indiana,Open Class,71.1,1987
+06/19,Waterbury,CT,3,Connecticut Hurricanes,Open Class,66.2,1987
+06/20,Somerville,MA,3,Diplomats,Open Class,42.2,1987
+06/20,Hershey,PA,3,Sunrisers,Open Class,72.0,1987
+06/19,Whitewater,WI,4,Bluecoats,Open Class,68.8,1987
+06/19,Waterbury,CT,4,New Image,Open Class,61.4,1987
+06/20,Somerville,MA,4,Saint Francis Sancians,Open Class,39.2,1987
+06/20,Hershey,PA,4,Rochester Crusaders,Open Class,71.0,1987
+06/19,Whitewater,WI,5,Phantom Regiment,Open Class,68.7,1987
+06/20,Somerville,MA,5,Bridgemen,Open Class,34.4,1987
+06/20,Hershey,PA,5,Reading Buccaneers,Open Class,69.5,1987
+06/19,Whitewater,WI,6,Sky Ryders,Open Class,62.4,1987
+06/20,Hershey,PA,6,New York Skyliners,Open Class,67.2,1987
+06/19,Whitewater,WI,7,Minnesota Brass,Open Class,44.2,1987
+06/20,Hershey,PA,7,Westshoremen,Open Class,64.8,1987
+06/19,Whitewater,WI,8,Colts,Open Class,41.9,1987
+06/19,Whitewater,WI,9,Knights,Open Class,38.8,1987
+06/19,Whitewater,WI,10,Glassmen,Open Class,31.4,1987
+06/19,Whitewater,WI,11,Northern Aurora,Open Class,30.7,1987
+06/20,Milwaukee,WI,1,Phantom Regiment,Open Class,76.3,1987
+06/20,Napa,CA,1,Vanguard,Open Class,71.4,1987
+06/20,Geneseo,IL,1,Madison Scouts,Open Class,74.8,1987
+06/20,Waterloo,Ontario,1,Ventures,DCA Class A,61.2,1987
+06/20,Milwaukee,WI,2,Bluecoats,Open Class,75.1,1987
+06/20,Napa,CA,2,Blue Devils,Open Class,71.3,1987
+06/20,Geneseo,IL,2,Sky Ryders,Open Class,64.5,1987
+06/20,Waterloo,Ontario,2,Kiwanis Kavaliers,DCA Class A,48.8,1987
+06/20,Milwaukee,WI,3,Minnesota Brass,Open Class,49.7,1987
+06/20,Geneseo,IL,3,Colts,Open Class,49.2,1987
+06/20,Waterloo,Ontario,3,Conqueror II,DCA Class A,41.4,1987
+06/20,Milwaukee,WI,4,Glassmen,Open Class,46.3,1987
+06/20,Geneseo,IL,4,Knights,Open Class,41.9,1987
+06/20,Waterloo,Ontario,4,Oshawa Rebels,DCA Class A,38.2,1987
+06/20,Milwaukee,WI,5,Madison Junior Scouts,Open Class,29.0,1987
+06/20,Geneseo,IL,5,Blue Stars,Open Class,27.5,1987
+06/20,Waterloo,Ontario,5,Cardinals,DCA Class A,22.6,1987
+06/20,Milwaukee,WI,6,CapitolAires,Open Class,23.0,1987
+06/20,Geneseo,IL,6,Black Knights,Open Class,25.4,1987
+06/20,Geneseo,IL,7,Northmen-WI,Open Class,24.0,1987
+06/20,Waterloo,Ontario,1,Emerald Knights-ONT,DCA Class A,24.2,1987
+06/20,Waterloo,Ontario,2,Saint John's,DCA Class A,22.4,1987
+06/21,Middlesex,NJ,1,Garfield Cadets,Open Class,74.9,1987
+06/21,Normal,IL,1,Cavaliers,Open Class,80.0,1987
+06/21,Welland,Ontario,1,Dutch Boy,Open Class,76.5,1987
+06/22,Belleville,IL,1,Madison Scouts,DCA Class A,79.1,1987
+06/21,Middlesex,NJ,2,Crossmen,Open Class,53.8,1987
+06/21,Normal,IL,2,Star of Indiana,Open Class,74.7,1987
+06/22,Belleville,IL,2,Sky Ryders,DCA Class A,70.9,1987
+06/21,Middlesex,NJ,3,Diplomats,Open Class,42.8,1987
+06/21,Normal,IL,3,Madison Scouts,Open Class,73.1,1987
+06/21,Welland,Ontario,2,Kiwanis Kavaliers,Open Class,50.5,1987
+06/22,Belleville,IL,3,Colts,DCA Class A,54.1,1987
+06/21,Middlesex,NJ,4,Saint Francis Sancians,Open Class,38.0,1987
+06/21,Normal,IL,4,Bluecoats,Open Class,72.5,1987
+06/21,Welland,Ontario,3,Conqueror II,Open Class,41.1,1987
+06/22,Belleville,IL,4,Guardsmen,DCA Class A,45.5,1987
+06/21,Middlesex,NJ,5,Bridgemen,Open Class,31.5,1987
+06/21,Normal,IL,5,Phantom Regiment,Open Class,72.2,1987
+06/21,Welland,Ontario,4,Oakland Crusaders,Open Class,31.7,1987
+06/22,Belleville,IL,5,Blue Stars,DCA Class A,39.0,1987
+06/21,Normal,IL,6,Glassmen,Open Class,38.4,1987
+06/21,Welland,Ontario,5,Saint John's,Open Class,25.8,1987
+06/22,Belleville,IL,6,Northmen-WI,DCA Class A,26.4,1987
+06/21,Normal,IL,7,Northern Aurora,Open Class,33.3,1987
+06/22,Belleville,IL,7,Emerald Knights-IA,DCA Class A,25.4,1987
+06/21,Normal,IL,8,CapitolAires,Open Class,23.5,1987
+06/21,Welland,Ontario,1,Emerald Knights-ONT,Open Class,25.7,1987
+06/21,Welland,Ontario,2,Cardinals,Open Class,22.1,1987
+06/23,Canton,OH,1,Star of Indiana,Open Class,74.5,1987
+06/24,Hutchinson,KS,1,Madison Scouts,Open Class,75.1,1987
+06/24,Cleveland,OH,1,Phantom Regiment,Open Class,76.2,1987
+06/25,Austintown,OH,1,Phantom Regiment,DCA Class A,77.4,1987
+06/23,Canton,OH,2,Phantom Regiment,Open Class,74.4,1987
+06/24,Hutchinson,KS,2,Sky Ryders,Open Class,69.9,1987
+06/24,Cleveland,OH,2,Bluecoats,Open Class,74.7,1987
+06/25,Austintown,OH,2,Star of Indiana,DCA Class A,73.8,1987
+06/23,Canton,OH,3,Bluecoats,Open Class,70.9,1987
+06/24,Hutchinson,KS,3,Colts,Open Class,54.5,1987
+06/24,Cleveland,OH,3,Troopers,Open Class,59.1,1987
+06/25,Austintown,OH,3,Bluecoats,DCA Class A,70.9,1987
+06/23,Canton,OH,4,Troopers,Open Class,59.8,1987
+06/24,Hutchinson,KS,4,Guardsmen,Open Class,40.2,1987
+06/24,Cleveland,OH,4,Glassmen,Open Class,38.8,1987
+06/25,Austintown,OH,4,Troopers,DCA Class A,61.1,1987
+06/23,Canton,OH,5,Glassmen,Open Class,42.7,1987
+06/24,Hutchinson,KS,5,Railmen,Open Class,35.8,1987
+06/24,Cleveland,OH,5,Northern Aurora,Open Class,32.5,1987
+06/25,Austintown,OH,5,Glassmen,DCA Class A,39.0,1987
+06/23,Canton,OH,6,Northern Aurora,Open Class,38.3,1987
+06/24,Hutchinson,KS,6,Blue Stars,Open Class,33.7,1987
+06/24,Cleveland,OH,6,CapitolAires,Open Class,21.5,1987
+06/25,Austintown,OH,6,Northern Aurora,DCA Class A,35.9,1987
+06/23,Canton,OH,7,Madison Junior Scouts,Open Class,26.0,1987
+06/24,Hutchinson,KS,7,Emerald Knights-IA,Open Class,26.3,1987
+06/25,Austintown,OH,7,Madison Junior Scouts,DCA Class A,25.6,1987
+06/23,Canton,OH,8,CapitolAires,Open Class,19.0,1987
+06/24,Hutchinson,KS,8,Black Knights,Open Class,20.6,1987
+06/26,Malden,MA,1,Garfield Cadets,Open Class,75.1,1987
+06/26,Madison,WI,1,Cavaliers,Open Class,78.7,1987
+06/26,Omaha,NE,1,Madison Scouts,Open Class,79.6,1987
+06/26,Toledo,OH,1,Phantom Regiment,DCA Class A,77.2,1987
+06/26,Malden,MA,2,Dutch Boy,Open Class,61.1,1987
+06/26,Madison,WI,2,Knights,Open Class,47.2,1987
+06/26,Omaha,NE,2,Sky Ryders,Open Class,68.9,1987
+06/26,Toledo,OH,2,Star of Indiana,DCA Class A,74.9,1987
+06/26,Malden,MA,3,Boston Crusaders,Open Class,58.7,1987
+06/26,Madison,WI,3,Phantom Regiment Cadets,Open Class,31.9,1987
+06/26,Omaha,NE,3,Colts,Open Class,68.9,1987
+06/26,Toledo,OH,3,Bluecoats,DCA Class A,73.2,1987
+06/26,Malden,MA,4,Florida Wave,Open Class,56.7,1987
+06/26,Madison,WI,4,Northmen-WI,Open Class,27.7,1987
+06/26,Omaha,NE,4,Guardsmen,Open Class,68.9,1987
+06/26,Toledo,OH,4,Troopers,DCA Class A,61.2,1987
+06/26,Malden,MA,5,Diplomats,Open Class,43.7,1987
+06/26,Madison,WI,5,Pioneer,Open Class,22.7,1987
+06/26,Omaha,NE,5,Railmen,Open Class,68.9,1987
+06/26,Toledo,OH,5,Northern Aurora,DCA Class A,39.4,1987
+06/26,Malden,MA,6,Saint Francis Sancians,Open Class,43.0,1987
+06/26,Madison,WI,6,CapitolAires,Open Class,21.3,1987
+06/26,Omaha,NE,6,Emerald Knights-IA,Open Class,35.6,1987
+06/26,Toledo,OH,6,Madison Junior Scouts,DCA Class A,29.3,1987
+06/26,Malden,MA,7,Spartans-NH,Open Class,31.9,1987
+06/26,Omaha,NE,7,Blue Stars,Open Class,35.2,1987
+06/26,Omaha,NE,8,Black Knights,Open Class,23.5,1987
+06/27,Riverside,CA,1,Vanguard,Open Class,79.3,1987
+06/27,Camden,DE,1,Suncoast Sound,Open Class,71.9,1987
+06/27,Bloomfield,NJ,1,Garfield Cadets,Open Class,74.0,1987
+06/27,Atlantic,IA,1,Madison Scouts,DCA Class A,80.9,1987
+06/27,Riverside,CA,2,Blue Devils,Open Class,77.3,1987
+06/27,Camden,DE,2,Florida Wave,Open Class,61.7,1987
+06/27,Bloomfield,NJ,2,Spirit of Atlanta,Open Class,71.1,1987
+06/27,Atlantic,IA,2,Sky Ryders,DCA Class A,69.7,1987
+06/27,Riverside,CA,3,Velvet Knights,Open Class,70.3,1987
+06/27,Camden,DE,3,Crossmen,Open Class,54.6,1987
+06/27,Bloomfield,NJ,3,Dutch Boy,Open Class,56.2,1987
+06/27,Atlantic,IA,3,Colts,DCA Class A,58.8,1987
+06/27,Riverside,CA,4,Freelancers,Open Class,53.1,1987
+06/27,Camden,DE,4,Diplomats,Open Class,45.5,1987
+06/27,Bloomfield,NJ,4,Boston Crusaders,Open Class,53.2,1987
+06/27,Atlantic,IA,4,Guardsmen,DCA Class A,46.6,1987
+06/27,Riverside,CA,5,Sunset Regiment,Open Class,49.3,1987
+06/27,Camden,DE,5,Saint Francis Sancians,Open Class,41.6,1987
+06/27,Atlantic,IA,5,Blue Stars,DCA Class A,37.5,1987
+06/27,Camden,DE,6,Bridgemen,Open Class,34.8,1987
+06/27,Atlantic,IA,6,Railmen,DCA Class A,36.6,1987
+06/27,Riverside,CA,1,Blue Devils B,Open Class,42.6,1987
+06/27,Riverside,CA,2,Musketeers,Open Class,38.5,1987
+06/27,Riverside,CA,3,Vanguard Cadets,Open Class,37.6,1987
+06/27,Bridgeport,CT,1,Hawthorne Caballeros,Open Class,77.4,1987
+06/27,Menasha,WI,1,Cavaliers,Open Class,81.1,1987
+06/27,Saginaw,MI,1,Phantom Regiment,Open Class,76.7,1987
+06/27,Rosemont,Illinois,1,Phantom Regiment Cadets,DCA Class A,31.8,1987
+06/27,Bridgeport,CT,2,Bushwackers,Open Class,75.7,1987
+06/27,Menasha,WI,2,Knights,Open Class,48.5,1987
+06/27,Saginaw,MI,2,Star of Indiana,Open Class,76.2,1987
+06/27,Rosemont,Illinois,2,Coachmen,DCA Class A,29.0,1987
+06/27,Bridgeport,CT,3,Sunrisers,Open Class,72.3,1987
+06/27,Menasha,WI,3,Northmen-WI,Open Class,33.5,1987
+06/27,Saginaw,MI,3,Bluecoats,Open Class,73.3,1987
+06/27,Rosemont,Illinois,3,Joliet Kingsmen,DCA Class A,22.0,1987
+06/27,Bridgeport,CT,4,Reading Buccaneers,Open Class,71.8,1987
+06/27,Menasha,WI,4,Bandettes,Open Class,28.2,1987
+06/27,Saginaw,MI,4,Northern Aurora,Open Class,42.6,1987
+06/27,Rosemont,Illinois,4,Racine Scouts,DCA Class A,9.6,1987
+06/27,Bridgeport,CT,5,New York Skyliners,Open Class,70.4,1987
+06/27,Menasha,WI,5,Americanos,Open Class,23.8,1987
+06/27,Saginaw,MI,5,Glassmen,Open Class,42.2,1987
+06/27,Rosemont,Illinois,5,New Day,DCA Class A,6.5,1987
+06/27,Bridgeport,CT,6,Connecticut Hurricanes,Open Class,62.2,1987
+06/27,Menasha,WI,6,Pioneer,Open Class,21.7,1987
+06/27,Saginaw,MI,6,Madison Junior Scouts,Open Class,30.0,1987
+06/27,Bridgeport,CT,7,Matadors,Open Class,62.1,1987
+06/27,Burlington,Ontario,1,Canadian Knights,DCA Class A,71.1,1987
+06/28,West Chester,PA,1,Spirit of Atlanta,Open Class,77.0,1987
+06/28,Dubuque,IA,1,Madison Scouts,Open Class,81.0,1987
+06/28,Green Bay,WI,1,Cavaliers,DCA Class A,83.2,1987
+06/27,Burlington,Ontario,2,Oshawa Rebels,DCA Class A,51.0,1987
+06/28,West Chester,PA,2,Garfield Cadets,Open Class,74.9,1987
+06/28,Dubuque,IA,2,Sky Ryders,Open Class,71.0,1987
+06/28,Green Bay,WI,2,Knights,DCA Class A,54.3,1987
+06/27,Burlington,Ontario,3,Kiwanis Kavaliers,DCA Class A,42.4,1987
+06/28,West Chester,PA,3,Suncoast Sound,Open Class,70.3,1987
+06/28,Dubuque,IA,3,Colts,Open Class,61.2,1987
+06/28,Green Bay,WI,3,Bandettes,DCA Class A,27.3,1987
+06/27,Burlington,Ontario,4,Conqueror II,DCA Class A,40.8,1987
+06/28,West Chester,PA,4,Dutch Boy,Open Class,63.4,1987
+06/28,Dubuque,IA,4,Guardsmen,Open Class,43.8,1987
+06/28,Green Bay,WI,4,CapitolAires,DCA Class A,26.2,1987
+06/27,Burlington,Ontario,5,Out of the Blue,DCA Class A,29.9,1987
+06/28,West Chester,PA,5,Florida Wave,Open Class,62.2,1987
+06/28,Dubuque,IA,5,Blue Star Cadets,Open Class,35.6,1987
+06/28,Green Bay,WI,5,Americanos,DCA Class A,22.1,1987
+06/28,West Chester,PA,6,Crossmen,Open Class,53.6,1987
+06/28,Dubuque,IA,5,Emerald Knights,Open Class,35.6,1987
+06/28,Green Bay,WI,6,Pioneer,DCA Class A,21.2,1987
+06/27,Burlington,Ontario,1,Emerald Knights-ONT,DCA Class A,23.0,1987
+06/28,West Chester,PA,7,Diplomats,Open Class,47.2,1987
+06/28,Dubuque,IA,7,Phantom Regiment Cadets,Open Class,30.6,1987
+06/27,Burlington,Ontario,2,Cardinals,DCA Class A,12.9,1987
+06/28,West Chester,PA,8,Saint Francis Sancians,Open Class,39.8,1987
+06/28,Dubuque,IA,8,Black Knights,Open Class,23.3,1987
+06/28,Monterey Park,CA,1,Vanguard,Open Class,80.5,1987
+06/29,Salem,VA,1,Garfield Cadets,Open Class,80.2,1987
+06/29,Cedar Rapids,IA,1,Madison Scouts,Open Class,82.3,1987
+06/29,Terre Haute,IN,1,Star of Indiana,DCA Class A,78.2,1987
+06/28,Monterey Park,CA,2,Blue Devils,Open Class,79.3,1987
+06/29,Salem,VA,2,Spirit of Atlanta,Open Class,76.5,1987
+06/29,Cedar Rapids,IA,2,Sky Ryders,Open Class,71.3,1987
+06/29,Terre Haute,IN,2,Phantom Regiment,DCA Class A,77.0,1987
+06/28,Monterey Park,CA,3,Velvet Knights,Open Class,71.1,1987
+06/29,Salem,VA,3,Suncoast Sound,Open Class,69.9,1987
+06/29,Cedar Rapids,IA,3,Colts,Open Class,62.8,1987
+06/29,Terre Haute,IN,3,Bluecoats,DCA Class A,74.1,1987
+06/28,Monterey Park,CA,4,Freelancers,Open Class,53.4,1987
+06/29,Salem,VA,4,Florida Wave,Open Class,59.8,1987
+06/29,Cedar Rapids,IA,4,Guardsmen,Open Class,48.0,1987
+06/29,Terre Haute,IN,4,Troopers,DCA Class A,61.6,1987
+06/28,Monterey Park,CA,5,Sunset Regiment,Open Class,50.5,1987
+06/29,Salem,VA,5,Crossmen,Open Class,54.0,1987
+06/29,Cedar Rapids,IA,5,Emerald Knights,Open Class,45.7,1987
+06/29,Terre Haute,IN,5,Joliet Kingsmen,DCA Class A,20.9,1987
+06/29,Cedar Rapids,IA,6,Blue Star Cadets,Open Class,43.1,1987
+06/29,Terre Haute,IN,6,Prairie Fire,DCA Class A,5.9,1987
+06/28,Monterey Park,CA,1,Vanguard Cadets,Open Class,40.7,1987
+06/29,Cedar Rapids,IA,7,Black Knights,Open Class,25.7,1987
+06/28,Monterey Park,CA,2,Blue Devils B,Open Class,40.6,1987
+06/28,Monterey Park,CA,3,Spartan Cadets,Open Class,39.5,1987
+06/28,Monterey Park,CA,4,Musketeers,Open Class,32.3,1987
+06/29,Monterey Park,CA,1,Vanguard,Open Class,82.9,1987
+06/29,Mississauga,Ontario,1,Canadian Knights,DCA Class A,76.7,1987
+06/30,Roanoke Rapids,NC,1,Garfield Cadets,Open Class,79.2,1987
+06/30,Windsor,Ontario,1,Bluecoats,Open Class,76.5,1987
+06/29,Monterey Park,CA,2,Blue Devils,Open Class,80.1,1987
+06/29,Mississauga,Ontario,2,Ventures,DCA Class A,72.6,1987
+06/30,Roanoke Rapids,NC,2,Spirit of Atlanta,Open Class,76.7,1987
+06/30,Windsor,Ontario,2,Glassmen,Open Class,48.7,1987
+06/29,Monterey Park,CA,3,Velvet Knights,Open Class,72.0,1987
+06/29,Mississauga,Ontario,3,Oshawa Rebels,DCA Class A,54.8,1987
+06/30,Roanoke Rapids,NC,3,Suncoast Sound,Open Class,69.0,1987
+06/29,Monterey Park,CA,4,Freelancers,Open Class,54.9,1987
+06/29,Mississauga,Ontario,4,Kiwanis Kavaliers,DCA Class A,44.7,1987
+06/30,Roanoke Rapids,NC,4,Dutch Boy,Open Class,62.6,1987
+06/30,Windsor,Ontario,1,Northern Aurora,Open Class,52.6,1987
+06/29,Monterey Park,CA,5,Sunset Regiment,Open Class,50.3,1987
+06/29,Mississauga,Ontario,5,Conqueror II,DCA Class A,41.4,1987
+06/30,Roanoke Rapids,NC,5,Florida Wave,Open Class,59.9,1987
+06/30,Windsor,Ontario,2,Bandettes,Open Class,41.9,1987
+06/29,Monterey Park,CA,6,Musketeers,Open Class,36.5,1987
+06/29,Mississauga,Ontario,6,Saint Andrews,DCA Class A,36.7,1987
+06/30,Roanoke Rapids,NC,6,Crossmen,Open Class,53.6,1987
+06/29,Mississauga,Ontario,7,Out of the Blue,DCA Class A,31.2,1987
+06/30,Windsor,Ontario,1,Cadets of Dutch Boy,Open Class,25.4,1987
+06/30,Windsor,Ontario,2,Northern Dream,Open Class,19.8,1987
+06/29,Mississauga,Ontario,1,Emerald Knights-ONT,DCA Class A,27.4,1987
+06/30,Windsor,Ontario,3,Eagles,Open Class,14.8,1987
+06/29,Mississauga,Ontario,2,Ridge Raiders,DCA Class A,24.1,1987
+06/29,Mississauga,Ontario,3,Saint John's,DCA Class A,18.8,1987
+06/29,Mississauga,Ontario,4,Cardinals,DCA Class A,14.5,1987
+07/01,Cary,NC,1,Garfield Cadets,Open Class,79.4,1987
+07/02,Streator,IL,1,Cavaliers,Open Class,87.6,1987
+07/03,Decatur,GA,1,Garfield Cadets,Open Class,81.6,1987
+07/03,LaCrosse,WI,1,Madison Scouts,Open Class,81.7,1987
+07/01,Cary,NC,2,Spirit of Atlanta,Open Class,79.0,1987
+07/02,Streator,IL,2,Phantom Regiment,Open Class,83.7,1987
+07/03,Decatur,GA,2,Spirit of Atlanta,Open Class,80.2,1987
+07/03,LaCrosse,WI,2,Sky Ryders,Open Class,73.8,1987
+07/01,Cary,NC,3,Suncoast Sound,Open Class,68.4,1987
+07/02,Streator,IL,3,Star of Indiana,Open Class,80.2,1987
+07/03,Decatur,GA,3,Suncoast Sound,Open Class,71.4,1987
+07/03,LaCrosse,WI,3,Colts,Open Class,61.6,1987
+07/01,Cary,NC,4,Dutch Boy,Open Class,63.5,1987
+07/02,Streator,IL,4,Bluecoats,Open Class,78.4,1987
+07/03,Decatur,GA,4,Florida Wave,Open Class,62.5,1987
+07/03,LaCrosse,WI,4,Railmen,Open Class,44.0,1987
+07/01,Cary,NC,5,Florida Wave,Open Class,60.3,1987
+07/02,Streator,IL,5,Sky Ryders,Open Class,74.3,1987
+07/03,Decatur,GA,5,Crossmen,Open Class,54.7,1987
+07/03,LaCrosse,WI,5,Americanos,Open Class,25.1,1987
+07/01,Cary,NC,6,Crossmen,Open Class,54.6,1987
+07/02,Streator,IL,6,Troopers,Open Class,70.3,1987
+07/03,LaCrosse,WI,6,Govenaires,Open Class,17.4,1987
+07/02,Streator,IL,7,Knights,Open Class,50.2,1987
+07/02,Streator,IL,8,Glassmen,Open Class,46.5,1987
+07/02,Streator,IL,9,Northern Aurora,Open Class,45.5,1987
+07/02,Streator,IL,10,CapitolAires,Open Class,25.6,1987
+07/03,Racine,WI,1,Cavaliers,Open Class,83.5,1987
+07/03,Rockford,IL,1,Phantom Regiment,Open Class,86.3,1987
+07/03,San Diego,CA,1,Vanguard,Open Class,81.7,1987
+07/03,Vancouver,WA,1,Blue Knights,Open Class,62.6,1987
+07/03,Racine,WI,2,Troopers,Open Class,70.0,1987
+07/03,Rockford,IL,2,Star of Indiana,Open Class,83.2,1987
+07/03,San Diego,CA,2,Blue Devils,Open Class,79.6,1987
+07/03,Vancouver,WA,2,Marauders,Open Class,58.4,1987
+07/03,Racine,WI,3,Northmen-WI,Open Class,38.6,1987
+07/03,Rockford,IL,3,Bluecoats,Open Class,80.1,1987
+07/03,San Diego,CA,3,Velvet Knights,Open Class,70.4,1987
+07/03,Vancouver,WA,3,Spartans-WA,Open Class,55.5,1987
+07/03,Racine,WI,4,Madison Junior Scouts,Open Class,34.7,1987
+07/03,Rockford,IL,4,Knights,Open Class,54.8,1987
+07/03,San Diego,CA,4,Freelancers,Open Class,58.1,1987
+07/03,Vancouver,WA,4,Argonauts,Open Class,48.5,1987
+07/03,Racine,WI,5,Pioneer,Open Class,27.8,1987
+07/03,Rockford,IL,5,Glassmen,Open Class,46.3,1987
+07/03,San Diego,CA,5,Sunset Regiment,Open Class,53.3,1987
+07/03,Racine,WI,6,CapitolAires,Open Class,27.5,1987
+07/03,Rockford,IL,6,Guardsmen,Open Class,46.1,1987
+07/03,San Diego,CA,6,Musketeers,Open Class,47.0,1987
+07/03,Vancouver,WA,1,Mandarins,Open Class,55.5,1987
+07/03,Rockford,IL,7,Northern Aurora,Open Class,44.3,1987
+07/03,Vancouver,WA,2,Rocky Mountain Magic,Open Class,41.3,1987
+07/03,Rockford,IL,8,Black Knights,Open Class,28.5,1987
+07/03,Vancouver,WA,3,Blue Devils B,Open Class,40.3,1987
+07/03,Vancouver,WA,4,Spartan Cadets,Open Class,39.1,1987
+07/04,Chelmsford,MA,1,Dutch Boy,Open Class,68.8,1987
+07/04,Elmwood Park,IL,1,Bluecoats,Open Class,81.2,1987
+07/04,New Berlin,WI,1,Troopers,Open Class,69.3,1987
+07/04,Saint Peter,MN,1,Madison Scouts,Open Class,81.4,1987
+07/04,Chelmsford,MA,2,Boston Crusaders,Open Class,67.0,1987
+07/04,Elmwood Park,IL,2,Knights,Open Class,55.9,1987
+07/04,New Berlin,WI,2,Northern Aurora,Open Class,52.8,1987
+07/04,Saint Peter,MN,2,Sky Ryders,Open Class,73.5,1987
+07/04,Chelmsford,MA,3,Ventures,Open Class,57.1,1987
+07/04,Elmwood Park,IL,3,Northern Dream,Open Class,12.3,1987
+07/04,New Berlin,WI,3,Northmen-WI,Open Class,38.0,1987
+07/04,Saint Peter,MN,3,Colts,Open Class,62.9,1987
+07/04,Chelmsford,MA,4,Connexion Quebec,Open Class,50.9,1987
+07/04,Elmwood Park,IL,4,Northmen-WI,Open Class,9.9,1987
+07/04,New Berlin,WI,4,Madison Junior Scouts,Open Class,31.9,1987
+07/04,Saint Peter,MN,4,Minnesota Brass,Open Class,52.8,1987
+07/04,Chelmsford,MA,5,Saint Francis Sancians,Open Class,46.0,1987
+07/04,New Berlin,WI,5,Pioneer,Open Class,23.5,1987
+07/04,Saint Peter,MN,5,Railmen,Open Class,39.2,1987
+07/04,Chelmsford,MA,6,Diplomats,Open Class,45.7,1987
+07/04,Saint Peter,MN,6,Blue Stars,Open Class,35.9,1987
+07/04,Chelmsford,MA,7,Bridgemen,Open Class,42.7,1987
+07/04,Saint Peter,MN,7,Americanos,Open Class,24.7,1987
+07/04,Chelmsford,MA,8,Academie Musicale,Open Class,36.5,1987
+07/04,Chelmsford,MA,9,Spartans-NH,Open Class,35.2,1987
+07/04,Kelso,WA,1,Blue Knights,Open Class,66.7,1987
+07/04,Los Angeles,CA,1,Vanguard,Open Class,82.9,1987
+07/05,Clearwater,FL,1,Garfield Cadets,Open Class,78.4,1987
+07/05,Waterville,ME,1,Dutch Boy,Open Class,68.5,1987
+07/04,Kelso,WA,2,Marauders,Open Class,58.4,1987
+07/04,Los Angeles,CA,2,Blue Devils,Open Class,80.7,1987
+07/05,Clearwater,FL,2,Spirit of Atlanta,Open Class,77.8,1987
+07/05,Waterville,ME,2,Boston Crusaders,Open Class,67.8,1987
+07/04,Kelso,WA,3,Spartans-WA,Open Class,55.5,1987
+07/04,Los Angeles,CA,3,Velvet Knights,Open Class,69.3,1987
+07/05,Clearwater,FL,3,Suncoast Sound,Open Class,71.8,1987
+07/05,Waterville,ME,3,Ventures,Open Class,56.4,1987
+07/04,Kelso,WA,4,Argonauts,Open Class,46.2,1987
+07/04,Los Angeles,CA,4,Freelancers,Open Class,55.1,1987
+07/05,Clearwater,FL,4,Florida Wave,Open Class,61.8,1987
+07/05,Waterville,ME,4,Connexion Quebec,Open Class,51.8,1987
+07/04,Los Angeles,CA,5,Sunset Regiment,Open Class,54.5,1987
+07/05,Clearwater,FL,5,Crossmen,Open Class,55.4,1987
+07/05,Waterville,ME,5,Saint Francis Sancians,Open Class,51.1,1987
+07/04,Kelso,WA,1,Mandarins,Open Class,58.4,1987
+07/05,Waterville,ME,6,Bridgemen,Open Class,45.1,1987
+07/04,Kelso,WA,2,Rocky Mountain Magic,Open Class,50.3,1987
+07/05,Waterville,ME,7,Transit,Open Class,40.7,1987
+07/04,Kelso,WA,3,Blue Devils B,Open Class,47.7,1987
+07/04,Kelso,WA,4,Spartan Cadets,Open Class,38.3,1987
+07/05,Mundelein,IL,1,Phantom Regiment,Open Class,86.4,1987
+07/05,Saint Louis Park,MN,1,Madison Scouts,Open Class,83.9,1987
+07/05,Fountain Park,CA,1,Vanguard,Open Class,85.7,1987
+07/05,Salem,OR,1,Blue Knights,Open Class,66.0,1987
+07/05,Mundelein,IL,2,Guardsmen,Open Class,57.5,1987
+07/05,Saint Louis Park,MN,2,Sky Ryders,Open Class,74.8,1987
+07/05,Fountain Park,CA,2,Blue Devils,Open Class,83.4,1987
+07/05,Salem,OR,2,Marauders,Open Class,59.6,1987
+07/05,Mundelein,IL,3,Emerald Knights,Open Class,49.7,1987
+07/05,Saint Louis Park,MN,3,Colts,Open Class,60.4,1987
+07/05,Fountain Park,CA,3,Velvet Knights,Open Class,75.0,1987
+07/05,Salem,OR,3,Spartans-WA,Open Class,56.7,1987
+07/05,Mundelein,IL,4,Phantom Regiment Cadets,Open Class,36.7,1987
+07/05,Saint Louis Park,MN,4,Minnesota Brass,Open Class,52.7,1987
+07/05,Fountain Park,CA,4,Freelancers,Open Class,59.0,1987
+07/05,Salem,OR,4,Argonauts,Open Class,48.1,1987
+07/05,Mundelein,IL,5,Bandettes,Open Class,34.9,1987
+07/05,Saint Louis Park,MN,5,Railmen,Open Class,46.6,1987
+07/05,Fountain Park,CA,5,Sunset Regiment,Open Class,57.1,1987
+07/05,Mundelein,IL,6,Black Knights,Open Class,28.4,1987
+07/05,Saint Louis Park,MN,6,Blue Stars,Open Class,40.8,1987
+07/05,Salem,OR,1,Mandarins,Open Class,59.0,1987
+07/05,Saint Louis Park,MN,7,Americanos,Open Class,25.3,1987
+07/05,Salem,OR,2,Rocky Mountain Magic,Open Class,54.8,1987
+07/05,Saint Louis Park,MN,8,Govenaires,Open Class,18.1,1987
+07/05,Salem,OR,3,Blue Devils B,Open Class,47.2,1987
+07/05,Salem,OR,4,Spartan Cadets,Open Class,39.1,1987
+07/05,Levis,Quebec,1,Mousquetaires,Open Class,45.1,1987
+07/07,Orlando,FL,1,Spirit of Atlanta,Open Class,80.1,1987
+07/08,Momence,IL,1,Guardsmen,Open Class,66.0,1987
+07/10,Waterloo,Ontario,1,Dutch Boy,Open Class,70.5,1987
+07/05,Levis,Quebec,2,Les Chapdelaines,Open Class,38.5,1987
+07/07,Orlando,FL,2,Boston Crusaders,Open Class,79.9,1987
+07/08,Momence,IL,2,Emerald Knights,Open Class,59.9,1987
+07/10,Waterloo,Ontario,2,Ventures,Open Class,59.5,1987
+07/05,Levis,Quebec,3,Les Renaissance,Open Class,38.2,1987
+07/07,Orlando,FL,3,Suncoast Sound,Open Class,76.3,1987
+07/08,Momence,IL,3,Phantom Regiment Cadets,Open Class,53.2,1987
+07/10,Waterloo,Ontario,3,Sancians,Open Class,50.3,1987
+07/05,Levis,Quebec,4,Les Aventuriers,Open Class,37.1,1987
+07/07,Orlando,FL,4,Florida Wave,Open Class,65.6,1987
+07/08,Momence,IL,4,Black Knights,Open Class,44.9,1987
+07/10,Waterloo,Ontario,4,Kiwanis Kavaliers,Open Class,38.7,1987
+07/05,Levis,Quebec,5,Les Royalists,Open Class,36.2,1987
+07/07,Orlando,FL,5,Crossmen,Open Class,57.4,1987
+07/08,Momence,IL,5,Madison Junior Scouts,Open Class,43.6,1987
+07/10,Waterloo,Ontario,5,Bandettes,Open Class,31.6,1987
+07/05,Levis,Quebec,6,Les Voltigeurs,Open Class,25.4,1987
+07/08,Momence,IL,6,CapitolAires,Open Class,35.7,1987
+07/10,Waterloo,Ontario,6,Northmen-NY,Open Class,23.1,1987
+07/10,Spokane,WA,1,Marauders,Open Class,65.4,1987
+07/11,Bloomfield,NJ,1,Sunrisers,Open Class,80.6,1987
+07/11,Baltimore,MD,1,Garfield Cadets,Open Class,84.3,1987
+07/11,Sacramento,CA,1,Vanguard,Open Class,86.6,1987
+07/11,Bloomfield,NJ,2,Bushwackers,Open Class,79.8,1987
+07/11,Baltimore,MD,2,Boston Crusaders,Open Class,63.9,1987
+07/11,Sacramento,CA,2,Blue Devils,Open Class,82.6,1987
+07/10,Spokane,WA,1,Spartans-WA,Open Class,57.8,1987
+07/11,Bloomfield,NJ,3,New York Skyliners,Open Class,78.8,1987
+07/11,Baltimore,MD,3,Crossmen,Open Class,62.6,1987
+07/11,Sacramento,CA,3,Velvet Knights,Open Class,77.4,1987
+07/10,Spokane,WA,2,Argonauts,Open Class,55.2,1987
+07/11,Bloomfield,NJ,4,Matadors,Open Class,67.9,1987
+07/11,Baltimore,MD,4,Diplomats,Open Class,49.5,1987
+07/11,Sacramento,CA,4,Freelancers,Open Class,59.9,1987
+07/10,Spokane,WA,3,Spartan Cadets,Open Class,47.6,1987
+07/11,Bloomfield,NJ,5,Connecticut Hurricanes,Open Class,65.0,1987
+07/11,Baltimore,MD,5,Bridgemen,Open Class,38.9,1987
+07/11,Sacramento,CA,5,Blue Knights,Open Class,59.4,1987
+07/10,Spokane,WA,4,Brassmen,Open Class,26.8,1987
+07/11,Bloomfield,NJ,6,New Image,Open Class,56.0,1987
+07/11,Sacramento,CA,1,Rocky Mountain Magic,Open Class,64.8,1987
+07/11,Sacramento,CA,2,Blue Devils B,Open Class,54.6,1987
+07/11,Sacramento,CA,3,Mandarins,Open Class,54.5,1987
+07/11,Sacramento,CA,4,Vanguard Cadets,Open Class,52.6,1987
+07/11,Peterborough,Ontario,1,Dutch Boy,Open Class,72.6,1987
+07/11,Lee,MA,1,Patriots,Open Class,67.2,1987
+07/12,Hanover,PA,1,Garfield Cadets,Open Class,83.7,1987
+07/12,Santa Clara,CA,1,Vanguard,Open Class,87.0,1987
+07/11,Peterborough,Ontario,2,Ventures,Open Class,60.4,1987
+07/11,Lee,MA,2,Spartans-NH,Open Class,61.3,1987
+07/12,Hanover,PA,2,Boston Crusaders,Open Class,66.0,1987
+07/12,Santa Clara,CA,2,Blue Devils,Open Class,85.1,1987
+07/11,Peterborough,Ontario,3,Saint Francis Sancians,Open Class,53.3,1987
+07/11,Lee,MA,3,Explorers,Open Class,59.2,1987
+07/12,Hanover,PA,3,Crossmen,Open Class,62.5,1987
+07/12,Santa Clara,CA,3,Velvet Knights,Open Class,77.6,1987
+07/11,Peterborough,Ontario,4,Canadian Knights,Open Class,40.3,1987
+07/11,Lee,MA,4,Granite State Garrison,Open Class,59.1,1987
+07/12,Hanover,PA,4,Diplomats,Open Class,52.4,1987
+07/12,Santa Clara,CA,4,Freelancers,Open Class,60.1,1987
+07/11,Peterborough,Ontario,4,Kiwanis Kavaliers,Open Class,40.3,1987
+07/12,Hanover,PA,5,Bridgemen,Open Class,40.2,1987
+07/12,Santa Clara,CA,5,Blue Knights,Open Class,57.9,1987
+07/11,Peterborough,Ontario,6,Bandettes,Open Class,33.1,1987
+07/11,Lee,MA,1,Joanettes,Open Class,67.1,1987
+07/11,Peterborough,Ontario,7,Oshawa Rebels,Open Class,25.5,1987
+07/11,Lee,MA,2,Toreadors,Open Class,66.6,1987
+07/12,Santa Clara,CA,1,Rocky Mountain Magic,Open Class,60.1,1987
+07/11,Peterborough,Ontario,8,Northmen-NY,Open Class,15.9,1987
+07/11,Lee,MA,3,STAR,Open Class,65.9,1987
+07/12,Santa Clara,CA,2,Mandarins,Open Class,55.5,1987
+07/11,Lee,MA,4,Satellites,Open Class,57.5,1987
+07/12,Santa Clara,CA,3,Vanguard Cadets,Open Class,52.2,1987
+07/11,Lee,MA,5,Buccaneers,Open Class,46.3,1987
+07/12,Santa Clara,CA,4,Blue Devils B,Open Class,51.5,1987
+07/11,Lee,MA,1,Royal Cadets,Open Class,61.7,1987
+07/12,Leonmeister,MA,1,Patriots,Open Class,65.7,1987
+07/12,Neufchatel,Quebec,1,L'Insolite,Open Class,63.8,1987
+07/15,Freeport,IL,1,Guardsmen,Open Class,62.3,1987
+07/17,Stockton,CA,1,Vanguard,Open Class,88.3,1987
+07/12,Leonmeister,MA,2,Spartans-NH,Open Class,62.5,1987
+07/12,Neufchatel,Quebec,2,Transit,Open Class,61.9,1987
+07/15,Freeport,IL,2,Emerald Knights,Open Class,51.8,1987
+07/17,Stockton,CA,2,Blue Devils,Open Class,86.2,1987
+07/12,Leonmeister,MA,3,Explorers,Open Class,62.3,1987
+07/12,Neufchatel,Quebec,3,Academie Musicale,Open Class,58.5,1987
+07/15,Freeport,IL,3,Phantom Regiment Cadets,Open Class,46.0,1987
+07/17,Stockton,CA,3,Velvet Knights,Open Class,79.0,1987
+07/12,Leonmeister,MA,4,Granite State Garrison,Open Class,57.4,1987
+07/15,Freeport,IL,4,Madison Junior Scouts,Open Class,35.7,1987
+07/17,Stockton,CA,4,Marauders,Open Class,67.6,1987
+07/12,Neufchatel,Quebec,1,Les Aventuriers,Open Class,45.5,1987
+07/15,Freeport,IL,5,Pioneer,Open Class,30.7,1987
+07/17,Stockton,CA,5,Freelancers,Open Class,66.5,1987
+07/12,Leonmeister,MA,1,Joanettes,Open Class,62.2,1987
+07/12,Neufchatel,Quebec,1,Les Royalists,Open Class,45.5,1987
+07/12,Leonmeister,MA,2,STAR,Open Class,61.9,1987
+07/12,Neufchatel,Quebec,3,Les Renaissance,Open Class,35.1,1987
+07/17,Stockton,CA,1,Mandarins,Open Class,61.9,1987
+07/12,Leonmeister,MA,3,Toreadors,Open Class,59.2,1987
+07/12,Neufchatel,Quebec,4,3rd Regiment,Open Class,31.2,1987
+07/17,Stockton,CA,2,Vanguard Cadets,Open Class,51.1,1987
+07/12,Leonmeister,MA,4,Satellites,Open Class,56.7,1987
+07/12,Neufchatel,Quebec,5,Les Voltigeurs,Open Class,30.0,1987
+07/17,Stockton,CA,3,Calgary Cavaliers,Open Class,26.9,1987
+07/12,Leonmeister,MA,5,Buccaneers,Open Class,39.2,1987
+07/12,Neufchatel,Quebec,1,Les Ambassadeurs,Open Class,38.2,1987
+07/12,Leonmeister,MA,1,Royal Cadets,Open Class,57.8,1987
+07/12,Leonmeister,MA,2,Citation Juniors,Open Class,50.8,1987
+07/12,Leonmeister,MA,3,Royal Knights,Open Class,49.1,1987
+07/12,Leonmeister,MA,4,Braintree Braves,Open Class,23.6,1987
+07/17,Sun Prairie,WI,1,Cavaliers,Open Class,85.9,1987
+07/18,DeKalb,IL,1,Cavaliers,Open Class,86.3,1987
+07/18,DeKalb,IL,1,Cavaliers,Open Class,88.8,1987
+07/18,Morgantown,WV,1,Garfield Cadets,Open Class,87.9,1987
+07/17,Sun Prairie,WI,2,Madison Scouts,Open Class,83.7,1987
+07/18,DeKalb,IL,2,Phantom Regiment,Open Class,83.9,1987
+07/18,DeKalb,IL,2,Phantom Regiment,Open Class,87.5,1987
+07/18,Morgantown,WV,2,Spirit of Atlanta,Open Class,85.2,1987
+07/17,Sun Prairie,WI,3,Star of Indiana,Open Class,80.6,1987
+07/18,DeKalb,IL,3,Madison Scouts,Open Class,82.6,1987
+07/18,DeKalb,IL,3,Madison Scouts,Open Class,84.3,1987
+07/18,Morgantown,WV,3,Suncoast Sound,Open Class,81.8,1987
+07/17,Sun Prairie,WI,4,Bluecoats,Open Class,76.7,1987
+07/18,DeKalb,IL,4,Star of Indiana,Open Class,80.8,1987
+07/18,DeKalb,IL,4,Star of Indiana,Open Class,83.7,1987
+07/18,Morgantown,WV,4,Dutch Boy,Open Class,73.6,1987
+07/17,Sun Prairie,WI,5,Phantom Regiment Cadets,Open Class,42.8,1987
+07/18,DeKalb,IL,5,Bluecoats,Open Class,77.9,1987
+07/18,DeKalb,IL,5,Bluecoats,Open Class,80.5,1987
+07/18,Morgantown,WV,5,Florida Wave,Open Class,71.7,1987
+07/17,Sun Prairie,WI,6,Madison Junior Scouts,Open Class,37.6,1987
+07/18,DeKalb,IL,6,Colts,Open Class,67.8,1987
+07/18,DeKalb,IL,6,Colts,Open Class,65.1,1987
+07/18,Morgantown,WV,6,Boston Crusaders,Open Class,70.4,1987
+07/17,Sun Prairie,WI,7,CapitolAires,Open Class,30.0,1987
+07/18,DeKalb,IL,7,Knights,Open Class,60.8,1987
+07/18,Morgantown,WV,7,Crossmen,Open Class,69.4,1987
+07/17,Sun Prairie,WI,8,Pioneer,Open Class,28.5,1987
+07/18,DeKalb,IL,1,Northern Aurora,Open Class,58.0,1987
+07/18,Morgantown,WV,8,Connexion Quebec,Open Class,60.7,1987
+07/18,DeKalb,IL,1,Northern Aurora,Open Class,56.7,1987
+07/18,DeKalb,IL,2,Guardsmen,Open Class,48.3,1987
+07/18,Morgantown,WV,9,Diplomats,Open Class,56.6,1987
+07/18,DeKalb,IL,2,Guardsmen,Open Class,55.7,1987
+07/18,Morgantown,WV,10,Bridgemen,Open Class,49.4,1987
+07/18,DeKalb,IL,3,Glassmen,Open Class,55.3,1987
+07/18,DeKalb,IL,1,Emerald Knights-IA,Open Class,47.2,1987
+07/18,Morgantown,WV,11,Canadian Knights,Open Class,45.9,1987
+07/18,DeKalb,IL,4,Railmen,Open Class,54.2,1987
+07/18,DeKalb,IL,2,Blue Stars,Open Class,45.2,1987
+07/18,DeKalb,IL,5,Phantom Regiment Cadets,Open Class,45.0,1987
+07/18,DeKalb,IL,3,Bandettes,Open Class,35.0,1987
+07/18,Morgantown,WV,1,Ventures,Open Class,72.3,1987
+07/18,DeKalb,IL,4,Northmen-WI,Open Class,34.1,1987
+07/18,Morgantown,WV,2,Saint Francis Sancians,Open Class,71.9,1987
+07/18,DeKalb,IL,1,Emerald Knights-IA,Open Class,50.1,1987
+07/18,Morgantown,WV,3,Academie Musicale,Open Class,50.9,1987
+07/18,DeKalb,IL,2,Blue Stars,Open Class,49.6,1987
+07/18,DeKalb,IL,1,Minnesota Brass,Open Class,61.8,1987
+07/18,DeKalb,IL,3,Northmen-WI,Open Class,42.3,1987
+07/18,DeKalb,IL,2,Des Plaines Vanguard,Open Class,41.0,1987
+07/18,DeKalb,IL,4,Bandettes,Open Class,42.2,1987
+07/18,DeKalb,IL,3,Govenaires,Open Class,31.8,1987
+07/18,DeKalb,IL,5,Madison Junior Scouts,Open Class,40.5,1987
+07/18,DeKalb,IL,6,Coachmen,Open Class,39.2,1987
+07/18,DeKalb,IL,7,Black Knights,Open Class,34.9,1987
+07/18,DeKalb,IL,8,Pioneer,Open Class,34.7,1987
+07/18,DeKalb,IL,9,Americanos,Open Class,34.3,1987
+07/18,DeKalb,IL,10,CapitolAires,Open Class,32.4,1987
+07/18,DeKalb,IL,11,Joliet Kingsmen,Open Class,24.6,1987
+07/18,DeKalb,IL,13,New Day,Open Class,9.3,1987
+07/18,Concord,CA,1,Vanguard,Open Class,91.6,1987
+07/18,Providence,RI,1,Patriots,Open Class,68.5,1987
+07/18,Carlisle,PA,1,Hawthorne Caballeros,Open Class,81.6,1987
+07/19,Brantford,Ontario,1,Kiwanis Kavaliers,DCA Class A,64.4,1987
+07/18,Concord,CA,2,Blue Devils,Open Class,88.5,1987
+07/18,Providence,RI,2,Explorers,Open Class,64.3,1987
+07/18,Carlisle,PA,2,Steel City Ambassadors,Open Class,80.9,1987
+07/19,Brantford,Ontario,2,Oshawa Rebels,DCA Class A,53.8,1987
+07/18,Concord,CA,3,Velvet Knights,Open Class,81.5,1987
+07/18,Providence,RI,3,Spartans-NH,Open Class,62.5,1987
+07/18,Carlisle,PA,3,Rochester Crusaders,Open Class,80.8,1987
+07/19,Brantford,Ontario,3,Conqueror II,DCA Class A,53.1,1987
+07/18,Concord,CA,4,Marauders,Open Class,70.7,1987
+07/18,Carlisle,PA,4,Reading Buccaneers,Open Class,76.4,1987
+07/19,Brantford,Ontario,4,Oakland Crusaders,DCA Class A,46.3,1987
+07/18,Concord,CA,5,Freelancers,Open Class,69.5,1987
+07/18,Providence,RI,1,STAR,Open Class,61.3,1987
+07/18,Carlisle,PA,5,Empire Statesmen,Open Class,70.2,1987
+07/19,Brantford,Ontario,5,Cardinals,DCA Class A,33.5,1987
+07/18,Providence,RI,2,Joanettes,Open Class,60.1,1987
+07/19,Brantford,Ontario,6,Saint John's,DCA Class A,31.0,1987
+07/18,Concord,CA,1,Mandarins,Open Class,65.7,1987
+07/18,Providence,RI,3,Toreadors,Open Class,54.7,1987
+07/18,Concord,CA,2,Blue Devils B,Open Class,59.1,1987
+07/18,Providence,RI,4,Satellites,Open Class,50.7,1987
+07/18,Concord,CA,3,Vanguard Cadets,Open Class,55.9,1987
+07/18,Providence,RI,5,Buccaneers,Open Class,43.8,1987
+07/18,Concord,CA,4,Calgary Cavaliers,Open Class,27.1,1987
+07/18,Providence,RI,1,Royal Cadets,Open Class,52.8,1987
+07/18,Providence,RI,2,Citation Juniors,Open Class,49.6,1987
+07/18,Providence,RI,3,Royal Knights,Open Class,45.3,1987
+07/19,Jeanette,PA,1,Spirit of Atlanta,Open Class,84.7,1987
+07/19,Braintree,MA,1,Patriots,Open Class,70.8,1987
+07/20,Indianapolis,IN,1,Cavaliers,Open Class,85.9,1987
+07/20,Ogden,UT,1,Velvet Knights,Open Class,82.1,1987
+07/19,Jeanette,PA,2,Dutch Boy,Open Class,72.0,1987
+07/19,Braintree,MA,2,Explorers,Open Class,67.3,1987
+07/20,Indianapolis,IN,2,Phantom Regiment,Open Class,82.6,1987
+07/20,Ogden,UT,2,Marauders,Open Class,67.2,1987
+07/19,Jeanette,PA,3,Connexion Quebec,Open Class,63.2,1987
+07/19,Braintree,MA,3,Spartans-NH,Open Class,64.2,1987
+07/20,Indianapolis,IN,3,Madison Scouts,Open Class,81.2,1987
+07/20,Ogden,UT,3,Freelancers,Open Class,65.8,1987
+07/19,Jeanette,PA,4,Ventures,Open Class,54.3,1987
+07/19,Braintree,MA,4,Granite State Garrison,Open Class,59.5,1987
+07/20,Indianapolis,IN,4,Star of Indiana,Open Class,80.0,1987
+07/20,Ogden,UT,4,Spartans-WA,Open Class,59.4,1987
+07/19,Jeanette,PA,5,Diplomats,Open Class,53.3,1987
+07/20,Indianapolis,IN,5,Sky Ryders,Open Class,73.6,1987
+07/19,Jeanette,PA,6,Bridgemen,Open Class,48.8,1987
+07/19,Braintree,MA,1,Joanettes,Open Class,70.6,1987
+07/19,Braintree,MA,2,Toreadors,Open Class,68.2,1987
+07/19,Braintree,MA,3,STAR,Open Class,68.1,1987
+07/19,Braintree,MA,4,Satellites,Open Class,62.2,1987
+07/19,Braintree,MA,5,Buccaneers,Open Class,55.2,1987
+07/19,Braintree,MA,1,Citation Juniors,Open Class,64.9,1987
+07/19,Braintree,MA,2,Royal Cadets,Open Class,62.0,1987
+07/19,Braintree,MA,3,Royal Knights,Open Class,58.6,1987
+07/19,Braintree,MA,4,Braintree Braves,Open Class,33.3,1987
+07/20,Parma,OH,1,Garfield Cadets,Open Class,88.2,1987
+07/21,Springfield,MO,1,Cavaliers,Open Class,87.8,1987
+07/21,Cincinnati,OH,1,Phantom Regiment,Open Class,82.7,1987
+07/21,Nazareth,PA,1,Garfield Cadets,Open Class,86.9,1987
+07/20,Parma,OH,2,Spirit of Atlanta,Open Class,85.0,1987
+07/21,Springfield,MO,2,Star of Indiana,Open Class,82.6,1987
+07/21,Cincinnati,OH,2,Spirit of Atlanta,Open Class,82.0,1987
+07/21,Nazareth,PA,2,Dutch Boy,Open Class,71.4,1987
+07/20,Parma,OH,3,Suncoast Sound,Open Class,80.3,1987
+07/21,Springfield,MO,3,Sky Ryders,Open Class,76.8,1987
+07/21,Cincinnati,OH,3,Madison Scouts,Open Class,80.8,1987
+07/21,Nazareth,PA,3,Connexion Quebec,Open Class,60.8,1987
+07/20,Parma,OH,4,Bluecoats,Open Class,78.1,1987
+07/21,Springfield,MO,4,Colts,Open Class,63.6,1987
+07/21,Cincinnati,OH,4,Bluecoats,Open Class,77.0,1987
+07/21,Nazareth,PA,4,Ventures,Open Class,58.1,1987
+07/20,Parma,OH,5,Florida Wave,Open Class,69.2,1987
+07/21,Springfield,MO,5,Knights,Open Class,59.6,1987
+07/21,Cincinnati,OH,5,Suncoast Sound,Open Class,76.3,1987
+07/21,Nazareth,PA,5,Diplomats,Open Class,55.7,1987
+07/20,Parma,OH,6,Crossmen,Open Class,68.4,1987
+07/21,Springfield,MO,6,Black Gold,Open Class,25.1,1987
+07/21,Cincinnati,OH,6,Florida Wave,Open Class,68.2,1987
+07/21,Nazareth,PA,6,Bridgemen,Open Class,50.2,1987
+07/21,Cincinnati,OH,7,Glassmen,Open Class,53.9,1987
+07/21,Nazareth,PA,7,Canadian Knights,Open Class,46.1,1987
+07/22,Lawrence,KS,1,Cavaliers,Open Class,84.5,1987
+07/22,Cohocton,NY,1,Garfield Cadets,Open Class,88.2,1987
+07/22,Rapid City,SD,1,Troopers,Open Class,73.5,1987
+07/23,Fort Wayne,IN,1,Phantom Regiment,Open Class,88.4,1987
+07/22,Lawrence,KS,2,Star of Indiana,Open Class,78.1,1987
+07/22,Cohocton,NY,2,Dutch Boy,Open Class,77.3,1987
+07/22,Rapid City,SD,2,Argonauts,Open Class,56.4,1987
+07/23,Fort Wayne,IN,2,Spirit of Atlanta,Open Class,86.1,1987
+07/22,Lawrence,KS,3,Sky Ryders,Open Class,70.0,1987
+07/22,Cohocton,NY,3,Connexion Quebec,Open Class,65.1,1987
+07/23,Fort Wayne,IN,3,Madison Scouts,Open Class,83.7,1987
+07/22,Lawrence,KS,4,Colts,Open Class,67.1,1987
+07/22,Cohocton,NY,4,Ventures,Open Class,60.8,1987
+07/23,Fort Wayne,IN,4,Bluecoats,Open Class,80.8,1987
+07/22,Lawrence,KS,5,Knights,Open Class,63.3,1987
+07/22,Cohocton,NY,5,Diplomats,Open Class,51.9,1987
+07/23,Fort Wayne,IN,5,Suncoast Sound,Open Class,79.3,1987
+07/22,Cohocton,NY,6,Canadian Knights,Open Class,51.4,1987
+07/23,Fort Wayne,IN,6,Florida Wave,Open Class,73.0,1987
+07/22,Cohocton,NY,7,Bridgemen,Open Class,47.5,1987
+07/23,Fort Wayne,IN,7,Crossmen,Open Class,68.2,1987
+07/22,Cohocton,NY,8,Academie Musicale,Open Class,40.1,1987
+07/23,Olean,NY,1,Garfield Cadets,Open Class,88.1,1987
+07/23,Casper,WY,1,Troopers,Open Class,74.9,1987
+07/23,Wichita,KS,1,Cavaliers,Open Class,84.8,1987
+07/23,Ogdensburg,NY,1,Connexion Quebec,Open Class,63.1,1987
+07/23,Olean,NY,2,Dutch Boy,Open Class,75.7,1987
+07/23,Casper,WY,2,Freelancers,Open Class,66.4,1987
+07/23,Wichita,KS,2,Star of Indiana,Open Class,78.5,1987
+07/23,Ogdensburg,NY,2,Diplomats,Open Class,55.4,1987
+07/23,Olean,NY,3,Ventures,Open Class,63.4,1987
+07/23,Casper,WY,3,Railmen,Open Class,59.0,1987
+07/23,Wichita,KS,3,Sky Ryders,Open Class,72.1,1987
+07/23,Ogdensburg,NY,3,Canadian Knights,Open Class,43.4,1987
+07/23,Olean,NY,4,Bridgemen,Open Class,51.2,1987
+07/23,Casper,WY,4,Argonauts,Open Class,57.1,1987
+07/23,Wichita,KS,4,Colts,Open Class,66.0,1987
+07/23,Ogdensburg,NY,4,New York Lancers,Open Class,27.2,1987
+07/23,Wichita,KS,5,Knights,Open Class,59.2,1987
+07/24,Cheyenne,WY,1,Troopers,Open Class,74.1,1987
+07/24,Ypsilanti,MI,1,Phantom Regiment,Open Class,87.3,1987
+07/25,Annapolis,MD,1,Steel City Ambassadors,Open Class,83.4,1987
+07/25,Sheffield,PA,1,Rochester Crusaders,Open Class,85.8,1987
+07/24,Cheyenne,WY,2,Freelancers,Open Class,70.3,1987
+07/24,Ypsilanti,MI,2,Spirit of Atlanta,Open Class,85.0,1987
+07/25,Annapolis,MD,2,Bushwackers,Open Class,83.2,1987
+07/25,Sheffield,PA,2,Empire Statesmen,Open Class,77.3,1987
+07/24,Cheyenne,WY,3,Railmen,Open Class,62.3,1987
+07/24,Ypsilanti,MI,3,Madison Scouts,Open Class,81.8,1987
+07/25,Annapolis,MD,3,Reading Buccaneers,Open Class,82.1,1987
+07/25,Sheffield,PA,3,Guelph Royalaires,Open Class,66.2,1987
+07/24,Ypsilanti,MI,4,Bluecoats,Open Class,79.4,1987
+07/25,Annapolis,MD,4,Westshoremen,Open Class,71.8,1987
+07/25,Sheffield,PA,4,Excalibur,Open Class,67.8,1987
+07/24,Ypsilanti,MI,5,Suncoast Sound,Open Class,78.6,1987
+07/25,Annapolis,MD,5,Southern Knights,Open Class,53.3,1987
+07/24,Ypsilanti,MI,6,Florida Wave,Open Class,69.6,1987
+07/24,Ypsilanti,MI,7,Crossmen,Open Class,68.0,1987
+07/24,Ypsilanti,MI,8,Northern Aurora,Open Class,54.8,1987
+07/24,Ypsilanti,MI,9,Glassmen,Open Class,52.7,1987
+07/24,Ypsilanti,MI,10,Joliet Kingsmen,Open Class,36.2,1987
+07/25,Hamilton,Ontario,1,Garfield Cadets,Open Class,89.7,1987
+07/25,Hamilton,Ontario,1,Garfield Cadets,Open Class,90.7,1987
+07/25,Boulder,CO,1,Vanguard,Open Class,91.0,1987
+07/25,Torrington,CT,1,Hawthorne Caballeros,Open Class,82.3,1987
+07/25,Hamilton,Ontario,2,Phantom Regiment,Open Class,88.4,1987
+07/25,Hamilton,Ontario,1,Phantom Regiment,Open Class,90.7,1987
+07/25,Boulder,CO,2,Blue Devils,Open Class,88.8,1987
+07/25,Torrington,CT,2,Sunrisers,Open Class,82.2,1987
+07/25,Hamilton,Ontario,3,Spirit of Atlanta,Open Class,87.1,1987
+07/25,Hamilton,Ontario,3,Spirit of Atlanta,Open Class,87.3,1987
+07/25,Boulder,CO,3,Cavaliers,Open Class,86.2,1987
+07/25,Torrington,CT,3,New York Skyliners,Open Class,77.1,1987
+07/25,Hamilton,Ontario,4,Madison Scouts,Open Class,86.3,1987
+07/25,Hamilton,Ontario,4,Madison Scouts,Open Class,86.3,1987
+07/25,Boulder,CO,4,Velvet Knights,Open Class,83.1,1987
+07/25,Torrington,CT,4,Matadors,Open Class,71.6,1987
+07/25,Hamilton,Ontario,5,Bluecoats,Open Class,82.5,1987
+07/25,Hamilton,Ontario,5,Bluecoats,Open Class,83.1,1987
+07/25,Boulder,CO,5,Sky Ryders,Open Class,74.8,1987
+07/25,Torrington,CT,5,Connecticut Hurricanes,Open Class,69.5,1987
+07/25,Hamilton,Ontario,6,Suncoast Sound,Open Class,80.7,1987
+07/25,Hamilton,Ontario,6,Suncoast Sound,Open Class,79.1,1987
+07/25,Boulder,CO,6,Troopers,Open Class,70.4,1987
+07/25,Torrington,CT,6,New Image,Open Class,62.6,1987
+07/25,Hamilton,Ontario,7,Dutch Boy,Open Class,76.6,1987
+07/25,Hamilton,Ontario,7,Florida Wave,Open Class,74.9,1987
+07/25,Boulder,CO,7,Marauders,Open Class,69.7,1987
+07/25,Hamilton,Ontario,8,Florida Wave,Open Class,74.8,1987
+07/25,Hamilton,Ontario,8,Dutch Boy,Open Class,72.7,1987
+07/25,Boulder,CO,8,Freelancers,Open Class,67.4,1987
+07/25,Hamilton,Ontario,9,Crossmen,Open Class,71.8,1987
+07/25,Hamilton,Ontario,9,Crossmen,Open Class,67.0,1987
+07/25,Boulder,CO,9,Colts,Open Class,66.0,1987
+07/25,Hamilton,Ontario,10,Ventures,Open Class,68.9,1987
+07/25,Hamilton,Ontario,10,Ventures,Open Class,58.1,1987
+07/25,Boulder,CO,10,Blue Knights,Open Class,63.3,1987
+07/25,Hamilton,Ontario,11,Connexion Quebec,Open Class,68.0,1987
+07/25,Boulder,CO,11,Spartans-WA,Open Class,62.7,1987
+07/25,Hamilton,Ontario,12,Diplomats,Open Class,62.6,1987
+07/25,Boulder,CO,12,Knights,Open Class,59.7,1987
+07/25,Hamilton,Ontario,13,Glassmen,Open Class,59.3,1987
+07/25,Hamilton,Ontario,14,Bridgemen,Open Class,53.2,1987
+07/25,Hamilton,Ontario,15,Kiwanis Kavaliers,Open Class,52.4,1987
+07/25,Hamilton,Ontario,16,Canadian Knights,Open Class,48.8,1987
+07/25,Hamilton,Ontario,17,Oakland Crusaders,Open Class,39.9,1987
+07/25,Hamilton,Ontario,18,Patriots,Open Class,39.2,1987
+07/25,Hamilton,Ontario,19,Conqueror II,Open Class,38.7,1987
+07/25,Hamilton,Ontario,20,Oshawa Rebels,Open Class,36.5,1987
+07/25,Hamilton,Ontario,21,New York Lancers,Open Class,33.1,1987
+07/25,Hamilton,Ontario,22,Emerald Knights,Open Class,28.5,1987
+07/25,Hamilton,Ontario,23,Northmen-NY,Open Class,27.2,1987
+07/25,Hamilton,Ontario,23,Cardinals,Open Class,27.2,1987
+07/25,St-Eustache,Quebec,1,L'Insolite,Open Class,72.0,1987
+07/25,Winnebago,IL,1,Guardsmen,Open Class,62.3,1987
+07/26,Colorado Springs,CO,1,Troopers,Open Class,77.0,1987
+07/26,Horicon,WI,1,Guardsmen,Open Class,62.9,1987
+07/25,St-Eustache,Quebec,2,Transit,Open Class,72.3,1987
+07/25,Winnebago,IL,2,Emerald Knights-IA,Open Class,51.6,1987
+07/26,Colorado Springs,CO,2,Blue Knights,Open Class,66.8,1987
+07/26,Horicon,WI,2,Blue Stars,Open Class,54.4,1987
+07/25,Winnebago,IL,3,Phantom Regiment Cadets,Open Class,46.0,1987
+07/26,Colorado Springs,CO,3,Argonauts,Open Class,58.8,1987
+07/26,Horicon,WI,3,Northmen-WI,Open Class,53.4,1987
+07/25,St-Eustache,Quebec,1,Mousquetaires,Open Class,57.3,1987
+07/25,Winnebago,IL,4,Madison Junior Scouts,Open Class,35.7,1987
+07/26,Horicon,WI,4,Pioneer,Open Class,40.9,1987
+07/25,St-Eustache,Quebec,2,Les Aventuriers,Open Class,52.7,1987
+07/25,Winnebago,IL,5,Pioneer,Open Class,30.7,1987
+07/26,Colorado Springs,CO,1,Rocky Mountain Magic,Open Class,77.3,1987
+07/26,Horicon,WI,5,CapitolAires,Open Class,36.6,1987
+07/25,St-Eustache,Quebec,3,Les Etoiles,Open Class,45.1,1987
+07/26,Colorado Springs,CO,2,1st Canadian Regiment,Open Class,49.1,1987
+07/25,St-Eustache,Quebec,4,3rd Regiment,Open Class,35.0,1987
+07/26,Colorado Springs,CO,3,Calgary Cavaliers,Open Class,32.5,1987
+07/25,St-Eustache,Quebec,5,Les Voltigeurs,Open Class,34.0,1987
+07/26,Scarborough,Ontario,1,Dutch Boy,Open Class,80.4,1987
+07/26,Ste-Julie,Quebec,1,L'Insolite,Open Class,75.2,1987
+07/27,Montreal,Quebec,1,Garfield Cadets,Open Class,91.6,1987
+07/27,Omaha,NE,1,Vanguard,Open Class,92.7,1987
+07/26,Ste-Julie,Quebec,2,Transit,Open Class,73.7,1987
+07/27,Montreal,Quebec,2,Madison Scouts,Open Class,88.2,1987
+07/27,Omaha,NE,2,Velvet Knights,Open Class,84.5,1987
+07/26,Scarborough,Ontario,1,Ventures,Open Class,85.2,1987
+07/26,Ste-Julie,Quebec,3,Academie Musicale,Open Class,69.0,1987
+07/27,Montreal,Quebec,3,Suncoast Sound,Open Class,82.7,1987
+07/27,Omaha,NE,3,Marauders,Open Class,72.2,1987
+07/26,Scarborough,Ontario,2,Kiwanis Kavaliers,Open Class,74.6,1987
+07/27,Montreal,Quebec,4,Crossmen,Open Class,,1987
+07/27,Omaha,NE,4,Freelancers,Open Class,67.4,1987
+07/26,Scarborough,Ontario,3,Canadian Knights,Open Class,68.6,1987
+07/26,Ste-Julie,Quebec,1,Mousquetaires,Open Class,62.2,1987
+07/27,Montreal,Quebec,5,Connexion Quebec,Open Class,69.2,1987
+07/27,Omaha,NE,5,Blue Knights,Open Class,62.9,1987
+07/26,Scarborough,Ontario,4,Oshawa Rebels,Open Class,66.7,1987
+07/26,Ste-Julie,Quebec,2,Les Aventuriers,Open Class,55.3,1987
+07/27,Montreal,Quebec,6,Bridgemen,Open Class,54.6,1987
+07/27,Omaha,NE,6,Knights,Open Class,62.6,1987
+07/26,Scarborough,Ontario,5,Patriots,Open Class,65.7,1987
+07/26,Ste-Julie,Quebec,3,Les Etoiles,Open Class,51.1,1987
+07/27,Montreal,Quebec,7,Canadian Knights,Open Class,53.6,1987
+07/27,Omaha,NE,7,Railmen,Open Class,60.4,1987
+07/26,Scarborough,Ontario,6,Conqueror II,Open Class,62.1,1987
+07/26,Ste-Julie,Quebec,4,3rd Regiment,Open Class,38.5,1987
+07/27,Montreal,Quebec,8,Academie Musicale,Open Class,41.7,1987
+07/27,Omaha,NE,8,1st Canadian Regiment,Open Class,24.3,1987
+07/26,Scarborough,Ontario,7,Oakland Crusaders,Open Class,54.2,1987
+07/26,Ste-Julie,Quebec,5,Les Voltigeurs,Open Class,36.2,1987
+07/26,Scarborough,Ontario,8,Bandettes,Open Class,54.1,1987
+07/27,Montreal,Quebec,1,Academie Musicale,Open Class,48.2,1987
+07/26,Scarborough,Ontario,9,Cardinals,Open Class,39.0,1987
+07/27,Montreal,Quebec,2,Transit,Open Class,46.3,1987
+07/26,Scarborough,Ontario,10,Northern Dream,Open Class,28.8,1987
+07/27,Montreal,Quebec,3,Mousquetaires,Open Class,41.7,1987
+07/27,Montreal,Quebec,4,L'Insolite,Open Class,41.2,1987
+07/26,Scarborough,Ontario,1,Emerald Knights-ONT,Open Class,40.7,1987
+07/27,Montreal,Quebec,5,Les Aventuriers,Open Class,30.9,1987
+07/26,Scarborough,Ontario,2,Saint John's,Open Class,35.8,1987
+07/27,Montreal,Quebec,6,3rd Regiment,Open Class,24.5,1987
+07/26,Scarborough,Ontario,3,Lamplighters,Open Class,28.6,1987
+07/26,Scarborough,Ontario,4,Dutch Boy Cadets,Open Class,24.6,1987
+07/26,Scarborough,Ontario,1,Empire Loyalists,Open Class,74.3,1987
+07/26,Scarborough,Ontario,2,Cavalcade,Open Class,72.0,1987
+07/27,Tulsa,OK,1,Blue Devils,Open Class,90.5,1987
+07/27,Vincent,OH,1,Phantom Regiment,Open Class,91.7,1987
+07/28,Bettendorf,IA,1,Vanguard,Open Class,93.3,1987
+07/28,Rome,NY,1,Garfield Cadets,Open Class,89.1,1987
+07/27,Tulsa,OK,2,Cavaliers,Open Class,89.5,1987
+07/27,Vincent,OH,2,Spirit of Atlanta,Open Class,87.9,1987
+07/28,Bettendorf,IA,2,Velvet Knights,Open Class,84.5,1987
+07/28,Rome,NY,2,Madison Scouts,Open Class,87.8,1987
+07/27,Tulsa,OK,3,Star of Indiana,Open Class,84.3,1987
+07/27,Vincent,OH,3,Bluecoats,Open Class,82.7,1987
+07/28,Bettendorf,IA,3,Marauders,Open Class,73.2,1987
+07/28,Rome,NY,3,Suncoast Sound,Open Class,82.4,1987
+07/27,Tulsa,OK,4,Colts,Open Class,69.5,1987
+07/27,Vincent,OH,4,Dutch Boy,Open Class,74.9,1987
+07/28,Bettendorf,IA,4,Freelancers,Open Class,70.1,1987
+07/28,Rome,NY,4,Crossmen,Open Class,72.8,1987
+07/27,Tulsa,OK,5,Spartans-WA,Open Class,62.5,1987
+07/27,Vincent,OH,5,Florida Wave,Open Class,70.4,1987
+07/28,Bettendorf,IA,5,Blue Knights,Open Class,65.3,1987
+07/28,Rome,NY,5,Connexion Quebec,Open Class,69.0,1987
+07/27,Tulsa,OK,6,Argonauts,Open Class,55.2,1987
+07/27,Vincent,OH,6,Glassmen,Open Class,56.0,1987
+07/28,Bettendorf,IA,6,Knights,Open Class,59.8,1987
+07/28,Rome,NY,6,Canadian Knights,Open Class,54.8,1987
+07/27,Tulsa,OK,7,Black Gold,Open Class,39.8,1987
+07/28,Rome,NY,7,Bridgemen,Open Class,53.2,1987
+07/28,Wichita Falls,TX,1,Blue Devils,Open Class,90.5,1987
+07/29,Columbus,OH,1,Vanguard,Open Class,94.1,1987
+07/29,Glens Falls,NY,1,Garfield Cadets,Open Class,90.9,1987
+07/30,Dallas,TX,1,Blue Devils,Open Class,92.1,1987
+07/28,Wichita Falls,TX,2,Cavaliers,Open Class,89.9,1987
+07/29,Columbus,OH,2,Phantom Regiment,Open Class,90.7,1987
+07/29,Glens Falls,NY,2,Madison Scouts,Open Class,88.4,1987
+07/30,Dallas,TX,2,Cavaliers,Open Class,91.2,1987
+07/28,Wichita Falls,TX,3,Star of Indiana,Open Class,85.2,1987
+07/29,Columbus,OH,3,Spirit of Atlanta,Open Class,86.7,1987
+07/29,Glens Falls,NY,3,Suncoast Sound,Open Class,84.9,1987
+07/30,Dallas,TX,3,Star of Indiana,Open Class,86.4,1987
+07/28,Wichita Falls,TX,4,Colts,Open Class,68.6,1987
+07/29,Columbus,OH,4,Bluecoats,Open Class,83.8,1987
+07/29,Glens Falls,NY,4,Crossmen,Open Class,75.7,1987
+07/30,Dallas,TX,4,Colts,Open Class,70.9,1987
+07/28,Wichita Falls,TX,5,Spartans-WA,Open Class,61.6,1987
+07/29,Columbus,OH,5,Velvet Knights,Open Class,82.5,1987
+07/29,Glens Falls,NY,5,Connexion Quebec,Open Class,69.7,1987
+07/30,Dallas,TX,5,Spartans-WA,Open Class,62.6,1987
+07/28,Wichita Falls,TX,6,Black Gold,Open Class,36.9,1987
+07/29,Columbus,OH,6,Dutch Boy,Open Class,78.1,1987
+07/29,Glens Falls,NY,6,Canadian Knights,Open Class,58.3,1987
+07/30,Dallas,TX,6,Argonauts,Open Class,52.1,1987
+07/29,Columbus,OH,7,Florida Wave,Open Class,74.7,1987
+07/29,Glens Falls,NY,7,Bridgemen,Open Class,55.8,1987
+07/29,Columbus,OH,8,Freelancers,Open Class,67.7,1987
+07/30,Evansville,IN,1,Phantom Regiment,Open Class,91.9,1987
+07/30,Erie,PA,1,Vanguard,Open Class,94.3,1987
+07/30,Malden,MA,1,Garfield Cadets,Open Class,91.3,1987
+07/31,Evansville,WI,1,Phantom Regiment Cadets,Open Class,57.0,1987
+07/30,Evansville,IN,2,Spirit of Atlanta,Open Class,88.9,1987
+07/30,Erie,PA,2,Velvet Knights,Open Class,84.8,1987
+07/30,Malden,MA,2,Madison Scouts,Open Class,88.4,1987
+07/31,Evansville,WI,2,Emerald Knights-IA,Open Class,54.3,1987
+07/30,Evansville,IN,3,Bluecoats,Open Class,82.9,1987
+07/30,Erie,PA,3,Marauders,Open Class,71.9,1987
+07/30,Malden,MA,3,Suncoast Sound,Open Class,82.2,1987
+07/31,Evansville,WI,3,Guardsmen,Open Class,50.4,1987
+07/30,Evansville,IN,4,Florida Wave,Open Class,75.7,1987
+07/30,Erie,PA,4,Freelancers,Open Class,68.0,1987
+07/30,Malden,MA,4,Boston Crusaders,Open Class,73.5,1987
+07/31,Evansville,WI,4,Bandettes,Open Class,46.4,1987
+07/30,Evansville,IN,5,Dutch Boy,Open Class,75.6,1987
+07/30,Erie,PA,5,Glassmen,Open Class,61.8,1987
+07/30,Malden,MA,5,Diplomats,Open Class,58.9,1987
+07/31,Evansville,WI,5,Northmen-WI,Open Class,45.0,1987
+07/30,Evansville,IN,6,Troopers,Open Class,73.9,1987
+07/30,Erie,PA,6,Knights,Open Class,61.2,1987
+07/30,Malden,MA,6,Canadian Knights,Open Class,53.4,1987
+07/31,Evansville,WI,6,Mandarins,Open Class,44.9,1987
+07/31,Evansville,WI,7,Madison Junior Scouts,Open Class,36.7,1987
+07/31,Evansville,WI,8,Edmonton Strutters,Open Class,26.9,1987
+07/30,Evansville,IN,1,Saint Francis Sancians,Open Class,83.6,1987
+07/30,Evansville,IN,2,Northern Aurora,Open Class,81.3,1987
+07/30,Evansville,IN,3,L'Insolite,Open Class,74.4,1987
+07/30,Evansville,IN,4,Patriots,Open Class,73.4,1987
+07/30,Evansville,IN,5,Northmen-NY,Open Class,53.5,1987
+07/30,Evansville,IN,1,Explorers,Open Class,66.8,1987
+07/30,Evansville,IN,2,Spartans-NH,Open Class,61.5,1987
+07/30,Evansville,IN,3,Pioneer,Open Class,56.7,1987
+07/30,Evansville,IN,4,Granite State Garrison,Open Class,54.0,1987
+07/30,Evansville,IN,5,Lancers,Open Class,52.5,1987
+07/30,Evansville,IN,6,STAR,Open Class,47.4,1987
+07/30,Evansville,IN,7,Fajardo,Open Class,44.8,1987
+07/30,Evansville,IN,8,Buccaneers,Open Class,35.6,1987
+07/30,Evansville,IN,9,Calgary Cavaliers,Open Class,28.3,1987
+08/01,Allentown,PA,1,Vanguard,Open Class,93.4,1987
+08/01,Allentown,PA,1,Vanguard,Open Class,94.2,1987
+08/01,Birmingham,AL,1,Blue Devils,Open Class,90.7,1987
+08/01,Birmingham,AL,1,Blue Devils,Open Class,92.3,1987
+08/01,Allentown,PA,2,Garfield Cadets,Open Class,91.7,1987
+08/01,Allentown,PA,2,Garfield Cadets,Open Class,92.8,1987
+08/01,Birmingham,AL,2,Phantom Regiment,Open Class,90.2,1987
+08/01,Birmingham,AL,2,Phantom Regiment,Open Class,92.2,1987
+08/01,Allentown,PA,3,Madison Scouts,Open Class,87.3,1987
+08/01,Allentown,PA,3,Madison Scouts,Open Class,88.3,1987
+08/01,Birmingham,AL,3,Cavaliers,Open Class,89.6,1987
+08/01,Birmingham,AL,3,Cavaliers,Open Class,91.5,1987
+08/01,Allentown,PA,4,Suncoast Sound,Open Class,85.6,1987
+08/01,Allentown,PA,4,Velvet Knights,Open Class,84.7,1987
+08/01,Birmingham,AL,4,Spirit of Atlanta,Open Class,86.5,1987
+08/01,Birmingham,AL,4,Spirit of Atlanta,Open Class,88.9,1987
+08/01,Allentown,PA,5,Velvet Knights,Open Class,84.4,1987
+08/01,Allentown,PA,5,Suncoast Sound,Open Class,84.2,1987
+08/01,Birmingham,AL,5,Star of Indiana,Open Class,85.3,1987
+08/01,Birmingham,AL,5,Star of Indiana,Open Class,85.5,1987
+08/01,Allentown,PA,6,Sky Ryders,Open Class,83.5,1987
+08/01,Allentown,PA,6,Sky Ryders,Open Class,80.9,1987
+08/01,Birmingham,AL,6,Bluecoats,Open Class,81.0,1987
+08/01,Birmingham,AL,6,Bluecoats,Open Class,84.3,1987
+08/01,Allentown,PA,7,Crossmen,Open Class,75.5,1987
+08/01,Allentown,PA,7,Crossmen,Open Class,76.3,1987
+08/01,Birmingham,AL,7,Florida Wave,Open Class,75.0,1987
+08/01,Birmingham,AL,7,Dutch Boy,Open Class,77.6,1987
+08/01,Allentown,PA,8,Boston Crusaders,Open Class,72.2,1987
+08/01,Allentown,PA,8,Boston Crusaders,Open Class,73.3,1987
+08/01,Birmingham,AL,8,Dutch Boy,Open Class,74.3,1987
+08/01,Birmingham,AL,8,Florida Wave,Open Class,76.5,1987
+08/01,Allentown,PA,9,Blue Knights,Open Class,71.8,1987
+08/01,Allentown,PA,9,Marauders,Open Class,70.1,1987
+08/01,Birmingham,AL,9,Troopers,Open Class,71.3,1987
+08/01,Allentown,PA,10,Marauders,Open Class,70.7,1987
+08/01,Allentown,PA,10,Blue Knights,Open Class,66.6,1987
+08/01,Birmingham,AL,10,Colts,Open Class,66.6,1987
+08/01,Allentown,PA,11,Connexion Quebec,Open Class,69.9,1987
+08/01,Birmingham,AL,11,Spartans-WA,Open Class,59.7,1987
+08/01,Allentown,PA,12,Freelancers,Open Class,67.9,1987
+08/01,Allentown,PA,13,Knights,Open Class,62.0,1987
+08/01,Allentown,PA,14,Glassmen,Open Class,61.9,1987
+08/01,Allentown,PA,15,Diplomats,Open Class,59.5,1987
+08/01,Allentown,PA,16,Canadian Knights,Open Class,58.7,1987
+08/01,Allentown,PA,17,Bridgemen,Open Class,58.3,1987
+08/01,Sherbrooke,Quebec,1,Transit,Open Class,78.8,1987
+08/01,Pittsburgh,PA,1,Steel City Ambassadors,Open Class,89.2,1987
+08/01,Albany,NY,1,Empire Statesmen,Open Class,86.2,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,1,Mousquetaires,Open Class,73.7,1987
+08/01,Sherbrooke,Quebec,2,Academie Musicale,Open Class,76.0,1987
+08/01,Pittsburgh,PA,2,Rochester Crusaders,Open Class,86.9,1987
+08/01,Albany,NY,2,Excalibur,Open Class,64.7,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,2,Les Aventuriers,Open Class,63.0,1987
+08/01,Pittsburgh,PA,3,Reading Buccaneers,Open Class,86.2,1987
+08/01,Albany,NY,3,"Knights of Noble
+  Callahan",Open Class,63.9,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,3,Les Royalistes,Open Class,60.6,1987
+08/01,Sherbrooke,Quebec,1,Mousquetaires,Open Class,70.0,1987
+08/01,Pittsburgh,PA,4,Westshoremen,Open Class,74.8,1987
+08/01,Albany,NY,4,Marching Ambassadors,Open Class,62.8,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,4,Les Chapdelaines,Open Class,47.5,1987
+08/01,Sherbrooke,Quebec,2,Les Etoiles,Open Class,57.5,1987
+08/01,Pittsburgh,PA,5,Guelph Royalaires,Open Class,66.6,1987
+08/01,Albany,NY,5,CMCC Warriors,Open Class,52.3,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,5,Les Senateurs,Open Class,44.0,1987
+08/01,Sherbrooke,Quebec,3,Les Royalists,Open Class,56.4,1987
+08/01,Pittsburgh,PA,6,Des Plaines Vanguard,Open Class,60.6,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,6,3rd Regiment,Open Class,43.6,1987
+08/01,Sherbrooke,Quebec,4,Les Chapdelaines,Open Class,43.9,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,7,Les Voltigeurs,Open Class,40.7,1987
+08/01,Sherbrooke,Quebec,5,Les Senateurs,Open Class,40.8,1987
+08/02,"St-Georges
+  de Beauce ",Quebec,8,La Renaissance,Open Class,40.5,1987
+08/01,Sherbrooke,Quebec,6,3rd Regiment,Open Class,39.9,1987
+08/01,Sherbrooke,Quebec,7,Les Voltigeurs,Open Class,38.0,1987
+08/03,Garfield,NJ,1,Vanguard,Open Class,94.9,1987
+08/03,Jonesboro,AR,1,Cavaliers,Open Class,91.8,1987
+08/03,Sevierville,TN,1,Blue Devils,Open Class,93.0,1987
+08/04,West Chester,PA,1,Vanguard,Open Class,94.3,1987
+08/03,Garfield,NJ,2,Garfield Cadets,Open Class,93.7,1987
+08/03,Jonesboro,AR,2,Phantom Regiment,Open Class,90.8,1987
+08/03,Sevierville,TN,2,Spirit of Atlanta,Open Class,89.5,1987
+08/04,West Chester,PA,2,Garfield Cadets,Open Class,94.0,1987
+08/03,Garfield,NJ,3,Suncoast Sound,Open Class,87.2,1987
+08/03,Jonesboro,AR,3,Bluecoats,Open Class,81.3,1987
+08/03,Sevierville,TN,3,Madison Scouts,Open Class,88.8,1987
+08/04,West Chester,PA,3,Suncoast Sound,Open Class,86.1,1987
+08/03,Garfield,NJ,4,Sky Ryders,Open Class,82.6,1987
+08/03,Jonesboro,AR,4,Troopers,Open Class,75.0,1987
+08/03,Sevierville,TN,4,Star of Indiana,Open Class,87.9,1987
+08/04,West Chester,PA,4,Velvet Knights,Open Class,85.5,1987
+08/03,Garfield,NJ,5,Marauders,Open Class,73.4,1987
+08/03,Jonesboro,AR,5,Spartans-WA,Open Class,63.3,1987
+08/03,Sevierville,TN,5,Dutch Boy,Open Class,80.1,1987
+08/04,West Chester,PA,5,Crossmen,Open Class,80.7,1987
+08/03,Garfield,NJ,6,Connexion Quebec,Open Class,72.8,1987
+08/03,Jonesboro,AR,6,Argonauts,Open Class,59.8,1987
+08/03,Sevierville,TN,6,Florida Wave,Open Class,76.7,1987
+08/04,West Chester,PA,6,Freelancers,Open Class,67.6,1987
+08/03,Garfield,NJ,7,Blue Knights,Open Class,66.3,1987
+08/03,Sevierville,TN,7,Knights,Open Class,63.9,1987
+08/04,West Chester,PA,7,Diplomats,Open Class,62.5,1987
+08/04,West Chester,PA,8,Canadian Knights,Open Class,58.2,1987
+08/05,Lexington,KY,1,Cavaliers,Open Class,90.9,1987
+08/05,Butler,PA,1,Guardsmen,Open Class,87.3,1987
+08/05,Butler,PA,1,Velvet Knights,Open Class,89.2,1987
+08/06,Toledo,OH,1,Madison Scouts,Open Class,88.9,1987
+08/05,Lexington,KY,2,Spirit of Atlanta,Open Class,89.1,1987
+08/05,Butler,PA,2,Ventures,Open Class,81.2,1987
+08/05,Butler,PA,2,Suncoast Sound,Open Class,88.3,1987
+08/06,Toledo,OH,2,Suncoast Sound,Open Class,88.3,1987
+08/05,Lexington,KY,3,Star of Indiana,Open Class,87.9,1987
+08/05,Butler,PA,3,Oshawa Rebels,Open Class,76.5,1987
+08/05,Butler,PA,3,Sky Ryders,Open Class,86.6,1987
+08/06,Toledo,OH,3,Sky Ryders,Open Class,86.4,1987
+08/05,Lexington,KY,4,Florida Wave,Open Class,78.5,1987
+08/05,Butler,PA,4,Phantom Regiment Cadets,Open Class,75.9,1987
+08/05,Butler,PA,4,Boston Crusaders,Open Class,80.5,1987
+08/06,Toledo,OH,4,Florida Wave,Open Class,78.8,1987
+08/05,Lexington,KY,5,Spartans-WA,Open Class,65.6,1987
+08/05,Butler,PA,5,L'Insolite,Open Class,74.0,1987
+08/05,Butler,PA,5,Freelancers,Open Class,76.6,1987
+08/06,Toledo,OH,5,Marauders,Open Class,74.2,1987
+08/05,Lexington,KY,6,Knights,Open Class,63.4,1987
+08/05,Butler,PA,6,New York Lancers,Open Class,59.2,1987
+08/05,Butler,PA,6,Blue Knights,Open Class,73.2,1987
+08/06,Toledo,OH,6,Connexion Quebec,Open Class,71.0,1987
+08/05,Butler,PA,7,Joliet Kingsmen,Open Class,58.7,1987
+08/06,Toledo,OH,7,Spartans-WA,Open Class,69.1,1987
+08/05,Butler,PA,8,Dutch Boy Cadets,Open Class,48.9,1987
+08/05,Butler,PA,1,Ventures,Open Class,88.5,1987
+08/06,Toledo,OH,8,Knights,Open Class,64.7,1987
+08/05,Butler,PA,9,Racine Scouts,Open Class,42.5,1987
+08/05,Butler,PA,2,Guardsmen,Open Class,85.1,1987
+08/06,Toledo,OH,9,Glassmen,Open Class,64.3,1987
+08/05,Butler,PA,10,Calgary Cavaliers,Open Class,35.5,1987
+08/05,Butler,PA,3,L'Insolite,Open Class,74.5,1987
+08/05,Butler,PA,4,Oshawa Rebels,Open Class,74.3,1987
+08/05,Butler,PA,5,Phantom Regiment Cadets,Open Class,71.8,1987
+08/05,Butler,PA,6,New York Lancers,Open Class,59.1,1987
+08/05,Butler,PA,7,Joliet Kingsmen,Open Class,53.6,1987
+08/06,Bloomington,IN,1,Vanguard,Open Class,94.9,1987
+08/06,Huntington,WV,1,Garfield Cadets,Open Class,93.2,1987
+08/06,Niles,OH,1,Freelancers,Open Class,71.4,1987
+08/07,Dayton,OH,1,Blue Devils,Open Class,92.7,1987
+08/06,Bloomington,IN,2,Star of Indiana,Open Class,88.8,1987
+08/06,Huntington,WV,2,Blue Devils,Open Class,92.1,1987
+08/06,Niles,OH,2,Diplomats,Open Class,67.9,1987
+08/07,Dayton,OH,2,Phantom Regiment,Open Class,91.6,1987
+08/06,Bloomington,IN,3,Velvet Knights,Open Class,88.4,1987
+08/06,Huntington,WV,3,Phantom Regiment,Open Class,91.8,1987
+08/06,Niles,OH,3,Bridgemen,Open Class,67.0,1987
+08/07,Dayton,OH,3,Spirit of Atlanta,Open Class,89.9,1987
+08/06,Bloomington,IN,4,Troopers,Open Class,78.2,1987
+08/06,Huntington,WV,4,Spirit of Atlanta,Open Class,90.6,1987
+08/07,Dayton,OH,4,Sky Ryders,Open Class,85.9,1987
+08/06,Bloomington,IN,4,Dutch Boy,Open Class,78.2,1987
+08/06,Huntington,WV,5,Crossmen,Open Class,79.0,1987
+08/07,Dayton,OH,5,Troopers,Open Class,77.8,1987
+08/06,Bloomington,IN,6,Boston Crusaders,Open Class,74.0,1987
+08/07,Dayton,OH,6,Connexion Quebec,Open Class,75.7,1987
+08/06,Bloomington,IN,7,Colts,Open Class,73.7,1987
+08/07,Dayton,OH,7,Knights,Open Class,65.2,1987
+08/07,Dayton,OH,8,Glassmen,Open Class,63.4,1987
+08/07,Des Plaines,IL,1,Vanguard,Open Class,93.5,1987
+08/08,Saint Louis,MO,1,Vanguard,Open Class,94.8,1987
+08/08,Marion,OH,1,Phantom Regiment,Open Class,93.7,1987
+08/08,Marion,OH,1,Phantom Regiment,Open Class,95.9,1987
+08/07,Des Plaines,IL,2,Cavaliers,Open Class,91.4,1987
+08/08,Saint Louis,MO,2,Garfield Cadets,Open Class,93.6,1987
+08/08,Marion,OH,1,Blue Devils,Open Class,93.7,1987
+08/08,Marion,OH,2,Blue Devils,Open Class,94.9,1987
+08/07,Des Plaines,IL,3,Madison Scouts,Open Class,87.1,1987
+08/08,Saint Louis,MO,3,Cavaliers,Open Class,92.7,1987
+08/08,Marion,OH,3,Suncoast Sound,Open Class,87.5,1987
+08/08,Marion,OH,3,Velvet Knights,Open Class,89.6,1987
+08/07,Des Plaines,IL,4,Florida Wave,Open Class,79.5,1987
+08/08,Saint Louis,MO,4,Spirit of Atlanta,Open Class,88.2,1987
+08/08,Marion,OH,4,Velvet Knights,Open Class,86.7,1987
+08/08,Marion,OH,4,Suncoast Sound,Open Class,89.2,1987
+08/07,Des Plaines,IL,5,Dutch Boy,Open Class,78.0,1987
+08/08,Saint Louis,MO,5,Star of Indiana,Open Class,88.0,1987
+08/08,Marion,OH,5,Bluecoats,Open Class,85.8,1987
+08/08,Marion,OH,5,Bluecoats,Open Class,87.4,1987
+08/07,Des Plaines,IL,6,Colts,Open Class,73.6,1987
+08/08,Saint Louis,MO,6,Madison Scouts,Open Class,87.6,1987
+08/08,Marion,OH,6,Crossmen,Open Class,82.3,1987
+08/08,Marion,OH,6,Crossmen,Open Class,83.3,1987
+08/08,Saint Louis,MO,7,Sky Ryders,Open Class,81.7,1987
+08/08,Marion,OH,7,Troopers,Open Class,80.7,1987
+08/08,Marion,OH,7,Troopers,Open Class,83.0,1987
+08/08,Saint Louis,MO,8,Florida Wave,Open Class,80.8,1987
+08/08,Marion,OH,8,Freelancers,Open Class,74.2,1987
+08/08,Marion,OH,8,Freelancers,Open Class,75.2,1987
+08/08,Saint Louis,MO,9,Dutch Boy,Open Class,79.4,1987
+08/08,Marion,OH,9,Blue Knights,Open Class,72.6,1987
+08/08,Marion,OH,9,Blue Knights,Open Class,73.2,1987
+08/08,Saint Louis,MO,10,Boston Crusaders,Open Class,79.1,1987
+08/08,Marion,OH,10,Diplomats,Open Class,65.7,1987
+08/08,Marion,OH,10,Diplomats,Open Class,66.4,1987
+08/08,Saint Louis,MO,11,Marauders,Open Class,76.1,1987
+08/08,Marion,OH,11,Spartans-WA,Open Class,65.6,1987
+08/08,Saint Louis,MO,12,Connexion Quebec,Open Class,74.1,1987
+08/08,Marion,OH,12,Glassmen,Open Class,65.0,1987
+08/08,Marion,OH,1,Ventures,Open Class,91.2,1987
+08/08,Saint Louis,MO,13,Colts,Open Class,73.1,1987
+08/08,Marion,OH,13,Knights,Open Class,61.8,1987
+08/08,Marion,OH,2,Saint Francis Sancians,Open Class,90.2,1987
+08/08,Marion,OH,14,Canadian Knights,Open Class,60.4,1987
+08/08,Marion,OH,3,Northern Aurora,Open Class,88.5,1987
+08/08,Marion,OH,4,Guardsmen,Open Class,80.2,1987
+08/08,Marion,OH,4,Bridgemen,Open Class,80.2,1987
+08/08,Marion,OH,6,L'Insolite,Open Class,75.5,1987
+08/08,Marion,OH,7,Mandarins,Open Class,71.8,1987
+08/08,Marion,OH,8,Coachmen,Open Class,67.1,1987
+08/08,Marion,OH,9,Bandettes,Open Class,63.0,1987
+08/08,Marion,OH,10,Phantom Regiment Cadets,Open Class,58.2,1987
+08/08,Jamestown,NY,1,Rochester Crusaders,Open Class,88.4,1987
+08/08,Scranton,PA,1,Hawthorne Caballeros,Open Class,87.6,1987
+08/09,Ankeny,IA,1,Garfield Cadets,Open Class,91.6,1987
+08/10,Minneapolis,MN,1,Vanguard,Open Class,96.5,1987
+08/08,Jamestown,NY,2,Steel City Ambassadors,Open Class,87.6,1987
+08/08,Scranton,PA,2,Sunrisers,Open Class,87.0,1987
+08/09,Ankeny,IA,2,Spirit of Atlanta,Open Class,90.5,1987
+08/10,Minneapolis,MN,2,Blue Devils,Open Class,94.3,1987
+08/08,Jamestown,NY,3,Empire Statesmen,Open Class,83.1,1987
+08/08,Scranton,PA,3,Reading Buccaneers,Open Class,85.3,1987
+08/09,Ankeny,IA,3,Sky Ryders,Open Class,84.7,1987
+08/10,Minneapolis,MN,3,Spirit of Atlanta,Open Class,91.9,1987
+08/08,Jamestown,NY,4,Westshoremen,Open Class,75.5,1987
+08/08,Scranton,PA,4,Bushwackers,Open Class,83.4,1987
+08/09,Ankeny,IA,4,Dutch Boy,Open Class,79.5,1987
+08/10,Minneapolis,MN,4,Sky Ryders,Open Class,85.4,1987
+08/08,Jamestown,NY,5,Guelph Royalaires,Open Class,70.4,1987
+08/08,Scranton,PA,5,New York Skyliners,Open Class,81.5,1987
+08/09,Ankeny,IA,5,Colts,Open Class,74.8,1987
+08/10,Minneapolis,MN,5,Boston Crusaders,Open Class,80.7,1987
+08/08,Jamestown,NY,6,Excalibur,Open Class,60.3,1987
+08/08,Scranton,PA,6,Matadors,Open Class,75.2,1987
+08/09,Ankeny,IA,6,Marauders,Open Class,74.4,1987
+08/10,Minneapolis,MN,6,Connexion Quebec,Open Class,74.8,1987
+08/08,Scranton,PA,7,Connecticut Hurricanes,Open Class,72.8,1987
+08/10,Port Huron,MI,1,Phantom Regiment,Open Class,96.1,1987
+08/11,Stillwater,MN,1,Garfield Cadets,Open Class,96.5,1987
+08/10,Port Huron,MI,2,Star of Indiana,Open Class,90.6,1987
+08/11,Stillwater,MN,2,Madison Scouts,Open Class,92.1,1987
+08/10,Port Huron,MI,3,Velvet Knights,Open Class,90.3,1987
+08/11,Stillwater,MN,3,Spirit of Atlanta,Open Class,91.8,1987
+08/10,Port Huron,MI,4,Suncoast Sound,Open Class,89.6,1987
+08/11,Stillwater,MN,4,Sky Ryders,Open Class,85.6,1987
+08/10,Port Huron,MI,5,Bluecoats,Open Class,87.0,1987
+08/11,Stillwater,MN,5,Florida Wave,Open Class,83.0,1987
+08/10,Port Huron,MI,6,Troopers,Open Class,83.4,1987
+08/11,Stillwater,MN,6,Boston Crusaders,Open Class,79.1,1987
+08/10,Port Huron,MI,7,New York Lancers,Open Class,77.0,1987
+08/10,Port Huron,MI,8,Spartans-WA,Open Class,68.0,1987
+08/10,Port Huron,MI,9,Diplomats,Open Class,67.2,1987
+08/10,Port Huron,MI,10,Canadian Knights,Open Class,63.7,1987
+08/10,Madison,WI,1,Ventures,DCA Class A,88.0,1987
+08/10,Madison,WI,1,Emerald Knights-IA,DCA Class A,88.3,1987
+08/11,Madison,WI,1,Ventures,DCA Class A,90.1,1987
+08/11,Madison,WI,1,Mandarins,DCA Class A,85.3,1987
+08/10,Madison,WI,2,Northern Aurora,DCA Class A,87.8,1987
+08/10,Madison,WI,2,Mandarins,DCA Class A,84.5,1987
+08/11,Madison,WI,2,Northern Aurora,DCA Class A,87.3,1987
+08/11,Madison,WI,2,Emerald Knights-IA,DCA Class A,84.2,1987
+08/10,Madison,WI,3,Railmen,DCA Class A,82.0,1987
+08/10,Madison,WI,3,Blue Stars,DCA Class A,81.2,1987
+08/11,Madison,WI,3,Railmen,DCA Class A,85.0,1987
+08/11,Madison,WI,3,Blue Stars,DCA Class A,79.3,1987
+08/10,Madison,WI,4,Saint Francis Sancians,DCA Class A,81.3,1987
+08/10,Madison,WI,4,Oshawa Rebels,DCA Class A,74.1,1987
+08/11,Madison,WI,4,Saint Francis Sancians,DCA Class A,84.4,1987
+08/11,Madison,WI,4,Oshawa Rebels,DCA Class A,75.4,1987
+08/10,Madison,WI,5,L'Insolite,DCA Class A,79.0,1987
+08/10,Madison,WI,5,Coachmen,DCA Class A,70.4,1987
+08/11,Madison,WI,5,L'Insolite,DCA Class A,78.9,1987
+08/11,Madison,WI,5,Spartans-NH,DCA Class A,70.4,1987
+08/10,Madison,WI,6,Kiwanis Kavaliers,DCA Class A,74.9,1987
+08/10,Madison,WI,6,Spartans-NH,DCA Class A,69.2,1987
+08/11,Madison,WI,6,Kiwanis Kavaliers,DCA Class A,71.6,1987
+08/11,Madison,WI,6,Coachmen,DCA Class A,66.9,1987
+08/10,Madison,WI,7,Patriots,DCA Class A,72.3,1987
+08/10,Madison,WI,7,Northmen-WI,DCA Class A,68.6,1987
+08/10,Madison,WI,8,Guardsmen,DCA Class A,70.7,1987
+08/10,Madison,WI,8,Madison Junior Scouts,DCA Class A,67.8,1987
+08/10,Madison,WI,9,Phantom Regiment Cadets,DCA Class A,68.7,1987
+08/10,Madison,WI,9,Bandettes,DCA Class A,64.7,1987
+08/10,Madison,WI,10,Conqueror II,DCA Class A,74.7,1987
+08/10,Madison,WI,10,Granite State Garrison,DCA Class A,63.9,1987
+08/10,Madison,WI,11,Northmen-NY,DCA Class A,50.9,1987
+08/10,Madison,WI,11,Oakland Crusaders,DCA Class A,61.9,1987
+08/10,Madison,WI,12,Allegiance Elite,DCA Class A,50.2,1987
+08/10,Madison,WI,12,Americanos,DCA Class A,58.3,1987
+08/10,Madison,WI,13,Arizona Musketeers,DCA Class A,47.0,1987
+08/10,Madison,WI,13,Pioneer,DCA Class A,57.5,1987
+08/10,Madison,WI,14,Black Gold,DCA Class A,55.0,1987
+08/10,Madison,WI,15,Black Knights,DCA Class A,54.0,1987
+08/10,Madison,WI,16,1st Canadian Regiment,DCA Class A,53.9,1987
+08/10,Madison,WI,17,Saint John's,DCA Class A,53.4,1987
+08/10,Madison,WI,18,New York Lancers,DCA Class A,51.4,1987
+08/10,Madison,WI,19,CapitolAires,DCA Class A,50.8,1987
+08/10,Madison,WI,20,Cardinals,DCA Class A,50.1,1987
+08/10,Madison,WI,21,Northern Dreams,DCA Class A,41.4,1987
+08/10,Madison,WI,22,Anaheim Kingsmen,DCA Class A,40.5,1987
+08/10,Madison,WI,23,Calgary Cavaliers,DCA Class A,31.4,1987
+08/13,Madison,WI,1,Bluecoats,Open Class,86.2,1987
+08/14,Madison,WI,1,Garfield Cadets,Open Class,97.0,1987
+08/15,Madison,WI,1,Garfield Cadets,Open Class,97.9,1987
+08/13,Madison,WI,2,Florida Wave,Open Class,82.7,1987
+08/14,Madison,WI,2,Vanguard,Open Class,96.5,1987
+08/15,Madison,WI,2,Vanguard,Open Class,97.8,1987
+08/13,Madison,WI,3,Dutch Boy,Open Class,82.2,1987
+08/14,Madison,WI,3,Phantom Regiment,Open Class,95.6,1987
+08/15,Madison,WI,3,Cavaliers,Open Class,94.7,1987
+08/13,Madison,WI,4,Crossmen,Open Class,81.5,1987
+08/14,Madison,WI,4,Blue Devils,Open Class,95.0,1987
+08/15,Madison,WI,4,Blue Devils,Open Class,94.4,1987
+08/13,Madison,WI,5,Boston Crusaders,Open Class,81.4,1987
+08/14,Madison,WI,5,Cavaliers,Open Class,93.9,1987
+08/15,Madison,WI,5,Phantom Regiment,Open Class,94.3,1987
+08/13,Madison,WI,6,Marauders,Open Class,77.8,1987
+08/14,Madison,WI,6,Star of Indiana,Open Class,90.3,1987
+08/15,Madison,WI,6,Madison Scouts,Open Class,90.4,1987
+08/13,Madison,WI,7,Colts,Open Class,77.6,1987
+08/14,Madison,WI,7,Madison Scouts,Open Class,89.4,1987
+08/15,Madison,WI,7,Velvet Knights,Open Class,90.0,1987
+08/13,Madison,WI,8,Connexion Quebec,Open Class,76.5,1987
+08/14,Madison,WI,8,Velvet Knights,Open Class,89.2,1987
+08/15,Madison,WI,7,Star of Indiana,Open Class,90.0,1987
+08/13,Madison,WI,9,Freelancers,Open Class,76.1,1987
+08/14,Madison,WI,8,Suncoast Sound,Open Class,89.2,1987
+08/15,Madison,WI,9,Suncoast Sound,Open Class,88.8,1987
+08/13,Madison,WI,10,Blue Knights,Open Class,76.0,1987
+08/14,Madison,WI,10,Spirit of Atlanta,Open Class,89.1,1987
+08/15,Madison,WI,10,Spirit of Atlanta,Open Class,87.6,1987
+08/13,Madison,WI,11,Spartans-WA,Open Class,72.6,1987
+08/14,Madison,WI,11,Bluecoats,Open Class,89.0,1987
+08/15,Madison,WI,11,Bluecoats,Open Class,85.7,1987
+08/13,Madison,WI,12,Ventures,Open Class,71.2,1987
+08/14,Madison,WI,12,Sky Ryders,Open Class,85.3,1987
+08/15,Madison,WI,12,Sky Ryders,Open Class,81.9,1987
+08/13,Madison,WI,13,Knights,Open Class,67.0,1987
+08/14,Madison,WI,13,Florida Wave,Open Class,84.7,1987
+08/13,Madison,WI,14,Northern Aurora,Open Class,66.7,1987
+08/14,Madison,WI,14,Boston Crusaders,Open Class,82.8,1987
+08/13,Madison,WI,15,Argonauts,Open Class,66.3,1987
+08/14,Madison,WI,15,Dutch Boy,Open Class,82.1,1987
+08/13,Madison,WI,16,Railmen,Open Class,63.1,1987
+08/14,Madison,WI,16,Crossmen,Open Class,81.6,1987
+08/13,Madison,WI,17,Saint Francis Sancians,Open Class,63.0,1987
+08/14,Madison,WI,17,Troopers,Open Class,81.0,1987
+08/13,Madison,WI,18,Glassmen,Open Class,62.4,1987
+08/14,Madison,WI,18,Marauders,Open Class,78.2,1987
+08/13,Madison,WI,18,Canadian Knights,Open Class,62.4,1987
+08/14,Madison,WI,19,Freelancers,Open Class,77.9,1987
+08/13,Madison,WI,20,Diplomats,Open Class,61.9,1987
+08/14,Madison,WI,20,Colts,Open Class,76.5,1987
+08/13,Madison,WI,20,Mandarins,Open Class,61.9,1987
+08/14,Madison,WI,21,Connexion Quebec,Open Class,76.4,1987
+08/13,Madison,WI,22,Emerald Knights-IA,Open Class,59.7,1987
+08/14,Madison,WI,22,Blue Knights,Open Class,73.4,1987
+08/13,Madison,WI,23,Bridgemen,Open Class,59.5,1987
+08/14,Madison,WI,23,Spartans-WA,Open Class,69.8,1987
+08/13,Madison,WI,24,Blue Stars,Open Class,55.3,1987
+08/14,Madison,WI,24,Ventures,Open Class,69.7,1987
+08/14,Madison,WI,25,Knights,Open Class,67.2,1987
+08/15,New Berlin,NY,1,Fajardo,Open Class,72.3,1987
+08/16,Canastota,NY,1,Fajardo,Open Class,71.6,1987
+08/21,Keene,NH,1,Spartans-NH,Open Class,79.2,1987
+08/22,Madison,WI,1,Saint Francis Sancians,DCA Class A,91.1,1987
+08/21,Keene,NH,2,Explorers,Open Class,77.7,1987
+08/22,Madison,WI,2,Spartans-NH,DCA Class A,79.7,1987
+08/15,New Berlin,NY,1,Lamplighters,Open Class,78.0,1987
+08/16,Canastota,NY,1,Lampliters,Open Class,78.7,1987
+08/21,Keene,NH,3,Granite State Garrison,Open Class,70.7,1987
+08/22,Madison,WI,3,Explorers,DCA Class A,78.7,1987
+08/15,New Berlin,NY,2,Silver Bullets,Open Class,74.0,1987
+08/16,Canastota,NY,2,Silver Bullets,Open Class,64.3,1987
+08/22,Madison,WI,4,Granite State Garrison,DCA Class A,76.0,1987
+08/21,Keene,NH,1,STAR,Open Class,70.4,1987
+08/15,New Berlin,NY,1,Firebirds,Open Class,61.3,1987
+08/16,Canastota,NY,1,Firebirds,Open Class,57.4,1987
+08/21,Keene,NH,2,Joanettes,Open Class,68.6,1987
+08/22,Madison,WI,1,STAR,DCA Class A,82.1,1987
+08/15,New Berlin,NY,1,Empire Loyalists,Open Class,61.3,1987
+08/16,Canastota,NY,2,Empire Loyalists,Open Class,53.7,1987
+08/21,Keene,NH,3,Satellites,Open Class,61.0,1987
+08/22,Madison,WI,2,Toreadors,DCA Class A,80.9,1987
+08/15,New Berlin,NY,3,Mystic Knights,Open Class,51.0,1987
+08/16,Canastota,NY,3,Mystic Knights,Open Class,53.4,1987
+08/21,Keene,NH,4,Buccaneers,Open Class,59.7,1987
+08/22,Madison,WI,3,Joanettes,DCA Class A,80.8,1987
+08/15,New Berlin,NY,3,Eagles,Open Class,51.0,1987
+08/16,Canastota,NY,4,Eagles,Open Class,48.4,1987
+08/22,Madison,WI,4,Satellites,DCA Class A,73.5,1987
+08/21,Keene,NH,1,Royal Cadets,Open Class,57.5,1987
+08/22,Madison,WI,5,Buccaneers,DCA Class A,70.3,1987
+08/22,Madison,WI,1,Citation Juniors,DCA Class A,70.6,1987
+08/22,Madison,WI,2,Royal Cadets,DCA Class A,69.1,1987
+08/22,Madison,WI,3,Royal Knights,DCA Class A,67.9,1987
+08/22,Madison,WI,4,Braintree Braves,DCA Class A,38.1,1987
+08/22,Oshawa,Ontario,1,Ventures,DCA Class A,91.9,1987
+08/22,Oshawa,Ontario,1,Dutch Boy,Open Class,88.5,1987
+08/22,Hamilton,Ontario,1,Hawthorne Caballeros,Open Class,92.1,1987
+08/22,Somerville,MA,1,Matadors,Open Class,78.5,1987
+08/22,Oshawa,Ontario,2,Kiwanis Kavaliers,DCA Class A,83.8,1987
+08/22,Hamilton,Ontario,2,Steel City Ambassadors,Open Class,91.0,1987
+08/22,Somerville,MA,2,CMCC Warriors,Open Class,53.5,1987
+08/22,Oshawa,Ontario,3,Canadian Knights,DCA Class A,81.2,1987
+08/22,Oshawa,Ontario,1,Ventures,Open Class,93.7,1987
+08/22,Hamilton,Ontario,3,Rochester Crusaders,Open Class,90.7,1987
+08/22,Oshawa,Ontario,4,Oshawa Rebels,DCA Class A,73.2,1987
+08/22,Oshawa,Ontario,2,Canadian Knights,Open Class,88.3,1987
+08/22,Hamilton,Ontario,4,Empire Statesmen,Open Class,85.4,1987
+08/22,Oshawa,Ontario,5,Conqueror II,DCA Class A,70.0,1987
+08/22,Oshawa,Ontario,3,Kiwanis Kavaliers,Open Class,86.4,1987
+08/22,Hamilton,Ontario,5,Westshoremen,Open Class,75.7,1987
+08/22,Oshawa,Ontario,6,Oakland Crusaders,DCA Class A,59.9,1987
+08/22,Oshawa,Ontario,4,Oshawa Rebels,Open Class,77.6,1987
+08/22,Hamilton,Ontario,6,Guelph Royalaires,Open Class,69.4,1987
+08/22,Oshawa,Ontario,7,Cardinals,DCA Class A,50.3,1987
+08/22,Oshawa,Ontario,5,Conqueror II,Open Class,70.2,1987
+08/22,Hamilton,Ontario,7,Excalibur,Open Class,57.4,1987
+08/22,Oshawa,Ontario,8,Northern Dream,DCA Class A,36.0,1987
+08/22,Oshawa,Ontario,1,Saint John's,Open Class,54.9,1987
+08/22,Oshawa,Ontario,1,Saint John's,DCA Class A,56.2,1987
+08/22,Oshawa,Ontario,2,Emerald Knights-ONT,Open Class,49.1,1987
+08/22,Oshawa,Ontario,2,Emerald Knights-ONT,DCA Class A,48.7,1987
+08/22,Oshawa,Ontario,3,Lampliters,Open Class,34.8,1987
+08/22,Oshawa,Ontario,3,Lampliters,DCA Class A,37.1,1987
+08/22,Oshawa,Ontario,4,Cadets of Dutch Boy,DCA Class A,34.9,1987
+08/22,Oshawa,Ontario,1,Empire Loyalists,DCA Class A,74.3,1987
+08/22,Oshawa,Ontario,2,Cavalcade,DCA Class A,70.0,1987
+08/22,Montreal,Quebec,1,Académie Musicale,DCA Class A,91.2,1987
+08/22,Montreal,Quebec,1,Académie Musicale,Open Class,92.0,1987
+08/29,Rockaway,NJ,1,New York Lancers,Open Class,76.0,1987
+08/29,Hagerstown,MD,1,Steel City Ambassadors,Open Class,92.0,1987
+08/22,Montreal,Quebec,2,Transit,DCA Class A,89.7,1987
+08/22,Montreal,Quebec,1,Transit,Open Class,92.0,1987
+08/29,Rockaway,NJ,2,Fajardo,Open Class,74.8,1987
+08/29,Hagerstown,MD,2,Reading Buccaneers,Open Class,89.8,1987
+08/22,Montreal,Quebec,3,Insolite,DCA Class A,88.2,1987
+08/22,Montreal,Quebec,3,Insolite,Open Class,90.4,1987
+08/29,Hagerstown,MD,3,Rochester Crusaders,Open Class,89.4,1987
+08/29,Rockaway,NJ,1,Lakeland Brass,Open Class,72.2,1987
+08/29,Hagerstown,MD,4,Westshoremen,Open Class,79.1,1987
+08/22,Montreal,Quebec,1,Mousquetaires,DCA Class A,80.5,1987
+08/22,Montreal,Quebec,1,Mousquetaires,Open Class,83.5,1987
+08/29,Rockaway,NJ,2,Blue Jays,Open Class,71.5,1987
+08/29,Hagerstown,MD,5,Southern Knights,Open Class,56.0,1987
+08/22,Montreal,Quebec,2,Étoiles,DCA Class A,68.8,1987
+08/22,Montreal,Quebec,2,Aventuriers,Open Class,74.5,1987
+08/29,Hagerstown,MD,6,Hamilton Knights,Open Class,46.0,1987
+08/22,Montreal,Quebec,3,Aventuriers,DCA Class A,68.3,1987
+08/22,Montreal,Quebec,3,Étoiles,Open Class,70.2,1987
+08/22,Montreal,Quebec,4,Royalistes,DCA Class A,66.1,1987
+08/22,Montreal,Quebec,4,Royalistes,Open Class,70.1,1987
+08/22,Montreal,Quebec,5,Chapdelaines,DCA Class A,60.8,1987
+08/22,Montreal,Quebec,5,Chapdelaines,Open Class,62.8,1987
+08/22,Montreal,Quebec,6,Renaissance,DCA Class A,57.5,1987
+08/22,Montreal,Quebec,6,Renaissance,Open Class,60.1,1987
+08/22,Montreal,Quebec,7,3e Régiment,DCA Class A,53.8,1987
+08/22,Montreal,Quebec,7,3e Régiment,Open Class,58.4,1987
+08/22,Montreal,Quebec,8,Sénateurs,DCA Class A,53.3,1987
+08/22,Montreal,Quebec,8,Voltigeurs,Open Class,54.1,1987
+08/22,Montreal,Quebec,9,Voltigeurs,DCA Class A,52.9,1987
+08/22,Montreal,Quebec,9,Sénateurs,Open Class,53.6,1987
+08/22,Montreal,Quebec,1,Baladins,DCA Class A,26.92,1987
+08/29,Medina,NY,1,Empire Statesmen,Open Class,91.8,1987
+08/29,Bridgeport,CT,1,Sunrisers,Open Class,93.7,1987
+08/29,Medina,NY,2,Guelph Royalaires,Open Class,85.2,1987
+08/29,Bridgeport,CT,2,Hawthorne Caballeros,Open Class,91.7,1987
+08/29,Medina,NY,3,Les Ambassadeurs,Open Class,71.0,1987
+08/29,Bridgeport,CT,3,Bushwackers,Open Class,89.8,1987
+08/29,Medina,NY,4,Excalibur,Open Class,58.4,1987
+08/29,Bridgeport,CT,4,New York Skyliners,Open Class,87.2,1987
+08/29,Medina,NY,5,"Knights of Noble
+  Callahan",Open Class,57.9,1987
+08/29,Bridgeport,CT,5,Matadors,Open Class,82.4,1987
+08/29,Medina,NY,6,CMCC Warriors,Open Class,49.5,1987
+08/29,Bridgeport,CT,6,Connecticut Hurricanes,Open Class,81.7,1987
+08/29,Bridgeport,CT,7,New Image,Open Class,72.3,1987
+09/06,Allentown,PA,1,Sunrisers,Open Class,94.8,1987
+09/06,Allentown,PA,2,Hawthorne Caballeros,Open Class,93.2,1987
+09/06,Allentown,PA,3,Bushwackers,Open Class,93.0,1987
+09/06,Allentown,PA,4,Steel City Ambassadors,Open Class,92.9,1987
+09/06,Allentown,PA,5,Reading Buccaneers,Open Class,92.3,1987
+09/06,Allentown,PA,6,Rochester Crusaders,Open Class,91.1,1987
+09/06,Allentown,PA,7,New York Skyliners,Open Class,88.9,1987
+09/06,Allentown,PA,8,Empire Statesmen,Open Class,83.4,1987
+09/06,Allentown,PA,9,Matadors,Open Class,82.8,1987
+09/06,Allentown,PA,10,Connecticut Hurricanes,Open Class,82.6,1987
+09/06,Allentown,PA,11,Minnesota Brass,Open Class,81.8,1987
+09/06,Allentown,PA,12,Westshoremen,Open Class,78.1,1987
+09/06,Allentown,PA,13,Les Ambassadeurs,Open Class,75.3,1987
+09/06,Allentown,PA,14,Guelph Royalaires,Open Class,74.7,1987
+09/06,Allentown,PA,15,New Image,Open Class,66.2,1987
+09/06,Allentown,PA,16,Des Plaines Vanguard,Open Class,61.2,1987
+09/06,Allentown,PA,17,Southern Knights,Open Class,46.2,1987
+09/06,Allentown,PA,18,Marching Ambassadors,Open Class,42.1,1987
+09/06,Allentown,PA,19,Excalibur,Open Class,41.3,1987
+09/06,Allentown,PA,20,"Knights of Noble
+  Callahan",Open Class,39.4,1987
+09/06,Allentown,PA,21,Keystoners,Open Class,37.6,1987
+09/06,Allentown,PA,22,CMCC Warriors,Open Class,37.3,1987
+09/06,Allentown,PA,23,Hamilton Knights,Open Class,33.1,1987

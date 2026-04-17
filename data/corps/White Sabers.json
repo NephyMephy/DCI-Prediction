@@ -1,0 +1,51 @@
+{
+"location": [
+  {
+    "city": "Rochester",
+    "state": "NY", 
+    "year": "1928-Present"
+  }
+],
+"formerNames": [
+  "Daniel Goho Post #87 White Sabers"
+],
+"championships": [
+  {"circuit": "DCA A Class", "year": 2013, "score": 85.930, "showTitle": "Fanfare for a New World"},
+  {"circuit": "DCA A Class", "year": 2014, "score": 88.600, "showTitle": "Arabian Nights"}
+],
+"captionAwards": [],
+"website": "https://www.whitesabers.org",
+"currentClass": "DCI All-Age Class",
+"historicClasses": [
+  {"circuit": "DCA", "years": "2005-2006", "className": "A Class"},
+  {"circuit": "DCA", "years": "2007", "className": "Open Class"},
+  {"circuit": "DCA", "years": "2008-2014", "className": "A Class"},
+  {"circuit": "DCA", "years": "2015-2021", "className": "Open Class"},
+  {"circuit": "DCA", "years": "2022", "className": "World Class"},
+  {"circuit": "DCA", "years": "2023", "className": "Open Class"},
+  {"circuit": "DCI", "years": "2024-present", "className": "All-Age Open Class"}
+],
+"shows": [
+  {"year": 2004, "showTitle": "", "repertoire": "Song Without Words / Moondance by Van Morrison / Santana Medley/Yaleo by Santana / Tuxedo Junction by Erskine Hawkins / When Johnny Comes Marching Home by Patrick Gilmore / Malaguena by Ernesto Lecuona", "placement": "Did not attend DCA", "score": null},
+  {"year": 2005, "showTitle": "", "repertoire": "Channel One Suite / Space Shuttle / Mercy Mercy Mercy by Josef Zawinul / Something! / Dancing Men", "placement": "6th Place", "score": 68.738},
+  {"year": 2006, "showTitle": "Portraits of Emotion", "repertoire": "Feeling Good by Anthony Newley / Save The Last Dance For Me by Doc Pomus / Conga by Enrique García / Don't Cry For Me Argentina (from Evita) by Andrew Lloyd Webber / The Tiger Of San Pedro", "placement": "2nd Place", "score": 76.513},
+  {"year": 2007, "showTitle": "The Gladiator", "repertoire": "Fate of the Gods / Mars (from The Planets) by Gustav Holst / Troy by James Horner / The Gladiator by Hans Zimmer", "placement": "1st Place", "score": 75.275},
+  {"year": 2008, "showTitle": "Music of Robert W. Smith", "repertoire": "The Great Locomotive Chase by Robert W. Smith / Twelve Seconds to the Moon by Robert W. Smith / Into The Storm by Robert W. Smith / Africa: Ceremony, Song and Ritual by Robert W. Smith / The Ascension by Robert W. Smith / Declaration in Blue by Robert W. Smith", "placement": "7th Place", "score": 77.313},
+  {"year": 2009, "showTitle": "The Music of Cirque du Soleil", "repertoire": "La Nouba by Cirque du Soleil / Quidam by Cirque du Soleil", "placement": "6th Place", "score": 68.313},
+  {"year": 2010, "showTitle": "Cirque Du Soleil", "repertoire": "Incantation (from Quidam) by Cirque du Soleil / Ninkou Latora (from Quidam) by Cirque du Soleil / Ombra (from Cirque du Soliel) by Cirque du Soleil / Reve Rouge (from La Nouba) by Cirque du Soleil / Ravendhi (from Cirque Du Soleil) by Cirque du Soleil", "placement": "8th Place", "score": 73.425},
+  {"year": 2011, "showTitle": "Rhapsody in Shades of Blue", "repertoire": "Blue Morning, Blue Day by Foreigner / Blue by The Seatbelts / Devil with the Blue Dress On by Shorty Long / Blue Rondo A La Turk by Dave Brubeck / Rhapsody in Blue by George Gershwin", "placement": "7th Place", "score": 72.700},
+  {"year": 2012, "showTitle": "From Death Till Dawn", "repertoire": "Danse Macabre by Camille Saint-Saëns / Dies Irae (from Requiem) / Black Magic Woman by Santana / Love Potion #9 by Jerry Leiber / Moondance by Van Morrison / Danse Macabre by Camille Saint-Saëns", "placement": "4th Place", "score": 77.030},
+  {"year": 2013, "showTitle": "Fanfare for a New World", "repertoire": "Fanfare for a New Era / Adagio-Allegro (from New World Symphony) by Antonín Dvořák / Dance of the New World / Scherzo (from New World Symphony) by Antonín Dvořák / Overture/New World / Largo from New World Symphony by Antonín Dvořák / Allegro Con Fuoco (from New World Symphony) by Antonín Dvořák", "placement": "1st Place", "score": 85.930},
+  {"year": 2014, "showTitle": "Arabian Nights", "repertoire": "Arabian Dances / The Story of the Kalendar Prince from (Scheherazade) by Nikolai Rimsky-Korsakov / Misirlou by Nicholas Roubanis / The Young Prince and the Young Princess (from Scheherazade) by Nikolai Rimsky-Korsakov / Nights in White Satin by The Moody Blues / The Festival at Baghdad (from Scheherazade) by Nikolai Rimsky-Korsakov", "placement": "1st Place", "score": 88.600},
+  {"year": 2015, "showTitle": "Incantation and Ritual", "repertoire": "Incantation and Dance / Rite Of Spring by Igor Stravinsky / Incantation (from Quidam) by Cirque du Soleil / Uninvited by Alanis Morissette / O Magnum Mysterium by Tomás Luis de Victoria / Danse Bacchanale from Samson and Delilah by Camille Saint-Saëns", "placement": "8th Place", "score": 88.330},
+  {"year": 2016, "showTitle": "Unrequited", "repertoire": "Moonlight Sonata by Ludwig van Beethoven / Romeo and Juliet by Pyotr Ilyich Tchaikovsky / Dance of the Knights (from Romeo and Juliet) by Sergei Prokofiev / March to the Scaffold (from Symphonie Fantastique) by Hector Berlioz / Symphony #4, Mov. 1 by Pyotr Ilyich Tchaikovsky / Symphony #7, Allegretto by Ludwig van Beethoven / My Immortal by Evanescence / Romeo and Juliet by Pyotr Ilyich Tchaikovsky", "placement": "7th Place", "score": 88.730},
+  {"year": 2017, "showTitle": "WaterwayS", "repertoire": "Waterways / Equus / Rain / Bridge Over Troubled Water by Simon & Garfunkel / Niagara Falls", "placement": "5th Place", "score": 93.380},
+  {"year": 2018, "showTitle": "cONvErgence", "repertoire": "Asphalt Cocktail by John Mackey / Say Something I'm Giving Up On You by A Great Big World / Firebird Suite by Igor Stravinsky", "placement": "7th Place", "score": 91.738},
+  {"year": 2019, "showTitle": "007 - Becoming Bond", "repertoire": "You Know My Name (from Casino Royale) by Chris Cornell / Welcome To Cuba (from Die Another Day) by David Arnold / Skyfall by Adele / Live and Let Die by Paul McCartney / Goldeneye by Tina Turner", "placement": "4th Place", "score": 91.950},
+  {"year": 2021, "showTitle": "Brave New World", "repertoire": "New World Symphony by Antonín Dvořák / Canon in D by Johann Pachelbel / Rise Up by Andra Day / Alone by Heart / Amazing Grace by John Newton / Ninth Symphony (Ode to Joy) by Ludwig van Beethoven", "placement": "6th Place", "score": 85.600},
+  {"year": 2022, "showTitle": "Heavy Metal", "repertoire": "The Iron Foundry by Alexander Mosolov / Gates of Gold / Metallica Medley by Metallica", "placement": "4th Place", "score": 90.800},
+  {"year": 2023, "showTitle": "Invasion", "repertoire": "Repertoire not available", "placement": "2nd Place", "score": 89.150},
+  {"year": 2024, "showTitle": "Aurora, Into the Night Sky", "repertoire": "Our New Day Begun / Interstellar by Hans Zimmer / Moonlight Sonata by Ludwig van Beethoven / Stairway to Heaven by Led Zeppelin / Blinding Lights by The Weeknd / Mars (from The Planets) by Gustav Holst / Jupiter (from The Planets) by Gustav Holst / Airglow", "placement": "2nd Place", "score": 86.775},
+  {"year": 2025, "showTitle": "Isle of the Dead", "repertoire": "Blood Red Roses (Traditional) / La Noche de las Mayas by Silvestre Revueltas / Danza de los Duendes / Sleep / The Ghost / The Ghost of You by My Chemical Romance", "placement": "7th Place", "score": 87.475}
+]
+}

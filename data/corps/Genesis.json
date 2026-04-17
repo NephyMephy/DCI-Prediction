@@ -1,0 +1,45 @@
+{
+ "location": [
+   {
+     "city": "Rio Grande Valley",
+     "state": "TX",
+     "year": "2009"
+   },
+   {
+     "city": "Edinburg",
+     "state": "Texas", 
+     "year": "2009-2014"
+   },
+   {
+     "city": "Austin",
+     "state": "TX",
+     "year": "2014-Present"
+   }
+ ],
+ "formerNames": [],
+ "championships": [],
+ "captionAwards": [],
+ "website": "www.genesisdbc.org",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "2010-2016", "className": "Open Class"},
+   {"circuit": "DCI", "years": "2017-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 2010, "showTitle": "One Night in the Valley", "repertoire": "Quién Sabe (Who Knows) & La Suerte de los Tontos (from Cuban Fire!) by Johnny Richards / Autumn Leaves by Joseph Kosma & Jacques Prévert, adapted by Johnny Mercer / Mambo Inn by Mario Bauzá, Bobby Woodlen & Grace Sampson / 23 Degrees North, 82 Degrees West by Dee Barton & William Joseph Russo / Malagueña by Ernesto Lecuona", "placement": "9th Place*", "score": 84.000},
+   {"year": 2011, "showTitle": "Big Top After Dark", "repertoire": "Scenes of a Psychotic Circus by Key Poulan / Send in the Clowns (from A Little Night Music) by Stephen Sondheim", "placement": "30th Place", "score": 86.850},
+   {"year": 2012, "showTitle": "Epic", "repertoire": "Strength of 1,000 Men by Thomas J. Bergersen / Someone Like You by Adele Adkins & Dan Wilson / Original Music by Edward Gobbel / United We Stand, Divided We Fall by Thomas J. Bergersen", "placement": "29th Place", "score": 85.500},
+   {"year": 2013, "showTitle": "mOZaic", "repertoire": "Over the Rainbow, We're Off to See the Wizard, If I Only Had a Brain & Ding Dong! The Witch Is Dead! (all from The Wizard of Oz) by E.Y. Harburg & Harold Arlen / Ease on Down the Road (from The Wiz) by Charlie Smalls / For Good (from Wicked) by Stephen Schwartz / Dark Side of the Moon by Pink Floyd / Riders on the Storm by John Densmore, Robby Krieger, Ray Manzarek & Jim Morrison (The Doors)", "placement": "23rd Place", "score": 91.550},
+   {"year": 2014, "showTitle": "Art of Darkness", "repertoire": "Strength of 1,000 Men & United We Stand, Divided We Fall by Thomas J. Bergersen / Lux Aeterna (from Requiem for a Dream) by Clint Mansell / Mad World by Roland Orzabal / Original Music by Edward Gobbel", "placement": "23rd Place", "score": 77.900},
+   {"year": 2015, "showTitle": "Phantom Revisited", "repertoire": "The Music of the Night, All I Ask of You, Masquerade, Think of Me, Angel of Music & Wishing You Were Somehow Here Again All from The Phantom of the Opera by Andrew Lloyd Webber", "placement": "22nd Place", "score": 75.750},
+   {"year": 2016, "showTitle": "Hell Hath No Fury", "repertoire": "Romeo and Juliet Suite No. 2, Op. 64 by Sergei Prokofiev / Love Theme (from Romeo and Juliet) by Nino Rota / Uninvited by Alanis Morissette / My Heart is Broken by Amy Lee, Terry Balsamo, Tim McCord, Will Hunt & Zach Williams (Evanescence) / Dies Irae (from Requiem) by Giuseppe Verdi / Dance of Vengeance (from Medea) by Samuel Barber", "placement": "23rd Place", "score": 75.250},
+   {"year": 2017, "showTitle": "The Other Side of Now", "repertoire": "Hide and Seek by Imogen Heap / Blue Shades by Frank Ticheli / Master of Puppets by Cliff Burton, Kirk Hammett, James Hetfield & Lars Ulrich (Metallica) / Land of Confusion by Tony Banks, Phil Collins & Mike Rutherford (Genesis) / Both Sides Now by Joni Mitchell / Pure Imagination (from Willy Wonka & the Chocolate Factory) by Leslie Bricusse & Anthony Newley / La Habanera (from Carmen) by Georges Bizet", "placement": "23rd Place", "score": 76.213},
+   {"year": 2018, "showTitle": "RetroVertigo", "repertoire": "The Day Begins by Peter Knight & Graeme Edge / The Rhythm of the Heat by Peter Gabriel / Retrovertigo by Trevor Dunn / None of Them Knew They Were Robots by Trey Spruance / Inside Straight by John Zorn / Enter Sandman by Kirk Hammett, James Hetfield & Lars Ulrich (Metallica) / Hope by Jonathan Elias / Que Sera, Sera by Jay Livingston & Ray Evans", "placement": "24th Place", "score": 74.475},
+   {"year": 2019, "showTitle": "From the Ground Up", "repertoire": "Organic Forest & Bulldozers and the Height of Industry by Key Poulan, Dave Marvin, Dan Bryan & Shawn Glyde / The Sound of War by Susanne Sundfør / The Corinthian Song by V. Michael McKay / Original Music by Key Poulan, Dave Marvil, Dan Bryan & Shawn Glyde", "placement": "20th Place", "score": 78.725},
+   {"year": 2021, "showTitle": "There's No Place Like Home", "repertoire": "Kansas, The Tornado, Landing in Oz, Yellow Bricks, Poppies & Approaching the Emerald City by Key Poulan, Shawn Glyde, Mike Huestis & Dan Bryan / Power by Kanye West / The Wicked Witch and the Dark Castle by Shawn Glyde, Mike Huestis & Dan Bryan / Over the Rainbow (from The Wizard of Oz) by Harold Arlen & E.Y. Harburg", "placement": "No scored competitions", "score": null},
+   {"year": 2022, "showTitle": "Dorothy", "repertoire": "Over the Rainbow (from The Wizard of Oz) by E.Y. Harburg & Harold Arlen / Goodbye Yellow Brick Road by Elton John & Bernie Taupin / Songs from the Wood from Ian Anderson / Ballad of Heroes by Benjamin Britten", "placement": "21st Place", "score": 78.813},
+   {"year": 2023, "showTitle": "Symbio.sys", "repertoire": "The Firebird Suite by Igor Stravinsky / Firebird Suite by Isao Tomita / Hide and Seek by Imogen Heap / Asphalt Cocktail by John Mackey / Original Music by Key Poulan & Mike Huestis", "placement": "21st Place", "score": 78.775},
+   {"year": 2024, "showTitle": "Signal", "repertoire": "Arrival by The Alchemist (musician) / Alfonso Muskedunder by Todd Terje / Waltz for Sweatpants by Cody Fry / Ka Bohaleng/On the Sharp Side by Abel Selaocoe / Waloyo Yamoni by Christopher Tin", "placement": "22nd Place", "score": 77.500},
+   {"year": 2025, "showTitle": "Kaleidoscope Heart", "repertoire": "Kaleidoscope Heart by Sara Bareilles / My Favorite Things (from The Sound of Music) by Rodgers and Hammerstein / Kaleidoscope by Chappell Roan / 7 Rings by Ariana Grande / Pure Imagination (from Willy Wonka & the Chocolate Factory) by Leslie Bricusse", "placement": "22nd Place", "score": 77.700}
+ ]
+}

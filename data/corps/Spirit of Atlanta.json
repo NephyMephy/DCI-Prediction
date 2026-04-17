@@ -1,0 +1,89 @@
+{
+ "location": [
+   {
+     "city": "Atlanta",
+     "state": "GA", 
+     "year": "1976-2000"
+   },
+   {
+     "city": "Jacksonville",
+     "state": "AL", 
+     "year": "2000-2010"
+   },
+   {
+     "city": "Atlanta",
+     "state": "GA", 
+     "year": "2010-2021"
+   },
+   {
+     "city": "Atlanta",
+     "state": "GA", 
+     "year": "2023-Present"
+   }
+ ],
+ "formerNames": [
+   "Spirit from Jacksonville State University"
+ ],
+ "championships": [],
+ "captionAwards": [
+   {
+     "caption": "Color Guard Award",
+     "years": [1985, 1987]
+   }
+ ],
+ "website": "",
+ "currentClass": "DCI World Class",
+ "historicClasses": [
+   {"circuit": "DCI", "years": "1977-1991", "className": "Open Class"},
+   {"circuit": "DCI", "years": "1992-2007", "className": "Division I"},
+   {"circuit": "DCI", "years": "2008-present", "className": "World Class"}
+ ],
+ "shows": [
+   {"year": 1977, "showTitle": "", "repertoire": "Carnival Overture by Antonín Dvořák / Music by John Miles / Woman In the Moon by Kenny Ascher & Paul Williams / Love the Feeling by Chuck Mangione", "placement": "23rd Place", "score": 76.350},
+   {"year": 1978, "showTitle": "", "repertoire": "Walk Him Up the Stairs (from Purlie) by Gary Geld & Peter Udell / (Your Love Keeps Lifting Me) Higher and Higher by Gary Jackson, Raynard Miner & Carl Smith / Geodesic Dances by Wendy Carlos / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë", "placement": "6th Place", "score": 86.500},
+   {"year": 1979, "showTitle": "", "repertoire": "Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell / Nutville by Horace Silver / Geodesic Dances by Wendy Carlos / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë", "placement": "4th Place", "score": 89.900},
+   {"year": 1980, "showTitle": "", "repertoire": "Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell / Ol' Man River (from Show Boat) by Jerome Kern & Oscar Hammerstein II / The Devil Went Down to Georgia by Vassar Clements, Tom Crain, Charlie Daniels, \"Taz\" DiGregorio, Fred Edwards, Charles Hayward & James W. Marshall / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë", "placement": "4th Place", "score": 89.800},
+   {"year": 1981, "showTitle": "", "repertoire": "Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell / Ol' Man River (from Show Boat) by Jerome Kern & Oscar Hammerstein II / The Devil Went Down to Georgia by Vassar Clements, Tom Crain, Charlie Daniels, \"Taz\" DiGregorio, Fred Edwards, Charles Hayward & James W. Marshall / You Are the Sunshine of My Life by Stevie Wonder / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë", "placement": "9th Place", "score": 83.850},
+   {"year": 1982, "showTitle": "", "repertoire": "You are My Sunshine by Jimmie Davis & Charles Mitchell / Oh Happy Day (from Li'l Abner) by Gene De Paul & Johnny Mercer / You Are the Sunshine of My Life by Stevie Wonder / Blue Rondo à la Turk by Dave Brubeck / We Are the Reason by David Meece", "placement": "12th Place", "score": 81.650},
+   {"year": 1983, "showTitle": "", "repertoire": "Los Hermanos De Bop by Mark Taylor / Blues in the Night by Harold Arlen & Johnny Mercer / No One Together by Kerry Livgren / We Are the Reason by David Meece", "placement": "7th Place", "score": 83.600},
+   {"year": 1984, "showTitle": "Porgy and Bess Overture", "repertoire": "There's a Boat Dat's Leavin' Soon for New York & It Ain't Necessarily So (from Porgy and Bess) by George Gershwin / Blues in the Night by Harold Arlen & Johnny Mercer / No One Together by Kerry Livgren / I Loves You Porgy & Bess, You Is My Woman Now (from Porgy and Bess) by George Gershwin", "placement": "6th Place", "score": 93.100},
+   {"year": 1985, "showTitle": "", "repertoire": "Piano Concerto in F by George Gershwin", "placement": "7th Place", "score": 91.000},
+   {"year": 1986, "showTitle": "", "repertoire": "Dixie by Daniel Decatur Emmett / That Cat is High by J. Mayo Williams / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / High on a Hill by Kerry Livgren / Precious Lord, Take My Hand by George Nelson Allen & Thomas A. Dorsey / Maybe God Is Tryin' To Tell You Somethin' (from The Color Purple) by Andraé Crouch & Quincy Jones", "placement": "6th Place", "score": 94.100},
+   {"year": 1987, "showTitle": "", "repertoire": "Are You From Dixie by George L. Cobb & Jack Yellen / Southern Medley by Daniel Decatur Emmett / Old Folks at Home by Stephen Foster / When the Saints Go Marching In by Virgil Oliver Stamps & Luther G. Presley / Basin Street Blues by Spencer Williams / Amazing Grace by William Walker & John Newton", "placement": "10th Place", "score": 87.600},
+   {"year": 1988, "showTitle": "Petrouchka", "repertoire": "Petrouchka by Igor Stravinsky", "placement": "9th Place", "score": 89.300},
+   {"year": 1989, "showTitle": "", "repertoire": "Interstellar Suite by Amin Bhatia", "placement": "14th Place", "score": 82.200},
+   {"year": 1990, "showTitle": "", "repertoire": "Selections from Gone with the Wind by Max Steiner / Motherless Child Blues by Robert \"Barbecue Bob\" Hicks / African Drum Solo (from The Color Purple) by Quincy Jones / Precious Lord, Take My Hand by George Nelson Allen & Thomas A. Dorsey / Maybe God Is Tryin' to Tell You Somethin' (from The Color Purple) by Andraé Crouch & Quincy Jones", "placement": "11th Place", "score": 83.400},
+   {"year": 1991, "showTitle": "", "repertoire": "Call to Arms (from Glory) by James Horner / Variations on Dixie by Morton Gould / Antietam & Glory (from Glory) by James Horner / American Salute by Morton Gould / Closing Credits (from Glory) by James Horner", "placement": "15th Place", "score": 82.500},
+   {"year": 1992, "showTitle": "Songs of the New South", "repertoire": "Ol' Man River & Can't Help Lovin' Dat Man (from Show Boat) by Jerome Kern & Oscar Hammerstein II / Miss Otis Regrets by Cole Porter / For the Beauty of the Earth by Folliott Sandford Pierpoint", "placement": "16th Place", "score": 78.800},
+   {"year": 1993, "showTitle": "A Soulful Celebration", "repertoire": "Why do the Nations so Furiously Rage? by George Frederick Handel / David and Goliath (Traditional) / Do Not Pass Me By by William H. Doane & Frances J. Crosby / So Much 2 Say by Cedric Dent and Mervyn Warren / Let the Words (Traditional) / Better Watch Your Behavior by Gary Hines", "placement": "17th Place", "score": 77.900},
+   {"year": 1995, "showTitle": "All On a Southern Afternoon", "repertoire": "Ghost Train & XMas in Hooverville (from Fried Green Tomatoes) by Thomas Newman / Didn't it Rain? (Traditional) / Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell", "placement": "20th Place", "score": 72.100},
+   {"year": 1996, "showTitle": "By George... It's Gershwin", "repertoire": "Rhapsody in Blue by George Gershwin", "placement": "23rd Place", "score": 68.000},
+   {"year": 1997, "showTitle": "Southern Jazz: Spirit Style", "repertoire": "Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell / Ol' Man River (from Show Boat) by Jerome Kern & Oscar Hammerstein II / Amazing Grace by William Walker & John Newton / Walk Him Up the Stairs (from Purlie) by Gary Geld & Peter Udell / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë", "placement": "17th Place", "score": 76.500},
+   {"year": 1998, "showTitle": "", "repertoire": "My Friend (from The Life) by Cy Coleman & Ira Gasman / Swanee River by Stephen Collins Foster / Precious Lord, Take My Hand by George Nelson Allen & Thomas A. Dorsey / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / Maybe God Is Tryin' to Tell You Somethin' (from The Color Purple) by Andraé Crouch & Quincy Jones", "placement": "14th Place", "score": 83.100},
+   {"year": 1999, "showTitle": "Jump, Jive, Jazz and Wail", "repertoire": "Since I Don't Have You by Jackie Taylor, James Beaumont, Janet Vogel, Joseph Rock, Joe Verscharen, Lennie Martin & Wally Lester / Nutville by Horace Silver / Hollywood Nocturne by Brian Setzer / Jump, Jive an' Wail by Louie Prima", "placement": "16th Place", "score": 76.900},
+   {"year": 2000, "showTitle": "Southern Harmonies... Music For the New South", "repertoire": "Jubilee & Movement 5 (from Spiritual) by Morton Gould / Wonderous Love (from Southern Harmony) by Donald Grantham / The Glory and The Grandeur by Russell Peck", "placement": "15th Place", "score": 80.650},
+   {"year": 2001, "showTitle": "Ghost Train", "repertoire": "The Ride, At the Station & The Motive Revolution (The Ghost Train Triptych) by Eric Whitacre", "placement": "13th Place", "score": 84.050},
+   {"year": 2002, "showTitle": "Darkness Into Light", "repertoire": "Symphonia Resurrectus (from Easter Symphony) by David Holsinger", "placement": "10th Place", "score": 85.450},
+   {"year": 2003, "showTitle": "TIME", "repertoire": "Time After Time by Sammy Cahn & Jule Styne / Time in a Bottle by Jim Croce / Auld Lang Syne by Robert Burns / Somewhere in Time by John Barry / Whirr, Whirr, Whirr by Ralph Hultgren / October by Eric Whitacre / \"Let It Be Me\" by Gilbert Bécaud, Mann Curtis & Pierre Delanoë / Nutville by Horace Silver / No Jive by Bob Mintzer / Appalachian Morning by Paul Halley", "placement": "12th Place", "score": 84.400},
+   {"year": 2004, "showTitle": "The Architecture of Life", "repertoire": "Mindscape by Richard Saucedo / Dreamscape: Sonoran Desert Holiday by Ron Nelson / Soundscape (Original) / Urbanscape: On the Town by Leonard Bernstein / Urbanscape: Bizarro by Michael Daugherty", "placement": "13th Place", "score": 86.300},
+   {"year": 2005, "showTitle": "The Spirit of Broadway", "repertoire": "Give My Regards to Broadway (from Yankee Doodle Dandy) by George M. Cohan / New York, New York (from On the Town) by Leonard Bernstein / On Broadway by Barry Mann, Cynthia Weil, Jerry Leiber & Mike Stoller / They're Playing Our Song by Marvin Hamlisch & Carole Bayer Sager / Entre Act & Not While I'm Around (from Sweeney Todd) by Stephen Sondheim / Pie Jesu (from Requiem) by Andrew Lloyd Webber / Luck Be a Lady (from Guys and Dolls) by Frank Loesser / No One Mourns the Wicked & Defying Gravity (from Wicked) by Stephen Schwartz", "placement": "12th Place", "score": 86.075},
+   {"year": 2006, "showTitle": "Old, New, Borrowed, and Blue", "repertoire": "Old Man River (from Show Boat) by Jerome Kern & Oscar Hammerstein II / That Old Black Magic by Harold Arlen & Johnny Mercer / The Notebook by Aaron Zigman / Waltz of the Mushroom Hunters by Greg Hopkins / Blues in the Night by Harold Arlen & Johnny Mercer / Blue Shades by Frank Ticheli", "placement": "12th Place", "score": 84.825},
+   {"year": 2007, "showTitle": "Genesis", "repertoire": "Fluttering Maple Leaves by Jun Nagao / Hide and Seek by Imogen Heap / New Century Dawn by David Gillingham", "placement": "12th Place", "score": 84.500},
+   {"year": 2008, "showTitle": "Per-if-4-ry", "repertoire": "Equus by Eric Whitacre / Corynorhinus & Myotis (from Batman Begins) by James Newton Howard & Hans Zimmer / The Sacrifice & The Heart Asks Pleasure First (from The Piano) by Michael Nyman", "placement": "15th Place", "score": 83.175},
+   {"year": 2009, "showTitle": "Live... In Concert!", "repertoire": "Song for America, Carry On Wayward Son & Dust In The Wind by Kerry Livgren / Journey from Mariabronn by Kerry Livgren & Steve Walsh", "placement": "17th Place", "score": 80.450},
+   {"year": 2010, "showTitle": "Forging an Icon", "repertoire": "Piano Concerto No. 1 by Keith Emerson / Symphony No. 5 in B-Flat Major by Sergei Prokofiev / Prelude (from Psycho) by Bernard Herrmann / Brooklyn Bridge by Michael Daugherty / Serenada Schizophrana by Danny Elfman", "placement": "16th Place", "score": 81.450},
+   {"year": 2011, "showTitle": "ATL Confidential: A Tribute to Film Noir", "repertoire": "Death at the Olympic (from The Black Dahlia) by Mark Isham / Love Theme (from Chinatown) by Jerry Goldsmith / Harlem Nocturne by Earle Hagen and Dick Rogers / Prelude (from On Dangerous Ground) by Bernard Herrmann", "placement": "12th Place", "score": 85.350},
+   {"year": 2012, "showTitle": "Sin City", "repertoire": "Music from Bullitt by Lalo Schifrin / Luck Be A Lady (from Guys and Dolls) by Frank Loesser / Harvest Concerto for Trombone by John Mackey / Poker Face by Stefani Germanotta (Lady Gaga) & Nadir Khayat / Music from Mr. & Mrs. Smith by John Powell", "placement": "11th Place", "score": 84.400},
+   {"year": 2013, "showTitle": "Speakeasy", "repertoire": "Concerto in F by George Gershwin / Crazy World by Henry Mancini / Overture (from Chicago) by John Kander / Solace by Scott Joplin / Songs for Simon by John Psathas / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / Symphony No. 1 by Paul Creston", "placement": "11th Place", "score": 86.400},
+   {"year": 2014, "showTitle": "Magnolia", "repertoire": "Down to the River to Pray (Traditional) / Promised Land (from Porgy and Bess) by George Gershwin / Willow Weep for Me by Ann Ronell / Jubal Step (from All Rise) by Wynton Marsalis / I Need Thee Every Hour by Annie S. Hawks & Robert Lowry", "placement": "17th Place", "score": 81.550},
+   {"year": 2015, "showTitle": "Out of the Ashes", "repertoire": "Tara's Theme (from Gone with the Wind) by Max Steiner / Southern Harmony by Donald Grantham / Full Pull & Cage Match (from Music from the Redneck Songbook II) by Scott McAllister / Wild Nights (from Harmonium) by John Adams / Original Music by William Pitts, Ben Pyles & Greg Tsalikis", "placement": "18th Place", "score": 78.125},
+   {"year": 2016, "showTitle": "Georgia", "repertoire": "Rusty Air in Carolina by Mason Bates / Georgia by Thomas Calloway (Cee Lo Green) & Brian Burton (Danger Mouse) / Can't Help Falling in Love by Hugo Peretti, Luigi Creatore & George David Weiss / Sweet Georgia Brown by Ben Bernie, Maceo Pinkard & Kenneth Casey / Georgia on My Mind by Hoagy Carmichael & Stuart Gorrell", "placement": "21st Place", "score": 76.675},
+   {"year": 2017, "showTitle": "Crossroads: We Are Here", "repertoire": "Where Am I Going? by Gino Vannelli / Wine–Dark Sea (Mvt. I – Hubris) by John Mackey / Eric's Song by Vienna Teng / Liquid Dance by A.R. Rahman / Shofukan (We Like It Here) by Michael League (Snarky Puppy)", "placement": "18th Place", "score": 80.075},
+   {"year": 2018, "showTitle": "Knock", "repertoire": "LIT by Timothy Henson, Scott LePage, Clay Gober & Clay Aeschliman (Polyphia) & Nick Sampson / Freak Flag by Casanova Harry, Eddie Francis & O.G. Spezzano (Here Come the Mummies) / Hurt by Trent Reznor / Rattletrap by Bill Evans / Break on Through (To the Other Side) by Jim Morrison, Ray Manzarek, John Densmore & Robby Krieger (The Doors)", "placement": "13th Place", "score": 85.588},
+   {"year": 2019, "showTitle": "Neon Underground", "repertoire": "Intro by Matt Filosa, John Cypert, & Chris Moore / Krump by Scott McAllister / You and Me by Howard Lawrence, Guy Lawrence (Disclosure), James Napier & Eliza Caird (Eliza Doolittle) / Attraction by Emmanuel Séjourné / Color Wheel by Joey Izzo, Adam Rafowitz, Adam Bentley, Joe Calderone & Richie Martinez (Arch Echo)", "placement": "13th Place", "score": 85.587},
+   {"year": 2021, "showTitle": "Bottle Tree", "repertoire": "Proverb by Steve Reich / Lilac Wine by Jeff Buckley / Mother Earth by David Maslanka / Djinn by John Psathas / Selections from WALL-E / Remember Me by Thomas Bergersen", "placement": "No scored competitions", "score": null},
+   {"year": 2023, "showTitle": "Up Down and All Around", "repertoire": "Route 12 by Thomas Newman / What Goes Up by Alan Parsons / Metroliner by Eric Andrew Hirsch / Stuff We Did by Randy Newman / My Human Heart by Coldplay & Jacob Collier / Promise by Thomas Bergersen", "placement": "15th Place", "score": 83.625},
+   {"year": 2024, "showTitle": "Creatures", "repertoire": "Reborn (from Hereditary) by Colin Stetson / Smoke on the Water by Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord & Ian Paice / Frolic (from Rabbit and Rogue) by Danny Elfman / Feste Romane by Ottorino Respighi / A Close Friend (from Fantastic Beasts and Where to Find Them) by James Newton Howard / Night Creature by Duke Ellington / What Could Have Been (from Arcane: League of Legends) by Alexander Miller & Alexander Seaver", "placement": "16th Place", "score": 83.675},
+   {"year": 2025, "showTitle": "Rocket", "repertoire": "Leonardo Dreams of His Flying Machine by Eric Whitacre / Rocket by Def Leppard / Hyperjump (from WALL-E) by Thomas Newman / I Am the Antichrist to You by Kishi Bashi / Whatcha Want by Lawrence / Intoxicated by Martin Solveig / Rocket Man by Elton John / Also sprach Zarathustra by Richard Strauss", "placement": "13th Place", "score": 86.800}
+ ]
+}

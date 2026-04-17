@@ -1,0 +1,22 @@
+{
+  "circuit": "VFW",
+  "circuitName": "Veterans of Foreign Wars",
+  "records": [
+    {
+      "category": "Records Data Being Collected and Cleaned",
+      "holder": "Data Collection in Progress",
+      "detail": "Historical records are being researched and verified",
+      "year": "Coming Soon",
+      "location": "Various Locations"
+    }
+  ],
+  "topScores": [
+    {
+      "rank": 1,
+      "score": "Data Collection in Progress",
+      "corps": "Historical scores being verified",
+      "year": "Coming Soon",
+      "location": "Various Locations"
+    }
+  ]
+}

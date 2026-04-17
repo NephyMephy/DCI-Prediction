@@ -1,0 +1,176 @@
+{
+  "circuit": "DCI",
+  "circuitName": "Drum Corps International",
+  "records": [
+    {
+      "category": "Highest Score Ever",
+      "holder": "Blue Devils",
+      "detail": "99.65",
+      "year": "2014",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "category": "Longest Win Streak",
+      "holder": "Cadets",
+      "detail": "64 consecutive wins",
+      "year": "1983-1987",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Longest Championship Streak",
+      "holder": "Cavaliers & Cadets",
+      "detail": "3 consecutive titles",
+      "year": "Cavaliers (2000-2002) & Cadets (1983-1985)",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Best Score by Finals Slot",
+      "holder": "TBD",
+      "detail": "Highest scores by placement position",
+      "year": "1972-2025",
+      "location": "Various Finals"
+    },
+    {
+      "category": "Longest Finalist Streak",
+      "holder": "Blue Devils",
+      "detail": "42 consecutive finals appearances",
+      "year": "1975-2016",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Longest Title Streak",
+      "holder": "Cavaliers & Cadets",
+      "detail": "3 consecutive titles",
+      "year": "Cavaliers (2000-2002) & Cadets (1983-1985)",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Longest Medal Streak",
+      "holder": "Blue Devils",
+      "detail": "16 consecutive top-3 finishes",
+      "year": "2006-2024",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Lowest Score by 1st Place",
+      "holder": "Blue Devils",
+      "detail": "87.10",
+      "year": "1976",
+      "location": "Philadelphia, PA"
+    },
+    {
+      "category": "Most Consecutive Caption Wins",
+      "holder": "Phantom Regiment",
+      "detail": "12 consecutive Visual Performance wins",
+      "year": "1996-2008",
+      "location": "Various Locations"
+    },
+    {
+      "category": "Lowest Placement to Win Caption",
+      "holder": "Spirit of JSU",
+      "detail": "22nd place - Visual Performance",
+      "year": "2019",
+      "location": "Indianapolis, IN"
+    }
+  ],
+  "topScores": [
+    {
+      "rank": 1,
+      "score": "99.650",
+      "corps": "Blue Devils",
+      "year": "2014",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 2,
+      "score": "99.150",
+      "corps": "Cadets",
+      "year": "2005",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 2,
+      "score": "99.150",
+      "corps": "Cavaliers",
+      "year": "2002",
+      "location": "Madison, WI"
+    },
+    {
+      "rank": 3,
+      "score": "99.050",
+      "corps": "Blue Devils",
+      "year": "2009",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 4,
+      "score": "98.975",
+      "corps": "Blue Devils",
+      "year": "2023",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 5,
+      "score": "98.900",
+      "corps": "Blue Devils",
+      "year": "2010",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 6,
+      "score": "98.800",
+      "corps": "Blue Devils",
+      "year": "2003",
+      "location": "Orlando, FL"
+    },
+    {
+      "rank": 6,
+      "score": "98.800",
+      "corps": "Vanguard",
+      "year": "1989",
+      "location": "Kansas City, MO"
+    },
+    {
+      "rank": 7,
+      "score": "98.750",
+      "corps": "Blue Devils",
+      "year": "2022",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 7,
+      "score": "98.750",
+      "corps": "Bluecoats",
+      "year": "2024",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 8,
+      "score": "98.700",
+      "corps": "Blue Devils",
+      "year": "2012",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 8,
+      "score": "98.700",
+      "corps": "Cavaliers",
+      "year": "2004",
+      "location": "Denver, CO"
+    },
+    {
+      "rank": 9,
+      "score": "98.625",
+      "corps": "Vanguard",
+      "year": "2018",
+      "location": "Indianapolis, IN"
+    },
+    {
+      "rank": 10,
+      "score": "98.538",
+      "corps": "Blue Devils",
+      "year": "2017",
+      "location": "Indianapolis, IN"
+    }
+  ]
+}
