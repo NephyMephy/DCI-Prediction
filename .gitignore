@@ -1,0 +1,30 @@
+# Client/local-specific Python environments
+.venv/
+.venv311/
+
+# Client/local editor settings
+.vscode/
+
+# Python cache artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local output artifacts
+outputs/
+
+# Local logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files (macOS)
+.DS_Store
+
+# Common client-specific folder naming
+client*/
+clients*/
